@@ -27,12 +27,14 @@ The scraped data are written to csv's in subfolders, labeled by year, of the `da
 
 ### Cleaning
 
-Note that dataframe entries are given as _-_ when "not applicable" and _?_ when unknown. Entries under the `Fee` label can include:
+Note that dataframe entries are given as _"-"_ when "not applicable" and _"?"_ when unknown. Entries under the `Fee` label can include:
 
 * _Loan_
 * _Loan fee:_ + Amount
 * _End of loan_ + Date
 * _Free transfer_
+
+An example cleaning with R is included in `src`.
 
 ## Source
 
