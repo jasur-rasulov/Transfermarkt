@@ -6,7 +6,8 @@
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load("dplyr", "readr", "stringi")
 
-#' Cleans the input dataframe. Introduces a boolean label for loan status.
+#' Cleans the input dataframe. Introduces a boolean label for if on loan and
+#' character label for loan status/description.
 #'
 #' @param df The dataframe to be tidied.
 #'
@@ -15,33 +16,41 @@ pacman::p_load("dplyr", "readr", "stringi")
 tidy_transfers <- function(df) {
     # Helper function to convert currency values from characters to numerics
     value_as_numeric <- function(val) {
-        if (val == "-" || val == "?") {
-            x <- NA_real_
+        if (val == "-" || val == "?" || is.na(val)) {
+            val <- NA_real_
         } else if (stri_sub(val, -1, -1) == "m") {
-            x <- as.numeric(stri_sub(val, 2, -2)) * 1000000
+            val <- as.numeric(stri_sub(val, 2, -2)) * 1000000
         } else if (stri_sub(val, -1, -1) == "k") {
-            x <- as.numeric(stri_sub(val, 2, -2)) * 1000
+            val <- as.numeric(stri_sub(val, 2, -2)) * 1000
         } else {
-            x <- as.numeric(stri_sub(val, 2, -1))
+            val <- as.numeric(stri_sub(val, 2, -1))
         }
-        return(x)
+        return(val)
     }
 
     # Helper function to set loan status based on fee
-    format_fees_and_loans <- function(fee, is_loan) {
+    format_fees_and_loans <- function(fee, movement, is_loan, loan_status) {
         if (startsWith(fee, "End of loan")) {
             is_loan <- TRUE
+            loan_status <- if_else(movement == "In",
+                                    "Returning from loan", "End of loan")
             fee <- "$0"
         } else if (startsWith(fee, "Loan fee")) {
             is_loan <- TRUE
+            loan_status <- if_else(movement == "In",
+                                    "Loan in", "Loan out")
             fee <- gsub("Loan fee:", "", fee)
         } else if (fee == "Loan") {
             is_loan <- TRUE
+            loan_status <- if_else(movement == "In",
+                                    "Loan in", "Loan out")
             fee <- "$0"
         } else if (fee == "Free transfer") {
             fee <- "$0"
         }
-        return(list("fee" = fee, "is_loan" = is_loan))
+        return(list("fee" = fee,
+                    "is_loan" = is_loan,
+                    "loan_status" = loan_status))
     }
 
     # Rename columns, format league and window, initialize loan status
@@ -63,21 +72,27 @@ tidy_transfers <- function(df) {
             league = "League"
         ) %>%
         mutate(
+            season = as.integer(season),
             league = stri_trans_totitle(gsub("-", " ", league)),
-            window = ifelse(window == "s", "Summer", "Winter"),
-            is_loan = FALSE
+            window = if_else(window == "s", "Summer", "Winter"),
+            is_loan = FALSE,
+            loan_status = NA_character_
         )
 
     # Temporary dataframe to hold formatted columns
     tidy_fee_and_loan <- bind_rows(mapply(format_fees_and_loans,
-                                            transfers$fee, transfers$is_loan,
+                                            transfers$fee,
+                                            transfers$movement,
+                                            transfers$is_loan,
+                                            transfers$loan_status,
                                             SIMPLIFY = FALSE))
 
     # Update fee and loan status, convert fee and market value to numerics
     transfers <- transfers %>%
         mutate(
             fee = tidy_fee_and_loan$fee,
-            is_loan = tidy_fee_and_loan$is_loan
+            is_loan = tidy_fee_and_loan$is_loan,
+            loan_status = tidy_fee_and_loan$loan_status
         ) %>%
         mutate(
             market_value = sapply(market_value, value_as_numeric),

@@ -20,6 +20,7 @@ def get_clubs_and_transfers(league_name, league_id, season_id, window):
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
     url = "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window}".format(league_name=league_name, league_id=league_id, season_id=season_id, window=window)
     try:
+        print("Connecting...")
         response = requests.get(url, headers=headers)
         print("Connection successful, status code {}".format(response.status_code))
     except requests.exceptions.RequestException as e:
@@ -132,7 +133,7 @@ def export_csv(df, season_id, league_name):
         league_name (str): File name for the csv.
     """
     file_name = '{}.csv'.format(league_name)
-    path_name = './data/{}'.format(season_id)
+    path_name = '../data/{}'.format(season_id)
     if not os.path.exists(path_name):
         os.mkdir(path_name)
     
@@ -166,7 +167,7 @@ def main():
     league_names = ['premier-league', 'championship']
     league_ids = ['GB1', 'GB2']
     for league_name, league_id in zip(league_names, league_ids):
-        for i in range(1992, 2019):
+        for i in range(1992, 2020):
             league_transfers = []
             season_id = str(i)
             for window in ['s', 'w']:
