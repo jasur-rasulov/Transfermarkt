@@ -1,0 +1,743 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+Manchester City,Rodrigo,23,Spain,Defensive Midfield,DM,£72.00m,Atlético Madrid,Spain,£63.00m,In,2019,s,premier-league
+Manchester City,João Cancelo,25,Portugal,Right-Back,RB,£49.50m,Juventus FC,Italy,£58.50m,In,2019,s,premier-league
+Manchester City,Pedro Porro,19,Spain,Right-Back,RB,£9.00m,Girona FC,Spain,£10.80m,In,2019,s,premier-league
+Manchester City,Angeliño,22,Spain,Left-Back,LB,£14.40m,PSV Eindhoven,Netherlands,£10.80m,In,2019,s,premier-league
+Manchester City,Zack Steffen,24,United States,Goalkeeper,GK,£4.50m,Columbus Crew SC,United States,£6.14m,In,2019,s,premier-league
+Manchester City,Ryotaro Meshino,21,Japan,Attacking Midfield,AM,£450k,Gamba Osaka,Japan,£900k,In,2019,s,premier-league
+Manchester City,Scott Carson,33,England,Goalkeeper,GK,£1.80m,Derby County,England,Loan,In,2019,s,premier-league
+Manchester City,Jack Harrison,23,England,Left Winger,LW,£4.68m,Leeds United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester City,Patrick Roberts,23,England,Right Winger,RW,£2.52m,Middlesbrough FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester City,Tosin Adarabioyo,22,England,Centre-Back,CB,£2.52m,Blackburn Rovers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester City,Ante Palaversa,19,Croatia,Defensive Midfield,DM,£4.50m,HNK Hajduk Split,Croatia,"End of loanJul 2, 2019",In,2019,s,premier-league
+Manchester City,Eric García,18,Spain,Centre-Back,CB,-,Manchester City U23,England,-,In,2019,s,premier-league
+Manchester City,Arijanet Muric,21,Kosovo,Goalkeeper,GK,£1.62m,Nottingham Forest,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester City,Luke Brattan,29,Australia,Defensive Midfield,DM,£450k,Melbourne City FC,Australia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Manu García,21,Spain,Attacking Midfield,AM,£4.50m,FC Toulouse,France,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Anthony Cáceres,26,Australia,Central Midfield,CM,£315k,Sydney FC,Australia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Pablo Marí,25,Spain,Centre-Back,CB,£720k,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Douglas Luiz,21,Brazil,Central Midfield,CM,£2.25m,Girona FC,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Aleix García,22,Spain,Central Midfield,CM,£2.70m,Girona FC,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Patrick Roberts,22,England,Right Winger,RW,£4.50m,Girona FC,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Liverpool FC,Sepp van den Berg,17,Netherlands,Centre-Back,CB,£1.80m,PEC Zwolle,Netherlands,£1.71m,In,2019,s,premier-league
+Liverpool FC,Adrián,32,Spain,Goalkeeper,GK,£3.15m,West Ham United,England,Free transfer,In,2019,s,premier-league
+Liverpool FC,Andy Lonergan,35,England,Goalkeeper,GK,£225k,Middlesbrough FC,England,Free transfer,In,2019,s,premier-league
+Liverpool FC,Loris Karius,26,Germany,Goalkeeper,GK,£2.88m,Besiktas JK,Turkey,"End of loanMay 4, 2020",In,2019,s,premier-league
+Liverpool FC,Harry Wilson,23,Wales,Right Winger,RW,£15.75m,AFC Bournemouth,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Liverpool FC,Caoimhin Kelleher,20,Ireland,Goalkeeper,GK,-,Liverpool FC U23,England,-,In,2019,s,premier-league
+Liverpool FC,Ben Woodburn,20,Wales,Attacking Midfield,AM,£4.05m,Oxford United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Liverpool FC,Sheyi Ojo,22,England,Right Winger,RW,£1.44m,Rangers FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Liverpool FC,Ovie Ejaria,22,England,Central Midfield,CM,£2.88m,Reading FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Liverpool FC,Danny Ings,26,England,Centre-Forward,CF,£13.50m,Southampton FC,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Liverpool FC,Taiwo Awoniyi,21,Nigeria,Centre-Forward,CF,£4.05m,Royal Excel Mouscron ,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Liverpool FC,Sheyi Ojo,22,England,Right Winger,RW,£1.80m,Stade Reims,France,"End of loanJun 30, 2019",In,2019,s,premier-league
+Liverpool FC,Marko Grujic,23,Serbia,Central Midfield,CM,£18.00m,Hertha BSC,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Mateo Kovacic,25,Croatia,Central Midfield,CM,£31.50m,Real Madrid,Spain,£40.50m,In,2019,s,premier-league
+Chelsea FC,Matt Miazga,24,United States,Centre-Back,CB,£1.80m,Reading FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Chelsea FC,Mason Mount,20,England,Attacking Midfield,AM,£10.80m,Chelsea FC U23,England,-,In,2019,s,premier-league
+Chelsea FC,Jamal Blackman,26,England,Goalkeeper,GK,£360k,Bristol Rovers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Chelsea FC,Reece James,19,England,Right-Back,RB,£6.30m,Chelsea FC U23,England,-,In,2019,s,premier-league
+Chelsea FC,Danilo Pantic,22,Serbia,Central Midfield,CM,£2.48m,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Tiemoué Bakayoko,24,France,Defensive Midfield,DM,£31.50m,AC Milan,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Christian Pulisic,20,United States,Left Winger,LW,£54.00m,Borussia Dortmund,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Michy Batshuayi,25,Belgium,Centre-Forward,CF,£27.00m,Crystal Palace,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Eduardo,36,Portugal,Goalkeeper,GK,£675k,Vitesse Arnhem,Netherlands,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Kenneth Omeruo,25,Nigeria,Centre-Back,CB,£4.50m,CD Leganés,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Lucas Piazón,25,Brazil,Left Winger,LW,£1.35m,Chievo Verona,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Kenedy,23,Brazil,Left Midfield,LM,£9.00m,Newcastle United,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Ola Aina,22,Nigeria,Right-Back,RB,£9.00m,Torino FC,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Chelsea FC,Abdul Rahman Baba,24,Ghana,Left-Back,LB,£4.50m,Stade Reims,France,"End of loanJun 30, 2019",In,2019,s,premier-league
+Tottenham Hotspur,Tanguy Ndombélé,22,France,Central Midfield,CM,£58.50m,Olympique Lyon,France,£54.00m,In,2019,s,premier-league
+Tottenham Hotspur,Ryan Sessegnon,19,England,Left Midfield,LM,£31.50m,Fulham FC,England,£24.30m,In,2019,s,premier-league
+Tottenham Hotspur,Giovani Lo Celso,23,Argentina,Central Midfield,CM,£45.00m,Real Betis Balompié,Spain,Loan fee:£14.40m,In,2019,s,premier-league
+Tottenham Hotspur,Jack Clarke,18,England,Right Winger,RW,£5.40m,Leeds United,England,£9.90m,In,2019,s,premier-league
+Tottenham Hotspur,Jack Clarke,19,England,Right Winger,RW,£4.86m,Queens Park Rangers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Tottenham Hotspur,Cameron Carter-Vickers,22,United States,Centre-Back,CB,£1.80m,Luton Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Tottenham Hotspur,Kyle Walker-Peters,23,England,Right-Back,RB,£7.20m,Southampton FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Tottenham Hotspur,Michel Vorm,35,Netherlands,Goalkeeper,GK,£900k,,Without Club,-,In,2019,s,premier-league
+Tottenham Hotspur,Georges-Kevin N'Koudou,24,France,Left Winger,LW,£4.50m,AS Monaco,France,"End of loanJun 30, 2019",In,2019,s,premier-league
+Arsenal FC,Nicolas Pépé,24,Cote d'Ivoire,Right Winger,RW,£58.50m,LOSC Lille,France,£72.00m,In,2019,s,premier-league
+Arsenal FC,William Saliba,18,France,Centre-Back,CB,£10.80m,AS Saint-Étienne,France,£27.00m,In,2019,s,premier-league
+Arsenal FC,Kieran Tierney,22,Scotland,Left-Back,LB,£11.25m,Celtic FC,Scotland,£24.30m,In,2019,s,premier-league
+Arsenal FC,David Luiz,32,Brazil,Centre-Back,CB,£18.00m,Chelsea FC,England,£7.83m,In,2019,s,premier-league
+Arsenal FC,Gabriel Martinelli,18,Brazil,Centre-Forward,CF,-,Ituano Futebol Clube (SP),Brazil,£6.03m,In,2019,s,premier-league
+Arsenal FC,Dani Ceballos,22,Spain,Central Midfield,CM,£27.00m,Real Madrid,Spain,Loan,In,2019,s,premier-league
+Arsenal FC,Reiss Nelson,19,England,Right Winger,RW,£15.30m,Arsenal FC U23,England,-,In,2019,s,premier-league
+Arsenal FC,Bukayo Saka,17,England,Left-Back,LB,-,Arsenal FC U23,England,-,In,2019,s,premier-league
+Arsenal FC,Joe Willock,19,England,Central Midfield,CM,-,Arsenal FC U23,England,-,In,2019,s,premier-league
+Arsenal FC,David Ospina,30,Colombia,Goalkeeper,GK,£3.60m,SSC Napoli,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Arsenal FC,Takuma Asano,24,Japan,Left Winger,LW,£1.35m,Hannover 96,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester United,Harry Maguire,26,England,Centre-Back,CB,£45.00m,Leicester City,England,£78.30m,In,2019,s,premier-league
+Manchester United,Aaron Wan-Bissaka,21,England,Right-Back,RB,£31.50m,Crystal Palace,England,£49.50m,In,2019,s,premier-league
+Manchester United,Daniel James,21,Wales,Left Winger,LW,£10.80m,Swansea City,England,£15.30m,In,2019,s,premier-league
+Manchester United,Joel Pereira,23,Portugal,Goalkeeper,GK,£428k,Heart of Midlothian FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester United,Tahith Chong,19,Netherlands,Right Winger,RW,-,Manchester United U23,England,-,In,2019,s,premier-league
+Manchester United,Mason Greenwood,17,England,Centre-Forward,CF,-,Manchester United U18,England,-,In,2019,s,premier-league
+Manchester United,Cameron Borthwick-Jackson,23,England,Left-Back,LB,£720k,Oldham Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Manchester United,Brandon Williams,18,England,Left-Back,LB,-,Manchester United U18,England,-,In,2019,s,premier-league
+Manchester United,Joel Pereira,23,Portugal,Goalkeeper,GK,£765k,KV Kortrijk,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Raúl Jiménez,28,Mexico,Centre-Forward,CF,£31.50m,SL Benfica,Portugal,£34.20m,In,2019,s,premier-league
+Wolverhampton Wanderers,Patrick Cutrone,21,Italy,Centre-Forward,CF,£25.20m,AC Milan,Italy,£16.20m,In,2019,s,premier-league
+Wolverhampton Wanderers,Pedro Neto,19,Portugal,Second Striker,SS,£2.25m,SS Lazio,Italy,£16.11m,In,2019,s,premier-league
+Wolverhampton Wanderers,Leander Dendoncker,24,Belgium,Defensive Midfield,DM,£16.20m,RSC Anderlecht,Belgium,£12.15m,In,2019,s,premier-league
+Wolverhampton Wanderers,Bruno Jordão,20,Portugal,Central Midfield,CM,£900k,SS Lazio,Italy,£8.01m,In,2019,s,premier-league
+Wolverhampton Wanderers,Renat Dadashov,20,Azerbaijan,Centre-Forward,CF,£203k,Estoril Praia,Portugal,£450k,In,2019,s,premier-league
+Wolverhampton Wanderers,Jesús Vallejo,22,Spain,Centre-Back,CB,£9.00m,Real Madrid,Spain,Loan,In,2019,s,premier-league
+Wolverhampton Wanderers,Will Norris,26,England,Goalkeeper,GK,£225k,Ipswich Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Wolverhampton Wanderers,Luke Matheson,17,England,Right-Back,RB,£810k,Rochdale AFC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Wolverhampton Wanderers,Jordan Graham,25,England,Left Winger,LW,£225k,Gillingham FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Wolverhampton Wanderers,Connor Ronan,22,Ireland,Central Midfield,CM,£405k,Blackpool FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Wolverhampton Wanderers,Ryan Bennett,30,England,Centre-Back,CB,£3.60m,Leicester City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Wolverhampton Wanderers,Roderick Miranda,28,Portugal,Centre-Back,CB,£1.58m,Olympiacos Piraeus,Greece,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Sylvain Deslandes,22,France,Centre-Back,CB,£90k,FC Jumilla,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Jack Ruddy,21,Scotland,Goalkeeper,GK,£90k,UD San Sebastián de los Reyes,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Ming-Yang Yang,23,Switzerland,Central Midfield,CM,£225k,FC Jumilla,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Phil Ofosu-Ayeh,27,Ghana,Right-Back,RB,£270k,Würzburger Kickers,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Rafa Mir,22,Spain,Centre-Forward,CF,£2.70m,UD Las Palmas,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Wolverhampton Wanderers,Michal Zyro,26,Poland,Right Winger,RW,£225k,Pogon Szczecin,Poland,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Alex Iwobi,23,Nigeria,Left Winger,LW,£22.50m,Arsenal FC,England,£27.36m,In,2019,s,premier-league
+Everton FC,Moise Kean,19,Italy,Centre-Forward,CF,£36.00m,Juventus FC,Italy,£24.75m,In,2019,s,premier-league
+Everton FC,André Gomes,25,Portugal,Central Midfield,CM,£25.20m,FC Barcelona,Spain,£22.50m,In,2019,s,premier-league
+Everton FC,Jean-Philippe Gbamin,23,Cote d'Ivoire,Defensive Midfield,DM,£25.20m,1.FSV Mainz 05,Germany,£22.50m,In,2019,s,premier-league
+Everton FC,Fabian Delph,29,England,Central Midfield,CM,£13.50m,Manchester City,England,£8.55m,In,2019,s,premier-league
+Everton FC,Djibril Sidibé,27,France,Right-Back,RB,£13.50m,AS Monaco,France,Loan fee:£2.25m,In,2019,s,premier-league
+Everton FC,Jonas Lössl,30,Denmark,Goalkeeper,GK,£4.50m,Huddersfield Town,England,Free transfer,In,2019,s,premier-league
+Everton FC,Luke Garbutt,27,England,Left-Back,LB,£540k,Ipswich Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Everton FC,Kieran Dowell,22,England,Attacking Midfield,AM,£1.80m,Wigan Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Everton FC,Muhamed Besic,27,Bosnia-Herzegovina,Defensive Midfield,DM,£2.16m,Sheffield United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Everton FC,Matthew Pennington,25,England,Centre-Back,CB,£720k,Hull City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Everton FC,Jonas Lössl,31,Denmark,Goalkeeper,GK,£2.88m,Huddersfield Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Everton FC,Henry Onyekuru,22,Nigeria,Left Winger,LW,£11.70m,Galatasaray SK,Turkey,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Nikola Vlasic,21,Croatia,Attacking Midfield,AM,£18.00m,CSKA Moscow,Russia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Cuco Martina,29,Curacao,Right-Back,RB,£1.35m,Feyenoord Rotterdam,Netherlands,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Kevin Mirallas,31,Belgium,Right Winger,RW,£4.50m,ACF Fiorentina,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Oumar Niasse,29,Senegal,Centre-Forward,CF,£5.40m,Cardiff City,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Shani Tarashaj,24,Switzerland,Second Striker,SS,£450k,Grasshopper Club Zurich,Switzerland,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Sandro Ramírez,23,Spain,Centre-Forward,CF,£3.60m,Real Sociedad,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Everton FC,Yannick Bolasie,30,DR Congo,Left Winger,LW,£9.90m,RSC Anderlecht,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Leicester City,Youri Tielemans,22,Belgium,Central Midfield,CM,£34.20m,AS Monaco,France,£40.50m,In,2019,s,premier-league
+Leicester City,Ayoze Pérez,25,Spain,Second Striker,SS,£18.00m,Newcastle United,England,£30.06m,In,2019,s,premier-league
+Leicester City,Dennis Praet,25,Belgium,Central Midfield,CM,£21.60m,UC Sampdoria,Italy,£18.90m,In,2019,s,premier-league
+Leicester City,James Justin,21,England,Right-Back,RB,-,Luton Town,England,£6.03m,In,2019,s,premier-league
+Leicester City,Callum Hulme,18,England,Midfielder,Midfielder,-,Bury FC,England,Free transfer,In,2019,s,premier-league
+Leicester City,Andy King,31,Wales,Central Midfield,CM,£1.08m,Huddersfield Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Leicester City,Filip Benkovic,22,Croatia,Centre-Back,CB,£6.30m,Bristol City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Leicester City,Islam Slimani,31,Algeria,Centre-Forward,CF,£4.50m,Fenerbahce SK,Turkey,"End of loanJun 30, 2019",In,2019,s,premier-league
+Leicester City,Andy King,30,Wales,Central Midfield,CM,£2.25m,Derby County,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Leicester City,Fousseni Diabaté,23,Mali,Right Winger,RW,£2.70m,Sivasspor,Turkey,"End of loanJun 30, 2019",In,2019,s,premier-league
+Leicester City,Filip Benkovic,21,Croatia,Centre-Back,CB,£9.90m,Celtic FC,Scotland,"End of loanJun 30, 2019",In,2019,s,premier-league
+West Ham United,Sébastien Haller,25,France,Centre-Forward,CF,£36.00m,Eintracht Frankfurt,Germany,£36.00m,In,2019,s,premier-league
+West Ham United,Pablo Fornals,23,Spain,Attacking Midfield,AM,£22.50m,Villarreal CF,Spain,£25.20m,In,2019,s,premier-league
+West Ham United,Albian Ajeti,22,Switzerland,Centre-Forward,CF,£6.30m,FC Basel 1893,Switzerland,£7.83m,In,2019,s,premier-league
+West Ham United,Gonçalo Cardoso,18,Portugal,Centre-Back,CB,£2.25m,Boavista Porto FC,Portugal,£2.70m,In,2019,s,premier-league
+West Ham United,Roberto,33,Spain,Goalkeeper,GK,£1.35m,RCD Espanyol Barcelona,Spain,Free transfer,In,2019,s,premier-league
+West Ham United,David Martin,33,England,Goalkeeper,GK,£225k,Millwall FC,England,Free transfer,In,2019,s,premier-league
+West Ham United,Jordan Hugill,27,England,Centre-Forward,CF,£4.95m,Queens Park Rangers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+West Ham United,Grady Diangana,22,England,Right Winger,RW,£4.05m,West Bromwich Albion,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+West Ham United,Josh Cullen,24,Ireland,Central Midfield,CM,£1.08m,Charlton Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+West Ham United,Reece Oxford,20,England,Centre-Back,CB,£3.60m,FC Augsburg,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+West Ham United,Edimilson Fernandes,23,Switzerland,Central Midfield,CM,£7.20m,ACF Fiorentina,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Ismaïla Sarr,21,Senegal,Right Winger,RW,£27.00m,Stade Rennais FC,France,£27.00m,In,2019,s,premier-league
+Watford FC,Craig Dawson,29,England,Centre-Back,CB,£5.40m,West Bromwich Albion,England,£5.40m,In,2019,s,premier-league
+Watford FC,Tom Dele-Bashiru,19,Nigeria,Central Midfield,CM,£135k,Manchester City U23,England,Free transfer,In,2019,s,premier-league
+Watford FC,Danny Welbeck,28,England,Centre-Forward,CF,£10.80m,Arsenal FC,England,Free transfer,In,2019,s,premier-league
+Watford FC,Sam Dalby,19,England,Centre-Forward,CF,-,Leeds United,England,?,In,2019,s,premier-league
+Watford FC,Ben Wilmot,20,England,Centre-Back,CB,£1.62m,Swansea City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Watford FC,Kaylen Hinds,21,England,Second Striker,SS,£450k,,Without Club,-,In,2019,s,premier-league
+Watford FC,Cucho Hernández,20,Colombia,Centre-Forward,CF,£9.00m,SD Huesca,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Dimitri Foulquier,26,Guadeloupe,Right-Back,RB,£3.15m,Getafe CF,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Filip Stuparevic,18,Serbia,Centre-Forward,CF,£1.08m,FK Vozdovac,Serbia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Obbi Oulare,23,Belgium,Centre-Forward,CF,£1.62m,Standard Liège,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Marvin Zeegelaar,28,Netherlands,Left-Back,LB,£2.25m,Udinese Calcio,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Kwasi Sibo,21,Ghana,Central Midfield,CM,£180k,KF Skënderbeu,Albania,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Dodi Lukebakio,21,Belgium,Right Winger,RW,£16.20m,Fortuna Düsseldorf,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Stefano Okaka,29,Italy,Centre-Forward,CF,£4.50m,Udinese Calcio,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Watford FC,Ben Wilmot,19,England,Centre-Back,CB,£1.35m,Udinese Calcio,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Crystal Palace,James McCarthy,28,Ireland,Central Midfield,CM,£4.50m,Everton FC,England,£2.97m,In,2019,s,premier-league
+Crystal Palace,Jordan Ayew,27,Ghana,Centre-Forward,CF,£7.20m,Swansea City,England,£2.52m,In,2019,s,premier-league
+Crystal Palace,Víctor Camarasa,25,Spain,Central Midfield,CM,£9.00m,Real Betis Balompié,Spain,Loan fee:£1.35m,In,2019,s,premier-league
+Crystal Palace,Stephen Henderson,31,Ireland,Goalkeeper,GK,£450k,Nottingham Forest,England,Free transfer,In,2019,s,premier-league
+Crystal Palace,Gary Cahill,33,England,Centre-Back,CB,£7.20m,Chelsea FC,England,Free transfer,In,2019,s,premier-league
+Crystal Palace,Ryan Inniss,24,England,Centre-Back,CB,£135k,Newport County,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Crystal Palace,Connor Wickham,27,England,Centre-Forward,CF,£1.08m,Sheffield Wednesday,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Crystal Palace,Scott Banks,18,Scotland,Left Midfield,LM,£225k,Alloa Athletic FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Crystal Palace,Joe Tupper,22,England,Goalkeeper,GK,-,Margate FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Crystal Palace,Dion Henry,22,England,Goalkeeper,GK,£45k,Hampton & Richmond Borough,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Crystal Palace,Jaroslaw Jach,25,Poland,Centre-Back,CB,£765k,Sheriff Tiraspol,Moldova,"End of loanAug 29, 2019",In,2019,s,premier-league
+Crystal Palace,Jason Puncheon,33,England,Attacking Midfield,AM,£2.70m,Huddersfield Town,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Crystal Palace,Alexander Sörloth,23,Norway,Centre-Forward,CF,£5.40m,KAA Gent,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Newcastle United,Joelinton,22,Brazil,Centre-Forward,CF,£31.50m,TSG 1899 Hoffenheim,Germany,£39.60m,In,2019,s,premier-league
+Newcastle United,Allan Saint-Maximin,22,France,Left Winger,LW,£22.50m,OGC Nice,France,£16.20m,In,2019,s,premier-league
+Newcastle United,Emil Krafth,25,Sweden,Right-Back,RB,£2.25m,SC Amiens,France,£4.86m,In,2019,s,premier-league
+Newcastle United,Jetro Willems,25,Netherlands,Left-Back,LB,£4.50m,Eintracht Frankfurt,Germany,Loan fee:£900k,In,2019,s,premier-league
+Newcastle United,Jake Turner,20,England,Goalkeeper,GK,£90k,Bolton Wanderers,England,Free transfer,In,2019,s,premier-league
+Newcastle United,Andy Carroll,30,England,Centre-Forward,CF,£7.20m,West Ham United,England,Free transfer,In,2019,s,premier-league
+Newcastle United,Kyle Scott,21,United States,Central Midfield,CM,£45k,Chelsea FC U23,England,Free transfer,In,2019,s,premier-league
+Newcastle United,Dan Barlaser,23,Turkey,Central Midfield,CM,-,Rotherham United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Newcastle United,Rolando Aarons,24,England,Left Winger,LW,£360k,Motherwell FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Newcastle United,Jacob Murphy,25,England,Right Winger,RW,£3.15m,Sheffield Wednesday,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Newcastle United,Freddie Woodman,23,England,Goalkeeper,GK,£2.88m,Swansea City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Newcastle United,Matthew Longstaff,19,England,Defensive Midfield,DM,-,Newcastle United U23,England,-,In,2019,s,premier-league
+Newcastle United,Henri Saivet,28,Senegal,Attacking Midfield,AM,£900k,Bursaspor,Turkey,"End of loanJun 30, 2019",In,2019,s,premier-league
+AFC Bournemouth,Arnaut Danjuma,22,Netherlands,Left Winger,LW,£10.80m,Club Brugge KV,Belgium,£16.20m,In,2019,s,premier-league
+AFC Bournemouth,Philip Billing,23,Denmark,Central Midfield,CM,£6.30m,Huddersfield Town,England,£14.85m,In,2019,s,premier-league
+AFC Bournemouth,Lloyd Kelly,20,England,Left-Back,LB,£8.10m,Bristol City,England,£13.32m,In,2019,s,premier-league
+AFC Bournemouth,Jack Stacey,23,England,Right-Back,RB,-,Luton Town,England,£4.01m,In,2019,s,premier-league
+AFC Bournemouth,Harry Wilson,22,Wales,Right Winger,RW,£10.80m,Liverpool FC,England,Loan fee:£2.43m,In,2019,s,premier-league
+AFC Bournemouth,Jermain Defoe,37,England,Centre-Forward,CF,£1.26m,Rangers FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+AFC Bournemouth,Brad Smith,26,Australia,Left-Back,LB,£720k,Cardiff City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+AFC Bournemouth,Nnamdi Ofoborh,20,Nigeria,Central Midfield,CM,£135k,Wycombe Wanderers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+AFC Bournemouth,Harry Arter,30,Ireland,Central Midfield,CM,£3.15m,Fulham FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+AFC Bournemouth,Nnamdi Ofoborh,19,Nigeria,Central Midfield,CM,£135k,AFC Bournemouth U21,England,-,In,2019,s,premier-league
+Burnley FC,Jay Rodríguez,29,England,Centre-Forward,CF,£9.00m,West Bromwich Albion,England,£5.00m,In,2019,s,premier-league
+Burnley FC,Bailey Peacock-Farrell,22,Northern Ireland,Goalkeeper,GK,£1.35m,Leeds United,England,£2.48m,In,2019,s,premier-league
+Burnley FC,Erik Pieters,30,Netherlands,Left-Back,LB,£4.50m,Stoke City,England,£990k,In,2019,s,premier-league
+Burnley FC,Ryan Cooney,19,England,Right-Back,RB,-,Bury FC,England,Free transfer,In,2019,s,premier-league
+Burnley FC,Danny Drinkwater,29,England,Central Midfield,CM,£7.20m,Chelsea FC,England,Loan,In,2019,s,premier-league
+Burnley FC,Ryan Cooney,20,England,Right-Back,RB,-,Morecambe FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Burnley FC,Aiden O'Neill,20,Australia,Central Midfield,CM,£450k,Central Coast Mariners,Australia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Burnley FC,Ntumba Massanka,22,England,Centre-Forward,CF,-,RWD Molenbeek (2015),Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Southampton FC,Danny Ings,26,England,Centre-Forward,CF,£13.50m,Liverpool FC,England,£19.98m,In,2019,s,premier-league
+Southampton FC,Che Adams,22,England,Centre-Forward,CF,£6.30m,Birmingham City,England,£15.03m,In,2019,s,premier-league
+Southampton FC,Moussa Djenepo,21,Mali,Left Winger,LW,£10.80m,Standard Liège,Belgium,£14.13m,In,2019,s,premier-league
+Southampton FC,Kevin Danso,20,Austria,Centre-Back,CB,£7.20m,FC Augsburg,Germany,Loan fee:£3.60m,In,2019,s,premier-league
+Southampton FC,Jack Rose,25,England,Goalkeeper,GK,£90k,Walsall FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Southampton FC,Jake Hesketh,24,England,Attacking Midfield,AM,£180k,Lincoln City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Southampton FC,Mohamed Elyounoussi,25,Norway,Left Winger,LW,£8.55m,Celtic FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Southampton FC,Harrison Reed,25,England,Defensive Midfield,DM,£2.16m,Fulham FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Southampton FC,Cédric Soares,28,Portugal,Right-Back,RB,£7.20m,Arsenal FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Southampton FC,Guido Carrillo,28,Argentina,Centre-Forward,CF,£6.75m,CD Leganés,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Southampton FC,Wesley Hoedt,25,Netherlands,Centre-Back,CB,£10.80m,Celta de Vigo,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Southampton FC,Jordy Clasie,28,Netherlands,Defensive Midfield,DM,£4.95m,Feyenoord Rotterdam,Netherlands,"End of loanJun 30, 2019",In,2019,s,premier-league
+Southampton FC,Sofiane Boufal,25,Morocco,Left Winger,LW,£10.80m,Celta de Vigo,Spain,"End of loanJun 30, 2019",In,2019,s,premier-league
+Southampton FC,Cédric Soares,27,Portugal,Right-Back,RB,£10.80m,Inter Milan,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Neal Maupay,22,France,Centre-Forward,CF,£10.80m,Brentford FC,England,£19.80m,In,2019,s,premier-league
+Brighton & Hove Albion,Adam Webster,24,England,Centre-Back,CB,£8.10m,Bristol City,England,£19.67m,In,2019,s,premier-league
+Brighton & Hove Albion,Leandro Trossard,24,Belgium,Left Winger,LW,£14.40m,KRC Genk,Belgium,£18.00m,In,2019,s,premier-league
+Brighton & Hove Albion,Matt Clarke,22,England,Centre-Back,CB,£180k,Portsmouth FC,England,£3.51m,In,2019,s,premier-league
+Brighton & Hove Albion,Aaron Mooy,28,Australia,Central Midfield,CM,£12.60m,Huddersfield Town,England,Loan,In,2019,s,premier-league
+Brighton & Hove Albion,Christian Walton,24,England,Goalkeeper,GK,£720k,Blackburn Rovers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Brighton & Hove Albion,Jan Mlakar,21,Slovenia,Centre-Forward,CF,£1.62m,Wigan Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Brighton & Hove Albion,Aaron Connolly,19,Ireland,Centre-Forward,CF,-,Brighton & Hove Albion U23,England,-,In,2019,s,premier-league
+Brighton & Hove Albion,Leon Balogun,31,Nigeria,Centre-Back,CB,£720k,Wigan Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Brighton & Hove Albion,Matt Clarke,23,England,Centre-Back,CB,£1.80m,Derby County,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Brighton & Hove Albion,Steven Alzate,20,Colombia,Right-Back,RB,-,Brighton & Hove Albion U23,England,-,In,2019,s,premier-league
+Brighton & Hove Albion,Ales Mateju,23,Czech Republic,Left-Back,LB,£1.53m,Brescia Calcio,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Alexis Mac Allister,20,Argentina,Attacking Midfield,AM,£4.50m,Asociación Atlética Argentinos Juniors,Argentina,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Tudor Baluta,20,Romania,Defensive Midfield,DM,£4.05m,FC Viitorul ,Romania,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Markus Suttner,32,Austria,Left-Back,LB,£1.35m,Fortuna Düsseldorf,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Ezequiel Schelotto,30,Italy,Right-Back,RB,£2.70m,Chievo Verona,Italy,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Percy Tau,25,South Africa,Centre-Forward,CF,£3.15m,Royale Union Saint Gilloise,Belgium,"End of loanJun 30, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Billy Arce,20,Ecuador,Left Winger,LW,£900k,CS Emelec,Ecuador,"End of loanJun 2, 2019",In,2019,s,premier-league
+Brighton & Hove Albion,Jan Mlakar,20,Slovenia,Centre-Forward,CF,£1.80m,NK Maribor,Slovenia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Norwich City,Ralf Fährmann,30,Germany,Goalkeeper,GK,£4.50m,FC Schalke 04,Germany,Loan fee:£2.70m,In,2019,s,premier-league
+Norwich City,Sam Byram,25,England,Right-Back,RB,£3.15m,West Ham United,England,£747k,In,2019,s,premier-league
+Norwich City,Daniel Adshead,17,England,Central Midfield,CM,-,Rochdale AFC,England,£302k,In,2019,s,premier-league
+Norwich City,Josip Drmic,26,Switzerland,Centre-Forward,CF,£2.70m,Borussia Mönchengladbach,Germany,Free transfer,In,2019,s,premier-league
+Norwich City,Patrick Roberts,22,England,Right Winger,RW,£4.50m,Manchester City,England,Loan,In,2019,s,premier-league
+Norwich City,Rocky Bushiri,19,Belgium,Centre-Back,CB,£1.08m,KV Oostende,Belgium,?,In,2019,s,premier-league
+Norwich City,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,Sevilla FC,Spain,Loan,In,2019,s,premier-league
+Norwich City,Mason Bloomfield,23,England,Centre-Forward,CF,£68k,Crawley Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Carlton Morris,24,England,Centre-Forward,CF,£135k,Milton Keynes Dons,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Sean Raggett,26,England,Centre-Back,CB,£225k,Portsmouth FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Sam McCallum,19,England,Left-Back,LB,-,Coventry City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Josh Coley,21,England,Left Midfield,LM,£90k,Dunfermline Athletic FC,Scotland,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Louis Thompson,25,Wales,Defensive Midfield,DM,£225k,Milton Keynes Dons,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Norwich City,Marcel Franke,26,Germany,Centre-Back,CB,£900k,SV Darmstadt 98,Germany,"End of loanJun 30, 2019",In,2019,s,premier-league
+Sheffield United,Oliver McBurnie,23,Scotland,Centre-Forward,CF,£7.20m,Swansea City,England,£17.19m,In,2019,s,premier-league
+Sheffield United,Lys Mousset,23,France,Centre-Forward,CF,£3.15m,AFC Bournemouth,England,£9.99m,In,2019,s,premier-league
+Sheffield United,Callum Robinson,24,Ireland,Left Winger,LW,£4.05m,Preston North End,England,£7.02m,In,2019,s,premier-league
+Sheffield United,Luke Freeman,27,England,Attacking Midfield,AM,£3.15m,Queens Park Rangers,England,£5.04m,In,2019,s,premier-league
+Sheffield United,Ben Osborn,24,England,Left Midfield,LM,£2.70m,Nottingham Forest,England,£3.51m,In,2019,s,premier-league
+Sheffield United,Phil Jagielka,36,England,Centre-Back,CB,£900k,Everton FC,England,Free transfer,In,2019,s,premier-league
+Sheffield United,Ravel Morrison,26,Jamaica,Attacking Midfield,AM,£270k,Östersunds FK,Sweden,Free transfer,In,2019,s,premier-league
+Sheffield United,Dean Henderson,22,England,Goalkeeper,GK,£2.25m,Manchester United U23,England,Loan,In,2019,s,premier-league
+Sheffield United,Michael Verrips,22,Netherlands,Goalkeeper,GK,£1.35m,KV Mechelen,Belgium,Free transfer,In,2019,s,premier-league
+Sheffield United,Muhamed Besic,26,Bosnia-Herzegovina,Defensive Midfield,DM,£4.50m,Everton FC,England,Loan,In,2019,s,premier-league
+Sheffield United,Jake Eastwood,23,England,Goalkeeper,GK,£90k,Scunthorpe United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Sheffield United,Callum Robinson,25,Ireland,Left Winger,LW,£4.95m,West Bromwich Albion,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Sheffield United,Ben Heneghan,26,England,Centre-Back,CB,£360k,Blackpool FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Sheffield United,Ravel Morrison,27,Jamaica,Attacking Midfield,AM,£540k,Middlesbrough FC,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Sheffield United,Nathan Thomas,25,England,Left Winger,LW,£225k,Carlisle United,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Sheffield United,Kean Bryan,23,England,Centre-Back,CB,£225k,Bolton Wanderers,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Aston Villa,Wesley,22,Brazil,Centre-Forward,CF,£18.00m,Club Brugge KV,Belgium,£22.50m,In,2019,s,premier-league
+Aston Villa,Tyrone Mings,26,England,Centre-Back,CB,£4.50m,AFC Bournemouth,England,£20.07m,In,2019,s,premier-league
+Aston Villa,Douglas Luiz,21,Brazil,Central Midfield,CM,£2.25m,Manchester City,England,£15.12m,In,2019,s,premier-league
+Aston Villa,Matt Targett,23,England,Left-Back,LB,£6.30m,Southampton FC,England,£13.95m,In,2019,s,premier-league
+Aston Villa,Ezri Konsa,21,England,Centre-Back,CB,£3.15m,Brentford FC,England,£11.97m,In,2019,s,premier-league
+Aston Villa,Marvelous Nakamba,25,Zimbabwe,Defensive Midfield,DM,£5.85m,Club Brugge KV,Belgium,£10.80m,In,2019,s,premier-league
+Aston Villa,Trezeguet,24,Egypt,Left Winger,LW,£5.40m,Kasimpasa,Turkey,£9.00m,In,2019,s,premier-league
+Aston Villa,Anwar El Ghazi,24,Netherlands,Right Winger,RW,£6.75m,LOSC Lille,France,£8.10m,In,2019,s,premier-league
+Aston Villa,Tom Heaton,33,England,Goalkeeper,GK,£2.70m,Burnley FC,England,£7.92m,In,2019,s,premier-league
+Aston Villa,Björn Engels,24,Belgium,Centre-Back,CB,£5.40m,Stade Reims,France,£7.20m,In,2019,s,premier-league
+Aston Villa,Jota,28,Spain,Right Winger,RW,£4.50m,Birmingham City,England,£4.05m,In,2019,s,premier-league
+Aston Villa,Kortney Hause,23,England,Centre-Back,CB,£900k,Wolverhampton Wanderers,England,£3.06m,In,2019,s,premier-league
+Aston Villa,James Bree,22,England,Right-Back,RB,£1.08m,Luton Town,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Aston Villa,Rushian Hepburn-Murphy,21,England,Centre-Forward,CF,£810k,Derby County U23,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Aston Villa,Scott Hogan,28,Ireland,Centre-Forward,CF,£2.88m,Birmingham City,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Aston Villa,Andre Green,21,England,Left Winger,LW,£1.62m,Charlton Athletic,England,"End of loanMay 31, 2020",In,2019,s,premier-league
+Aston Villa,Gary Gardner,27,England,Central Midfield,CM,£1.80m,Birmingham City,England,"End of loanJun 30, 2019",In,2019,s,premier-league
+Aston Villa,Frédéric Guilbert,24,France,Right-Back,RB,£5.40m,SM Caen,France,"End of loanJun 30, 2019",In,2019,s,premier-league
+Aston Villa,Ritchie De Laet,30,Belgium,Right-Back,RB,£1.17m,Melbourne City FC,Australia,"End of loanJun 30, 2019",In,2019,s,premier-league
+Manchester City,Danilo,28,Brazil,Right-Back,RB,£18.00m,Juventus FC,Italy,£33.30m,Out,2019,s,premier-league
+Manchester City,Douglas Luiz,21,Brazil,Central Midfield,CM,£2.25m,Aston Villa,England,£15.12m,Out,2019,s,premier-league
+Manchester City,Fabian Delph,29,England,Central Midfield,CM,£13.50m,Everton FC,England,£8.55m,Out,2019,s,premier-league
+Manchester City,Manu García,21,Spain,Attacking Midfield,AM,£4.50m,Sporting Gijón,Spain,£3.60m,Out,2019,s,premier-league
+Manchester City,Pablo Marí,25,Spain,Centre-Back,CB,£720k,Clube de Regatas do Flamengo,Brazil,£1.53m,Out,2019,s,premier-league
+Manchester City,Eliaquim Mangala,28,France,Centre-Back,CB,£9.00m,Valencia CF,Spain,Free transfer,Out,2019,s,premier-league
+Manchester City,Luke Brattan,29,Australia,Defensive Midfield,DM,£450k,Sydney FC,Australia,Free transfer,Out,2019,s,premier-league
+Manchester City,Arijanet Muric,20,Kosovo,Goalkeeper,GK,£1.80m,Nottingham Forest,England,Loan,Out,2019,s,premier-league
+Manchester City,Vincent Kompany,33,Belgium,Centre-Back,CB,£7.20m,RSC Anderlecht,Belgium,Free transfer,Out,2019,s,premier-league
+Manchester City,Anthony Cáceres,26,Australia,Central Midfield,CM,£315k,Sydney FC,Australia,Free transfer,Out,2019,s,premier-league
+Manchester City,Pedro Porro,19,Spain,Right-Back,RB,£9.00m,Real Valladolid CF,Spain,Loan,Out,2019,s,premier-league
+Manchester City,Patrick Roberts,22,England,Right Winger,RW,£4.50m,Norwich City,England,Loan,Out,2019,s,premier-league
+Manchester City,Aleix García,22,Spain,Central Midfield,CM,£2.70m,Royal Excel Mouscron ,Belgium,Loan,Out,2019,s,premier-league
+Manchester City,Ante Palaversa,19,Croatia,Defensive Midfield,DM,£4.50m,KV Oostende,Belgium,Loan,Out,2019,s,premier-league
+Manchester City,Ryotaro Meshino,21,Japan,Attacking Midfield,AM,£450k,Heart of Midlothian FC,Scotland,Loan,Out,2019,s,premier-league
+Manchester City,Zack Steffen,24,United States,Goalkeeper,GK,£4.50m,Fortuna Düsseldorf,Germany,Loan,Out,2019,s,premier-league
+Manchester City,Philippe Sandler,22,Netherlands,Centre-Back,CB,£2.25m,RSC Anderlecht,Belgium,Loan,Out,2019,s,premier-league
+Manchester City,Tosin Adarabioyo,21,England,Centre-Back,CB,£3.15m,Blackburn Rovers,England,Loan,Out,2019,s,premier-league
+Manchester City,Scott Carson,34,England,Goalkeeper,GK,£720k,Derby County,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Liverpool FC,Danny Ings,26,England,Centre-Forward,CF,£13.50m,Southampton FC,England,£19.98m,Out,2019,s,premier-league
+Liverpool FC,Ryan Kent,22,England,Left Winger,LW,£1.58m,Rangers FC,Scotland,£6.48m,Out,2019,s,premier-league
+Liverpool FC,Simon Mignolet,31,Belgium,Goalkeeper,GK,£7.20m,Club Brugge KV,Belgium,£6.30m,Out,2019,s,premier-league
+Liverpool FC,Harry Wilson,22,Wales,Right Winger,RW,£10.80m,AFC Bournemouth,England,Loan fee:£2.43m,Out,2019,s,premier-league
+Liverpool FC,Marko Grujic,23,Serbia,Central Midfield,CM,£18.00m,Hertha BSC,Germany,Loan fee:£1.80m,Out,2019,s,premier-league
+Liverpool FC,Taiwo Awoniyi,21,Nigeria,Centre-Forward,CF,£4.05m,1.FSV Mainz 05,Germany,Loan fee:£450k,Out,2019,s,premier-league
+Liverpool FC,Daniel Sturridge,29,England,Centre-Forward,CF,£13.50m,Trabzonspor,Turkey,Free transfer,Out,2019,s,premier-league
+Liverpool FC,Alberto Moreno,27,Spain,Left-Back,LB,£8.10m,Villarreal CF,Spain,Free transfer,Out,2019,s,premier-league
+Liverpool FC,Ben Woodburn,19,Wales,Attacking Midfield,AM,£4.50m,Oxford United,England,Loan,Out,2019,s,premier-league
+Liverpool FC,Ovie Ejaria,21,England,Central Midfield,CM,£810k,Reading FC,England,Loan,Out,2019,s,premier-league
+Liverpool FC,Ádám Bogdán,31,Hungary,Goalkeeper,GK,£450k,,Without Club,-,Out,2019,s,premier-league
+Liverpool FC,Connor Randall,23,England,Right-Back,RB,£450k,,Without Club,-,Out,2019,s,premier-league
+Liverpool FC,Sheyi Ojo,22,England,Right Winger,RW,£1.80m,Rangers FC,Scotland,Loan,Out,2019,s,premier-league
+Chelsea FC,Eden Hazard,28,Belgium,Left Winger,LW,£135.00m,Real Madrid,Spain,£90.00m,Out,2019,s,premier-league
+Chelsea FC,Ola Aina,22,Nigeria,Right-Back,RB,£9.00m,Torino FC,Italy,£9.00m,Out,2019,s,premier-league
+Chelsea FC,Tomas Kalas,26,Czech Republic,Centre-Back,CB,£3.60m,Bristol City,England,£8.10m,Out,2019,s,premier-league
+Chelsea FC,David Luiz,32,Brazil,Centre-Back,CB,£18.00m,Arsenal FC,England,£7.83m,Out,2019,s,premier-league
+Chelsea FC,Kenneth Omeruo,25,Nigeria,Centre-Back,CB,£4.50m,CD Leganés,Spain,£4.50m,Out,2019,s,premier-league
+Chelsea FC,Tiemoué Bakayoko,25,France,Defensive Midfield,DM,£31.50m,AS Monaco,France,Loan fee:£2.70m,Out,2019,s,premier-league
+Chelsea FC,Ethan Ampadu,18,Wales,Centre-Back,CB,£9.00m,RB Leipzig,Germany,Loan fee:£585k,Out,2019,s,premier-league
+Chelsea FC,Todd Kane,25,England,Right-Back,RB,£900k,Queens Park Rangers,England,Free transfer,Out,2019,s,premier-league
+Chelsea FC,Eduardo,36,Portugal,Goalkeeper,GK,£675k,SC Braga,Portugal,Free transfer,Out,2019,s,premier-league
+Chelsea FC,Gary Cahill,33,England,Centre-Back,CB,£7.20m,Crystal Palace,England,Free transfer,Out,2019,s,premier-league
+Chelsea FC,Davide Zappacosta,27,Italy,Right-Back,RB,£13.50m,AS Roma,Italy,Loan,Out,2019,s,premier-league
+Chelsea FC,Danilo Pantic,22,Serbia,Central Midfield,CM,£2.48m,MOL Fehérvár FC,Hungary,Loan fee:,Out,2019,s,premier-league
+Chelsea FC,Abdul Rahman Baba,25,Ghana,Left-Back,LB,£4.50m,RCD Mallorca,Spain,Loan,Out,2019,s,premier-league
+Chelsea FC,Jamal Blackman,25,England,Goalkeeper,GK,£450k,Vitesse Arnhem,Netherlands,Loan,Out,2019,s,premier-league
+Chelsea FC,Lucas Piazón,25,Brazil,Left Winger,LW,£1.35m,Rio Ave FC,Portugal,Loan,Out,2019,s,premier-league
+Chelsea FC,Matt Miazga,24,United States,Centre-Back,CB,£2.70m,Reading FC,England,Loan,Out,2019,s,premier-league
+Chelsea FC,Kenedy,23,Brazil,Left Midfield,LM,£9.00m,Getafe CF,Spain,Loan,Out,2019,s,premier-league
+Chelsea FC,Lewis Baker,24,England,Central Midfield,CM,£3.60m,Fortuna Düsseldorf,Germany,Loan,Out,2019,s,premier-league
+Chelsea FC,Danny Drinkwater,29,England,Central Midfield,CM,£7.20m,Burnley FC,England,Loan,Out,2019,s,premier-league
+Chelsea FC,Rob Green,39,England,Goalkeeper,GK,£225k,,Retired,-,Out,2019,s,premier-league
+Chelsea FC,Gonzalo Higuaín,31,Argentina,Centre-Forward,CF,£31.50m,Juventus FC,Italy,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Chelsea FC,Mateo Kovacic,25,Croatia,Central Midfield,CM,£31.50m,Real Madrid,Spain,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Tottenham Hotspur,Kieran Trippier,28,England,Right-Back,RB,£31.50m,Atlético Madrid,Spain,£19.80m,Out,2019,s,premier-league
+Tottenham Hotspur,Vincent Janssen,25,Netherlands,Centre-Forward,CF,£7.20m,CF Monterrey,Mexico,£8.10m,Out,2019,s,premier-league
+Tottenham Hotspur,Georges-Kevin N'Koudou,24,France,Left Winger,LW,£4.50m,Besiktas JK,Turkey,£3.60m,Out,2019,s,premier-league
+Tottenham Hotspur,Fernando Llorente,34,Spain,Centre-Forward,CF,£3.15m,SSC Napoli,Italy,Free transfer,Out,2019,s,premier-league
+Tottenham Hotspur,Josh Onomah,22,England,Central Midfield,CM,£2.70m,Fulham FC,England,Free transfer,Out,2019,s,premier-league
+Tottenham Hotspur,Jack Clarke,18,England,Right Winger,RW,£5.40m,Leeds United,England,Loan,Out,2019,s,premier-league
+Tottenham Hotspur,Cameron Carter-Vickers,21,United States,Centre-Back,CB,£1.35m,Stoke City,England,Loan,Out,2019,s,premier-league
+Tottenham Hotspur,Michel Vorm,35,Netherlands,Goalkeeper,GK,£900k,,Without Club,-,Out,2019,s,premier-league
+Arsenal FC,Alex Iwobi,23,Nigeria,Left Winger,LW,£22.50m,Everton FC,England,£27.36m,Out,2019,s,premier-league
+Arsenal FC,Krystian Bielik,21,Poland,Defensive Midfield,DM,£1.80m,Derby County,England,£7.38m,Out,2019,s,premier-league
+Arsenal FC,Laurent Koscielny,33,France,Centre-Back,CB,£7.20m,FC Girondins Bordeaux,France,£4.50m,Out,2019,s,premier-league
+Arsenal FC,David Ospina,30,Colombia,Goalkeeper,GK,£3.60m,SSC Napoli,Italy,£3.15m,Out,2019,s,premier-league
+Arsenal FC,Henrikh Mkhitaryan,30,Armenia,Attacking Midfield,AM,£22.50m,AS Roma,Italy,Loan fee:£2.70m,Out,2019,s,premier-league
+Arsenal FC,Carl Jenkinson,27,England,Right-Back,RB,£1.80m,Nottingham Forest,England,£1.98m,Out,2019,s,premier-league
+Arsenal FC,Takuma Asano,24,Japan,Left Winger,LW,£1.35m,FK Partizan Belgrade,Serbia,£900k,Out,2019,s,premier-league
+Arsenal FC,Nacho Monreal,33,Spain,Left-Back,LB,£7.20m,Real Sociedad,Spain,£225k,Out,2019,s,premier-league
+Arsenal FC,Stephan Lichtsteiner,35,Switzerland,Right-Back,RB,£1.35m,FC Augsburg,Germany,Free transfer,Out,2019,s,premier-league
+Arsenal FC,Danny Welbeck,28,England,Centre-Forward,CF,£10.80m,Watford FC,England,Free transfer,Out,2019,s,premier-league
+Arsenal FC,Aaron Ramsey,28,Wales,Central Midfield,CM,£36.00m,Juventus FC,Italy,Free transfer,Out,2019,s,premier-league
+Arsenal FC,William Saliba,18,France,Centre-Back,CB,£10.80m,AS Saint-Étienne,France,Loan,Out,2019,s,premier-league
+Arsenal FC,Cohen Bramall,23,England,Left-Back,LB,£225k,Colchester United,England,Free transfer,Out,2019,s,premier-league
+Arsenal FC,Mohamed Elneny,27,Egypt,Defensive Midfield,DM,£7.20m,Besiktas JK,Turkey,Loan,Out,2019,s,premier-league
+Arsenal FC,Dejan Iliev,24,North Macedonia,Goalkeeper,GK,-,SKF Sered,Slovakia,Loan,Out,2019,s,premier-league
+Arsenal FC,Eddie Nketiah,20,England,Centre-Forward,CF,£7.20m,Leeds United,England,Loan,Out,2019,s,premier-league
+Arsenal FC,Cédric Soares,28,Portugal,Right-Back,RB,£7.20m,Southampton FC,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Arsenal FC,Petr Cech,37,Czech Republic,Goalkeeper,GK,£2.25m,,Retired,-,Out,2019,s,premier-league
+Arsenal FC,Denis Suárez,25,Spain,Left Winger,LW,£10.80m,FC Barcelona,Spain,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Manchester United,Romelu Lukaku,26,Belgium,Centre-Forward,CF,£67.50m,Inter Milan,Italy,£58.50m,Out,2019,s,premier-league
+Manchester United,Chris Smalling,29,England,Centre-Back,CB,£18.00m,AS Roma,Italy,Loan fee:£2.70m,Out,2019,s,premier-league
+Manchester United,Matteo Darmian,29,Italy,Right-Back,RB,£9.00m,Parma Calcio 1913,Italy,£2.23m,Out,2019,s,premier-league
+Manchester United,Antonio Valencia,33,Ecuador,Right-Back,RB,£4.50m,LDU Quito,Ecuador,Free transfer,Out,2019,s,premier-league
+Manchester United,Ander Herrera,29,Spain,Central Midfield,CM,£22.50m,Paris Saint-Germain,France,Free transfer,Out,2019,s,premier-league
+Manchester United,Alexis Sánchez,30,Chile,Left Winger,LW,£31.50m,Inter Milan,Italy,Loan,Out,2019,s,premier-league
+Manchester United,James Wilson,23,England,Centre-Forward,CF,£1.35m,Aberdeen FC,Scotland,Free transfer,Out,2019,s,premier-league
+Manchester United,Cameron Borthwick-Jackson,22,England,Left-Back,LB,£900k,Tranmere Rovers,England,Loan,Out,2019,s,premier-league
+Manchester United,Joel Pereira,23,Portugal,Goalkeeper,GK,£765k,Heart of Midlothian FC,Scotland,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Ivan Cavaleiro,25,Portugal,Right Winger,RW,£9.00m,Fulham FC,England,Loan fee:£5.31m,Out,2019,s,premier-league
+Wolverhampton Wanderers,Kortney Hause,23,England,Centre-Back,CB,£900k,Aston Villa,England,£3.06m,Out,2019,s,premier-league
+Wolverhampton Wanderers,Ethan Ebanks-Landell,26,England,Centre-Back,CB,£225k,Shrewsbury Town,England,Free transfer,Out,2019,s,premier-league
+Wolverhampton Wanderers,Jack Ruddy,21,Scotland,Goalkeeper,GK,£90k,Ross County FC,Scotland,Free transfer,Out,2019,s,premier-league
+Wolverhampton Wanderers,Michal Zyro,26,Poland,Right Winger,RW,£225k,Korona Kielce,Poland,Free transfer,Out,2019,s,premier-league
+Wolverhampton Wanderers,Hélder Costa,25,Portugal,Right Winger,RW,£13.50m,Leeds United,England,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Rafa Mir,22,Spain,Centre-Forward,CF,£2.70m,Nottingham Forest,England,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Renat Dadashov,20,Azerbaijan,Centre-Forward,CF,£203k,FC Paços de Ferreira,Portugal,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Roderick Miranda,28,Portugal,Centre-Back,CB,£1.58m,FC Famalicão,Portugal,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Léo Bonatini,25,Brazil,Centre-Forward,CF,£3.60m,Vitória Guimarães SC,Portugal,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Will Norris,25,England,Goalkeeper,GK,£225k,Ipswich Town,England,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Bright Enobakhare,21,Nigeria,Centre-Forward,CF,£450k,Wigan Athletic,England,Loan,Out,2019,s,premier-league
+Wolverhampton Wanderers,Harry Burgoyne,22,England,Goalkeeper,GK,-,,Without Club,-,Out,2019,s,premier-league
+Wolverhampton Wanderers,Raúl Jiménez,28,Mexico,Centre-Forward,CF,£31.50m,SL Benfica,Portugal,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Wolverhampton Wanderers,Leander Dendoncker,24,Belgium,Defensive Midfield,DM,£16.20m,RSC Anderlecht,Belgium,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Everton FC,Idrissa Gueye,29,Senegal,Defensive Midfield,DM,£22.50m,Paris Saint-Germain,France,£27.00m,Out,2019,s,premier-league
+Everton FC,Ademola Lookman,21,England,Left Winger,LW,£18.00m,RB Leipzig,Germany,£16.20m,Out,2019,s,premier-league
+Everton FC,Nikola Vlasic,21,Croatia,Attacking Midfield,AM,£18.00m,CSKA Moscow,Russia,£14.13m,Out,2019,s,premier-league
+Everton FC,Henry Onyekuru,22,Nigeria,Left Winger,LW,£11.70m,AS Monaco,France,£12.15m,Out,2019,s,premier-league
+Everton FC,James McCarthy,28,Ireland,Central Midfield,CM,£4.50m,Crystal Palace,England,£2.97m,Out,2019,s,premier-league
+Everton FC,Phil Jagielka,36,England,Centre-Back,CB,£900k,Sheffield United,England,Free transfer,Out,2019,s,premier-league
+Everton FC,Kevin Mirallas,31,Belgium,Right Winger,RW,£4.50m,Royal Antwerp FC,Belgium,Free transfer,Out,2019,s,premier-league
+Everton FC,Brendan Galloway,23,England,Left-Back,LB,£1.35m,Luton Town,England,Free transfer,Out,2019,s,premier-league
+Everton FC,Mateusz Hewelt,22,Poland,Goalkeeper,GK,-,Miedz Legnica,Poland,Free transfer,Out,2019,s,premier-league
+Everton FC,Luke Garbutt,26,England,Left-Back,LB,£675k,Ipswich Town,England,Loan,Out,2019,s,premier-league
+Everton FC,Kieran Dowell,21,England,Attacking Midfield,AM,£2.70m,Derby County,England,Loan,Out,2019,s,premier-league
+Everton FC,Jonjoe Kenny,22,England,Right-Back,RB,£4.50m,FC Schalke 04,Germany,Loan,Out,2019,s,premier-league
+Everton FC,Shani Tarashaj,24,Switzerland,Second Striker,SS,£450k,FC Emmen,Netherlands,Loan,Out,2019,s,premier-league
+Everton FC,Muhamed Besic,26,Bosnia-Herzegovina,Defensive Midfield,DM,£4.50m,Sheffield United,England,Loan,Out,2019,s,premier-league
+Everton FC,Yannick Bolasie,30,DR Congo,Left Winger,LW,£9.90m,Sporting CP,Portugal,Loan,Out,2019,s,premier-league
+Everton FC,Sandro Ramírez,23,Spain,Centre-Forward,CF,£3.60m,Real Valladolid CF,Spain,Loan,Out,2019,s,premier-league
+Everton FC,Matthew Pennington,24,England,Centre-Back,CB,£900k,Hull City,England,Loan,Out,2019,s,premier-league
+Everton FC,Ashley Williams,34,Wales,Centre-Back,CB,£1.80m,,Without Club,-,Out,2019,s,premier-league
+Everton FC,André Gomes,25,Portugal,Central Midfield,CM,£25.20m,FC Barcelona,Spain,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Leicester City,Harry Maguire,26,England,Centre-Back,CB,£45.00m,Manchester United,England,£78.30m,Out,2019,s,premier-league
+Leicester City,Callum Elder,24,Australia,Left-Back,LB,£225k,Hull City,England,£1.35m,Out,2019,s,premier-league
+Leicester City,Rachid Ghezzal,27,Algeria,Right Winger,RW,£7.20m,ACF Fiorentina,Italy,Loan fee:£270k,Out,2019,s,premier-league
+Leicester City,Fousseni Diabaté,23,Mali,Right Winger,RW,£2.70m,SC Amiens,France,Loan,Out,2019,s,premier-league
+Leicester City,Shinji Okazaki,33,Japan,Centre-Forward,CF,£3.60m,Málaga CF,Spain,Free transfer,Out,2019,s,premier-league
+Leicester City,Islam Slimani,31,Algeria,Centre-Forward,CF,£4.50m,AS Monaco,France,Loan,Out,2019,s,premier-league
+Leicester City,Andy King,30,Wales,Central Midfield,CM,£2.25m,Rangers FC,Scotland,Loan,Out,2019,s,premier-league
+Leicester City,Ryan Bennett,30,England,Centre-Back,CB,£3.60m,Wolverhampton Wanderers,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Leicester City,Danny Simpson,32,England,Right-Back,RB,£3.15m,,Without Club,-,Out,2019,s,premier-league
+Leicester City,Youri Tielemans,22,Belgium,Central Midfield,CM,£34.20m,AS Monaco,France,"End of loanJun 30, 2019",Out,2019,s,premier-league
+West Ham United,Marko Arnautovic,30,Austria,Centre-Forward,CF,£31.50m,Shanghai SIPG,China,£22.50m,Out,2019,s,premier-league
+West Ham United,Pedro Obiang,27,Equatorial Guinea,Central Midfield,CM,£6.30m,US Sassuolo,Italy,£7.20m,Out,2019,s,premier-league
+West Ham United,Chicharito,31,Mexico,Centre-Forward,CF,£10.80m,Sevilla FC,Spain,£6.98m,Out,2019,s,premier-league
+West Ham United,Edimilson Fernandes,23,Switzerland,Central Midfield,CM,£7.20m,1.FSV Mainz 05,Germany,£6.75m,Out,2019,s,premier-league
+West Ham United,Lucas Pérez,30,Spain,Centre-Forward,CF,£3.60m,Deportivo Alavés,Spain,£2.07m,Out,2019,s,premier-league
+West Ham United,Reece Oxford,20,England,Centre-Back,CB,£3.60m,FC Augsburg,Germany,£1.80m,Out,2019,s,premier-league
+West Ham United,Sam Byram,25,England,Right-Back,RB,£3.15m,Norwich City,England,£747k,Out,2019,s,premier-league
+West Ham United,Adrián,32,Spain,Goalkeeper,GK,£3.15m,Liverpool FC,England,Free transfer,Out,2019,s,premier-league
+West Ham United,Moses Makasi,23,England,Central Midfield,CM,-,FC Eindhoven,Netherlands,Free transfer,Out,2019,s,premier-league
+West Ham United,Samir Nasri,32,France,Attacking Midfield,AM,£4.50m,RSC Anderlecht,Belgium,Free transfer,Out,2019,s,premier-league
+West Ham United,Andy Carroll,30,England,Centre-Forward,CF,£7.20m,Newcastle United,England,Free transfer,Out,2019,s,premier-league
+West Ham United,Jordan Hugill,27,England,Centre-Forward,CF,£5.40m,Queens Park Rangers,England,Loan,Out,2019,s,premier-league
+West Ham United,Grady Diangana,21,England,Right Winger,RW,£4.50m,West Bromwich Albion,England,Loan,Out,2019,s,premier-league
+West Ham United,Josh Cullen,23,Ireland,Central Midfield,CM,£900k,Charlton Athletic,England,Loan,Out,2019,s,premier-league
+Watford FC,Dodi Lukebakio,21,Belgium,Right Winger,RW,£16.20m,Hertha BSC,Germany,£18.00m,Out,2019,s,premier-league
+Watford FC,Obbi Oulare,23,Belgium,Centre-Forward,CF,£1.62m,Standard Liège,Belgium,£3.06m,Out,2019,s,premier-league
+Watford FC,Jerome Sinclair,22,England,Centre-Forward,CF,£1.35m,VVV-Venlo,Netherlands,Loan,Out,2019,s,premier-league
+Watford FC,Kwasi Sibo,21,Ghana,Central Midfield,CM,£180k,UD Ibiza,Spain,Loan,Out,2019,s,premier-league
+Watford FC,Adalberto Peñaranda,22,Venezuela,Centre-Forward,CF,£1.80m,KAS Eupen,Belgium,Loan,Out,2019,s,premier-league
+Watford FC,Cucho Hernández,20,Colombia,Centre-Forward,CF,£9.00m,RCD Mallorca,Spain,Loan,Out,2019,s,premier-league
+Watford FC,Filip Stuparevic,19,Serbia,Centre-Forward,CF,£1.08m,1.FK Pribram,Czech Republic,Loan,Out,2019,s,premier-league
+Watford FC,Ben Wilmot,19,England,Centre-Back,CB,£1.35m,Swansea City,England,Loan,Out,2019,s,premier-league
+Watford FC,Ken Sema,25,Sweden,Left Midfield,LM,£3.15m,Udinese Calcio,Italy,Loan,Out,2019,s,premier-league
+Watford FC,Stefano Okaka,30,Italy,Centre-Forward,CF,£4.50m,Udinese Calcio,Italy,?,Out,2019,s,premier-league
+Watford FC,Tommie Hoban,25,Ireland,Centre-Back,CB,£450k,,Without Club,-,Out,2019,s,premier-league
+Watford FC,Miguel Britos,33,Uruguay,Centre-Back,CB,£1.80m,,Retired,-,Out,2019,s,premier-league
+Crystal Palace,Aaron Wan-Bissaka,21,England,Right-Back,RB,£31.50m,Manchester United,England,£49.50m,Out,2019,s,premier-league
+Crystal Palace,Alexander Sörloth,23,Norway,Centre-Forward,CF,£5.40m,Trabzonspor,Turkey,Loan fee:£675k,Out,2019,s,premier-league
+Crystal Palace,Ryan Inniss,24,England,Centre-Back,CB,£135k,Newport County,England,Loan,Out,2019,s,premier-league
+Crystal Palace,Jason Puncheon,33,England,Attacking Midfield,AM,£2.70m,Pafos FC,Cyprus,Free transfer,Out,2019,s,premier-league
+Crystal Palace,Joe Tupper,21,England,Goalkeeper,GK,-,Margate FC,England,Loan,Out,2019,s,premier-league
+Crystal Palace,Pape Souaré,29,Senegal,Left-Back,LB,£1.80m,ES Troyes AC,France,Free transfer,Out,2019,s,premier-league
+Crystal Palace,Jaroslaw Jach,25,Poland,Centre-Back,CB,£765k,Rakow Czestochowa,Poland,Loan,Out,2019,s,premier-league
+Crystal Palace,Julián Speroni,40,Argentina,Goalkeeper,GK,£225k,,Retired,-,Out,2019,s,premier-league
+Crystal Palace,Bakary Sako,31,Mali,Left Winger,LW,£3.60m,,Without Club,-,Out,2019,s,premier-league
+Crystal Palace,Lucas Perri,21,Brazil,Goalkeeper,GK,£225k,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Crystal Palace,Michy Batshuayi,25,Belgium,Centre-Forward,CF,£27.00m,Chelsea FC,England,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Newcastle United,Ayoze Pérez,25,Spain,Second Striker,SS,£18.00m,Leicester City,England,£30.06m,Out,2019,s,premier-league
+Newcastle United,Joselu,29,Spain,Centre-Forward,CF,£3.60m,Deportivo Alavés,Spain,£2.02m,Out,2019,s,premier-league
+Newcastle United,Mohamed Diamé,32,Senegal,Central Midfield,CM,£4.50m,Al Ahli Sports Club,Qatar,Free transfer,Out,2019,s,premier-league
+Newcastle United,Dan Barlaser,22,Turkey,Central Midfield,CM,-,Rotherham United,England,Loan,Out,2019,s,premier-league
+Newcastle United,Rolando Aarons,23,England,Left Winger,LW,£450k,Wycombe Wanderers,England,Loan,Out,2019,s,premier-league
+Newcastle United,Jacob Murphy,24,England,Right Winger,RW,£5.40m,Sheffield Wednesday,England,Loan,Out,2019,s,premier-league
+Newcastle United,Freddie Woodman,22,England,Goalkeeper,GK,£450k,Swansea City,England,Loan,Out,2019,s,premier-league
+Newcastle United,Achraf Lazaar,27,Morocco,Left-Back,LB,£900k,Cosenza Calcio,Italy,Loan,Out,2019,s,premier-league
+Newcastle United,Kenedy,23,Brazil,Left Midfield,LM,£9.00m,Chelsea FC,England,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Newcastle United,Antonio Barreca,24,Italy,Left-Back,LB,£6.30m,AS Monaco,France,"End of loanJun 30, 2019",Out,2019,s,premier-league
+AFC Bournemouth,Tyrone Mings,26,England,Centre-Back,CB,£4.50m,Aston Villa,England,£20.07m,Out,2019,s,premier-league
+AFC Bournemouth,Lys Mousset,23,France,Centre-Forward,CF,£3.15m,Sheffield United,England,£9.99m,Out,2019,s,premier-league
+AFC Bournemouth,Connor Mahoney,22,England,Right Winger,RW,£675k,Millwall FC,England,£990k,Out,2019,s,premier-league
+AFC Bournemouth,Marc Pugh,32,England,Left Winger,LW,£1.35m,Queens Park Rangers,England,Free transfer,Out,2019,s,premier-league
+AFC Bournemouth,Kyle Taylor,20,England,Central Midfield,CM,-,Forest Green Rovers ,England,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Sam Surridge,21,England,Centre-Forward,CF,-,Swansea City,England,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Asmir Begovic,32,Bosnia-Herzegovina,Goalkeeper,GK,£6.30m,Qarabağ Ağdam,Azerbaijan,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Emerson Hyndman,23,United States,Central Midfield,CM,£900k,Atlanta United FC,United States,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Harry Arter,29,Ireland,Central Midfield,CM,£6.30m,Fulham FC,England,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Nnamdi Ofoborh,19,Nigeria,Central Midfield,CM,£135k,Wycombe Wanderers,England,Loan,Out,2019,s,premier-league
+AFC Bournemouth,Harry Wilson,23,Wales,Right Winger,RW,£15.75m,Liverpool FC,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Burnley FC,Tom Heaton,33,England,Goalkeeper,GK,£2.70m,Aston Villa,England,£7.92m,Out,2019,s,premier-league
+Burnley FC,Stephen Ward,33,Ireland,Left-Back,LB,£1.80m,Stoke City,England,Free transfer,Out,2019,s,premier-league
+Burnley FC,Aiden O'Neill,20,Australia,Central Midfield,CM,£450k,Brisbane Roar,Australia,Loan,Out,2019,s,premier-league
+Burnley FC,Anders Lindegaard,35,Denmark,Goalkeeper,GK,£450k,Helsingborgs IF,Sweden,Free transfer,Out,2019,s,premier-league
+Burnley FC,Ntumba Massanka,22,England,Centre-Forward,CF,-,Chorley FC,England,Free transfer,Out,2019,s,premier-league
+Burnley FC,Steven Defour,31,Belgium,Central Midfield,CM,£4.50m,Royal Antwerp FC,Belgium,Free transfer,Out,2019,s,premier-league
+Burnley FC,Nahki Wells,29,Bermuda,Centre-Forward,CF,£3.60m,Queens Park Rangers,England,Loan,Out,2019,s,premier-league
+Burnley FC,Peter Crouch,38,England,Centre-Forward,CF,£900k,,Retired,-,Out,2019,s,premier-league
+Southampton FC,Matt Targett,23,England,Left-Back,LB,£6.30m,Aston Villa,England,£13.95m,Out,2019,s,premier-league
+Southampton FC,Sam Gallagher,23,England,Centre-Forward,CF,£2.70m,Blackburn Rovers,England,£5.04m,Out,2019,s,premier-league
+Southampton FC,Charlie Austin,30,England,Centre-Forward,CF,£7.20m,West Bromwich Albion,England,£3.87m,Out,2019,s,premier-league
+Southampton FC,Mario Lemina,26,Gabon,Defensive Midfield,DM,£13.50m,Galatasaray SK,Turkey,Loan fee:£900k,Out,2019,s,premier-league
+Southampton FC,Jack Rose,24,England,Goalkeeper,GK,£90k,Walsall FC,England,Loan,Out,2019,s,premier-league
+Southampton FC,Jordy Clasie,28,Netherlands,Defensive Midfield,DM,£4.95m,AZ Alkmaar,Netherlands,Free transfer,Out,2019,s,premier-league
+Southampton FC,Steven Davis,34,Northern Ireland,Central Midfield,CM,£1.80m,Rangers FC,Scotland,Free transfer,Out,2019,s,premier-league
+Southampton FC,Josh Sims,22,England,Right Winger,RW,£1.80m,New York Red Bulls,United States,Loan,Out,2019,s,premier-league
+Southampton FC,Fraser Forster,31,England,Goalkeeper,GK,£7.20m,Celtic FC,Scotland,Loan,Out,2019,s,premier-league
+Southampton FC,Wesley Hoedt,25,Netherlands,Centre-Back,CB,£10.80m,Royal Antwerp FC,Belgium,Loan,Out,2019,s,premier-league
+Southampton FC,Harrison Reed,24,England,Defensive Midfield,DM,£1.80m,Fulham FC,England,Loan,Out,2019,s,premier-league
+Southampton FC,Guido Carrillo,28,Argentina,Centre-Forward,CF,£6.75m,CD Leganés,Spain,Loan,Out,2019,s,premier-league
+Southampton FC,Mohamed Elyounoussi,25,Norway,Left Winger,LW,£13.50m,Celtic FC,Scotland,Loan,Out,2019,s,premier-league
+Southampton FC,Jake Hesketh,23,England,Attacking Midfield,AM,£180k,Lincoln City,England,Loan,Out,2019,s,premier-league
+Southampton FC,Kyle Walker-Peters,23,England,Right-Back,RB,£7.20m,Tottenham Hotspur,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Southampton FC,Danny Ings,26,England,Centre-Forward,CF,£13.50m,Liverpool FC,England,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Brighton & Hove Albion,Ales Mateju,23,Czech Republic,Left-Back,LB,£1.53m,Brescia Calcio,Italy,£1.62m,Out,2019,s,premier-league
+Brighton & Hove Albion,Florin Andone,26,Romania,Centre-Forward,CF,£5.40m,Galatasaray SK,Turkey,Loan fee:£630k,Out,2019,s,premier-league
+Brighton & Hove Albion,Markus Suttner,32,Austria,Left-Back,LB,£1.35m,Fortuna Düsseldorf,Germany,Free transfer,Out,2019,s,premier-league
+Brighton & Hove Albion,Tomer Hemed,32,Israel,Centre-Forward,CF,£2.25m,Charlton Athletic,England,Free transfer,Out,2019,s,premier-league
+Brighton & Hove Albion,Richie Towell,27,Ireland,Central Midfield,CM,£180k,Salford City,England,Free transfer,Out,2019,s,premier-league
+Brighton & Hove Albion,Jürgen Locadia,25,Netherlands,Centre-Forward,CF,£10.80m,TSG 1899 Hoffenheim,Germany,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Christian Walton,23,England,Goalkeeper,GK,£900k,Blackburn Rovers,England,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Viktor Gyökeres,21,Sweden,Centre-Forward,CF,£450k,FC St. Pauli,Germany,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Matt Clarke,22,England,Centre-Back,CB,£180k,Derby County,England,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Anders Dreyer,21,Denmark,Right Winger,RW,£540k,SC Heerenveen,Netherlands,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Alexis Mac Allister,20,Argentina,Attacking Midfield,AM,£4.50m,Club Atlético Boca Juniors,Argentina,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Anthony Knockaert,27,France,Right Winger,RW,£7.20m,Fulham FC,England,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Billy Arce,21,Ecuador,Left Winger,LW,£540k,Barcelona SC Guayaquil,Ecuador,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Soufyan Ahannach,23,Netherlands,Left Midfield,LM,£450k,Royale Union Saint Gilloise,Belgium,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Leo Östigard,19,Norway,Centre-Back,CB,£135k,FC St. Pauli,Germany,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Jan Mlakar,20,Slovenia,Centre-Forward,CF,£1.80m,Queens Park Rangers,England,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Percy Tau,25,South Africa,Centre-Forward,CF,£3.15m,Club Brugge KV,Belgium,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Beram Kayal,31,Israel,Central Midfield,CM,£1.35m,Charlton Athletic,England,Loan,Out,2019,s,premier-league
+Brighton & Hove Albion,Bruno,38,Spain,Right-Back,RB,£675k,,Retired,-,Out,2019,s,premier-league
+Norwich City,Marcel Franke,26,Germany,Centre-Back,CB,£900k,Hannover 96,Germany,£900k,Out,2019,s,premier-league
+Norwich City,Nélson Oliveira,27,Portugal,Centre-Forward,CF,£3.15m,AEK Athens,Greece,£900k,Out,2019,s,premier-league
+Norwich City,Ivo Pinto,29,Portugal,Right-Back,RB,£1.80m,GNK Dinamo Zagreb,Croatia,Free transfer,Out,2019,s,premier-league
+Norwich City,Yanic Wildschut,27,Netherlands,Left Winger,LW,£1.80m,Maccabi Haifa,Israel,Free transfer,Out,2019,s,premier-league
+Norwich City,Tristan Abrahams,20,England,Centre-Forward,CF,£135k,Newport County,England,Free transfer,Out,2019,s,premier-league
+Norwich City,Steven Naismith,32,Scotland,Second Striker,SS,£1.35m,Heart of Midlothian FC,Scotland,Free transfer,Out,2019,s,premier-league
+Norwich City,Josh Coley,20,England,Left Midfield,LM,-,Dunfermline Athletic FC,Scotland,Loan,Out,2019,s,premier-league
+Norwich City,Louis Thompson,24,Wales,Defensive Midfield,DM,£225k,Shrewsbury Town,England,Loan,Out,2019,s,premier-league
+Norwich City,Carlton Morris,23,England,Centre-Forward,CF,£135k,Rotherham United,England,Loan,Out,2019,s,premier-league
+Norwich City,Sean Raggett,25,England,Centre-Back,CB,£225k,Portsmouth FC,England,Loan,Out,2019,s,premier-league
+Norwich City,James Husband,25,England,Left-Back,LB,£900k,Blackpool FC,England,Loan,Out,2019,s,premier-league
+Norwich City,Rocky Bushiri,19,Belgium,Centre-Back,CB,£1.08m,Blackpool FC,England,Loan,Out,2019,s,premier-league
+Norwich City,Mason Bloomfield,22,England,Centre-Forward,CF,£68k,Crawley Town,England,Loan,Out,2019,s,premier-league
+Norwich City,Ben Marshall,28,England,Right Midfield,RM,£1.35m,,Without Club,-,Out,2019,s,premier-league
+Norwich City,Matt Jarvis,33,England,Left Winger,LW,£315k,,Without Club,-,Out,2019,s,premier-league
+Norwich City,Felix Passlack,21,Germany,Right-Back,RB,£1.35m,Borussia Dortmund,Germany,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Sheffield United,Ched Evans,30,Wales,Centre-Forward,CF,£315k,Fleetwood Town,England,£135k,Out,2019,s,premier-league
+Sheffield United,Paul Coutts,30,Scotland,Central Midfield,CM,£315k,Fleetwood Town,England,Free transfer,Out,2019,s,premier-league
+Sheffield United,Nathan Thomas,24,England,Left Winger,LW,£225k,Carlisle United,England,Loan,Out,2019,s,premier-league
+Sheffield United,Caolan Lavery,26,Northern Ireland,Centre-Forward,CF,£135k,Walsall FC,England,Free transfer,Out,2019,s,premier-league
+Sheffield United,Samir Carruthers,26,Ireland,Central Midfield,CM,£225k,Cambridge United,England,Free transfer,Out,2019,s,premier-league
+Sheffield United,Conor Washington,27,Northern Ireland,Centre-Forward,CF,£900k,Heart of Midlothian FC,Scotland,Free transfer,Out,2019,s,premier-league
+Sheffield United,Jake Bennett,23,England,Right-Back,RB,-,Alfreton Town,England,Free transfer,Out,2019,s,premier-league
+Sheffield United,Martin Cranie,32,England,Centre-Back,CB,£315k,Luton Town,England,Free transfer,Out,2019,s,premier-league
+Sheffield United,Danny Lafferty,30,Northern Ireland,Left-Back,LB,£315k,Shamrock Rovers,Ireland,Free transfer,Out,2019,s,premier-league
+Sheffield United,Jake Eastwood,22,England,Goalkeeper,GK,£90k,Scunthorpe United,England,Loan,Out,2019,s,premier-league
+Sheffield United,Ben Heneghan,25,England,Centre-Back,CB,£450k,Blackpool FC,England,Loan,Out,2019,s,premier-league
+Sheffield United,Mark Duffy,33,England,Right Midfield,RM,£450k,Stoke City,England,Loan,Out,2019,s,premier-league
+Sheffield United,Jake Wright,33,England,Centre-Back,CB,£135k,Bolton Wanderers,England,Loan,Out,2019,s,premier-league
+Sheffield United,Dean Henderson,23,England,Goalkeeper,GK,£13.05m,Manchester United U23,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Sheffield United,Muhamed Besic,27,Bosnia-Herzegovina,Defensive Midfield,DM,£2.16m,Everton FC,England,"End of loanMay 31, 2020",Out,2019,s,premier-league
+Aston Villa,Aaron Tshibola,24,DR Congo,Central Midfield,CM,£1.35m,Waasland-Beveren,Belgium,£900k,Out,2019,s,premier-league
+Aston Villa,Ritchie De Laet,30,Belgium,Right-Back,RB,£1.17m,Royal Antwerp FC,Belgium,Free transfer,Out,2019,s,premier-league
+Aston Villa,Tommy Elphick,31,England,Centre-Back,CB,£1.80m,Huddersfield Town,England,Free transfer,Out,2019,s,premier-league
+Aston Villa,Albert Adomah,31,Ghana,Right Winger,RW,£3.15m,Nottingham Forest,England,Free transfer,Out,2019,s,premier-league
+Aston Villa,Glenn Whelan,35,Ireland,Defensive Midfield,DM,£900k,Heart of Midlothian FC,Scotland,Free transfer,Out,2019,s,premier-league
+Aston Villa,Rushian Hepburn-Murphy,20,England,Centre-Forward,CF,£900k,Tranmere Rovers,England,Loan,Out,2019,s,premier-league
+Aston Villa,James Bree,21,England,Right-Back,RB,£900k,Luton Town,England,Loan,Out,2019,s,premier-league
+Aston Villa,Andre Green,21,England,Left Winger,LW,£1.80m,Preston North End,England,Loan,Out,2019,s,premier-league
+Aston Villa,Gary Gardner,27,England,Central Midfield,CM,£1.80m,Birmingham City,England,?,Out,2019,s,premier-league
+Aston Villa,Scott Hogan,27,Ireland,Centre-Forward,CF,£2.70m,Stoke City,England,Loan,Out,2019,s,premier-league
+Aston Villa,Mile Jedinak,34,Australia,Defensive Midfield,DM,£1.35m,,Retired,-,Out,2019,s,premier-league
+Aston Villa,Ross McCormack,32,Scotland,Second Striker,SS,£1.35m,,Without Club,-,Out,2019,s,premier-league
+Aston Villa,Micah Richards,31,England,Right-Back,RB,£450k,,Retired,-,Out,2019,s,premier-league
+Aston Villa,Alan Hutton,34,Scotland,Right-Back,RB,£900k,,Without Club,-,Out,2019,s,premier-league
+Aston Villa,Matija Sarkic,21,Montenegro,Goalkeeper,GK,£90k,Livingston FC,Scotland,Loan,Out,2019,s,premier-league
+Aston Villa,Birkir Bjarnason,31,Iceland,Central Midfield,CM,£1.35m,,Without Club,-,Out,2019,s,premier-league
+Aston Villa,Mark Bunn,34,England,Goalkeeper,GK,£225k,,Retired,-,Out,2019,s,premier-league
+Aston Villa,Anwar El Ghazi,24,Netherlands,Right Winger,RW,£6.75m,LOSC Lille,France,"End of loanJun 30, 2019",Out,2019,s,premier-league
+Manchester City,Patrick Roberts,22,England,Right Winger,RW,£3.15m,Norwich City,England,"End of loanJan 1, 2020",In,2019,w,premier-league
+Manchester City,Mix Diskerud,29,United States,Central Midfield,CM,£1.13m,Ulsan Hyundai,"Korea, South","End of loanDec 31, 2019",In,2019,w,premier-league
+Liverpool FC,Takumi Minamino,24,Japan,Left Winger,LW,£11.25m,Red Bull Salzburg,Austria,£7.65m,In,2019,w,premier-league
+Chelsea FC,Victor Moses,29,Nigeria,Right Midfield,RM,£7.65m,Fenerbahce SK,Turkey,"End of loanJan 22, 2020",In,2019,w,premier-league
+Chelsea FC,Danilo Pantic,23,Serbia,Central Midfield,CM,£1.62m,MOL Fehérvár FC,Hungary,"End of loanJan 31, 2020",In,2019,w,premier-league
+Chelsea FC,Danny Drinkwater,29,England,Central Midfield,CM,£5.40m,Burnley FC,England,"End of loanJan 6, 2020",In,2019,w,premier-league
+Chelsea FC,Billy Gilmour,18,Scotland,Central Midfield,CM,£2.70m,Chelsea FC U23,England,-,In,2019,w,premier-league
+Chelsea FC,Lewis Baker,24,England,Central Midfield,CM,£3.15m,Fortuna Düsseldorf,Germany,"End of loanJan 22, 2020",In,2019,w,premier-league
+Chelsea FC,Jamal Blackman,26,England,Goalkeeper,GK,£450k,Vitesse Arnhem,Netherlands,"End of loanJan 16, 2020",In,2019,w,premier-league
+Tottenham Hotspur,Steven Bergwijn,22,Netherlands,Left Winger,LW,£31.50m,PSV Eindhoven,Netherlands,£27.00m,In,2019,w,premier-league
+Tottenham Hotspur,Gedson Fernandes,21,Portugal,Central Midfield,CM,£13.50m,SL Benfica,Portugal,Loan fee:£4.05m,In,2019,w,premier-league
+Tottenham Hotspur,Jack Clarke,19,England,Right Winger,RW,£5.40m,Leeds United,England,"End of loanJan 1, 2020",In,2019,w,premier-league
+Tottenham Hotspur,Michel Vorm,35,Netherlands,Goalkeeper,GK,£900k,,Without Club,-,In,2019,w,premier-league
+Tottenham Hotspur,Alfie Whiteman,21,England,Goalkeeper,GK,-,Tottenham Hotspur U23,England,-,In,2019,w,premier-league
+Tottenham Hotspur,Cameron Carter-Vickers,22,United States,Centre-Back,CB,£2.25m,Stoke City,England,"End of loanJan 2, 2020",In,2019,w,premier-league
+Tottenham Hotspur,Japhet Tanganga,20,England,Centre-Back,CB,£720k,Tottenham Hotspur U23,England,-,In,2019,w,premier-league
+Arsenal FC,Pablo Marí,26,Spain,Centre-Back,CB,£1.62m,Clube de Regatas do Flamengo,Brazil,Loan fee:£4.50m,In,2019,w,premier-league
+Arsenal FC,Cédric Soares,28,Portugal,Right-Back,RB,£9.00m,Southampton FC,England,Loan,In,2019,w,premier-league
+Arsenal FC,Eddie Nketiah,20,England,Centre-Forward,CF,£7.20m,Leeds United,England,"End of loanJan 1, 2020",In,2019,w,premier-league
+Arsenal FC,Dejan Iliev,24,North Macedonia,Goalkeeper,GK,£270k,SKF Sered,Slovakia,"End of loanDec 31, 2019",In,2019,w,premier-league
+Manchester United,Bruno Fernandes,25,Portugal,Attacking Midfield,AM,£54.00m,Sporting CP,Portugal,£49.50m,In,2019,w,premier-league
+Manchester United,Odion Ighalo,30,Nigeria,Centre-Forward,CF,£5.85m,Shanghai Greenland Shenhua,China,Loan,In,2019,w,premier-league
+Manchester United,Cameron Borthwick-Jackson,22,England,Left-Back,LB,£900k,Tranmere Rovers,England,"End of loanJan 9, 2020",In,2019,w,premier-league
+Wolverhampton Wanderers,Daniel Podence,24,Portugal,Left Winger,LW,£5.40m,Olympiacos Piraeus,Greece,£17.64m,In,2019,w,premier-league
+Wolverhampton Wanderers,Luke Matheson,17,England,Right-Back,RB,-,Rochdale AFC,England,£990k,In,2019,w,premier-league
+Wolverhampton Wanderers,Leonardo Campana,19,Ecuador,Centre-Forward,CF,£1.80m,Barcelona SC Guayaquil,Ecuador,Free transfer,In,2019,w,premier-league
+Wolverhampton Wanderers,Enzo Loiodice,19,France,Central Midfield,CM,£4.05m,FCO Dijon,France,Loan,In,2019,w,premier-league
+Wolverhampton Wanderers,Ivan Cavaleiro,26,Portugal,Right Winger,RW,£9.00m,Fulham FC,England,"End of loanJan 6, 2020",In,2019,w,premier-league
+Wolverhampton Wanderers,Bright Enobakhare,21,Nigeria,Centre-Forward,CF,£450k,Wigan Athletic,England,"End of loanJan 2, 2020",In,2019,w,premier-league
+Wolverhampton Wanderers,Renat Dadashov,20,Azerbaijan,Centre-Forward,CF,£360k,FC Paços de Ferreira,Portugal,"End of loanDec 31, 2019",In,2019,w,premier-league
+Wolverhampton Wanderers,Rafa Mir,22,Spain,Centre-Forward,CF,£2.70m,Nottingham Forest,England,"End of loanJan 13, 2020",In,2019,w,premier-league
+Wolverhampton Wanderers,Connor Ronan,21,Ireland,Central Midfield,CM,£450k,DAC Dunajska Streda,Slovakia,"End of loanDec 31, 2019",In,2019,w,premier-league
+Everton FC,Kieran Dowell,22,England,Attacking Midfield,AM,£2.70m,Derby County,England,"End of loanJan 2, 2020",In,2019,w,premier-league
+Everton FC,Cenk Tosun,28,Turkey,Centre-Forward,CF,£13.50m,Crystal Palace,England,"End of loanMar 5, 2020",In,2019,w,premier-league
+Leicester City,Ryan Bennett,29,England,Centre-Back,CB,£4.50m,Wolverhampton Wanderers,England,Loan,In,2019,w,premier-league
+Leicester City,Andy King,31,Wales,Central Midfield,CM,£2.25m,Rangers FC,Scotland,"End of loanJan 5, 2020",In,2019,w,premier-league
+West Ham United,Jarrod Bowen,23,England,Right Winger,RW,£9.00m,Hull City,England,£19.17m,In,2019,w,premier-league
+West Ham United,Darren Randolph,32,Ireland,Goalkeeper,GK,£4.05m,Middlesbrough FC,England,£4.23m,In,2019,w,premier-league
+West Ham United,Tomas Soucek,24,Czech Republic,Defensive Midfield,DM,£9.00m,SK Slavia Prague,Czech Republic,Loan fee:£4.05m,In,2019,w,premier-league
+Watford FC,Ignacio Pussetto,24,Argentina,Right Winger,RW,£7.20m,Udinese Calcio,Italy,£7.20m,In,2019,w,premier-league
+Watford FC,João Pedro,18,Brazil,Centre-Forward,CF,£18.00m,Fluminense Football Club,Brazil,£3.60m,In,2019,w,premier-league
+Watford FC,Jorge Segura,22,Colombia,Centre-Back,CB,£900k,Atlas Guadalajara,Mexico,"End of loanDec 31, 2019",In,2019,w,premier-league
+Watford FC,Adalberto Peñaranda,22,Venezuela,Centre-Forward,CF,£1.17m,KAS Eupen,Belgium,"End of loanJan 31, 2020",In,2019,w,premier-league
+Watford FC,Filip Stuparevic,19,Serbia,Centre-Forward,CF,£900k,1.FK Pribram,Czech Republic,"End of loanDec 31, 2019",In,2019,w,premier-league
+Crystal Palace,Scott Banks,18,Scotland,Left Midfield,LM,£225k,Dundee United Reserves,Scotland,£270k,In,2019,w,premier-league
+Crystal Palace,Cenk Tosun,28,Turkey,Centre-Forward,CF,£13.50m,Everton FC,England,Loan,In,2019,w,premier-league
+Newcastle United,Danny Rose,29,England,Left-Back,LB,£18.00m,Tottenham Hotspur,England,Loan fee:£1.80m,In,2019,w,premier-league
+Newcastle United,Valentino Lazaro,23,Austria,Right Midfield,RM,£17.10m,Inter Milan,Italy,Loan fee:£1.35m,In,2019,w,premier-league
+Newcastle United,Nabil Bentaleb,25,Algeria,Central Midfield,CM,£4.50m,FC Schalke 04,Germany,Loan fee:£900k,In,2019,w,premier-league
+Newcastle United,Rolando Aarons,24,England,Left Winger,LW,£450k,Wycombe Wanderers,England,"End of loanJan 13, 2020",In,2019,w,premier-league
+AFC Bournemouth,Sam Surridge,21,England,Centre-Forward,CF,£450k,Swansea City,England,"End of loanJan 1, 2020",In,2019,w,premier-league
+AFC Bournemouth,Emerson Hyndman,23,United States,Central Midfield,CM,£1.35m,Atlanta United FC,United States,"End of loanDec 31, 2019",In,2019,w,premier-league
+AFC Bournemouth,Brad Smith,25,Australia,Left-Back,LB,£900k,Seattle Sounders FC,United States,"End of loanDec 31, 2019",In,2019,w,premier-league
+AFC Bournemouth,Kyle Taylor,20,England,Central Midfield,CM,-,Forest Green Rovers ,England,"End of loanJan 6, 2020",In,2019,w,premier-league
+AFC Bournemouth,Asmir Begovic,32,Bosnia-Herzegovina,Goalkeeper,GK,£4.50m,Qarabağ Ağdam,Azerbaijan,"End of loanDec 31, 2019",In,2019,w,premier-league
+Burnley FC,Josh Brownhill,24,England,Central Midfield,CM,£4.05m,Bristol City,England,£9.00m,In,2019,w,premier-league
+Burnley FC,Nahki Wells,29,Bermuda,Centre-Forward,CF,£3.60m,Queens Park Rangers,England,"End of loanJan 27, 2020",In,2019,w,premier-league
+Southampton FC,Kyle Walker-Peters,22,England,Right-Back,RB,£9.00m,Tottenham Hotspur,England,Loan,In,2019,w,premier-league
+Brighton & Hove Albion,Aaron Mooy,29,Australia,Central Midfield,CM,£10.80m,Huddersfield Town,England,£5.40m,In,2019,w,premier-league
+Brighton & Hove Albion,Tariq Lamptey,19,England,Right-Back,RB,-,Chelsea FC U23,England,£2.97m,In,2019,w,premier-league
+Brighton & Hove Albion,Alexis Mac Allister,21,Argentina,Attacking Midfield,AM,£11.25m,Club Atlético Boca Juniors,Argentina,"End of loanJan 31, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Beram Kayal,31,Israel,Central Midfield,CM,£1.35m,Charlton Athletic,England,"End of loanJan 15, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Billy Arce,21,Ecuador,Left Winger,LW,£450k,Barcelona SC Guayaquil,Ecuador,"End of loanJan 23, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Soufyan Ahannach,24,Netherlands,Left Midfield,LM,£405k,Royale Union Saint Gilloise,Belgium,"End of loanJan 19, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Jan Mlakar,21,Slovenia,Centre-Forward,CF,£1.80m,Queens Park Rangers,England,"End of loanJan 30, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Anders Dreyer,21,Denmark,Right Winger,RW,£540k,SC Heerenveen,Netherlands,"End of loanJan 5, 2020",In,2019,w,premier-league
+Brighton & Hove Albion,Jürgen Locadia,26,Netherlands,Centre-Forward,CF,£9.00m,TSG 1899 Hoffenheim,Germany,"End of loanJan 31, 2020",In,2019,w,premier-league
+Norwich City,Sam McCallum,19,England,Left-Back,LB,-,Coventry City,England,£3.74m,In,2019,w,premier-league
+Norwich City,Lukas Rupp,29,Germany,Central Midfield,CM,£2.70m,TSG 1899 Hoffenheim,Germany,£450k,In,2019,w,premier-league
+Norwich City,Ondrej Duda,25,Slovakia,Attacking Midfield,AM,£11.70m,Hertha BSC,Germany,Loan,In,2019,w,premier-league
+Norwich City,Melvin Sitti,19,France,Defensive Midfield,DM,£360k,FC Sochaux-Montbéliard,France,?,In,2019,w,premier-league
+Norwich City,James Husband,26,England,Left-Back,LB,£900k,Blackpool FC,England,"End of loanJan 24, 2020",In,2019,w,premier-league
+Norwich City,Carlton Morris,24,England,Centre-Forward,CF,£135k,Rotherham United,England,"End of loanJan 7, 2020",In,2019,w,premier-league
+Norwich City,Louis Thompson,25,Wales,Defensive Midfield,DM,£225k,Shrewsbury Town,England,"End of loanJan 2, 2020",In,2019,w,premier-league
+Norwich City,Rocky Bushiri,20,Belgium,Centre-Back,CB,£1.08m,Blackpool FC,England,"End of loanJan 6, 2020",In,2019,w,premier-league
+Sheffield United,Sander Berge,21,Norway,Defensive Midfield,DM,£19.80m,KRC Genk,Belgium,£19.35m,In,2019,w,premier-league
+Sheffield United,Jack Robinson,26,England,Left-Back,LB,£2.25m,Nottingham Forest,England,?,In,2019,w,premier-league
+Sheffield United,Panagiotis Retsos,21,Greece,Centre-Back,CB,£8.10m,Bayer 04 Leverkusen,Germany,Loan,In,2019,w,premier-league
+Sheffield United,Richairo Zivkovic,23,Netherlands,Centre-Forward,CF,£720k,Changchun Yatai,China,Loan,In,2019,w,premier-league
+Sheffield United,Mark Duffy,34,England,Right Midfield,RM,£450k,Stoke City,England,"End of loanJan 30, 2020",In,2019,w,premier-league
+Sheffield United,Jack Rodwell,28,England,Defensive Midfield,DM,£1.35m,,Without Club,-,In,2019,w,premier-league
+Sheffield United,Jake Wright,33,England,Centre-Back,CB,£135k,Bolton Wanderers,England,"End of loanJan 5, 2020",In,2019,w,premier-league
+Aston Villa,Mbwana Samatta,27,Tanzania,Centre-Forward,CF,£10.80m,KRC Genk,Belgium,£9.45m,In,2019,w,premier-league
+Aston Villa,Borja Bastón,27,Spain,Centre-Forward,CF,£3.60m,Swansea City,England,Free transfer,In,2019,w,premier-league
+Aston Villa,Pepe Reina,37,Spain,Goalkeeper,GK,£720k,AC Milan,Italy,Loan,In,2019,w,premier-league
+Aston Villa,Danny Drinkwater,29,England,Central Midfield,CM,£5.40m,Chelsea FC,England,Loan,In,2019,w,premier-league
+Aston Villa,Matija Sarkic,22,Montenegro,Goalkeeper,GK,£90k,Livingston FC,Scotland,"End of loanJan 3, 2020",In,2019,w,premier-league
+Aston Villa,Scott Hogan,27,Ireland,Centre-Forward,CF,£2.70m,Stoke City,England,"End of loanJan 28, 2020",In,2019,w,premier-league
+Aston Villa,Rushian Hepburn-Murphy,21,England,Centre-Forward,CF,£900k,Tranmere Rovers,England,"End of loanJan 30, 2020",In,2019,w,premier-league
+Aston Villa,James Chester,31,Wales,Centre-Back,CB,£2.16m,Stoke City,England,"End of loanMay 31, 2020",In,2019,w,premier-league
+Aston Villa,Andre Green,21,England,Left Winger,LW,£1.80m,Preston North End,England,"End of loanJan 1, 2020",In,2019,w,premier-league
+Manchester City,Patrick Roberts,22,England,Right Winger,RW,£3.15m,Middlesbrough FC,England,Loan,Out,2019,w,premier-league
+Manchester City,Angeliño,23,Spain,Left-Back,LB,£14.40m,RB Leipzig,Germany,Loan,Out,2019,w,premier-league
+Chelsea FC,Michael Hector,27,Jamaica,Centre-Back,CB,£2.70m,Fulham FC,England,£5.31m,Out,2019,w,premier-league
+Chelsea FC,Victor Moses,29,Nigeria,Right Midfield,RM,£7.65m,Inter Milan,Italy,Loan,Out,2019,w,premier-league
+Chelsea FC,Jamal Blackman,26,England,Goalkeeper,GK,£450k,Bristol Rovers,England,Loan,Out,2019,w,premier-league
+Chelsea FC,Danny Drinkwater,29,England,Central Midfield,CM,£5.40m,Aston Villa,England,Loan,Out,2019,w,premier-league
+Tottenham Hotspur,Christian Eriksen,27,Denmark,Attacking Midfield,AM,£81.00m,Inter Milan,Italy,£18.00m,Out,2019,w,premier-league
+Tottenham Hotspur,Danny Rose,29,England,Left-Back,LB,£18.00m,Newcastle United,England,Loan fee:£1.80m,Out,2019,w,premier-league
+Tottenham Hotspur,Victor Wanyama,28,Kenya,Defensive Midfield,DM,£10.80m,Montreal Impact,United States,Free transfer,Out,2019,w,premier-league
+Tottenham Hotspur,Jack Clarke,19,England,Right Winger,RW,£5.40m,Queens Park Rangers,England,Loan,Out,2019,w,premier-league
+Tottenham Hotspur,Cameron Carter-Vickers,22,United States,Centre-Back,CB,£2.25m,Luton Town,England,Loan,Out,2019,w,premier-league
+Tottenham Hotspur,Kyle Walker-Peters,22,England,Right-Back,RB,£9.00m,Southampton FC,England,Loan,Out,2019,w,premier-league
+Arsenal FC,Konstantinos Mavropanos,22,Greece,Centre-Back,CB,£2.70m,1.FC Nuremberg,Germany,Loan,Out,2019,w,premier-league
+Arsenal FC,Dejan Iliev,24,North Macedonia,Goalkeeper,GK,£270k,Jagiellonia Bialystok,Poland,Loan,Out,2019,w,premier-league
+Manchester United,Ashley Young,34,England,Left Midfield,LM,£3.60m,Inter Milan,Italy,£1.35m,Out,2019,w,premier-league
+Manchester United,Cameron Borthwick-Jackson,22,England,Left-Back,LB,£900k,Oldham Athletic,England,Loan,Out,2019,w,premier-league
+Manchester United,Marcos Rojo,29,Argentina,Centre-Back,CB,£9.00m,Club Estudiantes de La Plata,Argentina,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Ivan Cavaleiro,26,Portugal,Right Winger,RW,£9.00m,Fulham FC,England,£10.62m,Out,2019,w,premier-league
+Wolverhampton Wanderers,Patrick Cutrone,22,Italy,Centre-Forward,CF,£18.00m,ACF Fiorentina,Italy,Loan fee:£2.70m,Out,2019,w,premier-league
+Wolverhampton Wanderers,Sylvain Deslandes,22,France,Centre-Back,CB,£90k,SCM FC Arges,Romania,Free transfer,Out,2019,w,premier-league
+Wolverhampton Wanderers,Luke Matheson,17,England,Right-Back,RB,-,Rochdale AFC,England,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Connor Ronan,21,Ireland,Central Midfield,CM,£450k,Blackpool FC,England,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Rafa Mir,22,Spain,Centre-Forward,CF,£2.70m,SD Huesca,Spain,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Jesús Vallejo,23,Spain,Centre-Back,CB,£9.00m,Granada CF,Spain,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Ryan Bennett,29,England,Centre-Back,CB,£4.50m,Leicester City,England,Loan,Out,2019,w,premier-league
+Wolverhampton Wanderers,Jordan Graham,24,England,Left Winger,LW,£225k,Gillingham FC,England,Loan,Out,2019,w,premier-league
+Everton FC,Kieran Dowell,22,England,Attacking Midfield,AM,£2.70m,Wigan Athletic,England,Loan,Out,2019,w,premier-league
+Everton FC,Cenk Tosun,28,Turkey,Centre-Forward,CF,£13.50m,Crystal Palace,England,Loan,Out,2019,w,premier-league
+Everton FC,Jonas Lössl,30,Denmark,Goalkeeper,GK,£4.50m,Huddersfield Town,England,Loan,Out,2019,w,premier-league
+Leicester City,George Thomas,22,Wales,Attacking Midfield,AM,£225k,ADO Den Haag,Netherlands,Loan,Out,2019,w,premier-league
+Leicester City,Filip Benkovic,22,Croatia,Centre-Back,CB,£8.10m,Bristol City,England,Loan,Out,2019,w,premier-league
+Leicester City,Andy King,31,Wales,Central Midfield,CM,£2.25m,Huddersfield Town,England,Loan,Out,2019,w,premier-league
+West Ham United,Roberto,33,Spain,Goalkeeper,GK,£900k,Deportivo Alavés,Spain,Loan,Out,2019,w,premier-league
+West Ham United,Winston Reid,31,New Zealand,Centre-Back,CB,£4.50m,Sporting Kansas City,United States,Loan,Out,2019,w,premier-league
+Watford FC,Marvin Zeegelaar,29,Netherlands,Left-Back,LB,£1.35m,Udinese Calcio,Italy,£1.80m,Out,2019,w,premier-league
+Watford FC,Filip Stuparevic,19,Serbia,Centre-Forward,CF,£900k,FK Vozdovac,Serbia,Loan,Out,2019,w,premier-league
+Watford FC,Dimitri Foulquier,26,Guadeloupe,Right-Back,RB,£2.25m,Granada CF,Spain,Loan,Out,2019,w,premier-league
+Watford FC,Pontus Dahlberg,21,Sweden,Goalkeeper,GK,£900k,FC Emmen,Netherlands,Loan,Out,2019,w,premier-league
+Watford FC,Sebastian Prödl,32,Austria,Centre-Back,CB,£1.35m,,Without Club,-,Out,2019,w,premier-league
+Crystal Palace,Dion Henry,22,England,Goalkeeper,GK,£45k,Hampton & Richmond Borough,England,Loan,Out,2019,w,premier-league
+Crystal Palace,Connor Wickham,26,England,Centre-Forward,CF,£2.25m,Sheffield Wednesday,England,Loan,Out,2019,w,premier-league
+Crystal Palace,Scott Banks,18,Scotland,Left Midfield,LM,£225k,Alloa Athletic FC,Scotland,Loan,Out,2019,w,premier-league
+Crystal Palace,Víctor Camarasa,25,Spain,Central Midfield,CM,£4.50m,Real Betis Balompié,Spain,"End of loanJan 12, 2020",Out,2019,w,premier-league
+Crystal Palace,Cenk Tosun,28,Turkey,Centre-Forward,CF,£13.50m,Everton FC,England,"End of loanMar 5, 2020",Out,2019,w,premier-league
+Newcastle United,Sung-yong Ki,31,"Korea, South",Defensive Midfield,DM,£4.05m,RCD Mallorca,Spain,Free transfer,Out,2019,w,premier-league
+Newcastle United,Rolando Aarons,24,England,Left Winger,LW,£450k,Motherwell FC,Scotland,Loan,Out,2019,w,premier-league
+AFC Bournemouth,Emerson Hyndman,23,United States,Central Midfield,CM,£1.35m,Atlanta United FC,United States,?,Out,2019,w,premier-league
+AFC Bournemouth,Asmir Begovic,32,Bosnia-Herzegovina,Goalkeeper,GK,£4.50m,AC Milan,Italy,Loan,Out,2019,w,premier-league
+AFC Bournemouth,Brad Smith,25,Australia,Left-Back,LB,£900k,Cardiff City,England,Loan,Out,2019,w,premier-league
+Burnley FC,Nahki Wells,29,Bermuda,Centre-Forward,CF,£3.60m,Bristol City,England,£4.28m,Out,2019,w,premier-league
+Burnley FC,Ryan Cooney,19,England,Right-Back,RB,-,Morecambe FC,England,Loan,Out,2019,w,premier-league
+Burnley FC,Danny Drinkwater,29,England,Central Midfield,CM,£5.40m,Chelsea FC,England,"End of loanJan 6, 2020",Out,2019,w,premier-league
+Southampton FC,Cédric Soares,28,Portugal,Right-Back,RB,£9.00m,Arsenal FC,England,Loan,Out,2019,w,premier-league
+Southampton FC,Maya Yoshida,31,Japan,Centre-Back,CB,£4.50m,UC Sampdoria,Italy,Loan,Out,2019,w,premier-league
+Brighton & Hove Albion,Soufyan Ahannach,24,Netherlands,Left Midfield,LM,£405k,Go Ahead Eagles Deventer,Netherlands,Free transfer,Out,2019,w,premier-league
+Brighton & Hove Albion,Tudor Baluta,20,Romania,Defensive Midfield,DM,£3.60m,ADO Den Haag,Netherlands,Loan,Out,2019,w,premier-league
+Brighton & Hove Albion,Leon Balogun,31,Nigeria,Centre-Back,CB,£1.35m,Wigan Athletic,England,Loan,Out,2019,w,premier-league
+Brighton & Hove Albion,Gaëtan Bong,31,Cameroon,Left-Back,LB,£1.80m,Nottingham Forest,England,?,Out,2019,w,premier-league
+Brighton & Hove Albion,Jürgen Locadia,26,Netherlands,Centre-Forward,CF,£9.00m,FC Cincinnati,United States,Loan,Out,2019,w,premier-league
+Brighton & Hove Albion,Anders Dreyer,21,Denmark,Right Winger,RW,£540k,FC Midtjylland,Denmark,?,Out,2019,w,premier-league
+Brighton & Hove Albion,Jan Mlakar,21,Slovenia,Centre-Forward,CF,£1.80m,Wigan Athletic,England,Loan,Out,2019,w,premier-league
+Brighton & Hove Albion,Aaron Mooy,29,Australia,Central Midfield,CM,£10.80m,Huddersfield Town,England,"End of loanJan 23, 2020",Out,2019,w,premier-league
+Brighton & Hove Albion,Billy Arce,21,Ecuador,Left Winger,LW,£450k,LDU Quito,Ecuador,Loan,Out,2019,w,premier-league
+Norwich City,Dennis Srbeny,25,Germany,Centre-Forward,CF,£900k,SC Paderborn 07,Germany,£180k,Out,2019,w,premier-league
+Norwich City,Sam McCallum,19,England,Left-Back,LB,-,Coventry City,England,Loan,Out,2019,w,premier-league
+Norwich City,Carlton Morris,24,England,Centre-Forward,CF,£135k,Milton Keynes Dons,England,Loan,Out,2019,w,premier-league
+Norwich City,Melvin Sitti,19,France,Defensive Midfield,DM,£360k,FC Sochaux-Montbéliard,France,Loan,Out,2019,w,premier-league
+Norwich City,James Husband,26,England,Left-Back,LB,£900k,Blackpool FC,England,Free transfer,Out,2019,w,premier-league
+Norwich City,Rocky Bushiri,20,Belgium,Centre-Back,CB,£1.08m,Sint-Truidense VV,Belgium,Loan,Out,2019,w,premier-league
+Norwich City,Louis Thompson,25,Wales,Defensive Midfield,DM,£225k,Milton Keynes Dons,England,Loan,Out,2019,w,premier-league
+Norwich City,Philip Heise,28,Germany,Left-Back,LB,£630k,1.FC Nuremberg,Germany,Loan,Out,2019,w,premier-league
+Norwich City,Patrick Roberts,22,England,Right Winger,RW,£3.15m,Manchester City,England,"End of loanJan 1, 2020",Out,2019,w,premier-league
+Norwich City,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,Sevilla FC,Spain,"End of loanJan 30, 2020",Out,2019,w,premier-league
+Norwich City,Ralf Fährmann,31,Germany,Goalkeeper,GK,£2.70m,FC Schalke 04,Germany,"End of loanMar 9, 2020",Out,2019,w,premier-league
+Sheffield United,Richard Stearman,32,England,Centre-Back,CB,£900k,Huddersfield Town,England,£180k,Out,2019,w,premier-league
+Sheffield United,Jake Bennett,23,England,Right-Back,RB,-,Alfreton Town,England,Free transfer,Out,2019,w,premier-league
+Sheffield United,Ravel Morrison,26,Jamaica,Attacking Midfield,AM,£675k,Middlesbrough FC,England,Loan,Out,2019,w,premier-league
+Sheffield United,Kean Bryan,23,England,Centre-Back,CB,£225k,Bolton Wanderers,England,Loan,Out,2019,w,premier-league
+Sheffield United,Mark Duffy,34,England,Right Midfield,RM,£450k,ADO Den Haag,Netherlands,Loan,Out,2019,w,premier-league
+Sheffield United,Callum Robinson,24,Ireland,Left Winger,LW,£6.30m,West Bromwich Albion,England,Loan,Out,2019,w,premier-league
+Sheffield United,Jake Wright,33,England,Centre-Back,CB,£135k,,Without Club,-,Out,2019,w,premier-league
+Aston Villa,Jonathan Kodjia,30,Cote d'Ivoire,Centre-Forward,CF,£3.60m,Al Gharafa Sports Club,Qatar,£2.70m,Out,2019,w,premier-league
+Aston Villa,Lovre Kalinic,29,Croatia,Goalkeeper,GK,£3.15m,FC Toulouse,France,Loan,Out,2019,w,premier-league
+Aston Villa,Andre Green,21,England,Left Winger,LW,£1.80m,Charlton Athletic,England,Loan,Out,2019,w,premier-league
+Aston Villa,Scott Hogan,27,Ireland,Centre-Forward,CF,£2.70m,Birmingham City,England,Loan,Out,2019,w,premier-league
+Aston Villa,Rushian Hepburn-Murphy,21,England,Centre-Forward,CF,£900k,Derby County U23,England,Loan,Out,2019,w,premier-league
+Aston Villa,James Chester,31,Wales,Centre-Back,CB,£4.05m,Stoke City,England,Loan,Out,2019,w,premier-league
