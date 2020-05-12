@@ -5,9 +5,9 @@ Arsenal FC,Rémi Garde,30,France,Defensive Midfield,DM,-,RC Strasbourg Alsace,Fr
 Arsenal FC,Gavin McGowan,21,England,Right-Back,RB,-,Luton Town,England,"End of loanApr 1, 1997",In,1996,s,premier-league
 Arsenal FC,Jason Crowe,17,England,Right-Back,RB,-,Arsenal FC U18,England,-,In,1996,s,premier-league
 Derby County,Chris Powell,26,England,Left-Back,LB,-,Crystal Palace,England,£1.13m,In,1996,s,premier-league
-Derby County,Christian Dailly,22,Scotland,Centre-Back,CB,-,Dundee United FC,Scotland,£675k,In,1996,s,premier-league
-Derby County,Gary Rowett,22,England,Right-Back,RB,-,Everton FC,England,£378k,In,1996,s,premier-league
-Derby County,Paul McGrath,36,Ireland,Centre-Back,CB,-,Aston Villa,England,£113k,In,1996,s,premier-league
+Derby County,Christian Dailly,22,Scotland,Centre-Back,CB,-,Dundee United FC,Scotland,£675Th.,In,1996,s,premier-league
+Derby County,Gary Rowett,22,England,Right-Back,RB,-,Everton FC,England,£378Th.,In,1996,s,premier-league
+Derby County,Paul McGrath,36,Ireland,Centre-Back,CB,-,Aston Villa,England,£113Th.,In,1996,s,premier-league
 Derby County,Paul Parker,32,England,Right-Back,RB,-,Manchester United,England,Free transfer,In,1996,s,premier-league
 Derby County,Matt Carbon,21,England,Centre-Back,CB,-,Lincoln City,England,Free transfer,In,1996,s,premier-league
 Derby County,Mauricio Solís,23,Costa Rica,Left Midfield,LM,-,CS Herediano,Costa Rica,?,In,1996,s,premier-league
@@ -25,8 +25,8 @@ Everton FC,Richard Dunne,16,Ireland,Centre-Back,CB,-,Everton FC U18,England,-,In
 Everton FC,Danny Cadamarteri,16,England,Right Winger,RW,-,Everton FC U18,England,-,In,1996,s,premier-league
 Everton FC,Matt Jackson,24,England,Right-Back,RB,-,Queens Park Rangers,England,"End of loanSep 1, 1996",In,1996,s,premier-league
 Everton FC,Phil Jevons,16,England,Centre-Forward,CF,-,Everton FC U18,England,-,In,1996,s,premier-league
-Everton FC,Paul Holmes,28,England,Midfielder,Midfielder,-,West Bromwich Albion,England,"End of loanJun 30, 1996",In,1996,s,premier-league
 Everton FC,Vinny Samways,27,England,Central Midfield,CM,-,Birmingham City,England,"End of loanJun 30, 1996",In,1996,s,premier-league
+Everton FC,Paul Holmes,28,England,Midfielder,Midfielder,-,West Bromwich Albion,England,"End of loanJun 30, 1996",In,1996,s,premier-league
 Liverpool FC,Patrik Berger,22,Czech Republic,Attacking Midfield,AM,-,Borussia Dortmund,Germany,£3.15m,In,1996,s,premier-league
 Liverpool FC,Bjørn Tore Kvarme,24,Norway,Centre-Back,CB,-,Rosenborg BK,Norway,Free transfer,In,1996,s,premier-league
 Liverpool FC,Haukur Ingi Gudnason,19,Iceland,Forward,Forward,-,Keflavík ÍF,Iceland,?,In,1996,s,premier-league
@@ -44,9 +44,9 @@ Tottenham Hotspur,Simon Brown,19,England,Goalkeeper,GK,-,Tottenham Hotspur U18,E
 Blackburn Rovers,Georgios Donis,26,Greece,Right Winger,RW,-,Panathinaikos Athens,Greece,Free transfer,In,1996,s,premier-league
 Blackburn Rovers,Niklas Gudmundsson,25,Sweden,Midfielder,Midfielder,-,Ipswich Town,England,"End of loanMay 31, 1997",In,1996,s,premier-league
 Blackburn Rovers,Damien Duff,17,Ireland,Right Midfield,RM,-,Blackburn Rovers U18,England,-,In,1996,s,premier-league
-Southampton FC,Egil Östenstad,24,Norway,Centre-Forward,CF,-,Viking Stavanger,Norway,£720k,In,1996,s,premier-league
-Southampton FC,Claus Lundekvam,23,Norway,Centre-Back,CB,-,SK Brann,Norway,£540k,In,1996,s,premier-league
-Southampton FC,Graham Potter,21,England,Left-Back,LB,-,Stoke City,England,£282k,In,1996,s,premier-league
+Southampton FC,Egil Östenstad,24,Norway,Centre-Forward,CF,-,Viking Stavanger,Norway,£720Th.,In,1996,s,premier-league
+Southampton FC,Claus Lundekvam,23,Norway,Centre-Back,CB,-,SK Brann,Norway,£540Th.,In,1996,s,premier-league
+Southampton FC,Graham Potter,21,England,Left-Back,LB,-,Stoke City,England,£282Th.,In,1996,s,premier-league
 Southampton FC,Garry Monk,17,England,Centre-Back,CB,-,Torquay United FC,England,Free transfer,In,1996,s,premier-league
 Southampton FC,Russell Watkinson,18,England,Midfielder,Midfielder,-,Woking FC,England,Free transfer,In,1996,s,premier-league
 Southampton FC,Eyal Berkovic,24,Israel,Attacking Midfield,AM,-,Maccabi Haifa,Israel,Loan,In,1996,s,premier-league
@@ -58,14 +58,14 @@ Southampton FC,Christer Warren,22,England,Midfielder,Midfielder,-,Brighton & Hov
 Sunderland AFC,Lee Clark,23,England,Right Winger,RW,-,Newcastle United,England,£2.93m,In,1996,s,premier-league
 Sunderland AFC,Alex Rae,26,Scotland,Central Midfield,CM,-,Millwall FC,England,£1.35m,In,1996,s,premier-league
 Sunderland AFC,Niall Quinn,29,Ireland,Centre-Forward,CF,-,Manchester City,England,£1.17m,In,1996,s,premier-league
-Sunderland AFC,Tony Coton,35,England,Goalkeeper,GK,-,Manchester United,England,£608k,In,1996,s,premier-league
-Sunderland AFC,Darren Williams,19,England,Defender,Defender,-,York City,England,£68k,In,1996,s,premier-league
+Sunderland AFC,Tony Coton,35,England,Goalkeeper,GK,-,Manchester United,England,£608Th.,In,1996,s,premier-league
+Sunderland AFC,Darren Williams,19,England,Defender,Defender,-,York City,England,£68Th.,In,1996,s,premier-league
 Sunderland AFC,Chris Tate,18,England,Forward,Forward,-,York City,England,?,In,1996,s,premier-league
 Sunderland AFC,Sam Aiston,20,England,Midfielder,Midfielder,-,Chester City (diss.),England,"End of loanMay 31, 1997",In,1996,s,premier-league
 Sunderland AFC,Paul Heckingbottom,18,England,Left-Back,LB,-,Sunderland AFC U18,England,-,In,1996,s,premier-league
 West Ham United,Richard Hall,24,England,Centre-Back,CB,-,Southampton FC,England,£1.53m,In,1996,s,premier-league
-West Ham United,Stan Lazaridis,23,Australia,Left Midfield,LM,-,West Adelaide SC,Australia,£405k,In,1996,s,premier-league
-West Ham United,Scott Mean,22,England,Midfielder,Midfielder,-,AFC Bournemouth,England,£135k,In,1996,s,premier-league
+West Ham United,Stan Lazaridis,23,Australia,Left Midfield,LM,-,West Adelaide SC,Australia,£405Th.,In,1996,s,premier-league
+West Ham United,Scott Mean,22,England,Midfielder,Midfielder,-,AFC Bournemouth,England,£135Th.,In,1996,s,premier-league
 West Ham United,Paulo Futre,30,Portugal,Left Winger,LW,-,Milan AC,Italy,Free transfer,In,1996,s,premier-league
 West Ham United,Mark Bowen,32,Wales,Left-Back,LB,-,Norwich City,England,Free transfer,In,1996,s,premier-league
 West Ham United,Florin Raducioiu,26,Romania,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,Loan,In,1996,s,premier-league
@@ -75,8 +75,8 @@ West Ham United,Chris Coyne,17,Australia,Centre-Back,CB,-,West Ham United U18,En
 Leeds United,Lee Sharpe,25,England,Left Midfield,LM,-,Manchester United,England,£6.08m,In,1996,s,premier-league
 Leeds United,Lee Bowyer,19,England,Central Midfield,CM,-,Charlton Athletic,England,£3.42m,In,1996,s,premier-league
 Leeds United,Nigel Martyn,29,England,Goalkeeper,GK,-,Crystal Palace,England,£3.02m,In,1996,s,premier-league
-Leeds United,Derek Lilley,22,Scotland,Centre-Forward,CF,-,Greenock Morton FC,Scotland,£675k,In,1996,s,premier-league
-Leeds United,Gunnar Halle,30,Norway,Right-Back,RB,-,Oldham Athletic,England,£518k,In,1996,s,premier-league
+Leeds United,Derek Lilley,22,Scotland,Centre-Forward,CF,-,Greenock Morton FC,Scotland,£675Th.,In,1996,s,premier-league
+Leeds United,Gunnar Halle,30,Norway,Right-Back,RB,-,Oldham Athletic,England,£518Th.,In,1996,s,premier-league
 Leeds United,Ian Rush,34,Wales,Centre-Forward,CF,-,Liverpool FC,England,Free transfer,In,1996,s,premier-league
 Leeds United,Mark Hateley,34,England,Centre-Forward,CF,-,Queens Park Rangers,England,Loan,In,1996,s,premier-league
 Leeds United,Paul Evans,22,South Africa,Goalkeeper,GK,-,Crystal Palace,England,"End of loanJun 30, 1996",In,1996,s,premier-league
@@ -104,7 +104,7 @@ Middlesbrough FC,Micky Cummins,18,Ireland,Left Midfield,LM,-,Middlesbrough FC U1
 Middlesbrough FC,Ben Roberts,21,England,Goalkeeper,GK,-,Bradford City,England,"End of loanSep 1, 1996",In,1996,s,premier-league
 Nottingham Forest,Pierre van Hooijdonk,26,Netherlands,Centre-Forward,CF,-,Celtic FC,Scotland,£5.40m,In,1996,s,premier-league
 Nottingham Forest,Dean Saunders,32,Wales,Centre-Forward,CF,-,Galatasaray SK,Turkey,£1.53m,In,1996,s,premier-league
-Nottingham Forest,Chris Allen,23,England,Midfielder,Midfielder,-,Oxford United,England,£437k,In,1996,s,premier-league
+Nottingham Forest,Chris Allen,23,England,Midfielder,Midfielder,-,Oxford United,England,£437Th.,In,1996,s,premier-league
 Nottingham Forest,Brian O'Neil,24,Scotland,Centre-Back,CB,-,Celtic FC,Scotland,Loan,In,1996,s,premier-league
 Nottingham Forest,Nikola Jerkan,31,Croatia,Centre-Back,CB,-,Real Oviedo,Spain,?,In,1996,s,premier-league
 Nottingham Forest,Steve Guinan,21,England,Centre-Forward,CF,-,Burnley FC,England,"End of loanApr 1, 1997",In,1996,s,premier-league
@@ -129,29 +129,29 @@ Manchester United,Kevin Pilkington,23,England,Goalkeeper,GK,-,Rotherham United,E
 Manchester United,Wes Brown,16,England,Centre-Back,CB,-,Manchester United U18,England,-,In,1996,s,premier-league
 Manchester United,Pat McGibbon,22,Northern Ireland,Centre-Back,CB,-,Swansea City,Wales,"End of loanSep 1, 1996",In,1996,s,premier-league
 Manchester United,Jon Macken,18,Ireland,Centre-Forward,CF,-,Manchester United U18,England,-,In,1996,s,premier-league
-Coventry City,Régis Genaux,22,Belgium,Right-Back,RB,-,Standard Liège,Belgium,£945k,In,1996,s,premier-league
-Coventry City,Michael O'Neill,26,Northern Ireland,Attacking Midfield,AM,-,Hibernian FC,Scotland,£675k,In,1996,s,premier-league
-Coventry City,Gary McAllister,31,Scotland,Central Midfield,CM,-,Leeds United,England,£225k,In,1996,s,premier-league
+Coventry City,Régis Genaux,22,Belgium,Right-Back,RB,-,Standard Liège,Belgium,£945Th.,In,1996,s,premier-league
+Coventry City,Michael O'Neill,26,Northern Ireland,Attacking Midfield,AM,-,Hibernian FC,Scotland,£675Th.,In,1996,s,premier-league
+Coventry City,Gary McAllister,31,Scotland,Central Midfield,CM,-,Leeds United,England,£225Th.,In,1996,s,premier-league
 Coventry City,Simon Haworth,20,Wales,Forward,Forward,-,Cardiff City,Wales,?,In,1996,s,premier-league
 Coventry City,Eoin Jess,25,Scotland,Second Striker,SS,-,Aberdeen FC,Scotland,?,In,1996,s,premier-league
 Coventry City,Craig Faulconbridge,18,England,Centre-Forward,CF,-,Coventry City U18,England,-,In,1996,s,premier-league
 Coventry City,Steve Morgan,27,England,Left-Back,LB,-,Bristol Rovers,England,"End of loanJun 30, 1996",In,1996,s,premier-league
 Wimbledon FC,Ben Thatcher,20,Wales,Left-Back,LB,-,Millwall FC,England,£2.37m,In,1996,s,premier-league
-Wimbledon FC,Duncan Jupp,21,Scotland,Right-Back,RB,-,Fulham FC,England,£135k,In,1996,s,premier-league
+Wimbledon FC,Duncan Jupp,21,Scotland,Right-Back,RB,-,Fulham FC,England,£135Th.,In,1996,s,premier-league
 Wimbledon FC,Carl Cort,18,Guyana,Centre-Forward,CF,-,Milton Keynes Dons U18,England,-,In,1996,s,premier-league
 Wimbledon FC,Damien Francis,17,Jamaica,Central Midfield,CM,-,Milton Keynes Dons U18,England,-,In,1996,s,premier-league
 Wimbledon FC,Peter Hawkins,17,England,Left-Back,LB,-,Milton Keynes Dons U18,England,-,In,1996,s,premier-league
 Leicester City,Kasey Keller,26,United States,Goalkeeper,GK,-,Millwall FC,England,£1.22m,In,1996,s,premier-league
 Leicester City,Muzzy Izzet,21,Turkey,Right Midfield,RM,-,Chelsea FC,England,£1.08m,In,1996,s,premier-league
 Leicester City,Ian Marshall,30,England,Centre-Forward,CF,-,Ipswich Town,England,£1.08m,In,1996,s,premier-league
-Leicester City,Spencer Prior,25,England,Centre-Back,CB,-,Norwich City,England,£630k,In,1996,s,premier-league
+Leicester City,Spencer Prior,25,England,Centre-Back,CB,-,Norwich City,England,£630Th.,In,1996,s,premier-league
 Leicester City,Sascha Lenhart,22,Germany,Forward,Forward,-,Royal Antwerp FC,Belgium,Free transfer,In,1996,s,premier-league
 Leicester City,Stuart Wilson,18,England,Midfielder,Midfielder,-,,Unknown,Free transfer,In,1996,s,premier-league
 Leicester City,Stuart Campbell,18,Scotland,Defensive Midfield,DM,-,Leicester City U18,England,-,In,1996,s,premier-league
 Sheffield Wednesday,Andy Booth,22,England,Centre-Forward,CF,-,Huddersfield Town,England,£3.51m,In,1996,s,premier-league
 Sheffield Wednesday,Patrick Blondeau,29,France,Right-Back,RB,-,AS Monaco,France,£2.34m,In,1996,s,premier-league
-Sheffield Wednesday,Wayne Collins,27,England,Midfielder,Midfielder,-,Crewe Alexandra,England,£810k,In,1996,s,premier-league
-Sheffield Wednesday,Scott Oakes,-,England,Forward,Forward,-,Luton Town,England,£576k,In,1996,s,premier-league
+Sheffield Wednesday,Wayne Collins,27,England,Midfielder,Midfielder,-,Crewe Alexandra,England,£810Th.,In,1996,s,premier-league
+Sheffield Wednesday,Scott Oakes,-,England,Forward,Forward,-,Luton Town,England,£576Th.,In,1996,s,premier-league
 Sheffield Wednesday,Mike Williams,27,England,Forward,Forward,-,Peterborough United,England,"End of loanApr 19, 1997",In,1996,s,premier-league
 Sheffield Wednesday,Mike Williams,26,England,Forward,Forward,-,Huddersfield Town,England,"End of loanOct 26, 1996",In,1996,s,premier-league
 Sheffield Wednesday,Benny Carbone,25,Italy,Second Striker,SS,-,FC Internazionale,Italy,?,In,1996,s,premier-league
@@ -161,15 +161,15 @@ Sheffield Wednesday,Simon Weaver,18,England,Centre-Back,CB,-,Sheffield Wednesday
 Sheffield Wednesday,Ryan Anthony Jones,22,Wales,Midfielder,Midfielder,-,Scunthorpe United,England,"End of loanJun 30, 1996",In,1996,s,premier-league
 Arsenal FC,Paul Merson,28,England,Right Midfield,RM,-,Middlesbrough FC,England,£5.94m,Out,1996,s,premier-league
 Arsenal FC,Paul Dickov,23,Scotland,Centre-Forward,CF,-,Manchester City,England,£1.35m,Out,1996,s,premier-league
-Arsenal FC,Eddie McGoldrick,31,Ireland,Central Midfield,CM,-,Manchester City,England,£405k,Out,1996,s,premier-league
+Arsenal FC,Eddie McGoldrick,31,Ireland,Central Midfield,CM,-,Manchester City,England,£405Th.,Out,1996,s,premier-league
 Arsenal FC,John Jensen,31,Denmark,Central Midfield,CM,-,Bröndby IF,Denmark,Free transfer,Out,1996,s,premier-league
 Arsenal FC,Ben Smith,17,England,Attacking Midfield,AM,-,Reading FC,England,Free transfer,Out,1996,s,premier-league
 Arsenal FC,Adrian Clarke,21,England,Midfielder,Midfielder,-,Rotherham United,England,Loan,Out,1996,s,premier-league
 Arsenal FC,Chris Kiwomya,26,England,Centre-Forward,CF,-,AC Le Havre,France,Loan,Out,1996,s,premier-league
 Arsenal FC,Roy O'Brien,21,Ireland,Midfielder,Midfielder,-,Wigan Athletic,England,?,Out,1996,s,premier-league
 Arsenal FC,Mark Flatts,23,England,Midfielder,Midfielder,-,,Retired,-,Out,1996,s,premier-league
-Derby County,Darren Wassall,28,England,Defender,Defender,-,Birmingham City,England,£169k,Out,1996,s,premier-league
-Derby County,Darren Wrack,20,England,Central Midfield,CM,-,Grimsby Town,England,£135k,Out,1996,s,premier-league
+Derby County,Darren Wassall,28,England,Defender,Defender,-,Birmingham City,England,£169Th.,Out,1996,s,premier-league
+Derby County,Darren Wrack,20,England,Central Midfield,CM,-,Grimsby Town,England,£135Th.,Out,1996,s,premier-league
 Derby County,Martin Taylor,29,England,Goalkeeper,GK,-,Crewe Alexandra,England,Loan,Out,1996,s,premier-league
 Derby County,Andy Quy,20,England,Goalkeeper,GK,-,Grimsby Town,England,Free transfer,Out,1996,s,premier-league
 Derby County,Ian Ashbee,19,England,Defensive Midfield,DM,-,Thróttur Reykjavík,Iceland,Loan,Out,1996,s,premier-league
@@ -184,8 +184,8 @@ Derby County,Paul Trollope,24,Wales,Attacking Midfield,AM,-,Grimsby Town,England
 Derby County,David Preece,33,England,Midfielder,Midfielder,-,Cambridge United,England,?,Out,1996,s,premier-league
 Derby County,Paul Trollope,24,Wales,Attacking Midfield,AM,-,Crystal Palace,England,Loan,Out,1996,s,premier-league
 Everton FC,Daniel Amokachi,23,Nigeria,Centre-Forward,CF,-,Besiktas JK,Turkey,£1.80m,Out,1996,s,premier-league
-Everton FC,Gary Ablett,30,England,Centre-Back,CB,-,Birmingham City,England,£396k,Out,1996,s,premier-league
-Everton FC,Gary Rowett,22,England,Right-Back,RB,-,Derby County,England,£378k,Out,1996,s,premier-league
+Everton FC,Gary Ablett,30,England,Centre-Back,CB,-,Birmingham City,England,£396Th.,Out,1996,s,premier-league
+Everton FC,Gary Rowett,22,England,Right-Back,RB,-,Derby County,England,£378Th.,Out,1996,s,premier-league
 Everton FC,Matt Jackson,24,England,Right-Back,RB,-,Queens Park Rangers,England,Loan,Out,1996,s,premier-league
 Everton FC,Matt Jackson,24,England,Right-Back,RB,-,Birmingham City,England,Loan,Out,1996,s,premier-league
 Everton FC,Barry Horne,34,Wales,Defensive Midfield,DM,-,Birmingham City,England,?,Out,1996,s,premier-league
@@ -196,33 +196,33 @@ Liverpool FC,Ian Rush,34,Wales,Centre-Forward,CF,-,Leeds United,England,Free tra
 Liverpool FC,Phil Charnock,21,England,Central Midfield,CM,-,Crewe Alexandra,England,Free transfer,Out,1996,s,premier-league
 Liverpool FC,David Larmour,18,Northern Ireland,Right Winger,RW,-,Doncaster Rovers,England,?,Out,1996,s,premier-league
 Liverpool FC,Stephen Pears,34,England,Goalkeeper,GK,-,Hartlepool United,England,?,Out,1996,s,premier-league
-Tottenham Hotspur,Steve Slade,20,England,Forward,Forward,-,Queens Park Rangers,England,£392k,Out,1996,s,premier-league
-Tottenham Hotspur,Chris Day,20,England,Goalkeeper,GK,-,Crystal Palace,England,£315k,Out,1996,s,premier-league
-Tottenham Hotspur,Andy Turner,21,Ireland,Midfielder,Midfielder,-,Portsmouth FC,England,£282k,Out,1996,s,premier-league
+Tottenham Hotspur,Steve Slade,20,England,Forward,Forward,-,Queens Park Rangers,England,£392Th.,Out,1996,s,premier-league
+Tottenham Hotspur,Chris Day,20,England,Goalkeeper,GK,-,Crystal Palace,England,£315Th.,Out,1996,s,premier-league
+Tottenham Hotspur,Andy Turner,21,Ireland,Midfielder,Midfielder,-,Portsmouth FC,England,£282Th.,Out,1996,s,premier-league
 Tottenham Hotspur,Owen Coll,20,Ireland,Centre-Back,CB,-,AFC Bournemouth,England,?,Out,1996,s,premier-league
 Tottenham Hotspur,Erik Thorstvedt,34,Norway,Goalkeeper,GK,-,,Retired,-,Out,1996,s,premier-league
 Blackburn Rovers,Alan Shearer,25,England,Centre-Forward,CF,-,Newcastle United,England,£18.90m,Out,1996,s,premier-league
-Blackburn Rovers,Mike Newell,31,England,Centre-Forward,CF,-,Birmingham City,England,£828k,Out,1996,s,premier-league
+Blackburn Rovers,Mike Newell,31,England,Centre-Forward,CF,-,Birmingham City,England,£828Th.,Out,1996,s,premier-league
 Blackburn Rovers,Bobby Mimms,32,England,Goalkeeper,GK,-,Crystal Palace,England,Free transfer,Out,1996,s,premier-league
 Southampton FC,Richard Hall,24,England,Centre-Back,CB,-,West Ham United,England,£1.53m,Out,1996,s,premier-league
 Southampton FC,Neil Shipperley,21,England,Centre-Forward,CF,-,Crystal Palace,England,£1.26m,Out,1996,s,premier-league
-Southampton FC,Tommy Widdrington,24,England,Central Midfield,CM,-,Grimsby Town,England,£302k,Out,1996,s,premier-league
-Southampton FC,Mark Walters,32,England,Left Midfield,LM,-,Swindon Town,England,Free transfer,Out,1996,s,premier-league
+Southampton FC,Tommy Widdrington,24,England,Central Midfield,CM,-,Grimsby Town,England,£302Th.,Out,1996,s,premier-league
 Southampton FC,Ronnie Ekelund,23,Denmark,Left Midfield,LM,-,Odense Boldklub,Denmark,Free transfer,Out,1996,s,premier-league
 Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Shrewsbury Town,England,Loan,Out,1996,s,premier-league
 Southampton FC,Bruce Grobbelaar,38,Zimbabwe,Goalkeeper,GK,-,Plymouth Argyle,England,Free transfer,Out,1996,s,premier-league
 Southampton FC,Christer Warren,22,England,Midfielder,Midfielder,-,Brighton & Hove Albion,England,Loan,Out,1996,s,premier-league
+Southampton FC,Mark Walters,32,England,Left Midfield,LM,-,Swindon Town,England,Free transfer,Out,1996,s,premier-league
 Southampton FC,Derek Allan,21,Scotland,Centre-Back,CB,-,Brighton & Hove Albion,England,?,Out,1996,s,premier-league
 Southampton FC,Barry Venison,33,England,Left-Back,LB,-,,Retired,-,Out,1996,s,premier-league
-Sunderland AFC,Alec Chamberlain,32,England,Goalkeeper,GK,-,Watford FC,England,£54k,Out,1996,s,premier-league
+Sunderland AFC,Alec Chamberlain,32,England,Goalkeeper,GK,-,Watford FC,England,£54Th.,Out,1996,s,premier-league
 Sunderland AFC,Brett Angell,27,England,Centre-Forward,CF,-,Stockport County,England,Loan,Out,1996,s,premier-league
 Sunderland AFC,Brian Atkinson,25,England,Left Midfield,LM,-,Darlington FC (liq.),England,Free transfer,Out,1996,s,premier-league
 Sunderland AFC,John Kay,32,England,Defender,Defender,-,Preston North End,England,Free transfer,Out,1996,s,premier-league
 Sunderland AFC,Gordon Armstrong,29,England,Central Midfield,CM,-,Bury FC,England,Free transfer,Out,1996,s,premier-league
 Sunderland AFC,Phil Gray,27,Northern Ireland,Centre-Forward,CF,-,AS Nancy-Lorraine,France,?,Out,1996,s,premier-league
 West Ham United,Tony Cottee,31,England,Centre-Forward,CF,-,FA Selangor,Malaysia,£1.01m,Out,1996,s,premier-league
-West Ham United,Adrian Whitbread,25,England,Centre-Back,CB,-,Portsmouth FC,England,£280k,Out,1996,s,premier-league
-West Ham United,Mark Watson,22,England,Forward,Forward,-,AFC Bournemouth,England,£72k,Out,1996,s,premier-league
+West Ham United,Adrian Whitbread,25,England,Centre-Back,CB,-,Portsmouth FC,England,£280Th.,Out,1996,s,premier-league
+West Ham United,Mark Watson,22,England,Forward,Forward,-,AFC Bournemouth,England,£72Th.,Out,1996,s,premier-league
 West Ham United,Les Sealey,38,England,Goalkeeper,GK,-,Leyton Orient,England,Free transfer,Out,1996,s,premier-league
 West Ham United,Simon Webster,32,England,Defender,Defender,-,St. Albans City,England,Free transfer,Out,1996,s,premier-league
 West Ham United,Alvin Martin,37,England,Centre-Back,CB,-,Leyton Orient,England,Free transfer,Out,1996,s,premier-league
@@ -231,7 +231,7 @@ West Ham United,Kenny Brown,28,England,Defender,Defender,-,Birmingham City,Engla
 West Ham United,Robbie Slater,31,Australia,Central Midfield,CM,-,Southampton FC,England,?,Out,1996,s,premier-league
 West Ham United,Emmanuel Omoyinmi,18,Nigeria,Centre-Forward,CF,-,AFC Bournemouth,England,Loan,Out,1996,s,premier-league
 West Ham United,Dani,19,Portugal,Attacking Midfield,AM,-,Sporting CP,Portugal,"End of loanJun 30, 1996",Out,1996,s,premier-league
-Leeds United,Gary McAllister,31,Scotland,Central Midfield,CM,-,Coventry City,England,£225k,Out,1996,s,premier-league
+Leeds United,Gary McAllister,31,Scotland,Central Midfield,CM,-,Coventry City,England,£225Th.,Out,1996,s,premier-league
 Leeds United,John Pemberton,32,England,Centre-Back,CB,-,,Unknown,Free transfer,Out,1996,s,premier-league
 Leeds United,Nathan Lowndes,19,England,Centre-Forward,CF,-,Watford FC,England,Free transfer,Out,1996,s,premier-league
 Leeds United,John Lukic,35,England,Goalkeeper,GK,-,Arsenal FC,England,Free transfer,Out,1996,s,premier-league
@@ -242,13 +242,13 @@ Leeds United,David White,28,England,Right Winger,RW,-,Sheffield United,England,?
 Leeds United,Philemon Masinga,27,South Africa,Centre-Forward,CF,-,FC St. Gallen 1879,Switzerland,?,Out,1996,s,premier-league
 Leeds United,Rob Bowman,20,England,Right-Back,RB,-,Leeds United Reserves,England,-,Out,1996,s,premier-league
 Leeds United,Mark Hateley,34,England,Centre-Forward,CF,-,Queens Park Rangers,England,"End of loanOct 19, 1996",Out,1996,s,premier-league
-Aston Villa,Paul McGrath,36,Ireland,Centre-Back,CB,-,Derby County,England,£113k,Out,1996,s,premier-league
+Aston Villa,Paul McGrath,36,Ireland,Centre-Back,CB,-,Derby County,England,£113Th.,Out,1996,s,premier-league
 Aston Villa,Neil Davis,23,England,Forward,Forward,-,Wycombe Wanderers,England,Loan,Out,1996,s,premier-league
 Aston Villa,Franz Carr,30,England,Forward,Forward,-,AC Reggiana,Italy,Free transfer,Out,1996,s,premier-league
 Aston Villa,Paul Browne,21,Scotland,Centre-Back,CB,-,Raith Rovers FC,Scotland,?,Out,1996,s,premier-league
 Chelsea FC,Paul Furlong,27,England,Centre-Forward,CF,-,Birmingham City,England,£2.03m,Out,1996,s,premier-league
 Chelsea FC,Muzzy Izzet,21,Turkey,Right Midfield,RM,-,Leicester City,England,£1.08m,Out,1996,s,premier-league
-Chelsea FC,Anthony Barness,23,England,Right-Back,RB,-,Charlton Athletic,England,£180k,Out,1996,s,premier-league
+Chelsea FC,Anthony Barness,23,England,Right-Back,RB,-,Charlton Athletic,England,£180Th.,Out,1996,s,premier-league
 Chelsea FC,Nigel Spackman,35,England,Central Midfield,CM,-,Sheffield United,England,Free transfer,Out,1996,s,premier-league
 Chelsea FC,Erland Johnsen,30,Norway,Centre-Back,CB,-,Rosenborg BK,Norway,?,Out,1996,s,premier-league
 Chelsea FC,Andy Dow,23,Scotland,Defender,Defender,-,Hibernian FC,Scotland,?,Out,1996,s,premier-league
@@ -256,8 +256,8 @@ Chelsea FC,Craig Forrest,29,Canada,Goalkeeper,GK,-,Ipswich Town,England,"End of 
 Chelsea FC,Glenn Hoddle,38,England,Attacking Midfield,AM,-,,Retired,-,Out,1996,s,premier-league
 Chelsea FC,Jakob Kjeldbjerg,27,Denmark,Centre-Back,CB,-,,Retired,-,Out,1996,s,premier-league
 Middlesbrough FC,Nick Barmby,22,England,Left Midfield,LM,-,Everton FC,England,£7.20m,Out,1996,s,premier-league
-Middlesbrough FC,Graham Kavanagh,22,Ireland,Central Midfield,CM,-,Stoke City,England,£338k,Out,1996,s,premier-league
-Middlesbrough FC,John Hendrie,32,Scotland,Right Winger,RW,-,Barnsley FC,England,£258k,Out,1996,s,premier-league
+Middlesbrough FC,Graham Kavanagh,22,Ireland,Central Midfield,CM,-,Stoke City,England,£338Th.,Out,1996,s,premier-league
+Middlesbrough FC,John Hendrie,32,Scotland,Right Winger,RW,-,Barnsley FC,England,£258Th.,Out,1996,s,premier-league
 Middlesbrough FC,Ben Roberts,21,England,Goalkeeper,GK,-,Bradford City,England,Loan,Out,1996,s,premier-league
 Middlesbrough FC,Paul Wilkinson,31,England,Centre-Forward,CF,-,Barnsley FC,England,Free transfer,Out,1996,s,premier-league
 Middlesbrough FC,Mark Summerbell,19,England,Midfielder,Midfielder,-,Cork City FC (diss. 2009),Ireland,Loan,Out,1996,s,premier-league
@@ -265,34 +265,34 @@ Middlesbrough FC,Jamie Pollock,22,England,Defensive Midfield,DM,-,CA Osasuna,Spa
 Nottingham Forest,Jason Lee,25,England,Centre-Forward,CF,-,Grimsby Town,England,Loan,Out,1996,s,premier-league
 Nottingham Forest,Craig Armstrong,21,England,Left Midfield,LM,-,Gillingham FC,England,Loan,Out,1996,s,premier-league
 Nottingham Forest,Neil Webb,32,England,Central Midfield,CM,-,Grimsby Town,England,Free transfer,Out,1996,s,premier-league
-Nottingham Forest,Kingsley Black,28,Northern Ireland,Left Midfield,LM,-,Grimsby Town,England,£27k,Out,1996,s,premier-league
+Nottingham Forest,Kingsley Black,28,Northern Ireland,Left Midfield,LM,-,Grimsby Town,England,£27Th.,Out,1996,s,premier-league
 Nottingham Forest,Lutz Pfannenstiel,23,Germany,Goalkeeper,GK,-,Orlando Pirates,South Africa,Loan,Out,1996,s,premier-league
 Nottingham Forest,Andrea Silenzi,30,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,Loan,Out,1996,s,premier-league
 Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Reading FC,England,Loan,Out,1996,s,premier-league
 Nottingham Forest,Robert Rosario,30,England,Forward,Forward,-,,Career break,-,Out,1996,s,premier-league
 Nottingham Forest,Chris Allen,23,England,Midfielder,Midfielder,-,Oxford United,England,"End of loanJun 30, 1996",Out,1996,s,premier-league
 Newcastle United,Lee Clark,23,England,Right Winger,RW,-,Sunderland AFC,England,£2.93m,Out,1996,s,premier-league
-Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,£642k,Out,1996,s,premier-league
+Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,£642Th.,Out,1996,s,premier-league
 Newcastle United,Chris Holland,20,England,Central Midfield,CM,-,Birmingham City,England,Loan,Out,1996,s,premier-league
 Newcastle United,Jim Crawford,23,Ireland,Midfielder,Midfielder,-,Rotherham United,England,Loan,Out,1996,s,premier-league
 Newcastle United,Darren Huckerby,20,England,Right Winger,RW,-,Millwall FC,England,Loan,Out,1996,s,premier-league
 Manchester United,Lee Sharpe,25,England,Left Midfield,LM,-,Leeds United,England,£6.08m,Out,1996,s,premier-league
-Manchester United,Tony Coton,35,England,Goalkeeper,GK,-,Sunderland AFC,England,£608k,Out,1996,s,premier-league
+Manchester United,Tony Coton,35,England,Goalkeeper,GK,-,Sunderland AFC,England,£608Th.,Out,1996,s,premier-league
 Manchester United,Jovan Kirovski,20,United States,Right Winger,RW,-,Borussia Dortmund,Germany,Free transfer,Out,1996,s,premier-league
 Manchester United,Paul Parker,32,England,Right-Back,RB,-,Derby County,England,Free transfer,Out,1996,s,premier-league
 Manchester United,Jody Banim,18,England,Forward,Forward,-,Trafford FC,England,Free transfer,Out,1996,s,premier-league
 Manchester United,Pat McGibbon,22,Northern Ireland,Centre-Back,CB,-,Swansea City,Wales,Loan,Out,1996,s,premier-league
 Manchester United,Steve Bruce,35,England,Centre-Back,CB,-,Birmingham City,England,?,Out,1996,s,premier-league
 Manchester United,Simon Davies,22,Wales,Midfielder,Midfielder,-,Huddersfield Town,England,Loan,Out,1996,s,premier-league
-Coventry City,Paul Cook,29,England,Midfielder,Midfielder,-,Tranmere Rovers,England,£450k,Out,1996,s,premier-league
-Coventry City,Ally Pickering,29,England,Defender,Defender,-,Stoke City,England,£315k,Out,1996,s,premier-league
+Coventry City,Paul Cook,29,England,Midfielder,Midfielder,-,Tranmere Rovers,England,£450Th.,Out,1996,s,premier-league
+Coventry City,Ally Pickering,29,England,Defender,Defender,-,Stoke City,England,£315Th.,Out,1996,s,premier-league
 Coventry City,Nii Lamptey,21,Ghana,Attacking Midfield,AM,-,AC Venezia 1907,Italy,Free transfer,Out,1996,s,premier-league
 Coventry City,David Rennie,31,Scotland,Defensive Midfield,DM,-,Northampton Town,England,Free transfer,Out,1996,s,premier-league
 Coventry City,Steve Morgan,27,England,Left-Back,LB,-,Wigan Athletic,England,Free transfer,Out,1996,s,premier-league
 Coventry City,Brian Borrows,35,England,Right-Back,RB,-,Swindon Town,England,Loan,Out,1996,s,premier-league
 Coventry City,Eoin Jess,25,Scotland,Second Striker,SS,-,Aberdeen FC,Scotland,?,Out,1996,s,premier-league
 Coventry City,Lee Hurst,25,England,Midfielder,Midfielder,-,,Career break,-,Out,1996,s,premier-league
-Wimbledon FC,Gary Elkins,30,England,Left-Back,LB,-,Swindon Town,England,£108k,Out,1996,s,premier-league
+Wimbledon FC,Gary Elkins,30,England,Left-Back,LB,-,Swindon Town,England,£108Th.,Out,1996,s,premier-league
 Wimbledon FC,Hans Segers,34,Netherlands,Goalkeeper,GK,-,Wolverhampton Wanderers,England,Free transfer,Out,1996,s,premier-league
 Wimbledon FC,Gary Blissett,32,England,Centre-Forward,CF,-,Sembawang Rangers,Singapore,?,Out,1996,s,premier-league
 Wimbledon FC,Gerald Dobbs,25,England,Midfielder,Midfielder,-,Dover Athletic,England,?,Out,1996,s,premier-league
@@ -302,12 +302,12 @@ Wimbledon FC,Steve Talboys,29,England,Midfielder,Midfielder,-,Watford FC,England
 Wimbledon FC,Grant Payne,20,England,Forward,Forward,-,Woking FC,England,?,Out,1996,s,premier-league
 Wimbledon FC,Andy Thorn,29,England,Centre-Back,CB,-,Heart of Midlothian FC,Scotland,?,Out,1996,s,premier-league
 Wimbledon FC,Mark Thomas,21,England,Midfielder,Midfielder,-,,Unknown,?,Out,1996,s,premier-league
-Wimbledon FC,John Cheesewright,23,England,Goalkeeper,GK,-,Colchester United,England,"End of loanJun 30, 1996",Out,1996,s,premier-league
 Wimbledon FC,Danny O'Shea,33,England,Midfielder,Midfielder,-,Northampton Town,England,"End of loanJun 30, 1996",Out,1996,s,premier-league
+Wimbledon FC,John Cheesewright,23,England,Goalkeeper,GK,-,Colchester United,England,"End of loanJun 30, 1996",Out,1996,s,premier-league
 Leicester City,Julian Joachim,21,England,Centre-Forward,CF,-,Aston Villa,England,£1.89m,Out,1996,s,premier-league
 Leicester City,Iwan Roberts,28,Wales,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£1.34m,Out,1996,s,premier-league
-Leicester City,Brian Carey,28,Ireland,Centre-Back,CB,-,Wrexham AFC,Wales,£105k,Out,1996,s,premier-league
-Leicester City,Neil Lewis,22,England,Defender,Defender,-,Peterborough United,England,£85k,Out,1996,s,premier-league
+Leicester City,Brian Carey,28,Ireland,Centre-Back,CB,-,Wrexham AFC,Wales,£105Th.,Out,1996,s,premier-league
+Leicester City,Neil Lewis,22,England,Defender,Defender,-,Peterborough United,England,£85Th.,Out,1996,s,premier-league
 Leicester City,Mark Blake,25,England,Midfielder,Midfielder,-,Walsall FC,England,Free transfer,Out,1996,s,premier-league
 Leicester City,Mark Robins,26,England,Centre-Forward,CF,-,FC Copenhagen,Denmark,Loan,Out,1996,s,premier-league
 Leicester City,Phil Gee,31,England,Forward,Forward,-,Hednesford Town,England,?,Out,1996,s,premier-league
@@ -317,10 +317,10 @@ Sheffield Wednesday,Lance Key,28,England,Goalkeeper,GK,-,Dundee United FC,Scotla
 Sheffield Wednesday,Marc Degryse,30,Belgium,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,?,Out,1996,s,premier-league
 Sheffield Wednesday,Mike Williams,26,England,Forward,Forward,-,Huddersfield Town,England,Loan,Out,1996,s,premier-league
 Sheffield Wednesday,Chris Waddle,35,England,Attacking Midfield,AM,-,,Without Club,-,Out,1996,s,premier-league
-Arsenal FC,Nicolas Anelka,17,France,Centre-Forward,CF,-,Paris Saint-Germain,France,£684k,In,1996,w,premier-league
+Arsenal FC,Nicolas Anelka,17,France,Centre-Forward,CF,-,Paris Saint-Germain,France,£684Th.,In,1996,w,premier-league
 Arsenal FC,Adrian Clarke,22,England,Midfielder,Midfielder,-,Rotherham United,England,"End of loanDec 1, 1996",In,1996,w,premier-league
-Derby County,Paulo Wanchope,20,Costa Rica,Centre-Forward,CF,-,CS Herediano,Costa Rica,£756k,In,1996,w,premier-league
-Derby County,Paul McGrath,36,Ireland,Centre-Back,CB,-,Aston Villa,England,£113k,In,1996,w,premier-league
+Derby County,Paulo Wanchope,20,Costa Rica,Centre-Forward,CF,-,CS Herediano,Costa Rica,£756Th.,In,1996,w,premier-league
+Derby County,Paul McGrath,36,Ireland,Centre-Back,CB,-,Aston Villa,England,£113Th.,In,1996,w,premier-league
 Derby County,Marino Rahmberg,22,Sweden,Centre-Forward,CF,-,Degerfors IF,Sweden,Loan,In,1996,w,premier-league
 Derby County,Aljosa Asanovic,30,Croatia,Central Midfield,CM,-,HNK Hajduk Split,Croatia,?,In,1996,w,premier-league
 Derby County,Ian Ashbee,20,England,Defensive Midfield,DM,-,Thróttur Reykjavík,Iceland,"End of loanOct 1, 1996",In,1996,w,premier-league
@@ -346,18 +346,18 @@ Tottenham Hotspur,Jamie Clapham,21,England,Left-Back,LB,-,Leyton Orient,England,
 Tottenham Hotspur,David Kerslake,30,England,Right-Back,RB,-,Swindon Town,England,"End of loanJan 18, 1997",In,1996,w,premier-league
 Blackburn Rovers,Per Pedersen,27,Denmark,Centre-Forward,CF,-,Odense Boldklub,Denmark,?,In,1996,w,premier-league
 Blackburn Rovers,Marlon Broomes,19,England,Centre-Back,CB,-,Swindon Town,England,"End of loanMar 1, 1997",In,1996,w,premier-league
-Southampton FC,Egil Östenstad,24,Norway,Centre-Forward,CF,-,Viking Stavanger,Norway,£720k,In,1996,w,premier-league
-Southampton FC,Mickey Evans,24,Ireland,Centre-Forward,CF,-,Plymouth Argyle,England,£702k,In,1996,w,premier-league
-Southampton FC,Maik Taylor,25,Northern Ireland,Goalkeeper,GK,-,Barnet FC,England,£675k,In,1996,w,premier-league
+Southampton FC,Egil Östenstad,24,Norway,Centre-Forward,CF,-,Viking Stavanger,Norway,£720Th.,In,1996,w,premier-league
+Southampton FC,Mickey Evans,24,Ireland,Centre-Forward,CF,-,Plymouth Argyle,England,£702Th.,In,1996,w,premier-league
+Southampton FC,Maik Taylor,25,Northern Ireland,Goalkeeper,GK,-,Barnet FC,England,£675Th.,In,1996,w,premier-league
+Southampton FC,Chris Woods,36,England,Goalkeeper,GK,-,Colorado Rapids,United States,?,In,1996,w,premier-league
 Southampton FC,Ulrich Van Gobbel,25,Netherlands,Right-Back,RB,-,Galatasaray SK,Turkey,?,In,1996,w,premier-league
 Southampton FC,Ali Dia,31,Senegal,Centre-Forward,CF,-,Blyth Spartans AFC,England,?,In,1996,w,premier-league
-Southampton FC,Chris Woods,36,England,Goalkeeper,GK,-,Colorado Rapids,United States,?,In,1996,w,premier-league
+Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Shrewsbury Town,England,"End of loanNov 12, 1996",In,1996,w,premier-league
 Southampton FC,Paul Tisdale,23,England,Midfielder,Midfielder,-,Huddersfield Town,England,"End of loanDec 1, 1996",In,1996,w,premier-league
 Southampton FC,Christer Warren,22,England,Midfielder,Midfielder,-,Brighton & Hove Albion,England,"End of loanOct 19, 1996",In,1996,w,premier-league
-Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Shrewsbury Town,England,"End of loanNov 12, 1996",In,1996,w,premier-league
-Sunderland AFC,Jan Eriksson,29,Sweden,Centre-Back,CB,-,Helsingborgs IF,Sweden,£270k,In,1996,w,premier-league
-Sunderland AFC,Chris Waddle,36,England,Attacking Midfield,AM,-,Bradford City,England,£90k,In,1996,w,premier-league
-Sunderland AFC,Darren Williams,19,England,Defender,Defender,-,York City,England,£68k,In,1996,w,premier-league
+Sunderland AFC,Jan Eriksson,29,Sweden,Centre-Back,CB,-,Helsingborgs IF,Sweden,£270Th.,In,1996,w,premier-league
+Sunderland AFC,Chris Waddle,36,England,Attacking Midfield,AM,-,Bradford City,England,£90Th.,In,1996,w,premier-league
+Sunderland AFC,Darren Williams,19,England,Defender,Defender,-,York City,England,£68Th.,In,1996,w,premier-league
 Sunderland AFC,Brett Angell,28,England,Centre-Forward,CF,-,Stockport County,England,"End of loanNov 1, 1996",In,1996,w,premier-league
 West Ham United,John Hartson,21,Wales,Centre-Forward,CF,-,Arsenal FC,England,£4.50m,In,1996,w,premier-league
 West Ham United,Paul Kitson,26,England,Centre-Forward,CF,-,Newcastle United,England,£3.15m,In,1996,w,premier-league
@@ -371,40 +371,40 @@ Leeds United,Robert Molenaar,27,Netherlands,Centre-Back,CB,-,FC Volendam,Netherl
 Leeds United,Pierre Laurent,26,France,Centre-Forward,CF,-,SC Bastia,France,Free transfer,In,1996,w,premier-league
 Aston Villa,Neil Davis,23,England,Forward,Forward,-,Wycombe Wanderers,England,"End of loanDec 31, 1996",In,1996,w,premier-league
 Chelsea FC,Gianfranco Zola,30,Italy,Second Striker,SS,-,AC Parma,Italy,£5.58m,In,1996,w,premier-league
-Chelsea FC,Danny Granville,22,England,Left-Back,LB,-,Cambridge United,England,£374k,In,1996,w,premier-league
+Chelsea FC,Danny Granville,22,England,Left-Back,LB,-,Cambridge United,England,£374Th.,In,1996,w,premier-league
 Chelsea FC,Craig Forrest,29,Canada,Goalkeeper,GK,-,Ipswich Town,England,Loan,In,1996,w,premier-league
 Chelsea FC,Paul Parker,32,England,Right-Back,RB,-,Fulham FC,England,?,In,1996,w,premier-league
 Chelsea FC,David Rocastle,29,England,Attacking Midfield,AM,-,Norwich City,England,"End of loanMar 1, 1997",In,1996,w,premier-league
 Chelsea FC,Mark Stein,30,England,Centre-Forward,CF,-,Stoke City,England,"End of loanJan 22, 1997",In,1996,w,premier-league
 Middlesbrough FC,Mark Schwarzer,24,Australia,Goalkeeper,GK,-,Bradford City,England,£2.25m,In,1996,w,premier-league
 Middlesbrough FC,Vladimir Kinder,27,Slovakia,Centre-Back,CB,-,Slovan Bratislava,Slovakia,?,In,1996,w,premier-league
-Middlesbrough FC,Keith O'Halloran,21,Ireland,Midfielder,Midfielder,-,Cardiff City,Wales,"End of loanDec 31, 1996",In,1996,w,premier-league
 Middlesbrough FC,Mark Summerbell,20,England,Midfielder,Midfielder,-,Cork City FC (diss. 2009),Ireland,"End of loanNov 1, 1996",In,1996,w,premier-league
 Middlesbrough FC,Chris Freestone,25,England,Forward,Forward,-,Carlisle United,England,"End of loanMar 29, 1997",In,1996,w,premier-league
+Middlesbrough FC,Keith O'Halloran,21,Ireland,Midfielder,Midfielder,-,Cardiff City,Wales,"End of loanDec 31, 1996",In,1996,w,premier-league
 Nottingham Forest,Ian Thomas-Moore,18,England,Centre-Forward,CF,-,Tranmere Rovers,England,£1.35m,In,1996,w,premier-league
 Nottingham Forest,Brian O'Neil,24,Scotland,Centre-Back,CB,-,Celtic FC,Scotland,Loan,In,1996,w,premier-league
 Nottingham Forest,Nigel Clough,30,England,Attacking Midfield,AM,-,Manchester City,England,Loan,In,1996,w,premier-league
+Nottingham Forest,Marlon Harewood,17,England,Centre-Forward,CF,-,Nottingham Forest U18,England,-,In,1996,w,premier-league
+Nottingham Forest,Richard Hodgson,17,England,Midfielder,Midfielder,-,Nottingham Forest U18,England,-,In,1996,w,premier-league
 Nottingham Forest,Lutz Pfannenstiel,23,Germany,Goalkeeper,GK,-,Orlando Pirates,South Africa,"End of loanDec 1, 1996",In,1996,w,premier-league
 Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Manchester City,England,"End of loanFeb 1, 1997",In,1996,w,premier-league
 Nottingham Forest,Craig Armstrong,21,England,Left Midfield,LM,-,Watford FC,England,"End of loanFeb 1, 1997",In,1996,w,premier-league
 Nottingham Forest,Jason Lee,25,England,Centre-Forward,CF,-,Charlton Athletic,England,"End of loanMar 1, 1997",In,1996,w,premier-league
 Nottingham Forest,Craig Armstrong,21,England,Left Midfield,LM,-,Gillingham FC,England,"End of loanDec 1, 1996",In,1996,w,premier-league
 Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Reading FC,England,"End of loanDec 1, 1996",In,1996,w,premier-league
-Nottingham Forest,Marlon Harewood,17,England,Centre-Forward,CF,-,Nottingham Forest U18,England,-,In,1996,w,premier-league
-Nottingham Forest,Richard Hodgson,17,England,Midfielder,Midfielder,-,Nottingham Forest U18,England,-,In,1996,w,premier-league
-Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,"End of loanOct 28, 1996",In,1996,w,premier-league
-Newcastle United,Steve Harper,21,England,Goalkeeper,GK,-,Gateshead FC,England,"End of loanDec 1, 1996",In,1996,w,premier-league
 Newcastle United,Paul Brayson,19,England,Forward,Forward,-,Swansea City,Wales,"End of loanMar 31, 1997",In,1996,w,premier-league
 Newcastle United,Jim Crawford,23,Ireland,Midfielder,Midfielder,-,Rotherham United,England,"End of loanNov 1, 1996",In,1996,w,premier-league
 Newcastle United,Darren Huckerby,20,England,Right Winger,RW,-,Millwall FC,England,"End of loanOct 1, 1996",In,1996,w,premier-league
+Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,"End of loanOct 28, 1996",In,1996,w,premier-league
+Newcastle United,Steve Harper,21,England,Goalkeeper,GK,-,Gateshead FC,England,"End of loanDec 1, 1996",In,1996,w,premier-league
 Manchester United,Simon Davies,22,Wales,Midfielder,Midfielder,-,Huddersfield Town,England,"End of loanNov 1, 1996",In,1996,w,premier-league
 Coventry City,Oleksandr Yevtushok,26,Ukraine,Centre-Back,CB,-,Dnipro Dnipropetrovsk,Ukraine,£1.08m,In,1996,w,premier-league
-Coventry City,Darren Huckerby,20,England,Right Winger,RW,-,Newcastle United,England,£900k,In,1996,w,premier-league
+Coventry City,Darren Huckerby,20,England,Right Winger,RW,-,Newcastle United,England,£900Th.,In,1996,w,premier-league
 Coventry City,Iyseden Christie,20,England,Centre-Forward,CF,-,AFC Bournemouth,England,"End of loanDec 1, 1996",In,1996,w,premier-league
 Wimbledon FC,Carl Cort,19,Guyana,Centre-Forward,CF,-,Lincoln City,England,"End of loanMar 1, 1997",In,1996,w,premier-league
 Leicester City,Matt Elliott,28,Scotland,Centre-Back,CB,-,Oxford United,England,£2.16m,In,1996,w,premier-league
 Leicester City,Steve Guppy,27,England,Left Winger,LW,-,Port Vale FC,England,£1.07m,In,1996,w,premier-league
-Leicester City,Robert Ullathorne,25,England,Left-Back,LB,-,CA Osasuna,Spain,£810k,In,1996,w,premier-league
+Leicester City,Rob Ullathorne,25,England,Left-Back,LB,-,CA Osasuna,Spain,£810Th.,In,1996,w,premier-league
 Leicester City,Stuart Slater,27,England,Midfielder,Midfielder,-,Ipswich Town,England,?,In,1996,w,premier-league
 Leicester City,Mark Robins,26,England,Centre-Forward,CF,-,FC Copenhagen,Denmark,"End of loanDec 1, 1996",In,1996,w,premier-league
 Sheffield Wednesday,Mike Williams,26,England,Forward,Forward,-,Huddersfield Town,England,"End of loanOct 26, 1996",In,1996,w,premier-league
@@ -414,13 +414,13 @@ Sheffield Wednesday,John Sheridan,32,Ireland,Central Midfield,CM,-,Bolton Wander
 Sheffield Wednesday,Adem Poric,23,Australia,Central Midfield,CM,-,Southend United,England,"End of loanMar 8, 1997",In,1996,w,premier-league
 Sheffield Wednesday,John Sheridan,32,Ireland,Central Midfield,CM,-,Birmingham City,England,"End of loanNov 12, 1996",In,1996,w,premier-league
 Arsenal FC,John Hartson,21,Wales,Centre-Forward,CF,-,West Ham United,England,£4.50m,Out,1996,w,premier-league
-Arsenal FC,Steve Morrow,26,Northern Ireland,Right-Back,RB,-,Queens Park Rangers,England,£675k,Out,1996,w,premier-league
-Arsenal FC,David Hillier,26,England,Central Midfield,CM,-,Portsmouth FC,England,£288k,Out,1996,w,premier-league
-Arsenal FC,Andy Linighan,34,England,Centre-Back,CB,-,Crystal Palace,England,£113k,Out,1996,w,premier-league
+Arsenal FC,Steve Morrow,26,Northern Ireland,Right-Back,RB,-,Queens Park Rangers,England,£675Th.,Out,1996,w,premier-league
+Arsenal FC,David Hillier,26,England,Central Midfield,CM,-,Portsmouth FC,England,£288Th.,Out,1996,w,premier-league
+Arsenal FC,Andy Linighan,34,England,Centre-Back,CB,-,Crystal Palace,England,£113Th.,Out,1996,w,premier-league
 Arsenal FC,Gavin McGowan,21,England,Right-Back,RB,-,Luton Town,England,Loan,Out,1996,w,premier-league
 Arsenal FC,Glenn Helder,28,Netherlands,Left Winger,LW,-,SL Benfica,Portugal,Loan,Out,1996,w,premier-league
 Arsenal FC,Adrian Clarke,22,England,Midfielder,Midfielder,-,Southend United,England,Loan,Out,1996,w,premier-league
-Derby County,Kevin Cooper,22,England,Left Midfield,LM,-,Stockport County,England,£203k,Out,1996,w,premier-league
+Derby County,Kevin Cooper,22,England,Left Midfield,LM,-,Stockport County,England,£203Th.,Out,1996,w,premier-league
 Derby County,Marco Gabbiadini,29,England,Centre-Forward,CF,-,Oxford United,England,Loan,Out,1996,w,premier-league
 Derby County,Sean Flynn,28,England,Midfielder,Midfielder,-,Stoke City,England,Loan,Out,1996,w,premier-league
 Derby County,Ian Ashbee,20,England,Defensive Midfield,DM,-,Cambridge United,England,Free transfer,Out,1996,w,premier-league
@@ -436,7 +436,7 @@ Derby County,David Preece,32,England,Midfielder,Midfielder,-,Swindon Town,Englan
 Derby County,Marino Rahmberg,22,Sweden,Centre-Forward,CF,-,Degerfors IF,Sweden,"End of loanJan 31, 1997",Out,1996,w,premier-league
 Everton FC,Andrey Kanchelskis,27,Russia,Right Midfield,RM,-,AC Fiorentina,Italy,£7.20m,Out,1996,w,premier-league
 Everton FC,John Ebbrell,27,England,Midfielder,Midfielder,-,Sheffield United,England,£1.35m,Out,1996,w,premier-league
-Everton FC,Matt Jackson,25,England,Right-Back,RB,-,Norwich City,England,£608k,Out,1996,w,premier-league
+Everton FC,Matt Jackson,25,England,Right-Back,RB,-,Norwich City,England,£608Th.,Out,1996,w,premier-league
 Everton FC,Neil Moore,24,England,Defender,Defender,-,Norwich City,England,Free transfer,Out,1996,w,premier-league
 Everton FC,Jamie Speare,20,England,Goalkeeper,GK,-,Darlington FC (liq.),England,Loan,Out,1996,w,premier-league
 Everton FC,John Hills,18,England,Left-Back,LB,-,Swansea City,Wales,Loan,Out,1996,w,premier-league
@@ -445,42 +445,42 @@ Everton FC,Anders Limpar,31,Sweden,Attacking Midfield,AM,-,Birmingham City,Engla
 Liverpool FC,John Scales,30,England,Centre-Back,CB,-,Tottenham Hotspur,England,£2.70m,Out,1996,w,premier-league
 Liverpool FC,Lee Jones,23,Wales,Centre-Forward,CF,-,Wrexham AFC,Wales,Loan,Out,1996,w,premier-league
 Liverpool FC,Lee Jones,23,Wales,Centre-Forward,CF,-,Tranmere Rovers,England,Loan,Out,1996,w,premier-league
-Tottenham Hotspur,Kevin Scott,30,England,Defender,Defender,-,Norwich City,England,£315k,Out,1996,w,premier-league
+Tottenham Hotspur,Kevin Scott,30,England,Defender,Defender,-,Norwich City,England,£315Th.,Out,1996,w,premier-league
 Tottenham Hotspur,Jamie Clapham,21,England,Left-Back,LB,-,Leyton Orient,England,Loan,Out,1996,w,premier-league
 Tottenham Hotspur,David Kerslake,30,England,Right-Back,RB,-,Swindon Town,England,Loan,Out,1996,w,premier-league
 Tottenham Hotspur,Jamie Clapham,21,England,Left-Back,LB,-,Bristol Rovers,England,Loan,Out,1996,w,premier-league
 Blackburn Rovers,Marlon Broomes,19,England,Centre-Back,CB,-,Swindon Town,England,Loan,Out,1996,w,premier-league
 Blackburn Rovers,Niklas Gudmundsson,25,Sweden,Midfielder,Midfielder,-,Ipswich Town,England,Loan,Out,1996,w,premier-league
 Southampton FC,Neil Shipperley,21,England,Centre-Forward,CF,-,Crystal Palace,England,£1.26m,Out,1996,w,premier-league
-Southampton FC,Gordon Watson,25,England,Centre-Forward,CF,-,Bradford City,England,£594k,Out,1996,w,premier-league
-Southampton FC,Neil Heaney,25,England,Right Winger,RW,-,Manchester City,England,£576k,Out,1996,w,premier-league
-Southampton FC,Graham Potter,21,England,Left-Back,LB,-,West Bromwich Albion,England,£338k,Out,1996,w,premier-league
+Southampton FC,Gordon Watson,25,England,Centre-Forward,CF,-,Bradford City,England,£594Th.,Out,1996,w,premier-league
+Southampton FC,Neil Heaney,25,England,Right Winger,RW,-,Manchester City,England,£576Th.,Out,1996,w,premier-league
+Southampton FC,Graham Potter,21,England,Left-Back,LB,-,West Bromwich Albion,England,£338Th.,Out,1996,w,premier-league
 Southampton FC,Paul Tisdale,23,England,Midfielder,Midfielder,-,Huddersfield Town,England,Loan,Out,1996,w,premier-league
 Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Shrewsbury Town,England,Loan,Out,1996,w,premier-league
 Southampton FC,Christer Warren,22,England,Midfielder,Midfielder,-,Fulham FC,England,Loan,Out,1996,w,premier-league
 Southampton FC,Christer Warren,22,England,Midfielder,Midfielder,-,Brighton & Hove Albion,England,Loan,Out,1996,w,premier-league
-Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Bristol Rovers,England,£17k,Out,1996,w,premier-league
+Southampton FC,Frankie Bennett,27,England,Centre-Forward,CF,-,Bristol Rovers,England,£17Th.,Out,1996,w,premier-league
 Southampton FC,Paul Sheerin,22,Scotland,Left Midfield,LM,-,Östersunds FK,Sweden,?,Out,1996,w,premier-league
 Southampton FC,Ali Dia,31,Senegal,Centre-Forward,CF,-,Gateshead FC,England,?,Out,1996,w,premier-league
 Southampton FC,Chris Woods,37,England,Goalkeeper,GK,-,,Retired,-,Out,1996,w,premier-league
 Southampton FC,Barry Venison,33,England,Left-Back,LB,-,,Retired,-,Out,1996,w,premier-league
-Sunderland AFC,Brett Angell,28,England,Centre-Forward,CF,-,Stockport County,England,£108k,Out,1996,w,premier-league
+Sunderland AFC,Brett Angell,28,England,Centre-Forward,CF,-,Stockport County,England,£108Th.,Out,1996,w,premier-league
 Sunderland AFC,Sam Aiston,20,England,Midfielder,Midfielder,-,Chester City (diss.),England,Loan,Out,1996,w,premier-league
 West Ham United,Tony Cottee,31,England,Centre-Forward,CF,-,FA Selangor,Malaysia,£1.01m,Out,1996,w,premier-league
-West Ham United,Steve Jones,26,England,Forward,Forward,-,Charlton Athletic,England,£448k,Out,1996,w,premier-league
-West Ham United,Adrian Whitbread,25,England,Centre-Back,CB,-,Portsmouth FC,England,£280k,Out,1996,w,premier-league
+West Ham United,Steve Jones,26,England,Forward,Forward,-,Charlton Athletic,England,£448Th.,Out,1996,w,premier-league
+West Ham United,Adrian Whitbread,25,England,Centre-Back,CB,-,Portsmouth FC,England,£280Th.,Out,1996,w,premier-league
 West Ham United,Mark Bowen,33,Wales,Left-Back,LB,-,Shimizu S-Pulse,Japan,Free transfer,Out,1996,w,premier-league
 West Ham United,Peter Shilton,47,England,Goalkeeper,GK,-,Leyton Orient,England,Free transfer,Out,1996,w,premier-league
 West Ham United,Rio Ferdinand,18,England,Centre-Back,CB,-,AFC Bournemouth,England,Loan,Out,1996,w,premier-league
 West Ham United,Mike Newell,31,England,Centre-Forward,CF,-,Birmingham City,England,"End of loanDec 31, 1996",Out,1996,w,premier-league
-Leeds United,Paul Beesley,31,England,Centre-Back,CB,-,Manchester City,England,£540k,Out,1996,w,premier-league
-Leeds United,Mark Tinkler,22,England,Defender,Defender,-,York City,England,£90k,Out,1996,w,premier-league
+Leeds United,Paul Beesley,31,England,Centre-Back,CB,-,Manchester City,England,£540Th.,Out,1996,w,premier-league
+Leeds United,Mark Tinkler,22,England,Defender,Defender,-,York City,England,£90Th.,Out,1996,w,premier-league
 Leeds United,Paul Evans,23,South Africa,Goalkeeper,GK,-,Bradford City,England,Loan,Out,1996,w,premier-league
 Leeds United,Paul Shepherd,19,England,Centre-Forward,CF,-,Ayr United FC,Scotland,Loan,Out,1996,w,premier-league
 Leeds United,Mark Hateley,34,England,Centre-Forward,CF,-,Queens Park Rangers,England,"End of loanOct 19, 1996",Out,1996,w,premier-league
 Aston Villa,Tommy Johnson,26,England,Centre-Forward,CF,-,Celtic FC,Scotland,£3.11m,Out,1996,w,premier-league
-Aston Villa,Carl Tiler,27,England,Defender,Defender,-,Sheffield United,England,£731k,Out,1996,w,premier-league
-Aston Villa,Paul McGrath,36,Ireland,Centre-Back,CB,-,Derby County,England,£113k,Out,1996,w,premier-league
+Aston Villa,Carl Tiler,27,England,Centre-Back,CB,-,Sheffield United,England,£731Th.,Out,1996,w,premier-league
+Aston Villa,Paul McGrath,36,Ireland,Centre-Back,CB,-,Derby County,England,£113Th.,Out,1996,w,premier-league
 Aston Villa,Neil Davis,23,England,Forward,Forward,-,Wycombe Wanderers,England,Loan,Out,1996,w,premier-league
 Aston Villa,Phil King,29,England,Left-Back,LB,-,Swindon Town,England,Free transfer,Out,1996,w,premier-league
 Aston Villa,Franz Carr,30,England,Forward,Forward,-,AC Reggiana,Italy,Free transfer,Out,1996,w,premier-league
@@ -490,14 +490,14 @@ Chelsea FC,Mark Stein,30,England,Centre-Forward,CF,-,Stoke City,England,Loan,Out
 Chelsea FC,Roger Joseph,31,England,Defender,Defender,-,Leyton Orient,England,?,Out,1996,w,premier-league
 Chelsea FC,Terry Phelan,29,Ireland,Left-Back,LB,-,Everton FC,England,?,Out,1996,w,premier-league
 Middlesbrough FC,Nick Barmby,22,England,Left Midfield,LM,-,Everton FC,England,£7.20m,Out,1996,w,premier-league
-Middlesbrough FC,Jan Aage Fjörtoft,29,Norway,Centre-Forward,CF,-,Sheffield United,England,£878k,Out,1996,w,premier-league
-Middlesbrough FC,John Hendrie,32,Scotland,Right Winger,RW,-,Barnsley FC,England,£258k,Out,1996,w,premier-league
-Middlesbrough FC,Keith O'Halloran,21,Ireland,Midfielder,Midfielder,-,St. Johnstone FC,Scotland,£56k,Out,1996,w,premier-league
-Middlesbrough FC,Chris Freestone,25,England,Forward,Forward,-,Carlisle United,England,Loan,Out,1996,w,premier-league
+Middlesbrough FC,Jan Aage Fjörtoft,29,Norway,Centre-Forward,CF,-,Sheffield United,England,£878Th.,Out,1996,w,premier-league
+Middlesbrough FC,John Hendrie,32,Scotland,Right Winger,RW,-,Barnsley FC,England,£258Th.,Out,1996,w,premier-league
+Middlesbrough FC,Keith O'Halloran,21,Ireland,Midfielder,Midfielder,-,St. Johnstone FC,Scotland,£56Th.,Out,1996,w,premier-league
 Middlesbrough FC,Keith O'Halloran,21,Ireland,Midfielder,Midfielder,-,Cardiff City,Wales,Loan,Out,1996,w,premier-league
-Middlesbrough FC,Mark Summerbell,19,England,Midfielder,Midfielder,-,Cork City FC (diss. 2009),Ireland,Loan,Out,1996,w,premier-league
+Middlesbrough FC,Chris Freestone,25,England,Forward,Forward,-,Carlisle United,England,Loan,Out,1996,w,premier-league
 Middlesbrough FC,Branco,32,Brazil,Left-Back,LB,-,Mogi Mirim Esporte Clube (SP),Brazil,?,Out,1996,w,premier-league
-Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Manchester City,England,£608k,Out,1996,w,premier-league
+Middlesbrough FC,Mark Summerbell,19,England,Midfielder,Midfielder,-,Cork City FC (diss. 2009),Ireland,Loan,Out,1996,w,premier-league
+Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Manchester City,England,£608Th.,Out,1996,w,premier-league
 Nottingham Forest,Craig Armstrong,21,England,Left Midfield,LM,-,Watford FC,England,Loan,Out,1996,w,premier-league
 Nottingham Forest,Steve Guinan,21,England,Centre-Forward,CF,-,Burnley FC,England,Loan,Out,1996,w,premier-league
 Nottingham Forest,Craig Armstrong,21,England,Left Midfield,LM,-,Gillingham FC,England,Loan,Out,1996,w,premier-league
@@ -510,23 +510,23 @@ Nottingham Forest,Tommy Wright,33,Northern Ireland,Goalkeeper,GK,-,Reading FC,En
 Nottingham Forest,Nigel Clough,30,England,Attacking Midfield,AM,-,Manchester City,England,"End of loanMar 1, 1997",Out,1996,w,premier-league
 Nottingham Forest,Brian O'Neil,24,Scotland,Centre-Back,CB,-,Celtic FC,Scotland,"End of loanDec 1, 1996",Out,1996,w,premier-league
 Newcastle United,Paul Kitson,26,England,Centre-Forward,CF,-,West Ham United,England,£3.15m,Out,1996,w,premier-league
-Newcastle United,Darren Huckerby,20,England,Right Winger,RW,-,Coventry City,England,£900k,Out,1996,w,premier-league
-Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,£642k,Out,1996,w,premier-league
+Newcastle United,Darren Huckerby,20,England,Right Winger,RW,-,Coventry City,England,£900Th.,Out,1996,w,premier-league
+Newcastle United,Chris Holland,21,England,Central Midfield,CM,-,Birmingham City,England,£642Th.,Out,1996,w,premier-league
 Newcastle United,Steve Harper,21,England,Goalkeeper,GK,-,Stockport County,England,Loan,Out,1996,w,premier-league
 Newcastle United,Steve Harper,21,England,Goalkeeper,GK,-,Gateshead FC,England,Loan,Out,1996,w,premier-league
 Newcastle United,Paul Brayson,19,England,Forward,Forward,-,Swansea City,Wales,Loan,Out,1996,w,premier-league
-Manchester United,Pat McGibbon,23,Northern Ireland,Centre-Back,CB,-,Wigan Athletic,England,£506k,Out,1996,w,premier-league
+Manchester United,Pat McGibbon,23,Northern Ireland,Centre-Back,CB,-,Wigan Athletic,England,£506Th.,Out,1996,w,premier-league
 Manchester United,Kevin Pilkington,22,England,Goalkeeper,GK,-,Rotherham United,England,Loan,Out,1996,w,premier-league
 Manchester United,Simon Davies,22,Wales,Midfielder,Midfielder,-,Huddersfield Town,England,Loan,Out,1996,w,premier-league
 Coventry City,Régis Genaux,23,Belgium,Right-Back,RB,-,Udinese Calcio,Italy,£1.04m,Out,1996,w,premier-league
-Coventry City,Iyseden Christie,19,England,Centre-Forward,CF,-,AFC Bournemouth,England,Loan,Out,1996,w,premier-league
 Coventry City,Iyseden Christie,20,England,Centre-Forward,CF,-,Mansfield Town,England,Free transfer,Out,1996,w,premier-league
+Coventry City,Iyseden Christie,19,England,Centre-Forward,CF,-,AFC Bournemouth,England,Loan,Out,1996,w,premier-league
 Wimbledon FC,Carl Cort,19,Guyana,Centre-Forward,CF,-,Lincoln City,England,Loan,Out,1996,w,premier-league
 Leicester City,Mark Robins,26,England,Centre-Forward,CF,-,FC Copenhagen,Denmark,Loan,Out,1996,w,premier-league
 Leicester City,Paul Hyde,33,England,Goalkeeper,GK,-,Leyton Orient,England,Free transfer,Out,1996,w,premier-league
 Leicester City,Colin Hill,33,Northern Ireland,Centre-Back,CB,-,Trelleborgs FF,Sweden,?,Out,1996,w,premier-league
-Sheffield Wednesday,John Sheridan,32,Ireland,Central Midfield,CM,-,Bolton Wanderers,England,£203k,Out,1996,w,premier-league
-Sheffield Wednesday,Mark Bright,34,England,Forward,Forward,-,FC Sion,Switzerland,£79k,Out,1996,w,premier-league
+Sheffield Wednesday,John Sheridan,32,Ireland,Central Midfield,CM,-,Bolton Wanderers,England,£203Th.,Out,1996,w,premier-league
+Sheffield Wednesday,Mark Bright,34,England,Forward,Forward,-,FC Sion,Switzerland,£79Th.,Out,1996,w,premier-league
 Sheffield Wednesday,Adem Poric,23,Australia,Central Midfield,CM,-,Southend United,England,Loan,Out,1996,w,premier-league
 Sheffield Wednesday,John Sheridan,32,Ireland,Central Midfield,CM,-,Bolton Wanderers,England,Loan,Out,1996,w,premier-league
 Sheffield Wednesday,Simon Weaver,19,England,Centre-Back,CB,-,Doncaster Rovers,England,Loan,Out,1996,w,premier-league

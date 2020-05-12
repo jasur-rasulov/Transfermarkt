@@ -1,0 +1,521 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+Borussia Dortmund,Robert Lewandowski,21,Poland,Centre-Forward,CF,£4.05m,Lech Poznan,Poland,£4.28m,In,2010,s,1-bundesliga
+Borussia Dortmund,Mitchell Langerak,21,Australia,Goalkeeper,GK,£225Th.,Melbourne Victory,Australia,£450Th.,In,2010,s,1-bundesliga
+Borussia Dortmund,Shinji Kagawa,21,Japan,Attacking Midfield,AM,£2.25m,Cerezo Osaka,Japan,Free transfer,In,2010,s,1-bundesliga
+Borussia Dortmund,Antônio da Silva,32,Brazil,Attacking Midfield,AM,£720Th.,Karlsruher SC,Germany,Free transfer,In,2010,s,1-bundesliga
+Borussia Dortmund,Lukasz Piszczek,25,Poland,Right-Back,RB,£2.25m,Hertha BSC,Germany,Free transfer,In,2010,s,1-bundesliga
+Borussia Dortmund,Johannes Focher,20,Germany,Goalkeeper,GK,£135Th.,Borussia Dortmund II,Germany,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Daniel Ginczek,19,Germany,Centre-Forward,CF,£270Th.,Borussia Dortmund II,Germany,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Marco Stiepermann,19,Germany,Attacking Midfield,AM,£180Th.,Borussia Dortmund U19,Germany,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Lasse Sobiech,19,Germany,Centre-Back,CB,£225Th.,Borussia Dortmund II,Germany,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Mario Götze,18,Germany,Centre-Forward,CF,£900Th.,Borussia Dortmund U19,Germany,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Florian Kringe,27,Germany,Central Midfield,CM,£1.58m,Hertha BSC,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,David Alaba,18,Austria,Left-Back,LB,£900Th.,FC Bayern Munich II,Germany,-,In,2010,s,1-bundesliga
+Bayern Munich,Toni Kroos,20,Germany,Central Midfield,CM,£10.80m,Bayer 04 Leverkusen,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,Breno,20,Brazil,Centre-Back,CB,£3.60m,1.FC Nuremberg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,Luca Toni,33,Italy,Centre-Forward,CF,£7.20m,AS Roma,Italy,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,Edson Braafheid,27,Netherlands,Left-Back,LB,£2.70m,Celtic FC,Scotland,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,José Sosa,25,Argentina,Central Midfield,CM,£2.70m,Club Estudiantes de La Plata,Argentina,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayern Munich,Andreas Ottl,25,Germany,Defensive Midfield,DM,£2.25m,1.FC Nuremberg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+FC Schalke 04,Klaas-Jan Huntelaar,27,Netherlands,Centre-Forward,CF,£11.70m,AC Milan,Italy,£12.60m,In,2010,s,1-bundesliga
+FC Schalke 04,José Manuel Jurado,24,Spain,Attacking Midfield,AM,£8.10m,Atlético Madrid,Spain,£9.90m,In,2010,s,1-bundesliga
+FC Schalke 04,Ciprian Deac,24,Romania,Right Winger,RW,£900Th.,CFR Cluj,Romania,£2.70m,In,2010,s,1-bundesliga
+FC Schalke 04,Sergio Escudero,20,Spain,Left-Back,LB,£900Th.,Real Murcia CF,Spain,£2.07m,In,2010,s,1-bundesliga
+FC Schalke 04,Kyriakos Papadopoulos,18,Greece,Centre-Back,CB,£1.35m,Olympiacos Piraeus,Greece,£1.80m,In,2010,s,1-bundesliga
+FC Schalke 04,Atsuto Uchida,22,Japan,Right-Back,RB,£4.50m,Kashima Antlers,Japan,£1.17m,In,2010,s,1-bundesliga
+FC Schalke 04,Hans Sarpei,34,Ghana,Left-Back,LB,£450Th.,Bayer 04 Leverkusen,Germany,£360Th.,In,2010,s,1-bundesliga
+FC Schalke 04,Tim Hoogland,25,Germany,Centre-Back,CB,£3.15m,1.FSV Mainz 05,Germany,Free transfer,In,2010,s,1-bundesliga
+FC Schalke 04,Raúl,33,Spain,Second Striker,SS,£8.10m,Real Madrid,Spain,Free transfer,In,2010,s,1-bundesliga
+FC Schalke 04,Nicolas Plestan,29,France,Centre-Back,CB,£1.80m,LOSC Lille,France,Free transfer,In,2010,s,1-bundesliga
+FC Schalke 04,Erik Jendrisek,23,Slovakia,Centre-Forward,CF,£2.25m,1.FC Kaiserslautern,Germany,Free transfer,In,2010,s,1-bundesliga
+FC Schalke 04,Christoph Metzelder,29,Germany,Centre-Back,CB,£2.70m,Real Madrid,Spain,Free transfer,In,2010,s,1-bundesliga
+FC Schalke 04,Lars Unnerstall,19,Germany,Goalkeeper,GK,£23Th.,FC Schalke 04 II,Germany,-,In,2010,s,1-bundesliga
+FC Schalke 04,Carlos Grossmüller,27,Uruguay,Central Midfield,CM,£1.13m,Danubio FC,Uruguay,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+FC Schalke 04,Lewis Holtby,19,Germany,Attacking Midfield,AM,£2.70m,VfL Bochum,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+FC Schalke 04,Marvin Pourié,19,Germany,Centre-Forward,CF,£180Th.,TuS Koblenz,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Igor de Camargo,27,Belgium,Centre-Forward,CF,£4.05m,Standard Liège,Belgium,£3.60m,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Bamba Anderson,22,Brazil,Centre-Back,CB,£1.80m,Tombense Futebol Clube (MG),Brazil,£1.35m,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Jens Wissing,22,Germany,Left-Back,LB,£135Th.,Preußen Münster,Germany,Free transfer,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Mohamadou Idrissou,30,Cameroon,Centre-Forward,CF,£2.25m,SC Freiburg,Germany,Free transfer,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Bernhard Janeczek,18,Austria,Centre-Back,CB,-,Borussia Mönchengladbach U19,Germany,-,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Marc-André ter Stegen,18,Germany,Goalkeeper,GK,£90Th.,Borussia Mönchengladbach U19,Germany,-,In,2010,s,1-bundesliga
+Borussia Mönchengladbach,Sebastian Schachten,25,Germany,Right-Back,RB,£450Th.,SC Paderborn 07,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Domagoj Vida,21,Croatia,Centre-Back,CB,£2.70m,NK Osijek,Croatia,£2.16m,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Sidney Sam,22,Germany,Right Winger,RW,£2.70m,Hamburger SV,Germany,£1.80m,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Nicolai Jörgensen,19,Denmark,Centre-Forward,CF,£180Th.,Akademisk Boldklub,Denmark,£720Th.,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Zvonko Pamic,19,Croatia,Central Midfield,CM,£900Th.,HNK Rijeka,Croatia,£450Th.,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Michael Ballack,33,Germany,Central Midfield,CM,£18.00m,Chelsea FC,England,Free transfer,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Hanno Balitsch,29,Germany,Defensive Midfield,DM,£2.70m,Hannover 96,Germany,Free transfer,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Thanos Petsos,19,Greece,Defensive Midfield,DM,-,Bayer 04 Leverkusen U19,Germany,-,In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Sascha Dum,23,Germany,Left Midfield,LM,£630Th.,FC Energie Cottbus,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Marcel Risse,20,Germany,Right Midfield,RM,£900Th.,1.FC Nuremberg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Jens Hegeler,22,Germany,Central Midfield,CM,£810Th.,FC Augsburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Theofanis Gekas,30,Greece,Centre-Forward,CF,£2.70m,Hertha BSC,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+VfB Stuttgart,Cristian Molinaro,26,Italy,Left-Back,LB,£4.50m,Juventus FC,Italy,£3.51m,In,2010,s,1-bundesliga
+VfB Stuttgart,Georg Niedermeier,24,Germany,Centre-Back,CB,£2.70m,FC Bayern Munich II,Germany,£3.15m,In,2010,s,1-bundesliga
+VfB Stuttgart,Johan Audel,26,Martinique,Left Winger,LW,£2.88m,Valenciennes FC ,France,£2.25m,In,2010,s,1-bundesliga
+VfB Stuttgart,Mauro Camoranesi,33,Italy,Right Midfield,RM,£4.95m,Juventus FC,Italy,£1.80m,In,2010,s,1-bundesliga
+VfB Stuttgart,Mamadou Bah,22,Guinea,Defensive Midfield,DM,£810Th.,RC Strasbourg Alsace,France,£540Th.,In,2010,s,1-bundesliga
+VfB Stuttgart,Marc Ziegler,34,Germany,Goalkeeper,GK,£450Th.,Borussia Dortmund,Germany,£270Th.,In,2010,s,1-bundesliga
+VfB Stuttgart,Martin Harnik,23,Austria,Right Winger,RW,£1.44m,SV Werder Bremen,Germany,£270Th.,In,2010,s,1-bundesliga
+VfB Stuttgart,Christian Gentner,24,Germany,Central Midfield,CM,£6.30m,VfL Wolfsburg,Germany,Free transfer,In,2010,s,1-bundesliga
+VfB Stuttgart,Philipp Degen,27,Switzerland,Right-Back,RB,£1.35m,Liverpool FC,England,Loan,In,2010,s,1-bundesliga
+VfB Stuttgart,Georges Mandjeck,21,Cameroon,Defensive Midfield,DM,£1.80m,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+VfB Stuttgart,Élson,28,Brazil,Attacking Midfield,AM,£1.80m,Hannover 96,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Hannover 96,Mohammed Abdellaoue,24,Norway,Centre-Forward,CF,£990Th.,Vålerenga Fotball,Norway,£900Th.,In,2010,s,1-bundesliga
+Hannover 96,Lars Stindl,21,Germany,Second Striker,SS,£1.58m,Karlsruher SC,Germany,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Ron-Robert Zieler,21,Germany,Goalkeeper,GK,£270Th.,Manchester United U23,England,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Emanuel Pogatetz,27,Austria,Centre-Back,CB,£3.15m,Middlesbrough FC,England,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Carlitos,27,Portugal,Left Midfield,LM,£900Th.,FC Basel 1893,Switzerland,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Moritz Stoppelkamp,23,Germany,Left Winger,LW,£900Th.,Rot-Weiß Oberhausen,Germany,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,DaMarcus Beasley,28,United States,Left-Back,LB,£1.58m,Rangers FC,Scotland,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Markus Miller,28,Germany,Goalkeeper,GK,£1.26m,Karlsruher SC,Germany,Free transfer,In,2010,s,1-bundesliga
+Hannover 96,Christopher Avevor,18,Germany,Centre-Back,CB,-,Hannover 96 U19,Germany,-,In,2010,s,1-bundesliga
+Hannover 96,Willi Evseev,18,Germany,Central Midfield,CM,-,Hannover 96 U19,Germany,-,In,2010,s,1-bundesliga
+Hannover 96,Felix Burmeister,20,Germany,Centre-Back,CB,£68Th.,Hannover 96 II,Germany,-,In,2010,s,1-bundesliga
+VfL Wolfsburg,Diego,25,Brazil,Attacking Midfield,AM,£21.60m,Juventus FC,Italy,£13.95m,In,2010,s,1-bundesliga
+VfL Wolfsburg,Simon Kjaer,21,Denmark,Centre-Back,CB,£10.80m,US Palermo,Italy,£11.25m,In,2010,s,1-bundesliga
+VfL Wolfsburg,Mario Mandzukic,24,Croatia,Centre-Forward,CF,£6.75m,GNK Dinamo Zagreb,Croatia,£6.30m,In,2010,s,1-bundesliga
+VfL Wolfsburg,Arne Friedrich,31,Germany,Centre-Back,CB,£5.40m,Hertha BSC,Germany,£2.25m,In,2010,s,1-bundesliga
+VfL Wolfsburg,Nassim Ben Khalifa,18,Switzerland,Centre-Forward,CF,£2.25m,Grasshopper Club Zurich,Switzerland,£1.44m,In,2010,s,1-bundesliga
+VfL Wolfsburg,Cícero,25,Brazil,Central Midfield,CM,£4.05m,Tombense Futebol Clube (MG),Brazil,Loan fee:£720Th.,In,2010,s,1-bundesliga
+VfL Wolfsburg,Tolga Cigerci,18,Turkey,Central Midfield,CM,-,VfL Wolfsburg U19,Germany,-,In,2010,s,1-bundesliga
+VfL Wolfsburg,Daniel Adlung,22,Germany,Central Midfield,CM,£810Th.,Alemannia Aachen,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+VfL Wolfsburg,Caiuby,21,Brazil,Centre-Forward,CF,£900Th.,MSV Duisburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+VfL Wolfsburg,Vlad Munteanu,29,Romania,Left Midfield,LM,£360Th.,FSV Frankfurt,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+VfL Wolfsburg,Mahir Saglik,27,Turkey,Centre-Forward,CF,£1.26m,SC Paderborn 07,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SV Werder Bremen,Wesley,23,Brazil,Central Midfield,CM,£5.40m,Santos FC,Brazil,£6.75m,In,2010,s,1-bundesliga
+SV Werder Bremen,Marko Arnautovic,21,Austria,Centre-Forward,CF,£5.85m,Twente Enschede FC,Netherlands,£5.58m,In,2010,s,1-bundesliga
+SV Werder Bremen,Felix Kroos,19,Germany,Central Midfield,CM,£450Th.,FC Hansa Rostock,Germany,£216Th.,In,2010,s,1-bundesliga
+SV Werder Bremen,Mikaël Silvestre,33,France,Centre-Back,CB,£2.25m,Arsenal FC,England,Free transfer,In,2010,s,1-bundesliga
+SV Werder Bremen,Felix Wiedwald,20,Germany,Goalkeeper,GK,£180Th.,SV Werder Bremen II,Germany,-,In,2010,s,1-bundesliga
+SV Werder Bremen,Florian Trinks,18,Germany,Attacking Midfield,AM,£90Th.,SV Werder Bremen U19,Germany,-,In,2010,s,1-bundesliga
+SV Werder Bremen,Lennart Thy,18,Germany,Centre-Forward,CF,£180Th.,SV Werder Bremen U19,Germany,-,In,2010,s,1-bundesliga
+SV Werder Bremen,Carlos Alberto,25,Brazil,Attacking Midfield,AM,£2.70m,Club de Regatas Vasco da Gama,Brazil,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SV Werder Bremen,Kevin Schindler,22,Germany,Defensive Midfield,DM,£540Th.,MSV Duisburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SV Werder Bremen,Torsten Oehrl,24,Germany,Centre-Forward,CF,£405Th.,Fortuna Düsseldorf,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SV Werder Bremen,Martin Harnik,23,Austria,Right Winger,RW,£1.44m,Fortuna Düsseldorf,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SV Werder Bremen,Jurica Vranjes,30,Croatia,Defensive Midfield,DM,£900Th.,Genclerbirligi Ankara,Turkey,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1.FC Nuremberg,Julian Schieber,21,Germany,Centre-Forward,CF,£1.80m,VfB Stuttgart,Germany,Loan fee:£450Th.,In,2010,s,1-bundesliga
+1.FC Nuremberg,Per Nilsson,27,Sweden,Centre-Back,CB,£900Th.,TSG 1899 Hoffenheim,Germany,£360Th.,In,2010,s,1-bundesliga
+1.FC Nuremberg,Robert Mak,19,Slovakia,Left Winger,LW,£45Th.,Manchester City Reserves,England,£225Th.,In,2010,s,1-bundesliga
+1.FC Nuremberg,Almog Cohen,21,Israel,Central Midfield,CM,£315Th.,Maccabi Netanya,Israel,Free transfer,In,2010,s,1-bundesliga
+1.FC Nuremberg,Rubin Okotie,23,Austria,Centre-Forward,CF,£1.53m,Austria Vienna,Austria,Free transfer,In,2010,s,1-bundesliga
+1.FC Nuremberg,Christoph Sauter,18,Germany,Right Winger,RW,-,1.FSV Mainz 05 U19,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FC Nuremberg,Mehmet Ekici,20,Turkey,Attacking Midfield,AM,£630Th.,Bayern Munich,Germany,Loan,In,2010,s,1-bundesliga
+1.FC Nuremberg,Timmy Simons,33,Belgium,Defensive Midfield,DM,£4.05m,PSV Eindhoven,Netherlands,Free transfer,In,2010,s,1-bundesliga
+1.FC Nuremberg,Jens Hegeler,22,Germany,Central Midfield,CM,£810Th.,Bayer 04 Leverkusen,Germany,Loan,In,2010,s,1-bundesliga
+1.FC Nuremberg,Felicio Brown Forbes,18,Costa Rica,Centre-Forward,CF,-,Hertha BSC U19,Germany,?,In,2010,s,1-bundesliga
+1.FC Nuremberg,Daniel Batz,19,Germany,Goalkeeper,GK,£45Th.,1.FC Nuremberg II,Germany,-,In,2010,s,1-bundesliga
+1.FC Nuremberg,Dominik Reinhardt,25,Germany,Right-Back,RB,£1.13m,FC Augsburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1.FC Nuremberg,Dario Vidosic,23,Australia,Attacking Midfield,AM,£450Th.,MSV Duisburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Eintracht Frankfurt,Georgios Tzavellas,22,Greece,Centre-Back,CB,£1.13m,Panionios Athens,Greece,£1.08m,In,2010,s,1-bundesliga
+Eintracht Frankfurt,Theofanis Gekas,30,Greece,Centre-Forward,CF,£2.70m,Bayer 04 Leverkusen,Germany,£900Th.,In,2010,s,1-bundesliga
+Eintracht Frankfurt,Sebastian Rode,19,Germany,Central Midfield,CM,£270Th.,Kickers Offenbach,Germany,£225Th.,In,2010,s,1-bundesliga
+Eintracht Frankfurt,Andreas Rössl,22,Germany,Goalkeeper,GK,£90Th.,Eintracht Frankfurt II,Germany,-,In,2010,s,1-bundesliga
+Eintracht Frankfurt,Alexander Dercho (Krük),23,Germany,Left-Back,LB,£270Th.,VfL Osnabrück,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Eintracht Frankfurt,Habib Bellaid,24,Algeria,Centre-Back,CB,£1.17m,US Boulogne,France,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Eintracht Frankfurt,Markus Steinhöfer,24,Germany,Right-Back,RB,£1.35m,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Gylfi Sigurdsson,20,Iceland,Attacking Midfield,AM,£1.13m,Reading FC,England,£4.68m,In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Sebastian Rudy,20,Germany,Defensive Midfield,DM,£1.35m,VfB Stuttgart,Germany,£3.60m,In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Peniel Mlapa,19,Togo,Centre-Forward,CF,£900Th.,TSV 1860 Munich,Germany,£1.17m,In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Jukka Raitala,21,Finland,Left-Back,LB,£675Th.,HJK Helsinki,Finland,£225Th.,In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Tom Starke,29,Germany,Goalkeeper,GK,£2.25m,MSV Duisburg,Germany,Free transfer,In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,£360Th.,Figueirense Futebol Clube,Brazil,"End of loanAug 10, 2011",In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,22,Brazil,Centre-Forward,CF,£1.80m,Twente Enschede FC,Netherlands,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Ramazan Özcan,26,Austria,Goalkeeper,GK,£270Th.,Besiktas JK,Turkey,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SC Freiburg,Jan Rosenthal,24,Germany,Second Striker,SS,£2.70m,Hannover 96,Germany,£495Th.,In,2010,s,1-bundesliga
+SC Freiburg,Anton Putsila,23,Belarus,Attacking Midfield,AM,£675Th.,Dinamo Minsk,Belarus,£180Th.,In,2010,s,1-bundesliga
+SC Freiburg,Kisho Yano,26,Japan,Centre-Forward,CF,£1.17m,Albirex Niigata,Japan,Free transfer,In,2010,s,1-bundesliga
+SC Freiburg,Maximilian Nicu,27,Romania,Centre-Back,CB,£1.13m,Hertha BSC,Germany,Free transfer,In,2010,s,1-bundesliga
+SC Freiburg,Zvonko Pamic,19,Croatia,Central Midfield,CM,£900Th.,Bayer 04 Leverkusen,Germany,Loan,In,2010,s,1-bundesliga
+SC Freiburg,Danny Williams,21,United States,Defensive Midfield,DM,£270Th.,SC Freiburg II,Germany,-,In,2010,s,1-bundesliga
+SC Freiburg,Nicolas Höfler,20,Germany,Defensive Midfield,DM,£135Th.,SC Freiburg II,Germany,-,In,2010,s,1-bundesliga
+SC Freiburg,Michael Müller,20,Germany,Goalkeeper,GK,£68Th.,1.FC Saarbrücken,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SC Freiburg,Andreas Glockner,22,Germany,Defensive Midfield,DM,£360Th.,TuS Koblenz,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SC Freiburg,Eke Uzoma,20,Hungary,Left-Back,LB,£720Th.,TSV 1860 Munich,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+SC Freiburg,Alain Junior Ollé Ollé,23,Cameroon,Left Midfield,LM,£225Th.,Rot Weiss Ahlen,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1.FSV Mainz 05,Sami Allagui,24,Tunisia,Centre-Forward,CF,£1.62m,SpVgg Greuther Fürth,Germany,£900Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Ádám Szalai,22,Hungary,Centre-Forward,CF,£1.80m,Real Madrid Castilla,Spain,£540Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Christian Fuchs,24,Austria,Left-Back,LB,£2.93m,VfL Bochum,Germany,Loan fee:£360Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Lewis Holtby,19,Germany,Attacking Midfield,AM,£2.70m,FC Schalke 04,Germany,Loan fee:£180Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Dragan Gjorgiev,19,North Macedonia,Left Winger,LW,£585Th.,Horizont Turnovo,North Macedonia,Loan fee:£180Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Marcel Risse,20,Germany,Right Midfield,RM,£900Th.,Bayer 04 Leverkusen,Germany,Loan fee:£135Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Morten Nicolas Rasmussen,25,Denmark,Centre-Forward,CF,£1.80m,Celtic FC,Scotland,Loan fee:£135Th.,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Marco Caligiuri,26,Germany,Centre-Back,CB,£1.26m,SpVgg Greuther Fürth,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Tufan Tosunoglu,21,Turkey,Second Striker,SS,£405Th.,Kickers Offenbach,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Martin Pieckenhagen,38,Germany,Goalkeeper,GK,£720Th.,Heracles Almelo,Netherlands,Free transfer,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Haruna Babangida,27,Nigeria,Right Winger,RW,£1.35m,,Without Club,-,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Stefan Bell,18,Germany,Centre-Back,CB,-,1.FSV Mainz 05 U19,Germany,-,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Eugen Gopko,19,Germany,Right-Back,RB,-,1.FSV Mainz 05 U19,Germany,-,In,2010,s,1-bundesliga
+1.FSV Mainz 05,Mario Vrancic,21,Bosnia-Herzegovina,Central Midfield,CM,£270Th.,Rot Weiss Ahlen,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Hamburger SV,Heiko Westermann,26,Germany,Centre-Back,CB,£8.10m,FC Schalke 04,Germany,£6.75m,In,2010,s,1-bundesliga
+Hamburger SV,Gojko Kacar,23,Serbia,Defensive Midfield,DM,£7.65m,Hertha BSC,Germany,£4.95m,In,2010,s,1-bundesliga
+Hamburger SV,Dennis Diekmeier,20,Germany,Right-Back,RB,£4.05m,1.FC Nuremberg,Germany,£1.98m,In,2010,s,1-bundesliga
+Hamburger SV,Jaroslav Drobny,30,Czech Republic,Goalkeeper,GK,£4.05m,Hertha BSC,Germany,Free transfer,In,2010,s,1-bundesliga
+Hamburger SV,Lennard Sowah,17,Germany,Left-Back,LB,-,Portsmouth FC U21,England,Free transfer,In,2010,s,1-bundesliga
+Hamburger SV,Muhamed Besic,17,Bosnia-Herzegovina,Defensive Midfield,DM,-,Hamburger SV U19,Germany,-,In,2010,s,1-bundesliga
+Hamburger SV,Heung-min Son,17,"Korea, South",Left Winger,LW,-,Hamburger SV U19,Germany,-,In,2010,s,1-bundesliga
+Hamburger SV,Sidney Sam,22,Germany,Right Winger,RW,£2.70m,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Hamburger SV,Mickaël Tavares,27,Senegal,Defensive Midfield,DM,£1.13m,1.FC Nuremberg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Hamburger SV,Eric Maxim Choupo-Moting,21,Cameroon,Centre-Forward,CF,£900Th.,1.FC Nuremberg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+Hamburger SV,Änis Ben-Hatira,21,Tunisia,Left Winger,LW,£900Th.,MSV Duisburg,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1. FC Köln,Alexandru Ionita,20,Romania,Centre-Forward,CF,£1.35m,FC Rapid 1923,Romania,£2.25m,In,2010,s,1-bundesliga
+1. FC Köln,Martin Lanig,25,Germany,Defensive Midfield,DM,£1.80m,VfB Stuttgart,Germany,£630Th.,In,2010,s,1-bundesliga
+1. FC Köln,Konstantinos Giannoulis,22,Greece,Centre-Back,CB,£540Th.,Iraklis Thessaloniki,Greece,£270Th.,In,2010,s,1-bundesliga
+1. FC Köln,Mato Jajalo,22,Bosnia-Herzegovina,Defensive Midfield,DM,£1.35m,AC Siena,Italy,Loan fee:£225Th.,In,2010,s,1-bundesliga
+1. FC Köln,Christopher Buchtmann,18,Germany,Central Midfield,CM,£90Th.,Fulham FC U23,England,£135Th.,In,2010,s,1-bundesliga
+1. FC Köln,Miro Varvodic,21,Croatia,Goalkeeper,GK,£180Th.,HNK Hajduk Split,Croatia,£90Th.,In,2010,s,1-bundesliga
+1. FC Köln,Andrézinho,28,Brazil,Right-Back,RB,£2.16m,Vitória Guimarães SC,Portugal,Free transfer,In,2010,s,1-bundesliga
+1. FC Köln,Christian Clemens,18,Germany,Right Midfield,RM,£68Th.,1.FC Köln II,Germany,-,In,2010,s,1-bundesliga
+1. FC Köln,Bienvenue Basala-Mazana,18,Germany,Right-Back,RB,£315Th.,1.FC Köln U19,Germany,-,In,2010,s,1-bundesliga
+1. FC Köln,Reinhold Yabo,18,Germany,Central Midfield,CM,£315Th.,1.FC Köln U19,Germany,-,In,2010,s,1-bundesliga
+1. FC Köln,Lukas Nottbeck,21,Germany,Defensive Midfield,DM,£90Th.,Borussia Dortmund II,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1. FC Köln,Marvin Matip,24,Cameroon,Centre-Back,CB,£720Th.,Karlsruher SC,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1. FC Köln,Michael Gardawski,19,Germany,Right-Back,RB,£225Th.,FC Carl Zeiss Jena,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Jan Simunek,23,Czech Republic,Centre-Back,CB,£2.70m,VfL Wolfsburg,Germany,£765Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Stiven Rivic,24,Croatia,Attacking Midfield,AM,£1.35m,FC Energie Cottbus,Germany,£720Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Leon Jessen,24,Denmark,Left-Back,LB,£900Th.,FC Midtjylland,Denmark,£720Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Iliyan Mitsanski,24,Bulgaria,Centre-Forward,CF,£900Th.,Zaglebie Lubin,Poland,£540Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Ivo Ilicevic,23,Croatia,Left Winger,LW,£1.35m,VfL Bochum,Germany,£450Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Rodnei,24,Brazil,Centre-Back,CB,£2.25m,Hertha BSC,Germany,£405Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Erwin Hoffer,23,Austria,Centre-Forward,CF,£2.97m,SSC Napoli,Italy,Loan fee:£315Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Jan Morávek,20,Czech Republic,Central Midfield,CM,£1.80m,FC Schalke 04,Germany,Loan fee:£135Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Clemens Walch,23,Austria,Right Midfield,RM,£270Th.,VfB Stuttgart,Germany,£90Th.,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Chadli Amri,25,Algeria,Right Winger,RW,£1.26m,1.FSV Mainz 05,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Oliver Kirch,27,Germany,Defensive Midfield,DM,£1.35m,Arminia Bielefeld,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Christian Tiffert,28,Germany,Defensive Midfield,DM,£1.80m,MSV Duisburg,Germany,Free transfer,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Thanos Petsos,19,Greece,Defensive Midfield,DM,£90Th.,Bayer 04 Leverkusen,Germany,Loan,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Alan Stulin,20,Poland,Left-Back,LB,£45Th.,1.FC Kaiserslautern II,Germany,-,In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Anel Dzaka,29,Germany,Attacking Midfield,AM,£270Th.,TuS Koblenz,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+1.FC Kaiserslautern,Ricky Pinheiro,21,Portugal,Attacking Midfield,AM,£135Th.,VfL Osnabrück,Germany,"End of loanJun 30, 2010",In,2010,s,1-bundesliga
+FC St. Pauli,Carlos Zambrano,21,Peru,Centre-Back,CB,£3.15m,FC Schalke 04,Germany,Loan fee:£135Th.,In,2010,s,1-bundesliga
+FC St. Pauli,Thomas Kessler,24,Germany,Goalkeeper,GK,£360Th.,1. FC Köln,Germany,Loan fee:£45Th.,In,2010,s,1-bundesliga
+FC St. Pauli,Fin Bartels,23,Germany,Second Striker,SS,£900Th.,FC Hansa Rostock,Germany,Free transfer,In,2010,s,1-bundesliga
+FC St. Pauli,Gerald Asamoah,31,Germany,Centre-Forward,CF,£1.35m,FC Schalke 04,Germany,Loan,In,2010,s,1-bundesliga
+FC St. Pauli,Moritz Volz,27,Germany,Right-Back,RB,£1.08m,,Without Club,-,In,2010,s,1-bundesliga
+Borussia Dortmund,Nelson Valdez,26,Paraguay,Centre-Forward,CF,£3.60m,Hércules CF,Spain,£3.15m,Out,2010,s,1-bundesliga
+Borussia Dortmund,Marc Ziegler,34,Germany,Goalkeeper,GK,£450Th.,VfB Stuttgart,Germany,£270Th.,Out,2010,s,1-bundesliga
+Borussia Dortmund,Dimitar Rangelov,27,Bulgaria,Second Striker,SS,£1.58m,Maccabi Tel Aviv,Israel,Loan fee:£180Th.,Out,2010,s,1-bundesliga
+Borussia Dortmund,Uwe Hünemeier,24,Germany,Centre-Back,CB,£360Th.,FC Energie Cottbus,Germany,£90Th.,Out,2010,s,1-bundesliga
+Borussia Dortmund,Julian Koch,19,Germany,Defensive Midfield,DM,£360Th.,MSV Duisburg,Germany,Loan fee:£45Th.,Out,2010,s,1-bundesliga
+Borussia Dortmund,Tinga,32,Brazil,Central Midfield,CM,£900Th.,Sport Club Internacional,Brazil,Free transfer,Out,2010,s,1-bundesliga
+Borussia Dortmund,Marcel Höttecke,23,Germany,Goalkeeper,GK,£270Th.,1.FC Union Berlin,Germany,Free transfer,Out,2010,s,1-bundesliga
+Borussia Dortmund,Bajram Sadrijaj,23,Kosovo,Centre-Forward,CF,£90Th.,,Career break,-,Out,2010,s,1-bundesliga
+Borussia Dortmund,Christopher Kullmann,23,Germany,Centre-Forward,CF,£135Th.,Borussia Dortmund II,Germany,-,Out,2010,s,1-bundesliga
+Bayern Munich,José Sosa,25,Argentina,Central Midfield,CM,£2.70m,SSC Napoli,Italy,£2.70m,Out,2010,s,1-bundesliga
+Bayern Munich,Luca Toni,33,Italy,Centre-Forward,CF,£7.20m,Genoa CFC,Italy,Free transfer,Out,2010,s,1-bundesliga
+Bayern Munich,Andreas Görlitz,28,Germany,Right-Back,RB,£675Th.,FC Ingolstadt 04,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayern Munich,Mehmet Ekici,20,Turkey,Attacking Midfield,AM,£630Th.,1.FC Nuremberg,Germany,Loan,Out,2010,s,1-bundesliga
+Bayern Munich,Christian Lell,25,Germany,Right-Back,RB,£675Th.,Hertha BSC,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayern Munich,Michael Rensing,26,Germany,Goalkeeper,GK,£1.35m,,Without Club,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Rafinha,24,Brazil,Right-Back,RB,£10.80m,Genoa CFC,Italy,£7.20m,Out,2010,s,1-bundesliga
+FC Schalke 04,Heiko Westermann,26,Germany,Centre-Back,CB,£8.10m,Hamburger SV,Germany,£6.75m,Out,2010,s,1-bundesliga
+FC Schalke 04,Lewis Holtby,19,Germany,Attacking Midfield,AM,£2.70m,1.FSV Mainz 05,Germany,Loan fee:£180Th.,Out,2010,s,1-bundesliga
+FC Schalke 04,Jan Morávek,20,Czech Republic,Central Midfield,CM,£1.80m,1.FC Kaiserslautern,Germany,Loan fee:£135Th.,Out,2010,s,1-bundesliga
+FC Schalke 04,Carlos Zambrano,21,Peru,Centre-Back,CB,£3.15m,FC St. Pauli,Germany,Loan fee:£135Th.,Out,2010,s,1-bundesliga
+FC Schalke 04,Tore Reginiussen,24,Norway,Centre-Back,CB,£1.35m,US Lecce,Italy,Loan fee:£135Th.,Out,2010,s,1-bundesliga
+FC Schalke 04,Kevin Kuranyi,28,Germany,Centre-Forward,CF,£10.80m,Dinamo Moscow,Russia,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Carlos Grossmüller,27,Uruguay,Central Midfield,CM,£450Th.,US Lecce,Italy,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Mohamed Amsif,21,Morocco,Goalkeeper,GK,£180Th.,FC Augsburg,Germany,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Vicente Sánchez,30,Uruguay,Left Winger,LW,£900Th.,CF América,Mexico,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Zé Roberto,29,Brazil,Attacking Midfield,AM,£1.08m,Club de Regatas Vasco da Gama,Brazil,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Gerald Asamoah,31,Germany,Centre-Forward,CF,£1.35m,FC St. Pauli,Germany,Loan,Out,2010,s,1-bundesliga
+FC Schalke 04,Marcelo Bordon,34,Brazil,Centre-Back,CB,£3.15m,Al Rayyan Sports Club,Qatar,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Emin Yalin,21,Turkey,Left Winger,LW,£135Th.,Göztepe,Turkey,Free transfer,Out,2010,s,1-bundesliga
+FC Schalke 04,Bogdan Müller,22,Germany,Centre-Forward,CF,£135Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Predrag Stevanovic,19,Serbia,Attacking Midfield,AM,£45Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Mineiro,34,Brazil,Defensive Midfield,DM,£360Th.,,Career break,-,Out,2010,s,1-bundesliga
+FC Schalke 04,David Loheider,19,Germany,Centre-Forward,CF,£45Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Danny Latza,20,Germany,Central Midfield,CM,£225Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Besart Ibraimi,23,North Macedonia,Centre-Forward,CF,£540Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Marvin Pourié,19,Germany,Centre-Forward,CF,£180Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+FC Schalke 04,Marvin Pachan,20,Germany,Right-Back,RB,£45Th.,FC Schalke 04 II,Germany,-,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Rob Friend,29,Canada,Centre-Forward,CF,£2.25m,Hertha BSC,Germany,£1.62m,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Gal Alberman,27,Israel,Defensive Midfield,DM,£360Th.,Maccabi Tel Aviv,Israel,£162Th.,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Moses Lamidi,22,Germany,Centre-Forward,CF,£180Th.,Rot-Weiß Oberhausen,Germany,Free transfer,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Thomas Kleine,32,Germany,Centre-Back,CB,£540Th.,SpVgg Greuther Fürth,Germany,Free transfer,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Oliver Neuville,37,Germany,Centre-Forward,CF,£450Th.,Arminia Bielefeld,Germany,Free transfer,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Roberto Colautti,28,Israel,Centre-Forward,CF,£900Th.,Maccabi Tel Aviv,Israel,Free transfer,Out,2010,s,1-bundesliga
+Borussia Mönchengladbach,Frederic Löhe,21,Germany,Goalkeeper,GK,£180Th.,SV Sandhausen,Germany,Loan fee:£18Th.,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Theofanis Gekas,30,Greece,Centre-Forward,CF,£2.70m,Eintracht Frankfurt,Germany,£900Th.,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Hans Sarpei,34,Ghana,Left-Back,LB,£450Th.,FC Schalke 04,Germany,£360Th.,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Marcel Risse,20,Germany,Right Midfield,RM,£900Th.,1.FSV Mainz 05,Germany,Loan fee:£135Th.,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Thomas Zdebel,37,Poland,Defensive Midfield,DM,£270Th.,Alemannia Aachen,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Kevin Kampl,19,Slovenia,Central Midfield,CM,£90Th.,SpVgg Greuther Fürth,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Sascha Dum,23,Germany,Left Midfield,LM,£630Th.,Fortuna Düsseldorf,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Zvonko Pamic,19,Croatia,Central Midfield,CM,£900Th.,SC Freiburg,Germany,Loan,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Lukas Sinkiewicz,24,Germany,Defensive Midfield,DM,£1.26m,FC Augsburg,Germany,Free transfer,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Jens Hegeler,22,Germany,Central Midfield,CM,£810Th.,1.FC Nuremberg,Germany,Loan,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Thanos Petsos,19,Greece,Defensive Midfield,DM,£90Th.,1.FC Kaiserslautern,Germany,Loan,Out,2010,s,1-bundesliga
+Bayer 04 Leverkusen,Toni Kroos,20,Germany,Central Midfield,CM,£10.80m,Bayern Munich,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+VfB Stuttgart,Sami Khedira,23,Germany,Central Midfield,CM,£16.20m,Real Madrid,Spain,£12.60m,Out,2010,s,1-bundesliga
+VfB Stuttgart,Sebastian Rudy,20,Germany,Defensive Midfield,DM,£1.35m,TSG 1899 Hoffenheim,Germany,£3.60m,Out,2010,s,1-bundesliga
+VfB Stuttgart,Georges Mandjeck,21,Cameroon,Defensive Midfield,DM,£1.80m,Stade Rennais FC,France,£1.08m,Out,2010,s,1-bundesliga
+VfB Stuttgart,Martin Lanig,25,Germany,Defensive Midfield,DM,£1.80m,1. FC Köln,Germany,£630Th.,Out,2010,s,1-bundesliga
+VfB Stuttgart,Julian Schieber,21,Germany,Centre-Forward,CF,£1.80m,1.FC Nuremberg,Germany,Loan fee:£450Th.,Out,2010,s,1-bundesliga
+VfB Stuttgart,Clemens Walch,23,Austria,Right Midfield,RM,£270Th.,1.FC Kaiserslautern,Germany,£90Th.,Out,2010,s,1-bundesliga
+VfB Stuttgart,Roberto Hilbert,25,Germany,Right-Back,RB,£2.25m,Besiktas JK,Turkey,Free transfer,Out,2010,s,1-bundesliga
+VfB Stuttgart,Ricardo Osorio,30,Mexico,Right-Back,RB,£1.80m,CF Monterrey,Mexico,Free transfer,Out,2010,s,1-bundesliga
+VfB Stuttgart,Alessandro Riedle,19,Germany,Centre-Forward,CF,£270Th.,Grasshopper Club Zurich,Switzerland,?,Out,2010,s,1-bundesliga
+VfB Stuttgart,Jens Lehmann,40,Germany,Goalkeeper,GK,£1.80m,,Career break,-,Out,2010,s,1-bundesliga
+VfB Stuttgart,Matthias Schwarz,22,Germany,Central Midfield,CM,£360Th.,VfB Stuttgart II,Germany,-,Out,2010,s,1-bundesliga
+VfB Stuttgart,Georg Niedermeier,24,Germany,Centre-Back,CB,£2.70m,FC Bayern Munich II,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+VfB Stuttgart,Cristian Molinaro,26,Italy,Left-Back,LB,£4.50m,Juventus FC,Italy,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+VfB Stuttgart,Aleksandr Hleb,29,Belarus,Attacking Midfield,AM,£9.00m,FC Barcelona,Spain,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+Hannover 96,Jan Rosenthal,24,Germany,Second Striker,SS,£2.70m,SC Freiburg,Germany,£495Th.,Out,2010,s,1-bundesliga
+Hannover 96,Jiri Stajner,34,Czech Republic,Second Striker,SS,£900Th.,FC Slovan Liberec,Czech Republic,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Morten Jensen,22,Germany,Goalkeeper,GK,£90Th.,KSV Hessen Kassel,Germany,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Sofien Chahed,20,Tunisia,Defensive Midfield,DM,£68Th.,Holstein Kiel,Germany,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Leon Balogun,22,Nigeria,Centre-Back,CB,£90Th.,SV Werder Bremen II,Germany,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Hanno Balitsch,29,Germany,Defensive Midfield,DM,£2.70m,Bayer 04 Leverkusen,Germany,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Sal Zizzo,23,United States,Right-Back,RB,£135Th.,CD Chivas USA,United States,Free transfer,Out,2010,s,1-bundesliga
+Hannover 96,Jacek Krzynowek,34,Poland,Left Midfield,LM,£450Th.,,Retired,-,Out,2010,s,1-bundesliga
+Hannover 96,Arnold Bruggink,32,Netherlands,Attacking Midfield,AM,£1.35m,,Without Club,-,Out,2010,s,1-bundesliga
+Hannover 96,Uwe Gospodarek,36,Germany,Goalkeeper,GK,£90Th.,,Retired,-,Out,2010,s,1-bundesliga
+Hannover 96,Vinícius,29,Brazil,Centre-Back,CB,£900Th.,,Without Club,-,Out,2010,s,1-bundesliga
+Hannover 96,Jan Durica,28,Slovakia,Centre-Back,CB,£1.35m,Lokomotiv Moscow,Russia,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+Hannover 96,Élson,28,Brazil,Attacking Midfield,AM,£1.80m,VfB Stuttgart,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+Hannover 96,Arouna Koné,26,Cote d'Ivoire,Centre-Forward,CF,£2.25m,Sevilla FC,Spain,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+VfL Wolfsburg,Obafemi Martins,25,Nigeria,Centre-Forward,CF,£9.45m,Rubin Kazan,Russia,£8.10m,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Zvjezdan Misimovic,28,Bosnia-Herzegovina,Attacking Midfield,AM,£13.05m,Galatasaray SK,Turkey,£7.65m,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Réver,25,Brazil,Centre-Back,CB,£3.60m,Clube Atlético Mineiro,Brazil,£2.70m,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Jan Simunek,23,Czech Republic,Centre-Back,CB,£2.70m,1.FC Kaiserslautern,Germany,£765Th.,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Jonathan Santana,28,Paraguay,Central Midfield,CM,£1.35m,Kayserispor,Turkey,£540Th.,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Mahir Saglik,27,Turkey,Centre-Forward,CF,£1.26m,VfL Bochum,Germany,£180Th.,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Daniel Adlung,22,Germany,Central Midfield,CM,£810Th.,FC Energie Cottbus,Germany,£135Th.,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Alexander Esswein,20,Germany,Right Winger,RW,£315Th.,SG Dynamo Dresden,Germany,£45Th.,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Christian Gentner,24,Germany,Central Midfield,CM,£6.30m,VfB Stuttgart,Germany,Free transfer,Out,2010,s,1-bundesliga
+VfL Wolfsburg,Alexander Laas,26,Germany,Left Midfield,LM,£225Th.,RB Leipzig,Germany,Free transfer,Out,2010,s,1-bundesliga
+SV Werder Bremen,Mesut Özil,21,Germany,Attacking Midfield,AM,£24.30m,Real Madrid,Spain,£16.20m,Out,2010,s,1-bundesliga
+SV Werder Bremen,Markus Rosenberg,27,Sweden,Centre-Forward,CF,£3.15m,Racing Santander,Spain,Loan fee:£675Th.,Out,2010,s,1-bundesliga
+SV Werder Bremen,Martin Harnik,23,Austria,Right Winger,RW,£1.44m,VfB Stuttgart,Germany,£270Th.,Out,2010,s,1-bundesliga
+SV Werder Bremen,Peter Niemeyer,26,Germany,Defensive Midfield,DM,£1.35m,Hertha BSC,Germany,Loan fee:£180Th.,Out,2010,s,1-bundesliga
+SV Werder Bremen,Torsten Oehrl,24,Germany,Centre-Forward,CF,£405Th.,FC Augsburg,Germany,£180Th.,Out,2010,s,1-bundesliga
+SV Werder Bremen,Timo Perthel,21,Germany,Left-Back,LB,£225Th.,SK Sturm Graz,Austria,Loan fee:£45Th.,Out,2010,s,1-bundesliga
+SV Werder Bremen,Carlos Alberto,25,Brazil,Attacking Midfield,AM,£2.70m,Club de Regatas Vasco da Gama,Brazil,Free transfer,Out,2010,s,1-bundesliga
+SV Werder Bremen,Márkó Futács,20,Hungary,Centre-Forward,CF,£180Th.,FC Ingolstadt 04,Germany,Loan,Out,2010,s,1-bundesliga
+SV Werder Bremen,Kevin Artmann,24,Germany,Attacking Midfield,AM,£225Th.,SV Werder Bremen II,Germany,-,Out,2010,s,1-bundesliga
+SV Werder Bremen,José-Alex Ikeng,22,Germany,Defensive Midfield,DM,£135Th.,SV Werder Bremen II,Germany,-,Out,2010,s,1-bundesliga
+SV Werder Bremen,Aymen Abdennour,20,Tunisia,Centre-Back,CB,£720Th.,Etoile Sportive du Sahel,Tunisia,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Dennis Diekmeier,20,Germany,Right-Back,RB,£4.05m,Hamburger SV,Germany,£1.98m,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Dominik Reinhardt,25,Germany,Right-Back,RB,£1.13m,FC Augsburg,Germany,£90Th.,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Manuel Stiefler,21,Germany,Central Midfield,CM,£90Th.,1.FC Saarbrücken,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Thomas Broich,29,Germany,Attacking Midfield,AM,£270Th.,Brisbane Roar,Australia,Free transfer,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Jaouhar Mnari,33,Tunisia,Defensive Midfield,DM,£270Th.,FSV Frankfurt,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Daniel Gygax,28,Switzerland,Attacking Midfield,AM,£720Th.,FC Luzern,Switzerland,Free transfer,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Angelos Charisteas,30,Greece,Centre-Forward,CF,£1.35m,Athlétic Club Arlésien,France,Free transfer,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Jonatan Kotzke,20,Germany,Centre-Back,CB,£90Th.,1.FC Nuremberg II,Germany,-,Out,2010,s,1-bundesliga
+1.FC Nuremberg,Marcel Risse,20,Germany,Right Midfield,RM,£900Th.,Bayer 04 Leverkusen,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Breno,20,Brazil,Centre-Back,CB,£3.60m,Bayern Munich,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Eric Maxim Choupo-Moting,21,Cameroon,Centre-Forward,CF,£900Th.,Hamburger SV,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Mickaël Tavares,27,Senegal,Defensive Midfield,DM,£1.13m,Hamburger SV,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Havard Nordtveit,20,Norway,Centre-Back,CB,£900Th.,Arsenal FC Reserves,England,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Nuremberg,Andreas Ottl,25,Germany,Defensive Midfield,DM,£2.25m,Bayern Munich,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Nikola Petkovic,24,Serbia,Centre-Back,CB,£225Th.,Tom Tomsk,Russia,Loan fee:£90Th.,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Alexander Dercho (Krük),23,Germany,Left-Back,LB,£270Th.,VfL Osnabrück,Germany,£45Th.,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Selim Teber,29,Germany,Central Midfield,CM,£1.35m,Kayserispor,Turkey,£45Th.,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Christoph Spycher,32,Switzerland,Left-Back,LB,£2.25m,BSC Young Boys,Switzerland,Free transfer,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Habib Bellaid,24,Algeria,Centre-Back,CB,£900Th.,CS Sedan-Ardennes,France,Loan,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Nikolaos Lyberopoulos,34,Greece,Centre-Forward,CF,£1.13m,AEK Athens,Greece,Free transfer,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Faton Toski,23,Kosovo,Attacking Midfield,AM,£180Th.,VfL Bochum,Germany,Free transfer,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Juvhel Tsoumou,19,Congo,Centre-Forward,CF,£180Th.,Alemannia Aachen,Germany,Free transfer,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Jan Zimmermann,25,Germany,Goalkeeper,GK,£225Th.,,Without Club,-,Out,2010,s,1-bundesliga
+Eintracht Frankfurt,Markus Pröll,30,Germany,Goalkeeper,GK,£675Th.,,Without Club,-,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Carlos Eduardo,23,Brazil,Attacking Midfield,AM,£13.05m,Rubin Kazan,Russia,£18.00m,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Maicosuel,24,Brazil,Left Winger,LW,£4.05m,Botafogo Rio de Janeiro,Brazil,£3.60m,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Franco Zuculini,19,Argentina,Central Midfield,CM,£3.60m,Genoa CFC,Italy,Loan fee:£630Th.,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Per Nilsson,27,Sweden,Centre-Back,CB,£900Th.,1.FC Nuremberg,Germany,£360Th.,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,22,Brazil,Centre-Forward,CF,£1.80m,Fortuna Düsseldorf,Germany,Loan fee:£180Th.,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Jukka Raitala,21,Finland,Left-Back,LB,£675Th.,SC Paderborn 07,Germany,Loan,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Timo Hildebrand,31,Germany,Goalkeeper,GK,£3.60m,,Without Club,-,Out,2010,s,1-bundesliga
+TSG 1899 Hoffenheim,Jukka Raitala,21,Finland,Left-Back,LB,£675Th.,HJK Helsinki,Finland,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+SC Freiburg,Jackson Mendy,23,Senegal,Centre-Back,CB,£270Th.,Grenoble Foot 38,France,£180Th.,Out,2010,s,1-bundesliga
+SC Freiburg,Felix Roth,22,Germany,Attacking Midfield,AM,£135Th.,SC Austria Lustenau,Austria,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Mohamadou Idrissou,30,Cameroon,Centre-Forward,CF,£2.25m,Borussia Mönchengladbach,Germany,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Sandro Sirigu,21,Germany,Left-Back,LB,£135Th.,1.FC Heidenheim 1846,Germany,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Andreas Glockner,22,Germany,Defensive Midfield,DM,£360Th.,1.FC Heidenheim 1846,Germany,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Michael Langer,25,Austria,Goalkeeper,GK,£315Th.,FSV Frankfurt,Germany,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Du-ri Cha,29,"Korea, South",Right-Back,RB,£1.13m,Celtic FC,Scotland,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Eke Uzoma,20,Hungary,Left-Back,LB,£720Th.,TSV 1860 Munich,Germany,Free transfer,Out,2010,s,1-bundesliga
+SC Freiburg,Michael Müller,20,Germany,Goalkeeper,GK,£68Th.,VfL Wolfsburg II,Germany,£9Th.,Out,2010,s,1-bundesliga
+SC Freiburg,Hamed Namouchi,26,Tunisia,Attacking Midfield,AM,£450Th.,,Without Club,-,Out,2010,s,1-bundesliga
+SC Freiburg,David Targamadze,20,Georgia,Attacking Midfield,AM,£135Th.,,Without Club,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Aristide Bancé,25,Burkina Faso,Centre-Forward,CF,£4.95m,Al-Ahli Dubai Club,United Arab Emirates,£4.50m,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Jahmir Hyka,22,Albania,Left Midfield,LM,£450Th.,Panionios Athens,Greece,£108Th.,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Tim Hoogland,25,Germany,Centre-Back,CB,£3.15m,FC Schalke 04,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Filip Trojan,27,Czech Republic,Left Winger,LW,£1.35m,MSV Duisburg,Germany,Loan,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Tufan Tosunoglu,21,Turkey,Second Striker,SS,£270Th.,FSV Frankfurt,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Chadli Amri,25,Algeria,Right Winger,RW,£1.26m,1.FC Kaiserslautern,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Stefan Bell,18,Germany,Centre-Back,CB,£900Th.,TSV 1860 Munich,Germany,Loan,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Dragan Gjorgiev,19,North Macedonia,Left Winger,LW,£450Th.,SC Paderborn 07,Germany,Loan,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Marco Rose,33,Germany,Left-Back,LB,£90Th.,1.FSV Mainz 05 II,Germany,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Mario Vrancic,21,Bosnia-Herzegovina,Central Midfield,CM,£270Th.,1.FSV Mainz 05 II,Germany,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Dimo Wache,36,Germany,Goalkeeper,GK,£225Th.,,Career break,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Pierre Kleinheider,20,Germany,Goalkeeper,GK,£90Th.,1.FSV Mainz 05 II,Germany,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Dragan Bogavac,30,Montenegro,Second Striker,SS,£225Th.,,Without Club,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Jared Jeffrey,20,United States,Central Midfield,CM,£225Th.,1.FSV Mainz 05 II,Germany,-,Out,2010,s,1-bundesliga
+1.FSV Mainz 05,Ádám Szalai,22,Hungary,Centre-Forward,CF,£1.80m,Real Madrid Castilla,Spain,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+Hamburger SV,Jérôme Boateng,21,Germany,Centre-Back,CB,£13.50m,Manchester City,England,£11.25m,Out,2010,s,1-bundesliga
+Hamburger SV,Sidney Sam,22,Germany,Right Winger,RW,£2.70m,Bayer 04 Leverkusen,Germany,£1.80m,Out,2010,s,1-bundesliga
+Hamburger SV,Marcus Berg,23,Sweden,Centre-Forward,CF,£8.10m,PSV Eindhoven,Netherlands,Loan fee:£900Th.,Out,2010,s,1-bundesliga
+Hamburger SV,Sören Bertram,19,Germany,Left Winger,LW,£180Th.,FC Augsburg,Germany,Loan fee:£45Th.,Out,2010,s,1-bundesliga
+Hamburger SV,David Rozehnal,30,Czech Republic,Centre-Back,CB,£3.38m,LOSC Lille,France,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Kai-Fabian Schulz,20,Germany,Centre-Back,CB,£135Th.,FSV Frankfurt,Germany,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Mickaël Tavares,27,Senegal,Defensive Midfield,DM,£1.13m,Middlesbrough FC,England,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Wolfgang Hesl,24,Germany,Goalkeeper,GK,£450Th.,SV Ried,Austria,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Tolgay Arslan,19,Germany,Central Midfield,CM,£270Th.,Alemannia Aachen,Germany,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Maximilian Beister,19,Germany,Right Winger,RW,£180Th.,Fortuna Düsseldorf,Germany,Loan,Out,2010,s,1-bundesliga
+Hamburger SV,Christian Groß,21,Germany,Centre-Back,CB,£90Th.,Hamburger SV II,Germany,-,Out,2010,s,1-bundesliga
+Hamburger SV,Hanno Behrens,20,Germany,Central Midfield,CM,£90Th.,Hamburger SV II,Germany,-,Out,2010,s,1-bundesliga
+1. FC Köln,Thomas Kessler,24,Germany,Goalkeeper,GK,£360Th.,FC St. Pauli,Germany,Loan fee:£45Th.,Out,2010,s,1-bundesliga
+1. FC Köln,Maniche,32,Portugal,Central Midfield,CM,£2.70m,Sporting CP,Portugal,Free transfer,Out,2010,s,1-bundesliga
+1. FC Köln,Lukas Nottbeck,21,Germany,Defensive Midfield,DM,£90Th.,TuS Koblenz,Germany,Free transfer,Out,2010,s,1-bundesliga
+1. FC Köln,Sebastian Zielinsky,22,Germany,Right Midfield,RM,£90Th.,FC Ingolstadt 04,Germany,Free transfer,Out,2010,s,1-bundesliga
+1. FC Köln,Michael Gardawski,19,Germany,Right-Back,RB,£225Th.,VfB Stuttgart II,Germany,Loan,Out,2010,s,1-bundesliga
+1. FC Köln,Marvin Matip,24,Cameroon,Centre-Back,CB,£450Th.,FC Ingolstadt 04,Germany,?,Out,2010,s,1-bundesliga
+1. FC Köln,Pierre Womé,31,Cameroon,Left-Back,LB,£1.35m,,Without Club,-,Out,2010,s,1-bundesliga
+1. FC Köln,Miro Varvodic,21,Croatia,Goalkeeper,GK,£180Th.,HNK Hajduk Split,Croatia,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1. FC Köln,Zoran Tosic,23,Serbia,Right Winger,RW,£4.95m,Manchester United,England,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Alper Akcam,22,Turkey,Centre-Forward,CF,£90Th.,Gaziantepspor,Turkey,£90Th.,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Luis Robles,26,United States,Goalkeeper,GK,£360Th.,Karlsruher SC,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Moussa Ouattara,28,Burkina Faso,Centre-Back,CB,£225Th.,SC Fortuna Köln,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Mario Klinger,23,Germany,Centre-Back,CB,£180Th.,Rot-Weiß Oberhausen,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Dragan Paljic,27,Germany,Left Midfield,LM,£360Th.,Wisla Kraków,Poland,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Manuel Hornig,27,Germany,Centre-Back,CB,£180Th.,TuS Koblenz,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Sascha Kotysch,21,Germany,Centre-Back,CB,£270Th.,Sint-Truidense VV,Belgium,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Erik Jendrisek,23,Slovakia,Centre-Forward,CF,£2.25m,FC Schalke 04,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Christoph Buchner,20,Germany,Centre-Back,CB,£180Th.,1.FC Saarbrücken,Germany,Free transfer,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Fabian Müller,23,Germany,Left-Back,LB,£225Th.,FC Erzgebirge Aue,Germany,?,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Ricky Pinheiro,21,Portugal,Attacking Midfield,AM,£135Th.,1.FC Kaiserslautern II,Germany,-,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Anel Dzaka,29,Germany,Attacking Midfield,AM,£270Th.,1.FC Kaiserslautern II,Germany,-,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Marcel Correia,21,Portugal,Centre-Back,CB,£180Th.,1.FC Kaiserslautern II,Germany,-,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Dario Damjanovic,28,Bosnia-Herzegovina,Central Midfield,CM,£450Th.,1.FC Kaiserslautern II,Germany,-,Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Sidney Sam,22,Germany,Right Winger,RW,£2.70m,Hamburger SV,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Daniel Pavlovic,22,Bosnia-Herzegovina,Left-Back,LB,£270Th.,FC Schaffhausen,Switzerland,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Georges Mandjeck,21,Cameroon,Defensive Midfield,DM,£1.80m,VfB Stuttgart,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Markus Steinhöfer,24,Germany,Right-Back,RB,£1.35m,Eintracht Frankfurt,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Ivo Ilicevic,23,Croatia,Left Winger,LW,£1.35m,VfL Bochum,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+1.FC Kaiserslautern,Rodnei,24,Brazil,Centre-Back,CB,£2.25m,Hertha BSC,Germany,"End of loanJun 30, 2010",Out,2010,s,1-bundesliga
+FC St. Pauli,Jonathan Beaulieu-Bourgault,21,Canada,Defensive Midfield,DM,£180Th.,Preußen Münster,Germany,Free transfer,Out,2010,s,1-bundesliga
+FC St. Pauli,Thomas Meggle,35,Germany,Attacking Midfield,AM,£225Th.,,Retired,-,Out,2010,s,1-bundesliga
+FC St. Pauli,Marc Gouiffe à Goufan,26,Cameroon,Defensive Midfield,DM,£360Th.,,Without Club,-,Out,2010,s,1-bundesliga
+FC St. Pauli,Morike Sako,28,France,Centre-Forward,CF,£360Th.,,Without Club,-,Out,2010,s,1-bundesliga
+FC St. Pauli,Andreas Biermann,29,Germany,Left-Back,LB,£90Th.,,Without Club,-,Out,2010,s,1-bundesliga
+FC St. Pauli,Patrik Borger,31,Germany,Goalkeeper,GK,£225Th.,,Without Club,-,Out,2010,s,1-bundesliga
+Borussia Dortmund,Moritz Leitner,18,Germany,Central Midfield,CM,£900Th.,TSV 1860 Munich,Germany,Free transfer,In,2010,w,1-bundesliga
+Bayern Munich,Luiz Gustavo,23,Brazil,Defensive Midfield,DM,£5.85m,TSG 1899 Hoffenheim,Germany,£15.30m,In,2010,w,1-bundesliga
+FC Schalke 04,Anthony Annan,24,Ghana,Defensive Midfield,DM,£2.70m,Rosenborg BK,Norway,£1.80m,In,2010,w,1-bundesliga
+FC Schalke 04,Danilo Avelar,21,Brazil,Centre-Back,CB,£360Th.,Karpaty Lviv,Ukraine,Loan fee:£90Th.,In,2010,w,1-bundesliga
+FC Schalke 04,Ali Karimi,32,Iran,Attacking Midfield,AM,£1.35m,Steel Azin FC,Iran,Free transfer,In,2010,w,1-bundesliga
+FC Schalke 04,Julian Draxler,17,Germany,Central Midfield,CM,-,FC Schalke 04 U19,Germany,-,In,2010,w,1-bundesliga
+FC Schalke 04,Angelos Charisteas,30,Greece,Centre-Forward,CF,£450Th.,,Without Club,-,In,2010,w,1-bundesliga
+FC Schalke 04,Tore Reginiussen,24,Norway,Centre-Back,CB,£1.35m,US Lecce,Italy,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+Borussia Mönchengladbach,Martin Stranzl,30,Austria,Centre-Back,CB,£2.70m,Spartak Moscow,Russia,£720Th.,In,2010,w,1-bundesliga
+Borussia Mönchengladbach,Michael Fink,28,Germany,Defensive Midfield,DM,£1.53m,Besiktas JK,Turkey,Loan fee:£630Th.,In,2010,w,1-bundesliga
+Borussia Mönchengladbach,Mike Hanke,27,Germany,Centre-Forward,CF,£900Th.,Hannover 96,Germany,Free transfer,In,2010,w,1-bundesliga
+Borussia Mönchengladbach,Havard Nordtveit,20,Norway,Centre-Back,CB,£900Th.,Arsenal FC Reserves,England,Free transfer,In,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Kevin Kampl,20,Slovenia,Central Midfield,CM,£90Th.,SpVgg Greuther Fürth,Germany,Free transfer,In,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Hajime Hosogai,24,Japan,Defensive Midfield,DM,£1.35m,Urawa Red Diamonds,Japan,Free transfer,In,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Lucas Rocha,19,Brazil,Centre-Back,CB,-,Associação Portuguesa de Desportos (SP) B,Brazil,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+VfB Stuttgart,Shinji Okazaki,24,Japan,Centre-Forward,CF,£1.98m,Shimizu S-Pulse,Japan,Free transfer,In,2010,w,1-bundesliga
+VfB Stuttgart,Tamás Hajnal,29,Hungary,Attacking Midfield,AM,£1.58m,Borussia Dortmund,Germany,Loan,In,2010,w,1-bundesliga
+VfL Wolfsburg,Patrick Helmes,26,Germany,Centre-Forward,CF,£7.65m,Bayer 04 Leverkusen,Germany,£4.50m,In,2010,w,1-bundesliga
+VfL Wolfsburg,Tuncay Sanli,29,Turkey,Left Winger,LW,£5.85m,Stoke City,England,£4.05m,In,2010,w,1-bundesliga
+VfL Wolfsburg,Jan Polak,29,Czech Republic,Defensive Midfield,DM,£4.05m,RSC Anderlecht,Belgium,£2.70m,In,2010,w,1-bundesliga
+VfL Wolfsburg,Ja-cheol Koo,21,"Korea, South",Central Midfield,CM,£900Th.,Jeju United,"Korea, South",£1.80m,In,2010,w,1-bundesliga
+VfL Wolfsburg,Dieumerci Mbokani,25,DR Congo,Centre-Forward,CF,£5.85m,AS Monaco,France,Loan fee:£900Th.,In,2010,w,1-bundesliga
+VfL Wolfsburg,Yohandry Orozco,19,Venezuela,Attacking Midfield,AM,-,Zulia FC,Venezuela,£675Th.,In,2010,w,1-bundesliga
+VfL Wolfsburg,Akaki Gogia,18,Germany,Right Winger,RW,£68Th.,VfL Wolfsburg II,Germany,-,In,2010,w,1-bundesliga
+SV Werder Bremen,Denni Avdic,22,Sweden,Centre-Forward,CF,£1.80m,IF Elfsborg,Sweden,£1.98m,In,2010,w,1-bundesliga
+SV Werder Bremen,Predrag Stevanovic,19,Serbia,Attacking Midfield,AM,£45Th.,FC Schalke 04 II,Germany,£90Th.,In,2010,w,1-bundesliga
+SV Werder Bremen,Samuel Jesus,24,Brazil,Centre-Back,CB,£225Th.,São Paulo Futebol Clube,Brazil,Free transfer,In,2010,w,1-bundesliga
+1.FC Nuremberg,Nassim Ben Khalifa,19,Switzerland,Centre-Forward,CF,£1.58m,VfL Wolfsburg,Germany,Loan,In,2010,w,1-bundesliga
+1.FC Nuremberg,Philipp Wollscheid,21,Germany,Centre-Back,CB,£180Th.,1.FC Nuremberg II,Germany,-,In,2010,w,1-bundesliga
+1.FC Nuremberg,Marvin Plattenhardt,18,Germany,Left-Back,LB,£68Th.,1.FC Nuremberg II,Germany,-,In,2010,w,1-bundesliga
+1.FC Nuremberg,Timo Ochs,29,Germany,Goalkeeper,GK,£270Th.,,Without Club,-,In,2010,w,1-bundesliga
+1.FC Nuremberg,Markus Mendler,17,Germany,Left Midfield,LM,£45Th.,1.FC Nürnberg U19,Germany,-,In,2010,w,1-bundesliga
+1.FC Nuremberg,Matthew Spiranovic,22,Australia,Centre-Back,CB,£495Th.,Urawa Red Diamonds,Japan,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+1.FC Nuremberg,Timothy Chandler,20,United States,Right-Back,RB,£113Th.,1.FC Nuremberg II,Germany,-,In,2010,w,1-bundesliga
+Eintracht Frankfurt,Sonny Kittel,17,Germany,Attacking Midfield,AM,£450Th.,Eintracht Frankfurt U19,Germany,-,In,2010,w,1-bundesliga
+Eintracht Frankfurt,Nikola Petkovic,24,Serbia,Centre-Back,CB,£225Th.,Tom Tomsk,Russia,"End of loanDec 1, 2010",In,2010,w,1-bundesliga
+Eintracht Frankfurt,Aykut Özer,18,Turkey,Goalkeeper,GK,£45Th.,Eintracht Frankfurt U19,Germany,-,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Ryan Babel,24,Netherlands,Left Winger,LW,£5.85m,Liverpool FC,England,£6.30m,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Roberto Firmino,19,Brazil,Centre-Forward,CF,-,Tombense Futebol Clube (MG),Brazil,£3.60m,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Kevin Volland,18,Germany,Centre-Forward,CF,£315Th.,TSV 1860 Munich,Germany,£630Th.,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,David Alaba,18,Austria,Left-Back,LB,£1.80m,Bayern Munich,Germany,Loan,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Edson Braafheid,27,Netherlands,Left-Back,LB,£2.25m,Bayern Munich,Germany,Free transfer,In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Franco Zuculini,20,Argentina,Central Midfield,CM,£3.60m,Genoa CFC,Italy,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,22,Brazil,Centre-Forward,CF,£1.13m,Fortuna Düsseldorf,Germany,"End of loanDec 29, 2010",In,2010,w,1-bundesliga
+SC Freiburg,Erik Jendrisek,24,Slovakia,Centre-Forward,CF,£1.80m,FC Schalke 04,Germany,£630Th.,In,2010,w,1-bundesliga
+SC Freiburg,Jonathan Schmid,20,France,Right-Back,RB,£135Th.,SC Freiburg II,Germany,-,In,2010,w,1-bundesliga
+1.FSV Mainz 05,Eugen Polanski,24,Poland,Defensive Midfield,DM,£2.70m,Getafe CF,Spain,£990Th.,In,2010,w,1-bundesliga
+1.FSV Mainz 05,Petar Sliskovic,19,Croatia,Centre-Forward,CF,£90Th.,1.FSV Mainz 05 II,Germany,-,In,2010,w,1-bundesliga
+1.FSV Mainz 05,Dragan Gjorgiev,20,North Macedonia,Left Winger,LW,£450Th.,SC Paderborn 07,Germany,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+1. FC Köln,Slawomir Peszko,25,Poland,Left Winger,LW,£2.16m,Lech Poznan,Poland,£450Th.,In,2010,w,1-bundesliga
+1. FC Köln,Christian Eichner,28,Germany,Left-Back,LB,£1.80m,TSG 1899 Hoffenheim,Germany,£90Th.,In,2010,w,1-bundesliga
+1. FC Köln,Tomoaki Makino,23,Japan,Centre-Back,CB,£1.80m,Sanfrecce Hiroshima,Japan,Free transfer,In,2010,w,1-bundesliga
+1. FC Köln,Wilfried Sanou,26,Burkina Faso,Left Winger,LW,£585Th.,Urawa Red Diamonds,Japan,"End of loanDec 31, 2010",In,2010,w,1-bundesliga
+1. FC Köln,Michael Rensing,26,Germany,Goalkeeper,GK,£1.35m,,Without Club,-,In,2010,w,1-bundesliga
+1.FC Kaiserslautern,Adam Hlousek,22,Czech Republic,Left-Back,LB,£900Th.,SK Slavia Prague,Czech Republic,Loan,In,2010,w,1-bundesliga
+1.FC Kaiserslautern,Lucas Rocha,19,Brazil,Centre-Back,CB,-,Bayer 04 Leverkusen,Germany,Loan,In,2010,w,1-bundesliga
+1.FC Kaiserslautern,Steven Zellner,19,Germany,Centre-Back,CB,£90Th.,1.FC Kaiserslautern II,Germany,-,In,2010,w,1-bundesliga
+Borussia Dortmund,Moritz Leitner,18,Germany,Central Midfield,CM,£900Th.,FC Augsburg,Germany,Loan fee:£135Th.,Out,2010,w,1-bundesliga
+Borussia Dortmund,Tamás Hajnal,29,Hungary,Attacking Midfield,AM,£1.58m,VfB Stuttgart,Germany,Loan,Out,2010,w,1-bundesliga
+Borussia Dortmund,Yasin Öztekin,23,Turkey,Left Winger,LW,£225Th.,Genclerbirligi Ankara,Turkey,Free transfer,Out,2010,w,1-bundesliga
+Bayern Munich,Martín Demichelis,30,Argentina,Centre-Back,CB,£7.20m,Málaga CF,Spain,£2.70m,Out,2010,w,1-bundesliga
+Bayern Munich,Edson Braafheid,27,Netherlands,Left-Back,LB,£2.25m,TSG 1899 Hoffenheim,Germany,Free transfer,Out,2010,w,1-bundesliga
+Bayern Munich,Mark van Bommel,33,Netherlands,Defensive Midfield,DM,£5.85m,AC Milan,Italy,Free transfer,Out,2010,w,1-bundesliga
+Bayern Munich,David Alaba,18,Austria,Left-Back,LB,£1.80m,TSG 1899 Hoffenheim,Germany,Loan,Out,2010,w,1-bundesliga
+FC Schalke 04,Ivan Rakitic,22,Croatia,Central Midfield,CM,£8.10m,Sevilla FC,Spain,£2.25m,Out,2010,w,1-bundesliga
+FC Schalke 04,Erik Jendrisek,24,Slovakia,Centre-Forward,CF,£1.80m,SC Freiburg,Germany,£630Th.,Out,2010,w,1-bundesliga
+FC Schalke 04,Jermaine Jones,29,United States,Defensive Midfield,DM,£4.50m,Blackburn Rovers,England,Loan fee:£540Th.,Out,2010,w,1-bundesliga
+FC Schalke 04,Tore Reginiussen,24,Norway,Centre-Back,CB,£900Th.,Tromsø IL,Norway,Loan fee:£90Th.,Out,2010,w,1-bundesliga
+Borussia Mönchengladbach,Jan-Ingwer Callsen-Bracker,26,Germany,Centre-Back,CB,£315Th.,FC Augsburg,Germany,Free transfer,Out,2010,w,1-bundesliga
+Borussia Mönchengladbach,Marcel Meeuwis,30,Netherlands,Defensive Midfield,DM,£1.13m,Feyenoord Rotterdam,Netherlands,Loan,Out,2010,w,1-bundesliga
+Borussia Mönchengladbach,Raúl Bobadilla,23,Paraguay,Centre-Forward,CF,£2.25m,Aris Thessaloniki,Greece,Loan,Out,2010,w,1-bundesliga
+Borussia Mönchengladbach,Michael Bradley,23,United States,Central Midfield,CM,£4.50m,Aston Villa,England,Loan,Out,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Patrick Helmes,26,Germany,Centre-Forward,CF,£7.65m,VfL Wolfsburg,Germany,£4.50m,Out,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Hajime Hosogai,24,Japan,Defensive Midfield,DM,£1.35m,FC Augsburg,Germany,Loan,Out,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Burak Kaplan,20,Turkey,Attacking Midfield,AM,£450Th.,SpVgg Greuther Fürth,Germany,Loan,Out,2010,w,1-bundesliga
+Bayer 04 Leverkusen,Lucas Rocha,19,Brazil,Centre-Back,CB,-,1.FC Kaiserslautern,Germany,Loan,Out,2010,w,1-bundesliga
+VfB Stuttgart,Mauro Camoranesi,34,Italy,Right Midfield,RM,£1.80m,Club Atlético Lanús,Argentina,Free transfer,Out,2010,w,1-bundesliga
+Hannover 96,Mike Hanke,27,Germany,Centre-Forward,CF,£900Th.,Borussia Mönchengladbach,Germany,Free transfer,Out,2010,w,1-bundesliga
+Hannover 96,Valdet Rama,23,Albania,Left Winger,LW,£315Th.,Örebro SK,Sweden,Free transfer,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Edin Dzeko,24,Bosnia-Herzegovina,Centre-Forward,CF,£27.00m,Manchester City,England,£33.30m,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Andrea Barzagli,29,Italy,Centre-Back,CB,£7.65m,Juventus FC,Italy,£270Th.,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Vlad Munteanu,29,Romania,Left Midfield,LM,£360Th.,Dinamo Bukarest,Romania,Free transfer,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Karim Ziani,28,Algeria,Attacking Midfield,AM,£3.15m,Kayserispor,Turkey,Loan,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Nassim Ben Khalifa,19,Switzerland,Centre-Forward,CF,£1.58m,1.FC Nuremberg,Germany,Loan,Out,2010,w,1-bundesliga
+VfL Wolfsburg,Caiuby,22,Brazil,Centre-Forward,CF,£675Th.,FC Ingolstadt 04,Germany,Loan,Out,2010,w,1-bundesliga
+SV Werder Bremen,Hugo Almeida,26,Portugal,Centre-Forward,CF,£7.20m,Besiktas JK,Turkey,£1.80m,Out,2010,w,1-bundesliga
+1.FC Nuremberg,Matthew Spiranovic,22,Australia,Centre-Back,CB,£495Th.,Urawa Red Diamonds,Japan,£405Th.,Out,2010,w,1-bundesliga
+1.FC Nuremberg,Felicio Brown Forbes,19,Costa Rica,Centre-Forward,CF,£135Th.,FC Carl Zeiss Jena,Germany,Loan,Out,2010,w,1-bundesliga
+1.FC Nuremberg,Dario Vidosic,23,Australia,Attacking Midfield,AM,£540Th.,Arminia Bielefeld,Germany,Loan,Out,2010,w,1-bundesliga
+1.FC Nuremberg,Isaac Boakye,29,Ghana,Centre-Forward,CF,£540Th.,,Without Club,-,Out,2010,w,1-bundesliga
+Eintracht Frankfurt,Cenk Tosun,19,Turkey,Centre-Forward,CF,£360Th.,Gaziantepspor,Turkey,£495Th.,Out,2010,w,1-bundesliga
+Eintracht Frankfurt,Marcos Álvarez,18,Germany,Centre-Forward,CF,£90Th.,FC Bayern Munich II,Germany,£180Th.,Out,2010,w,1-bundesliga
+Eintracht Frankfurt,Ümit Korkmaz,25,Austria,Left Winger,LW,£1.35m,VfL Bochum,Germany,Loan fee:£90Th.,Out,2010,w,1-bundesliga
+Eintracht Frankfurt,Markus Steinhöfer,24,Germany,Right-Back,RB,£675Th.,FC Basel 1893,Switzerland,£90Th.,Out,2010,w,1-bundesliga
+Eintracht Frankfurt,Nikola Petkovic,24,Serbia,Centre-Back,CB,£225Th.,Al-Ahli Jeddah,Saudi Arabia,Loan,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Luiz Gustavo,23,Brazil,Defensive Midfield,DM,£5.85m,Bayern Munich,Germany,£15.30m,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Demba Ba,25,Senegal,Centre-Forward,CF,£8.10m,West Ham United,England,£720Th.,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Christian Eichner,28,Germany,Left-Back,LB,£1.80m,1. FC Köln,Germany,£90Th.,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Franco Zuculini,20,Argentina,Central Midfield,CM,£3.42m,Racing Club,Argentina,Loan,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,22,Brazil,Centre-Forward,CF,£450Th.,Figueirense Futebol Clube,Brazil,Loan,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Kevin Volland,18,Germany,Centre-Forward,CF,£315Th.,TSV 1860 Munich,Germany,Loan,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Prince Tagoe,24,Ghana,Centre-Forward,CF,£900Th.,FK Partizan Belgrade,Serbia,Loan,Out,2010,w,1-bundesliga
+TSG 1899 Hoffenheim,Marco Terrazzino,19,Germany,Left Winger,LW,£315Th.,Karlsruher SC,Germany,?,Out,2010,w,1-bundesliga
+SC Freiburg,Alain Junior Ollé Ollé,23,Cameroon,Left Midfield,LM,£180Th.,Stabæk Fotball,Norway,Free transfer,Out,2010,w,1-bundesliga
+SC Freiburg,Ivica Banovic,30,Croatia,Defensive Midfield,DM,£900Th.,MSV Duisburg,Germany,Loan,Out,2010,w,1-bundesliga
+1.FSV Mainz 05,Haruna Babangida,28,Nigeria,Right Winger,RW,£900Th.,Vitesse Arnhem,Netherlands,Free transfer,Out,2010,w,1-bundesliga
+1.FSV Mainz 05,Félix Borja,27,Ecuador,Centre-Forward,CF,£450Th.,Puebla FC,Mexico,Free transfer,Out,2010,w,1-bundesliga
+1.FSV Mainz 05,Dragan Gjorgiev,20,North Macedonia,Left Winger,LW,£450Th.,Horizont Turnovo,North Macedonia,"End of loanJan 1, 2011",Out,2010,w,1-bundesliga
+1.FSV Mainz 05,Eugen Polanski,24,Poland,Defensive Midfield,DM,£2.70m,Getafe CF,Spain,"End of loanNov 5, 2010",Out,2010,w,1-bundesliga
+1.FSV Mainz 05,Morten Nicolas Rasmussen,25,Denmark,Centre-Forward,CF,£1.80m,Celtic FC,Scotland,"End of loanDec 31, 2010",Out,2010,w,1-bundesliga
+1. FC Köln,Faryd Mondragón,39,Colombia,Goalkeeper,GK,£900Th.,Philadelphia Union,United States,Free transfer,Out,2010,w,1-bundesliga
+1. FC Köln,Manasseh Ishiaku,27,Nigeria,Centre-Forward,CF,£675Th.,Sint-Truidense VV,Belgium,Loan,Out,2010,w,1-bundesliga
+1. FC Köln,José Pierre Vunguidica,20,Angola,Left Midfield,LM,£135Th.,Kickers Offenbach,Germany,Loan,Out,2010,w,1-bundesliga
+1. FC Köln,Daniel Brosinski,22,Germany,Right-Back,RB,£360Th.,SV Wehen Wiesbaden,Germany,Free transfer,Out,2010,w,1-bundesliga
+1.FC Kaiserslautern,Moussa Ouattara,28,Burkina Faso,Centre-Back,CB,£225Th.,SC Fortuna Köln,Germany,Free transfer,Out,2010,w,1-bundesliga
+FC St. Pauli,Davidson Eden (Drobo-Ampem),22,Germany,Centre-Back,CB,£270Th.,Esbjerg fB,Denmark,Loan,Out,2010,w,1-bundesliga

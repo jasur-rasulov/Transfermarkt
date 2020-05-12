@@ -1,7 +1,9 @@
 Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
 Manchester United,Dimitar Berbatov,27,Bulgaria,Centre-Forward,CF,£23.40m,Tottenham Hotspur,England,£34.20m,In,2008,s,premier-league
-Manchester United,Danny Simpson,22,England,Right-Back,RB,£900k,Blackburn Rovers,England,"End of loanMay 8, 2009",In,2008,s,premier-league
-Manchester United,David Gray,20,Scotland,Right-Back,RB,£90k,Plymouth Argyle,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Manchester United,Ben Amos,18,England,Goalkeeper,GK,-,Manchester United U18,England,-,In,2008,s,premier-league
+Manchester United,Darron Gibson,20,Ireland,Central Midfield,CM,£270Th.,Manchester United U23,England,-,In,2008,s,premier-league
+Manchester United,Danny Simpson,22,England,Right-Back,RB,£900Th.,Blackburn Rovers,England,"End of loanMay 8, 2009",In,2008,s,premier-league
+Manchester United,David Gray,20,Scotland,Right-Back,RB,£90Th.,Plymouth Argyle,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Manchester United,Fábio,17,Brazil,Right-Back,RB,-,Manchester United U18,England,-,In,2008,s,premier-league
 Manchester United,James Chester,19,Wales,Centre-Back,CB,-,Manchester United U18,England,-,In,2008,s,premier-league
 Manchester United,Tom Cleverley,18,England,Central Midfield,CM,-,Manchester United U18,England,-,In,2008,s,premier-league
@@ -12,20 +14,18 @@ Manchester United,Danny Drinkwater,18,England,Central Midfield,CM,-,Manchester U
 Manchester United,Manucho,26,Angola,Centre-Forward,CF,£1.80m,Hull City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Manchester United,Tom Heaton,23,England,Goalkeeper,GK,£1.35m,Cardiff City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Manchester United,Rafael,17,Brazil,Right-Back,RB,-,Manchester United U18,England,-,In,2008,s,premier-league
-Manchester United,Ben Amos,18,England,Goalkeeper,GK,-,Manchester United U18,England,-,In,2008,s,premier-league
-Manchester United,Darron Gibson,20,Ireland,Central Midfield,CM,£270k,Manchester United U23,England,-,In,2008,s,premier-league
 Manchester United,Manucho,25,Angola,Centre-Forward,CF,£1.80m,Panathinaikos Athens,Greece,"End of loanJun 30, 2008",In,2008,s,premier-league
 Chelsea FC,Bosingwa,25,Portugal,Right-Back,RB,£15.30m,FC Porto,Portugal,£18.45m,In,2008,s,premier-league
 Chelsea FC,Deco,30,Portugal,Attacking Midfield,AM,£16.20m,FC Barcelona,Spain,£9.00m,In,2008,s,premier-league
-Chelsea FC,Fábio Paim,20,Portugal,Right Midfield,RM,£360k,Sporting CP,Portugal,Loan,In,2008,s,premier-league
+Chelsea FC,Fábio Paim,20,Portugal,Right Midfield,RM,£360Th.,Sporting CP,Portugal,Loan,In,2008,s,premier-league
 Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,-,Northampton Town,England,"End of loanApr 9, 2009",In,2008,s,premier-league
 Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,-,Wycombe Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Chelsea FC,Ryan Bertrand,19,England,Left-Back,LB,£675k,Norwich City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Chelsea FC,Ryan Bertrand,19,England,Left-Back,LB,£675Th.,Norwich City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Chelsea FC,Carl Magnay,19,Northern Ireland,Right-Back,RB,-,Chelsea FC U18,England,-,In,2008,s,premier-league
 Chelsea FC,Gaël Kakuta,17,DR Congo,Attacking Midfield,AM,-,Chelsea FC U18,England,-,In,2008,s,premier-league
 Chelsea FC,Conor Clifford,17,Ireland,Central Midfield,CM,-,Chelsea FC U18,England,-,In,2008,s,premier-league
-Chelsea FC,Scott Sinclair,20,England,Left Winger,LW,£900k,Birmingham City,England,"End of loanMay 25, 2009",In,2008,s,premier-league
-Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£675k,Watford FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Chelsea FC,Scott Sinclair,20,England,Left Winger,LW,£900Th.,Birmingham City,England,"End of loanMay 25, 2009",In,2008,s,premier-league
+Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£675Th.,Watford FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Chelsea FC,Mineiro,33,Brazil,Defensive Midfield,DM,£2.70m,,Without Club,-,In,2008,s,premier-league
 Chelsea FC,Alcides,23,Brazil,Centre-Back,CB,£2.70m,PSV Eindhoven,Netherlands,"End of loanJun 30, 2008",In,2008,s,premier-league
 Chelsea FC,Hernán Crespo,32,Argentina,Centre-Forward,CF,£9.90m,FC Internazionale,Italy,"End of loanJun 30, 2008",In,2008,s,premier-league
@@ -33,17 +33,17 @@ Chelsea FC,Khalid Boulahrouz,26,Netherlands,Centre-Back,CB,£4.50m,Sevilla FC,Sp
 Chelsea FC,Slobodan Rajkovic,19,Serbia,Centre-Back,CB,£1.17m,PSV Eindhoven,Netherlands,"End of loanJun 30, 2008",In,2008,s,premier-league
 Arsenal FC,Samir Nasri,21,France,Attacking Midfield,AM,£13.50m,Olympique Marseille,France,£14.40m,In,2008,s,premier-league
 Arsenal FC,Aaron Ramsey,17,Wales,Central Midfield,CM,£4.50m,Cardiff City,England,£5.76m,In,2008,s,premier-league
-Arsenal FC,Mikaël Silvestre,31,France,Centre-Back,CB,£3.15m,Manchester United,England,£855k,In,2008,s,premier-league
-Arsenal FC,Amaury Bischoff,21,Portugal,Central Midfield,CM,£270k,SV Werder Bremen II,Germany,£270k,In,2008,s,premier-league
+Arsenal FC,Mikaël Silvestre,31,France,Centre-Back,CB,£3.15m,Manchester United,England,£855Th.,In,2008,s,premier-league
+Arsenal FC,Amaury Bischoff,21,Portugal,Central Midfield,CM,£270Th.,SV Werder Bremen II,Germany,£270Th.,In,2008,s,premier-league
+Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,-,Arsenal FC U18,England,-,In,2008,s,premier-league
 Arsenal FC,Armand Traoré,19,Senegal,Left-Back,LB,£1.98m,Portsmouth FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Arsenal FC,Henri Lansbury,18,England,Central Midfield,CM,£45k,Scunthorpe United,England,"End of loanMay 25, 2009",In,2008,s,premier-league
+Arsenal FC,Henri Lansbury,18,England,Central Midfield,CM,£45Th.,Scunthorpe United,England,"End of loanMay 25, 2009",In,2008,s,premier-league
 Arsenal FC,Jack Wilshere,16,England,Central Midfield,CM,-,Arsenal FC U18,England,-,In,2008,s,premier-league
 Arsenal FC,Rene Steer,19,England,Left-Back,LB,-,Gillingham FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Arsenal FC,Wojciech Szczesny,18,Poland,Goalkeeper,GK,£90k,Arsenal FC U18,England,-,In,2008,s,premier-league
-Arsenal FC,Henri Lansbury,17,England,Central Midfield,CM,£45k,Arsenal FC U18,England,-,In,2008,s,premier-league
-Arsenal FC,Kerrea Gilbert,22,England,Right-Back,RB,£270k,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,£900k,Derby County,England,"End of loanMay 25, 2009",In,2008,s,premier-league
-Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,-,Arsenal FC U18,England,-,In,2008,s,premier-league
+Arsenal FC,Wojciech Szczesny,18,Poland,Goalkeeper,GK,£90Th.,Arsenal FC U18,England,-,In,2008,s,premier-league
+Arsenal FC,Henri Lansbury,17,England,Central Midfield,CM,£45Th.,Arsenal FC U18,England,-,In,2008,s,premier-league
+Arsenal FC,Kerrea Gilbert,22,England,Right-Back,RB,£270Th.,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,£900Th.,Derby County,England,"End of loanMay 25, 2009",In,2008,s,premier-league
 Arsenal FC,Carlos Vela,19,Mexico,Right Winger,RW,£5.40m,CA Osasuna,Spain,"End of loanJun 30, 2008",In,2008,s,premier-league
 Arsenal FC,Fran Mérida,18,Spain,Central Midfield,CM,£2.34m,Real Sociedad,Spain,"End of loanJun 30, 2008",In,2008,s,premier-league
 Liverpool FC,Robbie Keane,28,Ireland,Centre-Forward,CF,£16.20m,Tottenham Hotspur,England,£21.60m,In,2008,s,premier-league
@@ -51,84 +51,84 @@ Liverpool FC,Javier Mascherano,24,Argentina,Defensive Midfield,DM,£20.25m,West 
 Liverpool FC,Albert Riera,26,Spain,Left Winger,LW,£10.80m,RCD Espanyol Barcelona,Spain,£8.82m,In,2008,s,premier-league
 Liverpool FC,Andrea Dossena,26,Italy,Left Midfield,LM,£5.85m,Udinese Calcio,Italy,£8.10m,In,2008,s,premier-league
 Liverpool FC,Diego Cavalieri,25,Brazil,Goalkeeper,GK,£1.08m,Sociedade Esportiva Palmeiras,Brazil,£3.96m,In,2008,s,premier-league
-Liverpool FC,David N'Gog,19,France,Centre-Forward,CF,£900k,Paris Saint-Germain,France,£1.35m,In,2008,s,premier-league
-Liverpool FC,Péter Gulácsi,18,Hungary,Goalkeeper,GK,-,MTK Budapest U19,Hungary,£225k,In,2008,s,premier-league
+Liverpool FC,David N'Gog,19,France,Centre-Forward,CF,£900Th.,Paris Saint-Germain,France,£1.35m,In,2008,s,premier-league
+Liverpool FC,Péter Gulácsi,18,Hungary,Goalkeeper,GK,-,MTK Budapest U19,Hungary,£225Th.,In,2008,s,premier-league
 Liverpool FC,Philipp Degen,25,Switzerland,Right-Back,RB,£2.25m,Borussia Dortmund,Germany,Free transfer,In,2008,s,premier-league
 Liverpool FC,Jermaine Pennant,26,England,Right Winger,RW,£5.40m,Portsmouth FC,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90k,Accrington Stanley,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90k,Stockport County,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90Th.,Accrington Stanley,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90Th.,Stockport County,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Liverpool FC,Daniel Ayala,17,Spain,Centre-Back,CB,-,Liverpool FC U18,England,-,In,2008,s,premier-league
 Liverpool FC,Péter Gulácsi,19,Hungary,Goalkeeper,GK,-,Hereford United (liq.),England,"End of loanMay 10, 2009",In,2008,s,premier-league
-Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90k,Hereford United (liq.),England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90Th.,Hereford United (liq.),England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Liverpool FC,Nathan Eccleston,17,England,Centre-Forward,CF,-,Liverpool FC U18,England,-,In,2008,s,premier-league
-Liverpool FC,Martin Kelly,19,England,Right-Back,RB,£45k,Huddersfield Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Liverpool FC,Stephen Darby,19,England,Right-Back,RB,£90k,Liverpool FC U23,England,-,In,2008,s,premier-league
-Liverpool FC,David Martin,23,England,Goalkeeper,GK,£180k,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Liverpool FC,Astrit Ajdarevic,19,Albania,Central Midfield,CM,£41k,Leicester City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Liverpool FC,Martin Kelly,19,England,Right-Back,RB,£45Th.,Huddersfield Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Liverpool FC,Stephen Darby,19,England,Right-Back,RB,£90Th.,Liverpool FC U23,England,-,In,2008,s,premier-league
+Liverpool FC,David Martin,23,England,Goalkeeper,GK,£180Th.,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Liverpool FC,Astrit Ajdarevic,19,Albania,Central Midfield,CM,£41Th.,Leicester City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Liverpool FC,Martin Kelly,18,England,Right-Back,RB,-,Liverpool FC U18,England,-,In,2008,s,premier-league
 Liverpool FC,Anthony Le Tallec,23,France,Centre-Forward,CF,£1.62m,Le Mans Union Club 72,France,"End of loanJun 30, 2008",In,2008,s,premier-league
 Liverpool FC,Besian Idrizaj,20,Austria,Centre-Forward,CF,-,FC Wacker Innsbruck,Austria,"End of loanJun 30, 2008",In,2008,s,premier-league
 Liverpool FC,Scott Carson,22,England,Goalkeeper,GK,£4.73m,Aston Villa,England,"End of loanJun 30, 2008",In,2008,s,premier-league
-Liverpool FC,Miki Roqué,19,Spain,Centre-Back,CB,£180k,Xerez CD,Spain,"End of loanJun 30, 2008",In,2008,s,premier-league
+Liverpool FC,Miki Roqué,19,Spain,Centre-Back,CB,£180Th.,Xerez CD,Spain,"End of loanJun 30, 2008",In,2008,s,premier-league
 Everton FC,Marouane Fellaini,20,Belgium,Central Midfield,CM,£6.30m,Standard Liège,Belgium,£19.58m,In,2008,s,premier-league
 Everton FC,Steven Pienaar,26,South Africa,Left Winger,LW,£4.05m,Borussia Dortmund,Germany,£2.48m,In,2008,s,premier-league
-Everton FC,Segundo Castillo,26,Ecuador,Defensive Midfield,DM,£2.48m,Red Star Belgrade,Serbia,Loan fee:£450k,In,2008,s,premier-league
+Everton FC,Segundo Castillo,26,Ecuador,Defensive Midfield,DM,£2.48m,Red Star Belgrade,Serbia,Loan fee:£450Th.,In,2008,s,premier-league
 Everton FC,Lars Jacobsen,28,Denmark,Right-Back,RB,£1.35m,1.FC Nuremberg,Germany,Free transfer,In,2008,s,premier-league
 Everton FC,Louis Saha,30,France,Centre-Forward,CF,£6.75m,Manchester United,England,Free transfer,In,2008,s,premier-league
-Everton FC,Carlo Nash,34,England,Goalkeeper,GK,£270k,Wigan Athletic,England,?,In,2008,s,premier-league
-Everton FC,Iain Turner,25,Scotland,Goalkeeper,GK,£405k,Nottingham Forest,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Everton FC,John Paul Kissock,18,England,Left Midfield,LM,£68k,Everton FC U18,England,-,In,2008,s,premier-league
-Everton FC,John Irving,19,England,Centre-Back,CB,£45k,Everton FC U18,England,-,In,2008,s,premier-league
-Everton FC,Lukas Jutkiewicz,20,England,Centre-Forward,CF,£450k,Huddersfield Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Everton FC,Jack Rodwell,17,England,Defensive Midfield,DM,£45k,Everton FC U18,England,-,In,2008,s,premier-league
+Everton FC,Carlo Nash,34,England,Goalkeeper,GK,£270Th.,Wigan Athletic,England,?,In,2008,s,premier-league
+Everton FC,Iain Turner,25,Scotland,Goalkeeper,GK,£405Th.,Nottingham Forest,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Everton FC,John Paul Kissock,18,England,Left Midfield,LM,£68Th.,Everton FC U18,England,-,In,2008,s,premier-league
+Everton FC,John Irving,19,England,Centre-Back,CB,£45Th.,Everton FC U18,England,-,In,2008,s,premier-league
+Everton FC,Lukas Jutkiewicz,20,England,Centre-Forward,CF,£450Th.,Huddersfield Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Everton FC,Jack Rodwell,17,England,Defensive Midfield,DM,£45Th.,Everton FC U18,England,-,In,2008,s,premier-league
 Everton FC,Aidan Downes,19,Ireland,Centre-Forward,CF,-,Yeovil Town,England,"End of loanJun 30, 2008",In,2008,s,premier-league
 Aston Villa,James Milner,22,England,Central Midfield,CM,£7.65m,Newcastle United,England,£13.50m,In,2008,s,premier-league
-Aston Villa,Curtis Davies,23,England,Centre-Back,CB,£3.15m,West Bromwich Albion,England,£9.00m,In,2008,s,premier-league
 Aston Villa,Carlos Cuéllar,26,Spain,Centre-Back,CB,£5.40m,Rangers FC,Scotland,£9.00m,In,2008,s,premier-league
+Aston Villa,Curtis Davies,23,England,Centre-Back,CB,£3.15m,West Bromwich Albion,England,£9.00m,In,2008,s,premier-league
 Aston Villa,Steve Sidwell,25,England,Central Midfield,CM,£3.60m,Chelsea FC,England,£5.67m,In,2008,s,premier-league
 Aston Villa,Nicky Shorey,27,England,Left-Back,LB,£5.40m,Reading FC,England,£3.96m,In,2008,s,premier-league
 Aston Villa,Luke Young,29,England,Right-Back,RB,£4.50m,Middlesbrough FC,England,£2.70m,In,2008,s,premier-league
 Aston Villa,Brad Friedel,37,United States,Goalkeeper,GK,£3.15m,Blackburn Rovers,England,£2.25m,In,2008,s,premier-league
-Aston Villa,Brad Guzan,23,United States,Goalkeeper,GK,£450k,CD Chivas USA,United States,£900k,In,2008,s,premier-league
-Aston Villa,Stuart Taylor,28,England,Goalkeeper,GK,£630k,Cardiff City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Aston Villa,Brad Guzan,23,United States,Goalkeeper,GK,£450Th.,CD Chivas USA,United States,£900Th.,In,2008,s,premier-league
+Aston Villa,Stuart Taylor,28,England,Goalkeeper,GK,£630Th.,Cardiff City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Brentford FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Aston Villa,Barry Bannan,18,Scotland,Central Midfield,CM,-,Aston Villa U18,England,-,In,2008,s,premier-league
-Aston Villa,Barry Bannan,19,Scotland,Central Midfield,CM,£45k,Derby County,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Aston Villa,Nathan Delfouneso,17,England,Centre-Forward,CF,£90k,Aston Villa U18,England,-,In,2008,s,premier-league
+Aston Villa,Barry Bannan,19,Scotland,Central Midfield,CM,£45Th.,Derby County,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Aston Villa,Nathan Delfouneso,17,England,Centre-Forward,CF,£90Th.,Aston Villa U18,England,-,In,2008,s,premier-league
 Aston Villa,Marlon Harewood,29,England,Centre-Forward,CF,£1.98m,Wolverhampton Wanderers,England,"End of loanMay 25, 2009",In,2008,s,premier-league
-Aston Villa,Isaiah Osbourne,21,England,Central Midfield,CM,£450k,Nottingham Forest,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Aston Villa,Isaiah Osbourne,21,England,Central Midfield,CM,£450Th.,Nottingham Forest,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Aston Villa,Luke Moore,22,England,Centre-Forward,CF,£3.38m,West Bromwich Albion,England,"End of loanJun 30, 2008",In,2008,s,premier-league
 Blackburn Rovers,Paul Robinson,28,England,Goalkeeper,GK,£4.50m,Tottenham Hotspur,England,£3.96m,In,2008,s,premier-league
 Blackburn Rovers,Vince Grella,28,Australia,Central Midfield,CM,£2.25m,Torino FC,Italy,£3.60m,In,2008,s,premier-league
-Blackburn Rovers,Keith Andrews,27,Ireland,Central Midfield,CM,£90k,Milton Keynes Dons,England,£837k,In,2008,s,premier-league
-Blackburn Rovers,Mark Bunn,23,England,Goalkeeper,GK,-,Northampton Town,England,£135k,In,2008,s,premier-league
-Blackburn Rovers,Danny Simpson,21,England,Right-Back,RB,£810k,Manchester United,England,Loan,In,2008,s,premier-league
+Blackburn Rovers,Keith Andrews,27,Ireland,Central Midfield,CM,£90Th.,Milton Keynes Dons,England,£837Th.,In,2008,s,premier-league
+Blackburn Rovers,Mark Bunn,23,England,Goalkeeper,GK,-,Northampton Town,England,£135Th.,In,2008,s,premier-league
+Blackburn Rovers,Danny Simpson,21,England,Right-Back,RB,£810Th.,Manchester United,England,Loan,In,2008,s,premier-league
 Blackburn Rovers,Carlos Villanueva,22,Chile,Attacking Midfield,AM,£1.80m,Audax Italiano,Chile,Loan,In,2008,s,premier-league
-Blackburn Rovers,Nick Blackman,19,Barbados,Right Winger,RW,£135k,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Blackburn Rovers,Nick Blackman,19,Barbados,Right Winger,RW,£135Th.,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Blackburn Rovers,Paul Gallagher,24,Scotland,Central Midfield,CM,£1.58m,Plymouth Argyle,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Blackburn Rovers,Alex Marrow,18,England,Central Midfield,CM,-,Blackburn Rovers U18,England,-,In,2008,s,premier-league
 Blackburn Rovers,Alan Judge,19,Ireland,Left Midfield,LM,-,Blackburn Rovers U21,England,-,In,2008,s,premier-league
-Blackburn Rovers,Maceo Rigters,25,Netherlands,Centre-Forward,CF,£810k,Barnsley FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Blackburn Rovers,Maceo Rigters,25,Netherlands,Centre-Forward,CF,£810Th.,Barnsley FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Blackburn Rovers,Andreas Arestidou,18,England,Goalkeeper,GK,-,Blackburn Rovers U18,England,-,In,2008,s,premier-league
 Blackburn Rovers,Robbie Fowler,33,England,Centre-Forward,CF,£1.62m,,Without Club,-,In,2008,s,premier-league
-Blackburn Rovers,Frank Fielding,21,England,Goalkeeper,GK,£270k,Rochdale AFC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Blackburn Rovers,Frank Fielding,21,England,Goalkeeper,GK,£270Th.,Rochdale AFC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Blackburn Rovers,Johnny Flynn,18,Northern Ireland,Centre-Back,CB,-,Blackburn Rovers U18,England,-,In,2008,s,premier-league
 Portsmouth FC,Peter Crouch,27,England,Centre-Forward,CF,£8.55m,Liverpool FC,England,£12.33m,In,2008,s,premier-league
 Portsmouth FC,Younès Kaboul,22,France,Centre-Back,CB,£5.85m,Tottenham Hotspur,England,£5.63m,In,2008,s,premier-league
-Portsmouth FC,Jerome Thomas,25,England,Left Winger,LW,£675k,Charlton Athletic,England,Free transfer,In,2008,s,premier-league
-Portsmouth FC,Ben Sahar,18,Israel,Centre-Forward,CF,£360k,Chelsea FC,England,Loan,In,2008,s,premier-league
-Portsmouth FC,Jon Stewart,19,England,Goalkeeper,GK,£45k,Weymouth FC,England,Free transfer,In,2008,s,premier-league
-Portsmouth FC,Glen Little,32,England,Right Winger,RW,£585k,Reading FC,England,Free transfer,In,2008,s,premier-league
+Portsmouth FC,Jerome Thomas,25,England,Left Winger,LW,£675Th.,Charlton Athletic,England,Free transfer,In,2008,s,premier-league
+Portsmouth FC,Ben Sahar,18,Israel,Centre-Forward,CF,£360Th.,Chelsea FC,England,Loan,In,2008,s,premier-league
+Portsmouth FC,Jon Stewart,19,England,Goalkeeper,GK,£45Th.,Weymouth FC,England,Free transfer,In,2008,s,premier-league
+Portsmouth FC,Glen Little,32,England,Right Winger,RW,£585Th.,Reading FC,England,Free transfer,In,2008,s,premier-league
 Portsmouth FC,Omar Alieu Koroma,18,The Gambia,Centre-Forward,CF,-,Hawks Banjul FC,The Gambia,Free transfer,In,2008,s,premier-league
+Portsmouth FC,Armand Traoré,18,Senegal,Left-Back,LB,£900Th.,Arsenal FC,England,Loan,In,2008,s,premier-league
 Portsmouth FC,Nadir Belhadj,26,Algeria,Left-Back,LB,£3.15m,RC Lens,France,Loan,In,2008,s,premier-league
-Portsmouth FC,Armand Traoré,18,Senegal,Left-Back,LB,£900k,Arsenal FC,England,Loan,In,2008,s,premier-league
-Portsmouth FC,Danijel Subotic,20,Switzerland,Centre-Forward,CF,£180k,Southend United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Portsmouth FC,Callum Reynolds,18,England,Centre-Back,CB,-,Portsmouth FC U18,England,-,In,2008,s,premier-league
+Portsmouth FC,Danijel Subotic,20,Switzerland,Centre-Forward,CF,£180Th.,Southend United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Portsmouth FC,Matt Ritchie,19,Scotland,Left-Back,LB,-,Dagenham & Redbridge FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Portsmouth FC,Matt Ritchie,18,Scotland,Left-Back,LB,-,Portsmouth FC U18,England,-,In,2008,s,premier-league
 Portsmouth FC,Joel Ward,19,England,Right-Back,RB,-,AFC Bournemouth,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Portsmouth FC,Joel Ward,18,England,Right-Back,RB,-,Portsmouth FC U18,England,-,In,2008,s,premier-league
-Portsmouth FC,Glen Little,33,England,Right Winger,RW,£720k,Reading FC,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Portsmouth FC,Callum Reynolds,18,England,Centre-Back,CB,-,Portsmouth FC U18,England,-,In,2008,s,premier-league
+Portsmouth FC,Glen Little,33,England,Right Winger,RW,£720Th.,Reading FC,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Portsmouth FC,Djimi Traoré,28,Mali,Centre-Back,CB,£2.70m,Stade Rennais FC,France,"End of loanJun 30, 2008",In,2008,s,premier-league
 Manchester City,Robinho,24,Brazil,Left Winger,LW,£30.60m,Real Madrid,Spain,£38.70m,In,2008,s,premier-league
 Manchester City,Jô,21,Brazil,Centre-Forward,CF,£14.40m,CSKA Moscow,Russia,£21.60m,In,2008,s,premier-league
@@ -138,55 +138,55 @@ Manchester City,Vincent Kompany,22,Belgium,Centre-Back,CB,£9.00m,Hamburger SV,G
 Manchester City,Tal Ben Haim,26,Israel,Centre-Back,CB,£3.60m,Chelsea FC,England,£5.76m,In,2008,s,premier-league
 Manchester City,Gláuber,25,Brazil,Centre-Back,CB,£1.62m,1.FC Nuremberg,Germany,Free transfer,In,2008,s,premier-league
 Manchester City,Tal Ben Haim,27,Israel,Centre-Back,CB,£3.60m,Sunderland AFC,England,"End of loanMay 25, 2009",In,2008,s,premier-league
-Manchester City,Daniel Sturridge,18,England,Centre-Forward,CF,£450k,Manchester City U18,England,-,In,2008,s,premier-league
+Manchester City,Daniel Sturridge,18,England,Centre-Forward,CF,£450Th.,Manchester City U18,England,-,In,2008,s,premier-league
 Manchester City,Donal McDermott,18,Ireland,Attacking Midfield,AM,-,Manchester City U18,England,-,In,2008,s,premier-league
 Manchester City,John Guidetti,16,Sweden,Centre-Forward,CF,-,Manchester City U18,England,-,In,2008,s,premier-league
 Manchester City,Donal McDermott,18,Ireland,Attacking Midfield,AM,-,Milton Keynes Dons,England,"End of loanOct 12, 2008",In,2008,s,premier-league
-Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225k,Wrexham AFC,Wales,"End of loanMay 1, 2009",In,2008,s,premier-league
+Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225Th.,Wrexham AFC,Wales,"End of loanMay 1, 2009",In,2008,s,premier-league
 Manchester City,Scott Kay,18,England,Central Midfield,CM,-,Manchester City U18,England,-,In,2008,s,premier-league
-Manchester City,Richard Martin,21,England,Goalkeeper,GK,£68k,Burton Albion,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Manchester City,Richard Martin,21,England,Goalkeeper,GK,£68Th.,Burton Albion,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,-,Manchester City U18,England,-,In,2008,s,premier-league
 Manchester City,Bernardo Corradi,32,Italy,Centre-Forward,CF,£2.70m,Parma FC,Italy,"End of loanJun 30, 2008",In,2008,s,premier-league
 Manchester City,Georgios Samaras,23,Greece,Left Winger,LW,£3.60m,Celtic FC,Scotland,"End of loanJun 30, 2008",In,2008,s,premier-league
 West Ham United,Valon Behrami,23,Switzerland,Defensive Midfield,DM,£7.20m,SS Lazio,Italy,£5.67m,In,2008,s,premier-league
-West Ham United,David Di Michele,32,Italy,Centre-Forward,CF,£2.97m,Torino FC,Italy,Loan fee:£630k,In,2008,s,premier-league
+West Ham United,David Di Michele,32,Italy,Centre-Forward,CF,£2.97m,Torino FC,Italy,Loan fee:£630Th.,In,2008,s,premier-league
 West Ham United,Jan Lastuvka,26,Czech Republic,Goalkeeper,GK,£1.08m,Shakhtar Donetsk,Ukraine,Loan,In,2008,s,premier-league
-West Ham United,Wálter López,22,Uruguay,Left-Back,LB,£360k,Atletico River Plate Montevideo,Uruguay,Free transfer,In,2008,s,premier-league
+West Ham United,Wálter López,22,Uruguay,Left-Back,LB,£360Th.,Atletico River Plate Montevideo,Uruguay,Free transfer,In,2008,s,premier-league
 West Ham United,Hérita Ilunga,26,DR Congo,Left-Back,LB,£3.15m,FC Toulouse,France,Loan,In,2008,s,premier-league
-West Ham United,Jordan Spence,19,England,Right-Back,RB,£45k,Leyton Orient,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+West Ham United,Kyel Reid,21,England,Left Winger,LW,£450Th.,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+West Ham United,Diego Tristán,32,Spain,Centre-Forward,CF,£1.80m,,Without Club,-,In,2008,s,premier-league
+West Ham United,Jordan Spence,19,England,Right-Back,RB,£45Th.,Leyton Orient,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 West Ham United,Carlos Tevez,25,Argentina,Second Striker,SS,£22.50m,Manchester United,England,"End of loanJun 30, 2009",In,2008,s,premier-league
 West Ham United,Jordan Spence,18,England,Right-Back,RB,-,West Ham United U18,England,-,In,2008,s,premier-league
-West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£900k,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£900Th.,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 West Ham United,Lee Bowyer,32,England,Central Midfield,CM,£1.80m,Birmingham City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 West Ham United,Marek Stech,18,Czech Republic,Goalkeeper,GK,-,West Ham United U18,England,-,In,2008,s,premier-league
 West Ham United,Lorcan Fitzgerald,19,Ireland,Left-Back,LB,-,West Ham United U18,England,-,In,2008,s,premier-league
-West Ham United,Calum Davenport,26,England,Centre-Back,CB,£810k,Sunderland AFC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-West Ham United,Marek Stech,19,Czech Republic,Goalkeeper,GK,£90k,Wycombe Wanderers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+West Ham United,Calum Davenport,26,England,Centre-Back,CB,£810Th.,Sunderland AFC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+West Ham United,Marek Stech,19,Czech Republic,Goalkeeper,GK,£90Th.,Wycombe Wanderers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 West Ham United,Junior Stanislas,18,England,Left Winger,LW,-,West Ham United U18,England,-,In,2008,s,premier-league
-West Ham United,Kyel Reid,21,England,Left Winger,LW,£450k,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-West Ham United,Diego Tristán,32,Spain,Centre-Forward,CF,£1.80m,,Without Club,-,In,2008,s,premier-league
 Tottenham Hotspur,David Bentley,23,England,Right Midfield,RM,£10.80m,Blackburn Rovers,England,£19.80m,In,2008,s,premier-league
 Tottenham Hotspur,Luka Modric,22,Croatia,Central Midfield,CM,£16.20m,GNK Dinamo Zagreb,Croatia,£18.90m,In,2008,s,premier-league
 Tottenham Hotspur,Roman Pavlyuchenko,26,Russia,Centre-Forward,CF,£7.20m,Spartak Moscow,Russia,£15.66m,In,2008,s,premier-league
 Tottenham Hotspur,Vedran Corluka,22,Croatia,Centre-Back,CB,£10.35m,Manchester City,England,£12.38m,In,2008,s,premier-league
 Tottenham Hotspur,Heurelho Gomes,27,Brazil,Goalkeeper,GK,£6.75m,PSV Eindhoven,Netherlands,£8.10m,In,2008,s,premier-league
 Tottenham Hotspur,Giovani dos Santos,19,Mexico,Second Striker,SS,£5.40m,FC Barcelona,Spain,£5.40m,In,2008,s,premier-league
-Tottenham Hotspur,John Bostock,16,Trinidad and Tobago,Central Midfield,CM,£270k,Crystal Palace,England,£1.80m,In,2008,s,premier-league
+Tottenham Hotspur,John Bostock,16,Trinidad and Tobago,Central Midfield,CM,£270Th.,Crystal Palace,England,£1.80m,In,2008,s,premier-league
 Tottenham Hotspur,César Sánchez,36,Spain,Goalkeeper,GK,£2.34m,Real Zaragoza,Spain,Free transfer,In,2008,s,premier-league
 Tottenham Hotspur,Fraizer Campbell,20,England,Centre-Forward,CF,£1.80m,Manchester United,England,Loan,In,2008,s,premier-league
 Tottenham Hotspur,David Button,20,England,Goalkeeper,GK,-,Luton Town,England,"End of loanApr 6, 2009",In,2008,s,premier-league
 Tottenham Hotspur,Jonathan Obika,17,England,Centre-Forward,CF,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
-Tottenham Hotspur,Dorian Dervite,20,France,Centre-Back,CB,£450k,Southend United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Tottenham Hotspur,Jonathan Obika,18,England,Centre-Forward,CF,£90k,Yeovil Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Tottenham Hotspur,Dorian Dervite,20,France,Centre-Back,CB,£450Th.,Southend United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Tottenham Hotspur,Jonathan Obika,18,England,Centre-Forward,CF,£90Th.,Yeovil Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Tottenham Hotspur,Cian Hughton,19,Ireland,Right-Back,RB,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
-Tottenham Hotspur,Danny Rose,18,England,Left-Back,LB,£450k,Watford FC,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Tottenham Hotspur,Danny Rose,18,England,Left-Back,LB,£450Th.,Watford FC,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Tottenham Hotspur,Andros Townsend,16,England,Right Winger,RW,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
 Tottenham Hotspur,Andros Townsend,17,England,Right Winger,RW,-,Yeovil Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Tottenham Hotspur,David Hutton,18,Ireland,Midfielder,Midfielder,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
 Tottenham Hotspur,Chris Gunter,19,Wales,Right-Back,RB,£3.15m,Nottingham Forest,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Tottenham Hotspur,Adam Smith,17,England,Right-Back,RB,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
 Tottenham Hotspur,Adel Taarabt,20,Morocco,Central Midfield,CM,£1.80m,Queens Park Rangers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450k,Tottenham Hotspur U21,England,-,In,2008,s,premier-league
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450Th.,Tottenham Hotspur U21,England,-,In,2008,s,premier-league
 Tottenham Hotspur,Charlie Daniels,21,England,Left-Back,LB,-,Gillingham FC,England,"End of loanSep 1, 2008",In,2008,s,premier-league
 Tottenham Hotspur,Danny Hutchins,18,England,Right-Back,RB,-,Tottenham Hotspur U18,England,-,In,2008,s,premier-league
 Tottenham Hotspur,Hossam Ghaly,26,Egypt,Central Midfield,CM,£1.80m,Derby County,England,"End of loanJun 30, 2008",In,2008,s,premier-league
@@ -195,38 +195,38 @@ Newcastle United,Jonás Gutiérrez,24,Argentina,Central Midfield,CM,£5.40m,RCD 
 Newcastle United,Xisco,22,Spain,Centre-Forward,CF,£4.50m,Deportivo de La Coruña,Spain,£5.11m,In,2008,s,premier-league
 Newcastle United,Danny Guthrie,21,England,Central Midfield,CM,£1.62m,Liverpool FC,England,£3.87m,In,2008,s,premier-league
 Newcastle United,Sébastien Bassong,21,Cameroon,Centre-Back,CB,£1.44m,FC Metz,France,£1.62m,In,2008,s,premier-league
-Newcastle United,Ignacio González,26,Uruguay,Attacking Midfield,AM,£675k,Valencia CF,Spain,Loan,In,2008,s,premier-league
-Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360k,Doncaster Rovers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Newcastle United,Ignacio González,26,Uruguay,Attacking Midfield,AM,£675Th.,Valencia CF,Spain,Loan,In,2008,s,premier-league
+Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360Th.,Doncaster Rovers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Newcastle United,Wesley Ngo Baheng,18,France,Centre-Forward,CF,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,Mark Doninger,18,England,Attacking Midfield,AM,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,Ole Söderberg,17,Sweden,Goalkeeper,GK,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,Jonny Godsmark,18,England,Midfielder,Midfielder,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,Conor Newton,16,England,Central Midfield,CM,-,Newcastle United U18,England,-,In,2008,s,premier-league
-Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810k,Newcastle United U23,England,-,In,2008,s,premier-league
+Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810Th.,Newcastle United U23,England,-,In,2008,s,premier-league
 Newcastle United,Ryan Donaldson,17,England,Attacking Midfield,AM,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,Phil Airey,17,England,Centre-Forward,CF,-,Newcastle United U18,England,-,In,2008,s,premier-league
 Newcastle United,David Rozehnal,27,Czech Republic,Centre-Back,CB,£3.60m,SS Lazio,Italy,"End of loanJun 30, 2008",In,2008,s,premier-league
 Middlesbrough FC,Didier Digard,21,France,Defensive Midfield,DM,£2.70m,Paris Saint-Germain,France,£4.50m,In,2008,s,premier-league
-Middlesbrough FC,Marvin Emnes,20,Netherlands,Centre-Forward,CF,£900k,Sparta Rotterdam,Netherlands,£3.60m,In,2008,s,premier-league
+Middlesbrough FC,Marvin Emnes,20,Netherlands,Centre-Forward,CF,£900Th.,Sparta Rotterdam,Netherlands,£3.60m,In,2008,s,premier-league
 Middlesbrough FC,Justin Hoyte,23,Trinidad and Tobago,Right-Back,RB,£1.35m,Arsenal FC,England,£3.42m,In,2008,s,premier-league
-Middlesbrough FC,Rhys Williams,20,Australia,Centre-Back,CB,£225k,Burnley FC,England,"End of loanMay 4, 2009",In,2008,s,premier-league
+Middlesbrough FC,Rhys Williams,20,Australia,Centre-Back,CB,£225Th.,Burnley FC,England,"End of loanMay 4, 2009",In,2008,s,premier-league
 Middlesbrough FC,Rhys Williams,19,Australia,Centre-Back,CB,-,Middlesbrough FC U21,England,-,In,2008,s,premier-league
 Middlesbrough FC,Jonathan Franks,18,England,Left Winger,LW,-,Middlesbrough FC U18,England,-,In,2008,s,premier-league
 Middlesbrough FC,Mido,26,Egypt,Centre-Forward,CF,£3.78m,Wigan Athletic,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Middlesbrough FC,Joe Bennett,18,England,Left-Back,LB,-,Middlesbrough FC U18,England,-,In,2008,s,premier-league
-Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360k,Norwich City,England,"End of loanOct 1, 2008",In,2008,s,premier-league
-Middlesbrough FC,Graeme Owens,21,England,Right Winger,RW,£90k,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360Th.,Norwich City,England,"End of loanOct 1, 2008",In,2008,s,premier-league
+Middlesbrough FC,Graeme Owens,21,England,Right Winger,RW,£90Th.,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Middlesbrough FC,Jason Steele,17,England,Goalkeeper,GK,-,Middlesbrough FC U18,England,-,In,2008,s,premier-league
 Middlesbrough FC,John Johnson,19,England,Centre-Back,CB,-,Middlesbrough FC U21,England,-,In,2008,s,premier-league
 Wigan Athletic,Olivier Kapo,27,France,Attacking Midfield,AM,£3.15m,Birmingham City,England,£3.96m,In,2008,s,premier-league
 Wigan Athletic,Lee Cattermole,20,England,Defensive Midfield,DM,£1.80m,Middlesbrough FC,England,£3.96m,In,2008,s,premier-league
 Wigan Athletic,Amr Zaki,25,Egypt,Centre-Forward,CF,£2.07m,Zamalek SC,Egypt,Loan fee:£1.80m,In,2008,s,premier-league
 Wigan Athletic,Daniël de Ridder,24,Netherlands,Left Winger,LW,£1.80m,Birmingham City,England,Free transfer,In,2008,s,premier-league
-Wigan Athletic,Richard Kingson,30,Ghana,Goalkeeper,GK,£450k,Birmingham City,England,Free transfer,In,2008,s,premier-league
+Wigan Athletic,Richard Kingson,30,Ghana,Goalkeeper,GK,£450Th.,Birmingham City,England,Free transfer,In,2008,s,premier-league
 Wigan Athletic,Henri Camara,31,Senegal,Centre-Forward,CF,£1.80m,Stoke City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Wigan Athletic,Luke Ashworth,18,England,Centre-Back,CB,-,Leyton Orient,England,"End of loanOct 22, 2008",In,2008,s,premier-league
 Wigan Athletic,Craig Mahon,19,Ireland,Left Winger,LW,-,Wigan Athletic U18,England,-,In,2008,s,premier-league
-Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90k,Chesterfield FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90Th.,Chesterfield FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Wigan Athletic,Luke Ashworth,18,England,Centre-Back,CB,-,Wigan Athletic U18,England,-,In,2008,s,premier-league
 Sunderland AFC,Anton Ferdinand,23,England,Centre-Back,CB,£3.60m,West Ham United,England,£9.00m,In,2008,s,premier-league
 Sunderland AFC,George McCartney,27,Northern Ireland,Left-Back,LB,£3.60m,West Ham United,England,£4.95m,In,2008,s,premier-league
@@ -236,118 +236,118 @@ Sunderland AFC,El-Hadji Diouf,27,Senegal,Centre-Forward,CF,£4.05m,Bolton Wander
 Sunderland AFC,Teemu Tainio,28,Finland,Defensive Midfield,DM,£2.70m,Tottenham Hotspur,England,£2.70m,In,2008,s,premier-league
 Sunderland AFC,Djibril Cissé,27,France,Centre-Forward,CF,£9.90m,Olympique Marseille,France,Loan fee:£1.35m,In,2008,s,premier-league
 Sunderland AFC,David Healy,29,Northern Ireland,Centre-Forward,CF,£2.70m,Fulham FC,England,£1.35m,In,2008,s,premier-league
-Sunderland AFC,David Meyler,19,Ireland,Central Midfield,CM,-,Cork City FC (diss. 2009),Ireland,£189k,In,2008,s,premier-league
-Sunderland AFC,Nick Colgan,34,Ireland,Goalkeeper,GK,£338k,Ipswich Town,England,Free transfer,In,2008,s,premier-league
-Sunderland AFC,Nathan Luscombe,18,England,Left Midfield,LM,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
+Sunderland AFC,David Meyler,19,Ireland,Central Midfield,CM,-,Cork City FC (diss. 2009),Ireland,£189Th.,In,2008,s,premier-league
+Sunderland AFC,Nick Colgan,34,Ireland,Goalkeeper,GK,£338Th.,Ipswich Town,England,Free transfer,In,2008,s,premier-league
+Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,£45Th.,Coventry City,England,"End of loanApr 6, 2009",In,2008,s,premier-league
+Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45Th.,Sunderland AFC U18,England,-,In,2008,s,premier-league
 Sunderland AFC,Michael Chopra,25,England,Centre-Forward,CF,£4.05m,Cardiff City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Sunderland AFC,Russell Anderson,30,Scotland,Centre-Back,CB,£720k,Burnley FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720k,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Sunderland AFC,Nathan Luscombe,18,England,Left Midfield,LM,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
+Sunderland AFC,Russell Anderson,30,Scotland,Centre-Back,CB,£720Th.,Burnley FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720Th.,Blackpool FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Sunderland AFC,Darren Ward,34,Wales,Goalkeeper,GK,£360Th.,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Sunderland AFC,Michael Liddle,18,Ireland,Left-Back,LB,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
-Sunderland AFC,Darren Ward,34,Wales,Goalkeeper,GK,£360k,Wolverhampton Wanderers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Sunderland AFC,Michael Liddle,19,Ireland,Left-Back,LB,£45k,Carlisle United,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Sunderland AFC,Arnau Riera,27,Spain,Left Winger,LW,£450k,Falkirk FC,Scotland,"End of loanMay 1, 2009",In,2008,s,premier-league
-Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
+Sunderland AFC,Michael Liddle,19,Ireland,Left-Back,LB,£45Th.,Carlisle United,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Sunderland AFC,Arnau Riera,27,Spain,Left Winger,LW,£450Th.,Falkirk FC,Scotland,"End of loanMay 1, 2009",In,2008,s,premier-league
 Sunderland AFC,Greg Halford,24,England,Centre-Back,CB,£1.35m,Sheffield United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£810Th.,Crystal Palace,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Sunderland AFC,Jordan Cook,18,England,Second Striker,SS,-,Sunderland AFC U18,England,-,In,2008,s,premier-league
-Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£810k,Crystal Palace,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Sunderland AFC,Trevor Carson,21,Northern Ireland,Goalkeeper,GK,£90k,Chesterfield FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,£45k,Coventry City,England,"End of loanApr 6, 2009",In,2008,s,premier-league
-Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45k,Sunderland AFC U18,England,-,In,2008,s,premier-league
+Sunderland AFC,Trevor Carson,21,Northern Ireland,Goalkeeper,GK,£90Th.,Chesterfield FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Bolton Wanderers,Johan Elmander,27,Sweden,Centre-Forward,CF,£9.00m,FC Toulouse,France,£11.34m,In,2008,s,premier-league
 Bolton Wanderers,Fabrice Muamba,20,England,Central Midfield,CM,£4.05m,Birmingham City,England,£5.76m,In,2008,s,premier-league
 Bolton Wanderers,Danny Shittu,27,Nigeria,Centre-Back,CB,£2.25m,Watford FC,England,£2.16m,In,2008,s,premier-league
-Bolton Wanderers,Riga Mustapha,26,Netherlands,Right Winger,RW,£3.06m,Levante UD,Spain,£360k,In,2008,s,premier-league
+Bolton Wanderers,Riga Mustapha,26,Netherlands,Right Winger,RW,£3.06m,Levante UD,Spain,£360Th.,In,2008,s,premier-league
 Bolton Wanderers,Ebi Smolarek,27,Poland,Centre-Forward,CF,£3.60m,Racing Santander,Spain,Loan,In,2008,s,premier-league
-Bolton Wanderers,Tope Obadeyi,18,England,Left Winger,LW,-,Bolton Wanderers U18,England,-,In,2008,s,premier-league
 Bolton Wanderers,Rob Lainton,18,England,Goalkeeper,GK,-,Bolton Wanderers U18,England,-,In,2008,s,premier-league
 Bolton Wanderers,Ádám Bogdán,20,Hungary,Goalkeeper,GK,-,Bolton Wanderers U23,England,-,In,2008,s,premier-league
 Bolton Wanderers,Sam Sheridan,18,Ireland,Central Midfield,CM,-,Bolton Wanderers U18,England,-,In,2008,s,premier-league
+Bolton Wanderers,Tope Obadeyi,18,England,Left Winger,LW,-,Bolton Wanderers U18,England,-,In,2008,s,premier-league
 Fulham FC,Andy Johnson,27,England,Centre-Forward,CF,£9.00m,Everton FC,England,£11.97m,In,2008,s,premier-league
 Fulham FC,Bobby Zamora,27,England,Centre-Forward,CF,£2.70m,West Ham United,England,£3.69m,In,2008,s,premier-league
 Fulham FC,John Paintsil,27,Ghana,Right-Back,RB,£1.35m,West Ham United,England,£3.42m,In,2008,s,premier-league
-Fulham FC,Fredrik Stoor,24,Sweden,Right-Back,RB,£765k,Rosenborg BK,Norway,£2.70m,In,2008,s,premier-league
+Fulham FC,Fredrik Stoor,24,Sweden,Right-Back,RB,£765Th.,Rosenborg BK,Norway,£2.70m,In,2008,s,premier-league
 Fulham FC,Dickson Etuhu,26,Nigeria,Defensive Midfield,DM,£1.80m,Sunderland AFC,England,£1.67m,In,2008,s,premier-league
-Fulham FC,Julian Gray,28,England,Centre-Forward,CF,£810k,Coventry City,England,£360k,In,2008,s,premier-league
-Fulham FC,David Stockdale,22,England,Goalkeeper,GK,£90k,Darlington FC (liq.),England,£360k,In,2008,s,premier-league
-Fulham FC,Pascal Zuberbühler,37,Switzerland,Goalkeeper,GK,£360k,Neuchâtel Xamax,Switzerland,Free transfer,In,2008,s,premier-league
-Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450k,Bolton Wanderers,England,Free transfer,In,2008,s,premier-league
+Fulham FC,Julian Gray,28,England,Centre-Forward,CF,£810Th.,Coventry City,England,£360Th.,In,2008,s,premier-league
+Fulham FC,David Stockdale,22,England,Goalkeeper,GK,£90Th.,Darlington FC (liq.),England,£360Th.,In,2008,s,premier-league
+Fulham FC,Pascal Zuberbühler,37,Switzerland,Goalkeeper,GK,£360Th.,Neuchâtel Xamax,Switzerland,Free transfer,In,2008,s,premier-league
+Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450Th.,Bolton Wanderers,England,Free transfer,In,2008,s,premier-league
 Fulham FC,Zoltán Gera,29,Hungary,Central Midfield,CM,£3.15m,West Bromwich Albion,England,Free transfer,In,2008,s,premier-league
 Fulham FC,Chris Smalling,18,England,Centre-Back,CB,-,Maidstone United,England,Free transfer,In,2008,s,premier-league
 Fulham FC,Mark Schwarzer,35,Australia,Goalkeeper,GK,£3.38m,Middlesbrough FC,England,Free transfer,In,2008,s,premier-league
 Fulham FC,Hameur Bouazza,24,Algeria,Right Winger,RW,£1.35m,Birmingham City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Fulham FC,Adrian Leijer,23,Australia,Centre-Back,CB,£450k,Norwich City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Fulham FC,Adrian Leijer,23,Australia,Centre-Back,CB,£450Th.,Norwich City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Fulham FC,Rob Milsom,21,England,Central Midfield,CM,-,Fulham FC U23,England,-,In,2008,s,premier-league
 Fulham FC,Moritz Volz,26,Germany,Right-Back,RB,£1.13m,Ipswich Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£135k,Leicester City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£135Th.,Leicester City,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Fulham FC,Eddie Johnson,25,United States,Centre-Forward,CF,£1.35m,Cardiff City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Fulham FC,Adam Watts,21,England,Defender,Defender,£45k,Northampton Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Fulham FC,Adam Watts,21,England,Defender,Defender,£45Th.,Northampton Town,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Fulham FC,Michael Uwezu,17,England,Centre-Forward,CF,-,Fulham FC U18,England,-,In,2008,s,premier-league
-Fulham FC,Björn Runström,24,Sweden,Centre-Forward,CF,£540k,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2008",In,2008,s,premier-league
+Fulham FC,Björn Runström,24,Sweden,Centre-Forward,CF,£540Th.,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2008",In,2008,s,premier-league
 West Bromwich Albion,Borja Valero,23,Spain,Central Midfield,CM,£3.42m,RCD Mallorca,Spain,£5.31m,In,2008,s,premier-league
 West Bromwich Albion,Gianni Zuiverloon,21,Netherlands,Centre-Back,CB,£2.25m,SC Heerenveen,Netherlands,£3.60m,In,2008,s,premier-league
 West Bromwich Albion,Scott Carson,22,England,Goalkeeper,GK,£5.40m,Liverpool FC,England,£3.60m,In,2008,s,premier-league
 West Bromwich Albion,Luke Moore,22,England,Centre-Forward,CF,£3.38m,Aston Villa,England,£3.38m,In,2008,s,premier-league
 West Bromwich Albion,Abdoulaye Méïté,27,Cote d'Ivoire,Centre-Back,CB,£3.15m,Bolton Wanderers,England,£2.34m,In,2008,s,premier-league
 West Bromwich Albion,Marek Cech,25,Slovakia,Left-Back,LB,£3.15m,FC Porto,Portugal,£1.62m,In,2008,s,premier-league
-West Bromwich Albion,Jonas Olsson,25,Sweden,Centre-Back,CB,£1.13m,NEC Nijmegen,Netherlands,£900k,In,2008,s,premier-league
-West Bromwich Albion,Du-hyeon Kim,25,"Korea, South",Central Midfield,CM,£810k,Seongnam Ilhwa Chunma,"Korea, South",£648k,In,2008,s,premier-league
-West Bromwich Albion,Graham Dorrans,21,Scotland,Central Midfield,CM,£45k,Livingston FC,Scotland,£270k,In,2008,s,premier-league
+West Bromwich Albion,Jonas Olsson,25,Sweden,Centre-Back,CB,£1.13m,NEC Nijmegen,Netherlands,£900Th.,In,2008,s,premier-league
+West Bromwich Albion,Du-hyeon Kim,25,"Korea, South",Central Midfield,CM,£810Th.,Seongnam Ilhwa Chunma,"Korea, South",£648Th.,In,2008,s,premier-league
+West Bromwich Albion,Graham Dorrans,21,Scotland,Central Midfield,CM,£45Th.,Livingston FC,Scotland,£270Th.,In,2008,s,premier-league
 West Bromwich Albion,Ryan Donk,22,Netherlands,Centre-Back,CB,£2.70m,AZ Alkmaar,Netherlands,Loan,In,2008,s,premier-league
 West Bromwich Albion,Craig Beattie,25,Scotland,Centre-Forward,CF,£2.03m,Sheffield United,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£360k,Northampton Town,England,"End of loanMay 5, 2009",In,2008,s,premier-league
-West Bromwich Albion,Luke Daniels,21,England,Goalkeeper,GK,£90k,Shrewsbury Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£360Th.,Northampton Town,England,"End of loanMay 5, 2009",In,2008,s,premier-league
+West Bromwich Albion,Luke Daniels,21,England,Goalkeeper,GK,£90Th.,Shrewsbury Town,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Stoke City,Dave Kitson,28,England,Centre-Forward,CF,£3.83m,Reading FC,England,£6.30m,In,2008,s,premier-league
 Stoke City,Seyi Olofinjana,28,Nigeria,Central Midfield,CM,£2.25m,Wolverhampton Wanderers,England,£3.42m,In,2008,s,premier-league
-Stoke City,Ibrahima Sonko,27,Senegal,Centre-Back,CB,£1.35m,Reading FC,England,£2.70m,In,2008,s,premier-league
-Stoke City,Michael Tonge,25,England,Central Midfield,CM,£720k,Sheffield United,England,£2.70m,In,2008,s,premier-league
 Stoke City,Danny Higginbotham,29,Gibraltar,Centre-Back,CB,£2.25m,Sunderland AFC,England,£2.70m,In,2008,s,premier-league
+Stoke City,Ibrahima Sonko,27,Senegal,Centre-Back,CB,£1.35m,Reading FC,England,£2.70m,In,2008,s,premier-league
+Stoke City,Michael Tonge,25,England,Central Midfield,CM,£720Th.,Sheffield United,England,£2.70m,In,2008,s,premier-league
 Stoke City,Abdoulaye Fayé,30,Senegal,Centre-Back,CB,£3.15m,Newcastle United,England,£2.61m,In,2008,s,premier-league
-Stoke City,Andrew Davies,23,England,Centre-Back,CB,£900k,Southampton FC,England,£1.71m,In,2008,s,premier-league
-Stoke City,Tom Soares,22,England,Central Midfield,CM,£720k,Crystal Palace,England,£1.71m,In,2008,s,premier-league
-Stoke City,Amdy Fayé,31,Senegal,Defensive Midfield,DM,£1.58m,Charlton Athletic,England,£405k,In,2008,s,premier-league
+Stoke City,Andrew Davies,23,England,Centre-Back,CB,£900Th.,Southampton FC,England,£1.71m,In,2008,s,premier-league
+Stoke City,Tom Soares,22,England,Central Midfield,CM,£720Th.,Crystal Palace,England,£1.71m,In,2008,s,premier-league
+Stoke City,Amdy Fayé,31,Senegal,Defensive Midfield,DM,£1.58m,Charlton Athletic,England,£405Th.,In,2008,s,premier-league
 Stoke City,Thomas Sörensen,32,Denmark,Goalkeeper,GK,£1.62m,Aston Villa,England,Free transfer,In,2008,s,premier-league
-Stoke City,Dave Kitson,29,England,Centre-Forward,CF,£3.15m,Reading FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,£45k,Bristol Rovers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,-,Stoke City U18,England,-,In,2008,s,premier-league
 Stoke City,Andy Owens,18,England,Centre-Forward,CF,-,Stoke City U18,England,-,In,2008,s,premier-league
-Stoke City,Andrew Davies,24,England,Centre-Back,CB,£900k,Preston North End,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Stoke City,Tom Thorley,19,England,Central Midfield,CM,£45k,Stafford Rangers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
+Stoke City,Andrew Davies,24,England,Centre-Back,CB,£900Th.,Preston North End,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Stoke City,Tom Thorley,19,England,Central Midfield,CM,£45Th.,Stafford Rangers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
 Stoke City,Marc Grocott,18,England,Centre-Forward,CF,-,Stoke City U18,England,-,In,2008,s,premier-league
 Stoke City,Ryan Shotton,20,England,Centre-Back,CB,-,Tranmere Rovers,England,"End of loanMay 31, 2009",In,2008,s,premier-league
-Stoke City,Vincent Péricard,26,France,Centre-Forward,CF,£360k,Millwall FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45k,Stafford Rangers,England,"End of loanOct 31, 2008",In,2008,s,premier-league
+Stoke City,Vincent Péricard,26,France,Centre-Forward,CF,£360Th.,Millwall FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45Th.,Stafford Rangers,England,"End of loanOct 31, 2008",In,2008,s,premier-league
 Stoke City,Tom Thorley,18,England,Central Midfield,CM,-,Stoke City U18,England,-,In,2008,s,premier-league
-Hull City,Anthony Gardner,27,England,Centre-Back,CB,£810k,Tottenham Hotspur,England,£2.88m,In,2008,s,premier-league
-Hull City,Péter Halmosi,28,Hungary,Left Midfield,LM,£833k,Plymouth Argyle,England,£2.25m,In,2008,s,premier-league
+Stoke City,Dave Kitson,29,England,Centre-Forward,CF,£3.15m,Reading FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,£45Th.,Bristol Rovers,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,Anthony Gardner,27,England,Centre-Back,CB,£810Th.,Tottenham Hotspur,England,£2.88m,In,2008,s,premier-league
+Hull City,Péter Halmosi,28,Hungary,Left Midfield,LM,£833Th.,Plymouth Argyle,England,£2.25m,In,2008,s,premier-league
 Hull City,Daniel Cousin,31,Gabon,Centre-Forward,CF,£3.60m,Rangers FC,Scotland,£1.71m,In,2008,s,premier-league
 Hull City,George Boateng,32,Netherlands,Defensive Midfield,DM,£4.73m,Middlesbrough FC,England,£1.08m,In,2008,s,premier-league
-Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810k,BSC Young Boys,Switzerland,Loan fee:£540k,In,2008,s,premier-league
-Hull City,Mark Oxley,18,England,Goalkeeper,GK,-,Rotherham United,England,£176k,In,2008,s,premier-league
+Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810Th.,BSC Young Boys,Switzerland,Loan fee:£540Th.,In,2008,s,premier-league
+Hull City,Mark Oxley,18,England,Goalkeeper,GK,-,Rotherham United,England,£176Th.,In,2008,s,premier-league
 Hull City,Geovanni,28,Brazil,Attacking Midfield,AM,£3.15m,Manchester City,England,Free transfer,In,2008,s,premier-league
 Hull City,Paul McShane,22,Ireland,Centre-Back,CB,£2.70m,Sunderland AFC,England,Loan,In,2008,s,premier-league
 Hull City,Bernard Mendy,26,France,Right-Back,RB,£1.80m,Paris Saint-Germain,France,Free transfer,In,2008,s,premier-league
-Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£540k,Fulham FC,England,Free transfer,In,2008,s,premier-league
+Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£540Th.,Fulham FC,England,Free transfer,In,2008,s,premier-league
 Hull City,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Wigan Athletic,England,Loan,In,2008,s,premier-league
 Hull City,Stelios Giannakopoulos,33,Greece,Right Winger,RW,£2.25m,Bolton Wanderers,England,Free transfer,In,2008,s,premier-league
-Hull City,Dean Windass,40,England,Centre-Forward,CF,£540k,Oldham Athletic,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Hull City,James Bennett,20,England,Central Midfield,CM,£45k,Lincoln City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Hull City,John Welsh,25,England,Central Midfield,CM,£225k,Bury FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,Dean Windass,40,England,Centre-Forward,CF,£540Th.,Oldham Athletic,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,James Bennett,20,England,Central Midfield,CM,£45Th.,Lincoln City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,John Welsh,25,England,Central Midfield,CM,£225Th.,Bury FC,England,"End of loanMay 1, 2009",In,2008,s,premier-league
 Hull City,Jamie Devitt,17,Ireland,Attacking Midfield,AM,-,Hull City U18,England,-,In,2008,s,premier-league
-Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£270k,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Hull City,Michael Bridges,30,England,Centre-Forward,CF,£270k,Carlisle United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
-Hull City,Ben Wilkinson,21,England,Central Midfield,CM,£180k,Gretna FC (aufgel.),Scotland,"End of loanJun 30, 2008",In,2008,s,premier-league
-Hull City,Stuart Elliott,29,Northern Ireland,Left Midfield,LM,£540k,Doncaster Rovers,England,"End of loanJun 30, 2008",In,2008,s,premier-league
+Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£270Th.,Leicester City,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,Michael Bridges,30,England,Centre-Forward,CF,£270Th.,Carlisle United,England,"End of loanMay 1, 2009",In,2008,s,premier-league
+Hull City,Ben Wilkinson,21,England,Central Midfield,CM,£180Th.,Gretna FC (aufgel.),Scotland,"End of loanJun 30, 2008",In,2008,s,premier-league
+Hull City,Stuart Elliott,29,Northern Ireland,Left Midfield,LM,£540Th.,Doncaster Rovers,England,"End of loanJun 30, 2008",In,2008,s,premier-league
 Manchester United,Gerard Piqué,21,Spain,Centre-Back,CB,£4.95m,FC Barcelona,Spain,£4.50m,Out,2008,s,premier-league
-Manchester United,Chris Eagles,22,England,Right Winger,RW,£720k,Burnley FC,England,£1.35m,Out,2008,s,premier-league
-Manchester United,Mikaël Silvestre,31,France,Centre-Back,CB,£3.15m,Arsenal FC,England,£855k,Out,2008,s,premier-league
-Manchester United,Michael Lea,20,England,Left-Back,LB,£135k,Scunthorpe United,England,Free transfer,Out,2008,s,premier-league
-Manchester United,Danny Simpson,21,England,Right-Back,RB,£810k,Blackburn Rovers,England,Loan,Out,2008,s,premier-league
-Manchester United,Fangzhuo Dong,23,China,Centre-Forward,CF,£360k,Dalian Shide,China,Free transfer,Out,2008,s,premier-league
+Manchester United,Chris Eagles,22,England,Right Winger,RW,£720Th.,Burnley FC,England,£1.35m,Out,2008,s,premier-league
+Manchester United,Mikaël Silvestre,31,France,Centre-Back,CB,£3.15m,Arsenal FC,England,£855Th.,Out,2008,s,premier-league
+Manchester United,Michael Lea,20,England,Left-Back,LB,£135Th.,Scunthorpe United,England,Free transfer,Out,2008,s,premier-league
+Manchester United,Danny Simpson,21,England,Right-Back,RB,£810Th.,Blackburn Rovers,England,Loan,Out,2008,s,premier-league
+Manchester United,Fangzhuo Dong,23,China,Centre-Forward,CF,£360Th.,Dalian Shide,China,Free transfer,Out,2008,s,premier-league
 Manchester United,Fraizer Campbell,20,England,Centre-Forward,CF,£1.80m,Tottenham Hotspur,England,Loan,Out,2008,s,premier-league
-Manchester United,Tom Heaton,22,England,Goalkeeper,GK,£180k,Cardiff City,England,Loan,Out,2008,s,premier-league
-Manchester United,Ritchie Jones,21,England,Central Midfield,CM,£225k,Hartlepool United,England,Free transfer,Out,2008,s,premier-league
+Manchester United,Tom Heaton,22,England,Goalkeeper,GK,£180Th.,Cardiff City,England,Loan,Out,2008,s,premier-league
+Manchester United,Ritchie Jones,21,England,Central Midfield,CM,£225Th.,Hartlepool United,England,Free transfer,Out,2008,s,premier-league
 Manchester United,Louis Saha,30,France,Centre-Forward,CF,£6.75m,Everton FC,England,Free transfer,Out,2008,s,premier-league
-Manchester United,Lee Martin,21,England,Attacking Midfield,AM,£810k,Nottingham Forest,England,Loan,Out,2008,s,premier-league
+Manchester United,Lee Martin,21,England,Attacking Midfield,AM,£810Th.,Nottingham Forest,England,Loan,Out,2008,s,premier-league
 Manchester United,Michael Barnes,20,England,Left Midfield,LM,-,Northwich Victoria,England,Free transfer,Out,2008,s,premier-league
 Manchester United,Carlos Tevez,25,Argentina,Second Striker,SS,£22.50m,West Ham United,England,"End of loanJun 30, 2009",Out,2008,s,premier-league
 Chelsea FC,Shaun Wright-Phillips,26,England,Right Winger,RW,£11.70m,Manchester City,England,£10.13m,Out,2008,s,premier-league
@@ -355,82 +355,82 @@ Chelsea FC,Tal Ben Haim,26,Israel,Centre-Back,CB,£3.60m,Manchester City,England
 Chelsea FC,Steve Sidwell,25,England,Central Midfield,CM,£3.60m,Aston Villa,England,£5.67m,Out,2008,s,premier-league
 Chelsea FC,Khalid Boulahrouz,26,Netherlands,Centre-Back,CB,£4.50m,VfB Stuttgart,Germany,£4.50m,Out,2008,s,premier-league
 Chelsea FC,Claudio Pizarro,29,Peru,Centre-Forward,CF,£5.40m,SV Werder Bremen,Germany,Loan fee:£1.80m,Out,2008,s,premier-league
-Chelsea FC,Alcides,23,Brazil,Centre-Back,CB,£2.70m,Dnipro Dnipropetrovsk,Ukraine,£540k,Out,2008,s,premier-league
-Chelsea FC,Ben Sahar,18,Israel,Centre-Forward,CF,£360k,Portsmouth FC,England,Loan,Out,2008,s,premier-league
+Chelsea FC,Alcides,23,Brazil,Centre-Back,CB,£2.70m,Dnipro Dnipropetrovsk,Ukraine,£540Th.,Out,2008,s,premier-league
+Chelsea FC,Ben Sahar,18,Israel,Centre-Forward,CF,£360Th.,Portsmouth FC,England,Loan,Out,2008,s,premier-league
 Chelsea FC,Claude Makélélé,35,France,Defensive Midfield,DM,£5.40m,Paris Saint-Germain,France,Free transfer,Out,2008,s,premier-league
 Chelsea FC,Hernán Crespo,32,Argentina,Centre-Forward,CF,£9.90m,FC Internazionale,Italy,Free transfer,Out,2008,s,premier-league
 Chelsea FC,Andriy Shevchenko,31,Ukraine,Centre-Forward,CF,£14.40m,AC Milan,Italy,Loan,Out,2008,s,premier-league
-Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540k,Southampton FC,England,Loan,Out,2008,s,premier-league
-Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540k,Wolverhampton Wanderers,England,Loan,Out,2008,s,premier-league
+Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540Th.,Southampton FC,England,Loan,Out,2008,s,premier-league
+Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540Th.,Wolverhampton Wanderers,England,Loan,Out,2008,s,premier-league
 Chelsea FC,Slobodan Rajkovic,19,Serbia,Centre-Back,CB,£1.17m,Twente Enschede FC,Netherlands,Loan,Out,2008,s,premier-league
 Chelsea FC,Lee Sawyer,18,England,Central Midfield,CM,-,Southend United,England,Loan,Out,2008,s,premier-league
-Chelsea FC,Adrian Pettigrew,21,England,Centre-Back,CB,£45k,,Without Club,-,Out,2008,s,premier-league
+Chelsea FC,Adrian Pettigrew,21,England,Centre-Back,CB,£45Th.,,Without Club,-,Out,2008,s,premier-league
 Arsenal FC,Aleksandr Hleb,27,Belarus,Attacking Midfield,AM,£17.10m,FC Barcelona,Spain,£15.30m,Out,2008,s,premier-league
 Arsenal FC,Justin Hoyte,23,Trinidad and Tobago,Right-Back,RB,£1.35m,Middlesbrough FC,England,£3.42m,Out,2008,s,premier-league
 Arsenal FC,Philippe Senderos,23,Switzerland,Centre-Back,CB,£5.85m,AC Milan,Italy,Loan fee:£2.25m,Out,2008,s,premier-league
 Arsenal FC,Gilberto Silva,31,Brazil,Defensive Midfield,DM,£5.85m,Panathinaikos Athens,Greece,£2.25m,Out,2008,s,premier-league
-Arsenal FC,Kerrea Gilbert,21,England,Right-Back,RB,£405k,Leicester City,England,Loan,Out,2008,s,premier-league
+Arsenal FC,Jens Lehmann,38,Germany,Goalkeeper,GK,£2.70m,VfB Stuttgart,Germany,Free transfer,Out,2008,s,premier-league
+Arsenal FC,Kerrea Gilbert,21,England,Right-Back,RB,£405Th.,Leicester City,England,Loan,Out,2008,s,premier-league
 Arsenal FC,Mathieu Flamini,24,France,Defensive Midfield,DM,£9.90m,AC Milan,Italy,Free transfer,Out,2008,s,premier-league
 Arsenal FC,Nacer Barazite,18,Netherlands,Attacking Midfield,AM,-,Derby County,England,Loan,Out,2008,s,premier-league
-Arsenal FC,Jens Lehmann,38,Germany,Goalkeeper,GK,£2.70m,VfB Stuttgart,Germany,Free transfer,Out,2008,s,premier-league
-Arsenal FC,Armand Traoré,18,Senegal,Left-Back,LB,£900k,Portsmouth FC,England,Loan,Out,2008,s,premier-league
+Arsenal FC,Armand Traoré,18,Senegal,Left-Back,LB,£900Th.,Portsmouth FC,England,Loan,Out,2008,s,premier-league
 Liverpool FC,Peter Crouch,27,England,Centre-Forward,CF,£8.55m,Portsmouth FC,England,£12.33m,Out,2008,s,premier-league
 Liverpool FC,John Arne Riise,27,Norway,Left-Back,LB,£11.25m,AS Roma,Italy,£4.95m,Out,2008,s,premier-league
 Liverpool FC,Danny Guthrie,21,England,Central Midfield,CM,£1.62m,Newcastle United,England,£3.87m,Out,2008,s,premier-league
 Liverpool FC,Scott Carson,22,England,Goalkeeper,GK,£5.40m,West Bromwich Albion,England,£3.60m,Out,2008,s,premier-league
 Liverpool FC,Anthony Le Tallec,23,France,Centre-Forward,CF,£1.62m,Le Mans Union Club 72,France,£1.35m,Out,2008,s,premier-league
-Liverpool FC,Sebastián Leto,21,Argentina,Left Winger,LW,£2.70m,Olympiacos Piraeus,Greece,Loan fee:£675k,Out,2008,s,premier-league
+Liverpool FC,Sebastián Leto,21,Argentina,Left Winger,LW,£2.70m,Olympiacos Piraeus,Greece,Loan fee:£675Th.,Out,2008,s,premier-league
 Liverpool FC,Harry Kewell,29,Australia,Left Winger,LW,£4.95m,Galatasaray SK,Turkey,Free transfer,Out,2008,s,premier-league
-Liverpool FC,David Martin,22,England,Goalkeeper,GK,£180k,Leicester City,England,Loan,Out,2008,s,premier-league
+Liverpool FC,David Martin,22,England,Goalkeeper,GK,£180Th.,Leicester City,England,Loan,Out,2008,s,premier-league
 Liverpool FC,Andriy Voronin,29,Ukraine,Second Striker,SS,£5.40m,Hertha BSC,Germany,Loan,Out,2008,s,premier-league
-Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90k,Tranmere Rovers,England,Loan,Out,2008,s,premier-league
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90Th.,Tranmere Rovers,England,Loan,Out,2008,s,premier-league
 Liverpool FC,Josh Mimms,19,England,Goalkeeper,GK,-,York City,England,Loan,Out,2008,s,premier-league
-Liverpool FC,Jack Hobbs,19,England,Centre-Back,CB,£450k,Leicester City,England,Loan,Out,2008,s,premier-league
-Liverpool FC,Robbie Threlfall,19,England,Left-Back,LB,£90k,Hereford United (liq.),England,Loan,Out,2008,s,premier-league
-Liverpool FC,Craig Lindfield,19,England,Right Midfield,RM,£90k,AFC Bournemouth,England,Loan,Out,2008,s,premier-league
+Liverpool FC,Jack Hobbs,19,England,Centre-Back,CB,£450Th.,Leicester City,England,Loan,Out,2008,s,premier-league
+Liverpool FC,Robbie Threlfall,19,England,Left-Back,LB,£90Th.,Hereford United (liq.),England,Loan,Out,2008,s,premier-league
+Liverpool FC,Craig Lindfield,19,England,Right Midfield,RM,£90Th.,AFC Bournemouth,England,Loan,Out,2008,s,premier-league
 Liverpool FC,Steve Finnan,32,Ireland,Right-Back,RB,£4.95m,RCD Espanyol Barcelona,Spain,?,Out,2008,s,premier-league
-Liverpool FC,Miki Roqué,19,Spain,Centre-Back,CB,£180k,FC Cartagena,Spain,Loan,Out,2008,s,premier-league
+Liverpool FC,Miki Roqué,19,Spain,Centre-Back,CB,£180Th.,FC Cartagena,Spain,Loan,Out,2008,s,premier-league
 Liverpool FC,Besian Idrizaj,20,Austria,Centre-Forward,CF,-,,Without Club,-,Out,2008,s,premier-league
 Everton FC,Andy Johnson,27,England,Centre-Forward,CF,£9.00m,Fulham FC,England,£11.97m,Out,2008,s,premier-league
+Everton FC,Stefan Wessels,29,Germany,Goalkeeper,GK,£900Th.,VfL Osnabrück,Germany,Free transfer,Out,2008,s,premier-league
 Everton FC,Lee Carsley,34,Ireland,Defensive Midfield,DM,£3.15m,Birmingham City,England,Free transfer,Out,2008,s,premier-league
-Everton FC,Stefan Wessels,29,Germany,Goalkeeper,GK,£900k,VfL Osnabrück,Germany,Free transfer,Out,2008,s,premier-league
-Everton FC,Paddy Boyle,21,Scotland,Left-Back,LB,£180k,,Without Club,-,Out,2008,s,premier-league
+Everton FC,Paddy Boyle,21,Scotland,Left-Back,LB,£180Th.,,Without Club,-,Out,2008,s,premier-league
 Everton FC,Steven Pienaar,26,South Africa,Left Winger,LW,£4.05m,Borussia Dortmund,Germany,"End of loanJun 30, 2008",Out,2008,s,premier-league
 Everton FC,Manuel Fernandes,22,Portugal,Attacking Midfield,AM,£7.20m,Valencia CF,Spain,"End of loanJun 30, 2008",Out,2008,s,premier-league
 Aston Villa,Luke Moore,22,England,Centre-Forward,CF,£3.38m,West Bromwich Albion,England,£3.38m,Out,2008,s,premier-league
 Aston Villa,Shaun Maloney,25,Scotland,Attacking Midfield,AM,£3.60m,Celtic FC,Scotland,£2.79m,Out,2008,s,premier-league
 Aston Villa,Olof Mellberg,30,Sweden,Centre-Back,CB,£6.75m,Juventus FC,Italy,Free transfer,Out,2008,s,premier-league
 Aston Villa,Thomas Sörensen,32,Denmark,Goalkeeper,GK,£1.62m,Stoke City,England,Free transfer,Out,2008,s,premier-league
-Aston Villa,Patrik Berger,34,Czech Republic,Attacking Midfield,AM,£810k,AC Sparta Praha,Czech Republic,Free transfer,Out,2008,s,premier-league
+Aston Villa,Patrik Berger,34,Czech Republic,Attacking Midfield,AM,£810Th.,AC Sparta Praha,Czech Republic,Free transfer,Out,2008,s,premier-league
 Aston Villa,Scott Carson,22,England,Goalkeeper,GK,£4.73m,Liverpool FC,England,"End of loanJun 30, 2008",Out,2008,s,premier-league
 Blackburn Rovers,David Bentley,23,England,Right Midfield,RM,£10.80m,Tottenham Hotspur,England,£19.80m,Out,2008,s,premier-league
 Blackburn Rovers,Brad Friedel,37,United States,Goalkeeper,GK,£3.15m,Aston Villa,England,£2.25m,Out,2008,s,premier-league
-Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,£90k,Preston North End,England,£810k,Out,2008,s,premier-league
-Blackburn Rovers,Bruno Berner,30,Switzerland,Left-Back,LB,£450k,Leicester City,England,Free transfer,Out,2008,s,premier-league
-Blackburn Rovers,Gunnar Nielsen,21,Faroe Islands,Goalkeeper,GK,£180k,Motherwell FC,Scotland,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270k,Accrington Stanley,England,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Maceo Rigters,24,Netherlands,Centre-Forward,CF,£540k,Barnsley FC,England,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270k,Northampton Town,England,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180k,Stockport County,England,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Rafa De Vita,20,Italy,Left Winger,LW,£45k,Livingston FC,Scotland,Free transfer,Out,2008,s,premier-league
-Blackburn Rovers,Jamie Clarke,19,England,Centre-Forward,CF,£45k,Accrington Stanley,England,Loan,Out,2008,s,premier-league
-Blackburn Rovers,Paul Gallagher,24,Scotland,Central Midfield,CM,£900k,Plymouth Argyle,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,£90Th.,Preston North End,England,£810Th.,Out,2008,s,premier-league
+Blackburn Rovers,Bruno Berner,30,Switzerland,Left-Back,LB,£450Th.,Leicester City,England,Free transfer,Out,2008,s,premier-league
+Blackburn Rovers,Gunnar Nielsen,21,Faroe Islands,Goalkeeper,GK,£180Th.,Motherwell FC,Scotland,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270Th.,Accrington Stanley,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Maceo Rigters,24,Netherlands,Centre-Forward,CF,£540Th.,Barnsley FC,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270Th.,Northampton Town,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180Th.,Stockport County,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Rafa De Vita,20,Italy,Left Winger,LW,£45Th.,Livingston FC,Scotland,Free transfer,Out,2008,s,premier-league
+Blackburn Rovers,Jamie Clarke,19,England,Centre-Forward,CF,£45Th.,Accrington Stanley,England,Loan,Out,2008,s,premier-league
+Blackburn Rovers,Paul Gallagher,24,Scotland,Central Midfield,CM,£900Th.,Plymouth Argyle,England,Loan,Out,2008,s,premier-league
 Blackburn Rovers,Johann Vogel,32,Switzerland,Defensive Midfield,DM,£1.53m,,Without Club,-,Out,2008,s,premier-league
-Blackburn Rovers,Stéphane Henchoz,33,Switzerland,Centre-Back,CB,£720k,,Retired,-,Out,2008,s,premier-league
-Blackburn Rovers,Danny Simpson,22,England,Right-Back,RB,£900k,Manchester United,England,"End of loanMay 8, 2009",Out,2008,s,premier-league
+Blackburn Rovers,Stéphane Henchoz,33,Switzerland,Centre-Back,CB,£720Th.,,Retired,-,Out,2008,s,premier-league
+Blackburn Rovers,Danny Simpson,22,England,Right-Back,RB,£900Th.,Manchester United,England,"End of loanMay 8, 2009",Out,2008,s,premier-league
 Portsmouth FC,Sulley Muntari,23,Ghana,Central Midfield,CM,£10.80m,FC Internazionale,Italy,£12.60m,Out,2008,s,premier-league
 Portsmouth FC,Pedro Mendes,29,Portugal,Defensive Midfield,DM,£3.15m,Rangers FC,Scotland,£3.38m,Out,2008,s,premier-league
-Portsmouth FC,Franck Songo'o,21,Cameroon,Right Winger,RW,£540k,Real Zaragoza,Spain,Free transfer,Out,2008,s,premier-league
-Portsmouth FC,Asmir Begovic,21,Bosnia-Herzegovina,Goalkeeper,GK,£180k,Yeovil Town,England,Loan,Out,2008,s,premier-league
-Portsmouth FC,Linvoy Primus,34,England,Centre-Back,CB,£540k,Charlton Athletic,England,Loan,Out,2008,s,premier-league
+Portsmouth FC,Franck Songo'o,21,Cameroon,Right Winger,RW,£540Th.,Real Zaragoza,Spain,Free transfer,Out,2008,s,premier-league
+Portsmouth FC,Asmir Begovic,21,Bosnia-Herzegovina,Goalkeeper,GK,£180Th.,Yeovil Town,England,Loan,Out,2008,s,premier-league
+Portsmouth FC,Linvoy Primus,34,England,Centre-Back,CB,£540Th.,Charlton Athletic,England,Loan,Out,2008,s,premier-league
 Portsmouth FC,Adda Djeziri,20,Denmark,Second Striker,SS,-,FC Hjörring,Denmark,Free transfer,Out,2008,s,premier-league
 Portsmouth FC,Matt Ritchie,18,Scotland,Left-Back,LB,-,Dagenham & Redbridge FC,England,Loan,Out,2008,s,premier-league
 Portsmouth FC,Omar Alieu Koroma,18,The Gambia,Centre-Forward,CF,-,Norwich City,England,Loan,Out,2008,s,premier-league
 Portsmouth FC,Nick Jordan,18,England,Goalkeeper,GK,-,Exeter City,England,Free transfer,Out,2008,s,premier-league
-Portsmouth FC,Jean-François Christophe,20,France,Defensive Midfield,DM,£90k,Southend United,England,Free transfer,Out,2008,s,premier-league
-Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360k,SV Zulte Waregem,Belgium,Loan,Out,2008,s,premier-league
+Portsmouth FC,Jean-François Christophe,20,France,Defensive Midfield,DM,£90Th.,Southend United,England,Free transfer,Out,2008,s,premier-league
+Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360Th.,SV Zulte Waregem,Belgium,Loan,Out,2008,s,premier-league
 Portsmouth FC,Joel Ward,18,England,Right-Back,RB,-,AFC Bournemouth,England,Loan,Out,2008,s,premier-league
-Portsmouth FC,Martin Cranie,21,England,Centre-Back,CB,£900k,Charlton Athletic,England,Loan,Out,2008,s,premier-league
+Portsmouth FC,Martin Cranie,21,England,Centre-Back,CB,£900Th.,Charlton Athletic,England,Loan,Out,2008,s,premier-league
 Portsmouth FC,Camilo Muñoz,17,Colombia,Defender,Defender,-,Hayes & Yeading FC,England,?,Out,2008,s,premier-league
 Portsmouth FC,Armand Traoré,19,Senegal,Left-Back,LB,£1.98m,Arsenal FC,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
 Portsmouth FC,Jermaine Pennant,26,England,Right Winger,RW,£5.40m,Liverpool FC,England,"End of loanMay 31, 2009",Out,2008,s,premier-league
@@ -438,14 +438,14 @@ Manchester City,Vedran Corluka,22,Croatia,Centre-Back,CB,£10.35m,Tottenham Hots
 Manchester City,Rolando Bianchi,25,Italy,Centre-Forward,CF,£5.85m,Torino FC,Italy,£6.30m,Out,2008,s,premier-league
 Manchester City,Andreas Isaksson,26,Sweden,Goalkeeper,GK,£2.70m,PSV Eindhoven,Netherlands,£2.52m,Out,2008,s,premier-league
 Manchester City,Georgios Samaras,23,Greece,Left Winger,LW,£2.70m,Celtic FC,Scotland,£2.25m,Out,2008,s,premier-league
-Manchester City,Matt Mills,22,England,Centre-Back,CB,£360k,Doncaster Rovers,England,£405k,Out,2008,s,premier-league
-Manchester City,Richard Martin,21,England,Goalkeeper,GK,£68k,Burton Albion,England,Loan,Out,2008,s,premier-league
-Manchester City,Paul Dickov,35,Scotland,Centre-Forward,CF,£360k,Leicester City,England,Free transfer,Out,2008,s,premier-league
+Manchester City,Matt Mills,22,England,Centre-Back,CB,£360Th.,Doncaster Rovers,England,£405Th.,Out,2008,s,premier-league
+Manchester City,Richard Martin,21,England,Goalkeeper,GK,£68Th.,Burton Albion,England,Loan,Out,2008,s,premier-league
+Manchester City,Paul Dickov,35,Scotland,Centre-Forward,CF,£360Th.,Leicester City,England,Free transfer,Out,2008,s,premier-league
 Manchester City,Donal McDermott,18,Ireland,Attacking Midfield,AM,-,Milton Keynes Dons,England,Loan,Out,2008,s,premier-league
 Manchester City,Geovanni,28,Brazil,Attacking Midfield,AM,£3.15m,Hull City,England,Free transfer,Out,2008,s,premier-league
 Manchester City,Bernardo Corradi,32,Italy,Centre-Forward,CF,£1.35m,Reggina Calcio,Italy,Free transfer,Out,2008,s,premier-league
 Manchester City,Jihai Sun,30,China,Centre-Back,CB,£1.35m,Sheffield United,England,Free transfer,Out,2008,s,premier-league
-Manchester City,Emile Mpenza,30,Belgium,Centre-Forward,CF,£900k,Plymouth Argyle,England,Free transfer,Out,2008,s,premier-league
+Manchester City,Emile Mpenza,30,Belgium,Centre-Forward,CF,£900Th.,Plymouth Argyle,England,Free transfer,Out,2008,s,premier-league
 Manchester City,Karl Moore,19,Ireland,Attacking Midfield,AM,-,Millwall FC,England,Loan,Out,2008,s,premier-league
 Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,-,Morecambe FC,England,Loan,Out,2008,s,premier-league
 West Ham United,Javier Mascherano,24,Argentina,Defensive Midfield,DM,£20.25m,Liverpool FC,England,£20.25m,Out,2008,s,premier-league
@@ -453,9 +453,9 @@ West Ham United,Anton Ferdinand,23,England,Centre-Back,CB,£3.60m,Sunderland AFC
 West Ham United,George McCartney,27,Northern Ireland,Left-Back,LB,£3.60m,Sunderland AFC,England,£4.95m,Out,2008,s,premier-league
 West Ham United,Bobby Zamora,27,England,Centre-Forward,CF,£2.70m,Fulham FC,England,£3.69m,Out,2008,s,premier-league
 West Ham United,John Paintsil,27,Ghana,Right-Back,RB,£1.35m,Fulham FC,England,£3.42m,Out,2008,s,premier-league
-West Ham United,Richard Wright,30,England,Goalkeeper,GK,£720k,Ipswich Town,England,£567k,Out,2008,s,premier-league
+West Ham United,Richard Wright,30,England,Goalkeeper,GK,£720Th.,Ipswich Town,England,£567Th.,Out,2008,s,premier-league
 West Ham United,Nolberto Solano,33,Peru,Right Midfield,RM,£3.60m,AE Larisa,Greece,Free transfer,Out,2008,s,premier-league
-West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540k,Birmingham City,England,Loan,Out,2008,s,premier-league
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540Th.,Birmingham City,England,Loan,Out,2008,s,premier-league
 West Ham United,Jack Jeffery,19,England,Midfielder,Midfielder,-,Leyton Orient,England,Loan,Out,2008,s,premier-league
 West Ham United,Freddie Ljungberg,31,Sweden,Attacking Midfield,AM,£4.50m,,Without Club,-,Out,2008,s,premier-league
 Tottenham Hotspur,Dimitar Berbatov,27,Bulgaria,Centre-Forward,CF,£23.40m,Manchester United,England,£34.20m,Out,2008,s,premier-league
@@ -464,369 +464,369 @@ Tottenham Hotspur,Younès Kaboul,22,France,Centre-Back,CB,£5.85m,Portsmouth FC,
 Tottenham Hotspur,Steed Malbranque,28,France,Central Midfield,CM,£8.10m,Sunderland AFC,England,£4.50m,Out,2008,s,premier-league
 Tottenham Hotspur,Paul Robinson,28,England,Goalkeeper,GK,£4.50m,Blackburn Rovers,England,£3.96m,Out,2008,s,premier-league
 Tottenham Hotspur,Pascal Chimbonda,29,Guadeloupe,Right-Back,RB,£5.85m,Sunderland AFC,England,£2.88m,Out,2008,s,premier-league
-Tottenham Hotspur,Anthony Gardner,27,England,Centre-Back,CB,£810k,Hull City,England,£2.88m,Out,2008,s,premier-league
+Tottenham Hotspur,Anthony Gardner,27,England,Centre-Back,CB,£810Th.,Hull City,England,£2.88m,Out,2008,s,premier-league
 Tottenham Hotspur,Teemu Tainio,28,Finland,Defensive Midfield,DM,£2.70m,Sunderland AFC,England,£2.70m,Out,2008,s,premier-league
-Tottenham Hotspur,Yeong-pyo Lee,31,"Korea, South",Left-Back,LB,£3.60m,Borussia Dortmund,Germany,£450k,Out,2008,s,premier-league
-Tottenham Hotspur,Tommy Forecast,21,England,Goalkeeper,GK,-,Southampton FC,England,£360k,Out,2008,s,premier-league
+Tottenham Hotspur,Yeong-pyo Lee,31,"Korea, South",Left-Back,LB,£3.60m,Borussia Dortmund,Germany,£450Th.,Out,2008,s,premier-league
+Tottenham Hotspur,Tommy Forecast,21,England,Goalkeeper,GK,-,Southampton FC,England,£360Th.,Out,2008,s,premier-league
 Tottenham Hotspur,David Button,20,England,Goalkeeper,GK,-,Dagenham & Redbridge FC,England,Loan,Out,2008,s,premier-league
 Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,-,Grays Athletic FC,England,Loan,Out,2008,s,premier-league
-Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810k,Carlisle United,England,Loan,Out,2008,s,premier-league
-Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450k,Southampton FC,England,Loan,Out,2008,s,premier-league
+Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810Th.,Carlisle United,England,Loan,Out,2008,s,premier-league
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450Th.,Southampton FC,England,Loan,Out,2008,s,premier-league
 Tottenham Hotspur,Radek Cerny,34,Czech Republic,Goalkeeper,GK,£1.35m,Queens Park Rangers,England,Free transfer,Out,2008,s,premier-league
-Tottenham Hotspur,Andy Barcham,21,England,Left Winger,LW,£45k,Gillingham FC,England,Loan,Out,2008,s,premier-league
-Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225k,Gillingham FC,England,Loan,Out,2008,s,premier-league
+Tottenham Hotspur,Andy Barcham,21,England,Left Winger,LW,£45Th.,Gillingham FC,England,Loan,Out,2008,s,premier-league
+Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225Th.,Gillingham FC,England,Loan,Out,2008,s,premier-league
 Tottenham Hotspur,Charlie Daniels,21,England,Left-Back,LB,-,Gillingham FC,England,Loan,Out,2008,s,premier-league
-Tottenham Hotspur,Simon Dawkins,20,Jamaica,Left Winger,LW,£45k,Leyton Orient,England,Loan,Out,2008,s,premier-league
+Tottenham Hotspur,Simon Dawkins,20,Jamaica,Left Winger,LW,£45Th.,Leyton Orient,England,Loan,Out,2008,s,premier-league
 Newcastle United,James Milner,22,England,Central Midfield,CM,£7.65m,Aston Villa,England,£13.50m,Out,2008,s,premier-league
 Newcastle United,Emre Belözoglu,27,Turkey,Central Midfield,CM,£6.75m,Fenerbahce SK,Turkey,£4.05m,Out,2008,s,premier-league
 Newcastle United,David Rozehnal,27,Czech Republic,Centre-Back,CB,£3.60m,SS Lazio,Italy,£3.24m,Out,2008,s,premier-league
 Newcastle United,Abdoulaye Fayé,30,Senegal,Centre-Back,CB,£3.15m,Stoke City,England,£2.61m,Out,2008,s,premier-league
-Newcastle United,Peter Ramage,24,England,Centre-Back,CB,£900k,Queens Park Rangers,England,Free transfer,Out,2008,s,premier-league
-Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360k,Stockport County,England,Loan,Out,2008,s,premier-league
+Newcastle United,Peter Ramage,24,England,Centre-Back,CB,£900Th.,Queens Park Rangers,England,Free transfer,Out,2008,s,premier-league
+Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360Th.,Stockport County,England,Loan,Out,2008,s,premier-league
 Newcastle United,Mark Cook,19,England,Goalkeeper,GK,-,Hartlepool United,England,Free transfer,Out,2008,s,premier-league
-Newcastle United,James Troisi,20,Australia,Attacking Midfield,AM,£180k,Genclerbirligi Ankara,Turkey,Free transfer,Out,2008,s,premier-league
-Newcastle United,Lamine Diatta,32,Senegal,Centre-Back,CB,£900k,,Without Club,-,Out,2008,s,premier-league
+Newcastle United,James Troisi,20,Australia,Attacking Midfield,AM,£180Th.,Genclerbirligi Ankara,Turkey,Free transfer,Out,2008,s,premier-league
+Newcastle United,Lamine Diatta,32,Senegal,Centre-Back,CB,£900Th.,,Without Club,-,Out,2008,s,premier-league
 Newcastle United,Stephen Carr,31,Ireland,Right-Back,RB,£2.25m,,Career break,-,Out,2008,s,premier-league
 Middlesbrough FC,Lee Cattermole,20,England,Defensive Midfield,DM,£1.80m,Wigan Athletic,England,£3.96m,Out,2008,s,premier-league
 Middlesbrough FC,Luke Young,29,England,Right-Back,RB,£4.50m,Aston Villa,England,£2.70m,Out,2008,s,premier-league
 Middlesbrough FC,George Boateng,32,Netherlands,Defensive Midfield,DM,£4.73m,Hull City,England,£1.08m,Out,2008,s,premier-league
-Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,£270k,Luton Town,England,£108k,Out,2008,s,premier-league
+Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,£270Th.,Luton Town,England,£108Th.,Out,2008,s,premier-league
 Middlesbrough FC,Mark Schwarzer,35,Australia,Goalkeeper,GK,£3.38m,Fulham FC,England,Free transfer,Out,2008,s,premier-league
-Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360k,Norwich City,England,Loan,Out,2008,s,premier-league
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360Th.,Norwich City,England,Loan,Out,2008,s,premier-league
 Middlesbrough FC,Dong-gook Lee,29,"Korea, South",Centre-Forward,CF,£1.35m,Seongnam Ilhwa Chunma,"Korea, South",Free transfer,Out,2008,s,premier-league
-Middlesbrough FC,Tony McMahon,22,England,Right-Back,RB,£225k,Sheffield Wednesday,England,Loan,Out,2008,s,premier-league
+Middlesbrough FC,Tony McMahon,22,England,Right-Back,RB,£225Th.,Sheffield Wednesday,England,Loan,Out,2008,s,premier-league
 Middlesbrough FC,Fábio Rochemback,26,Brazil,Central Midfield,CM,£4.50m,Sporting CP,Portugal,Free transfer,Out,2008,s,premier-league
-Middlesbrough FC,Jason Kennedy,21,England,Central Midfield,CM,£90k,Darlington FC (liq.),England,?,Out,2008,s,premier-league
-Middlesbrough FC,Gaizka Mendieta,34,Spain,Right Midfield,RM,£360k,,Retired,-,Out,2008,s,premier-league
+Middlesbrough FC,Jason Kennedy,21,England,Central Midfield,CM,£90Th.,Darlington FC (liq.),England,?,Out,2008,s,premier-league
+Middlesbrough FC,Gaizka Mendieta,34,Spain,Right Midfield,RM,£360Th.,,Retired,-,Out,2008,s,premier-league
 Wigan Athletic,David Cotterill,20,Wales,Right Winger,RW,£1.80m,Sheffield United,England,£2.34m,Out,2008,s,premier-league
-Wigan Athletic,Andreas Granqvist,23,Sweden,Centre-Back,CB,£1.80m,FC Groningen,Netherlands,£900k,Out,2008,s,premier-league
-Wigan Athletic,Julius Aghahowa,26,Nigeria,Centre-Forward,CF,£1.35m,Kayserispor,Turkey,£900k,Out,2008,s,premier-league
-Wigan Athletic,Andy Webster,26,Scotland,Centre-Back,CB,£1.35m,Rangers FC,Scotland,£315k,Out,2008,s,premier-league
-Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,£270k,Northwich Victoria,England,Free transfer,Out,2008,s,premier-league
-Wigan Athletic,Lewis Montrose,19,England,Central Midfield,CM,£90k,Cheltenham Town,England,Loan,Out,2008,s,premier-league
+Wigan Athletic,Andreas Granqvist,23,Sweden,Centre-Back,CB,£1.80m,FC Groningen,Netherlands,£900Th.,Out,2008,s,premier-league
+Wigan Athletic,Julius Aghahowa,26,Nigeria,Centre-Forward,CF,£1.35m,Kayserispor,Turkey,£900Th.,Out,2008,s,premier-league
+Wigan Athletic,Andy Webster,26,Scotland,Centre-Back,CB,£1.35m,Rangers FC,Scotland,£315Th.,Out,2008,s,premier-league
+Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,£270Th.,Northwich Victoria,England,Free transfer,Out,2008,s,premier-league
+Wigan Athletic,Lewis Montrose,19,England,Central Midfield,CM,£90Th.,Cheltenham Town,England,Loan,Out,2008,s,premier-league
 Wigan Athletic,Josip Skoko,32,Australia,Central Midfield,CM,£1.58m,HNK Hajduk Split,Croatia,Free transfer,Out,2008,s,premier-league
-Wigan Athletic,Rachid Bouaouzan,24,Netherlands,Left Midfield,LM,£405k,NEC Nijmegen,Netherlands,Loan,Out,2008,s,premier-league
+Wigan Athletic,Rachid Bouaouzan,24,Netherlands,Left Midfield,LM,£405Th.,NEC Nijmegen,Netherlands,Loan,Out,2008,s,premier-league
 Wigan Athletic,Antoine Sibierski,34,France,Attacking Midfield,AM,£1.62m,Norwich City,England,Loan,Out,2008,s,premier-league
 Wigan Athletic,Salomon Olembé,27,Cameroon,Left Midfield,LM,£1.13m,Kayserispor,Turkey,Free transfer,Out,2008,s,premier-league
 Wigan Athletic,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Hull City,England,Loan,Out,2008,s,premier-league
 Wigan Athletic,Luke Ashworth,18,England,Centre-Back,CB,-,Leyton Orient,England,Loan,Out,2008,s,premier-league
-Wigan Athletic,Carlo Nash,34,England,Goalkeeper,GK,£270k,Everton FC,England,?,Out,2008,s,premier-league
-Wigan Athletic,Russell Saunders,19,England,Goalkeeper,GK,£90k,Stalybridge Celtic FC II,England,?,Out,2008,s,premier-league
+Wigan Athletic,Carlo Nash,34,England,Goalkeeper,GK,£270Th.,Everton FC,England,?,Out,2008,s,premier-league
+Wigan Athletic,Russell Saunders,19,England,Goalkeeper,GK,£90Th.,Stalybridge Celtic FC II,England,?,Out,2008,s,premier-league
 Wigan Athletic,Mido,26,Egypt,Centre-Forward,CF,£3.78m,Middlesbrough FC,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
-Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,£270k,Northwich Victoria,England,,Out,2008,s,premier-league
+Wigan Athletic,Peter Moore,19,England,Centre-Back,CB,£270Th.,Northwich Victoria,England,,Out,2008,s,premier-league
 Sunderland AFC,Danny Higginbotham,29,Gibraltar,Centre-Back,CB,£2.25m,Stoke City,England,£2.70m,Out,2008,s,premier-league
 Sunderland AFC,Dickson Etuhu,26,Nigeria,Defensive Midfield,DM,£1.80m,Fulham FC,England,£1.67m,Out,2008,s,premier-league
-Sunderland AFC,Paul McShane,22,Ireland,Centre-Back,CB,£2.70m,Hull City,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,£540k,Carlisle United,England,Free transfer,Out,2008,s,premier-league
-Sunderland AFC,Billy Dennehy,21,Ireland,Left Midfield,LM,£90k,Derry City,Ireland,Free transfer,Out,2008,s,premier-league
-Sunderland AFC,Stephen Wright,28,England,Right-Back,RB,£720k,Coventry City,England,Free transfer,Out,2008,s,premier-league
-Sunderland AFC,Roy O'Donovan,22,Ireland,Centre-Forward,CF,£720k,Dundee United FC,Scotland,Loan,Out,2008,s,premier-league
-Sunderland AFC,Jack Pelter,20,New Zealand,Centre-Back,CB,£90k,Western Suburbs,New Zealand,Free transfer,Out,2008,s,premier-league
-Sunderland AFC,Carlos Edwards,29,Trinidad and Tobago,Right-Back,RB,£1.26m,Wolverhampton Wanderers,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Jake Richardson,19,England,Central Midfield,CM,£135k,,Unknown,Free transfer,Out,2008,s,premier-league
-Sunderland AFC,Gavin Donoghue,19,Ireland,Left-Back,LB,£90k,,Unknown,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Gavin Donoghue,19,Ireland,Left-Back,LB,£90Th.,,Unknown,Free transfer,Out,2008,s,premier-league
 Sunderland AFC,Ross Wallace,23,Scotland,Right Midfield,RM,£2.25m,Preston North End,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Russell Anderson,29,Scotland,Centre-Back,CB,£765k,Burnley FC,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Andy Cole,36,England,Centre-Forward,CF,£720k,Nottingham Forest,England,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Russell Anderson,29,Scotland,Centre-Back,CB,£765Th.,Burnley FC,England,Loan,Out,2008,s,premier-league
+Sunderland AFC,Andy Cole,36,England,Centre-Forward,CF,£720Th.,Nottingham Forest,England,Free transfer,Out,2008,s,premier-league
 Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£1.62m,Sheffield United,England,Loan,Out,2008,s,premier-league
 Sunderland AFC,Greg Halford,23,England,Centre-Back,CB,£1.62m,Sheffield United,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Trevor Carson,20,Northern Ireland,Goalkeeper,GK,£90k,Chesterfield FC,England,Loan,Out,2008,s,premier-league
-Sunderland AFC,Tal Ben Haim,27,Israel,Centre-Back,CB,£3.60m,Manchester City,England,"End of loanMay 25, 2009",Out,2008,s,premier-league
-Sunderland AFC,Stanislav Varga,35,Slovakia,Centre-Back,CB,£900k,,Retired,-,Out,2008,s,premier-league
-Sunderland AFC,Calum Davenport,26,England,Centre-Back,CB,£810k,West Ham United,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
+Sunderland AFC,Trevor Carson,20,Northern Ireland,Goalkeeper,GK,£90Th.,Chesterfield FC,England,Loan,Out,2008,s,premier-league
+Sunderland AFC,Paul McShane,22,Ireland,Centre-Back,CB,£2.70m,Hull City,England,Loan,Out,2008,s,premier-league
+Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,£540Th.,Carlisle United,England,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Billy Dennehy,21,Ireland,Left Midfield,LM,£90Th.,Derry City,Ireland,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Stephen Wright,28,England,Right-Back,RB,£720Th.,Coventry City,England,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Roy O'Donovan,22,Ireland,Centre-Forward,CF,£720Th.,Dundee United FC,Scotland,Loan,Out,2008,s,premier-league
+Sunderland AFC,Jack Pelter,20,New Zealand,Centre-Back,CB,£90Th.,Western Suburbs,New Zealand,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Carlos Edwards,29,Trinidad and Tobago,Right-Back,RB,£1.26m,Wolverhampton Wanderers,England,Loan,Out,2008,s,premier-league
+Sunderland AFC,Jake Richardson,19,England,Central Midfield,CM,£135Th.,,Unknown,Free transfer,Out,2008,s,premier-league
+Sunderland AFC,Calum Davenport,26,England,Centre-Back,CB,£810Th.,West Ham United,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
 Sunderland AFC,Ian Harte,30,Ireland,Left-Back,LB,£1.80m,,Without Club,-,Out,2008,s,premier-league
+Sunderland AFC,Tal Ben Haim,27,Israel,Centre-Back,CB,£3.60m,Manchester City,England,"End of loanMay 25, 2009",Out,2008,s,premier-league
+Sunderland AFC,Stanislav Varga,35,Slovakia,Centre-Back,CB,£900Th.,,Retired,-,Out,2008,s,premier-league
 Bolton Wanderers,El-Hadji Diouf,27,Senegal,Centre-Forward,CF,£4.05m,Sunderland AFC,England,£2.88m,Out,2008,s,premier-league
 Bolton Wanderers,Abdoulaye Méïté,27,Cote d'Ivoire,Centre-Back,CB,£3.15m,West Bromwich Albion,England,£2.34m,Out,2008,s,premier-league
 Bolton Wanderers,Iván Campo,34,Spain,Defensive Midfield,DM,£2.03m,Ipswich Town,England,Free transfer,Out,2008,s,premier-league
-Bolton Wanderers,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450k,Fulham FC,England,Free transfer,Out,2008,s,premier-league
-Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,£180k,Stockport County,England,Loan,Out,2008,s,premier-league
-Bolton Wanderers,Gary Speed,38,Wales,Left Midfield,LM,£585k,Sheffield United,England,Free transfer,Out,2008,s,premier-league
-Bolton Wanderers,Blerim Dzemaili,22,Switzerland,Central Midfield,CM,£900k,Torino FC,Italy,Loan,Out,2008,s,premier-league
+Bolton Wanderers,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450Th.,Fulham FC,England,Free transfer,Out,2008,s,premier-league
+Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,£180Th.,Stockport County,England,Loan,Out,2008,s,premier-league
+Bolton Wanderers,Gary Speed,38,Wales,Left Midfield,LM,£585Th.,Sheffield United,England,Free transfer,Out,2008,s,premier-league
+Bolton Wanderers,Blerim Dzemaili,22,Switzerland,Central Midfield,CM,£900Th.,Torino FC,Italy,Loan,Out,2008,s,premier-league
 Bolton Wanderers,Stelios Giannakopoulos,33,Greece,Right Winger,RW,£2.25m,Hull City,England,Free transfer,Out,2008,s,premier-league
-Bolton Wanderers,Daniel Braaten,26,Norway,Right Winger,RW,£900k,FC Toulouse,France,Free transfer,Out,2008,s,premier-league
+Bolton Wanderers,Daniel Braaten,26,Norway,Right Winger,RW,£900Th.,FC Toulouse,France,Free transfer,Out,2008,s,premier-league
 Bolton Wanderers,Michael Burns,19,England,Central Midfield,CM,-,,Without Club,-,Out,2008,s,premier-league
 Bolton Wanderers,Mikel Alonso,28,Spain,Central Midfield,CM,£2.25m,Real Sociedad,Spain,"End of loanJun 30, 2008",Out,2008,s,premier-league
 Fulham FC,Steven Davis,23,Northern Ireland,Central Midfield,CM,£4.05m,Rangers FC,Scotland,£3.42m,Out,2008,s,premier-league
 Fulham FC,David Healy,29,Northern Ireland,Centre-Forward,CF,£2.70m,Sunderland AFC,England,£1.35m,Out,2008,s,premier-league
 Fulham FC,Lee Cook,26,England,Left Winger,LW,£1.17m,Queens Park Rangers,England,£1.15m,Out,2008,s,premier-league
-Fulham FC,Dejan Stefanovic,33,Serbia,Centre-Back,CB,£1.35m,Norwich City,England,£810k,Out,2008,s,premier-league
-Fulham FC,Gabriel Zakuani,22,DR Congo,Centre-Back,CB,£360k,Peterborough United,England,£585k,Out,2008,s,premier-league
-Fulham FC,Ricardo Batista,21,Portugal,Goalkeeper,GK,£360k,Sporting CP,Portugal,£135k,Out,2008,s,premier-league
-Fulham FC,Nathan Ashton,21,England,Left-Back,LB,£90k,Wycombe Wanderers,England,£90k,Out,2008,s,premier-league
-Fulham FC,Wayne Brown,20,England,Attacking Midfield,AM,£135k,Turun Palloseura,Finland,Loan,Out,2008,s,premier-league
-Fulham FC,Björn Runström,24,Sweden,Centre-Forward,CF,£540k,Odense Boldklub,Denmark,Free transfer,Out,2008,s,premier-league
-Fulham FC,Ismael Ehui,21,France,Centre-Forward,CF,£45k,Harrow Borough FC,England,Free transfer,Out,2008,s,premier-league
+Fulham FC,Dejan Stefanovic,33,Serbia,Centre-Back,CB,£1.35m,Norwich City,England,£810Th.,Out,2008,s,premier-league
+Fulham FC,Gabriel Zakuani,22,DR Congo,Centre-Back,CB,£360Th.,Peterborough United,England,£585Th.,Out,2008,s,premier-league
+Fulham FC,Ricardo Batista,21,Portugal,Goalkeeper,GK,£360Th.,Sporting CP,Portugal,£135Th.,Out,2008,s,premier-league
+Fulham FC,Nathan Ashton,21,England,Left-Back,LB,£90Th.,Wycombe Wanderers,England,£90Th.,Out,2008,s,premier-league
+Fulham FC,Wayne Brown,20,England,Attacking Midfield,AM,£135Th.,Turun Palloseura,Finland,Loan,Out,2008,s,premier-league
+Fulham FC,Björn Runström,24,Sweden,Centre-Forward,CF,£540Th.,Odense Boldklub,Denmark,Free transfer,Out,2008,s,premier-league
+Fulham FC,Ismael Ehui,21,France,Centre-Forward,CF,£45Th.,Harrow Borough FC,England,Free transfer,Out,2008,s,premier-league
 Fulham FC,Collins John,22,Netherlands,Centre-Forward,CF,£1.35m,NEC Nijmegen,Netherlands,Loan,Out,2008,s,premier-league
-Fulham FC,Brian McBride,36,United States,Centre-Forward,CF,£720k,Chicago Fire,United States,Free transfer,Out,2008,s,premier-league
+Fulham FC,Brian McBride,36,United States,Centre-Forward,CF,£720Th.,Chicago Fire,United States,Free transfer,Out,2008,s,premier-league
 Fulham FC,Kasey Keller,38,United States,Goalkeeper,GK,-,Seattle Sounders FC,United States,Free transfer,Out,2008,s,premier-league
-Fulham FC,Michael Timlin,23,Ireland,Central Midfield,CM,£225k,Swindon Town,England,Free transfer,Out,2008,s,premier-league
+Fulham FC,Michael Timlin,23,Ireland,Central Midfield,CM,£225Th.,Swindon Town,England,Free transfer,Out,2008,s,premier-league
 Fulham FC,Moritz Volz,25,Germany,Right-Back,RB,£1.80m,Ipswich Town,England,Loan,Out,2008,s,premier-league
-Fulham FC,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£540k,Hull City,England,Free transfer,Out,2008,s,premier-league
+Fulham FC,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£540Th.,Hull City,England,Free transfer,Out,2008,s,premier-league
 Fulham FC,TJ Moncur,20,England,Centre-Back,CB,-,Bradford City,England,Loan,Out,2008,s,premier-league
-Fulham FC,Elliot Omozusi,19,England,Right-Back,RB,£900k,Norwich City,England,Loan,Out,2008,s,premier-league
+Fulham FC,Elliot Omozusi,19,England,Right-Back,RB,£900Th.,Norwich City,England,Loan,Out,2008,s,premier-league
 Fulham FC,Jari Litmanen,37,Finland,Attacking Midfield,AM,-,FC Lahti,Finland,Free transfer,Out,2008,s,premier-league
 Fulham FC,Hameur Bouazza,23,Algeria,Right Winger,RW,£3.15m,Charlton Athletic,England,Loan,Out,2008,s,premier-league
 Fulham FC,Eddie Johnson,24,United States,Centre-Forward,CF,£2.25m,Cardiff City,England,Loan,Out,2008,s,premier-league
 Fulham FC,Carlos Bocanegra,29,United States,Centre-Back,CB,£3.60m,Stade Rennais FC,France,Free transfer,Out,2008,s,premier-league
-Fulham FC,Simon Elliott,34,New Zealand,Defensive Midfield,DM,£225k,,Without Club,-,Out,2008,s,premier-league
-Fulham FC,Philippe Christanval,29,France,Centre-Back,CB,£360k,,Retired,-,Out,2008,s,premier-league
-Fulham FC,Ian Pearce,34,England,Centre-Back,CB,£540k,,Retired,-,Out,2008,s,premier-league
-Fulham FC,Aleksey Smertin,33,Russia,Defensive Midfield,DM,£900k,,Retired,-,Out,2008,s,premier-league
+Fulham FC,Simon Elliott,34,New Zealand,Defensive Midfield,DM,£225Th.,,Without Club,-,Out,2008,s,premier-league
+Fulham FC,Philippe Christanval,29,France,Centre-Back,CB,£360Th.,,Retired,-,Out,2008,s,premier-league
+Fulham FC,Ian Pearce,34,England,Centre-Back,CB,£540Th.,,Retired,-,Out,2008,s,premier-league
+Fulham FC,Aleksey Smertin,33,Russia,Defensive Midfield,DM,£900Th.,,Retired,-,Out,2008,s,premier-league
 Fulham FC,Antti Niemi,36,Finland,Goalkeeper,GK,£2.70m,,Career break,-,Out,2008,s,premier-league
 West Bromwich Albion,Curtis Davies,23,England,Centre-Back,CB,£3.15m,Aston Villa,England,£9.00m,Out,2008,s,premier-league
-West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270k,Doncaster Rovers,England,Loan,Out,2008,s,premier-league
+West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270Th.,Doncaster Rovers,England,Loan,Out,2008,s,premier-league
 West Bromwich Albion,Martin Albrechtsen,28,Denmark,Centre-Back,CB,£3.60m,Derby County,England,Free transfer,Out,2008,s,premier-league
-West Bromwich Albion,Stuart Nicholson,21,England,Centre-Forward,CF,£45k,Tamworth FC,England,Free transfer,Out,2008,s,premier-league
-West Bromwich Albion,Jared Hodgkiss,21,England,Right-Back,RB,£135k,Aberdeen FC,Scotland,Loan,Out,2008,s,premier-league
+West Bromwich Albion,Stuart Nicholson,21,England,Centre-Forward,CF,£45Th.,Tamworth FC,England,Free transfer,Out,2008,s,premier-league
+West Bromwich Albion,Jared Hodgkiss,21,England,Right-Back,RB,£135Th.,Aberdeen FC,Scotland,Loan,Out,2008,s,premier-league
 West Bromwich Albion,Craig Beattie,24,Scotland,Centre-Forward,CF,£2.03m,Crystal Palace,England,Loan,Out,2008,s,premier-league
 West Bromwich Albion,Zoltán Gera,29,Hungary,Central Midfield,CM,£3.15m,Fulham FC,England,Free transfer,Out,2008,s,premier-league
 West Bromwich Albion,Kevin Phillips,34,England,Centre-Forward,CF,£3.15m,Birmingham City,England,Free transfer,Out,2008,s,premier-league
-West Bromwich Albion,Luke Daniels,20,England,Goalkeeper,GK,£90k,Shrewsbury Town,England,Loan,Out,2008,s,premier-league
+West Bromwich Albion,Luke Daniels,20,England,Goalkeeper,GK,£90Th.,Shrewsbury Town,England,Loan,Out,2008,s,premier-league
 West Bromwich Albion,Lee Baker,19,England,Left-Back,LB,-,Kidderminster Harriers,England,Free transfer,Out,2008,s,premier-league
-West Bromwich Albion,Jay Simpson,20,England,Centre-Forward,CF,£450k,Arsenal FC Reserves,England,"End of loanMay 31, 2009",Out,2008,s,premier-league
-West Bromwich Albion,Michal Danek,25,Czech Republic,Goalkeeper,GK,£360k,FC Viktoria Plzen,Czech Republic,"End of loanAug 1, 2008",Out,2008,s,premier-league
-West Bromwich Albion,Tininho,27,Portugal,Left-Back,LB,£360k,,Without Club,-,Out,2008,s,premier-league
-West Bromwich Albion,Du-hyeon Kim,25,"Korea, South",Central Midfield,CM,£810k,Seongnam Ilhwa Chunma,"Korea, South","End of loanJun 30, 2008",Out,2008,s,premier-league
+West Bromwich Albion,Jay Simpson,20,England,Centre-Forward,CF,£450Th.,Arsenal FC Reserves,England,"End of loanMay 31, 2009",Out,2008,s,premier-league
+West Bromwich Albion,Michal Danek,25,Czech Republic,Goalkeeper,GK,£360Th.,FC Viktoria Plzen,Czech Republic,"End of loanAug 1, 2008",Out,2008,s,premier-league
+West Bromwich Albion,Tininho,27,Portugal,Left-Back,LB,£360Th.,,Without Club,-,Out,2008,s,premier-league
+West Bromwich Albion,Du-hyeon Kim,25,"Korea, South",Central Midfield,CM,£810Th.,Seongnam Ilhwa Chunma,"Korea, South","End of loanJun 30, 2008",Out,2008,s,premier-league
 West Bromwich Albion,Luke Moore,22,England,Centre-Forward,CF,£3.38m,Aston Villa,England,"End of loanJun 30, 2008",Out,2008,s,premier-league
-Stoke City,Lewis Buxton,24,England,Right-Back,RB,£360k,Sheffield Wednesday,England,£90k,Out,2008,s,premier-league
-Stoke City,Adam Rooney,20,Ireland,Centre-Forward,CF,£315k,Inverness Caledonian Thistle FC,Scotland,£59k,Out,2008,s,premier-league
-Stoke City,Russell Hoult,35,England,Goalkeeper,GK,£810k,Notts County,England,Free transfer,Out,2008,s,premier-league
-Stoke City,Anthony Pulis,23,Wales,Central Midfield,CM,£45k,Southampton FC,England,Free transfer,Out,2008,s,premier-league
-Stoke City,Robert Garrett,20,Northern Ireland,Central Midfield,CM,£45k,Linfield FC,Northern Ireland,Free transfer,Out,2008,s,premier-league
+Stoke City,Lewis Buxton,24,England,Right-Back,RB,£360Th.,Sheffield Wednesday,England,£90Th.,Out,2008,s,premier-league
+Stoke City,Adam Rooney,20,Ireland,Centre-Forward,CF,£315Th.,Inverness Caledonian Thistle FC,Scotland,£59Th.,Out,2008,s,premier-league
+Stoke City,Robert Garrett,20,Northern Ireland,Central Midfield,CM,£45Th.,Linfield FC,Northern Ireland,Free transfer,Out,2008,s,premier-league
 Stoke City,Tom Thorley,18,England,Central Midfield,CM,-,Stafford Rangers,England,Loan,Out,2008,s,premier-league
-Stoke City,Marlon Broomes,30,England,Centre-Back,CB,£270k,Blackpool FC,England,Free transfer,Out,2008,s,premier-league
+Stoke City,Marlon Broomes,30,England,Centre-Back,CB,£270Th.,Blackpool FC,England,Free transfer,Out,2008,s,premier-league
 Stoke City,Ryan Shotton,19,England,Centre-Back,CB,-,Tranmere Rovers,England,Loan,Out,2008,s,premier-league
-Stoke City,Jon Parkin,26,England,Centre-Forward,CF,£450k,Preston North End,England,?,Out,2008,s,premier-league
+Stoke City,Russell Hoult,35,England,Goalkeeper,GK,£810Th.,Notts County,England,Free transfer,Out,2008,s,premier-league
+Stoke City,Anthony Pulis,23,Wales,Central Midfield,CM,£45Th.,Southampton FC,England,Free transfer,Out,2008,s,premier-league
+Stoke City,Jon Parkin,26,England,Centre-Forward,CF,£450Th.,Preston North End,England,?,Out,2008,s,premier-league
+Stoke City,Stephen Kelly,25,Ireland,Right-Back,RB,£810Th.,Birmingham City,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
 Stoke City,Henri Camara,31,Senegal,Centre-Forward,CF,£1.80m,Wigan Athletic,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
-Stoke City,Stephen Kelly,25,Ireland,Right-Back,RB,£810k,Birmingham City,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
-Hull City,David Livermore,28,England,Central Midfield,CM,£315k,Brighton & Hove Albion,England,Free transfer,Out,2008,s,premier-league
-Hull City,Michael Bridges,29,England,Centre-Forward,CF,£270k,Carlisle United,England,Loan,Out,2008,s,premier-league
-Hull City,Ben Wilkinson,21,England,Central Midfield,CM,£180k,York City,England,Free transfer,Out,2008,s,premier-league
+Hull City,David Livermore,28,England,Central Midfield,CM,£315Th.,Brighton & Hove Albion,England,Free transfer,Out,2008,s,premier-league
+Hull City,Michael Bridges,29,England,Centre-Forward,CF,£270Th.,Carlisle United,England,Loan,Out,2008,s,premier-league
+Hull City,Ben Wilkinson,21,England,Central Midfield,CM,£180Th.,York City,England,Free transfer,Out,2008,s,premier-league
 Hull City,Henrik Pedersen,33,Denmark,Centre-Forward,CF,£1.35m,Silkeborg IF,Denmark,Free transfer,Out,2008,s,premier-league
-Hull City,John Welsh,24,England,Central Midfield,CM,£225k,Carlisle United,England,Loan,Out,2008,s,premier-league
-Hull City,Stuart Elliott,29,Northern Ireland,Left Midfield,LM,£540k,Doncaster Rovers,England,Free transfer,Out,2008,s,premier-league
+Hull City,John Welsh,24,England,Central Midfield,CM,£225Th.,Carlisle United,England,Loan,Out,2008,s,premier-league
+Hull City,Stuart Elliott,29,Northern Ireland,Left Midfield,LM,£540Th.,Doncaster Rovers,England,Free transfer,Out,2008,s,premier-league
 Hull City,Wayne Brown,31,England,Centre-Back,CB,£1.62m,Preston North End,England,Loan,Out,2008,s,premier-league
 Hull City,Manucho,26,Angola,Centre-Forward,CF,£1.80m,Manchester United,England,"End of loanMay 1, 2009",Out,2008,s,premier-league
-Hull City,Jay-Jay Okocha,34,Nigeria,Attacking Midfield,AM,£810k,,Career break,-,Out,2008,s,premier-league
+Hull City,Jay-Jay Okocha,34,Nigeria,Attacking Midfield,AM,£810Th.,,Career break,-,Out,2008,s,premier-league
 Manchester United,Zoran Tosic,21,Serbia,Right Winger,RW,£3.83m,FK Partizan Belgrade,Serbia,£6.30m,In,2008,w,premier-league
-Manchester United,Ritchie De Laet,20,Belgium,Right-Back,RB,£270k,Stoke City,England,£225k,In,2008,w,premier-league
+Manchester United,Ritchie De Laet,20,Belgium,Right-Back,RB,£270Th.,Stoke City,England,£225Th.,In,2008,w,premier-league
 Manchester United,James Chester,20,Wales,Centre-Back,CB,-,Peterborough United,England,"End of loanMar 1, 2009",In,2008,w,premier-league
 Manchester United,Federico Macheda,17,Italy,Centre-Forward,CF,-,Manchester United U18,England,-,In,2008,w,premier-league
-Manchester United,Lee Martin,21,England,Attacking Midfield,AM,£810k,Nottingham Forest,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+Manchester United,Lee Martin,21,England,Attacking Midfield,AM,£810Th.,Nottingham Forest,England,"End of loanNov 1, 2008",In,2008,w,premier-league
 Chelsea FC,Ricardo Quaresma,25,Portugal,Right Winger,RW,£22.50m,FC Internazionale,Italy,Loan,In,2008,w,premier-league
-Chelsea FC,Conor Clifford,17,Ireland,Central Midfield,CM,-,Chelsea FC U18,England,-,In,2008,w,premier-league
-Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540k,Wolverhampton Wanderers,England,"End of loanDec 29, 2008",In,2008,w,premier-league
-Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,-,Milton Keynes Dons,England,"End of loanMar 2, 2009",In,2008,w,premier-league
-Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540k,Southampton FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,-,Coventry City,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
 Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,-,Southend United,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Chelsea FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540k,Portsmouth FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Chelsea FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540Th.,Portsmouth FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Chelsea FC,Conor Clifford,17,Ireland,Central Midfield,CM,-,Chelsea FC U18,England,-,In,2008,w,premier-league
+Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540Th.,Wolverhampton Wanderers,England,"End of loanDec 29, 2008",In,2008,w,premier-league
+Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,-,Milton Keynes Dons,England,"End of loanMar 2, 2009",In,2008,w,premier-league
+Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540Th.,Southampton FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Arsenal FC,Andrey Arshavin,27,Russia,Second Striker,SS,£21.60m,Zenit St. Petersburg,Russia,£14.85m,In,2008,w,premier-league
-Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90k,AFC Bournemouth,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Liverpool FC,Krisztián Németh,20,Hungary,Centre-Forward,CF,£45Th.,Blackpool FC,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90Th.,Tranmere Rovers,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90Th.,Hereford United (liq.),England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90Th.,AFC Bournemouth,England,"End of loanDec 31, 2008",In,2008,w,premier-league
 Liverpool FC,Josh Mimms,19,England,Goalkeeper,GK,-,York City,England,"End of loanDec 1, 2008",In,2008,w,premier-league
-Liverpool FC,Krisztián Németh,20,Hungary,Centre-Forward,CF,£45k,Blackpool FC,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
-Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90k,Tranmere Rovers,England,"End of loanDec 1, 2008",In,2008,w,premier-league
-Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90k,Hereford United (liq.),England,"End of loanDec 1, 2008",In,2008,w,premier-league
-Everton FC,Seamus Coleman,20,Ireland,Right-Back,RB,£113k,Sligo Rovers,Ireland,£63k,In,2008,w,premier-league
+Everton FC,Seamus Coleman,20,Ireland,Right-Back,RB,£113Th.,Sligo Rovers,Ireland,£63Th.,In,2008,w,premier-league
 Everton FC,Jô,21,Brazil,Centre-Forward,CF,£14.40m,Manchester City,England,Loan,In,2008,w,premier-league
 Aston Villa,Emile Heskey,31,England,Centre-Forward,CF,£4.50m,Wigan Athletic,England,£3.33m,In,2008,w,premier-league
 Aston Villa,Wayne Routledge,23,England,Left Winger,LW,£1.08m,Cardiff City,England,"End of loanJan 2, 2009",In,2008,w,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Walsall FC,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
-Aston Villa,Stephen O'Halloran,21,Ireland,Left-Back,LB,£270k,Swansea City,England,"End of loanFeb 5, 2009",In,2008,w,premier-league
+Aston Villa,Stephen O'Halloran,21,Ireland,Left-Back,LB,£270Th.,Swansea City,England,"End of loanFeb 5, 2009",In,2008,w,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Colchester United,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Blackburn Rovers,El-Hadji Diouf,28,Senegal,Centre-Forward,CF,£4.05m,Sunderland AFC,England,£1.98m,In,2008,w,premier-league
 Blackburn Rovers,Nick Blackman,19,Barbados,Right Winger,RW,-,Macclesfield Town,England,?,In,2008,w,premier-league
 Blackburn Rovers,Gaël Givet,27,France,Centre-Back,CB,£2.43m,Olympique Marseille,France,Loan,In,2008,w,premier-league
-Blackburn Rovers,Mark Bunn,24,England,Goalkeeper,GK,£135k,Leicester City,England,"End of loanMar 1, 2009",In,2008,w,premier-league
-Blackburn Rovers,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225k,Motherwell FC,Scotland,"End of loanDec 30, 2008",In,2008,w,premier-league
+Blackburn Rovers,Mark Bunn,24,England,Goalkeeper,GK,£135Th.,Leicester City,England,"End of loanMar 1, 2009",In,2008,w,premier-league
+Blackburn Rovers,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225Th.,Motherwell FC,Scotland,"End of loanDec 30, 2008",In,2008,w,premier-league
 Blackburn Rovers,Jon Bateson,19,England,Right-Back,RB,-,Buxton FC,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270k,Northampton Town,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270k,Accrington Stanley,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180k,Stockport County,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Blackburn Rovers,Jamie Clarke,20,England,Centre-Forward,CF,£45k,Accrington Stanley,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270Th.,Northampton Town,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270Th.,Accrington Stanley,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180Th.,Stockport County,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+Blackburn Rovers,Jamie Clarke,20,England,Centre-Forward,CF,£45Th.,Accrington Stanley,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Portsmouth FC,Nadir Belhadj,26,Algeria,Left-Back,LB,£3.15m,RC Lens,France,£4.05m,In,2008,w,premier-league
 Portsmouth FC,Hayden Mullins,29,England,Defensive Midfield,DM,£4.05m,West Ham United,England,£2.07m,In,2008,w,premier-league
-Portsmouth FC,Theofanis Gekas,28,Greece,Centre-Forward,CF,£4.05m,Bayer 04 Leverkusen,Germany,Loan fee:£720k,In,2008,w,premier-league
-Portsmouth FC,Pelé,21,Portugal,Central Midfield,CM,£4.50m,FC Porto,Portugal,Loan fee:£585k,In,2008,w,premier-league
+Portsmouth FC,Theofanis Gekas,28,Greece,Centre-Forward,CF,£4.05m,Bayer 04 Leverkusen,Germany,Loan fee:£720Th.,In,2008,w,premier-league
+Portsmouth FC,Pelé,21,Portugal,Central Midfield,CM,£4.50m,FC Porto,Portugal,Loan fee:£585Th.,In,2008,w,premier-league
 Portsmouth FC,Angelos Basinas,33,Greece,Defensive Midfield,DM,£2.70m,AEK Athens,Greece,Free transfer,In,2008,w,premier-league
 Portsmouth FC,Jermaine Pennant,26,England,Right Winger,RW,£7.65m,Liverpool FC,England,Loan,In,2008,w,premier-league
 Portsmouth FC,Torric Jebrin,17,Ghana,Attacking Midfield,AM,-,Hearts of Oak,Ghana,?,In,2008,w,premier-league
-Portsmouth FC,Asmir Begovic,21,Bosnia-Herzegovina,Goalkeeper,GK,£180k,Yeovil Town,England,"End of loanNov 6, 2008",In,2008,w,premier-league
-Portsmouth FC,Linvoy Primus,35,England,Centre-Back,CB,£540k,Charlton Athletic,England,"End of loanDec 1, 2008",In,2008,w,premier-league
-Portsmouth FC,Martin Cranie,22,England,Centre-Back,CB,£900k,Charlton Athletic,England,"End of loanDec 1, 2008",In,2008,w,premier-league
-Portsmouth FC,Omar Alieu Koroma,19,The Gambia,Centre-Forward,CF,£68k,Norwich City,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360k,SV Zulte Waregem,Belgium,"End of loanDec 1, 2008",In,2008,w,premier-league
+Portsmouth FC,Asmir Begovic,21,Bosnia-Herzegovina,Goalkeeper,GK,£180Th.,Yeovil Town,England,"End of loanNov 6, 2008",In,2008,w,premier-league
+Portsmouth FC,Linvoy Primus,35,England,Centre-Back,CB,£540Th.,Charlton Athletic,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Portsmouth FC,Martin Cranie,22,England,Centre-Back,CB,£900Th.,Charlton Athletic,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Portsmouth FC,Omar Alieu Koroma,19,The Gambia,Centre-Forward,CF,£68Th.,Norwich City,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360Th.,SV Zulte Waregem,Belgium,"End of loanDec 1, 2008",In,2008,w,premier-league
 Manchester City,Nigel de Jong,24,Netherlands,Defensive Midfield,DM,£9.00m,Hamburger SV,Germany,£16.20m,In,2008,w,premier-league
 Manchester City,Craig Bellamy,29,Wales,Left Winger,LW,£6.75m,West Ham United,England,£13.95m,In,2008,w,premier-league
 Manchester City,Wayne Bridge,28,England,Left-Back,LB,£5.40m,Chelsea FC,England,£11.70m,In,2008,w,premier-league
 Manchester City,Shay Given,32,Ireland,Goalkeeper,GK,£6.75m,Newcastle United,England,£8.10m,In,2008,w,premier-league
-Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225k,Blackburn Rovers,England,Free transfer,In,2008,w,premier-league
+Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225Th.,Blackburn Rovers,England,Free transfer,In,2008,w,premier-league
 Manchester City,Donal McDermott,18,Ireland,Attacking Midfield,AM,-,Milton Keynes Dons,England,"End of loanOct 12, 2008",In,2008,w,premier-league
-Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,£90k,Morecambe FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,£90Th.,Morecambe FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Manchester City,Vladimir Weiss,19,Slovakia,Left Winger,LW,-,Manchester City Reserves,England,-,In,2008,w,premier-league
 Manchester City,Karl Moore,20,Ireland,Attacking Midfield,AM,-,Millwall FC,England,"End of loanDec 31, 2008",In,2008,w,premier-league
 West Ham United,Savio Nsereko,19,Germany,Right Winger,RW,£1.35m,Brescia Calcio,Italy,£7.65m,In,2008,w,premier-league
-West Ham United,Radoslav Kovac,29,Czech Republic,Centre-Back,CB,£4.23m,Spartak Moscow,Russia,Loan fee:£450k,In,2008,w,premier-league
+West Ham United,Radoslav Kovac,29,Czech Republic,Centre-Back,CB,£4.23m,Spartak Moscow,Russia,Loan fee:£450Th.,In,2008,w,premier-league
 West Ham United,Péter Kurucz,20,Hungary,Goalkeeper,GK,-,Újpest FC,Hungary,Loan,In,2008,w,premier-league
-West Ham United,Jack Jeffery,19,England,Midfielder,Midfielder,-,Leyton Orient,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-West Ham United,Kyel Reid,21,England,Left Winger,LW,£450k,Blackpool FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+West Ham United,Kyel Reid,21,England,Left Winger,LW,£450Th.,Blackpool FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 West Ham United,Terry Dixon,19,Ireland,Centre-Forward,CF,-,,Without Club,-,In,2008,w,premier-league
 West Ham United,Diego Tristán,32,Spain,Centre-Forward,CF,£1.80m,,Without Club,-,In,2008,w,premier-league
-West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540k,Birmingham City,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540Th.,Birmingham City,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 West Ham United,Junior Stanislas,19,England,Left Winger,LW,-,Southend United,England,"End of loanJan 18, 2009",In,2008,w,premier-league
-West Ham United,Jimmy Walker,35,England,Goalkeeper,GK,£135k,Colchester United,England,"End of loanMar 1, 2009",In,2008,w,premier-league
-West Ham United,James Tomkins,19,England,Centre-Back,CB,£720k,Derby County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+West Ham United,Jimmy Walker,35,England,Goalkeeper,GK,£135Th.,Colchester United,England,"End of loanMar 1, 2009",In,2008,w,premier-league
+West Ham United,James Tomkins,19,England,Centre-Back,CB,£720Th.,Derby County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+West Ham United,Jack Jeffery,19,England,Midfielder,Midfielder,-,Leyton Orient,England,"End of loanNov 1, 2008",In,2008,w,premier-league
 Tottenham Hotspur,Robbie Keane,28,Ireland,Centre-Forward,CF,£18.90m,Liverpool FC,England,£15.03m,In,2008,w,premier-league
 Tottenham Hotspur,Jermain Defoe,26,England,Centre-Forward,CF,£9.90m,Portsmouth FC,England,£14.76m,In,2008,w,premier-league
 Tottenham Hotspur,Wilson Palacios,24,Honduras,Defensive Midfield,DM,£3.15m,Wigan Athletic,England,£13.50m,In,2008,w,premier-league
 Tottenham Hotspur,Pascal Chimbonda,29,Guadeloupe,Right-Back,RB,£5.85m,Sunderland AFC,England,£2.88m,In,2008,w,premier-league
 Tottenham Hotspur,Carlo Cudicini,35,Italy,Goalkeeper,GK,£1.35m,Chelsea FC,England,Free transfer,In,2008,w,premier-league
-Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,-,Grays Athletic FC,England,"End of loanDec 21, 2008",In,2008,w,premier-league
-Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225k,Gillingham FC,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Tottenham Hotspur,Andy Barcham,22,England,Left Winger,LW,£45k,Gillingham FC,England,"End of loanJan 1, 2009",In,2008,w,premier-league
-Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810k,Carlisle United,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Tottenham Hotspur,Simon Dawkins,21,Jamaica,Left Winger,LW,£45k,Leyton Orient,England,"End of loanDec 31, 2008",In,2008,w,premier-league
 Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,-,AFC Bournemouth,England,"End of loanFeb 16, 2009",In,2008,w,premier-league
-Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450k,Southampton FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450Th.,Southampton FC,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,-,Grays Athletic FC,England,"End of loanDec 21, 2008",In,2008,w,premier-league
+Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225Th.,Gillingham FC,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Tottenham Hotspur,Andy Barcham,22,England,Left Winger,LW,£45Th.,Gillingham FC,England,"End of loanJan 1, 2009",In,2008,w,premier-league
+Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810Th.,Carlisle United,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+Tottenham Hotspur,Simon Dawkins,21,Jamaica,Left Winger,LW,£45Th.,Leyton Orient,England,"End of loanDec 31, 2008",In,2008,w,premier-league
 Newcastle United,Kevin Nolan,26,England,Attacking Midfield,AM,£5.85m,Bolton Wanderers,England,£4.05m,In,2008,w,premier-league
-Newcastle United,Ryan Taylor,24,England,Right-Back,RB,£1.35m,Wigan Athletic,England,£270k,In,2008,w,premier-league
-Newcastle United,Haris Vuckic,16,Slovenia,Attacking Midfield,AM,£180k,NK Domzale,Slovenia,£90k,In,2008,w,premier-league
+Newcastle United,Ryan Taylor,24,England,Right-Back,RB,£1.35m,Wigan Athletic,England,£270Th.,In,2008,w,premier-league
+Newcastle United,Haris Vuckic,16,Slovenia,Attacking Midfield,AM,£180Th.,NK Domzale,Slovenia,£90Th.,In,2008,w,premier-league
 Newcastle United,Peter Lövenkrands,28,Denmark,Centre-Forward,CF,£2.70m,FC Schalke 04,Germany,Free transfer,In,2008,w,premier-league
-Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360k,Newcastle United U18,England,-,In,2008,w,premier-league
-Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360k,Stockport County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810k,Carlisle United,England,"End of loanJan 21, 2009",In,2008,w,premier-league
+Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360Th.,Newcastle United U18,England,-,In,2008,w,premier-league
+Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360Th.,Stockport County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810Th.,Carlisle United,England,"End of loanJan 21, 2009",In,2008,w,premier-league
 Middlesbrough FC,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Wigan Athletic,England,Loan,In,2008,w,premier-league
-Middlesbrough FC,John Johnson,20,England,Centre-Back,CB,£45k,Tranmere Rovers,England,"End of loanJan 1, 2009",In,2008,w,premier-league
-Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360k,Norwich City,England,"End of loanOct 1, 2008",In,2008,w,premier-league
-Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180k,Oldham Athletic,England,"End of loanMar 1, 2009",In,2008,w,premier-league
-Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180k,Derby County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Middlesbrough FC,Jonathan Grounds,21,England,Left-Back,LB,£360k,Norwich City,England,"End of loanMar 1, 2009",In,2008,w,premier-league
-Middlesbrough FC,Tony McMahon,22,England,Right-Back,RB,£225k,Sheffield Wednesday,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180Th.,Oldham Athletic,England,"End of loanMar 1, 2009",In,2008,w,premier-league
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180Th.,Derby County,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+Middlesbrough FC,Jonathan Grounds,21,England,Left-Back,LB,£360Th.,Norwich City,England,"End of loanMar 1, 2009",In,2008,w,premier-league
+Middlesbrough FC,Tony McMahon,22,England,Right-Back,RB,£225Th.,Sheffield Wednesday,England,"End of loanDec 1, 2008",In,2008,w,premier-league
+Middlesbrough FC,John Johnson,20,England,Centre-Back,CB,£45Th.,Tranmere Rovers,England,"End of loanJan 1, 2009",In,2008,w,premier-league
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360Th.,Norwich City,England,"End of loanOct 1, 2008",In,2008,w,premier-league
 Wigan Athletic,Charles N'Zogbia,22,France,Right Winger,RW,£6.30m,Newcastle United,England,£5.76m,In,2008,w,premier-league
 Wigan Athletic,Hugo Rodallega,23,Colombia,Centre-Forward,CF,£3.60m,Club Necaxa,Mexico,£4.32m,In,2008,w,premier-league
-Wigan Athletic,Ben Watson,23,England,Central Midfield,CM,£630k,Crystal Palace,England,£1.89m,In,2008,w,premier-league
+Wigan Athletic,Ben Watson,23,England,Central Midfield,CM,£630Th.,Crystal Palace,England,£1.89m,In,2008,w,premier-league
 Wigan Athletic,Mido,25,Egypt,Centre-Forward,CF,£3.60m,Middlesbrough FC,England,Loan,In,2008,w,premier-league
+Wigan Athletic,Maynor Figueroa,25,Honduras,Centre-Back,CB,£450Th.,CD Olimpia,Honduras,?,In,2008,w,premier-league
 Wigan Athletic,Won-heui Jo,25,"Korea, South",Defensive Midfield,DM,£1.62m,Suwon Samsung Bluewings,"Korea, South",?,In,2008,w,premier-league
-Wigan Athletic,Maynor Figueroa,25,Honduras,Centre-Back,CB,£450k,CD Olimpia,Honduras,?,In,2008,w,premier-league
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90Th.,Cheltenham Town,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
+Wigan Athletic,Lewis Montrose,19,England,Central Midfield,CM,£90Th.,Cheltenham Town,England,"End of loanNov 1, 2008",In,2008,w,premier-league
 Wigan Athletic,Luke Ashworth,18,England,Centre-Back,CB,-,Leyton Orient,England,"End of loanOct 22, 2008",In,2008,w,premier-league
 Wigan Athletic,Craig Mahon,19,Ireland,Left Winger,LW,-,Accrington Stanley,England,"End of loanDec 27, 2008",In,2008,w,premier-league
 Wigan Athletic,Antoine Sibierski,34,France,Attacking Midfield,AM,£1.13m,Norwich City,England,"End of loanJan 18, 2009",In,2008,w,premier-league
 Wigan Athletic,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Hull City,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90k,Cheltenham Town,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
-Wigan Athletic,Lewis Montrose,19,England,Central Midfield,CM,£90k,Cheltenham Town,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Sunderland AFC,Calum Davenport,26,England,Centre-Back,CB,£630k,West Ham United,England,Loan,In,2008,w,premier-league
+Sunderland AFC,Calum Davenport,26,England,Centre-Back,CB,£630Th.,West Ham United,England,Loan,In,2008,w,premier-league
 Sunderland AFC,Tal Ben Haim,26,Israel,Centre-Back,CB,£3.60m,Manchester City,England,Loan,In,2008,w,premier-league
+Sunderland AFC,Michael Chopra,25,England,Centre-Forward,CF,£4.05m,Cardiff City,England,"End of loanJan 6, 2009",In,2008,w,premier-league
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£1.13m,Sheffield United,England,"End of loanJan 18, 2009",In,2008,w,premier-league
+Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45Th.,Charlton Athletic,England,"End of loanJan 21, 2009",In,2008,w,premier-league
+Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720Th.,Dundee United FC,Scotland,"End of loanDec 1, 2008",In,2008,w,premier-league
 Sunderland AFC,Paul McShane,23,Ireland,Centre-Back,CB,£2.70m,Hull City,England,"End of loanJan 15, 2009",In,2008,w,premier-league
 Sunderland AFC,Ross Wallace,23,Scotland,Right Midfield,RM,£1.80m,Preston North End,England,"End of loanJan 11, 2009",In,2008,w,premier-league
 Sunderland AFC,Carlos Edwards,30,Trinidad and Tobago,Right-Back,RB,£1.26m,Wolverhampton Wanderers,England,"End of loanNov 20, 2008",In,2008,w,premier-league
-Sunderland AFC,Michael Chopra,25,England,Centre-Forward,CF,£4.05m,Cardiff City,England,"End of loanJan 6, 2009",In,2008,w,premier-league
-Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£1.13m,Sheffield United,England,"End of loanJan 18, 2009",In,2008,w,premier-league
-Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45k,Charlton Athletic,England,"End of loanJan 21, 2009",In,2008,w,premier-league
-Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720k,Dundee United FC,Scotland,"End of loanDec 1, 2008",In,2008,w,premier-league
-Bolton Wanderers,Ariza Makukula,27,Portugal,Centre-Forward,CF,£3.60m,SL Benfica,Portugal,Loan fee:£720k,In,2008,w,premier-league
-Bolton Wanderers,Mark Davies,20,England,Central Midfield,CM,£270k,Wolverhampton Wanderers,England,£540k,In,2008,w,premier-league
-Bolton Wanderers,Sébastien Puygrenier,26,France,Centre-Back,CB,£6.48m,Zenit St. Petersburg,Russia,Loan fee:£450k,In,2008,w,premier-league
+Bolton Wanderers,Ariza Makukula,27,Portugal,Centre-Forward,CF,£3.60m,SL Benfica,Portugal,Loan fee:£720Th.,In,2008,w,premier-league
+Bolton Wanderers,Mark Davies,20,England,Central Midfield,CM,£270Th.,Wolverhampton Wanderers,England,£540Th.,In,2008,w,premier-league
+Bolton Wanderers,Sébastien Puygrenier,26,France,Centre-Back,CB,£6.48m,Zenit St. Petersburg,Russia,Loan fee:£450Th.,In,2008,w,premier-league
 Bolton Wanderers,Nicky Hunt,25,England,Centre-Back,CB,£1.62m,Birmingham City,England,"End of loanJan 2, 2009",In,2008,w,premier-league
-Bolton Wanderers,Jaroslaw Fojut,21,Poland,Centre-Back,CB,£180k,Stockport County,England,"End of loanNov 30, 2008",In,2008,w,premier-league
+Bolton Wanderers,Jaroslaw Fojut,21,Poland,Centre-Back,CB,£180Th.,Stockport County,England,"End of loanNov 30, 2008",In,2008,w,premier-league
 Fulham FC,Olivier Dacourt,34,France,Defensive Midfield,DM,£1.80m,FC Internazionale,Italy,Loan,In,2008,w,premier-league
 Fulham FC,Giles Barnes,20,Jamaica,Centre-Forward,CF,£1.80m,Derby County,England,Loan,In,2008,w,premier-league
-Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£90k,Rotherham United,England,"End of loanJan 17, 2009",In,2008,w,premier-league
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£90Th.,Rotherham United,England,"End of loanJan 17, 2009",In,2008,w,premier-league
 Fulham FC,Hameur Bouazza,23,Algeria,Right Winger,RW,£3.15m,Charlton Athletic,England,"End of loanDec 31, 2008",In,2008,w,premier-league
-Fulham FC,Rob Milsom,21,England,Central Midfield,CM,£45k,Southend United,England,"End of loanJan 1, 2009",In,2008,w,premier-league
+Fulham FC,Rob Milsom,21,England,Central Midfield,CM,£45Th.,Southend United,England,"End of loanJan 1, 2009",In,2008,w,premier-league
 Fulham FC,TJ Moncur,21,England,Centre-Back,CB,-,Bradford City,England,"End of loanDec 1, 2008",In,2008,w,premier-league
 Fulham FC,Collins John,23,Netherlands,Centre-Forward,CF,£1.35m,NEC Nijmegen,Netherlands,"End of loanMar 1, 2009",In,2008,w,premier-league
-Fulham FC,Elliot Omozusi,19,England,Right-Back,RB,£900k,Norwich City,England,"End of loanDec 14, 2008",In,2008,w,premier-league
-West Bromwich Albion,Youssouf Mulumbu,22,DR Congo,Defensive Midfield,DM,£720k,Paris Saint-Germain,France,Loan fee:£225k,In,2008,w,premier-league
+Fulham FC,Elliot Omozusi,19,England,Right-Back,RB,£900Th.,Norwich City,England,"End of loanDec 14, 2008",In,2008,w,premier-league
+West Bromwich Albion,Youssouf Mulumbu,22,DR Congo,Defensive Midfield,DM,£720Th.,Paris Saint-Germain,France,Loan fee:£225Th.,In,2008,w,premier-league
 West Bromwich Albion,Jay Simpson,20,England,Centre-Forward,CF,-,Arsenal FC Reserves,England,Loan,In,2008,w,premier-league
 West Bromwich Albion,Marc-Antoine Fortuné,27,French Guiana,Centre-Forward,CF,£3.24m,AS Nancy-Lorraine,France,Loan,In,2008,w,premier-league
 West Bromwich Albion,Juan Carlos Menseguez,24,Argentina,Right Winger,RW,£1.35m,Club Atlético San Lorenzo de Almagro,Argentina,Loan,In,2008,w,premier-league
 West Bromwich Albion,Craig Beattie,24,Scotland,Centre-Forward,CF,£2.03m,Crystal Palace,England,"End of loanDec 10, 2008",In,2008,w,premier-league
-West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£495k,Aberdeen FC,Scotland,"End of loanDec 31, 2008",In,2008,w,premier-league
-West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270k,Doncaster Rovers,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-West Bromwich Albion,Bartosz Slusarski,27,Poland,Centre-Forward,CF,£810k,Sheffield Wednesday,England,"End of loanDec 31, 2008",In,2008,w,premier-league
+West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£495Th.,Aberdeen FC,Scotland,"End of loanDec 31, 2008",In,2008,w,premier-league
+West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270Th.,Doncaster Rovers,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+West Bromwich Albion,Bartosz Slusarski,27,Poland,Centre-Forward,CF,£810Th.,Sheffield Wednesday,England,"End of loanDec 31, 2008",In,2008,w,premier-league
 Stoke City,James Beattie,30,England,Centre-Forward,CF,£2.03m,Sheffield United,England,£3.60m,In,2008,w,premier-league
 Stoke City,Matthew Etherington,27,England,Left Midfield,LM,£3.60m,West Ham United,England,£2.70m,In,2008,w,premier-league
 Stoke City,Henri Camara,31,Senegal,Centre-Forward,CF,£1.80m,Wigan Athletic,England,Loan,In,2008,w,premier-league
 Stoke City,Stephen Kelly,25,Ireland,Right-Back,RB,£1.13m,Birmingham City,England,Loan,In,2008,w,premier-league
 Stoke City,Tom Soares,22,England,Central Midfield,CM,£1.26m,Charlton Athletic,England,"End of loanMar 1, 2009",In,2008,w,premier-league
-Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45k,Burscough FC,England,"End of loanJan 1, 2009",In,2008,w,premier-league
-Stoke City,Carl Dickinson,21,England,Left-Back,LB,£900k,Leeds United,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
-Stoke City,Ritchie De Laet,20,Belgium,Right-Back,RB,£270k,Wrexham AFC,Wales,"End of loanDec 1, 2008",In,2008,w,premier-league
-Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45k,Stafford Rangers,England,"End of loanOct 31, 2008",In,2008,w,premier-league
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45Th.,Burscough FC,England,"End of loanJan 1, 2009",In,2008,w,premier-league
+Stoke City,Carl Dickinson,21,England,Left-Back,LB,£900Th.,Leeds United,England,"End of loanFeb 1, 2009",In,2008,w,premier-league
+Stoke City,Ritchie De Laet,20,Belgium,Right-Back,RB,£270Th.,Wrexham AFC,Wales,"End of loanDec 1, 2008",In,2008,w,premier-league
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45Th.,Stafford Rangers,England,"End of loanOct 31, 2008",In,2008,w,premier-league
 Hull City,Jimmy Bullard,30,England,Central Midfield,CM,£4.05m,Fulham FC,England,£4.77m,In,2008,w,premier-league
-Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810k,BSC Young Boys,Switzerland,£2.25m,In,2008,w,premier-league
-Hull City,Kevin Kilbane,31,Ireland,Left Midfield,LM,£3.15m,Wigan Athletic,England,£495k,In,2008,w,premier-league
+Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810Th.,BSC Young Boys,Switzerland,£2.25m,In,2008,w,premier-league
+Hull City,Kevin Kilbane,31,Ireland,Left Midfield,LM,£3.15m,Wigan Athletic,England,£495Th.,In,2008,w,premier-league
 Hull City,Manucho,25,Angola,Centre-Forward,CF,£1.80m,Manchester United,England,Loan,In,2008,w,premier-league
-Hull City,John Welsh,24,England,Central Midfield,CM,£225k,Carlisle United,England,"End of loanNov 1, 2008",In,2008,w,premier-league
+Hull City,John Welsh,24,England,Central Midfield,CM,£225Th.,Carlisle United,England,"End of loanNov 1, 2008",In,2008,w,premier-league
 Hull City,Wayne Brown,31,England,Centre-Back,CB,£1.62m,Preston North End,England,"End of loanNov 1, 2008",In,2008,w,premier-league
-Manchester United,David Gray,20,Scotland,Right-Back,RB,£90k,Plymouth Argyle,England,Loan,Out,2008,w,premier-league
+Manchester United,David Gray,20,Scotland,Right-Back,RB,£90Th.,Plymouth Argyle,England,Loan,Out,2008,w,premier-league
 Manchester United,Tom Cleverley,19,England,Central Midfield,CM,-,Leicester City,England,Loan,Out,2008,w,premier-league
 Manchester United,Manucho,25,Angola,Centre-Forward,CF,£1.80m,Hull City,England,Loan,Out,2008,w,premier-league
 Manchester United,Sam Hewson,20,England,Central Midfield,CM,-,Hereford United (liq.),England,Loan,Out,2008,w,premier-league
 Manchester United,James Chester,20,Wales,Centre-Back,CB,-,Peterborough United,England,Loan,Out,2008,w,premier-league
 Chelsea FC,Wayne Bridge,28,England,Left-Back,LB,£5.40m,Manchester City,England,£11.70m,Out,2008,w,premier-league
-Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540k,Watford FC,England,Loan,Out,2008,w,premier-league
-Chelsea FC,Scott Sinclair,19,England,Left Winger,LW,£720k,Birmingham City,England,Loan,Out,2008,w,premier-league
-Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540k,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
-Chelsea FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540k,De Graafschap Doetinchem,Netherlands,Loan,Out,2008,w,premier-league
+Chelsea FC,Jack Cork,19,England,Defensive Midfield,DM,£540Th.,Watford FC,England,Loan,Out,2008,w,premier-league
+Chelsea FC,Scott Sinclair,19,England,Left Winger,LW,£720Th.,Birmingham City,England,Loan,Out,2008,w,premier-league
+Chelsea FC,Michael Mancienne,20,England,Centre-Back,CB,£540Th.,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
+Chelsea FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540Th.,De Graafschap Doetinchem,Netherlands,Loan,Out,2008,w,premier-league
 Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,-,Coventry City,England,Loan,Out,2008,w,premier-league
 Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,-,Northampton Town,England,Loan,Out,2008,w,premier-league
 Chelsea FC,Carlo Cudicini,35,Italy,Goalkeeper,GK,£1.35m,Tottenham Hotspur,England,Free transfer,Out,2008,w,premier-league
 Chelsea FC,Lee Sawyer,19,England,Central Midfield,CM,-,Wycombe Wanderers,England,Loan,Out,2008,w,premier-league
 Chelsea FC,Carl Magnay,20,Northern Ireland,Right-Back,RB,-,Milton Keynes Dons,England,Loan,Out,2008,w,premier-league
-Chelsea FC,Fábio Paim,20,Portugal,Right Midfield,RM,£360k,Sporting CP,Portugal,"End of loanDec 1, 2008",Out,2008,w,premier-league
-Arsenal FC,Gavin Hoyte,18,Trinidad and Tobago,Right-Back,RB,£45k,Watford FC,England,Loan,Out,2008,w,premier-league
-Arsenal FC,Henri Lansbury,18,England,Central Midfield,CM,£45k,Scunthorpe United,England,Loan,Out,2008,w,premier-league
+Chelsea FC,Fábio Paim,20,Portugal,Right Midfield,RM,£360Th.,Sporting CP,Portugal,"End of loanDec 1, 2008",Out,2008,w,premier-league
+Arsenal FC,Gavin Hoyte,18,Trinidad and Tobago,Right-Back,RB,£45Th.,Watford FC,England,Loan,Out,2008,w,premier-league
+Arsenal FC,Henri Lansbury,18,England,Central Midfield,CM,£45Th.,Scunthorpe United,England,Loan,Out,2008,w,premier-league
 Arsenal FC,Rene Steer,18,England,Left-Back,LB,-,Gillingham FC,England,Loan,Out,2008,w,premier-league
 Liverpool FC,Robbie Keane,28,Ireland,Centre-Forward,CF,£18.90m,Tottenham Hotspur,England,£15.03m,Out,2008,w,premier-league
-Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90k,Accrington Stanley,England,Loan,Out,2008,w,premier-league
+Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90Th.,Stockport County,England,Loan,Out,2008,w,premier-league
+Liverpool FC,Craig Lindfield,20,England,Right Midfield,RM,£90Th.,Accrington Stanley,England,Loan,Out,2008,w,premier-league
 Liverpool FC,Péter Gulácsi,18,Hungary,Goalkeeper,GK,-,Hereford United (liq.),England,Loan,Out,2008,w,premier-league
-Liverpool FC,Krisztián Németh,19,Hungary,Centre-Forward,CF,£45k,Blackpool FC,England,Loan,Out,2008,w,premier-league
-Liverpool FC,Martin Kelly,18,England,Right-Back,RB,£45k,Huddersfield Town,England,Loan,Out,2008,w,premier-league
+Liverpool FC,Krisztián Németh,19,Hungary,Centre-Forward,CF,£45Th.,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Liverpool FC,Martin Kelly,18,England,Right-Back,RB,£45Th.,Huddersfield Town,England,Loan,Out,2008,w,premier-league
 Liverpool FC,Jermaine Pennant,26,England,Right Winger,RW,£7.65m,Portsmouth FC,England,Loan,Out,2008,w,premier-league
 Liverpool FC,Josh Mimms,19,England,Goalkeeper,GK,-,York City,England,Free transfer,Out,2008,w,premier-league
-Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90k,Hereford United (liq.),England,Loan,Out,2008,w,premier-league
-Liverpool FC,Robbie Threlfall,20,England,Left-Back,LB,£90k,Stockport County,England,Loan,Out,2008,w,premier-league
-Liverpool FC,Astrit Ajdarevic,18,Albania,Central Midfield,CM,£41k,Leicester City,England,Loan,Out,2008,w,premier-league
-Everton FC,John Paul Kissock,19,England,Left Midfield,LM,£68k,Accrington Stanley,England,Loan,Out,2008,w,premier-league
-Everton FC,Iain Turner,25,Scotland,Goalkeeper,GK,£405k,Nottingham Forest,England,Loan,Out,2008,w,premier-league
-Everton FC,Lukas Jutkiewicz,19,England,Centre-Forward,CF,£630k,Huddersfield Town,England,Loan,Out,2008,w,premier-league
-Everton FC,John Ruddy,22,England,Goalkeeper,GK,£450k,Crewe Alexandra,England,Loan,Out,2008,w,premier-league
-Aston Villa,Wayne Routledge,23,England,Left Winger,LW,£1.08m,Queens Park Rangers,England,£603k,Out,2008,w,premier-league
+Liverpool FC,Godwin Antwi,20,Ghana,Centre-Back,CB,£90Th.,Hereford United (liq.),England,Loan,Out,2008,w,premier-league
+Liverpool FC,Astrit Ajdarevic,18,Albania,Central Midfield,CM,£41Th.,Leicester City,England,Loan,Out,2008,w,premier-league
+Everton FC,John Paul Kissock,19,England,Left Midfield,LM,£68Th.,Accrington Stanley,England,Loan,Out,2008,w,premier-league
+Everton FC,Iain Turner,25,Scotland,Goalkeeper,GK,£405Th.,Nottingham Forest,England,Loan,Out,2008,w,premier-league
+Everton FC,Lukas Jutkiewicz,19,England,Centre-Forward,CF,£630Th.,Huddersfield Town,England,Loan,Out,2008,w,premier-league
+Everton FC,John Ruddy,22,England,Goalkeeper,GK,£450Th.,Crewe Alexandra,England,Loan,Out,2008,w,premier-league
+Aston Villa,Wayne Routledge,23,England,Left Winger,LW,£1.08m,Queens Park Rangers,England,£603Th.,Out,2008,w,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Brentford FC,England,Loan,Out,2008,w,premier-league
 Aston Villa,Marlon Harewood,29,England,Centre-Forward,CF,£1.98m,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
 Aston Villa,Wayne Routledge,23,England,Left Winger,LW,£1.08m,Cardiff City,England,Loan,Out,2008,w,premier-league
-Aston Villa,Isaiah Osbourne,21,England,Central Midfield,CM,£450k,Nottingham Forest,England,Loan,Out,2008,w,premier-league
-Aston Villa,Barry Bannan,19,Scotland,Central Midfield,CM,£45k,Derby County,England,Loan,Out,2008,w,premier-league
-Aston Villa,Stephen O'Halloran,20,Ireland,Left-Back,LB,£180k,Swansea City,England,Loan,Out,2008,w,premier-league
+Aston Villa,Isaiah Osbourne,21,England,Central Midfield,CM,£450Th.,Nottingham Forest,England,Loan,Out,2008,w,premier-league
+Aston Villa,Barry Bannan,19,Scotland,Central Midfield,CM,£45Th.,Derby County,England,Loan,Out,2008,w,premier-league
+Aston Villa,Stephen O'Halloran,20,Ireland,Left-Back,LB,£180Th.,Swansea City,England,Loan,Out,2008,w,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Walsall FC,England,Loan,Out,2008,w,premier-league
-Aston Villa,Stuart Taylor,28,England,Goalkeeper,GK,£630k,Cardiff City,England,Loan,Out,2008,w,premier-league
+Aston Villa,Stuart Taylor,28,England,Goalkeeper,GK,£630Th.,Cardiff City,England,Loan,Out,2008,w,premier-league
 Aston Villa,Sam Williams,21,England,Centre-Forward,CF,-,Colchester United,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,£90k,Preston North End,England,£810k,Out,2008,w,premier-league
-Blackburn Rovers,Sergio Peter,22,Germany,Left Midfield,LM,£360k,AC Sparta Praha,Czech Republic,£540k,Out,2008,w,premier-league
-Blackburn Rovers,Matt Derbyshire,22,England,Centre-Forward,CF,£3.15m,Olympiacos Piraeus,Greece,Loan fee:£450k,Out,2008,w,premier-league
-Blackburn Rovers,Alan Judge,20,Ireland,Left Midfield,LM,£45k,Plymouth Argyle,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270k,Adelaide United,Australia,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Nick Blackman,19,Barbados,Right Winger,RW,£135k,Blackpool FC,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225k,Manchester City,England,Free transfer,Out,2008,w,premier-league
-Blackburn Rovers,Mark Bunn,24,England,Goalkeeper,GK,£90k,Leicester City,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180k,Stockport County,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270k,Rochdale AFC,England,Loan,Out,2008,w,premier-league
-Blackburn Rovers,Jamie Clarke,20,England,Centre-Forward,CF,£45k,Rotherham United,England,Free transfer,Out,2008,w,premier-league
-Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180k,Carlisle United,England,Free transfer,Out,2008,w,premier-league
+Blackburn Rovers,Eddie Nolan,20,Ireland,Centre-Back,CB,£90Th.,Preston North End,England,£810Th.,Out,2008,w,premier-league
+Blackburn Rovers,Sergio Peter,22,Germany,Left Midfield,LM,£360Th.,AC Sparta Praha,Czech Republic,£540Th.,Out,2008,w,premier-league
+Blackburn Rovers,Matt Derbyshire,22,England,Centre-Forward,CF,£3.15m,Olympiacos Piraeus,Greece,Loan fee:£450Th.,Out,2008,w,premier-league
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180Th.,Carlisle United,England,Free transfer,Out,2008,w,premier-league
 Blackburn Rovers,Jon Bateson,19,England,Right-Back,RB,-,Buxton FC,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Alan Judge,20,Ireland,Left Midfield,LM,£45Th.,Plymouth Argyle,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Rostyn Griffiths,20,Australia,Defensive Midfield,DM,£270Th.,Adelaide United,Australia,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Nick Blackman,19,Barbados,Right Winger,RW,£135Th.,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225Th.,Manchester City,England,Free transfer,Out,2008,w,premier-league
+Blackburn Rovers,Mark Bunn,24,England,Goalkeeper,GK,£90Th.,Leicester City,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Tony Kane,21,Northern Ireland,Right-Back,RB,£180Th.,Stockport County,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Frank Fielding,20,England,Goalkeeper,GK,£270Th.,Rochdale AFC,England,Loan,Out,2008,w,premier-league
+Blackburn Rovers,Jamie Clarke,20,England,Centre-Forward,CF,£45Th.,Rotherham United,England,Free transfer,Out,2008,w,premier-league
 Blackburn Rovers,Robbie Fowler,33,England,Centre-Forward,CF,£1.62m,,Without Club,-,Out,2008,w,premier-league
 Portsmouth FC,Lassana Diarra,23,France,Defensive Midfield,DM,£7.65m,Real Madrid,Spain,£18.00m,Out,2008,w,premier-league
 Portsmouth FC,Jermain Defoe,26,England,Centre-Forward,CF,£9.90m,Tottenham Hotspur,England,£14.76m,Out,2008,w,premier-league
 Portsmouth FC,Djimi Traoré,28,Mali,Centre-Back,CB,£2.70m,Birmingham City,England,Loan,Out,2008,w,premier-league
-Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360k,Southend United,England,Loan,Out,2008,w,premier-league
-Portsmouth FC,Glen Little,33,England,Right Winger,RW,£720k,Reading FC,England,Loan,Out,2008,w,premier-league
-Portsmouth FC,Richard Duffy,23,Wales,Centre-Back,CB,£270k,Millwall FC,England,Free transfer,Out,2008,w,premier-league
+Portsmouth FC,Danijel Subotic,19,Switzerland,Centre-Forward,CF,£360Th.,Southend United,England,Loan,Out,2008,w,premier-league
+Portsmouth FC,Glen Little,33,England,Right Winger,RW,£720Th.,Reading FC,England,Loan,Out,2008,w,premier-league
+Portsmouth FC,Richard Duffy,23,Wales,Centre-Back,CB,£270Th.,Millwall FC,England,Free transfer,Out,2008,w,premier-league
 Portsmouth FC,Nadir Belhadj,26,Algeria,Left-Back,LB,£3.15m,RC Lens,France,"End of loanDec 31, 2008",Out,2008,w,premier-league
-Portsmouth FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540k,Chelsea FC,England,"End of loanDec 1, 2008",Out,2008,w,premier-league
+Portsmouth FC,Ben Sahar,19,Israel,Centre-Forward,CF,£540Th.,Chelsea FC,England,"End of loanDec 1, 2008",Out,2008,w,premier-league
 Manchester City,Tal Ben Haim,26,Israel,Centre-Back,CB,£3.60m,Sunderland AFC,England,Loan,Out,2008,w,premier-league
 Manchester City,Ryan McGivern,18,Northern Ireland,Left-Back,LB,-,Morecambe FC,England,Loan,Out,2008,w,premier-league
-Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225k,Wrexham AFC,Wales,Loan,Out,2008,w,premier-league
+Manchester City,Gunnar Nielsen,22,Faroe Islands,Goalkeeper,GK,£225Th.,Wrexham AFC,Wales,Loan,Out,2008,w,premier-league
 Manchester City,Jô,21,Brazil,Centre-Forward,CF,£14.40m,Everton FC,England,Loan,Out,2008,w,premier-league
 Manchester City,Nery Castillo,24,Mexico,Right Winger,RW,£5.40m,Shakhtar Donetsk,Ukraine,"End of loanDec 31, 2008",Out,2008,w,premier-league
 West Ham United,Craig Bellamy,29,Wales,Left Winger,LW,£6.75m,Manchester City,England,£13.95m,Out,2008,w,premier-league
@@ -834,123 +834,123 @@ West Ham United,Matthew Etherington,27,England,Left Midfield,LM,£3.60m,Stoke Ci
 West Ham United,Hayden Mullins,29,England,Defensive Midfield,DM,£4.05m,Portsmouth FC,England,£2.07m,Out,2008,w,premier-league
 West Ham United,Julien Faubert,25,Martinique,Right-Back,RB,£6.30m,Real Madrid,Spain,Loan fee:£1.35m,Out,2008,w,premier-league
 West Ham United,Junior Stanislas,19,England,Left Winger,LW,-,Southend United,England,Loan,Out,2008,w,premier-league
-West Ham United,Tony Stokes,22,England,Central Midfield,CM,£90k,Újpest FC,Hungary,Free transfer,Out,2008,w,premier-league
-West Ham United,Jordan Spence,18,England,Right-Back,RB,£45k,Leyton Orient,England,Loan,Out,2008,w,premier-league
-West Ham United,Jimmy Walker,35,England,Goalkeeper,GK,£135k,Colchester United,England,Loan,Out,2008,w,premier-league
-West Ham United,Kyel Reid,21,England,Left Winger,LW,£450k,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
-West Ham United,Calum Davenport,26,England,Centre-Back,CB,£630k,Sunderland AFC,England,Loan,Out,2008,w,premier-league
-West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540k,Birmingham City,England,Loan,Out,2008,w,premier-league
-West Ham United,James Tomkins,19,England,Centre-Back,CB,£720k,Derby County,England,Loan,Out,2008,w,premier-league
+West Ham United,Tony Stokes,22,England,Central Midfield,CM,£90Th.,Újpest FC,Hungary,Free transfer,Out,2008,w,premier-league
+West Ham United,Jordan Spence,18,England,Right-Back,RB,£45Th.,Leyton Orient,England,Loan,Out,2008,w,premier-league
+West Ham United,Jimmy Walker,35,England,Goalkeeper,GK,£135Th.,Colchester United,England,Loan,Out,2008,w,premier-league
+West Ham United,Kyel Reid,21,England,Left Winger,LW,£450Th.,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
+West Ham United,Calum Davenport,26,England,Centre-Back,CB,£630Th.,Sunderland AFC,England,Loan,Out,2008,w,premier-league
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540Th.,Birmingham City,England,Loan,Out,2008,w,premier-league
+West Ham United,James Tomkins,19,England,Centre-Back,CB,£720Th.,Derby County,England,Loan,Out,2008,w,premier-league
 West Ham United,Lee Bowyer,31,England,Central Midfield,CM,£2.70m,Birmingham City,England,Loan,Out,2008,w,premier-league
-West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540k,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
+West Ham United,Nigel Quashie,30,Scotland,Central Midfield,CM,£540Th.,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
 West Ham United,Lorcan Fitzgerald,19,Ireland,Left-Back,LB,-,Sporting Fingal,Ireland,Free transfer,Out,2008,w,premier-league
-West Ham United,Marek Stech,19,Czech Republic,Goalkeeper,GK,£90k,Wycombe Wanderers,England,Loan,Out,2008,w,premier-league
-West Ham United,Kyel Reid,20,England,Left Winger,LW,£450k,Blackpool FC,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Kevin-Prince Boateng,21,Ghana,Attacking Midfield,AM,£3.15m,Borussia Dortmund,Germany,Loan fee:£90k,Out,2008,w,premier-league
+West Ham United,Marek Stech,19,Czech Republic,Goalkeeper,GK,£90Th.,Wycombe Wanderers,England,Loan,Out,2008,w,premier-league
+West Ham United,Kyel Reid,20,England,Left Winger,LW,£450Th.,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Tottenham Hotspur,Kevin-Prince Boateng,21,Ghana,Attacking Midfield,AM,£3.15m,Borussia Dortmund,Germany,Loan fee:£90Th.,Out,2008,w,premier-league
 Tottenham Hotspur,Paul Stalteri,31,Canada,Right-Back,RB,£1.35m,Borussia Mönchengladbach,Germany,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,Jonathan Obika,18,England,Centre-Forward,CF,-,Yeovil Town,England,Loan,Out,2008,w,premier-league
 Tottenham Hotspur,David Button,19,England,Goalkeeper,GK,-,AFC Bournemouth,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810k,Carlisle United,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Andy Barcham,22,England,Left Winger,LW,£45k,Gillingham FC,England,Free transfer,Out,2008,w,premier-league
+Tottenham Hotspur,Ben Alnwick,21,England,Goalkeeper,GK,£810Th.,Carlisle United,England,Loan,Out,2008,w,premier-league
+Tottenham Hotspur,Andy Barcham,22,England,Left Winger,LW,£45Th.,Gillingham FC,England,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,Chris Gunter,19,Wales,Right-Back,RB,£3.15m,Nottingham Forest,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Danny Rose,18,England,Left-Back,LB,£450k,Watford FC,England,Loan,Out,2008,w,premier-league
+Tottenham Hotspur,Danny Rose,18,England,Left-Back,LB,£450Th.,Watford FC,England,Loan,Out,2008,w,premier-league
 Tottenham Hotspur,Andros Townsend,17,England,Right Winger,RW,-,Yeovil Town,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Dorian Dervite,20,France,Centre-Back,CB,£450k,Southend United,England,Loan,Out,2008,w,premier-league
+Tottenham Hotspur,Dorian Dervite,20,France,Centre-Back,CB,£450Th.,Southend United,England,Loan,Out,2008,w,premier-league
 Tottenham Hotspur,David Button,20,England,Goalkeeper,GK,-,Luton Town,England,Loan,Out,2008,w,premier-league
 Tottenham Hotspur,Giovani dos Santos,19,Mexico,Second Striker,SS,£4.95m,Ipswich Town,England,Loan,Out,2008,w,premier-league
 Tottenham Hotspur,Charlie Daniels,22,England,Left-Back,LB,-,Leyton Orient,England,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,David Hutton,19,Ireland,Midfielder,Midfielder,-,Cheltenham Town,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,César Sánchez,37,Spain,Goalkeeper,GK,£810k,Valencia CF,Spain,Free transfer,Out,2008,w,premier-league
+Tottenham Hotspur,César Sánchez,37,Spain,Goalkeeper,GK,£810Th.,Valencia CF,Spain,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,Hossam Ghaly,27,Egypt,Central Midfield,CM,£1.80m,Al-Nassr FC,Saudi Arabia,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,Danny Hutchins,19,England,Right-Back,RB,-,Yeovil Town,England,Free transfer,Out,2008,w,premier-league
 Tottenham Hotspur,Adel Taarabt,19,Morocco,Central Midfield,CM,£1.80m,Queens Park Rangers,England,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450k,SK Slavia Prague,Czech Republic,Loan,Out,2008,w,premier-league
-Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225k,,Without Club,-,Out,2008,w,premier-league
+Tottenham Hotspur,Tomas Pekhart,19,Czech Republic,Centre-Forward,CF,£450Th.,SK Slavia Prague,Czech Republic,Loan,Out,2008,w,premier-league
+Tottenham Hotspur,Leigh Mills,20,England,Centre-Back,CB,£225Th.,,Without Club,-,Out,2008,w,premier-league
 Newcastle United,Shay Given,32,Ireland,Goalkeeper,GK,£6.75m,Manchester City,England,£8.10m,Out,2008,w,premier-league
 Newcastle United,Charles N'Zogbia,22,France,Right Winger,RW,£6.30m,Wigan Athletic,England,£5.76m,Out,2008,w,premier-league
-Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360k,Doncaster Rovers,England,Loan,Out,2008,w,premier-league
-Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810k,Carlisle United,England,Loan,Out,2008,w,premier-league
+Newcastle United,Kazenga LuaLua,18,DR Congo,Left Winger,LW,£360Th.,Doncaster Rovers,England,Loan,Out,2008,w,premier-league
+Newcastle United,Tim Krul,20,Netherlands,Goalkeeper,GK,£810Th.,Carlisle United,England,Loan,Out,2008,w,premier-league
 Newcastle United,Fabio Zamblera,18,Italy,Centre-Forward,CF,-,Sampdoria Primavera,Italy,Loan,Out,2008,w,premier-league
-Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360k,Stockport County,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,£270k,Luton Town,England,£108k,Out,2008,w,premier-league
-Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180k,Oldham Athletic,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180k,Derby County,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360k,Norwich City,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,Rhys Williams,20,Australia,Centre-Back,CB,£45k,Burnley FC,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,John Johnson,20,England,Centre-Back,CB,£45k,Tranmere Rovers,England,Loan,Out,2008,w,premier-league
+Newcastle United,Fraser Forster,20,England,Goalkeeper,GK,£360Th.,Stockport County,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,Tom Craddock,21,England,Centre-Forward,CF,£270Th.,Luton Town,England,£108Th.,Out,2008,w,premier-league
+Middlesbrough FC,Jonathan Grounds,20,England,Left-Back,LB,£360Th.,Norwich City,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,Rhys Williams,20,Australia,Centre-Back,CB,£45Th.,Burnley FC,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,John Johnson,20,England,Centre-Back,CB,£45Th.,Tranmere Rovers,England,Loan,Out,2008,w,premier-league
 Middlesbrough FC,Mido,25,Egypt,Centre-Forward,CF,£3.60m,Wigan Athletic,England,Loan,Out,2008,w,premier-league
-Middlesbrough FC,Graeme Owens,20,England,Right Winger,RW,£90k,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,Graeme Owens,20,England,Right Winger,RW,£90Th.,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180Th.,Oldham Athletic,England,Loan,Out,2008,w,premier-league
+Middlesbrough FC,Seb Hines,20,England,Centre-Back,CB,£180Th.,Derby County,England,Loan,Out,2008,w,premier-league
 Wigan Athletic,Wilson Palacios,24,Honduras,Defensive Midfield,DM,£3.15m,Tottenham Hotspur,England,£13.50m,Out,2008,w,premier-league
 Wigan Athletic,Emile Heskey,31,England,Centre-Forward,CF,£4.50m,Aston Villa,England,£3.33m,Out,2008,w,premier-league
-Wigan Athletic,Kevin Kilbane,31,Ireland,Left Midfield,LM,£3.15m,Hull City,England,£495k,Out,2008,w,premier-league
-Wigan Athletic,Ryan Taylor,24,England,Right-Back,RB,£1.35m,Newcastle United,England,£270k,Out,2008,w,premier-league
-Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90k,Chesterfield FC,England,Loan,Out,2008,w,premier-league
-Wigan Athletic,Henri Camara,31,Senegal,Centre-Forward,CF,£1.80m,Stoke City,England,Loan,Out,2008,w,premier-league
+Wigan Athletic,Kevin Kilbane,31,Ireland,Left Midfield,LM,£3.15m,Hull City,England,£495Th.,Out,2008,w,premier-league
+Wigan Athletic,Ryan Taylor,24,England,Right-Back,RB,£1.35m,Newcastle United,England,£270Th.,Out,2008,w,premier-league
 Wigan Athletic,Luke Ashworth,19,England,Centre-Back,CB,-,Leyton Orient,England,Free transfer,Out,2008,w,premier-league
 Wigan Athletic,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Middlesbrough FC,England,Loan,Out,2008,w,premier-league
-Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90k,Cheltenham Town,England,Loan,Out,2008,w,premier-league
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90Th.,Cheltenham Town,England,Loan,Out,2008,w,premier-league
 Wigan Athletic,Craig Mahon,19,Ireland,Left Winger,LW,-,Accrington Stanley,England,Loan,Out,2008,w,premier-league
-Wigan Athletic,Maynor Figueroa,25,Honduras,Centre-Back,CB,£450k,CD Olimpia,Honduras,"End of loanDec 31, 2008",Out,2008,w,premier-league
+Wigan Athletic,Lewis Montrose,20,England,Central Midfield,CM,£90Th.,Chesterfield FC,England,Loan,Out,2008,w,premier-league
+Wigan Athletic,Henri Camara,31,Senegal,Centre-Forward,CF,£1.80m,Stoke City,England,Loan,Out,2008,w,premier-league
+Wigan Athletic,Maynor Figueroa,25,Honduras,Centre-Back,CB,£450Th.,CD Olimpia,Honduras,"End of loanDec 31, 2008",Out,2008,w,premier-league
 Sunderland AFC,Pascal Chimbonda,29,Guadeloupe,Right-Back,RB,£5.85m,Tottenham Hotspur,England,£2.88m,Out,2008,w,premier-league
 Sunderland AFC,El-Hadji Diouf,28,Senegal,Centre-Forward,CF,£4.05m,Blackburn Rovers,England,£1.98m,Out,2008,w,premier-league
-Sunderland AFC,Rade Prica,28,Sweden,Centre-Forward,CF,£1.17m,Rosenborg BK,Norway,£720k,Out,2008,w,premier-league
-Sunderland AFC,Liam Miller,27,Ireland,Central Midfield,CM,£1.80m,Queens Park Rangers,England,£90k,Out,2008,w,premier-league
-Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720k,Blackpool FC,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Rade Prica,28,Sweden,Centre-Forward,CF,£1.17m,Rosenborg BK,Norway,£720Th.,Out,2008,w,premier-league
+Sunderland AFC,Liam Miller,27,Ireland,Central Midfield,CM,£1.80m,Queens Park Rangers,England,£90Th.,Out,2008,w,premier-league
+Sunderland AFC,Roy O'Donovan,23,Ireland,Centre-Forward,CF,£720Th.,Blackpool FC,England,Loan,Out,2008,w,premier-league
 Sunderland AFC,Michael Chopra,25,England,Centre-Forward,CF,£4.05m,Cardiff City,England,Loan,Out,2008,w,premier-league
 Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£1.62m,Sheffield United,England,Loan,Out,2008,w,premier-league
-Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45k,Charlton Athletic,England,Loan,Out,2008,w,premier-league
-Sunderland AFC,Darren Ward,34,Wales,Goalkeeper,GK,£360k,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
-Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,£540k,Carlisle United,England,Free transfer,Out,2008,w,premier-league
-Sunderland AFC,Michael Liddle,18,Ireland,Left-Back,LB,£45k,Carlisle United,England,Loan,Out,2008,w,premier-league
-Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,£45k,Coventry City,England,Loan,Out,2008,w,premier-league
-Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£810k,Crystal Palace,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Martyn Waghorn,18,England,Centre-Forward,CF,£45Th.,Charlton Athletic,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Darren Ward,34,Wales,Goalkeeper,GK,£360Th.,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Graham Kavanagh,34,Ireland,Central Midfield,CM,£540Th.,Carlisle United,England,Free transfer,Out,2008,w,premier-league
+Sunderland AFC,Michael Liddle,18,Ireland,Left-Back,LB,£45Th.,Carlisle United,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Jordan Henderson,18,England,Central Midfield,CM,£45Th.,Coventry City,England,Loan,Out,2008,w,premier-league
+Sunderland AFC,Anthony Stokes,20,Ireland,Centre-Forward,CF,£810Th.,Crystal Palace,England,Loan,Out,2008,w,premier-league
 Sunderland AFC,Carlos Edwards,29,Trinidad and Tobago,Right-Back,RB,£1.26m,Wolverhampton Wanderers,England,Loan,Out,2008,w,premier-league
 Sunderland AFC,Michael Chopra,24,England,Centre-Forward,CF,£4.05m,Cardiff City,England,Loan,Out,2008,w,premier-league
 Sunderland AFC,Ross Wallace,23,Scotland,Right Midfield,RM,£1.80m,Preston North End,England,?,Out,2008,w,premier-league
 Bolton Wanderers,Kevin Nolan,26,England,Attacking Midfield,AM,£5.85m,Newcastle United,England,£4.05m,Out,2008,w,premier-league
-Bolton Wanderers,Heidar Helguson,31,Iceland,Centre-Forward,CF,£900k,Queens Park Rangers,England,£405k,Out,2008,w,premier-league
-Bolton Wanderers,Jaroslaw Fojut,21,Poland,Centre-Back,CB,£180k,Slask Wroclaw,Poland,£113k,Out,2008,w,premier-league
+Bolton Wanderers,Heidar Helguson,31,Iceland,Centre-Forward,CF,£900Th.,Queens Park Rangers,England,£405Th.,Out,2008,w,premier-league
+Bolton Wanderers,Jaroslaw Fojut,21,Poland,Centre-Back,CB,£180Th.,Slask Wroclaw,Poland,£113Th.,Out,2008,w,premier-league
 Bolton Wanderers,Nicky Hunt,25,England,Centre-Back,CB,£1.62m,Birmingham City,England,Loan,Out,2008,w,premier-league
-Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,£180k,Stockport County,England,Loan,Out,2008,w,premier-league
-Bolton Wanderers,Ian Walker,37,England,Goalkeeper,GK,£270k,,Retired,-,Out,2008,w,premier-league
+Bolton Wanderers,Jaroslaw Fojut,20,Poland,Centre-Back,CB,£180Th.,Stockport County,England,Loan,Out,2008,w,premier-league
+Bolton Wanderers,Ian Walker,37,England,Goalkeeper,GK,£270Th.,,Retired,-,Out,2008,w,premier-league
 Fulham FC,Jimmy Bullard,30,England,Central Midfield,CM,£4.05m,Hull City,England,£4.77m,Out,2008,w,premier-league
 Fulham FC,Leon Andreasen,25,Denmark,Central Midfield,CM,£2.70m,Hannover 96,Germany,£2.25m,Out,2008,w,premier-league
-Fulham FC,Bruno Luz,20,Portugal,Left Winger,LW,-,Queens Park Rangers,England,Loan fee:£135k,Out,2008,w,premier-league
+Fulham FC,Bruno Luz,20,Portugal,Left Winger,LW,-,Queens Park Rangers,England,Loan fee:£135Th.,Out,2008,w,premier-league
 Fulham FC,TJ Moncur,21,England,Centre-Back,CB,-,Wycombe Wanderers,England,Free transfer,Out,2008,w,premier-league
-Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450k,Barnsley FC,England,Loan,Out,2008,w,premier-league
-Fulham FC,Adam Watts,20,England,Defender,Defender,£45k,Northampton Town,England,Loan,Out,2008,w,premier-league
+Fulham FC,Andranik Teymourian,25,Iran,Defensive Midfield,DM,£450Th.,Barnsley FC,England,Loan,Out,2008,w,premier-league
+Fulham FC,Adam Watts,20,England,Defender,Defender,£45Th.,Northampton Town,England,Loan,Out,2008,w,premier-league
 Fulham FC,Ki-hyeon Seol,29,"Korea, South",Right Winger,RW,£1.08m,Al-Hilal Riyadh,Saudi Arabia,Loan,Out,2008,w,premier-league
-Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£135k,Leicester City,England,Loan,Out,2008,w,premier-league
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£135Th.,Leicester City,England,Loan,Out,2008,w,premier-league
 Fulham FC,Hameur Bouazza,23,Algeria,Right Winger,RW,£1.58m,Birmingham City,England,Loan,Out,2008,w,premier-league
-Fulham FC,Adrian Leijer,22,Australia,Centre-Back,CB,£450k,Norwich City,England,Loan,Out,2008,w,premier-league
-Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£90k,Rotherham United,England,Loan,Out,2008,w,premier-league
-Fulham FC,Rob Milsom,21,England,Central Midfield,CM,£45k,Southend United,England,Loan,Out,2008,w,premier-league
-West Bromwich Albion,Bartosz Slusarski,27,Poland,Centre-Forward,CF,£675k,Cracovia ,Poland,£225k,Out,2008,w,premier-league
-West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£360k,Northampton Town,England,Loan,Out,2008,w,premier-league
+Fulham FC,Adrian Leijer,22,Australia,Centre-Back,CB,£450Th.,Norwich City,England,Loan,Out,2008,w,premier-league
+Fulham FC,David Stockdale,23,England,Goalkeeper,GK,£90Th.,Rotherham United,England,Loan,Out,2008,w,premier-league
+Fulham FC,Rob Milsom,21,England,Central Midfield,CM,£45Th.,Southend United,England,Loan,Out,2008,w,premier-league
+West Bromwich Albion,Bartosz Slusarski,27,Poland,Centre-Forward,CF,£675Th.,Cracovia ,Poland,£225Th.,Out,2008,w,premier-league
+West Bromwich Albion,Jared Hodgkiss,22,England,Right-Back,RB,£360Th.,Northampton Town,England,Loan,Out,2008,w,premier-league
 West Bromwich Albion,Craig Beattie,25,Scotland,Centre-Forward,CF,£2.03m,Sheffield United,England,Loan,Out,2008,w,premier-league
-West Bromwich Albion,Bartosz Slusarski,26,Poland,Centre-Forward,CF,£810k,Sheffield Wednesday,England,Loan,Out,2008,w,premier-league
-West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270k,Doncaster Rovers,England,Loan,Out,2008,w,premier-league
-West Bromwich Albion,Sherjill MacDonald,24,Netherlands,Centre-Forward,CF,£360k,KSV Roeselare,Belgium,Loan,Out,2008,w,premier-league
-Stoke City,Demar Phillips,25,Jamaica,Left-Back,LB,£225k,Aalesunds FK,Norway,£315k,Out,2008,w,premier-league
-Stoke City,Ritchie De Laet,20,Belgium,Right-Back,RB,£270k,Manchester United,England,£225k,Out,2008,w,premier-league
-Stoke City,Lewis Buxton,24,England,Right-Back,RB,£360k,Sheffield Wednesday,England,£90k,Out,2008,w,premier-league
-Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45k,Stafford Rangers,England,Loan,Out,2008,w,premier-league
-Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,£45k,Bristol Rovers,England,Loan,Out,2008,w,premier-league
-Stoke City,Carl Dickinson,21,England,Left-Back,LB,£900k,Leeds United,England,Loan,Out,2008,w,premier-league
-Stoke City,Andrew Davies,24,England,Centre-Back,CB,£900k,Preston North End,England,Loan,Out,2008,w,premier-league
+West Bromwich Albion,Bartosz Slusarski,26,Poland,Centre-Forward,CF,£810Th.,Sheffield Wednesday,England,Loan,Out,2008,w,premier-league
+West Bromwich Albion,Shelton Martis,25,Curacao,Centre-Back,CB,£270Th.,Doncaster Rovers,England,Loan,Out,2008,w,premier-league
+West Bromwich Albion,Sherjill MacDonald,24,Netherlands,Centre-Forward,CF,£360Th.,KSV Roeselare,Belgium,Loan,Out,2008,w,premier-league
+Stoke City,Demar Phillips,25,Jamaica,Left-Back,LB,£225Th.,Aalesunds FK,Norway,£315Th.,Out,2008,w,premier-league
+Stoke City,Ritchie De Laet,20,Belgium,Right-Back,RB,£270Th.,Manchester United,England,£225Th.,Out,2008,w,premier-league
+Stoke City,Lewis Buxton,24,England,Right-Back,RB,£360Th.,Sheffield Wednesday,England,£90Th.,Out,2008,w,premier-league
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45Th.,Stafford Rangers,England,Loan,Out,2008,w,premier-league
+Stoke City,Danzelle St Louis-Hamilton,18,England,Goalkeeper,GK,£45Th.,Bristol Rovers,England,Loan,Out,2008,w,premier-league
+Stoke City,Carl Dickinson,21,England,Left-Back,LB,£900Th.,Leeds United,England,Loan,Out,2008,w,premier-league
+Stoke City,Andrew Davies,24,England,Centre-Back,CB,£900Th.,Preston North End,England,Loan,Out,2008,w,premier-league
 Stoke City,Dave Kitson,29,England,Centre-Forward,CF,£3.15m,Reading FC,England,Loan,Out,2008,w,premier-league
-Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45k,Burscough FC,England,Loan,Out,2008,w,premier-league
+Stoke City,Tom Thorley,18,England,Central Midfield,CM,£45Th.,Burscough FC,England,Loan,Out,2008,w,premier-league
 Stoke City,Tom Soares,22,England,Central Midfield,CM,£1.26m,Charlton Athletic,England,Loan,Out,2008,w,premier-league
-Stoke City,Vincent Péricard,26,France,Centre-Forward,CF,£360k,Millwall FC,England,Loan,Out,2008,w,premier-league
-Stoke City,Ritchie De Laet,19,Belgium,Right-Back,RB,£270k,Wrexham AFC,Wales,Loan,Out,2008,w,premier-league
-Hull City,Dean Windass,39,England,Centre-Forward,CF,£900k,Oldham Athletic,England,Loan,Out,2008,w,premier-league
-Hull City,Wayne Brown,31,England,Centre-Back,CB,£900k,Leicester City,England,Free transfer,Out,2008,w,premier-league
-Hull City,John Welsh,25,England,Central Midfield,CM,£225k,Bury FC,England,Loan,Out,2008,w,premier-league
-Hull City,Stelios Giannakopoulos,34,Greece,Right Winger,RW,£720k,AE Larisa,Greece,Free transfer,Out,2008,w,premier-league
-Hull City,James Bennett,20,England,Central Midfield,CM,£45k,Lincoln City,England,Loan,Out,2008,w,premier-league
-Hull City,John Welsh,24,England,Central Midfield,CM,£225k,Carlisle United,England,Loan,Out,2008,w,premier-league
-Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£270k,Leicester City,England,Loan,Out,2008,w,premier-league
+Stoke City,Vincent Péricard,26,France,Centre-Forward,CF,£360Th.,Millwall FC,England,Loan,Out,2008,w,premier-league
+Stoke City,Ritchie De Laet,19,Belgium,Right-Back,RB,£270Th.,Wrexham AFC,Wales,Loan,Out,2008,w,premier-league
+Hull City,Dean Windass,39,England,Centre-Forward,CF,£900Th.,Oldham Athletic,England,Loan,Out,2008,w,premier-league
+Hull City,Wayne Brown,31,England,Centre-Back,CB,£900Th.,Leicester City,England,Free transfer,Out,2008,w,premier-league
+Hull City,John Welsh,25,England,Central Midfield,CM,£225Th.,Bury FC,England,Loan,Out,2008,w,premier-league
+Hull City,Stelios Giannakopoulos,34,Greece,Right Winger,RW,£720Th.,AE Larisa,Greece,Free transfer,Out,2008,w,premier-league
+Hull City,James Bennett,20,England,Central Midfield,CM,£45Th.,Lincoln City,England,Loan,Out,2008,w,premier-league
+Hull City,John Welsh,24,England,Central Midfield,CM,£225Th.,Carlisle United,England,Loan,Out,2008,w,premier-league
+Hull City,Tony Warner,34,Trinidad and Tobago,Goalkeeper,GK,£270Th.,Leicester City,England,Loan,Out,2008,w,premier-league
 Hull City,Wayne Brown,31,England,Centre-Back,CB,£1.62m,Preston North End,England,Loan,Out,2008,w,premier-league
-Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810k,BSC Young Boys,Switzerland,"End of loanDec 1, 2008",Out,2008,w,premier-league
+Hull City,Kamil Zayatte,23,Guinea,Centre-Back,CB,£810Th.,BSC Young Boys,Switzerland,"End of loanDec 1, 2008",Out,2008,w,premier-league
 Hull City,Paul McShane,23,Ireland,Centre-Back,CB,£2.70m,Sunderland AFC,England,"End of loanJan 15, 2009",Out,2008,w,premier-league
 Hull City,Marlon King,28,Jamaica,Centre-Forward,CF,£2.70m,Wigan Athletic,England,"End of loanDec 31, 2008",Out,2008,w,premier-league

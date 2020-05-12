@@ -1,0 +1,582 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+Milan AC,Ibrahim Bá,23,France,Right Midfield,RM,-,FC Girondins Bordeaux,France,£10.80m,In,1997,s,serie-a
+Milan AC,Leonardo,27,Brazil,Attacking Midfield,AM,-,Paris Saint-Germain,France,£7.65m,In,1997,s,serie-a
+Milan AC,Christian Ziege,25,Germany,Left Midfield,LM,-,Bayern Munich,Germany,£4.61m,In,1997,s,serie-a
+Milan AC,Andreas Andersson,23,Sweden,Centre-Forward,CF,-,IFK Göteborg,Sweden,£3.15m,In,1997,s,serie-a
+Milan AC,André Cruz,28,Brazil,Centre-Back,CB,-,SSC Napoli,Italy,£2.70m,In,1997,s,serie-a
+Milan AC,Patrick Kluivert,21,Netherlands,Centre-Forward,CF,-,Ajax Amsterdam,Netherlands,£1.80m,In,1997,s,serie-a
+Milan AC,Steinar Nilsen,25,Norway,Centre-Back,CB,-,Tromsø IL,Norway,£900Th.,In,1997,s,serie-a
+Milan AC,Dario Smoje,18,Croatia,Centre-Back,CB,-,HNK Rijeka,Croatia,£720Th.,In,1997,s,serie-a
+Milan AC,Massimo Taibi,27,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,£585Th.,In,1997,s,serie-a
+Milan AC,Roberto Donadoni,33,Italy,Right Midfield,RM,-,MetroStars,United States,Free transfer,In,1997,s,serie-a
+Milan AC,Giampiero Maini,25,Italy,Defensive Midfield,DM,-,Vicenza Calcio,Italy,?,In,1997,s,serie-a
+Milan AC,Marco Bonura,17,Italy,Central Midfield,CM,-,Calcio Monza,Italy,?,In,1997,s,serie-a
+Milan AC,Francesco Moriero,28,Italy,Right Winger,RW,-,AS Roma,Italy,?,In,1997,s,serie-a
+Milan AC,Samir Beloufa,17,Algeria,Centre-Back,CB,-,AS Cannes,France,?,In,1997,s,serie-a
+Milan AC,Winston Bogarde,26,Netherlands,Centre-Back,CB,-,Ajax Amsterdam,Netherlands,?,In,1997,s,serie-a
+Milan AC,Simone Braglia,34,Italy,Goalkeeper,GK,-,AS Lucchese Libertas,Italy,?,In,1997,s,serie-a
+Milan AC,Giuseppe Cardone,23,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1997,s,serie-a
+Milan AC,Marcello Campolonghi,22,Italy,Second Striker,SS,-,Brescia Calcio,Italy,?,In,1997,s,serie-a
+Milan AC,Massimo Maccarone,18,Italy,Centre-Forward,CF,-,Milan Primavera,Italy,-,In,1997,s,serie-a
+Milan AC,Matteo Pelatti,19,Italy,Centre-Forward,CF,-,Milan Primavera,Italy,-,In,1997,s,serie-a
+Milan AC,Daniele Daino,17,Italy,Right-Back,RB,-,Milan Primavera,Italy,-,In,1997,s,serie-a
+Milan AC,Roberto De Zerbi,18,Italy,Attacking Midfield,AM,-,Milan Primavera,Italy,-,In,1997,s,serie-a
+AS Roma,Cafú,27,Brazil,Right-Back,RB,-,Sociedade Esportiva Palmeiras,Brazil,£6.84m,In,1997,s,serie-a
+AS Roma,Vágner,24,Brazil,Defensive Midfield,DM,-,Santos FC,Brazil,£4.50m,In,1997,s,serie-a
+AS Roma,Paulo Sérgio,28,Brazil,Left Winger,LW,-,Bayer 04 Leverkusen,Germany,£3.15m,In,1997,s,serie-a
+AS Roma,César Gómez,29,Spain,Centre-Back,CB,-,CD Tenerife,Spain,£3.15m,In,1997,s,serie-a
+AS Roma,Antonio Chimenti,27,Italy,Goalkeeper,GK,-,US Salernitana,Italy,£1.39m,In,1997,s,serie-a
+AS Roma,Giorgio Lucenti,21,Italy,Right-Back,RB,-,US Palermo,Italy,£900Th.,In,1997,s,serie-a
+AS Roma,Iván Helguera,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,£180Th.,In,1997,s,serie-a
+AS Roma,Michael Konsel,35,Austria,Goalkeeper,GK,-,Rapid Vienna,Austria,Free transfer,In,1997,s,serie-a
+AS Roma,Cristiano Scapolo,26,Italy,Attacking Midfield,AM,-,Bologna FC 1909,Italy,?,In,1997,s,serie-a
+AS Roma,Carmine Gautieri,26,Italy,Right Winger,RW,-,AC Perugia,Italy,?,In,1997,s,serie-a
+AS Roma,Filippo Dal Moro,26,Italy,Left-Back,LB,-,FC Empoli,Italy,?,In,1997,s,serie-a
+AS Roma,Eusebio Di Francesco,27,Italy,Central Midfield,CM,-,Piacenza FC,Italy,?,In,1997,s,serie-a
+AS Roma,Giorgio Sterchele,27,Italy,Goalkeeper,GK,-,Cagliari Calcio,Italy,?,In,1997,s,serie-a
+AS Roma,Andrea Campagnolo,19,Italy,Goalkeeper,GK,-,AS Cittadella,Italy,?,In,1997,s,serie-a
+AS Roma,Cristian Servidei,24,Italy,Centre-Back,CB,-,US Lecce,Italy,?,In,1997,s,serie-a
+AS Roma,Francesco Colonnese,25,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,In,1997,s,serie-a
+AS Roma,Stefano Fanucci,18,Italy,Centre-Back,CB,-,Roma Primavera,Italy,-,In,1997,s,serie-a
+AS Roma,Manuele Blasi,16,Italy,Central Midfield,CM,-,Roma Primavera,Italy,-,In,1997,s,serie-a
+AS Roma,Andrea Conti,19,Italy,Right Winger,RW,-,Roma Primavera,Italy,-,In,1997,s,serie-a
+AS Roma,Daniele De Vezze,17,Italy,Central Midfield,CM,-,Roma Primavera,Italy,-,In,1997,s,serie-a
+FC Internazionale,Ronaldo,20,Brazil,Centre-Forward,CF,-,FC Barcelona,Spain,£25.20m,In,1997,s,serie-a
+FC Internazionale,Álvaro Recoba,21,Uruguay,Second Striker,SS,-,Club Nacional,Uruguay,£15.30m,In,1997,s,serie-a
+FC Internazionale,Zé Elias,20,Brazil,Central Midfield,CM,-,Bayer 04 Leverkusen,Germany,£5.04m,In,1997,s,serie-a
+FC Internazionale,Benoît Cauet,28,France,Central Midfield,CM,-,Paris Saint-Germain,France,£3.60m,In,1997,s,serie-a
+FC Internazionale,Taribo West,23,Nigeria,Left-Back,LB,-,AJ Auxerre,France,£2.70m,In,1997,s,serie-a
+FC Internazionale,Luigi Sartor,22,Italy,Right-Back,RB,-,Vicenza Calcio,Italy,£1.80m,In,1997,s,serie-a
+FC Internazionale,Francesco Moriero,28,Italy,Right Winger,RW,-,Milan AC,Italy,£450,In,1997,s,serie-a
+FC Internazionale,Luca Mezzano,19,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,In,1997,s,serie-a
+FC Internazionale,Matteo Ferrari,17,Italy,Centre-Back,CB,-,Inter Milan Primavera,Italy,-,In,1997,s,serie-a
+FC Internazionale,Andrea Polizzano,18,Italy,Defender,Defender,-,Inter Milan Primavera,Italy,-,In,1997,s,serie-a
+AC Parma,Jesper Blomqvist,23,Sweden,Left Midfield,LM,-,Milan AC,Italy,£4.50m,In,1997,s,serie-a
+AC Parma,Adaílton,20,Brazil,Second Striker,SS,-,Guarani Futebol Clube (SP),Brazil,£1.35m,In,1997,s,serie-a
+AC Parma,Matteo Guardalben,23,Italy,Goalkeeper,GK,-,Hellas Verona,Italy,£900Th.,In,1997,s,serie-a
+AC Parma,Stefano Fiore,22,Italy,Attacking Midfield,AM,-,Chievo Verona,Italy,£900Th.,In,1997,s,serie-a
+AC Parma,Mauro Milanese,25,Italy,Left-Back,LB,-,SSC Napoli,Italy,£540Th.,In,1997,s,serie-a
+AC Parma,Federico Giunti,25,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,£360Th.,In,1997,s,serie-a
+AC Parma,Pierluigi Orlandini,24,Italy,Right Midfield,RM,-,Hellas Verona,Italy,?,In,1997,s,serie-a
+AC Parma,Filippo Maniero,24,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,?,In,1997,s,serie-a
+AC Parma,Armando Tuani,19,Italy,Goalkeeper,GK,-,FBC Saronno 1910,Italy,?,In,1997,s,serie-a
+AC Parma,Genny Del Prete,17,Italy,Centre-Forward,CF,-,AS Fidelis Andria,Italy,Loan,In,1997,s,serie-a
+AS Bari,Gianluca Zambrotta,20,Italy,Right-Back,RB,-,Como Calcio,Italy,Free transfer,In,1997,s,serie-a
+AS Bari,Mauro Bressan,26,Italy,Defensive Midfield,DM,-,Cagliari Calcio,Italy,?,In,1997,s,serie-a
+AS Bari,Gaetano De Rosa,24,Italy,Centre-Back,CB,-,AC Savoia 1908,Italy,?,In,1997,s,serie-a
+AS Bari,Michele Marcolini,21,Italy,Central Midfield,CM,-,AS Sora Calcio,Italy,?,In,1997,s,serie-a
+AS Bari,Francesco Mancini,28,Italy,Goalkeeper,GK,-,Foggia Calcio,Italy,?,In,1997,s,serie-a
+AS Bari,Carlo Sassarini,25,Italy,Left-Back,LB,-,Como Calcio,Italy,?,In,1997,s,serie-a
+AS Bari,Gianluca Sordo,27,Italy,Right Midfield,RM,-,AC Reggiana,Italy,?,In,1997,s,serie-a
+AS Bari,Paolo Giometti,19,Italy,Forward,Forward,-,Rimini FC,Italy,?,In,1997,s,serie-a
+AS Bari,Philemon Masinga,28,South Africa,Centre-Forward,CF,-,US Salernitana,Italy,?,In,1997,s,serie-a
+SS Lazio,Vladimir Jugovic,27,Serbia,Left Midfield,LM,-,Juventus FC,Italy,£3.60m,In,1997,s,serie-a
+SS Lazio,Roberto Mancini,32,Italy,Second Striker,SS,-,UC Sampdoria,Italy,£3.60m,In,1997,s,serie-a
+SS Lazio,Giuseppe Pancaro,25,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,£1.08m,In,1997,s,serie-a
+SS Lazio,Alen Boksic,27,Croatia,Centre-Forward,CF,-,Juventus FC,Italy,£990Th.,In,1997,s,serie-a
+SS Lazio,Marco Ballotta,33,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,£900Th.,In,1997,s,serie-a
+SS Lazio,Matías Almeyda,23,Argentina,Defensive Midfield,DM,-,Sevilla FC,Spain,£765Th.,In,1997,s,serie-a
+SS Lazio,Giovanni Lopez,30,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Johan Walem,25,Belgium,Left Midfield,LM,-,RSC Anderlecht,Belgium,£4.05m,In,1997,s,serie-a
+Udinese Calcio,Stephen Appiah,16,Ghana,Defensive Midfield,DM,-,Hearts of Oak,Ghana,Free transfer,In,1997,s,serie-a
+Udinese Calcio,Martin Jörgensen,21,Denmark,Central Midfield,CM,-,Aarhus GF,Denmark,?,In,1997,s,serie-a
+Udinese Calcio,Marco Zanchi,20,Italy,Centre-Back,CB,-,Atalanta BC,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Maurizio Bedin,18,Italy,Central Midfield,CM,-,Calcio Padova,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Joachim Fernandez,24,France,Defender,Defender,-,SM Caen,France,?,In,1997,s,serie-a
+Udinese Calcio,Adil Ramzi,19,Morocco,Left Midfield,LM,-,Kawkab Marrakech,Morocco,?,In,1997,s,serie-a
+Udinese Calcio,Elijah Louhenapessy,20,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,?,In,1997,s,serie-a
+Udinese Calcio,Vito Lasalandra,22,Italy,Right Midfield,RM,-,ASD Acireale Calcio,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Jonathan Bachini,22,Italy,Right Midfield,RM,-,US Lecce,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Ousmane Sanda Sanda,15,Cameroon,Midfielder,Midfielder,-,Cotonsport de Garoua,Cameroon,?,In,1997,s,serie-a
+Udinese Calcio,Francesco Statuto,26,Italy,Central Midfield,CM,-,AS Roma,Italy,?,In,1997,s,serie-a
+Udinese Calcio,Andrea Chiopris Gori,19,Italy,Right Midfield,RM,-,Udinese Primavera,Italy,-,In,1997,s,serie-a
+Udinese Calcio,Gilberto D'Ignazio Pulpito,28,Italy,Defender,Defender,-,Vicenza Calcio,Italy,,In,1997,s,serie-a
+AC Fiorentina,Domenico Morfeo,21,Italy,Attacking Midfield,AM,-,Atalanta BC,Italy,£6.93m,In,1997,s,serie-a
+AC Fiorentina,Stefano Bettarini,25,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,£1.35m,In,1997,s,serie-a
+AC Fiorentina,Davide Dionigi,23,Italy,Centre-Forward,CF,-,Reggina Calcio,Italy,?,In,1997,s,serie-a
+AC Fiorentina,Edmundo,26,Brazil,Second Striker,SS,-,Club de Regatas Vasco da Gama,Brazil,?,In,1997,s,serie-a
+AC Fiorentina,Valerio Fiori,28,Italy,Goalkeeper,GK,-,AC Cesena,Italy,?,In,1997,s,serie-a
+AC Fiorentina,Andrea Tarozzi,23,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1997,s,serie-a
+AC Fiorentina,Alessandro Agostini,17,Italy,Left-Back,LB,-,Fiorentina Primavera,Italy,-,In,1997,s,serie-a
+AC Fiorentina,Riccardo Taddei,16,Italy,Left Winger,LW,-,Fiorentina Primavera,Italy,-,In,1997,s,serie-a
+Juventus FC,Filippo Inzaghi,23,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,£10.69m,In,1997,s,serie-a
+Juventus FC,Fabio Pecchia,23,Italy,Right Midfield,RM,-,SSC Napoli,Italy,£4.65m,In,1997,s,serie-a
+Juventus FC,Marcelo Zalayeta,18,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,£2.32m,In,1997,s,serie-a
+Juventus FC,Morgan De Sanctis,20,Italy,Goalkeeper,GK,-,Delfino Pescara 1936,Italy,£675Th.,In,1997,s,serie-a
+Juventus FC,Marco Zamboni,19,Italy,Centre-Back,CB,-,Chievo Verona,Italy,?,In,1997,s,serie-a
+Juventus FC,Alessandro Birindelli,22,Italy,Right-Back,RB,-,FC Empoli,Italy,?,In,1997,s,serie-a
+Juventus FC,Edoardo Braiati,17,Italy,Central Midfield,CM,-,SP Ars et Labor,Italy,?,In,1997,s,serie-a
+Juventus FC,Stefano Sorrentino,18,Italy,Goalkeeper,GK,-,Lazio Primavera,Italy,?,In,1997,s,serie-a
+Juventus FC,Daniel Fonseca,27,Uruguay,Centre-Forward,CF,-,AS Roma,Italy,?,In,1997,s,serie-a
+FC Empoli,Miodrag Vukotic,23,Montenegro,Centre-Back,CB,-,Milan AC,Italy,Free transfer,In,1997,s,serie-a
+FC Empoli,Luca Bonfanti,21,Italy,Midfielder,Midfielder,-,Frosinone Calcio,Italy,?,In,1997,s,serie-a
+FC Empoli,Fabio Eduardo Cribari,22,Brazil,Defender,Defender,-,Londrina Esporte Clube (PR),Brazil,?,In,1997,s,serie-a
+FC Empoli,Max Tonetto,22,Italy,Left-Back,LB,-,AC Reggiana,Italy,?,In,1997,s,serie-a
+FC Empoli,Andrea Mussi,19,Italy,Centre-Forward,CF,-,Fiorentina Primavera,Italy,?,In,1997,s,serie-a
+FC Empoli,Pierpaolo Bisoli,30,Italy,Right Midfield,RM,-,Cagliari Calcio,Italy,?,In,1997,s,serie-a
+FC Empoli,Angelo Pagotto,23,Italy,Goalkeeper,GK,-,Milan AC,Italy,Loan,In,1997,s,serie-a
+FC Empoli,Luca Bonfanti,20,Italy,Midfielder,Midfielder,-,US Massese 1919,Italy,?,In,1997,s,serie-a
+FC Empoli,Pietro Fusco,25,Italy,Defender,Defender,-,ASD Castel di Sangro,Italy,?,In,1997,s,serie-a
+FC Empoli,Emanuele Masini,23,Italy,Defender,Defender,-,AC Arezzo,Italy,?,In,1997,s,serie-a
+FC Empoli,Matjaz Florjancic,29,Slovenia,Midfielder,Midfielder,-,Torino Calcio,Italy,?,In,1997,s,serie-a
+FC Empoli,Raffaele Ametrano,24,Italy,Right-Back,RB,-,Juventus FC,Italy,Loan,In,1997,s,serie-a
+FC Empoli,Giacomo Mazzi,18,Italy,Goalkeeper,GK,-,AC Siena,Italy,?,In,1997,s,serie-a
+FC Empoli,Antonio Arcadio,24,Italy,Right Winger,RW,-,AC Siena,Italy,?,In,1997,s,serie-a
+FC Empoli,Vincenzo Langone,18,Italy,Midfielder,Midfielder,-,ASD Rondinella Marzocco,Italy,?,In,1997,s,serie-a
+FC Empoli,Marco Pecorari,19,Italy,Centre-Back,CB,-,US Fiorenzuola 1922,Italy,?,In,1997,s,serie-a
+FC Empoli,Marco Roccati,22,Italy,Goalkeeper,GK,-,Ravenna FC,Italy,?,In,1997,s,serie-a
+FC Empoli,Francesco D'Aniello,17,Italy,Central Midfield,CM,-,Albanova Calcio,Italy,?,In,1997,s,serie-a
+FC Empoli,Fabio Artico,23,Italy,Centre-Forward,CF,-,US Pro Vercelli,Italy,?,In,1997,s,serie-a
+FC Empoli,Vittorio Pusceddu,33,Italy,Left-Back,LB,-,AC Fiorentina,Italy,?,In,1997,s,serie-a
+FC Empoli,Salvatore Mastronunzio,17,Italy,Centre-Forward,CF,-,Empoli Primavera,Italy,-,In,1997,s,serie-a
+Atalanta BC,Cristiano Lucarelli,21,Italy,Centre-Forward,CF,-,Calcio Padova,Italy,?,In,1997,s,serie-a
+Atalanta BC,Robert Englaro,27,Slovenia,Defender,Defender,-,Foggia Calcio,Italy,?,In,1997,s,serie-a
+Atalanta BC,Liam Ardigò,21,Italy,Goalkeeper,GK,-,Calcio Lecco 1912,Italy,?,In,1997,s,serie-a
+Atalanta BC,Ljubisa Dundjerski,25,Serbia,Midfielder,Midfielder,-,FK Vojvodina Novi Sad,Serbia,?,In,1997,s,serie-a
+Atalanta BC,Alberto Fontana,30,Italy,Goalkeeper,GK,-,AS Bari,Italy,?,In,1997,s,serie-a
+Atalanta BC,Massimo Orlando,26,Italy,Forward,Forward,-,AC Fiorentina,Italy,?,In,1997,s,serie-a
+Atalanta BC,Gianluca Gibellini,21,Italy,Centre-Back,CB,-,US Pistoiese 1921,Italy,?,In,1997,s,serie-a
+Atalanta BC,Gianpaolo Bellini,17,Italy,Left-Back,LB,-,Atalanta Primavera,Italy,-,In,1997,s,serie-a
+Atalanta BC,Cesare Natali,18,Italy,Centre-Back,CB,-,Atalanta Primavera,Italy,-,In,1997,s,serie-a
+Atalanta BC,Filippo Carobbio,17,Italy,Central Midfield,CM,-,Atalanta Primavera,Italy,-,In,1997,s,serie-a
+Atalanta BC,Vincenzo Mirabile,18,Italy,Midfielder,Midfielder,-,Atalanta Primavera,Italy,-,In,1997,s,serie-a
+Atalanta BC,Alex Pinardi,16,Italy,Defensive Midfield,DM,-,Atalanta Primavera,Italy,-,In,1997,s,serie-a
+US Lecce,Danny Dichio,22,England,Centre-Forward,CF,-,UC Sampdoria,Italy,Loan,In,1997,s,serie-a
+US Lecce,Raffaele Costantino,21,Italy,Forward,Forward,-,AC Juve Stabia,Italy,?,In,1997,s,serie-a
+US Lecce,Andrés Martínez,24,Uruguay,Central Midfield,CM,-,Defensor Sporting Club,Uruguay,?,In,1997,s,serie-a
+US Lecce,Dejan Govedarica,27,Serbia,Central Midfield,CM,-,FC Volendam,Netherlands,?,In,1997,s,serie-a
+US Lecce,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,US Cremonese,Italy,?,In,1997,s,serie-a
+US Lecce,Orazio Russo,23,Italy,Right Winger,RW,-,Calcio Catania,Italy,?,In,1997,s,serie-a
+US Lecce,Sergiy Atelkin,25,Ukraine,Centre-Forward,CF,-,Shakhtar Donetsk,Ukraine,?,In,1997,s,serie-a
+US Lecce,Paolo Annoni,27,Italy,Left-Back,LB,-,AS Bari,Italy,?,In,1997,s,serie-a
+US Lecce,Francesco De Francesco,19,Italy,Second Striker,SS,-,Milan AC,Italy,?,In,1997,s,serie-a
+US Lecce,Luigi Piangerelli,23,Italy,Defensive Midfield,DM,-,AC Cesena,Italy,?,In,1997,s,serie-a
+US Lecce,Jean-Pierre Cyprien,28,France,Centre-Back,CB,-,Neuchâtel Xamax,Switzerland,?,In,1997,s,serie-a
+US Lecce,Alessandro Conticchio,23,Italy,Central Midfield,CM,-,AS Gualdo Casacastalda,Italy,?,In,1997,s,serie-a
+US Lecce,Giuseppe Anastasi,23,Italy,Defender,Defender,-,Atletico Catania,Italy,?,In,1997,s,serie-a
+US Lecce,Giovanni Pittalis,26,Italy,Midfielder,Midfielder,-,Casarano Calcio,Italy,?,In,1997,s,serie-a
+US Lecce,Giuseppe Baronchelli,26,Italy,Centre-Back,CB,-,US Fiorenzuola 1922,Italy,?,In,1997,s,serie-a
+US Lecce,William Viali,22,Italy,Centre-Back,CB,-,Ascoli Calcio 1898,Italy,?,In,1997,s,serie-a
+US Lecce,Maurizio Rossi,27,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,In,1997,s,serie-a
+US Lecce,Michael Hatz,26,Austria,Centre-Back,CB,-,AC Reggiana,Italy,?,In,1997,s,serie-a
+US Lecce,Francesco Cozza,23,Italy,Attacking Midfield,AM,-,Milan AC,Italy,?,In,1997,s,serie-a
+US Lecce,Alessandro Quarta,20,Italy,Goalkeeper,GK,-,Lecce Primavera,Italy,-,In,1997,s,serie-a
+Bologna FC 1909,Roberto Baggio,30,Italy,Second Striker,SS,-,Milan AC,Italy,£1.62m,In,1997,s,serie-a
+Bologna FC 1909,Massimo Paganin,26,Italy,Centre-Back,CB,-,FC Internazionale,Italy,Free transfer,In,1997,s,serie-a
+Bologna FC 1909,Mohamed Kallon,17,Sierra Leone,Centre-Forward,CF,-,FC Lugano,Switzerland,?,In,1997,s,serie-a
+Bologna FC 1909,Paolo Cristallini,25,Italy,Attacking Midfield,AM,-,Torino Calcio,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Giovanni Dall'Igna,24,Italy,Right-Back,RB,-,US Cremonese,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Antonio Foschini,19,Italy,Right-Back,RB,-,Taranto FC 1927,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Giorgio Sterchele,27,Italy,Goalkeeper,GK,-,AS Roma,Italy,Loan,In,1997,s,serie-a
+Bologna FC 1909,Mauro Bonomi,24,Italy,Centre-Back,CB,-,AC Cesena,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Daniele Carnasciali,30,Italy,Right-Back,RB,-,AC Fiorentina,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Massimo Tarantino,26,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,In,1997,s,serie-a
+Bologna FC 1909,Andrea Ferrari,20,Italy,Goalkeeper,GK,-,Bologna Primavera,Italy,-,In,1997,s,serie-a
+Bologna FC 1909,Matteo Melara,17,Italy,Right-Back,RB,-,Bologna Primavera,Italy,-,In,1997,s,serie-a
+UC Sampdoria,Ángel Morales,22,Argentina,Attacking Midfield,AM,-,Club Atlético Independiente,Argentina,£3.60m,In,1997,s,serie-a
+UC Sampdoria,Jürgen Klinsmann,32,Germany,Centre-Forward,CF,-,Bayern Munich,Germany,Free transfer,In,1997,s,serie-a
+UC Sampdoria,Ángel Morales,23,Argentina,Attacking Midfield,AM,-,CP Mérida,Spain,?,In,1997,s,serie-a
+UC Sampdoria,Paco Soares,17,Brazil,Forward,Forward,-,CD Motagua Tegucigalpa,Honduras,?,In,1997,s,serie-a
+UC Sampdoria,Alessio Scarchilli,24,Italy,Attacking Midfield,AM,-,Torino Calcio,Italy,?,In,1997,s,serie-a
+UC Sampdoria,Marcello Castellini,24,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,1997,s,serie-a
+UC Sampdoria,Alain Boghossian,26,France,Central Midfield,CM,-,SSC Napoli,Italy,?,In,1997,s,serie-a
+UC Sampdoria,Andrea Pierotti,19,Italy,Centre-Forward,CF,-,Carrarese Calcio 1908,Italy,?,In,1997,s,serie-a
+UC Sampdoria,Marco Ambrosio,24,Italy,Goalkeeper,GK,-,AC Prato,Italy,?,In,1997,s,serie-a
+UC Sampdoria,Hugo,20,Portugal,Centre-Back,CB,-,SC Braga,Portugal,?,In,1997,s,serie-a
+UC Sampdoria,Stefano Nava,28,Italy,Centre-Back,CB,-,Servette FC,Switzerland,?,In,1997,s,serie-a
+UC Sampdoria,Giovanni Sannino,20,Italy,Goalkeeper,GK,-,Solbiatese Arno Calcio,Italy,?,In,1997,s,serie-a
+Piacenza FC,Renato Buso,27,Italy,Right Midfield,RM,-,SS Lazio,Italy,£698Th.,In,1997,s,serie-a
+Piacenza FC,Marco Piovanelli,23,Italy,Midfielder,Midfielder,-,SS Lazio,Italy,?,In,1997,s,serie-a
+Piacenza FC,Marco Rossi,32,Italy,Sweeper,SW,-,Eintracht Frankfurt,Germany,?,In,1997,s,serie-a
+Piacenza FC,Massimo Rastelli,28,Italy,Right Winger,RW,-,AS Lucchese Libertas,Italy,?,In,1997,s,serie-a
+Piacenza FC,Roberto Murgita,28,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,In,1997,s,serie-a
+Piacenza FC,Matteo Sereni,22,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,?,In,1997,s,serie-a
+Piacenza FC,Giovanni Stroppa,29,Italy,Attacking Midfield,AM,-,Udinese Calcio,Italy,?,In,1997,s,serie-a
+Piacenza FC,Pietro Vierchowod,38,Italy,Centre-Back,CB,-,Milan AC,Italy,?,In,1997,s,serie-a
+Piacenza FC,Roberto Bordin,32,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1997,s,serie-a
+Piacenza FC,Francesco Zerbini,17,Italy,Centre-Forward,CF,-,Piacenza Juniores,Italy,-,In,1997,s,serie-a
+Vicenza Calcio,Francesco Coco,20,Italy,Left-Back,LB,-,Milan AC,Italy,Loan fee:£675Th.,In,1997,s,serie-a
+Vicenza Calcio,Lamberto Zauli,25,Italy,Attacking Midfield,AM,-,Ravenna FC,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Giacomo Dicara,27,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Roberto Baronio,19,Italy,Defensive Midfield,DM,-,SS Lazio,Italy,Loan,In,1997,s,serie-a
+Vicenza Calcio,Massimo Ambrosini,20,Italy,Central Midfield,CM,-,Milan AC,Italy,Loan,In,1997,s,serie-a
+Vicenza Calcio,Marco Schenardi,29,Italy,Right Midfield,RM,-,Bologna FC 1909,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Lorenzo Stovini,20,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Arturo Di Napoli,23,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Pasquale Luiso,27,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,?,In,1997,s,serie-a
+Vicenza Calcio,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,US Lecce,Italy,Loan,In,1997,s,serie-a
+Vicenza Calcio,Roberto Verdi,20,Italy,Goalkeeper,GK,-,Vicenza Primavera,Italy,-,In,1997,s,serie-a
+SSC Napoli,José Luis Calderón,26,Argentina,Centre-Forward,CF,-,Club Atlético Independiente,Argentina,£3.49m,In,1997,s,serie-a
+SSC Napoli,Aljosa Asanovic,31,Croatia,Central Midfield,CM,-,Derby County,England,?,In,1997,s,serie-a
+SSC Napoli,Massimiliano Allegri,29,Italy,Central Midfield,CM,-,Calcio Padova,Italy,?,In,1997,s,serie-a
+SSC Napoli,Mauro Facci,25,Italy,Centre-Back,CB,-,US Salernitana,Italy,?,In,1997,s,serie-a
+SSC Napoli,Reynald Pedros,25,France,Left Midfield,LM,-,AC Parma,Italy,Loan,In,1997,s,serie-a
+SSC Napoli,Fabio Rossitto,25,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,In,1997,s,serie-a
+SSC Napoli,Giuseppe Giannini,32,Italy,Attacking Midfield,AM,-,SK Sturm Graz,Austria,?,In,1997,s,serie-a
+SSC Napoli,Claudio Bellucci,22,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,In,1997,s,serie-a
+SSC Napoli,Igor Protti,29,Italy,Centre-Forward,CF,-,SS Lazio,Italy,?,In,1997,s,serie-a
+SSC Napoli,Raffaele Sergio,30,Italy,Left-Back,LB,-,Udinese Calcio,Italy,?,In,1997,s,serie-a
+SSC Napoli,Marco Zamboni,19,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,1997,s,serie-a
+SSC Napoli,Roberto Goretti,21,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,?,In,1997,s,serie-a
+SSC Napoli,Guglielmo Stendardo,16,Italy,Centre-Back,CB,-,Napoli Primavera ,Italy,-,In,1997,s,serie-a
+SSC Napoli,Luigi Malafronte,18,Italy,Centre-Back,CB,-,Napoli Primavera ,Italy,-,In,1997,s,serie-a
+SSC Napoli,Salvatore Bruno,17,Italy,Centre-Forward,CF,-,Napoli Primavera ,Italy,-,In,1997,s,serie-a
+Brescia Calcio,Dario Hübner,30,Italy,Centre-Forward,CF,-,AC Cesena,Italy,Free transfer,In,1997,s,serie-a
+Brescia Calcio,Tal Banin,26,Israel,Defensive Midfield,DM,-,Hapoel Haifa,Israel,?,In,1997,s,serie-a
+Brescia Calcio,Marek Koźmiński,26,Poland,Left-Back,LB,-,Udinese Calcio,Italy,?,In,1997,s,serie-a
+Brescia Calcio,Ovidiu Sabau,29,Romania,Central Midfield,CM,-,AC Reggiana,Italy,?,In,1997,s,serie-a
+Brescia Calcio,Salvatore Bacci,32,Italy,Midfielder,Midfielder,-,Ravenna FC,Italy,?,In,1997,s,serie-a
+Brescia Calcio,Giovanni Cervone,34,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,In,1997,s,serie-a
+Brescia Calcio,Antonio Criniti,26,Italy,Forward,Forward,-,Reggina Calcio,Italy,?,In,1997,s,serie-a
+Brescia Calcio,Massimiliano Caputo,16,Italy,Left Winger,LW,-,Brescia Primavera,Italy,-,In,1997,s,serie-a
+Brescia Calcio,Ivan Javorcic,18,Croatia,Defensive Midfield,DM,-,Brescia Primavera,Italy,-,In,1997,s,serie-a
+Milan AC,Michael Reiziger,24,Netherlands,Right-Back,RB,-,FC Barcelona,Spain,£7.20m,Out,1997,s,serie-a
+Milan AC,Jesper Blomqvist,23,Sweden,Left Midfield,LM,-,AC Parma,Italy,£4.50m,Out,1997,s,serie-a
+Milan AC,Christophe Dugarry,25,France,Centre-Forward,CF,-,FC Barcelona,Spain,£3.60m,Out,1997,s,serie-a
+Milan AC,Roberto Baggio,30,Italy,Second Striker,SS,-,Bologna FC 1909,Italy,£1.62m,Out,1997,s,serie-a
+Milan AC,Marco Simone,28,Italy,Centre-Forward,CF,-,Paris Saint-Germain,France,£900Th.,Out,1997,s,serie-a
+Milan AC,Francesco Coco,20,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,Loan fee:£675Th.,Out,1997,s,serie-a
+Milan AC,Miodrag Vukotic,23,Montenegro,Centre-Back,CB,-,FC Empoli,Italy,Free transfer,Out,1997,s,serie-a
+Milan AC,Cristian Brocchi,21,Italy,Central Midfield,CM,-,AC Lumezzane,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Zizi Roberts,18,Liberia,Centre-Forward,CF,-,Calcio Monza,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Massimo Oddo,21,Italy,Right-Back,RB,-,Calcio Lecco 1912,Italy,Loan fee:£41Th.,Out,1997,s,serie-a
+Milan AC,Francesco Moriero,28,Italy,Right Winger,RW,-,FC Internazionale,Italy,£450,Out,1997,s,serie-a
+Milan AC,Angelo Pagotto,23,Italy,Goalkeeper,GK,-,FC Empoli,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Vincenzo Maiolo,18,Italy,Forward,Forward,-,AC Pro Sesto,Italy,?,Out,1997,s,serie-a
+Milan AC,Roberto Colombo,21,Italy,Goalkeeper,GK,-,Solbiatese Arno Calcio,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Francesco Cozza,23,Italy,Attacking Midfield,AM,-,US Lecce,Italy,?,Out,1997,s,serie-a
+Milan AC,Stefano Eranio,30,Italy,Right Midfield,RM,-,Derby County,England,?,Out,1997,s,serie-a
+Milan AC,Francesco De Francesco,19,Italy,Second Striker,SS,-,US Lecce,Italy,?,Out,1997,s,serie-a
+Milan AC,Gabriele Aldegani,21,Italy,Goalkeeper,GK,-,AC Prato,Italy,?,Out,1997,s,serie-a
+Milan AC,Pietro Vierchowod,38,Italy,Centre-Back,CB,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+Milan AC,Matteo Placida,18,Italy,Defender,Defender,-,Calcio Monza,Italy,?,Out,1997,s,serie-a
+Milan AC,Marcello Campolonghi,22,Italy,Second Striker,SS,-,Calcio Monza,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Massimo Ambrosini,20,Italy,Central Midfield,CM,-,Vicenza Calcio,Italy,Loan,Out,1997,s,serie-a
+Milan AC,Franco Baresi,37,Italy,Sweeper,SW,-,,Retired,-,Out,1997,s,serie-a
+Milan AC,Mauro Tassotti,37,Italy,Right-Back,RB,-,,Retired,-,Out,1997,s,serie-a
+AS Roma,Amedeo Carboni,32,Italy,Left-Back,LB,-,Valencia CF,Spain,£3.60m,Out,1997,s,serie-a
+AS Roma,Martin Dahlin,29,Sweden,Centre-Forward,CF,-,Blackburn Rovers,England,£2.70m,Out,1997,s,serie-a
+AS Roma,Gianluca Berti,30,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,Free transfer,Out,1997,s,serie-a
+AS Roma,Giampaolo Di Magno,23,Italy,Goalkeeper,GK,-,AC Carpi,Italy,?,Out,1997,s,serie-a
+AS Roma,Antonino Bernardini,23,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,?,Out,1997,s,serie-a
+AS Roma,Jonas Thern,30,Sweden,Central Midfield,CM,-,Rangers FC,Scotland,?,Out,1997,s,serie-a
+AS Roma,Daniel Fonseca,27,Uruguay,Centre-Forward,CF,-,Juventus FC,Italy,?,Out,1997,s,serie-a
+AS Roma,Giovanni Cervone,34,Italy,Goalkeeper,GK,-,Brescia Calcio,Italy,?,Out,1997,s,serie-a
+AS Roma,Lorenzo Stovini,20,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,Out,1997,s,serie-a
+AS Roma,Giorgio Sterchele,27,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,Loan,Out,1997,s,serie-a
+AS Roma,Francesco Moriero,28,Italy,Right Winger,RW,-,Milan AC,Italy,?,Out,1997,s,serie-a
+AS Roma,Marco Lanna,28,Italy,Centre-Back,CB,-,UD Salamanca,Spain,?,Out,1997,s,serie-a
+AS Roma,Francesco Statuto,26,Italy,Central Midfield,CM,-,Udinese Calcio,Italy,?,Out,1997,s,serie-a
+AS Roma,Andrea Conti,19,Italy,Right Winger,RW,-,AC Carpi,Italy,?,Out,1997,s,serie-a
+AS Roma,Enrico Annoni,30,Italy,Right-Back,RB,-,Celtic FC,Scotland,?,Out,1997,s,serie-a
+FC Internazionale,Alessandro Pistone,21,Italy,Left-Back,LB,-,Newcastle United,England,£5.85m,Out,1997,s,serie-a
+FC Internazionale,Paul Ince,29,England,Defensive Midfield,DM,-,Liverpool FC,England,£5.67m,Out,1997,s,serie-a
+FC Internazionale,Ciriaco Sforza,27,Switzerland,Central Midfield,CM,-,1.FC Kaiserslautern,Germany,£2.97m,Out,1997,s,serie-a
+FC Internazionale,Jocelyn Angloma,31,Guadeloupe,Right-Back,RB,-,Valencia CF,Spain,£1.08m,Out,1997,s,serie-a
+FC Internazionale,Massimo Paganin,26,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,Free transfer,Out,1997,s,serie-a
+FC Internazionale,Armando Pantanelli,26,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,?,Out,1997,s,serie-a
+FC Internazionale,Massimo Tarantino,26,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1997,s,serie-a
+FC Internazionale,Matteo Ferrari,17,Italy,Centre-Back,CB,-,Genoa 1893,Italy,Loan,Out,1997,s,serie-a
+FC Internazionale,Arturo Di Napoli,23,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1997,s,serie-a
+FC Internazionale,Sergio D'Autilia,19,Italy,Central Midfield,CM,-,Foggia Calcio,Italy,?,Out,1997,s,serie-a
+FC Internazionale,Paolo Orlandoni,24,Italy,Goalkeeper,GK,-,ASD Acireale Calcio,Italy,?,Out,1997,s,serie-a
+FC Internazionale,Gianluca Festa,28,Italy,Right-Back,RB,-,Middlesbrough FC,England,?,Out,1997,s,serie-a
+FC Internazionale,Misha Djorkaeff,23,France,Midfielder,Midfielder,-,Etoile Carouge FC,Switzerland,Loan,Out,1997,s,serie-a
+AC Parma,Amaral,24,Brazil,Defensive Midfield,DM,-,SL Benfica,Portugal,£3.15m,Out,1997,s,serie-a
+AC Parma,Tomas Brolin,27,Sweden,Centre-Forward,CF,-,Hudiksvalls FF,Sweden,?,Out,1997,s,serie-a
+AC Parma,Mario Massimo Caruso,27,Italy,Attacking Midfield,AM,-,Ascoli Calcio 1898,Italy,?,Out,1997,s,serie-a
+AC Parma,Reynald Pedros,25,France,Left Midfield,LM,-,SSC Napoli,Italy,Loan,Out,1997,s,serie-a
+AC Parma,Daniel Bravo,34,France,Defensive Midfield,DM,-,Olympique Lyon,France,?,Out,1997,s,serie-a
+AC Parma,Gianluca Triuzzi,18,Italy,Centre-Forward,CF,-,US Palermo,Italy,?,Out,1997,s,serie-a
+AC Parma,Luca Pinton,19,Italy,Defender,Defender,-,AC Prato,Italy,?,Out,1997,s,serie-a
+AC Parma,Alessio Sarti,17,Italy,Goalkeeper,GK,-,AC Prato,Italy,?,Out,1997,s,serie-a
+AC Parma,Alessandro Melli,27,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1997,s,serie-a
+AC Parma,Mauro Ghillani,19,Italy,Forward,Forward,-,AS Ischia Isolaverde,Italy,-,Out,1997,s,serie-a
+AS Bari,Alberto Fontana,30,Italy,Goalkeeper,GK,-,Atalanta BC,Italy,?,Out,1997,s,serie-a
+AS Bari,Giuseppe Alberga,30,Italy,Goalkeeper,GK,-,Taranto FC 1927,Italy,?,Out,1997,s,serie-a
+AS Bari,Danilo Macera,19,Italy,Defender,Defender,-,Real Giulianova SSD,Italy,?,Out,1997,s,serie-a
+AS Bari,Paolo Annoni,27,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1997,s,serie-a
+AS Bari,Omar Lepri,20,Italy,Defender,Defender,-,SEF Tempio Pausania,Italy,?,Out,1997,s,serie-a
+AS Bari,Antonio Bellavista,19,Italy,Defensive Midfield,DM,-,Real Giulianova SSD,Italy,?,Out,1997,s,serie-a
+AS Bari,Marcello Montanari,31,Italy,Sweeper,SW,-,AS Lucchese Libertas,Italy,?,Out,1997,s,serie-a
+AS Bari,Francesco Flachi,22,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+AS Bari,Marco Di Vaio,20,Italy,Centre-Forward,CF,-,SS Lazio,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+AS Bari,Marco Zanchi,20,Italy,Centre-Back,CB,-,Atalanta BC,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+SS Lazio,Marco Di Vaio,20,Italy,Centre-Forward,CF,-,US Salernitana,Italy,£2.32m,Out,1997,s,serie-a
+SS Lazio,Mark Fish,23,South Africa,Centre-Back,CB,-,Bolton Wanderers,England,£2.09m,Out,1997,s,serie-a
+SS Lazio,Renato Buso,27,Italy,Right Midfield,RM,-,Piacenza FC,Italy,£698Th.,Out,1997,s,serie-a
+SS Lazio,Carlo Cudicini,23,Italy,Goalkeeper,GK,-,ASD Castel di Sangro,Italy,Free transfer,Out,1997,s,serie-a
+SS Lazio,Roberto Baronio,19,Italy,Defensive Midfield,DM,-,Vicenza Calcio,Italy,Loan,Out,1997,s,serie-a
+SS Lazio,Daniele Federici,20,Italy,Forward,Forward,-,ASD Castel di Sangro,Italy,?,Out,1997,s,serie-a
+SS Lazio,Andrea Cano,21,Italy,Goalkeeper,GK,-,Narnese Calcio,Italy,?,Out,1997,s,serie-a
+SS Lazio,Marco Piovanelli,23,Italy,Midfielder,Midfielder,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+SS Lazio,Igor Protti,29,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Marek Koźmiński,26,Poland,Left-Back,LB,-,Brescia Calcio,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Giovanni Stroppa,29,Italy,Attacking Midfield,AM,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Luca Compagnon,24,Italy,Right-Back,RB,-,US Cremonese,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Andrea Chiopris Gori,19,Italy,Right Midfield,RM,-,AC Prato,Italy,Loan,Out,1997,s,serie-a
+Udinese Calcio,Graziano Battistini,26,Italy,Goalkeeper,GK,-,Hellas Verona,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Raffaele Sergio,30,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Claudio Clementi,28,Italy,Centre-Forward,CF,-,ACD Treviso,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Joachim Fernandez,24,France,Defender,Defender,-,Calcio Monza,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Fabio Rossitto,25,Italy,Right Midfield,RM,-,SSC Napoli,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,Pier Luigi Nicoli,31,Italy,Centre-Back,CB,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Udinese Calcio,David Stefani,22,Italy,Central Midfield,CM,-,ASD Acireale Calcio,Italy,Loan,Out,1997,s,serie-a
+Udinese Calcio,Stefano Desideri,31,Italy,Right Midfield,RM,-,,Without Club,-,Out,1997,s,serie-a
+AC Fiorentina,Lorenzo Amoruso,26,Italy,Centre-Back,CB,-,Rangers FC,Scotland,£5.40m,Out,1997,s,serie-a
+AC Fiorentina,Francesco Baiano,29,Italy,Right Winger,RW,-,Derby County,England,?,Out,1997,s,serie-a
+AC Fiorentina,Vittorio Pusceddu,33,Italy,Left-Back,LB,-,FC Empoli,Italy,?,Out,1997,s,serie-a
+AC Fiorentina,Riccardo Taddei,16,Italy,Left Winger,LW,-,US Città di Pontedera,Italy,Loan,Out,1997,s,serie-a
+AC Fiorentina,Luca Vigiani,20,Italy,Right Midfield,RM,-,FBC Saronno 1910,Italy,Loan,Out,1997,s,serie-a
+AC Fiorentina,Daniele Carnasciali,30,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,Out,1997,s,serie-a
+AC Fiorentina,Marco Vendrame,20,Italy,Right Midfield,RM,-,AS Lucchese Libertas,Italy,?,Out,1997,s,serie-a
+AC Fiorentina,Daniele Chiarini,18,Italy,Centre-Back,CB,-,AC Arezzo,Italy,?,Out,1997,s,serie-a
+AC Fiorentina,Massimo Orlando,26,Italy,Forward,Forward,-,Atalanta BC,Italy,?,Out,1997,s,serie-a
+AC Fiorentina,Gianmatteo Mareggini,30,Italy,Goalkeeper,GK,-,AC Siena,Italy,Loan,Out,1997,s,serie-a
+Juventus FC,Christian Vieri,23,Italy,Centre-Forward,CF,-,Atlético Madrid,Spain,£15.80m,Out,1997,s,serie-a
+Juventus FC,Vladimir Jugovic,27,Serbia,Left Midfield,LM,-,SS Lazio,Italy,£3.60m,Out,1997,s,serie-a
+Juventus FC,Alen Boksic,27,Croatia,Centre-Forward,CF,-,SS Lazio,Italy,£990Th.,Out,1997,s,serie-a
+Juventus FC,Sergio Porrini,28,Italy,Right-Back,RB,-,Rangers FC,Scotland,?,Out,1997,s,serie-a
+Juventus FC,Raffaele Ametrano,24,Italy,Right-Back,RB,-,FC Empoli,Italy,Loan,Out,1997,s,serie-a
+Juventus FC,Attilio Lombardo,31,Italy,Right Winger,RW,-,Crystal Palace,England,?,Out,1997,s,serie-a
+Juventus FC,Marco Zamboni,19,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,1997,s,serie-a
+Juventus FC,Christian Manfredini,22,Cote d'Ivoire,Left Winger,LW,-,Fermana Calcio 1920,Italy,Loan,Out,1997,s,serie-a
+Juventus FC,Davide Falcioni,22,Italy,Goalkeeper,GK,-,ACD Treviso,Italy,?,Out,1997,s,serie-a
+FC Empoli,Alessandro Birindelli,22,Italy,Right-Back,RB,-,Juventus FC,Italy,?,Out,1997,s,serie-a
+FC Empoli,Antonio Arcadio,24,Italy,Right Winger,RW,-,Ternana Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Massimo Gazzoli,21,Italy,Goalkeeper,GK,-,ASD La Biellese,Italy,?,Out,1997,s,serie-a
+FC Empoli,Fabio Tricarico,27,Italy,Midfielder,Midfielder,-,Torino Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Gianfranco Ciccone,21,Italy,Centre-Back,CB,-,Iperzola,Italy,?,Out,1997,s,serie-a
+FC Empoli,Fabio Artico,23,Italy,Centre-Forward,CF,-,Real Giulianova SSD,Italy,Loan,Out,1997,s,serie-a
+FC Empoli,Luca Toni,20,Italy,Centre-Forward,CF,-,US Fiorenzuola 1922,Italy,?,Out,1997,s,serie-a
+FC Empoli,Daniele Balli,29,Italy,Goalkeeper,GK,-,US Salernitana,Italy,?,Out,1997,s,serie-a
+FC Empoli,Rosario Guarino,25,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Mauro Musco,19,Italy,Defender,Defender,-,Tolentino Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Paolo Cozzi,23,Italy,Right-Back,RB,-,Foggia Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Flavio Giampieretti,23,Italy,Defensive Midfield,DM,-,AS Lodigiani,Italy,Loan,Out,1997,s,serie-a
+FC Empoli,Luca Bonfanti,20,Italy,Midfielder,Midfielder,-,Frosinone Calcio,Italy,?,Out,1997,s,serie-a
+FC Empoli,Antonio Di Natale,19,Italy,Centre-Forward,CF,-,Iperzola,Italy,?,Out,1997,s,serie-a
+FC Empoli,Filippo Dal Moro,26,Italy,Left-Back,LB,-,AS Roma,Italy,?,Out,1997,s,serie-a
+FC Empoli,Stefano Cognata,19,Italy,Central Midfield,CM,-,Carrarese Calcio 1908,Italy,?,Out,1997,s,serie-a
+FC Empoli,Olaf Peruzzi,20,Poland,Midfielder,Midfielder,-,,Retired,-,Out,1997,s,serie-a
+FC Empoli,Leonardo Lombardi,19,Italy,Goalkeeper,GK,-,,Retired,-,Out,1997,s,serie-a
+FC Empoli,Christian Amoroso,20,Italy,Central Midfield,CM,-,AC Fiorentina,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+FC Empoli,Mauro Bertarelli,26,Italy,Forward,Forward,-,UC Sampdoria,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+Atalanta BC,Filippo Inzaghi,23,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£10.69m,Out,1997,s,serie-a
+Atalanta BC,Domenico Morfeo,21,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,£6.93m,Out,1997,s,serie-a
+Atalanta BC,Massimo Mutarelli,19,Italy,Central Midfield,CM,-,Genoa 1893,Italy,?,Out,1997,s,serie-a
+Atalanta BC,Kewullay Conteh,19,Sierra Leone,Centre-Back,CB,-,FC Cafe Opera,Sweden,?,Out,1997,s,serie-a
+Atalanta BC,Davide Micillo,26,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,Loan,Out,1997,s,serie-a
+Atalanta BC,Fausto Rossini,19,Italy,Centre-Forward,CF,-,OGC Nice,France,Loan,Out,1997,s,serie-a
+Atalanta BC,Luciano Zauri,19,Italy,Right-Back,RB,-,Chievo Verona,Italy,Loan,Out,1997,s,serie-a
+Atalanta BC,Gianluigi Lentini,28,Italy,Right Winger,RW,-,Torino Calcio,Italy,?,Out,1997,s,serie-a
+Atalanta BC,Mario Morfeo,18,Italy,Attacking Midfield,AM,-,AC Prato,Italy,?,Out,1997,s,serie-a
+Atalanta BC,Marco Zanchi,20,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,Out,1997,s,serie-a
+Atalanta BC,Damiano Zenoni,20,Italy,Right-Back,RB,-,Alzano Virescit,Italy,Loan,Out,1997,s,serie-a
+Atalanta BC,Franco Rotella,30,Italy,Right Midfield,RM,-,ASD Imperia 1923,Italy,?,Out,1997,s,serie-a
+Atalanta BC,Federico Pisani,22,Italy,Forward,Forward,-,,Retired,-,Out,1997,s,serie-a
+US Lecce,Walter Dondoni,31,Italy,Sweeper,SW,-,Ascoli Calcio 1898,Italy,?,Out,1997,s,serie-a
+US Lecce,Fabio Macellari,23,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Jonathan Bachini,22,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Tiziano De Patre,28,Italy,Left Midfield,LM,-,Cagliari Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Francesco Zanoncelli,29,Italy,Centre-Back,CB,-,Cagliari Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Cosimo Francioso,30,Italy,Left Winger,LW,-,Ravenna FC,Italy,?,Out,1997,s,serie-a
+US Lecce,Simone Greco,19,Italy,Midfielder,Midfielder,-,US Pistoiese 1921,Italy,?,Out,1997,s,serie-a
+US Lecce,Alessandro Cucciari,27,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,?,Out,1997,s,serie-a
+US Lecce,Vincenzo Mazzeo,28,Italy,Midfielder,Midfielder,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+US Lecce,Gianni Cavezzi,27,Italy,Right Midfield,RM,-,Cagliari Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Luca Evangelisti,31,Italy,Midfielder,Midfielder,-,AS Ischia Isolaverde,Italy,?,Out,1997,s,serie-a
+US Lecce,Matteo Centurioni,23,Italy,Centre-Back,CB,-,Cagliari Calcio,Italy,?,Out,1997,s,serie-a
+US Lecce,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,Vicenza Calcio,Italy,Loan,Out,1997,s,serie-a
+US Lecce,Cristian Servidei,24,Italy,Centre-Back,CB,-,AS Roma,Italy,?,Out,1997,s,serie-a
+US Lecce,Cristian Baglieri,23,Italy,Centre-Forward,CF,-,ASD Castel di Sangro,Italy,?,Out,1997,s,serie-a
+US Lecce,Giuseppe Quaranta,20,Italy,Midfielder,Midfielder,-,,Retired,-,Out,1997,s,serie-a
+US Lecce,Massimiliano Marzano,20,Italy,Midfielder,Midfielder,-,Casarano Calcio,Italy,-,Out,1997,s,serie-a
+US Lecce,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,US Cremonese,Italy,"End of loanJun 30, 1997",Out,1997,s,serie-a
+Bologna FC 1909,Giuseppe Cardone,23,Italy,Right-Back,RB,-,Milan AC,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Marco De Marchi,30,Italy,Centre-Back,CB,-,Vitesse Arnhem,Netherlands,?,Out,1997,s,serie-a
+Bologna FC 1909,Cristiano Scapolo,26,Italy,Attacking Midfield,AM,-,AS Roma,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Andrea Tarozzi,23,Italy,Right-Back,RB,-,AC Fiorentina,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Andrea Seno,31,Italy,Central Midfield,CM,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Marco Schenardi,29,Italy,Right Midfield,RM,-,Vicenza Calcio,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Giuseppe Anaclerio,23,Italy,Defensive Midfield,DM,-,US Avellino,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Pierpaolo Bresciani,26,Italy,Right Winger,RW,-,AC Venezia 1907,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Andrea Bergamo,32,Italy,Central Midfield,CM,-,Ravenna FC,Italy,?,Out,1997,s,serie-a
+Bologna FC 1909,Gregorio Vaira,18,Italy,Forward,Forward,-,USC Baracca Lugo 1909,Italy,-,Out,1997,s,serie-a
+Bologna FC 1909,Francesco Gnudi,25,Italy,Goalkeeper,GK,-,USC Baracca Lugo 1909,Italy,-,Out,1997,s,serie-a
+Bologna FC 1909,Andrew Bangura,18,Sierra Leone,Midfielder,Midfielder,-,,Retired,-,Out,1997,s,serie-a
+UC Sampdoria,Christian Karembeu,26,France,Defensive Midfield,DM,-,Real Madrid,Spain,£11.25m,Out,1997,s,serie-a
+UC Sampdoria,Roberto Mancini,32,Italy,Second Striker,SS,-,SS Lazio,Italy,£3.60m,Out,1997,s,serie-a
+UC Sampdoria,Danny Dichio,22,England,Centre-Forward,CF,-,US Lecce,Italy,Loan,Out,1997,s,serie-a
+UC Sampdoria,Matteo Sereni,22,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Sandro Tovalieri,32,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Alberico Evani,34,Italy,Left Midfield,LM,-,Reggina Calcio,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Marco Carparelli,21,Italy,Second Striker,SS,-,Torino Calcio,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Mauro Bertarelli,26,Italy,Forward,Forward,-,Ravenna FC,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Claudio Bellucci,22,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Mattia Biso,20,Italy,Central Midfield,CM,-,Carrarese Calcio 1908,Italy,Loan,Out,1997,s,serie-a
+UC Sampdoria,Alessandro Giovinazzo,19,Italy,Goalkeeper,GK,-,Virtus Entella,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Marcello Cottafava,19,Italy,Centre-Back,CB,-,FBC Saronno 1910,Italy,?,Out,1997,s,serie-a
+UC Sampdoria,Giovanni Invernizzi,33,Italy,Defensive Midfield,DM,-,,Retired,-,Out,1997,s,serie-a
+Piacenza FC,Massimo Taibi,27,Italy,Goalkeeper,GK,-,Milan AC,Italy,£585Th.,Out,1997,s,serie-a
+Piacenza FC,Simone Inzaghi,21,Italy,Centre-Forward,CF,-,Brescello Calcio,Italy,Loan,Out,1997,s,serie-a
+Piacenza FC,Eusebio Di Francesco,27,Italy,Central Midfield,CM,-,AS Roma,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Pasquale Luiso,27,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Andrea Tentoni,28,Italy,Forward,Forward,-,Chievo Verona,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Fausto Pari,34,Italy,Defensive Midfield,DM,-,SP Ars et Labor,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Massimo Brioschi,28,Italy,Left-Back,LB,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Daniele Moretti,25,Italy,Midfielder,Midfielder,-,Delfino Pescara 1936,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Alessandro Lucarelli,19,Italy,Centre-Back,CB,-,UC AlbinoLeffe,Italy,Loan,Out,1997,s,serie-a
+Piacenza FC,Settimio Lucci,31,Italy,Defender,Defender,-,Hellas Verona,Italy,?,Out,1997,s,serie-a
+Piacenza FC,Gabriele Pin,35,Italy,Central Midfield,CM,-,,Retired,-,Out,1997,s,serie-a
+Piacenza FC,Stefano Maccoppi,35,Italy,Centre-Back,CB,-,,Retired,-,Out,1997,s,serie-a
+Vicenza Calcio,Luigi Sartor,22,Italy,Right-Back,RB,-,FC Internazionale,Italy,£1.80m,Out,1997,s,serie-a
+Vicenza Calcio,Giovanni Cornacchini,31,Italy,Centre-Forward,CF,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Maurizio Rossi,27,Italy,Midfielder,Midfielder,-,US Lecce,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Daniele Amerini,22,Italy,Central Midfield,CM,-,Hellas Verona,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Giuliano Gentilini,26,Italy,Central Midfield,CM,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Roberto Murgita,28,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Giampiero Maini,25,Italy,Defensive Midfield,DM,-,Milan AC,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Giovanni Lopez,30,Italy,Centre-Back,CB,-,SS Lazio,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Pierre Womé,18,Cameroon,Left-Back,LB,-,AS Lucchese Libertas,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Luca Mondini,27,Italy,Goalkeeper,GK,-,ACD Treviso,Italy,?,Out,1997,s,serie-a
+Vicenza Calcio,Gilberto D'Ignazio Pulpito,28,Italy,Defender,Defender,-,Udinese Calcio,Italy,,Out,1997,s,serie-a
+SSC Napoli,Fabio Pecchia,23,Italy,Right Midfield,RM,-,Juventus FC,Italy,£4.65m,Out,1997,s,serie-a
+SSC Napoli,André Cruz,28,Brazil,Centre-Back,CB,-,Milan AC,Italy,£2.70m,Out,1997,s,serie-a
+SSC Napoli,Mauro Milanese,25,Italy,Left-Back,LB,-,AC Parma,Italy,£540Th.,Out,1997,s,serie-a
+SSC Napoli,Francesco Colonnese,25,Italy,Centre-Back,CB,-,AS Roma,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Alain Boghossian,26,France,Central Midfield,CM,-,UC Sampdoria,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Antonio Amita,21,Italy,Defensive Midfield,DM,-,Calcio Lecco 1912,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Antonio Pietropaolo,20,Italy,Goalkeeper,GK,-,Albanova Calcio,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Alfredo Aglietti,26,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Luigi Morgante,19,Italy,Left-Back,LB,-,Calcio Lecco 1912,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Roberto Policano,33,Italy,Left-Back,LB,-,Casarano Calcio,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Carmelo Imbriani,21,Italy,Midfielder,Midfielder,-,Casarano Calcio,Italy,Loan,Out,1997,s,serie-a
+SSC Napoli,Roberto Bordin,32,Italy,Defensive Midfield,DM,-,Piacenza FC,Italy,?,Out,1997,s,serie-a
+SSC Napoli,Massimiliano Esposito,25,Italy,Right Midfield,RM,-,Hellas Verona,Italy,Loan,Out,1997,s,serie-a
+Brescia Calcio,Marcello Campolonghi,22,Italy,Second Striker,SS,-,Milan AC,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Luca Luzardi,27,Italy,Centre-Back,CB,-,Ascoli Calcio 1898,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Graziano Beltrami,18,Italy,Midfielder,Midfielder,-,Atletico Catania,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Salvatore Bacci,32,Italy,Midfielder,Midfielder,-,ACD Treviso,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Paolo Di Sarno,29,Italy,Goalkeeper,GK,-,US Pistoiese 1921,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Marco Ciganotto,18,Italy,Goalkeeper,GK,-,ASD Sanvitese,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Nicola Borra,19,Italy,Midfielder,Midfielder,-,CPR Ospitaletto,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Dario Dossi,20,Italy,Defender,Defender,-,Atletico Catania,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Rosario Pergolizzi,28,Italy,Left-Back,LB,-,Calcio Padova,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Massimiliano Corrado,25,Italy,Right-Back,RB,-,Genoa 1893,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Omar Forlani,18,Italy,Defender,Defender,-,CPR Ospitaletto,Italy,?,Out,1997,s,serie-a
+Brescia Calcio,Matteo Rigamonti,19,Italy,Goalkeeper,GK,-,US Viterbese,Italy,-,Out,1997,s,serie-a
+Brescia Calcio,Sergio Piovanelli,19,Italy,Forward,Forward,-,CPR Ospitaletto,Italy,-,Out,1997,s,serie-a
+Milan AC,Maurizio Ganz,29,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£450Th.,In,1997,w,serie-a
+Milan AC,Gianluca Zanetti,20,Italy,Centre-Back,CB,-,Calcio Monza,Italy,?,In,1997,w,serie-a
+Milan AC,Filippo Maniero,25,Italy,Centre-Forward,CF,-,AC Parma,Italy,?,In,1997,w,serie-a
+FC Internazionale,Paulo Sousa,27,Portugal,Central Midfield,CM,-,Borussia Dortmund,Germany,£6.84m,In,1997,w,serie-a
+FC Internazionale,Mauro Milanese,26,Italy,Left-Back,LB,-,AC Parma,Italy,£3.60m,In,1997,w,serie-a
+FC Internazionale,Francesco Colonnese,26,Italy,Centre-Back,CB,-,AS Roma,Italy,£1.35m,In,1997,w,serie-a
+FC Internazionale,Martín Rivas,20,Uruguay,Centre-Back,CB,-,Danubio FC,Uruguay,?,In,1997,w,serie-a
+AC Parma,Nicola Antonio Calabro,21,Italy,Defender,Defender,-,ASD Castel di Sangro,Italy,?,In,1997,w,serie-a
+AS Bari,Marcus Allbäck,24,Sweden,Centre-Forward,CF,-,Lyngby FC,Denmark,Loan,In,1997,w,serie-a
+AS Bari,Grégory Campi,21,Monaco,Left Midfield,LM,-,Olympique du Grand Rouen ,France,?,In,1997,w,serie-a
+AS Bari,Lorenzo Sibilano,19,Italy,Centre-Back,CB,-,Bari Primavera,Italy,-,In,1997,w,serie-a
+SS Lazio,Maurizio Domizzi,17,Italy,Centre-Back,CB,-,Lazio Primavera,Italy,-,In,1997,w,serie-a
+Udinese Calcio,Mauro Navas,23,Argentina,Right Midfield,RM,-,Racing Club,Argentina,?,In,1997,w,serie-a
+Udinese Calcio,Daniele Chiarini,18,Italy,Centre-Back,CB,-,AC Arezzo,Italy,?,In,1997,w,serie-a
+Udinese Calcio,Giorgio Frezzolini,21,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,In,1997,w,serie-a
+Udinese Calcio,Mauricio Pineda,22,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,?,In,1997,w,serie-a
+Juventus FC,Edgar Davids,24,Netherlands,Central Midfield,CM,-,Milan AC,Italy,£7.20m,In,1997,w,serie-a
+Juventus FC,Marcelo Zalayeta,18,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,£2.32m,In,1997,w,serie-a
+FC Empoli,Giorgio Lucenti,22,Italy,Right-Back,RB,-,AS Roma,Italy,£720Th.,In,1997,w,serie-a
+FC Empoli,Tonino Martino,28,Italy,Forward,Forward,-,ASD Castel di Sangro,Italy,?,In,1997,w,serie-a
+FC Empoli,Claudio Bonomi,25,Italy,Left Midfield,LM,-,Torino Calcio,Italy,?,In,1997,w,serie-a
+FC Empoli,Aleksandar Kocić,28,Serbia,Goalkeeper,GK,-,AC Perugia,Italy,?,In,1997,w,serie-a
+Atalanta BC,Nicola Zanini,23,Italy,Attacking Midfield,AM,-,UC Sampdoria,Italy,Loan,In,1997,w,serie-a
+Atalanta BC,Massimiliano Cappioli,29,Italy,Attacking Midfield,AM,-,Udinese Calcio,Italy,Loan,In,1997,w,serie-a
+Atalanta BC,Giovanni Piacentini,29,Italy,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,In,1997,w,serie-a
+US Lecce,Danny Dichio,22,England,Centre-Forward,CF,-,UC Sampdoria,Italy,Loan,In,1997,w,serie-a
+US Lecce,Alessandro Iannuzzi,22,Italy,Forward,Forward,-,Vicenza Calcio,Italy,?,In,1997,w,serie-a
+US Lecce,Stefano Rossini,26,Italy,Left-Back,LB,-,Atalanta BC,Italy,?,In,1997,w,serie-a
+US Lecce,Giuseppe Giannini,33,Italy,Attacking Midfield,AM,-,SSC Napoli,Italy,?,In,1997,w,serie-a
+Bologna FC 1909,Andrés Martínez,25,Uruguay,Central Midfield,CM,-,US Lecce,Italy,?,In,1997,w,serie-a
+Bologna FC 1909,Giuliano Gentilini,27,Italy,Central Midfield,CM,-,Calcio Padova,Italy,?,In,1997,w,serie-a
+UC Sampdoria,Giuseppe Signori,29,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£360Th.,In,1997,w,serie-a
+UC Sampdoria,François Omam-Biyik,31,Cameroon,Centre-Forward,CF,-,,Unknown,?,In,1997,w,serie-a
+Piacenza FC,Renato Buso,27,Italy,Right Midfield,RM,-,SS Lazio,Italy,£698Th.,In,1997,w,serie-a
+Piacenza FC,Davide Dionigi,23,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1997,w,serie-a
+Vicenza Calcio,Mirko Conte,23,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,In,1997,w,serie-a
+Vicenza Calcio,Davide Falcioni,22,Italy,Goalkeeper,GK,-,ACD Treviso,Italy,?,In,1997,w,serie-a
+Vicenza Calcio,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,US Lecce,Italy,Loan,In,1997,w,serie-a
+SSC Napoli,Mirko Conte,23,Italy,Centre-Back,CB,-,Piacenza FC,Italy,?,In,1997,w,serie-a
+SSC Napoli,Marco Zamboni,19,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,1997,w,serie-a
+SSC Napoli,Damir Stojak,22,Serbia,Centre-Forward,CF,-,FK Vojvodina Novi Sad,Serbia,?,In,1997,w,serie-a
+Brescia Calcio,Massimiliano Corrado,26,Italy,Right-Back,RB,-,Genoa 1893,Italy,?,In,1997,w,serie-a
+Brescia Calcio,Giovanni Bia,29,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,Loan,In,1997,w,serie-a
+Milan AC,Edgar Davids,24,Netherlands,Central Midfield,CM,-,Juventus FC,Italy,£7.20m,Out,1997,w,serie-a
+Milan AC,Andreas Andersson,23,Sweden,Centre-Forward,CF,-,Newcastle United,England,£3.71m,Out,1997,w,serie-a
+Milan AC,Winston Bogarde,27,Netherlands,Centre-Back,CB,-,FC Barcelona,Spain,£3.33m,Out,1997,w,serie-a
+Milan AC,Angelo Pagotto,23,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,1997,w,serie-a
+Milan AC,Matteo Pelatti,19,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Loan,Out,1997,w,serie-a
+AS Roma,Iván Helguera,22,Spain,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,£4.05m,Out,1997,w,serie-a
+AS Roma,Francesco Colonnese,26,Italy,Centre-Back,CB,-,FC Internazionale,Italy,£1.35m,Out,1997,w,serie-a
+AS Roma,Giorgio Lucenti,22,Italy,Right-Back,RB,-,FC Empoli,Italy,£720Th.,Out,1997,w,serie-a
+FC Internazionale,Maurizio Ganz,29,Italy,Centre-Forward,CF,-,Milan AC,Italy,£450Th.,Out,1997,w,serie-a
+FC Internazionale,Nicola Berti,30,Italy,Central Midfield,CM,-,Tottenham Hotspur,England,?,Out,1997,w,serie-a
+FC Internazionale,Andrea Polizzano,18,Italy,Defender,Defender,-,AS Gualdo Casacastalda,Italy,?,Out,1997,w,serie-a
+AC Parma,Mauro Milanese,26,Italy,Left-Back,LB,-,FC Internazionale,Italy,£3.60m,Out,1997,w,serie-a
+AC Parma,Luca Bucci,28,Italy,Goalkeeper,GK,-,Torino Calcio,Italy,?,Out,1997,w,serie-a
+AC Parma,Reynald Pedros,26,France,Left Midfield,LM,-,Olympique Lyon,France,Loan,Out,1997,w,serie-a
+AC Parma,Filippo Maniero,25,Italy,Centre-Forward,CF,-,Milan AC,Italy,?,Out,1997,w,serie-a
+AS Bari,Carlo Sassarini,26,Italy,Left-Back,LB,-,AS Fidelis Andria,Italy,?,Out,1997,w,serie-a
+AS Bari,Roberto Ripa,30,Italy,Centre-Back,CB,-,Ancona Calcio,Italy,?,Out,1997,w,serie-a
+SS Lazio,Renato Buso,27,Italy,Right Midfield,RM,-,Piacenza FC,Italy,£698Th.,Out,1997,w,serie-a
+SS Lazio,Giuseppe Signori,29,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,£360Th.,Out,1997,w,serie-a
+Udinese Calcio,Adil Ramzi,20,Morocco,Left Midfield,LM,-,Willem II Tilburg,Netherlands,Loan,Out,1997,w,serie-a
+Udinese Calcio,Elijah Louhenapessy,21,Netherlands,Defensive Midfield,DM,-,Genoa 1893,Italy,Loan,Out,1997,w,serie-a
+Udinese Calcio,Vito Lasalandra,22,Italy,Right Midfield,RM,-,AS Fidelis Andria,Italy,Loan,Out,1997,w,serie-a
+Udinese Calcio,Maurizio Bedin,18,Italy,Central Midfield,CM,-,SK Eintracht Wels,Austria,Loan,Out,1997,w,serie-a
+Udinese Calcio,Massimiliano Caniato,30,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,Out,1997,w,serie-a
+Udinese Calcio,Massimiliano Cappioli,29,Italy,Attacking Midfield,AM,-,Atalanta BC,Italy,Loan,Out,1997,w,serie-a
+Udinese Calcio,Joachim Fernandez,24,France,Defender,Defender,-,Calcio Monza,Italy,?,Out,1997,w,serie-a
+Udinese Calcio,Giovanni Bia,29,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,Loan,Out,1997,w,serie-a
+AC Fiorentina,Francesco Flachi,22,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,Loan,Out,1997,w,serie-a
+AC Fiorentina,Giovanni Piacentini,29,Italy,Defensive Midfield,DM,-,Atalanta BC,Italy,?,Out,1997,w,serie-a
+AC Fiorentina,Davide Dionigi,23,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,?,Out,1997,w,serie-a
+Juventus FC,Michele Padovano,31,Italy,Centre-Forward,CF,-,Crystal Palace,England,£1.76m,Out,1997,w,serie-a
+Juventus FC,Riccardo Bonetto,18,Italy,Left-Back,LB,-,Novara Calcio 1908,Italy,Loan,Out,1997,w,serie-a
+Juventus FC,Marco Zamboni,19,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,1997,w,serie-a
+FC Empoli,Vittorio Pusceddu,33,Italy,Left-Back,LB,-,Torino Calcio,Italy,Free transfer,Out,1997,w,serie-a
+FC Empoli,Andrea Mussi,20,Italy,Centre-Forward,CF,-,Ravenna FC,Italy,?,Out,1997,w,serie-a
+FC Empoli,Luca Bonfanti,20,Italy,Midfielder,Midfielder,-,Frosinone Calcio,Italy,?,Out,1997,w,serie-a
+FC Empoli,Antonio Arcadio,24,Italy,Right Winger,RW,-,Ternana Calcio,Italy,?,Out,1997,w,serie-a
+FC Empoli,Emanuele Masini,24,Italy,Defender,Defender,-,AC Siena,Italy,?,Out,1997,w,serie-a
+FC Empoli,Fabio Artico,23,Italy,Centre-Forward,CF,-,Real Giulianova SSD,Italy,Loan,Out,1997,w,serie-a
+Atalanta BC,Liam Ardigò,21,Italy,Goalkeeper,GK,-,AC Siena,Italy,?,Out,1997,w,serie-a
+Atalanta BC,Stefano Rossini,26,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1997,w,serie-a
+US Lecce,Richard Vanigli,26,Italy,Right-Back,RB,-,ASD Castel di Sangro,Italy,Loan,Out,1997,w,serie-a
+US Lecce,Michael Hatz,27,Austria,Centre-Back,CB,-,Rapid Vienna,Austria,?,Out,1997,w,serie-a
+US Lecce,Andrés Martínez,25,Uruguay,Central Midfield,CM,-,Bologna FC 1909,Italy,?,Out,1997,w,serie-a
+US Lecce,Orazio Russo,24,Italy,Right Winger,RW,-,SP Ars et Labor,Italy,?,Out,1997,w,serie-a
+US Lecce,Cosimo Nobile,19,Italy,Centre-Forward,CF,-,Calcio Lecco 1912,Italy,Loan,Out,1997,w,serie-a
+US Lecce,Riccardo Maspero,26,Italy,Attacking Midfield,AM,-,Vicenza Calcio,Italy,Loan,Out,1997,w,serie-a
+Bologna FC 1909,Massimo Brambilla,24,Italy,Central Midfield,CM,-,Torino Calcio,Italy,?,Out,1997,w,serie-a
+Bologna FC 1909,Mohamed Kallon,18,Sierra Leone,Centre-Forward,CF,-,Genoa 1893,Italy,?,Out,1997,w,serie-a
+Bologna FC 1909,Mauro Bonomi,25,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,1997,w,serie-a
+UC Sampdoria,Danny Dichio,23,England,Centre-Forward,CF,-,Sunderland AFC,England,£990Th.,Out,1997,w,serie-a
+UC Sampdoria,Jürgen Klinsmann,33,Germany,Centre-Forward,CF,-,Tottenham Hotspur,England,Free transfer,Out,1997,w,serie-a
+UC Sampdoria,Danny Dichio,22,England,Centre-Forward,CF,-,US Lecce,Italy,Loan,Out,1997,w,serie-a
+UC Sampdoria,Mattia Biso,20,Italy,Central Midfield,CM,-,SEF Tempio Pausania,Italy,Loan,Out,1997,w,serie-a
+UC Sampdoria,Ángel Morales,22,Argentina,Attacking Midfield,AM,-,CP Mérida,Spain,Loan,Out,1997,w,serie-a
+UC Sampdoria,Nicola Zanini,23,Italy,Attacking Midfield,AM,-,Atalanta BC,Italy,Loan,Out,1997,w,serie-a
+Piacenza FC,Mirko Conte,23,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,1997,w,serie-a
+Vicenza Calcio,Alessandro Iannuzzi,22,Italy,Forward,Forward,-,US Lecce,Italy,?,Out,1997,w,serie-a
+Vicenza Calcio,Luca Mondini,27,Italy,Goalkeeper,GK,-,ACD Treviso,Italy,?,Out,1997,w,serie-a
+SSC Napoli,José Luis Calderón,27,Argentina,Centre-Forward,CF,-,Club Atlético Independiente,Argentina,£929Th.,Out,1997,w,serie-a
+SSC Napoli,Beto,22,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,Free transfer,Out,1997,w,serie-a
+SSC Napoli,Marco Zamboni,20,Italy,Centre-Back,CB,-,Chievo Verona,Italy,?,Out,1997,w,serie-a
+SSC Napoli,Giuseppe Giannini,33,Italy,Attacking Midfield,AM,-,US Lecce,Italy,?,Out,1997,w,serie-a
+SSC Napoli,Mirko Conte,23,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,Out,1997,w,serie-a
+SSC Napoli,Mirko Taccola,27,Italy,Centre-Back,CB,-,AS Lucchese Libertas,Italy,?,Out,1997,w,serie-a
+SSC Napoli,Alessandro Sbrizzo,22,Italy,Centre-Back,CB,-,Calcio Padova,Italy,Loan,Out,1997,w,serie-a
+Brescia Calcio,Manfred Binz,32,Germany,Sweeper,SW,-,Borussia Dortmund,Germany,Free transfer,Out,1997,w,serie-a
+Brescia Calcio,Antonio Criniti,27,Italy,Forward,Forward,-,US Avellino,Italy,?,Out,1997,w,serie-a
+Brescia Calcio,Alessandro Romano,28,Italy,Defensive Midfield,DM,-,Genoa 1893,Italy,?,Out,1997,w,serie-a
+Brescia Calcio,Salvatore Bacci,32,Italy,Midfielder,Midfielder,-,ACD Treviso,Italy,?,Out,1997,w,serie-a

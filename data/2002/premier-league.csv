@@ -26,8 +26,8 @@ Liverpool FC,Neil Mellor,19,England,Centre-Forward,CF,-,Liverpool FC U18,England
 Liverpool FC,Djimi Traoré,22,Mali,Centre-Back,CB,-,RC Lens,France,"End of loanJun 30, 2002",In,2002,s,premier-league
 Manchester United,Rio Ferdinand,23,England,Centre-Back,CB,-,Leeds United,England,£41.40m,In,2002,s,premier-league
 Manchester United,Ricardo,30,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,£2.00m,In,2002,s,premier-league
-Manchester United,Hussein Yasser,19,Qatar,Attacking Midfield,AM,-,Al Rayyan Sports Club,Qatar,£225k,In,2002,s,premier-league
-Manchester United,Souleymane Mamam,17,Togo,Defensive Midfield,DM,-,AC Merlan Lome,Togo,£50k,In,2002,s,premier-league
+Manchester United,Hussein Yasser,19,Qatar,Attacking Midfield,AM,-,Al Rayyan Sports Club,Qatar,£225Th.,In,2002,s,premier-league
+Manchester United,Souleymane Mamam,17,Togo,Defensive Midfield,DM,-,AC Merlan Lome,Togo,£50Th.,In,2002,s,premier-league
 Manchester United,Kieran Richardson,17,England,Left-Back,LB,-,West Ham United U18,England,Free transfer,In,2002,s,premier-league
 Manchester United,Luke Chadwick,22,England,Attacking Midfield,AM,-,Reading FC,England,"End of loanMay 1, 2003",In,2002,s,premier-league
 Manchester United,Alan Tate,20,England,Centre-Back,CB,-,Swansea City,Wales,"End of loanMay 4, 2003",In,2002,s,premier-league
@@ -55,10 +55,10 @@ Leeds United,Matthew Kilgallon,18,England,Centre-Back,CB,-,Leeds United U18,Engl
 Leeds United,Craig Farrell,19,England,Centre-Forward,CF,-,Leeds United U18,England,-,In,2002,s,premier-league
 Chelsea FC,Enrique de Lucas,23,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,Free transfer,In,2002,s,premier-league
 Chelsea FC,Jean-Yves Anis,21,France,Right-Back,RB,-,Stade Rennais FC,France,?,In,2002,s,premier-league
-Chelsea FC,Leon Knight,20,England,Centre-Forward,CF,-,Sheffield United,England,"End of loanMay 1, 2003",In,2002,s,premier-league
-Chelsea FC,Andy Ross,19,Scotland,Central Midfield,CM,-,Chelsea FC U18,England,-,In,2002,s,premier-league
 Chelsea FC,Mikael Forssell,22,Finland,Centre-Forward,CF,-,Borussia Mönchengladbach,Germany,"End of loanMay 25, 2003",In,2002,s,premier-league
 Chelsea FC,Danny Woodards,18,England,Left-Back,LB,-,Chelsea FC U18,England,-,In,2002,s,premier-league
+Chelsea FC,Leon Knight,20,England,Centre-Forward,CF,-,Sheffield United,England,"End of loanMay 1, 2003",In,2002,s,premier-league
+Chelsea FC,Andy Ross,19,Scotland,Central Midfield,CM,-,Chelsea FC U18,England,-,In,2002,s,premier-league
 West Ham United,Youssef Sofiane,17,France,Centre-Forward,CF,-,AJ Auxerre B,France,Free transfer,In,2002,s,premier-league
 West Ham United,Raymond van der Gouw,39,Netherlands,Goalkeeper,GK,-,Manchester United,England,Free transfer,In,2002,s,premier-league
 West Ham United,Gary Breen,28,Ireland,Centre-Back,CB,-,Coventry City,England,Free transfer,In,2002,s,premier-league
@@ -118,12 +118,12 @@ Blackburn Rovers,Marc Richards,20,England,Centre-Forward,CF,-,Swansea City,Wales
 Blackburn Rovers,Ryan Robinson,19,England,Goalkeeper,GK,-,Blackburn Rovers U18,England,-,In,2002,s,premier-league
 Blackburn Rovers,Neil Danns,19,Guyana,Central Midfield,CM,-,Blackburn Rovers U21,England,-,In,2002,s,premier-league
 Blackburn Rovers,Corrado Grabbi,26,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,"End of loanJun 30, 2002",In,2002,s,premier-league
-Southampton FC,Antti Niemi,30,Finland,Goalkeeper,GK,-,Heart of Midlothian FC,Scotland,£2.70m,In,2002,s,premier-league
 Southampton FC,Michael Svensson,26,Sweden,Centre-Back,CB,-,ES Troyes AC,France,£2.70m,In,2002,s,premier-league
-Southampton FC,Andrey Kanchelskis,33,Russia,Right Midfield,RM,-,Rangers FC,Scotland,Free transfer,In,2002,s,premier-league
+Southampton FC,Antti Niemi,30,Finland,Goalkeeper,GK,-,Heart of Midlothian FC,Scotland,£2.70m,In,2002,s,premier-league
 Southampton FC,Matt Crowell,17,Wales,Central Midfield,CM,-,Swansea City,Wales,Free transfer,In,2002,s,premier-league
-Southampton FC,Scott Bevan,23,England,Goalkeeper,GK,-,Huddersfield Town,England,"End of loanApr 1, 2003",In,2002,s,premier-league
+Southampton FC,Andrey Kanchelskis,33,Russia,Right Midfield,RM,-,Rangers FC,Scotland,Free transfer,In,2002,s,premier-league
 Southampton FC,Scott McDonald,18,Australia,Centre-Forward,CF,-,Huddersfield Town,England,"End of loanAug 1, 2002",In,2002,s,premier-league
+Southampton FC,Scott Bevan,23,England,Goalkeeper,GK,-,Huddersfield Town,England,"End of loanApr 1, 2003",In,2002,s,premier-league
 Middlesbrough FC,Massimo Maccarone,22,Italy,Centre-Forward,CF,-,FC Empoli,Italy,£11.14m,In,2002,s,premier-league
 Middlesbrough FC,George Boateng,26,Netherlands,Defensive Midfield,DM,-,Aston Villa,England,£6.21m,In,2002,s,premier-league
 Middlesbrough FC,Juninho Paulista,29,Brazil,Attacking Midfield,AM,-,Atlético Madrid,Spain,£6.21m,In,2002,s,premier-league
@@ -141,7 +141,7 @@ Fulham FC,Martín Herrera,31,Argentina,Goalkeeper,GK,-,Deportivo Alavés,Spain,F
 Fulham FC,Martin Djetou,27,France,Centre-Back,CB,-,AC Parma,Italy,Loan,In,2002,s,premier-league
 Fulham FC,Pierre Womé,23,Cameroon,Left-Back,LB,-,Bologna FC 1909,Italy,Loan,In,2002,s,premier-league
 Charlton Athletic,Gary Rowett,28,England,Right-Back,RB,-,Leicester City,England,£4.73m,In,2002,s,premier-league
-Charlton Athletic,Paul Rachubka,22,England,Goalkeeper,GK,-,Manchester United U23,England,£270k,In,2002,s,premier-league
+Charlton Athletic,Paul Rachubka,22,England,Goalkeeper,GK,-,Manchester United U23,England,£270Th.,In,2002,s,premier-league
 Charlton Athletic,Jesper Blomqvist,28,Sweden,Left Midfield,LM,-,Everton FC,England,Free transfer,In,2002,s,premier-league
 Charlton Athletic,Robbie Mustoe,33,England,Central Midfield,CM,-,Middlesbrough FC,England,Free transfer,In,2002,s,premier-league
 Charlton Athletic,Jamal Campbell-Ryce,19,Jamaica,Right Winger,RW,-,Charlton Athletic U18,England,-,In,2002,s,premier-league
@@ -192,14 +192,14 @@ Sunderland AFC,Michael Proctor,21,England,Centre-Forward,CF,-,Bradford City,Engl
 Sunderland AFC,Michael Ingham,22,Northern Ireland,Goalkeeper,GK,-,Stockport County,England,"End of loanOct 1, 2002",In,2002,s,premier-league
 Sunderland AFC,Craig James,20,England,Left-Back,LB,-,Hibernian FC,Scotland,"End of loanMay 1, 2003",In,2002,s,premier-league
 Sunderland AFC,Patrick Collins,17,England,Right-Back,RB,-,Sunderland AFC U18,England,-,In,2002,s,premier-league
-Sunderland AFC,Tom Peeters,23,Belgium,Left Winger,LW,-,Royal Antwerp FC,Belgium,"End of loanJun 30, 2002",In,2002,s,premier-league
 Sunderland AFC,Lilian Laslandes,30,France,Centre-Forward,CF,-,1. FC Köln,Germany,"End of loanJun 30, 2002",In,2002,s,premier-league
+Sunderland AFC,Tom Peeters,23,Belgium,Left Winger,LW,-,Royal Antwerp FC,Belgium,"End of loanJun 30, 2002",In,2002,s,premier-league
 Manchester City,Nicolas Anelka,23,France,Centre-Forward,CF,-,Paris Saint-Germain,France,£13.50m,In,2002,s,premier-league
 Manchester City,Matías Vuoso,20,Mexico,Centre-Forward,CF,-,Club Atlético Independiente,Argentina,£6.75m,In,2002,s,premier-league
 Manchester City,Sylvain Distin,24,France,Centre-Back,CB,-,Paris Saint-Germain,France,£5.40m,In,2002,s,premier-league
 Manchester City,David Sommeil,27,Guadeloupe,Centre-Back,CB,-,FC Girondins Bordeaux,France,£4.05m,In,2002,s,premier-league
-Manchester City,Mikkel Bischoff,20,Denmark,Centre-Back,CB,-,Akademisk Boldklub,Denmark,£855k,In,2002,s,premier-league
-Manchester City,Marc-Vivien Foé,27,Cameroon,Central Midfield,CM,-,Olympique Lyon,France,Loan fee:£630k,In,2002,s,premier-league
+Manchester City,Mikkel Bischoff,20,Denmark,Centre-Back,CB,-,Akademisk Boldklub,Denmark,£855Th.,In,2002,s,premier-league
+Manchester City,Marc-Vivien Foé,27,Cameroon,Central Midfield,CM,-,Olympique Lyon,France,Loan fee:£630Th.,In,2002,s,premier-league
 Manchester City,Peter Schmeichel,38,Denmark,Goalkeeper,GK,-,Aston Villa,England,Free transfer,In,2002,s,premier-league
 Manchester City,Karim Kerkar,25,Algeria,Attacking Midfield,AM,-,AC Le Havre,France,Free transfer,In,2002,s,premier-league
 Manchester City,Tyrone Loran,21,Curacao,Right-Back,RB,-,FC Volendam,Netherlands,?,In,2002,s,premier-league
@@ -207,8 +207,8 @@ Manchester City,Darren Huckerby,27,England,Right Winger,RW,-,Nottingham Forest,E
 West Bromwich Albion,Lee Hughes,26,England,Centre-Forward,CF,-,Coventry City,England,£8.10m,In,2002,s,premier-league
 West Bromwich Albion,Jason Koumas,22,Wales,Attacking Midfield,AM,-,Tranmere Rovers,England,£3.11m,In,2002,s,premier-league
 West Bromwich Albion,Sean Gregan,28,England,Centre-Back,CB,-,Preston North End,England,£2.25m,In,2002,s,premier-league
-West Bromwich Albion,Lee Marshall,23,England,Central Midfield,CM,-,Leicester City,England,£945k,In,2002,s,premier-league
-West Bromwich Albion,Joe Murphy,20,Ireland,Goalkeeper,GK,-,Tranmere Rovers,England,£225k,In,2002,s,premier-league
+West Bromwich Albion,Lee Marshall,23,England,Central Midfield,CM,-,Leicester City,England,£945Th.,In,2002,s,premier-league
+West Bromwich Albion,Joe Murphy,20,Ireland,Goalkeeper,GK,-,Tranmere Rovers,England,£225Th.,In,2002,s,premier-league
 West Bromwich Albion,Ronnie Wallwork,24,England,Central Midfield,CM,-,Manchester United,England,Free transfer,In,2002,s,premier-league
 West Bromwich Albion,Chris Adamson,24,England,Goalkeeper,GK,-,Halesowen Town,England,"End of loanMay 1, 2003",In,2002,s,premier-league
 West Bromwich Albion,Ross Adams,19,England,Defender,Defender,-,West Bromwich Albion U18,England,-,In,2002,s,premier-league
@@ -216,28 +216,28 @@ West Bromwich Albion,Simon Brown,18,England,Midfielder,Midfielder,-,West Bromwic
 Birmingham City,Clinton Morrison,23,Ireland,Centre-Forward,CF,-,Crystal Palace,England,£5.74m,In,2002,s,premier-league
 Birmingham City,Aliou Cissé,26,Senegal,Defensive Midfield,DM,-,Paris Saint-Germain,France,£2.03m,In,2002,s,premier-league
 Birmingham City,Robbie Savage,27,Wales,Central Midfield,CM,-,Leicester City,England,£1.69m,In,2002,s,premier-league
-Birmingham City,Tom Williams,21,Cyprus,Left-Back,LB,-,Peterborough United,England,£473k,In,2002,s,premier-league
+Birmingham City,Tom Williams,21,Cyprus,Left-Back,LB,-,Peterborough United,England,£473Th.,In,2002,s,premier-league
 Birmingham City,Darryl Powell,30,Jamaica,Centre-Back,CB,-,Derby County,England,Free transfer,In,2002,s,premier-league
 Birmingham City,Jovan Kirovski,26,United States,Right Winger,RW,-,Crystal Palace,England,Free transfer,In,2002,s,premier-league
 Birmingham City,Kenny Cunningham,31,Ireland,Centre-Back,CB,-,Wimbledon FC,England,Free transfer,In,2002,s,premier-league
-Birmingham City,Craig Fagan,20,England,Centre-Forward,CF,-,Bristol City,England,"End of loanMay 14, 2003",In,2002,s,premier-league
 Birmingham City,Peter Gilbert,18,Wales,Left-Back,LB,-,Birmingham City U18,England,-,In,2002,s,premier-league
 Birmingham City,Richard Evans,19,Wales,Left Winger,LW,-,Birmingham City U18,England,-,In,2002,s,premier-league
 Birmingham City,Tom Williams,22,Cyprus,Left-Back,LB,-,Queens Park Rangers,England,"End of loanMay 31, 2003",In,2002,s,premier-league
+Birmingham City,Craig Fagan,20,England,Centre-Forward,CF,-,Bristol City,England,"End of loanMay 14, 2003",In,2002,s,premier-league
 Arsenal FC,Richard Wright,24,England,Goalkeeper,GK,-,Everton FC,England,£4.95m,Out,2002,s,premier-league
 Arsenal FC,Alexander Manninger,25,Austria,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,£1.19m,Out,2002,s,premier-league
-Arsenal FC,John Halls,20,England,Defensive Midfield,DM,-,KSK Beveren,Belgium,Loan,Out,2002,s,premier-league
-Arsenal FC,Matthew Upson,23,England,Centre-Back,CB,-,Reading FC,England,Loan,Out,2002,s,premier-league
 Arsenal FC,Rohan Ricketts,19,England,Attacking Midfield,AM,-,Tottenham Hotspur,England,Free transfer,Out,2002,s,premier-league
 Arsenal FC,Liam Chilvers,20,England,Centre-Back,CB,-,KSK Beveren,Belgium,Loan,Out,2002,s,premier-league
 Arsenal FC,Graham Stack,20,Ireland,Goalkeeper,GK,-,KSK Beveren,Belgium,Loan,Out,2002,s,premier-league
+Arsenal FC,John Halls,20,England,Defensive Midfield,DM,-,KSK Beveren,Belgium,Loan,Out,2002,s,premier-league
+Arsenal FC,Matthew Upson,23,England,Centre-Back,CB,-,Reading FC,England,Loan,Out,2002,s,premier-league
 Arsenal FC,Tomas Danilevicius,24,Lithuania,Centre-Forward,CF,-,AS Livorno,Italy,?,Out,2002,s,premier-league
 Arsenal FC,Lee Dixon,38,England,Right-Back,RB,-,,Retired,-,Out,2002,s,premier-league
 Arsenal FC,Tony Adams,35,England,Centre-Back,CB,-,,Retired,-,Out,2002,s,premier-league
 Arsenal FC,Junichi Inamoto,22,Japan,Defensive Midfield,DM,-,Gamba Osaka,Japan,"End of loanJun 30, 2002",Out,2002,s,premier-league
 Liverpool FC,Stephen Wright,22,England,Right-Back,RB,-,Sunderland AFC,England,£4.32m,Out,2002,s,premier-league
 Liverpool FC,Nick Barmby,28,England,Left Midfield,LM,-,Leeds United,England,£4.05m,Out,2002,s,premier-league
-Liverpool FC,Gary McAllister,37,Scotland,Central Midfield,CM,-,Coventry City,England,£450k,Out,2002,s,premier-league
+Liverpool FC,Gary McAllister,37,Scotland,Central Midfield,CM,-,Coventry City,England,£450Th.,Out,2002,s,premier-league
 Liverpool FC,Richie Partridge,21,Ireland,Right Midfield,RM,-,Coventry City,England,Loan,Out,2002,s,premier-league
 Liverpool FC,Jari Litmanen,31,Finland,Attacking Midfield,AM,-,Ajax Amsterdam,Netherlands,Free transfer,Out,2002,s,premier-league
 Liverpool FC,Anthony Le Tallec,17,France,Centre-Forward,CF,-,AC Le Havre,France,Loan,Out,2002,s,premier-league
@@ -256,13 +256,13 @@ Manchester United,Ronnie Wallwork,24,England,Central Midfield,CM,-,West Bromwich
 Manchester United,Denis Irwin,36,Ireland,Left-Back,LB,-,Wolverhampton Wanderers,England,Free transfer,Out,2002,s,premier-league
 Manchester United,Hussein Yasser,19,Qatar,Attacking Midfield,AM,-,Royal Antwerp FC,Belgium,Loan,Out,2002,s,premier-league
 Manchester United,Andrew Taylor,19,England,Midfielder,Midfielder,-,Northwich Victoria,England,?,Out,2002,s,premier-league
-Newcastle United,Stuart Green,21,England,Right Winger,RW,-,Hull City,England,£203k,Out,2002,s,premier-league
+Newcastle United,Stuart Green,21,England,Right Winger,RW,-,Hull City,England,£203Th.,Out,2002,s,premier-league
+Newcastle United,Colin McMenamin,21,Scotland,Centre-Forward,CF,-,Livingston FC,Scotland,Free transfer,Out,2002,s,premier-league
 Newcastle United,Gary Caldwell,20,Scotland,Centre-Back,CB,-,Coventry City,England,Loan,Out,2002,s,premier-league
 Newcastle United,Mark Boyd,20,England,Midfielder,Midfielder,-,Port Vale FC,England,Free transfer,Out,2002,s,premier-league
 Newcastle United,Ryan McGuffie,22,Scotland,Right-Back,RB,-,Gretna FC (aufgel.),Scotland,Free transfer,Out,2002,s,premier-league
 Newcastle United,David Cowan,20,England,Right-Back,RB,-,Motherwell FC,Scotland,Free transfer,Out,2002,s,premier-league
 Newcastle United,James Coppinger,21,England,Right Midfield,RM,-,Exeter City,England,Free transfer,Out,2002,s,premier-league
-Newcastle United,Colin McMenamin,21,Scotland,Centre-Forward,CF,-,Livingston FC,Scotland,Free transfer,Out,2002,s,premier-league
 Newcastle United,Brian Kerr,20,Scotland,Defensive Midfield,DM,-,Coventry City,England,Loan,Out,2002,s,premier-league
 Newcastle United,Sylvain Distin,24,France,Centre-Back,CB,-,Paris Saint-Germain,France,"End of loanJun 30, 2002",Out,2002,s,premier-league
 Leeds United,Rio Ferdinand,23,England,Centre-Back,CB,-,Manchester United,England,£41.40m,Out,2002,s,premier-league
@@ -271,7 +271,7 @@ Leeds United,Danny Hay,27,New Zealand,Centre-Back,CB,-,Walsall FC,England,Free t
 Leeds United,Paul Murphy,17,Ireland,Goalkeeper,GK,-,Leicester City,England,Free transfer,Out,2002,s,premier-league
 Leeds United,Shaun Allaway,19,England,Goalkeeper,GK,-,Grimsby Town,England,Loan,Out,2002,s,premier-league
 Leeds United,Simon Johnson,19,England,Centre-Forward,CF,-,Hull City,England,Loan,Out,2002,s,premier-league
-Leeds United,Craig Farrell,19,England,Centre-Forward,CF,-,Carlisle United,England,£14k,Out,2002,s,premier-league
+Leeds United,Craig Farrell,19,England,Centre-Forward,CF,-,Carlisle United,England,£14Th.,Out,2002,s,premier-league
 Chelsea FC,Samuele Dalla Bona,21,Italy,Central Midfield,CM,-,Milan AC,Italy,£1.44m,Out,2002,s,premier-league
 Chelsea FC,Ian Pulman,18,England,Forward,Forward,-,Margate FC,England,Free transfer,Out,2002,s,premier-league
 Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Sheffield United,England,Loan,Out,2002,s,premier-league
@@ -291,15 +291,15 @@ West Ham United,Ömer Riza,22,Turkey,Second Striker,SS,-,Cambridge United,Englan
 West Ham United,Craig Forrest,34,Canada,Goalkeeper,GK,-,,Retired,-,Out,2002,s,premier-league
 West Ham United,Gary Charles,32,England,Right-Back,RB,-,,Retired,-,Out,2002,s,premier-league
 Aston Villa,George Boateng,26,Netherlands,Defensive Midfield,DM,-,Middlesbrough FC,England,£6.21m,Out,2002,s,premier-league
-Aston Villa,Boaz Myhill,19,Wales,Goalkeeper,GK,-,Bristol City,England,Loan,Out,2002,s,premier-league
 Aston Villa,Paul Merson,34,England,Right Midfield,RM,-,Portsmouth FC,England,Free transfer,Out,2002,s,premier-league
 Aston Villa,Jay Smith,20,England,Central Midfield,CM,-,Southend United,England,Free transfer,Out,2002,s,premier-league
 Aston Villa,Steve Stone,31,England,Right Midfield,RM,-,Portsmouth FC,England,Free transfer,Out,2002,s,premier-league
 Aston Villa,Peter Schmeichel,38,Denmark,Goalkeeper,GK,-,Manchester City,England,Free transfer,Out,2002,s,premier-league
 Aston Villa,Michael Boulding,26,England,Centre-Forward,CF,-,Sheffield United,England,Loan,Out,2002,s,premier-league
-Aston Villa,David Scullion,18,Northern Ireland,Right Midfield,RM,-,Glenavon FC,Northern Ireland,?,Out,2002,s,premier-league
+Aston Villa,Boaz Myhill,19,Wales,Goalkeeper,GK,-,Bristol City,England,Loan,Out,2002,s,premier-league
 Aston Villa,David Ginola,35,France,Left Winger,LW,-,Everton FC,England,?,Out,2002,s,premier-league
 Aston Villa,Bosko Balaban,23,Croatia,Centre-Forward,CF,-,GNK Dinamo Zagreb,Croatia,Loan,Out,2002,s,premier-league
+Aston Villa,David Scullion,18,Northern Ireland,Right Midfield,RM,-,Glenavon FC,Northern Ireland,?,Out,2002,s,premier-league
 Tottenham Hotspur,Öyvind Leonhardsen,31,Norway,Attacking Midfield,AM,-,Aston Villa,England,Free transfer,Out,2002,s,premier-league
 Tottenham Hotspur,Johnnie Jackson,20,England,Central Midfield,CM,-,Swindon Town,England,Loan,Out,2002,s,premier-league
 Tottenham Hotspur,Gavin Kelly,21,England,Goalkeeper,GK,-,Kettering Town,England,Loan,Out,2002,s,premier-league
@@ -308,7 +308,7 @@ Tottenham Hotspur,John Piercy,23,England,Midfielder,Midfielder,-,Brighton & Hove
 Tottenham Hotspur,Yannick Kamanan,19,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,?,Out,2002,s,premier-league
 Tottenham Hotspur,Willem Korsten,27,Netherlands,Left Winger,LW,-,,Retired,-,Out,2002,s,premier-league
 Blackburn Rovers,Hakan Ünsal,29,Turkey,Left-Back,LB,-,Galatasaray SK,Turkey,£1.08m,Out,2002,s,premier-league
-Blackburn Rovers,Ben Burgess,20,Ireland,Centre-Forward,CF,-,Stockport County,England,£540k,Out,2002,s,premier-league
+Blackburn Rovers,Ben Burgess,20,Ireland,Centre-Forward,CF,-,Stockport County,England,£540Th.,Out,2002,s,premier-league
 Blackburn Rovers,Gordon Greer,21,Scotland,Centre-Back,CB,-,Stockport County,England,Loan,Out,2002,s,premier-league
 Blackburn Rovers,Simon Grayson,32,England,Right-Back,RB,-,Blackpool FC,England,Free transfer,Out,2002,s,premier-league
 Blackburn Rovers,David McNamee,21,Scotland,Right-Back,RB,-,Livingston FC,Scotland,Free transfer,Out,2002,s,premier-league
@@ -341,8 +341,8 @@ Middlesbrough FC,Christian Hanson,20,England,Defender,Defender,-,Spennymoor Unit
 Middlesbrough FC,Phil Stamp,26,England,Midfielder,Midfielder,-,Heart of Midlothian FC,Scotland,?,Out,2002,s,premier-league
 Middlesbrough FC,Mark Summerbell,25,England,Midfielder,Midfielder,-,Carlisle United,England,?,Out,2002,s,premier-league
 Middlesbrough FC,Njitap Geremi,24,Cameroon,Right Midfield,RM,-,Real Madrid,Spain,"End of loanMay 1, 2003",Out,2002,s,premier-league
-Fulham FC,Eddie Lewis,28,United States,Left Midfield,LM,-,Preston North End,England,£675k,Out,2002,s,premier-league
-Fulham FC,Tom Hutchinson,20,England,Centre-Back,CB,-,Dundee FC,Scotland,£68k,Out,2002,s,premier-league
+Fulham FC,Eddie Lewis,28,United States,Left Midfield,LM,-,Preston North End,England,£675Th.,Out,2002,s,premier-league
+Fulham FC,Tom Hutchinson,20,England,Centre-Back,CB,-,Dundee FC,Scotland,£68Th.,Out,2002,s,premier-league
 Fulham FC,Marcus Hahnemann,30,United States,Goalkeeper,GK,-,Reading FC,England,Free transfer,Out,2002,s,premier-league
 Fulham FC,Chris Coleman,32,Wales,Centre-Back,CB,-,,Retired,-,Out,2002,s,premier-league
 Charlton Athletic,Andy Todd,27,England,Centre-Back,CB,-,Blackburn Rovers,England,£1.35m,Out,2002,s,premier-league
@@ -365,7 +365,7 @@ Bolton Wanderers,Ryan Baldacchino,21,England,Right Winger,RW,-,Carlisle United,E
 Bolton Wanderers,Nicky Southall,30,England,Right Midfield,RM,-,Norwich City,England,Loan,Out,2002,s,premier-league
 Bolton Wanderers,Bo Hansen,30,Denmark,Centre-Forward,CF,-,FC Midtjylland,Denmark,Free transfer,Out,2002,s,premier-league
 Bolton Wanderers,Dean Holden,22,Northern Ireland,Centre-Back,CB,-,Oldham Athletic,England,Free transfer,Out,2002,s,premier-league
-Bolton Wanderers,David Norris,21,England,Central Midfield,CM,-,Plymouth Argyle,England,£34k,Out,2002,s,premier-league
+Bolton Wanderers,David Norris,21,England,Central Midfield,CM,-,Plymouth Argyle,England,£34Th.,Out,2002,s,premier-league
 Bolton Wanderers,Rod Wallace,32,England,Right Winger,RW,-,Gillingham FC,England,?,Out,2002,s,premier-league
 Bolton Wanderers,Bernard Mendy,21,France,Right-Back,RB,-,Paris Saint-Germain,France,?,Out,2002,s,premier-league
 Bolton Wanderers,Iván Campo,29,Spain,Defensive Midfield,DM,-,Real Madrid,Spain,"End of loanMay 1, 2003",Out,2002,s,premier-league
@@ -384,23 +384,21 @@ Sunderland AFC,Lilian Laslandes,30,France,Centre-Forward,CF,-,SC Bastia,France,L
 Sunderland AFC,Michael Ingham,22,Northern Ireland,Goalkeeper,GK,-,Stockport County,England,Loan,Out,2002,s,premier-league
 Sunderland AFC,Bernt Haas,24,Switzerland,Right-Back,RB,-,FC Basel 1893,Switzerland,Loan,Out,2002,s,premier-league
 Sunderland AFC,Talal El Karkouri,26,Morocco,Centre-Back,CB,-,Paris Saint-Germain,France,"End of loanMay 1, 2003",Out,2002,s,premier-league
-Manchester City,Dickson Etuhu,20,Nigeria,Defensive Midfield,DM,-,Preston North End,England,£405k,Out,2002,s,premier-league
-Manchester City,Chris Killen,20,New Zealand,Centre-Forward,CF,-,Oldham Athletic,England,£270k,Out,2002,s,premier-league
-Manchester City,Jeff Whitley,23,Northern Ireland,Defensive Midfield,DM,-,Notts County,England,Loan,Out,2002,s,premier-league
+Manchester City,Dickson Etuhu,20,Nigeria,Defensive Midfield,DM,-,Preston North End,England,£405Th.,Out,2002,s,premier-league
+Manchester City,Chris Killen,20,New Zealand,Centre-Forward,CF,-,Oldham Athletic,England,£270Th.,Out,2002,s,premier-league
 Manchester City,Terry Dunfield,20,Canada,Central Midfield,CM,-,Bury FC,England,Free transfer,Out,2002,s,premier-league
-Manchester City,Paul Ritchie,26,Scotland,Centre-Back,CB,-,Derby County,England,Loan,Out,2002,s,premier-league
+Manchester City,Jeff Whitley,23,Northern Ireland,Defensive Midfield,DM,-,Notts County,England,Loan,Out,2002,s,premier-league
 Manchester City,Alioune Touré,23,France,Right Winger,RW,-,Paris Saint-Germain,France,?,Out,2002,s,premier-league
 Manchester City,Terry Cooke,25,England,Right Midfield,RM,-,Grimsby Town,England,?,Out,2002,s,premier-league
-Manchester City,Stuart Pearce,40,England,Left-Back,LB,-,,Retired,-,Out,2002,s,premier-league
+Manchester City,Paul Ritchie,26,Scotland,Centre-Back,CB,-,Derby County,England,Loan,Out,2002,s,premier-league
 Manchester City,Djamel Belmadi,27,Algeria,Right Midfield,RM,-,Olympique Marseille,France,"End of loanMay 1, 2003",Out,2002,s,premier-league
+Manchester City,Stuart Pearce,40,England,Left-Back,LB,-,,Retired,-,Out,2002,s,premier-league
 West Bromwich Albion,James Quinn,27,Northern Ireland,Centre-Forward,CF,-,Willem II Tilburg,Netherlands,Free transfer,Out,2002,s,premier-league
 West Bromwich Albion,Anthony Butler,29,England,Centre-Back,CB,-,Bristol City,England,Free transfer,Out,2002,s,premier-league
 West Bromwich Albion,Andy Petterson,32,Australia,Goalkeeper,GK,-,Brighton & Hove Albion,England,Free transfer,Out,2002,s,premier-league
 West Bromwich Albion,Elliot Morris,21,Northern Ireland,Goalkeeper,GK,-,Glentoran FC,Northern Ireland,?,Out,2002,s,premier-league
 West Bromwich Albion,Ruel Fox,34,Montserrat,Right Winger,RW,-,,Retired,-,Out,2002,s,premier-league
 Birmingham City,Andy Johnson,21,England,Centre-Forward,CF,-,Crystal Palace,England,£1.04m,Out,2002,s,premier-league
-Birmingham City,David Holdsworth,33,England,Defender,Defender,-,Bolton Wanderers,England,Free transfer,Out,2002,s,premier-league
-Birmingham City,Dele Adebola,27,Nigeria,Centre-Forward,CF,-,Crystal Palace,England,Free transfer,Out,2002,s,premier-league
 Birmingham City,Randriana,18,Madagascar,Left-Back,LB,-,CS Sedan-Ardennes,France,Free transfer,Out,2002,s,premier-league
 Birmingham City,Tom Williams,22,Cyprus,Left-Back,LB,-,Queens Park Rangers,England,Loan,Out,2002,s,premier-league
 Birmingham City,Graham Hyde,31,England,Defensive Midfield,DM,-,Petershill FC,Scotland,Loan,Out,2002,s,premier-league
@@ -409,6 +407,8 @@ Birmingham City,Trésor Luntala,20,DR Congo,Defensive Midfield,DM,-,EA Guingamp,
 Birmingham City,Nicky Eaden,29,England,Right-Back,RB,-,Wigan Athletic,England,Free transfer,Out,2002,s,premier-league
 Birmingham City,Paul Furlong,33,England,Centre-Forward,CF,-,Queens Park Rangers,England,Free transfer,Out,2002,s,premier-league
 Birmingham City,Jerry Gill,31,England,Right-Back,RB,-,Northampton Town,England,Free transfer,Out,2002,s,premier-league
+Birmingham City,David Holdsworth,33,England,Defender,Defender,-,Bolton Wanderers,England,Free transfer,Out,2002,s,premier-league
+Birmingham City,Dele Adebola,27,Nigeria,Centre-Forward,CF,-,Crystal Palace,England,Free transfer,Out,2002,s,premier-league
 Birmingham City,Tommy Mooney,31,England,Centre-Forward,CF,-,Stoke City,England,Loan,Out,2002,s,premier-league
 Arsenal FC,Guillaume Warmuz,32,France,Goalkeeper,GK,-,RC Lens,France,Free transfer,In,2002,w,premier-league
 Arsenal FC,Jermaine Pennant,20,England,Right Winger,RW,-,Watford FC,England,"End of loanFeb 15, 2003",In,2002,w,premier-league
@@ -427,28 +427,28 @@ Newcastle United,Brian Kerr,21,Scotland,Defensive Midfield,DM,-,Coventry City,En
 Leeds United,Paul Keegan,18,Ireland,Central Midfield,CM,-,Home Farm,Ireland,Free transfer,In,2002,w,premier-league
 Leeds United,Raúl Bravo,21,Spain,Centre-Back,CB,-,Real Madrid,Spain,Loan,In,2002,w,premier-league
 Leeds United,Teddy Lucic,29,Sweden,Centre-Back,CB,-,AIK,Sweden,Loan,In,2002,w,premier-league
+Leeds United,Simon Johnson,19,England,Centre-Forward,CF,-,Hull City,England,"End of loanMar 1, 2003",In,2002,w,premier-league
 Leeds United,Shane Cansdell-Sherriff,20,Australia,Centre-Back,CB,-,Rochdale AFC,England,"End of loanDec 1, 2002",In,2002,w,premier-league
 Leeds United,Tom Newey,20,England,Left-Back,LB,-,Cambridge United,England,"End of loanMar 17, 2003",In,2002,w,premier-league
 Leeds United,Frazer Richardson,20,England,Right-Back,RB,-,Stoke City,England,"End of loanMar 10, 2003",In,2002,w,premier-league
 Leeds United,Harpal Singh,21,India,Left Midfield,LM,-,Bradford City,England,"End of loanDec 1, 2002",In,2002,w,premier-league
-Leeds United,Simon Johnson,19,England,Centre-Forward,CF,-,Hull City,England,"End of loanMar 1, 2003",In,2002,w,premier-league
 Chelsea FC,Boy-Boy Mosia,17,South Africa,Attacking Midfield,AM,-,Transnet School of Excellence,South Africa,?,In,2002,w,premier-league
 Chelsea FC,Carlton Cole,19,England,Centre-Forward,CF,-,Wolverhampton Wanderers,England,"End of loanJan 3, 2003",In,2002,w,premier-league
 Chelsea FC,Warren Cummings,22,Scotland,Left-Back,LB,-,Dundee United FC,Scotland,"End of loanDec 1, 2002",In,2002,w,premier-league
 Chelsea FC,Rhys Evans,20,England,Goalkeeper,GK,-,Leyton Orient,England,"End of loanNov 8, 2002",In,2002,w,premier-league
-West Ham United,Lee Bowyer,25,England,Central Midfield,CM,-,Leeds United,England,£270k,In,2002,w,premier-league
-West Ham United,David Noble,21,Scotland,Central Midfield,CM,-,Arsenal FC Reserves,England,£90k,In,2002,w,premier-league
+West Ham United,Lee Bowyer,25,England,Central Midfield,CM,-,Leeds United,England,£270Th.,In,2002,w,premier-league
+West Ham United,David Noble,21,Scotland,Central Midfield,CM,-,Arsenal FC Reserves,England,£90Th.,In,2002,w,premier-league
 West Ham United,Les Ferdinand,36,England,Centre-Forward,CF,-,Tottenham Hotspur,England,Free transfer,In,2002,w,premier-league
 West Ham United,Leonidas Vokolos,32,Greece,Centre-Back,CB,-,Panathinaikos Athens,Greece,Loan,In,2002,w,premier-league
 West Ham United,Rufus Brevett,33,England,Left-Back,LB,-,Fulham FC,England,Free transfer,In,2002,w,premier-league
 West Ham United,Izzy Iriekpen,20,England,Centre-Back,CB,-,Leyton Orient,England,"End of loanDec 1, 2002",In,2002,w,premier-league
 West Ham United,Glen Johnson,18,England,Right-Back,RB,-,Millwall FC,England,"End of loanDec 1, 2002",In,2002,w,premier-league
 Aston Villa,Joey Gudjónsson,22,Iceland,Central Midfield,CM,-,Real Betis Balompié,Spain,Loan,In,2002,w,premier-league
-Aston Villa,Michael Boulding,26,England,Centre-Forward,CF,-,Sheffield United,England,"End of loanNov 1, 2002",In,2002,w,premier-league
 Aston Villa,Boaz Myhill,19,Wales,Goalkeeper,GK,-,Bristol City,England,"End of loanOct 1, 2002",In,2002,w,premier-league
 Aston Villa,Gavin Melaugh,21,Northern Ireland,Midfielder,Midfielder,-,Rochdale AFC,England,"End of loanDec 1, 2002",In,2002,w,premier-league
 Aston Villa,Liam Ridgewell,18,England,Centre-Back,CB,-,Aston Villa U23,England,-,In,2002,w,premier-league
 Aston Villa,Boaz Myhill,20,Wales,Goalkeeper,GK,-,Bradford City,England,"End of loanDec 31, 2002",In,2002,w,premier-league
+Aston Villa,Michael Boulding,26,England,Centre-Forward,CF,-,Sheffield United,England,"End of loanNov 1, 2002",In,2002,w,premier-league
 Tottenham Hotspur,Lars Hirschfeld,24,Canada,Goalkeeper,GK,-,Calgary Storm,Canada,Free transfer,In,2002,w,premier-league
 Tottenham Hotspur,Kazuyuki Toda,25,Japan,Defensive Midfield,DM,-,Shimizu S-Pulse,Japan,Loan,In,2002,w,premier-league
 Tottenham Hotspur,John Sutton,18,England,Centre-Forward,CF,-,Carlisle United,England,"End of loanNov 1, 2002",In,2002,w,premier-league
@@ -511,26 +511,26 @@ Manchester City,Robbie Fowler,27,England,Centre-Forward,CF,-,Leeds United,Englan
 Manchester City,Djamel Belmadi,26,Algeria,Right Midfield,RM,-,Olympique Marseille,France,Loan,In,2002,w,premier-league
 Manchester City,Jeff Whitley,23,Northern Ireland,Defensive Midfield,DM,-,Notts County,England,"End of loanDec 31, 2002",In,2002,w,premier-league
 Manchester City,Joey Barton,20,England,Central Midfield,CM,-,Manchester City Reserves,England,-,In,2002,w,premier-league
-West Bromwich Albion,Ifeanyi Udeze,22,Nigeria,Left-Back,LB,-,PAOK Thessaloniki,Greece,£630k,In,2002,w,premier-league
+West Bromwich Albion,Ifeanyi Udeze,22,Nigeria,Left-Back,LB,-,PAOK Thessaloniki,Greece,£630Th.,In,2002,w,premier-league
 Birmingham City,Jamie Clapham,27,England,Left-Back,LB,-,Ipswich Town,England,£1.67m,In,2002,w,premier-league
 Birmingham City,Matthew Upson,23,England,Centre-Back,CB,-,Arsenal FC,England,£1.26m,In,2002,w,premier-league
 Birmingham City,Stephen Clemence,24,England,Right Midfield,RM,-,Tottenham Hotspur,England,£1.22m,In,2002,w,premier-league
 Birmingham City,Ferdinand Coly,29,Senegal,Right-Back,RB,-,RC Lens,France,Loan,In,2002,w,premier-league
 Birmingham City,Christophe Dugarry,30,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,Free transfer,In,2002,w,premier-league
-Birmingham City,Andy Marriott,32,Wales,Goalkeeper,GK,-,Barnsley FC,England,£45k,In,2002,w,premier-league
+Birmingham City,Andy Marriott,32,Wales,Goalkeeper,GK,-,Barnsley FC,England,£45Th.,In,2002,w,premier-league
 Birmingham City,Piotr Swierczewski,30,Poland,Defensive Midfield,DM,-,Olympique Marseille,France,Loan,In,2002,w,premier-league
 Birmingham City,Tommy Mooney,31,England,Centre-Forward,CF,-,Stoke City,England,"End of loanDec 1, 2002",In,2002,w,premier-league
 Birmingham City,Graham Hyde,31,England,Defensive Midfield,DM,-,Petershill FC,Scotland,"End of loanNov 1, 2002",In,2002,w,premier-league
 Arsenal FC,Matthew Upson,23,England,Centre-Back,CB,-,Birmingham City,England,£1.26m,Out,2002,w,premier-league
-Arsenal FC,Moritz Volz,19,Germany,Right-Back,RB,-,Wimbledon FC,England,Loan,Out,2002,w,premier-league
 Arsenal FC,Stathis Tavlaridis,22,Greece,Centre-Back,CB,-,Portsmouth FC,England,Loan,Out,2002,w,premier-league
 Arsenal FC,Gilles Grimandi,32,France,Defensive Midfield,DM,-,Colorado Rapids,United States,Free transfer,Out,2002,w,premier-league
 Arsenal FC,Jermaine Pennant,19,England,Right Winger,RW,-,Watford FC,England,Loan,Out,2002,w,premier-league
+Arsenal FC,Moritz Volz,19,Germany,Right-Back,RB,-,Wimbledon FC,England,Loan,Out,2002,w,premier-league
 Arsenal FC,Graham Barrett,21,Ireland,Centre-Forward,CF,-,Brighton & Hove Albion,England,Loan,Out,2002,w,premier-league
 Arsenal FC,Ólafur Ingi Skúlason,19,Iceland,Defensive Midfield,DM,-,Fylkir Reykjavík,Iceland,Loan,Out,2002,w,premier-league
 Arsenal FC,Liam Chilvers,21,England,Centre-Back,CB,-,Colchester United,England,Loan,Out,2002,w,premier-league
 Liverpool FC,Abel Xavier,30,Portugal,Right-Back,RB,-,Galatasaray SK,Turkey,Loan fee:£1.35m,Out,2002,w,premier-league
-Liverpool FC,Daniel Sjölund,19,Finland,Defensive Midfield,DM,-,Djurgardens IF,Sweden,£450k,Out,2002,w,premier-league
+Liverpool FC,Daniel Sjölund,19,Finland,Defensive Midfield,DM,-,Djurgardens IF,Sweden,£450Th.,Out,2002,w,premier-league
 Liverpool FC,Bernard Diomède,28,France,Left Winger,LW,-,AC Ajaccio,France,Loan,Out,2002,w,premier-league
 Liverpool FC,Jon Otsemobor,19,England,Right-Back,RB,-,Hull City,England,Loan,Out,2002,w,premier-league
 Liverpool FC,Grégory Vignal,21,France,Left-Back,LB,-,SC Bastia,France,Loan,Out,2002,w,premier-league
@@ -547,7 +547,7 @@ Newcastle United,Diego Gavilán,22,Paraguay,Central Midfield,CM,-,Sport Club Int
 Newcastle United,Brian Kerr,20,Scotland,Defensive Midfield,DM,-,Coventry City,England,Loan,Out,2002,w,premier-league
 Leeds United,Jonathan Woodgate,23,England,Centre-Back,CB,-,Newcastle United,England,£12.15m,Out,2002,w,premier-league
 Leeds United,Robbie Fowler,27,England,Centre-Forward,CF,-,Manchester City,England,£8.82m,Out,2002,w,premier-league
-Leeds United,Lee Bowyer,25,England,Central Midfield,CM,-,West Ham United,England,£270k,Out,2002,w,premier-league
+Leeds United,Lee Bowyer,25,England,Central Midfield,CM,-,West Ham United,England,£270Th.,Out,2002,w,premier-league
 Leeds United,Caleb Folan,20,Ireland,Centre-Forward,CF,-,Chesterfield FC,England,Free transfer,Out,2002,w,premier-league
 Leeds United,Shane Cansdell-Sherriff,19,Australia,Centre-Back,CB,-,Rochdale AFC,England,Loan,Out,2002,w,premier-league
 Leeds United,Olivier Dacourt,28,France,Defensive Midfield,DM,-,AS Roma,Italy,Loan,Out,2002,w,premier-league
@@ -555,13 +555,13 @@ Leeds United,Tom Newey,20,England,Left-Back,LB,-,Cambridge United,England,Loan,O
 Leeds United,Frazer Richardson,20,England,Right-Back,RB,-,Stoke City,England,Loan,Out,2002,w,premier-league
 Leeds United,Tom Newey,20,England,Left-Back,LB,-,Darlington FC (liq.),England,Loan,Out,2002,w,premier-league
 Leeds United,Harpal Singh,21,India,Left Midfield,LM,-,Bradford City,England,Loan,Out,2002,w,premier-league
-Leeds United,Craig Farrell,19,England,Centre-Forward,CF,-,Carlisle United,England,£14k,Out,2002,w,premier-league
-Chelsea FC,Mikael Forssell,21,Finland,Centre-Forward,CF,-,Borussia Mönchengladbach,Germany,Loan fee:£450k,Out,2002,w,premier-league
+Leeds United,Craig Farrell,19,England,Centre-Forward,CF,-,Carlisle United,England,£14Th.,Out,2002,w,premier-league
+Chelsea FC,Mikael Forssell,21,Finland,Centre-Forward,CF,-,Borussia Mönchengladbach,Germany,Loan fee:£450Th.,Out,2002,w,premier-league
 Chelsea FC,Warren Cummings,22,Scotland,Left-Back,LB,-,AFC Bournemouth,England,Free transfer,Out,2002,w,premier-league
 Chelsea FC,Kevin Hitchcock,40,England,Goalkeeper,GK,-,Watford FC,England,Free transfer,Out,2002,w,premier-league
 Chelsea FC,Carlton Cole,19,England,Centre-Forward,CF,-,Wolverhampton Wanderers,England,Loan,Out,2002,w,premier-league
 Chelsea FC,Mark Bosnich,31,Australia,Goalkeeper,GK,-,,Retired,-,Out,2002,w,premier-league
-West Ham United,Grant McCann,22,Northern Ireland,Central Midfield,CM,-,Cheltenham Town,England,£68k,Out,2002,w,premier-league
+West Ham United,Grant McCann,22,Northern Ireland,Central Midfield,CM,-,Cheltenham Town,England,£68Th.,Out,2002,w,premier-league
 West Ham United,Titi Camara,30,Guinea,Centre-Forward,CF,-,Al-Ittihad Jeddah,Saudi Arabia,Loan,Out,2002,w,premier-league
 West Ham United,Izzy Iriekpen,20,England,Centre-Back,CB,-,Leyton Orient,England,Loan,Out,2002,w,premier-league
 West Ham United,Glen Johnson,18,England,Right-Back,RB,-,Millwall FC,England,Loan,Out,2002,w,premier-league
@@ -590,20 +590,20 @@ Tottenham Hotspur,Les Ferdinand,36,England,Centre-Forward,CF,-,West Ham United,E
 Tottenham Hotspur,Rob Burch,19,England,Goalkeeper,GK,-,Woking FC,England,Loan,Out,2002,w,premier-league
 Tottenham Hotspur,John Sutton,18,England,Centre-Forward,CF,-,Carlisle United,England,Loan,Out,2002,w,premier-league
 Tottenham Hotspur,John Sutton,18,England,Centre-Forward,CF,-,Swindon Town,England,Loan,Out,2002,w,premier-league
-Blackburn Rovers,Jonathan Douglas,21,Ireland,Central Midfield,CM,-,Chesterfield FC,England,Loan,Out,2002,w,premier-league
-Blackburn Rovers,Marc Richards,20,England,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,2002,w,premier-league
 Blackburn Rovers,Matt Jansen,25,England,Centre-Forward,CF,-,Coventry City,England,Loan,Out,2002,w,premier-league
 Blackburn Rovers,Jim Corbett,22,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,Loan,Out,2002,w,premier-league
 Blackburn Rovers,Alan Mahon,24,Ireland,Left Midfield,LM,-,Cardiff City,England,Loan,Out,2002,w,premier-league
 Blackburn Rovers,John Curtis,24,England,Right-Back,RB,-,Sheffield United,England,Loan,Out,2002,w,premier-league
 Blackburn Rovers,Craig Hignett,32,England,Right Winger,RW,-,Coventry City,England,Loan,Out,2002,w,premier-league
+Blackburn Rovers,Jonathan Douglas,21,Ireland,Central Midfield,CM,-,Chesterfield FC,England,Loan,Out,2002,w,premier-league
+Blackburn Rovers,Marc Richards,20,England,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,2002,w,premier-league
 Blackburn Rovers,Michael Taylor,20,England,Centre-Back,CB,-,Rochdale AFC,England,Loan,Out,2002,w,premier-league
-Southampton FC,Garry Monk,23,England,Centre-Back,CB,-,Sheffield Wednesday,England,Loan,Out,2002,w,premier-league
-Southampton FC,Andrey Kanchelskis,34,Russia,Right Midfield,RM,-,Al-Hilal Riyadh,Saudi Arabia,Free transfer,Out,2002,w,premier-league
-Southampton FC,Alan Blayney,21,Northern Ireland,Goalkeeper,GK,-,AFC Bournemouth,England,Loan,Out,2002,w,premier-league
 Southampton FC,Tahar El Khalej,34,Morocco,Centre-Back,CB,-,Charlton Athletic,England,Free transfer,Out,2002,w,premier-league
 Southampton FC,Alan Blayney,20,Northern Ireland,Goalkeeper,GK,-,Stockport County,England,Loan,Out,2002,w,premier-league
 Southampton FC,Scott McDonald,19,Australia,Centre-Forward,CF,-,AFC Bournemouth,England,Loan,Out,2002,w,premier-league
+Southampton FC,Garry Monk,23,England,Centre-Back,CB,-,Sheffield Wednesday,England,Loan,Out,2002,w,premier-league
+Southampton FC,Andrey Kanchelskis,34,Russia,Right Midfield,RM,-,Al-Hilal Riyadh,Saudi Arabia,Free transfer,Out,2002,w,premier-league
+Southampton FC,Alan Blayney,21,Northern Ireland,Goalkeeper,GK,-,AFC Bournemouth,England,Loan,Out,2002,w,premier-league
 Middlesbrough FC,Dean Windass,33,England,Centre-Forward,CF,-,Sheffield United,England,Free transfer,Out,2002,w,premier-league
 Middlesbrough FC,Mark Hudson,22,England,Central Midfield,CM,-,Carlisle United,England,Loan,Out,2002,w,premier-league
 Middlesbrough FC,Keith Gilroy,19,Ireland,Left Midfield,LM,-,Scarborough FC (diss.),England,Free transfer,Out,2002,w,premier-league
@@ -622,10 +622,10 @@ Fulham FC,Stuart Noble,19,Scotland,Centre-Forward,CF,-,St. Johnstone FC,Scotland
 Fulham FC,Glyn Thompson,21,England,Goalkeeper,GK,-,Northampton Town,England,Free transfer,Out,2002,w,premier-league
 Fulham FC,Luke Cornwall,22,England,Centre-Forward,CF,-,Lincoln City,England,Loan,Out,2002,w,premier-league
 Fulham FC,Chris Coleman,32,Wales,Centre-Back,CB,-,,Retired,-,Out,2002,w,premier-league
+Charlton Athletic,Ben Roberts,27,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2002,w,premier-league
 Charlton Athletic,Steve Brown,30,England,Centre-Back,CB,-,Reading FC,England,Free transfer,Out,2002,w,premier-league
 Charlton Athletic,Michael Turner,19,England,Centre-Back,CB,-,Leyton Orient,England,Loan,Out,2002,w,premier-league
-Charlton Athletic,Ben Roberts,27,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2002,w,premier-league
-Everton FC,Kevin McLeod,22,Scotland,Left Midfield,LM,-,Queens Park Rangers,England,£338k,Out,2002,w,premier-league
+Everton FC,Kevin McLeod,22,Scotland,Left Midfield,LM,-,Queens Park Rangers,England,£338Th.,Out,2002,w,premier-league
 Everton FC,Peter Clarke,21,England,Centre-Back,CB,-,Port Vale FC,England,Loan,Out,2002,w,premier-league
 Everton FC,George Pilkington,20,England,Centre-Back,CB,-,Exeter City,England,Loan,Out,2002,w,premier-league
 Everton FC,Nick Chadwick,20,England,Centre-Forward,CF,-,Derby County,England,Loan,Out,2002,w,premier-league
@@ -635,6 +635,8 @@ Everton FC,Leon Osman,21,England,Central Midfield,CM,-,Carlisle United,England,L
 Everton FC,Joe-Max Moore,31,United States,Centre-Forward,CF,-,New England Revolution,United States,Free transfer,Out,2002,w,premier-league
 Everton FC,Brian McBride,30,United States,Centre-Forward,CF,-,Columbus Crew,United States,"End of loanMar 21, 2003",Out,2002,w,premier-league
 Bolton Wanderers,Michael Ricketts,24,England,Centre-Forward,CF,-,Middlesbrough FC,England,£4.73m,Out,2002,w,premier-league
+Bolton Wanderers,Delroy Facey,22,Grenada,Centre-Forward,CF,-,Bradford City,England,Loan,Out,2002,w,premier-league
+Bolton Wanderers,Nicky Southall,30,England,Right Midfield,RM,-,Gillingham FC,England,Free transfer,Out,2002,w,premier-league
 Bolton Wanderers,Cleveland Taylor,19,Jamaica,Right Midfield,RM,-,Scarborough Athletic,England,Loan,Out,2002,w,premier-league
 Bolton Wanderers,Gareth Farrelly,27,Ireland,Left Midfield,LM,-,Rotherham United,England,Loan,Out,2002,w,premier-league
 Bolton Wanderers,Leam Richardson,23,England,Left-Back,LB,-,Blackpool FC,England,Free transfer,Out,2002,w,premier-league
@@ -643,9 +645,7 @@ Bolton Wanderers,Steve Banks,31,England,Goalkeeper,GK,-,Stoke City,England,Free 
 Bolton Wanderers,Derek Niven,18,Scotland,Defensive Midfield,DM,-,Chesterfield FC,England,Free transfer,Out,2002,w,premier-league
 Bolton Wanderers,Paul Warhurst,33,England,Centre-Back,CB,-,Stoke City,England,Loan,Out,2002,w,premier-league
 Bolton Wanderers,Jonathan Walters,19,Ireland,Right Winger,RW,-,Hull City,England,Loan,Out,2002,w,premier-league
-Bolton Wanderers,Delroy Facey,22,Grenada,Centre-Forward,CF,-,Bradford City,England,Loan,Out,2002,w,premier-league
-Bolton Wanderers,Nicky Southall,30,England,Right Midfield,RM,-,Gillingham FC,England,Free transfer,Out,2002,w,premier-league
-Bolton Wanderers,David Norris,21,England,Central Midfield,CM,-,Plymouth Argyle,England,£34k,Out,2002,w,premier-league
+Bolton Wanderers,David Norris,21,England,Central Midfield,CM,-,Plymouth Argyle,England,£34Th.,Out,2002,w,premier-league
 Bolton Wanderers,Colin Hendry,36,Scotland,Centre-Back,CB,-,Blackpool FC,England,Loan,Out,2002,w,premier-league
 Bolton Wanderers,Steve Banks,30,England,Goalkeeper,GK,-,Stoke City,England,Loan,Out,2002,w,premier-league
 Bolton Wanderers,David Holdsworth,33,England,Defender,Defender,-,Scarborough FC (diss.),England,?,Out,2002,w,premier-league

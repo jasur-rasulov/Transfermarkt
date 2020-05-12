@@ -1,0 +1,751 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+Real Madrid,Theo Hernández,19,France,Left-Back,LB,£13.50m,Atlético Madrid,Spain,£21.60m,In,2017,s,laliga
+Real Madrid,Dani Ceballos,20,Spain,Central Midfield,CM,£9.00m,Real Betis Balompié,Spain,£14.85m,In,2017,s,laliga
+Real Madrid,Philipp Lienhart,20,Austria,Centre-Back,CB,£720Th.,Real Madrid Castilla,Spain,-,In,2017,s,laliga
+Real Madrid,Achraf Hakimi,18,Morocco,Right-Back,RB,£270Th.,Real Madrid Castilla,Spain,-,In,2017,s,laliga
+Real Madrid,Borja Mayoral,20,Spain,Centre-Forward,CF,£2.25m,VfL Wolfsburg,Germany,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Madrid,Diego Llorente,23,Spain,Centre-Back,CB,£6.75m,Málaga CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Madrid,Jesús Vallejo,20,Spain,Centre-Back,CB,£7.20m,Eintracht Frankfurt,Germany,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Madrid,Burgui,23,Spain,Left Winger,LW,£1.35m,Sporting Gijón,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Madrid,Marcos Llorente,22,Spain,Defensive Midfield,DM,£13.50m,Deportivo Alavés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+FC Barcelona,Ousmane Dembélé,20,France,Right Winger,RW,£29.70m,Borussia Dortmund,Germany,£112.50m,In,2017,s,laliga
+FC Barcelona,Paulinho,29,Brazil,Central Midfield,CM,£13.50m,Guangzhou Evergrande Taobao,China,£36.00m,In,2017,s,laliga
+FC Barcelona,Nélson Semedo,23,Portugal,Right-Back,RB,£18.00m,SL Benfica,Portugal,£32.13m,In,2017,s,laliga
+FC Barcelona,Gerard Deulofeu,23,Spain,Left Winger,LW,£10.80m,Everton FC,England,£10.80m,In,2017,s,laliga
+FC Barcelona,Marlon,21,Brazil,Centre-Back,CB,£4.50m,Fluminense Football Club,Brazil,£4.50m,In,2017,s,laliga
+FC Barcelona,Thomas Vermaelen,31,Belgium,Centre-Back,CB,£2.70m,AS Roma,Italy,"End of loanJun 30, 2017",In,2017,s,laliga
+FC Barcelona,Douglas,26,Brazil,Right-Back,RB,£1.35m,Sporting Gijón,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+FC Barcelona,Sergi Samper,22,Spain,Defensive Midfield,DM,£3.15m,Granada CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+FC Barcelona,Cristian Tello,25,Spain,Left Winger,LW,£7.20m,ACF Fiorentina,Italy,"End of loanJun 30, 2017",In,2017,s,laliga
+FC Barcelona,Munir El Haddadi,21,Spain,Centre-Forward,CF,£8.10m,Valencia CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Vitolo,27,Spain,Left Winger,LW,£22.50m,Sevilla FC,Spain,£32.40m,In,2017,s,laliga
+Atlético Madrid,Guilherme Siqueira,31,Brazil,Left-Back,LB,£1.35m,Valencia CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Theo Hernández,19,France,Left-Back,LB,£13.50m,Deportivo Alavés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Bernard Mensah,22,Ghana,Attacking Midfield,AM,£1.35m,Vitória Guimarães SC,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Óliver Torres,22,Spain,Central Midfield,CM,£12.60m,FC Porto,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Héctor Hernández,21,Spain,Centre-Forward,CF,£360Th.,Albacete Balompié,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Luciano Vietto,23,Argentina,Centre-Forward,CF,£10.80m,Sevilla FC,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Santos Borré,21,Colombia,Centre-Forward,CF,£1.80m,Villarreal CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Javier Manquillo,23,Spain,Right-Back,RB,£3.60m,Sunderland AFC,England,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Amath Ndiaye,20,Senegal,Left Winger,LW,£900Th.,CD Tenerife,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Matías Kranevitter,24,Argentina,Defensive Midfield,DM,£5.40m,Sevilla FC,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Axel Werner,21,Argentina,Goalkeeper,GK,£900Th.,Club Atlético Boca Juniors,Argentina,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Emiliano Velázquez,23,Uruguay,Centre-Back,CB,£900Th.,SC Braga,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+Atlético Madrid,Diogo Jota,20,Portugal,Left Winger,LW,£7.20m,FC Porto,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+Sevilla FC,Luis Muriel,26,Colombia,Centre-Forward,CF,£15.30m,UC Sampdoria,Italy,£22.05m,In,2017,s,laliga
+Sevilla FC,Simon Kjaer,28,Denmark,Centre-Back,CB,£9.90m,Fenerbahce SK,Turkey,£11.25m,In,2017,s,laliga
+Sevilla FC,Guido Pizarro,27,Argentina,Defensive Midfield,DM,£4.50m,Tigres UANL,Mexico,£7.83m,In,2017,s,laliga
+Sevilla FC,Éver Banega,29,Argentina,Central Midfield,CM,£14.40m,Inter Milan,Italy,£6.30m,In,2017,s,laliga
+Sevilla FC,Nolito,30,Spain,Left Winger,LW,£10.80m,Manchester City,England,£6.30m,In,2017,s,laliga
+Sevilla FC,Sébastien Corchia,26,France,Right-Back,RB,£6.75m,LOSC Lille,France,£4.50m,In,2017,s,laliga
+Sevilla FC,Johannes Geis,24,Germany,Defensive Midfield,DM,£9.00m,FC Schalke 04,Germany,Loan fee:£1.80m,In,2017,s,laliga
+Sevilla FC,Lionel Carole,26,France,Left-Back,LB,£2.93m,Galatasaray SK,Turkey,Loan fee:£315Th.,In,2017,s,laliga
+Sevilla FC,Jesús Navas,31,Spain,Right-Back,RB,£10.80m,Manchester City,England,Free transfer,In,2017,s,laliga
+Sevilla FC,Borja Lasso,23,Spain,Attacking Midfield,AM,£1.35m,Sevilla Atlético,Spain,-,In,2017,s,laliga
+Sevilla FC,Sebastián Cristóforo,23,Uruguay,Central Midfield,CM,£2.43m,ACF Fiorentina,Italy,"End of loanJun 30, 2017",In,2017,s,laliga
+Sevilla FC,Juan Muñoz,21,Spain,Centre-Forward,CF,£450Th.,Levante UD,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Sevilla FC,Yevgen Konoplyanka,27,Ukraine,Left Winger,LW,£9.00m,FC Schalke 04,Germany,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Enes Ünal,20,Turkey,Centre-Forward,CF,£9.00m,Manchester City,England,£12.60m,In,2017,s,laliga
+Villarreal CF,Rúben Semedo,23,Portugal,Centre-Back,CB,£8.10m,Sporting CP,Portugal,£12.60m,In,2017,s,laliga
+Villarreal CF,Pablo Fornals,21,Spain,Attacking Midfield,AM,£9.00m,Málaga CF,Spain,£10.80m,In,2017,s,laliga
+Villarreal CF,Carlos Bacca,30,Colombia,Centre-Forward,CF,£16.20m,AC Milan,Italy,Loan fee:£2.25m,In,2017,s,laliga
+Villarreal CF,Andrés Fernández,30,Spain,Goalkeeper,GK,£1.35m,FC Porto,Portugal,£1.80m,In,2017,s,laliga
+Villarreal CF,Pablo Iñiguez,23,Spain,Centre-Back,CB,£270Th.,Rayo Vallecano,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Alfonso Pedraza,21,Spain,Left-Back,LB,£900Th.,Leeds United,England,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Akram Afif,20,Qatar,Left Winger,LW,£540Th.,Sporting Gijón,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Cristian Espinoza,22,Argentina,Right Winger,RW,£2.25m,Real Valladolid CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Adrián Marín,20,Spain,Left-Back,LB,£900Th.,CD Leganés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Villarreal CF,Alfred N'Diaye,27,Senegal,Defensive Midfield,DM,£4.50m,Hull City,England,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Sociedad,Adnan Januzaj,22,Belgium,Right Winger,RW,£6.30m,Manchester United,England,£7.65m,In,2017,s,laliga
+Real Sociedad,Diego Llorente,23,Spain,Centre-Back,CB,£6.75m,Real Madrid,Spain,£6.30m,In,2017,s,laliga
+Real Sociedad,Alberto de la Bella,31,Spain,Left-Back,LB,£1.13m,Olympiacos Piraeus,Greece,"End of loanJul 27, 2017",In,2017,s,laliga
+Real Sociedad,Kévin Rodrigues,23,Portugal,Left-Back,LB,£270Th.,Real Sociedad B,Spain,-,In,2017,s,laliga
+Real Sociedad,Jon Guridi,22,Spain,Central Midfield,CM,£270Th.,Real Sociedad B,Spain,-,In,2017,s,laliga
+Real Sociedad,Igor Zubeldia,20,Spain,Defensive Midfield,DM,£315Th.,Real Sociedad B,Spain,-,In,2017,s,laliga
+Real Sociedad,Alain Oyarzun,23,Spain,Left Winger,LW,£180Th.,CD Mirandés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Sociedad,Rubén Pardo,24,Spain,Central Midfield,CM,£3.60m,Real Betis Balompié,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Sociedad,Srdjan Babic,21,Serbia,Centre-Back,CB,£540Th.,CF Reus Deportiu,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Sociedad,Pablo Hervías,24,Spain,Right Winger,RW,£450Th.,Elche CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Sociedad,Héctor Hernández,26,Spain,Left-Back,LB,£540Th.,Granada CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Iñigo Córdoba,20,Spain,Left Winger,LW,£270Th.,Bilbao Athletic,Spain,-,In,2017,s,laliga
+Athletic Bilbao,Unai Núñez,20,Spain,Centre-Back,CB,£270Th.,Bilbao Athletic,Spain,-,In,2017,s,laliga
+Athletic Bilbao,Unai López,21,Spain,Central Midfield,CM,£1.80m,CD Leganés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Ager Aketxe,23,Spain,Attacking Midfield,AM,£900Th.,Cádiz CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Urtzi Iriondo,22,Spain,Left-Back,LB,£270Th.,Elche CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Mikel Vesga,24,Spain,Defensive Midfield,DM,£1.35m,Sporting Gijón,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Iago Herrerín,29,Spain,Goalkeeper,GK,£2.70m,CD Leganés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Athletic Bilbao,Kike Sola,31,Spain,Centre-Forward,CF,£450Th.,CD Numancia,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Mario Hermoso,22,Spain,Centre-Back,CB,£360Th.,Real Madrid Castilla,Spain,£11.25m,In,2017,s,laliga
+RCD Espanyol Barcelona,Naldo,28,Brazil,Centre-Back,CB,£3.60m,FK Krasnodar,Russia,£2.25m,In,2017,s,laliga
+RCD Espanyol Barcelona,Pablo Piatti,28,Argentina,Left Winger,LW,£5.40m,Valencia CF,Spain,£1.17m,In,2017,s,laliga
+RCD Espanyol Barcelona,Sergi Darder,23,Spain,Central Midfield,CM,£9.90m,Olympique Lyon,France,Loan fee:£270Th.,In,2017,s,laliga
+RCD Espanyol Barcelona,Dídac Vilà,28,Spain,Left-Back,LB,£900Th.,AEK Athens,Greece,£225Th.,In,2017,s,laliga
+RCD Espanyol Barcelona,Sergio García,34,Spain,Centre-Forward,CF,£2.70m,Al Rayyan Sports Club,Qatar,Free transfer,In,2017,s,laliga
+RCD Espanyol Barcelona,Diego López,35,Spain,Goalkeeper,GK,£900Th.,AC Milan,Italy,Free transfer,In,2017,s,laliga
+RCD Espanyol Barcelona,Esteban Granero,30,Spain,Central Midfield,CM,£1.80m,Real Sociedad,Spain,Free transfer,In,2017,s,laliga
+RCD Espanyol Barcelona,Sergio Sánchez,31,Spain,Centre-Back,CB,£900Th.,Rubin Kazan,Russia,Loan,In,2017,s,laliga
+RCD Espanyol Barcelona,Oscar Melendo,19,Spain,Right Winger,RW,£450Th.,RCD Espanyol B,Spain,-,In,2017,s,laliga
+RCD Espanyol Barcelona,Jairo Morillas,23,Spain,Centre-Forward,CF,£270Th.,CD Numancia,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Joan Jordán,22,Spain,Central Midfield,CM,£900Th.,Real Valladolid CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Roberto Correa,24,Spain,Right-Back,RB,£450Th.,Elche CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Pau López,22,Spain,Goalkeeper,GK,£1.35m,Tottenham Hotspur,England,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Mamadou Sylla,23,Senegal,Centre-Forward,CF,£2.70m,KAS Eupen,Belgium,"End of loanJun 30, 2017",In,2017,s,laliga
+RCD Espanyol Barcelona,Paco Montañés,30,Spain,Left Winger,LW,£630Th.,Levante UD,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo Alavés,Burgui,23,Spain,Left Winger,LW,£1.35m,Real Madrid,Spain,£2.70m,In,2017,s,laliga
+Deportivo Alavés,Rodrigo Ely,23,Brazil,Centre-Back,CB,£1.80m,AC Milan,Italy,£2.52m,In,2017,s,laliga
+Deportivo Alavés,Guillermo Maripán,23,Chile,Centre-Back,CB,£495Th.,CD Universidad Católica,Chile,£1.92m,In,2017,s,laliga
+Deportivo Alavés,Antonio Sivera,20,Spain,Goalkeeper,GK,£270Th.,Valencia Mestalla,Spain,£1.80m,In,2017,s,laliga
+Deportivo Alavés,Rubén Sobrino,25,Spain,Centre-Forward,CF,£450Th.,Manchester City,England,£1.80m,In,2017,s,laliga
+Deportivo Alavés,Rubén Duarte,21,Spain,Left-Back,LB,£900Th.,RCD Espanyol Barcelona,Spain,£360Th.,In,2017,s,laliga
+Deportivo Alavés,Juanan Entrena,21,Spain,Left Winger,LW,£180Th.,Recreativo Granada,Spain,Free transfer,In,2017,s,laliga
+Deportivo Alavés,Cristian Glauder,21,Spain,Left-Back,LB,£225Th.,RCD Espanyol B,Spain,Free transfer,In,2017,s,laliga
+Deportivo Alavés,Enzo Zidane,22,France,Attacking Midfield,AM,£2.25m,Real Madrid Castilla,Spain,Free transfer,In,2017,s,laliga
+Deportivo Alavés,Mubarak Wakaso,26,Ghana,Central Midfield,CM,£900Th.,Panathinaikos Athens,Greece,Free transfer,In,2017,s,laliga
+Deportivo Alavés,Nando García,23,Spain,Right Winger,RW,£360Th.,Valencia Mestalla,Spain,Free transfer,In,2017,s,laliga
+Deportivo Alavés,Munir El Haddadi,22,Spain,Centre-Forward,CF,£8.10m,FC Barcelona,Spain,Loan,In,2017,s,laliga
+Deportivo Alavés,Tomás Pina,29,Spain,Central Midfield,CM,£1.35m,Club Brugge KV,Belgium,Loan,In,2017,s,laliga
+Deportivo Alavés,Álvaro Medrán,23,Spain,Central Midfield,CM,£2.25m,Valencia CF,Spain,Loan,In,2017,s,laliga
+Deportivo Alavés,Bojan Krkic,27,Spain,Second Striker,SS,£4.50m,Stoke City,England,Loan,In,2017,s,laliga
+Deportivo Alavés,Héctor Hernández,26,Spain,Left-Back,LB,£540Th.,Real Sociedad,Spain,Loan,In,2017,s,laliga
+Deportivo Alavés,Alfonso Pedraza,21,Spain,Left-Back,LB,£900Th.,Villarreal CF,Spain,Loan,In,2017,s,laliga
+SD Eibar,Paulo Oliveira,25,Portugal,Centre-Back,CB,£3.60m,Sporting CP,Portugal,£3.60m,In,2017,s,laliga
+SD Eibar,Marko Dmitrovic,25,Serbia,Goalkeeper,GK,£900Th.,AD Alcorcón,Spain,£900Th.,In,2017,s,laliga
+SD Eibar,Joan Jordán,23,Spain,Central Midfield,CM,£900Th.,RCD Espanyol Barcelona,Spain,£900Th.,In,2017,s,laliga
+SD Eibar,Yoel Rodríguez,28,Spain,Goalkeeper,GK,£2.25m,Valencia CF,Spain,£675Th.,In,2017,s,laliga
+SD Eibar,Iván Alejo,22,Spain,Right Winger,RW,£270Th.,AD Alcorcón,Spain,£270Th.,In,2017,s,laliga
+SD Eibar,José Ángel,27,Spain,Left-Back,LB,£1.35m,FC Porto,Portugal,Free transfer,In,2017,s,laliga
+SD Eibar,Charles,33,Brazil,Centre-Forward,CF,£1.35m,Málaga CF,Spain,Free transfer,In,2017,s,laliga
+SD Eibar,David Lombán,30,Spain,Centre-Back,CB,£2.25m,,Without Club,Free transfer,In,2017,s,laliga
+SD Eibar,Pablo Hervías,24,Spain,Right Winger,RW,£450Th.,Real Sociedad,Spain,Free transfer,In,2017,s,laliga
+SD Eibar,Roger Escoruela,21,Spain,Left-Back,LB,£45Th.,Real Unión Club,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Juanfran,25,Spain,Centre-Forward,CF,£180Th.,UD Logroñés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Jordi Calavera,21,Spain,Right-Back,RB,£720Th.,CD Lugo,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Jon Ander Felipe,22,Spain,Goalkeeper,GK,£90Th.,UE Llagostera,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Jon Ander Amelibia,23,Spain,Centre-Back,CB,£270Th.,UD Logroñés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Íñigo Barrenetxea,23,Spain,Central Midfield,CM,£180Th.,Sestao River,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Thaylor,23,Angola,Right Winger,RW,£225Th.,Real Unión Club,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Sergio García,27,Spain,Left Winger,LW,£90Th.,UD Logroñés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Pere Milla,24,Spain,Left Winger,LW,£270Th.,UCAM Murcia CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+SD Eibar,Unai Elgezabal,24,Spain,Centre-Back,CB,£270Th.,AD Alcorcón,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Málaga CF,Emanuel Cecchini,20,Argentina,Central Midfield,CM,£1.58m,Club Atlético Banfield,Argentina,£4.14m,In,2017,s,laliga
+Málaga CF,Esteban Rolón,22,Argentina,Defensive Midfield,DM,£68Th.,Asociación Atlética Argentinos Juniors,Argentina,£2.88m,In,2017,s,laliga
+Málaga CF,Diego González,22,Spain,Centre-Back,CB,£1.35m,Sevilla Atlético,Spain,£1.80m,In,2017,s,laliga
+Málaga CF,Cenk Gönen,29,Turkey,Goalkeeper,GK,£585Th.,Galatasaray SK,Turkey,£180Th.,In,2017,s,laliga
+Málaga CF,Adrián González,29,Spain,Attacking Midfield,AM,£2.70m,SD Eibar,Spain,Free transfer,In,2017,s,laliga
+Málaga CF,Andrés Prieto,23,Spain,Goalkeeper,GK,£270Th.,RCD Espanyol B,Spain,Free transfer,In,2017,s,laliga
+Málaga CF,Juankar,27,Spain,Left-Back,LB,£2.25m,SC Braga,Portugal,Free transfer,In,2017,s,laliga
+Málaga CF,Paul Baysse,29,France,Centre-Back,CB,£3.15m,OGC Nice,France,Free transfer,In,2017,s,laliga
+Málaga CF,Borja Bastón,24,Spain,Centre-Forward,CF,£9.00m,Swansea City,England,Loan,In,2017,s,laliga
+Málaga CF,Diego Rolán,24,Uruguay,Centre-Forward,CF,£7.20m,FC Girondins Bordeaux,France,Loan,In,2017,s,laliga
+Málaga CF,Roberto,31,Spain,Goalkeeper,GK,£1.80m,RCD Espanyol Barcelona,Spain,Loan,In,2017,s,laliga
+Málaga CF,Álex Mula,20,Spain,Left Winger,LW,-,Atlético Malagueño,Spain,-,In,2017,s,laliga
+Málaga CF,Luis Muñoz,20,Spain,Defensive Midfield,DM,-,Atlético Malagueño,Spain,-,In,2017,s,laliga
+Málaga CF,Ricardo Horta,22,Portugal,Left Winger,LW,£1.58m,SC Braga,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+Málaga CF,Adnane Tighadouini,24,Morocco,Left Winger,LW,£765Th.,Vitesse Arnhem,Netherlands,"End of loanJun 30, 2017",In,2017,s,laliga
+Málaga CF,Guillermo Ochoa,31,Mexico,Goalkeeper,GK,£2.70m,Granada CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Málaga CF,Miguel Cifuentes,26,Spain,Right-Back,RB,£720Th.,Girona FC,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Simone Zaza,26,Italy,Centre-Forward,CF,£13.50m,Juventus FC,Italy,£14.40m,In,2017,s,laliga
+Valencia CF,Gabriel Paulista,26,Brazil,Centre-Back,CB,£11.70m,Arsenal FC,England,£9.90m,In,2017,s,laliga
+Valencia CF,Neto,27,Brazil,Goalkeeper,GK,£5.40m,Juventus FC,Italy,£6.30m,In,2017,s,laliga
+Valencia CF,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,Celta de Vigo,Spain,£2.70m,In,2017,s,laliga
+Valencia CF,Andreas Pereira,21,Brazil,Attacking Midfield,AM,£4.50m,Manchester United,England,Loan fee:£2.70m,In,2017,s,laliga
+Valencia CF,Jeison Murillo,25,Colombia,Centre-Back,CB,£11.70m,Inter Milan,Italy,Loan fee:£900Th.,In,2017,s,laliga
+Valencia CF,Nemanja Maksimovic,22,Serbia,Central Midfield,CM,£2.70m,FC Astana,Kazakhstan,Free transfer,In,2017,s,laliga
+Valencia CF,Gonçalo Guedes,20,Portugal,Left Winger,LW,£15.30m,Paris Saint-Germain,France,Loan,In,2017,s,laliga
+Valencia CF,Geoffrey Kondogbia,24,Central African Republic,Central Midfield,CM,£16.20m,Inter Milan,Italy,Loan,In,2017,s,laliga
+Valencia CF,Aderllan Santos,29,Brazil,Centre-Back,CB,£2.70m,São Paulo Futebol Clube,Brazil,"End of loanApr 23, 2018",In,2017,s,laliga
+Valencia CF,Nacho Vidal,22,Spain,Right-Back,RB,£270Th.,Valencia Mestalla,Spain,-,In,2017,s,laliga
+Valencia CF,Toni Lato,19,Spain,Left-Back,LB,£2.70m,Valencia Mestalla,Spain,-,In,2017,s,laliga
+Valencia CF,Nacho Gil,21,Spain,Left Winger,LW,£270Th.,Valencia Mestalla,Spain,-,In,2017,s,laliga
+Valencia CF,Álvaro Negredo,31,Spain,Centre-Forward,CF,£6.75m,Middlesbrough FC,England,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Vinícius Araújo,24,Brazil,Centre-Forward,CF,£630Th.,SD Huesca,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Pablo Piatti,28,Argentina,Left Winger,LW,£5.40m,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Robert Ibáñez,24,Spain,Right Winger,RW,£1.35m,CD Leganés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Yoel Rodríguez,28,Spain,Goalkeeper,GK,£2.25m,SD Eibar,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Rúben Vezo,23,Portugal,Centre-Back,CB,£1.35m,Granada CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Valencia CF,Mathew Ryan,25,Australia,Goalkeeper,GK,£3.15m,KRC Genk,Belgium,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,Emre Mor,20,Turkey,Right Winger,RW,£4.50m,Borussia Dortmund,Germany,£11.70m,In,2017,s,laliga
+Celta de Vigo,Stanislav Lobotka,22,Slovakia,Defensive Midfield,DM,£900Th.,FC Nordsjaelland,Denmark,£4.50m,In,2017,s,laliga
+Celta de Vigo,Maxi Gómez,20,Uruguay,Centre-Forward,CF,£990Th.,Defensor Sporting Club,Uruguay,£3.60m,In,2017,s,laliga
+Celta de Vigo,Jozabed Sánchez,26,Spain,Central Midfield,CM,£3.15m,Fulham FC,England,£3.15m,In,2017,s,laliga
+Celta de Vigo,Iván Villar,19,Spain,Goalkeeper,GK,£270Th.,Celta Vigo B,Spain,-,In,2017,s,laliga
+Celta de Vigo,Levy Madinda,25,Gabon,Attacking Midfield,AM,£720Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,Dejan Drazic,21,Serbia,Left Winger,LW,£540Th.,Real Valladolid CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,Pedro Martín,25,Spain,Centre-Forward,CF,£270Th.,CD Mirandés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,Valencia CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,Álex López,29,Spain,Central Midfield,CM,£900Th.,Real Valladolid CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Celta de Vigo,David Costas,22,Spain,Centre-Back,CB,£900Th.,Real Oviedo,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+UD Las Palmas,Ximo Navarro,27,Spain,Centre-Back,CB,£1.80m,UD Almería,Spain,Free transfer,In,2017,s,laliga
+UD Las Palmas,Alberto Aquilani,33,Italy,Central Midfield,CM,£900Th.,Delfino Pescara 1936,Italy,Free transfer,In,2017,s,laliga
+UD Las Palmas,Loïc Rémy,30,France,Centre-Forward,CF,£8.10m,Chelsea FC,England,Free transfer,In,2017,s,laliga
+UD Las Palmas,Oussama Tannane,23,Morocco,Right Winger,RW,£2.70m,AS Saint-Étienne,France,Loan,In,2017,s,laliga
+UD Las Palmas,Leandro Chichizola,27,Argentina,Goalkeeper,GK,£900Th.,Spezia Calcio,Italy,Free transfer,In,2017,s,laliga
+UD Las Palmas,Hernán Toledo,21,Argentina,Left Winger,LW,£4.05m,Club Deportivo Maldonado,Uruguay,Loan,In,2017,s,laliga
+UD Las Palmas,Vitolo,27,Spain,Left Winger,LW,£22.50m,Atlético Madrid,Spain,Loan,In,2017,s,laliga
+UD Las Palmas,Jonathan Calleri,23,Argentina,Centre-Forward,CF,£7.20m,Club Deportivo Maldonado,Uruguay,Loan,In,2017,s,laliga
+UD Las Palmas,Sergi Samper,22,Spain,Defensive Midfield,DM,£3.15m,FC Barcelona,Spain,Loan,In,2017,s,laliga
+UD Las Palmas,Borja Herrera,24,Spain,Left-Back,LB,-,Las Palmas Atlético,Spain,-,In,2017,s,laliga
+UD Las Palmas,Héctor Figueroa,28,Spain,Centre-Forward,CF,£225Th.,SD Ponferradina,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+UD Las Palmas,Sergio Araujo,25,Argentina,Centre-Forward,CF,£1.80m,AEK Athens,Greece,"End of loanJun 30, 2017",In,2017,s,laliga
+UD Las Palmas,Tyronne,26,Spain,Attacking Midfield,AM,£360Th.,CD Tenerife,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+UD Las Palmas,Alfredo Ortuño,26,Spain,Centre-Forward,CF,£900Th.,Cádiz CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Betis Balompié,Ryad Boudebouz,27,Algeria,Attacking Midfield,AM,£9.00m,HSC Montpellier,France,£6.30m,In,2017,s,laliga
+Real Betis Balompié,Víctor Camarasa,23,Spain,Central Midfield,CM,£4.50m,Levante UD,Spain,£6.30m,In,2017,s,laliga
+Real Betis Balompié,Cristian Tello,25,Spain,Left Winger,LW,£7.20m,FC Barcelona,Spain,£3.60m,In,2017,s,laliga
+Real Betis Balompié,Sergio León,28,Spain,Centre-Forward,CF,£3.15m,CA Osasuna,Spain,£3.15m,In,2017,s,laliga
+Real Betis Balompié,Zouhair Feddal,27,Morocco,Centre-Back,CB,£2.70m,Deportivo Alavés,Spain,£2.25m,In,2017,s,laliga
+Real Betis Balompié,Andrés Guardado,30,Mexico,Central Midfield,CM,£5.40m,PSV Eindhoven,Netherlands,£2.25m,In,2017,s,laliga
+Real Betis Balompié,Javi García,30,Spain,Defensive Midfield,DM,£6.30m,Zenit St. Petersburg,Russia,£1.35m,In,2017,s,laliga
+Real Betis Balompié,Antonio Barragán,30,Spain,Right-Back,RB,£2.70m,Middlesbrough FC,England,Loan,In,2017,s,laliga
+Real Betis Balompié,Joel Campbell,25,Costa Rica,Right Winger,RW,£5.40m,Arsenal FC,England,Loan,In,2017,s,laliga
+Real Betis Balompié,Jordi Amat,25,Spain,Centre-Back,CB,£2.25m,Swansea City,England,Loan,In,2017,s,laliga
+Real Betis Balompié,Francis Guerrero,21,Spain,Right-Back,RB,-,Betis Deportivo Balompié,Spain,-,In,2017,s,laliga
+Real Betis Balompié,Juanjo Narváez,22,Colombia,Left Winger,LW,£180Th.,Betis Deportivo Balompié,Spain,-,In,2017,s,laliga
+Real Betis Balompié,Francisco Portillo,27,Spain,Right Winger,RW,£1.35m,Getafe CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Betis Balompié,Didier Digard,30,France,Defensive Midfield,DM,£720Th.,CA Osasuna,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Betis Balompié,Dani Pacheco,26,Spain,Left Winger,LW,£1.35m,Getafe CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Betis Balompié,Fabián Ruiz,21,Spain,Central Midfield,CM,£450Th.,Elche CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Guilherme,26,Brazil,Defensive Midfield,DM,£3.60m,Udinese Calcio,Italy,£4.05m,In,2017,s,laliga
+Deportivo de La Coruña,Fabian Schär,25,Switzerland,Centre-Back,CB,£2.25m,TSG 1899 Hoffenheim,Germany,£2.70m,In,2017,s,laliga
+Deportivo de La Coruña,Juanfran,28,Spain,Right-Back,RB,£4.50m,Watford FC,England,£900Th.,In,2017,s,laliga
+Deportivo de La Coruña,Gerard Valentín,23,Spain,Right-Back,RB,£450Th.,Gimnàstic de Tarragona,Spain,£900Th.,In,2017,s,laliga
+Deportivo de La Coruña,Zakaria Bakkali,21,Belgium,Left Winger,LW,£1.80m,Valencia CF,Spain,Loan,In,2017,s,laliga
+Deportivo de La Coruña,Lucas Pérez,28,Spain,Centre-Forward,CF,£13.50m,Arsenal FC,England,Loan,In,2017,s,laliga
+Deportivo de La Coruña,Adrián López,29,Spain,Centre-Forward,CF,£3.15m,FC Porto,Portugal,Loan,In,2017,s,laliga
+Deportivo de La Coruña,Federico Valverde,18,Uruguay,Central Midfield,CM,£2.70m,Real Madrid Castilla,Spain,Loan,In,2017,s,laliga
+Deportivo de La Coruña,Costel Pantilimon,30,Romania,Goalkeeper,GK,£2.70m,Watford FC,England,Loan,In,2017,s,laliga
+Deportivo de La Coruña,Pablo Insua,23,Spain,Centre-Back,CB,£2.70m,CD Leganés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Oriol Riera,30,Spain,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Rubén Martínez,33,Spain,Goalkeeper,GK,£810Th.,RSC Anderlecht,Belgium,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Rober Pier,22,Spain,Centre-Back,CB,£900Th.,Levante UD,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Borja Valle,24,Spain,Left Winger,LW,£630Th.,Elche CF,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Juan Domínguez,27,Spain,Defensive Midfield,DM,£1.08m,RCD Mallorca,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Saúl García,22,Spain,Left-Back,LB,£720Th.,RCD Mallorca,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Deportivo de La Coruña,Fede Cartabia,24,Argentina,Right Winger,RW,£1.35m,SC Braga,Portugal,"End of loanJun 30, 2017",In,2017,s,laliga
+CD Leganés,Dimitrios Siovas,28,Greece,Centre-Back,CB,£1.80m,Olympiacos Piraeus,Greece,£2.70m,In,2017,s,laliga
+CD Leganés,Ezequiel Muñoz,26,Argentina,Centre-Back,CB,£2.70m,Genoa CFC,Italy,£2.25m,In,2017,s,laliga
+CD Leganés,Tito,31,Spain,Right-Back,RB,£2.25m,Granada CF,Spain,£540Th.,In,2017,s,laliga
+CD Leganés,Javi Eraso,27,Spain,Attacking Midfield,AM,£1.35m,Athletic Bilbao,Spain,Free transfer,In,2017,s,laliga
+CD Leganés,Raúl Garcia,28,Spain,Left-Back,LB,£900Th.,Deportivo Alavés,Spain,Free transfer,In,2017,s,laliga
+CD Leganés,Gerard Gumbau,22,Spain,Defensive Midfield,DM,£630Th.,FC Barcelona B,Spain,Free transfer,In,2017,s,laliga
+CD Leganés,Waly Diouf,20,Senegal,Centre-Back,CB,-,AJ Auxerre B,France,Free transfer,In,2017,s,laliga
+CD Leganés,Mauro dos Santos,28,Argentina,Centre-Back,CB,£1.80m,SD Eibar,Spain,Free transfer,In,2017,s,laliga
+CD Leganés,Iván Cuéllar,33,Spain,Goalkeeper,GK,£720Th.,Sporting Gijón,Spain,Free transfer,In,2017,s,laliga
+CD Leganés,Josua Mejías,20,Venezuela,Centre-Back,CB,£225Th.,Carabobo FC,Venezuela,Loan,In,2017,s,laliga
+CD Leganés,Joseba Zaldua,25,Spain,Right-Back,RB,£1.35m,Real Sociedad,Spain,Loan,In,2017,s,laliga
+CD Leganés,Darko Brasanac,25,Serbia,Central Midfield,CM,£3.60m,Real Betis Balompié,Spain,Loan,In,2017,s,laliga
+CD Leganés,Nordin Amrabat,30,Morocco,Right Winger,RW,£4.05m,Watford FC,England,Loan,In,2017,s,laliga
+CD Leganés,Luciano,24,Brazil,Centre-Forward,CF,£2.25m,Sport Club Corinthians Paulista,Brazil,Loan,In,2017,s,laliga
+CD Leganés,Claudio Beauvue,29,Guadeloupe,Centre-Forward,CF,£2.70m,Celta de Vigo,Spain,Loan,In,2017,s,laliga
+CD Leganés,José Naranjo,23,Spain,Left Winger,LW,£1.80m,KRC Genk,Belgium,Loan,In,2017,s,laliga
+CD Leganés,Nereo Champagne,32,Argentina,Goalkeeper,GK,£360Th.,Club Olimpo,Argentina,Loan,In,2017,s,laliga
+CD Leganés,Owusu,20,Ghana,Right Winger,RW,£225Th.,Sporting Club Accra,Ghana,?,In,2017,s,laliga
+CD Leganés,Luciano,25,Brazil,Centre-Forward,CF,£1.80m,Panathinaikos Athens,Greece,-,In,2017,s,laliga
+Levante UD,Emmanuel Boateng,21,Ghana,Centre-Forward,CF,£1.35m,Moreirense FC,Portugal,£1.80m,In,2017,s,laliga
+Levante UD,Cheick Doukouré,24,Cote d'Ivoire,Defensive Midfield,DM,£1.13m,FC Metz,France,£1.44m,In,2017,s,laliga
+Levante UD,Enis Bardhi,22,North Macedonia,Central Midfield,CM,£630Th.,Újpest FC,Hungary,£1.35m,In,2017,s,laliga
+Levante UD,Ivi López,23,Spain,Right Winger,RW,£1.35m,Sevilla Atlético,Spain,£1.08m,In,2017,s,laliga
+Levante UD,Mitchell Langerak,29,Australia,Goalkeeper,GK,£1.35m,VfB Stuttgart,Germany,£540Th.,In,2017,s,laliga
+Levante UD,Oier Olazábal,27,Spain,Goalkeeper,GK,£720Th.,Granada CF,Spain,£180Th.,In,2017,s,laliga
+Levante UD,Samu García,27,Spain,Right Winger,RW,£1.80m,Rubin Kazan,Russia,Free transfer,In,2017,s,laliga
+Levante UD,Alex Alegría,24,Spain,Centre-Forward,CF,£1.80m,Real Betis Balompié,Spain,Loan,In,2017,s,laliga
+Levante UD,Antonio Luna,26,Spain,Left-Back,LB,£1.80m,SD Eibar,Spain,Free transfer,In,2017,s,laliga
+Levante UD,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Villarreal CF,Spain,Loan,In,2017,s,laliga
+Levante UD,Nano Mesa,22,Spain,Centre-Forward,CF,£630Th.,SD Eibar,Spain,Loan,In,2017,s,laliga
+Levante UD,Erick Cabaco,22,Uruguay,Centre-Back,CB,£1.35m,Club Nacional,Uruguay,Loan,In,2017,s,laliga
+Levante UD,Rober Pier,22,Spain,Centre-Back,CB,£900Th.,Deportivo de La Coruña,Spain,Loan,In,2017,s,laliga
+Levante UD,Sasa Lukic,21,Serbia,Central Midfield,CM,£1.98m,Torino FC,Italy,Loan,In,2017,s,laliga
+Levante UD,Deyverson,26,Brazil,Centre-Forward,CF,£4.50m,Deportivo Alavés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Levante UD,Víctor Camarasa,23,Spain,Central Midfield,CM,£4.50m,Deportivo Alavés,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Girona FC,Bernardo Espinosa,27,Colombia,Centre-Back,CB,£2.25m,Middlesbrough FC,England,£4.05m,In,2017,s,laliga
+Girona FC,Cristhian Stuani,30,Uruguay,Centre-Forward,CF,£3.15m,Middlesbrough FC,England,£2.25m,In,2017,s,laliga
+Girona FC,Gorka Iraizoz,36,Spain,Goalkeeper,GK,£450Th.,Athletic Bilbao,Spain,Free transfer,In,2017,s,laliga
+Girona FC,David Timor,27,Spain,Defensive Midfield,DM,£1.80m,CD Leganés,Spain,Free transfer,In,2017,s,laliga
+Girona FC,Carles Planas,26,Spain,Left-Back,LB,£1.35m,Celta de Vigo,Spain,Free transfer,In,2017,s,laliga
+Girona FC,Marc Muniesa,25,Spain,Centre-Back,CB,£2.70m,Stoke City,England,Loan,In,2017,s,laliga
+Girona FC,Marlos Moreno,20,Colombia,Left Winger,LW,£900Th.,Manchester City,England,Loan,In,2017,s,laliga
+Girona FC,Pablo Maffeo,20,Spain,Right-Back,RB,£450Th.,Manchester City,England,Loan,In,2017,s,laliga
+Girona FC,Douglas Luiz,19,Brazil,Central Midfield,CM,-,Manchester City,England,Loan,In,2017,s,laliga
+Girona FC,Johan Mojica,24,Colombia,Left-Back,LB,£900Th.,Rayo Vallecano,Spain,Loan,In,2017,s,laliga
+Girona FC,Farid Boulaya,24,Algeria,Right Winger,RW,£720Th.,SC Bastia,France,?,In,2017,s,laliga
+Girona FC,Aleix García,20,Spain,Central Midfield,CM,£900Th.,Manchester City,England,Loan,In,2017,s,laliga
+Girona FC,Olarenwaju Kayode,24,Nigeria,Centre-Forward,CF,£3.60m,Manchester City,England,Loan,In,2017,s,laliga
+Girona FC,Michael Olunga,23,Kenya,Centre-Forward,CF,£450Th.,Guizhou Hengfeng,China,Loan,In,2017,s,laliga
+Girona FC,Marcel Lizak,20,Poland,Goalkeeper,GK,-,Girona FC B,Spain,-,In,2017,s,laliga
+Girona FC,Albert Vivancos,23,Spain,Central Midfield,CM,£180Th.,UE Llagostera,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Girona FC,Carles Mas,24,Spain,Centre-Back,CB,£180Th.,CF Gavà,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Getafe CF,Amath Ndiaye,21,Senegal,Left Winger,LW,£900Th.,Atlético Madrid,Spain,£2.70m,In,2017,s,laliga
+Getafe CF,Djené,25,Togo,Centre-Back,CB,£720Th.,Sint-Truidense VV,Belgium,£2.25m,In,2017,s,laliga
+Getafe CF,Francisco Portillo,27,Spain,Right Winger,RW,£1.35m,Real Betis Balompié,Spain,£1.35m,In,2017,s,laliga
+Getafe CF,Filip Manojlovic,21,Serbia,Goalkeeper,GK,£900Th.,Red Star Belgrade,Serbia,£1.13m,In,2017,s,laliga
+Getafe CF,Dani Pacheco,26,Spain,Left Winger,LW,£1.35m,Real Betis Balompié,Spain,£900Th.,In,2017,s,laliga
+Getafe CF,Álvaro Jiménez,22,Spain,Right Winger,RW,£900Th.,Real Madrid Castilla,Spain,£900Th.,In,2017,s,laliga
+Getafe CF,Mathí­as Olivera,19,Uruguay,Left-Back,LB,£270Th.,Club Nacional,Uruguay,£765Th.,In,2017,s,laliga
+Getafe CF,Chuli,26,Spain,Centre-Forward,CF,£450Th.,UD Almería,Spain,£630Th.,In,2017,s,laliga
+Getafe CF,Bruno González,27,Spain,Centre-Back,CB,£2.25m,Real Betis Balompié,Spain,£540Th.,In,2017,s,laliga
+Getafe CF,Vitorino Antunes,30,Portugal,Left-Back,LB,£3.60m,Dynamo Kyiv,Ukraine,Loan fee:£450Th.,In,2017,s,laliga
+Getafe CF,Ángel Rodríguez,30,Spain,Centre-Forward,CF,£900Th.,Real Zaragoza,Spain,Free transfer,In,2017,s,laliga
+Getafe CF,Rubén Yáñez,23,Spain,Goalkeeper,GK,£270Th.,Real Madrid,Spain,Free transfer,In,2017,s,laliga
+Getafe CF,Gaku Shibasaki,25,Japan,Central Midfield,CM,£1.80m,CD Tenerife,Spain,Free transfer,In,2017,s,laliga
+Getafe CF,Fayçal Fajr,28,Morocco,Central Midfield,CM,£1.80m,Deportivo de La Coruña,Spain,Free transfer,In,2017,s,laliga
+Getafe CF,Emiliano Martínez,24,Argentina,Goalkeeper,GK,£900Th.,Arsenal FC,England,Loan,In,2017,s,laliga
+Getafe CF,Jefferson Montero,28,Ecuador,Left Winger,LW,£4.05m,Swansea City,England,Loan,In,2017,s,laliga
+Getafe CF,Markel Bergara,31,Spain,Defensive Midfield,DM,£1.35m,Real Sociedad,Spain,Loan,In,2017,s,laliga
+Getafe CF,Mauro Arambarri,21,Uruguay,Central Midfield,CM,£1.13m,Club Atlético Boston River,Uruguay,Loan,In,2017,s,laliga
+Getafe CF,Johannes van den Bergh,30,Germany,Left-Back,LB,£360Th.,SpVgg Greuther Fürth,Germany,"End of loanJun 30, 2017",In,2017,s,laliga
+Getafe CF,Karim Yoda,28,France,Right Winger,RW,£630Th.,UD Almería,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Getafe CF,Rolf Feltscher,26,Venezuela,Right-Back,RB,£360Th.,Real Zaragoza,Spain,"End of loanJun 30, 2017",In,2017,s,laliga
+Real Madrid,Álvaro Morata,24,Spain,Centre-Forward,CF,£36.00m,Chelsea FC,England,£59.40m,Out,2017,s,laliga
+Real Madrid,Danilo,26,Brazil,Right-Back,RB,£14.40m,Manchester City,England,£27.00m,Out,2017,s,laliga
+Real Madrid,James Rodríguez,26,Colombia,Attacking Midfield,AM,£45.00m,Bayern Munich,Germany,Loan fee:£11.70m,Out,2017,s,laliga
+Real Madrid,Mariano Díaz,23,Dominican Republic,Centre-Forward,CF,£4.50m,Olympique Lyon,France,£7.20m,Out,2017,s,laliga
+Real Madrid,Diego Llorente,23,Spain,Centre-Back,CB,£6.75m,Real Sociedad,Spain,£6.30m,Out,2017,s,laliga
+Real Madrid,Burgui,23,Spain,Left Winger,LW,£1.35m,Deportivo Alavés,Spain,£2.70m,Out,2017,s,laliga
+Real Madrid,Fábio Coentrão,29,Portugal,Left-Back,LB,£4.50m,Sporting CP,Portugal,Loan fee:£900Th.,Out,2017,s,laliga
+Real Madrid,Philipp Lienhart,20,Austria,Centre-Back,CB,£720Th.,SC Freiburg,Germany,Loan fee:£450Th.,Out,2017,s,laliga
+Real Madrid,Rubén Yáñez,23,Spain,Goalkeeper,GK,£270Th.,Getafe CF,Spain,Free transfer,Out,2017,s,laliga
+Real Madrid,Pepe,34,Portugal,Centre-Back,CB,£2.70m,Besiktas JK,Turkey,Free transfer,Out,2017,s,laliga
+FC Barcelona,Neymar,25,Brazil,Left Winger,LW,£90.00m,Paris Saint-Germain,France,£199.80m,Out,2017,s,laliga
+FC Barcelona,Cristian Tello,25,Spain,Left Winger,LW,£7.20m,Real Betis Balompié,Spain,£3.60m,Out,2017,s,laliga
+FC Barcelona,Jordi Masip,28,Spain,Goalkeeper,GK,£900Th.,Real Valladolid CF,Spain,Free transfer,Out,2017,s,laliga
+FC Barcelona,Jérémy Mathieu,33,France,Centre-Back,CB,£2.70m,Sporting CP,Portugal,Free transfer,Out,2017,s,laliga
+FC Barcelona,Douglas,27,Brazil,Right-Back,RB,£1.35m,SL Benfica,Portugal,Loan,Out,2017,s,laliga
+FC Barcelona,Marlon,21,Brazil,Centre-Back,CB,£4.50m,OGC Nice,France,Loan,Out,2017,s,laliga
+FC Barcelona,Sergi Samper,22,Spain,Defensive Midfield,DM,£3.15m,UD Las Palmas,Spain,Loan,Out,2017,s,laliga
+FC Barcelona,Munir El Haddadi,22,Spain,Centre-Forward,CF,£8.10m,Deportivo Alavés,Spain,Loan,Out,2017,s,laliga
+Atlético Madrid,Theo Hernández,19,France,Left-Back,LB,£13.50m,Real Madrid,Spain,£21.60m,Out,2017,s,laliga
+Atlético Madrid,Óliver Torres,22,Spain,Central Midfield,CM,£12.60m,FC Porto,Portugal,£18.00m,Out,2017,s,laliga
+Atlético Madrid,Matías Kranevitter,24,Argentina,Defensive Midfield,DM,£5.40m,Zenit St. Petersburg,Russia,£7.20m,Out,2017,s,laliga
+Atlético Madrid,Javier Manquillo,23,Spain,Right-Back,RB,£3.60m,Newcastle United,England,£4.50m,Out,2017,s,laliga
+Atlético Madrid,Amath Ndiaye,21,Senegal,Left Winger,LW,£900Th.,Getafe CF,Spain,£2.70m,Out,2017,s,laliga
+Atlético Madrid,Santos Borré,21,Colombia,Centre-Forward,CF,£1.80m,Club Atlético River Plate,Argentina,£2.70m,Out,2017,s,laliga
+Atlético Madrid,Alessio Cerci,29,Italy,Right Winger,RW,£3.60m,Hellas Verona,Italy,Free transfer,Out,2017,s,laliga
+Atlético Madrid,André Moreira,21,Portugal,Goalkeeper,GK,£900Th.,SC Braga,Portugal,Loan,Out,2017,s,laliga
+Atlético Madrid,Diogo Jota,20,Portugal,Left Winger,LW,£7.20m,Wolverhampton Wanderers,England,Loan,Out,2017,s,laliga
+Atlético Madrid,Emiliano Velázquez,23,Uruguay,Centre-Back,CB,£900Th.,Rayo Vallecano,Spain,Loan,Out,2017,s,laliga
+Atlético Madrid,Vitolo,27,Spain,Left Winger,LW,£22.50m,UD Las Palmas,Spain,Loan,Out,2017,s,laliga
+Atlético Madrid,Bernard Mensah,22,Ghana,Attacking Midfield,AM,£1.35m,Kasimpasa,Turkey,Loan,Out,2017,s,laliga
+Atlético Madrid,Héctor Hernández,21,Spain,Centre-Forward,CF,£450Th.,Albacete Balompié,Spain,Loan,Out,2017,s,laliga
+Atlético Madrid,Guilherme Siqueira,31,Brazil,Left-Back,LB,£1.35m,,Without Club,-,Out,2017,s,laliga
+Atlético Madrid,Tiago,36,Portugal,Central Midfield,CM,-,,Retired,-,Out,2017,s,laliga
+Sevilla FC,Vitolo,27,Spain,Left Winger,LW,£22.50m,Atlético Madrid,Spain,£32.40m,Out,2017,s,laliga
+Sevilla FC,Vicente Iborra,29,Spain,Central Midfield,CM,£8.10m,Leicester City,England,£13.50m,Out,2017,s,laliga
+Sevilla FC,Yevgen Konoplyanka,27,Ukraine,Left Winger,LW,£9.00m,FC Schalke 04,Germany,£11.25m,Out,2017,s,laliga
+Sevilla FC,Adil Rami,31,France,Centre-Back,CB,£4.50m,Olympique Marseille,France,£5.40m,Out,2017,s,laliga
+Sevilla FC,Mariano,31,Brazil,Right-Back,RB,£7.20m,Galatasaray SK,Turkey,£4.05m,Out,2017,s,laliga
+Sevilla FC,Sebastián Cristóforo,23,Uruguay,Central Midfield,CM,£2.43m,ACF Fiorentina,Italy,£2.25m,Out,2017,s,laliga
+Sevilla FC,Juan Muñoz,21,Spain,Centre-Forward,CF,£450Th.,UD Almería,Spain,Loan,Out,2017,s,laliga
+Sevilla FC,Benoît Trémoulinas,31,France,Left-Back,LB,£1.80m,,Without Club,-,Out,2017,s,laliga
+Sevilla FC,Matías Kranevitter,24,Argentina,Defensive Midfield,DM,£5.40m,Atlético Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Sevilla FC,Stevan Jovetic,27,Montenegro,Centre-Forward,CF,£9.00m,Inter Milan,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Sevilla FC,Samir Nasri,30,France,Attacking Midfield,AM,£14.40m,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Sevilla FC,Luciano Vietto,23,Argentina,Centre-Forward,CF,£10.80m,Atlético Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Villarreal CF,Mateo Musacchio,26,Argentina,Centre-Back,CB,£16.20m,AC Milan,Italy,£16.20m,Out,2017,s,laliga
+Villarreal CF,Roberto Soldado,32,Spain,Centre-Forward,CF,£7.20m,Fenerbahce SK,Turkey,£4.50m,Out,2017,s,laliga
+Villarreal CF,Jonathan dos Santos,27,Mexico,Central Midfield,CM,£7.20m,Los Angeles Galaxy,United States,£3.87m,Out,2017,s,laliga
+Villarreal CF,Pablo Iñiguez,23,Spain,Centre-Back,CB,£270Th.,CF Reus Deportiu,Spain,Free transfer,Out,2017,s,laliga
+Villarreal CF,Akram Afif,20,Qatar,Left Winger,LW,£540Th.,KAS Eupen,Belgium,Loan,Out,2017,s,laliga
+Villarreal CF,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Levante UD,Spain,Loan,Out,2017,s,laliga
+Villarreal CF,Alfonso Pedraza,21,Spain,Left-Back,LB,£900Th.,Deportivo Alavés,Spain,Loan,Out,2017,s,laliga
+Villarreal CF,Cristian Espinoza,22,Argentina,Right Winger,RW,£2.25m,Club Atlético Boca Juniors,Argentina,Loan,Out,2017,s,laliga
+Villarreal CF,Alfred N'Diaye,27,Senegal,Defensive Midfield,DM,£4.50m,Wolverhampton Wanderers,England,Loan,Out,2017,s,laliga
+Villarreal CF,Andrés Fernández,30,Spain,Goalkeeper,GK,£1.35m,FC Porto,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+Villarreal CF,Adrián López,29,Spain,Centre-Forward,CF,£3.15m,FC Porto,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+Villarreal CF,Santos Borré,21,Colombia,Centre-Forward,CF,£1.80m,Atlético Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Villarreal CF,José Ángel,27,Spain,Left-Back,LB,£1.35m,FC Porto,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+Real Sociedad,Yuri Berchiche,27,Spain,Left-Back,LB,£9.00m,Paris Saint-Germain,France,£14.40m,Out,2017,s,laliga
+Real Sociedad,Alain Oyarzun,23,Spain,Left Winger,LW,£180Th.,Real Zaragoza,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Esteban Granero,30,Spain,Central Midfield,CM,£1.80m,RCD Espanyol Barcelona,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Mikel González,31,Spain,Centre-Back,CB,£900Th.,Real Zaragoza,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Pablo Hervías,24,Spain,Right Winger,RW,£450Th.,SD Eibar,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Ander Bardají,22,Spain,Goalkeeper,GK,£180Th.,SD Huesca,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Jon Gaztañaga,26,Spain,Defensive Midfield,DM,£450Th.,Gimnàstic de Tarragona,Spain,Free transfer,Out,2017,s,laliga
+Real Sociedad,Srdjan Babic,21,Serbia,Centre-Back,CB,£540Th.,Red Star Belgrade,Serbia,Loan,Out,2017,s,laliga
+Real Sociedad,Héctor Hernández,26,Spain,Left-Back,LB,£540Th.,Deportivo Alavés,Spain,Loan,Out,2017,s,laliga
+Real Sociedad,Joseba Zaldua,25,Spain,Right-Back,RB,£1.35m,CD Leganés,Spain,Loan,Out,2017,s,laliga
+Real Sociedad,Markel Bergara,31,Spain,Defensive Midfield,DM,£1.35m,Getafe CF,Spain,Loan,Out,2017,s,laliga
+Real Sociedad,David Concha,20,Spain,Right Winger,RW,£720Th.,FC Barcelona B,Spain,Loan,Out,2017,s,laliga
+Athletic Bilbao,Gorka Iraizoz,36,Spain,Goalkeeper,GK,£450Th.,Girona FC,Spain,Free transfer,Out,2017,s,laliga
+Athletic Bilbao,Gorka Elustondo,30,Spain,Central Midfield,CM,£900Th.,Atlético Nacional,Colombia,Free transfer,Out,2017,s,laliga
+Athletic Bilbao,Javi Eraso,27,Spain,Attacking Midfield,AM,£1.35m,CD Leganés,Spain,Free transfer,Out,2017,s,laliga
+Athletic Bilbao,Alex Remiro,22,Spain,Goalkeeper,GK,£540Th.,SD Huesca,Spain,Loan,Out,2017,s,laliga
+Athletic Bilbao,Urtzi Iriondo,22,Spain,Left-Back,LB,£270Th.,Granada CF,Spain,Loan,Out,2017,s,laliga
+Athletic Bilbao,Unai López,21,Spain,Central Midfield,CM,£1.80m,Rayo Vallecano,Spain,Loan,Out,2017,s,laliga
+RCD Espanyol Barcelona,Felipe Caicedo,28,Ecuador,Centre-Forward,CF,£2.70m,SS Lazio,Italy,£2.25m,Out,2017,s,laliga
+RCD Espanyol Barcelona,Mamadou Sylla,23,Senegal,Centre-Forward,CF,£2.70m,KAS Eupen,Belgium,£2.07m,Out,2017,s,laliga
+RCD Espanyol Barcelona,Joan Jordán,23,Spain,Central Midfield,CM,£900Th.,SD Eibar,Spain,£900Th.,Out,2017,s,laliga
+RCD Espanyol Barcelona,Rubén Duarte,21,Spain,Left-Back,LB,£900Th.,Deportivo Alavés,Spain,£360Th.,Out,2017,s,laliga
+RCD Espanyol Barcelona,Víctor Álvarez,24,Spain,Left-Back,LB,£900Th.,Arsenal Tula,Russia,Free transfer,Out,2017,s,laliga
+RCD Espanyol Barcelona,Salva Sevilla,33,Spain,Central Midfield,CM,£450Th.,RCD Mallorca,Spain,Free transfer,Out,2017,s,laliga
+RCD Espanyol Barcelona,Paco Montañés,30,Spain,Left Winger,LW,£630Th.,CD Tenerife,Spain,Free transfer,Out,2017,s,laliga
+RCD Espanyol Barcelona,Roberto Correa,24,Spain,Right-Back,RB,£450Th.,Cádiz CF,Spain,Free transfer,Out,2017,s,laliga
+RCD Espanyol Barcelona,Roberto,31,Spain,Goalkeeper,GK,£1.80m,Málaga CF,Spain,Loan,Out,2017,s,laliga
+RCD Espanyol Barcelona,José Antonio Reyes,33,Spain,Right Winger,RW,£720Th.,,Without Club,-,Out,2017,s,laliga
+RCD Espanyol Barcelona,Pablo Piatti,28,Argentina,Left Winger,LW,£5.40m,Valencia CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+RCD Espanyol Barcelona,Diego Reyes,24,Mexico,Centre-Back,CB,£5.40m,FC Porto,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+RCD Espanyol Barcelona,Diego López,35,Spain,Goalkeeper,GK,£900Th.,AC Milan,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Edgar Méndez,27,Spain,Right Winger,RW,£1.80m,CD Cruz Azul,Mexico,£4.50m,Out,2017,s,laliga
+Deportivo Alavés,Zouhair Feddal,27,Morocco,Centre-Back,CB,£2.70m,Real Betis Balompié,Spain,£2.25m,Out,2017,s,laliga
+Deportivo Alavés,Kiko Femenía,26,Spain,Right-Back,RB,£3.60m,Watford FC,England,Free transfer,Out,2017,s,laliga
+Deportivo Alavés,Nenad Krsticic,27,Serbia,Central Midfield,CM,£900Th.,Red Star Belgrade,Serbia,Free transfer,Out,2017,s,laliga
+Deportivo Alavés,Raúl Garcia,28,Spain,Left-Back,LB,£900Th.,CD Leganés,Spain,Free transfer,Out,2017,s,laliga
+Deportivo Alavés,Gaizka Toquero,32,Spain,Right Winger,RW,£450Th.,Real Zaragoza,Spain,Free transfer,Out,2017,s,laliga
+Deportivo Alavés,Juanan Entrena,21,Spain,Left Winger,LW,£180Th.,NK Rudes,Croatia,Loan,Out,2017,s,laliga
+Deportivo Alavés,Cristian Glauder,21,Spain,Left-Back,LB,£225Th.,NK Rudes,Croatia,Loan,Out,2017,s,laliga
+Deportivo Alavés,Nando García,23,Spain,Right Winger,RW,£360Th.,Lorca FC,Spain,Loan,Out,2017,s,laliga
+Deportivo Alavés,Adrián Ortolá,23,Spain,Goalkeeper,GK,£720Th.,FC Barcelona B,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Theo Hernández,19,France,Left-Back,LB,£13.50m,Atlético Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Rodrigo Ely,23,Brazil,Centre-Back,CB,£1.80m,AC Milan,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Deyverson,26,Brazil,Centre-Forward,CF,£4.50m,Levante UD,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Víctor Camarasa,23,Spain,Central Midfield,CM,£4.50m,Levante UD,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Rubén Sobrino,25,Spain,Centre-Forward,CF,£450Th.,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo Alavés,Marcos Llorente,22,Spain,Defensive Midfield,DM,£13.50m,Real Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+SD Eibar,Florian Lejeune,26,France,Centre-Back,CB,£4.50m,Newcastle United,England,£9.00m,Out,2017,s,laliga
+SD Eibar,Mauro dos Santos,28,Argentina,Centre-Back,CB,£1.80m,CD Leganés,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Jon Ander Felipe,22,Spain,Goalkeeper,GK,£90Th.,CD Toledo,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Thaylor,23,Angola,Right Winger,RW,£135Th.,Caudal Deportivo,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Antonio Luna,26,Spain,Left-Back,LB,£1.80m,Levante UD,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Sergio García,27,Spain,Left Winger,LW,£90Th.,Barakaldo CF ,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Juanfran,25,Spain,Centre-Forward,CF,£135Th.,Marbella FC,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Adrián González,29,Spain,Attacking Midfield,AM,£2.70m,Málaga CF,Spain,Free transfer,Out,2017,s,laliga
+SD Eibar,Unai Elgezabal,24,Spain,Centre-Back,CB,£270Th.,CD Numancia,Spain,Loan,Out,2017,s,laliga
+SD Eibar,Pablo Hervías,24,Spain,Right Winger,RW,£450Th.,Real Valladolid CF,Spain,Loan,Out,2017,s,laliga
+SD Eibar,Nano Mesa,22,Spain,Centre-Forward,CF,£630Th.,Levante UD,Spain,Loan,Out,2017,s,laliga
+SD Eibar,Pere Milla,24,Spain,Left Winger,LW,£270Th.,CD Numancia,Spain,Loan,Out,2017,s,laliga
+SD Eibar,Jordi Calavera,22,Spain,Right-Back,RB,£720Th.,Sporting Gijón,Spain,Loan,Out,2017,s,laliga
+SD Eibar,Íñigo Barrenetxea,23,Spain,Central Midfield,CM,£180Th.,,Without Club,-,Out,2017,s,laliga
+SD Eibar,Roger Escoruela,21,Spain,Left-Back,LB,£45Th.,CD Vitoria,Spain,-,Out,2017,s,laliga
+SD Eibar,Jon Ander Amelibia,23,Spain,Centre-Back,CB,£270Th.,CD Vitoria,Spain,-,Out,2017,s,laliga
+SD Eibar,Yoel Rodríguez,28,Spain,Goalkeeper,GK,£2.25m,Valencia CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Málaga CF,Ignacio Camacho,27,Spain,Defensive Midfield,DM,£9.00m,VfL Wolfsburg,Germany,£13.50m,Out,2017,s,laliga
+Málaga CF,Pablo Fornals,21,Spain,Attacking Midfield,AM,£9.00m,Villarreal CF,Spain,£10.80m,Out,2017,s,laliga
+Málaga CF,Sandro Ramírez,21,Spain,Centre-Forward,CF,£9.00m,Everton FC,England,£5.40m,Out,2017,s,laliga
+Málaga CF,Charles,33,Brazil,Centre-Forward,CF,£1.35m,SD Eibar,Spain,Free transfer,Out,2017,s,laliga
+Málaga CF,Carlos Kameni,33,Cameroon,Goalkeeper,GK,£1.80m,Fenerbahce SK,Turkey,Free transfer,Out,2017,s,laliga
+Málaga CF,Ricardo Horta,22,Portugal,Left Winger,LW,£1.58m,SC Braga,Portugal,Free transfer,Out,2017,s,laliga
+Málaga CF,Guillermo Ochoa,31,Mexico,Goalkeeper,GK,£2.70m,Standard Liège,Belgium,Free transfer,Out,2017,s,laliga
+Málaga CF,Bakary Koné,29,Burkina Faso,Centre-Back,CB,£720Th.,RC Strasbourg Alsace,France,Loan,Out,2017,s,laliga
+Málaga CF,Adnane Tighadouini,24,Morocco,Left Winger,LW,£720Th.,Twente Enschede FC,Netherlands,Loan,Out,2017,s,laliga
+Málaga CF,Michael Santos,24,Uruguay,Centre-Forward,CF,£2.25m,Sporting Gijón,Spain,Loan,Out,2017,s,laliga
+Málaga CF,Luis Muñoz,20,Spain,Defensive Midfield,DM,£360Th.,CD Lugo,Spain,Loan,Out,2017,s,laliga
+Málaga CF,Mikel Villanueva,24,Venezuela,Centre-Back,CB,£900Th.,Cádiz CF,Spain,Loan,Out,2017,s,laliga
+Málaga CF,Martín Demichelis,36,Argentina,Centre-Back,CB,£180Th.,,Retired,-,Out,2017,s,laliga
+Málaga CF,Duda,37,Portugal,Left Midfield,LM,£90Th.,,Retired,-,Out,2017,s,laliga
+Málaga CF,Weligton,37,Brazil,Centre-Back,CB,£450Th.,,Retired,-,Out,2017,s,laliga
+Málaga CF,Juankar,27,Spain,Left-Back,LB,£2.25m,SC Braga,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+Málaga CF,José Rodríguez,22,Spain,Central Midfield,CM,£900Th.,1.FSV Mainz 05,Germany,"End of loanJun 30, 2017",Out,2017,s,laliga
+Málaga CF,Denys Boyko,29,Ukraine,Goalkeeper,GK,£900Th.,Besiktas JK,Turkey,"End of loanJun 30, 2017",Out,2017,s,laliga
+Málaga CF,Diego Llorente,23,Spain,Centre-Back,CB,£6.75m,Real Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Mathew Ryan,25,Australia,Goalkeeper,GK,£3.15m,Brighton & Hove Albion,England,£5.40m,Out,2017,s,laliga
+Valencia CF,Álvaro Negredo,31,Spain,Centre-Forward,CF,£6.75m,Besiktas JK,Turkey,£2.25m,Out,2017,s,laliga
+Valencia CF,Enzo Pérez,31,Argentina,Defensive Midfield,DM,£7.20m,Club Atlético River Plate,Argentina,£2.25m,Out,2017,s,laliga
+Valencia CF,Nani,30,Portugal,Left Winger,LW,£9.00m,SS Lazio,Italy,Loan fee:£1.80m,Out,2017,s,laliga
+Valencia CF,Pablo Piatti,28,Argentina,Left Winger,LW,£5.40m,RCD Espanyol Barcelona,Spain,£1.17m,Out,2017,s,laliga
+Valencia CF,Aderllan Santos,28,Brazil,Centre-Back,CB,£3.15m,São Paulo Futebol Clube,Brazil,Loan fee:£720Th.,Out,2017,s,laliga
+Valencia CF,Yoel Rodríguez,28,Spain,Goalkeeper,GK,£2.25m,SD Eibar,Spain,£675Th.,Out,2017,s,laliga
+Valencia CF,Diego Alves,32,Brazil,Goalkeeper,GK,£4.50m,Clube de Regatas do Flamengo,Brazil,£270Th.,Out,2017,s,laliga
+Valencia CF,Aymen Abdennour,28,Tunisia,Centre-Back,CB,£5.40m,Olympique Marseille,France,Loan,Out,2017,s,laliga
+Valencia CF,Vinícius Araújo,24,Brazil,Centre-Forward,CF,£630Th.,Real Zaragoza,Spain,Free transfer,Out,2017,s,laliga
+Valencia CF,Aderllan Santos,29,Brazil,Centre-Back,CB,£2.70m,Esporte Clube Vitória,Brazil,Loan,Out,2017,s,laliga
+Valencia CF,Zakaria Bakkali,21,Belgium,Left Winger,LW,£1.80m,Deportivo de La Coruña,Spain,Loan,Out,2017,s,laliga
+Valencia CF,João Cancelo,23,Portugal,Right-Back,RB,£18.00m,Inter Milan,Italy,Loan,Out,2017,s,laliga
+Valencia CF,Álvaro Medrán,23,Spain,Central Midfield,CM,£2.25m,Deportivo Alavés,Spain,Loan,Out,2017,s,laliga
+Valencia CF,Guilherme Siqueira,31,Brazil,Left-Back,LB,£1.35m,Atlético Madrid,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Eliaquim Mangala,26,France,Centre-Back,CB,£13.50m,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Munir El Haddadi,21,Spain,Centre-Forward,CF,£8.10m,FC Barcelona,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,Celta de Vigo,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Mario Suárez,30,Spain,Defensive Midfield,DM,£5.40m,Watford FC,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Valencia CF,Simone Zaza,26,Italy,Centre-Forward,CF,£13.50m,Juventus FC,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Celta de Vigo,Pape Cheikh,20,Spain,Central Midfield,CM,£720Th.,Olympique Lyon,France,£9.00m,Out,2017,s,laliga
+Celta de Vigo,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,Valencia CF,Spain,£2.70m,Out,2017,s,laliga
+Celta de Vigo,Theo Bongonda,21,Belgium,Left Winger,LW,£2.70m,Trabzonspor,Turkey,Loan fee:£180Th.,Out,2017,s,laliga
+Celta de Vigo,Levy Madinda,25,Gabon,Attacking Midfield,AM,£720Th.,Asteras Tripolis,Greece,Free transfer,Out,2017,s,laliga
+Celta de Vigo,Álex López,29,Spain,Central Midfield,CM,£900Th.,Sporting Gijón,Spain,Free transfer,Out,2017,s,laliga
+Celta de Vigo,Marcelo Díaz,30,Chile,Defensive Midfield,DM,£2.25m,UNAM Pumas,Mexico,Free transfer,Out,2017,s,laliga
+Celta de Vigo,Carles Planas,26,Spain,Left-Back,LB,£1.35m,Girona FC,Spain,Free transfer,Out,2017,s,laliga
+Celta de Vigo,Pedro Martín,25,Spain,Centre-Forward,CF,£270Th.,Real Murcia CF,Spain,Free transfer,Out,2017,s,laliga
+Celta de Vigo,Josep Señé,25,Spain,Attacking Midfield,AM,£450Th.,Cultural Leonesa,Spain,?,Out,2017,s,laliga
+Celta de Vigo,David Costas,22,Spain,Centre-Back,CB,£900Th.,FC Barcelona B,Spain,Loan,Out,2017,s,laliga
+Celta de Vigo,Álvaro Lemos,24,Spain,Right-Back,RB,£450Th.,RC Lens,France,Loan,Out,2017,s,laliga
+Celta de Vigo,Claudio Beauvue,29,Guadeloupe,Centre-Forward,CF,£2.70m,CD Leganés,Spain,Loan,Out,2017,s,laliga
+Celta de Vigo,Dejan Drazic,21,Serbia,Left Winger,LW,£540Th.,Celta Vigo B,Spain,-,Out,2017,s,laliga
+Celta de Vigo,Giuseppe Rossi,30,Italy,Centre-Forward,CF,£3.60m,ACF Fiorentina,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Celta de Vigo,Jozabed Sánchez,26,Spain,Central Midfield,CM,£3.15m,Fulham FC,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+UD Las Palmas,Roque Mesa,28,Spain,Central Midfield,CM,£10.80m,Swansea City,England,£11.25m,Out,2017,s,laliga
+UD Las Palmas,Sergio Araujo,25,Argentina,Centre-Forward,CF,£1.80m,AEK Athens,Greece,Loan fee:£450Th.,Out,2017,s,laliga
+UD Las Palmas,Marko Livaja,23,Croatia,Centre-Forward,CF,£2.25m,AEK Athens,Greece,Loan fee:£180Th.,Out,2017,s,laliga
+UD Las Palmas,Javi Varas,34,Spain,Goalkeeper,GK,£360Th.,Granada CF,Spain,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Hélder Lopes,28,Portugal,Left-Back,LB,£1.35m,AEK Athens,Greece,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Héctor Figueroa,28,Spain,Centre-Forward,CF,£180Th.,CD Toledo,Spain,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Kevin-Prince Boateng,30,Ghana,Attacking Midfield,AM,£4.50m,Eintracht Frankfurt,Germany,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Ángel Montoro,29,Spain,Central Midfield,CM,£900Th.,Granada CF,Spain,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Tyronne,26,Spain,Attacking Midfield,AM,£360Th.,CD Tenerife,Spain,Free transfer,Out,2017,s,laliga
+UD Las Palmas,Mateo García,20,Argentina,Right Winger,RW,£1.08m,CA Osasuna,Spain,Loan,Out,2017,s,laliga
+UD Las Palmas,Jesé,24,Spain,Left Winger,LW,£6.75m,Paris Saint-Germain,France,"End of loanJun 30, 2017",Out,2017,s,laliga
+Real Betis Balompié,Dani Ceballos,20,Spain,Central Midfield,CM,£9.00m,Real Madrid,Spain,£14.85m,Out,2017,s,laliga
+Real Betis Balompié,Cristiano Piccini,24,Italy,Right-Back,RB,£2.70m,Sporting CP,Portugal,£2.58m,Out,2017,s,laliga
+Real Betis Balompié,Petros,28,Brazil,Defensive Midfield,DM,£3.15m,São Paulo Futebol Clube,Brazil,£2.25m,Out,2017,s,laliga
+Real Betis Balompié,Jonas Martin,27,France,Central Midfield,CM,£2.25m,RC Strasbourg Alsace,France,£1.35m,Out,2017,s,laliga
+Real Betis Balompié,Francisco Portillo,27,Spain,Right Winger,RW,£1.35m,Getafe CF,Spain,£1.35m,Out,2017,s,laliga
+Real Betis Balompié,Dani Pacheco,26,Spain,Left Winger,LW,£1.35m,Getafe CF,Spain,£900Th.,Out,2017,s,laliga
+Real Betis Balompié,Bruno González,27,Spain,Centre-Back,CB,£2.25m,Getafe CF,Spain,£540Th.,Out,2017,s,laliga
+Real Betis Balompié,Germán Pezzella,26,Argentina,Centre-Back,CB,£5.40m,ACF Fiorentina,Italy,Loan fee:£450Th.,Out,2017,s,laliga
+Real Betis Balompié,Álex Martínez,26,Spain,Left-Back,LB,£900Th.,Granada CF,Spain,Free transfer,Out,2017,s,laliga
+Real Betis Balompié,Álvaro Cejudo,33,Spain,Second Striker,SS,£1.35m,Western Sydney Wanderers,Australia,Free transfer,Out,2017,s,laliga
+Real Betis Balompié,Alex Alegría,24,Spain,Centre-Forward,CF,£1.80m,Levante UD,Spain,Loan,Out,2017,s,laliga
+Real Betis Balompié,Roman Zozulya,27,Ukraine,Centre-Forward,CF,£900Th.,Albacete Balompié,Spain,Free transfer,Out,2017,s,laliga
+Real Betis Balompié,Manu Herrera,35,Spain,Goalkeeper,GK,£90Th.,CA Osasuna,Spain,Free transfer,Out,2017,s,laliga
+Real Betis Balompié,Darko Brasanac,25,Serbia,Central Midfield,CM,£3.60m,CD Leganés,Spain,Loan,Out,2017,s,laliga
+Real Betis Balompié,Rubén Castro,36,Spain,Centre-Forward,CF,£900Th.,Guizhou Hengfeng,China,Loan,Out,2017,s,laliga
+Real Betis Balompié,Didier Digard,31,France,Defensive Midfield,DM,£720Th.,,Without Club,-,Out,2017,s,laliga
+Real Betis Balompié,Ryan Donk,31,Netherlands,Centre-Back,CB,£1.80m,Galatasaray SK,Turkey,"End of loanJun 30, 2017",Out,2017,s,laliga
+Real Betis Balompié,Rubén Pardo,24,Spain,Central Midfield,CM,£3.60m,Real Sociedad,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Pablo Insua,23,Spain,Centre-Back,CB,£2.70m,FC Schalke 04,Germany,£3.15m,Out,2017,s,laliga
+Deportivo de La Coruña,Germán Lux,34,Argentina,Goalkeeper,GK,£720Th.,Club Atlético River Plate,Argentina,Free transfer,Out,2017,s,laliga
+Deportivo de La Coruña,Laure,32,Spain,Right-Back,RB,£450Th.,AD Alcorcón,Spain,Free transfer,Out,2017,s,laliga
+Deportivo de La Coruña,Oriol Riera,31,Spain,Centre-Forward,CF,£1.35m,Western Sydney Wanderers,Australia,Free transfer,Out,2017,s,laliga
+Deportivo de La Coruña,Fayçal Fajr,28,Morocco,Central Midfield,CM,£1.80m,Getafe CF,Spain,Free transfer,Out,2017,s,laliga
+Deportivo de La Coruña,Juan Domínguez,27,Spain,Defensive Midfield,DM,£1.08m,CF Reus Deportiu,Spain,Free transfer,Out,2017,s,laliga
+Deportivo de La Coruña,Rober Pier,22,Spain,Centre-Back,CB,£900Th.,Levante UD,Spain,Loan,Out,2017,s,laliga
+Deportivo de La Coruña,Álex Bergantiños,32,Spain,Defensive Midfield,DM,£900Th.,Sporting Gijón,Spain,Loan,Out,2017,s,laliga
+Deportivo de La Coruña,Guilherme,26,Brazil,Defensive Midfield,DM,£3.60m,Udinese Calcio,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Ola John,25,Netherlands,Left Winger,LW,£2.25m,SL Benfica,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Juanfran,28,Spain,Right-Back,RB,£4.50m,Watford FC,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Joselu,27,Spain,Centre-Forward,CF,£3.15m,Stoke City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Davy Roef,23,Belgium,Goalkeeper,GK,£900Th.,RSC Anderlecht,Belgium,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Marlos Moreno,20,Colombia,Left Winger,LW,£900Th.,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Deportivo de La Coruña,Gaël Kakuta,26,DR Congo,Attacking Midfield,AM,£900Th.,Hebei China Fortune,China,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Víctor Díaz,29,Spain,Right-Back,RB,£1.08m,Granada CF,Spain,Free transfer,Out,2017,s,laliga
+CD Leganés,Luciano,24,Brazil,Centre-Forward,CF,£2.25m,Panathinaikos Athens,Greece,Loan,Out,2017,s,laliga
+CD Leganés,David Timor,27,Spain,Defensive Midfield,DM,£1.80m,Girona FC,Spain,Free transfer,Out,2017,s,laliga
+CD Leganés,Alberto Martín,28,Spain,Central Midfield,CM,£720Th.,Granada CF,Spain,Free transfer,Out,2017,s,laliga
+CD Leganés,Josua Mejías,20,Venezuela,Centre-Back,CB,£225Th.,FC Cartagena,Spain,Loan,Out,2017,s,laliga
+CD Leganés,Owusu,20,Ghana,Right Winger,RW,£225Th.,Real Oviedo,Spain,Loan,Out,2017,s,laliga
+CD Leganés,Yahia Al-Shehri,28,Saudi Arabia,Right Winger,RW,£720Th.,Al-Nassr FC,Saudi Arabia,"End of loanJul 1, 2018",Out,2017,s,laliga
+CD Leganés,Pablo Insua,23,Spain,Centre-Back,CB,£2.70m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Darwin Machís,24,Venezuela,Left Winger,LW,£900Th.,Granada CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Iago Herrerín,29,Spain,Goalkeeper,GK,£2.70m,Athletic Bilbao,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Samu García,26,Spain,Right Winger,RW,£1.80m,Rubin Kazan,Russia,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Unai López,21,Spain,Central Midfield,CM,£1.80m,Athletic Bilbao,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Robert Ibáñez,24,Spain,Right Winger,RW,£1.35m,Valencia CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Nereo Champagne,32,Argentina,Goalkeeper,GK,£360Th.,Club Olimpo,Argentina,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Alberto Bueno,29,Spain,Second Striker,SS,£1.80m,FC Porto,Portugal,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Adrián Marín,20,Spain,Left-Back,LB,£900Th.,Villarreal CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Luciano,24,Brazil,Centre-Forward,CF,£2.25m,Sport Club Corinthians Paulista,Brazil,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Dimitrios Siovas,28,Greece,Centre-Back,CB,£1.80m,Olympiacos Piraeus,Greece,"End of loanJun 30, 2017",Out,2017,s,laliga
+CD Leganés,Tito,31,Spain,Right-Back,RB,£2.25m,Granada CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Levante UD,Víctor Camarasa,23,Spain,Central Midfield,CM,£4.50m,Real Betis Balompié,Spain,£6.30m,Out,2017,s,laliga
+Levante UD,Deyverson,26,Brazil,Centre-Forward,CF,£4.50m,Sociedade Esportiva Palmeiras,Brazil,£4.68m,Out,2017,s,laliga
+Levante UD,Natxo Insa,31,Malaysia,Central Midfield,CM,£720Th.,Johor Darul Ta'zim FC,Malaysia,£360Th.,Out,2017,s,laliga
+Levante UD,Esteban Saveljich,26,Montenegro,Centre-Back,CB,£450Th.,Albacete Balompié,Spain,Loan,Out,2017,s,laliga
+Levante UD,Víctor Casadesús,32,Spain,Centre-Forward,CF,£630Th.,CD Tenerife,Spain,Free transfer,Out,2017,s,laliga
+Levante UD,Javier Espinosa,24,Spain,Central Midfield,CM,£1.62m,Granada CF,Spain,Loan,Out,2017,s,laliga
+Levante UD,Rubén García,24,Spain,Attacking Midfield,AM,£1.35m,Sporting Gijón,Spain,Loan,Out,2017,s,laliga
+Levante UD,Verza,30,Spain,Central Midfield,CM,£1.08m,UD Almería,Spain,Loan,Out,2017,s,laliga
+Levante UD,Rober Pier,22,Spain,Centre-Back,CB,£900Th.,Deportivo de La Coruña,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Levante UD,Juan Muñoz,21,Spain,Centre-Forward,CF,£450Th.,Sevilla FC,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Levante UD,Paco Montañés,30,Spain,Left Winger,LW,£630Th.,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Levante UD,Abraham Minero,31,Spain,Left-Back,LB,£360Th.,Real Zaragoza,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Levante UD,Oier Olazábal,27,Spain,Goalkeeper,GK,£720Th.,Granada CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Felipe Sanchón,35,Spain,Centre-Forward,CF,£90Th.,CE Sabadell,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,Kiko Olivas,29,Spain,Centre-Back,CB,£900Th.,Real Valladolid CF,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,Albert Vivancos,23,Spain,Central Midfield,CM,£180Th.,UCAM Murcia CF,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,René,33,Spain,Goalkeeper,GK,£360Th.,UD Almería,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,Carles Mas,24,Spain,Centre-Back,CB,£180Th.,UE Olot,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,Cristian Herrera,26,Spain,Centre-Forward,CF,£630Th.,CD Lugo,Spain,Free transfer,Out,2017,s,laliga
+Girona FC,Rubén Alcaraz,26,Spain,Central Midfield,CM,£450Th.,UD Almería,Spain,Loan,Out,2017,s,laliga
+Girona FC,Fran Sandaza,32,Spain,Centre-Forward,CF,£360Th.,Al Ahli Sports Club,Qatar,Loan,Out,2017,s,laliga
+Girona FC,Sebas Coris,24,Spain,Right Winger,RW,£540Th.,CA Osasuna,Spain,Loan,Out,2017,s,laliga
+Girona FC,Richy,32,Spain,Centre-Back,CB,£180Th.,,Retired,-,Out,2017,s,laliga
+Girona FC,Miguel Cifuentes,26,Spain,Right-Back,RB,£720Th.,Málaga CF,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Juan Cámara,23,Spain,Left Winger,LW,£270Th.,FC Barcelona B,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Johan Mojica,24,Colombia,Left-Back,LB,£900Th.,Rayo Vallecano,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Pablo Marí,23,Spain,Centre-Back,CB,£360Th.,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Angeliño,20,Spain,Left-Back,LB,£270Th.,Manchester City U23,England,"End of loanJan 30, 2017",Out,2017,s,laliga
+Girona FC,Samuele Longo,25,Italy,Centre-Forward,CF,£1.08m,Inter Milan,Italy,"End of loanJun 30, 2017",Out,2017,s,laliga
+Girona FC,Pablo Maffeo,19,Spain,Right-Back,RB,£450Th.,Manchester City,England,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Carlos Peña,33,Spain,Left-Back,LB,£180Th.,Lorca FC,Spain,Free transfer,Out,2017,s,laliga
+Getafe CF,Rubén Yáñez,23,Spain,Goalkeeper,GK,£270Th.,Cádiz CF,Spain,Loan,Out,2017,s,laliga
+Getafe CF,Cata Díaz,38,Argentina,Centre-Back,CB,£270Th.,CF Fuenlabrada,Spain,Free transfer,Out,2017,s,laliga
+Getafe CF,Alberto García,32,Spain,Goalkeeper,GK,£450Th.,Rayo Vallecano,Spain,Loan,Out,2017,s,laliga
+Getafe CF,Emiliano Buendía,20,Argentina,Right Winger,RW,£450Th.,Cultural Leonesa,Spain,Loan,Out,2017,s,laliga
+Getafe CF,Stefan Scepovic,27,Serbia,Centre-Forward,CF,£900Th.,Sporting Gijón,Spain,Loan,Out,2017,s,laliga
+Getafe CF,Alejandro Faurlín,30,Argentina,Central Midfield,CM,£1.35m,CD Cruz Azul,Mexico,?,Out,2017,s,laliga
+Getafe CF,David Fuster,35,Spain,Attacking Midfield,AM,£270Th.,,Retired,-,Out,2017,s,laliga
+Getafe CF,Rolf Feltscher,26,Venezuela,Right-Back,RB,£360Th.,,Without Club,-,Out,2017,s,laliga
+Getafe CF,Johannes van den Bergh,30,Germany,Left-Back,LB,£360Th.,,Without Club,-,Out,2017,s,laliga
+Getafe CF,Facundo Castillón,31,Argentina,Right Winger,RW,£360Th.,Racing Club,Argentina,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Álvaro Jiménez,22,Spain,Right Winger,RW,£900Th.,Real Madrid Castilla,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Paul Anton,26,Romania,Central Midfield,CM,£900Th.,Dinamo Bukarest,Romania,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Chuli,26,Spain,Centre-Forward,CF,£450Th.,UD Almería,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Dani Pacheco,26,Spain,Left Winger,LW,£1.35m,Real Betis Balompié,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+Getafe CF,Francisco Portillo,27,Spain,Right Winger,RW,£1.35m,Real Betis Balompié,Spain,"End of loanJun 30, 2017",Out,2017,s,laliga
+FC Barcelona,Philippe Coutinho,25,Brazil,Attacking Midfield,AM,£81.00m,Liverpool FC,England,£130.50m,In,2017,w,laliga
+FC Barcelona,Yerry Mina,23,Colombia,Centre-Back,CB,£8.10m,Sociedade Esportiva Palmeiras,Brazil,£10.62m,In,2017,w,laliga
+FC Barcelona,Sergi Samper,23,Spain,Defensive Midfield,DM,£2.25m,UD Las Palmas,Spain,"End of loanJan 31, 2018",In,2017,w,laliga
+Atlético Madrid,Diego Costa,29,Spain,Centre-Forward,CF,£45.00m,Chelsea FC,England,£59.40m,In,2017,w,laliga
+Atlético Madrid,André Moreira,22,Portugal,Goalkeeper,GK,£900Th.,SC Braga,Portugal,"End of loanDec 31, 2017",In,2017,w,laliga
+Atlético Madrid,Vitolo,28,Spain,Left Winger,LW,£27.00m,UD Las Palmas,Spain,"End of loanDec 31, 2017",In,2017,w,laliga
+Sevilla FC,Guilherme Arana,20,Brazil,Left-Back,LB,£9.00m,Sport Club Corinthians Paulista,Brazil,£9.90m,In,2017,w,laliga
+Sevilla FC,Sandro Ramírez,22,Spain,Centre-Forward,CF,£9.00m,Everton FC,England,Loan,In,2017,w,laliga
+Sevilla FC,Roque Mesa,28,Spain,Central Midfield,CM,£9.00m,Swansea City,England,Loan,In,2017,w,laliga
+Sevilla FC,Miguel Layún,29,Mexico,Right-Back,RB,£5.40m,FC Porto,Portugal,Loan,In,2017,w,laliga
+Villarreal CF,Javi Fuego,34,Spain,Defensive Midfield,DM,£900Th.,RCD Espanyol Barcelona,Spain,£1.35m,In,2017,w,laliga
+Villarreal CF,Roger Martínez,23,Colombia,Centre-Forward,CF,£3.60m,Jiangsu Suning,China,Loan fee:£90Th.,In,2017,w,laliga
+Villarreal CF,Salem Al-Dawsari,26,Saudi Arabia,Left Winger,LW,£855Th.,Al-Hilal Riyadh,Saudi Arabia,Loan,In,2017,w,laliga
+Villarreal CF,Matías Nahuel,21,Spain,Left Winger,LW,£900Th.,Real Betis Balompié,Spain,"End of loanJan 28, 2018",In,2017,w,laliga
+Villarreal CF,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Levante UD,Spain,"End of loanDec 31, 2017",In,2017,w,laliga
+Villarreal CF,Akram Afif,21,Qatar,Left Winger,LW,£630Th.,KAS Eupen,Belgium,"End of loanJan 30, 2018",In,2017,w,laliga
+Real Sociedad,Héctor Moreno,30,Mexico,Centre-Back,CB,£4.50m,AS Roma,Italy,£5.40m,In,2017,w,laliga
+Real Sociedad,Miguel Ángel Moyà,33,Spain,Goalkeeper,GK,£1.80m,Atlético Madrid,Spain,Free transfer,In,2017,w,laliga
+Real Sociedad,David Concha,21,Spain,Right Winger,RW,£720Th.,FC Barcelona B,Spain,"End of loanJan 31, 2018",In,2017,w,laliga
+Athletic Bilbao,Iñigo Martínez,26,Spain,Centre-Back,CB,£22.50m,Real Sociedad,Spain,£28.80m,In,2017,w,laliga
+RCD Espanyol Barcelona,Carlos Sánchez,31,Colombia,Defensive Midfield,DM,£2.25m,ACF Fiorentina,Italy,Loan fee:£180Th.,In,2017,w,laliga
+Deportivo Alavés,John Guidetti,25,Sweden,Centre-Forward,CF,£4.50m,Celta de Vigo,Spain,Loan,In,2017,w,laliga
+Deportivo Alavés,Rafa Páez,23,Spain,Centre-Back,CB,£90Th.,UCAM Murcia CF,Spain,?,In,2017,w,laliga
+Deportivo Alavés,Anderson Emanuel,21,Angola,Left Winger,LW,£90Th.,Club Rápido de Bouzas,Spain,?,In,2017,w,laliga
+Deportivo Alavés,Hernán Pérez,28,Paraguay,Right Winger,RW,£1.35m,RCD Espanyol Barcelona,Spain,Loan,In,2017,w,laliga
+SD Eibar,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,Valencia CF,Spain,Loan fee:£360Th.,In,2017,w,laliga
+SD Eibar,Pape Diop,31,Senegal,Defensive Midfield,DM,£1.35m,RCD Espanyol Barcelona,Spain,Free transfer,In,2017,w,laliga
+SD Eibar,Vukasin Jovanovic,21,Serbia,Centre-Back,CB,£4.50m,FC Girondins Bordeaux,France,Loan,In,2017,w,laliga
+SD Eibar,Nano Mesa,22,Spain,Centre-Forward,CF,£540Th.,Levante UD,Spain,"End of loanJan 29, 2018",In,2017,w,laliga
+Málaga CF,Ignasi Miquel,25,Spain,Centre-Back,CB,£630Th.,CD Lugo,Spain,£450Th.,In,2017,w,laliga
+Málaga CF,Maxime Lestienne,25,Belgium,Left Winger,LW,£2.70m,Rubin Kazan,Russia,Free transfer,In,2017,w,laliga
+Málaga CF,Manuel Iturra,33,Chile,Defensive Midfield,DM,£1.35m,Club Necaxa,Mexico,Free transfer,In,2017,w,laliga
+Málaga CF,Mehdi Lacen,33,Algeria,Defensive Midfield,DM,£720Th.,Getafe CF,Spain,Free transfer,In,2017,w,laliga
+Málaga CF,Samu García,27,Spain,Right Winger,RW,£900Th.,Levante UD,Spain,Loan,In,2017,w,laliga
+Málaga CF,Alberto Bueno,29,Spain,Second Striker,SS,£1.80m,FC Porto,Portugal,Loan,In,2017,w,laliga
+Málaga CF,Isaac Success,22,Nigeria,Left Winger,LW,£3.60m,Watford FC,England,Loan,In,2017,w,laliga
+Málaga CF,Brown Ideye,29,Nigeria,Centre-Forward,CF,£4.50m,Tianjin Teda Reserves,China,Loan,In,2017,w,laliga
+Valencia CF,Francis Coquelin,26,France,Defensive Midfield,DM,£10.80m,Arsenal FC,England,£12.60m,In,2017,w,laliga
+Valencia CF,Luciano Vietto,24,Argentina,Centre-Forward,CF,£9.00m,Atlético Madrid,Spain,Loan,In,2017,w,laliga
+Valencia CF,Ferran Torres,17,Spain,Right Winger,RW,-,Valencia Mestalla,Spain,-,In,2017,w,laliga
+Celta de Vigo,Robert Mazan,23,Slovakia,Left-Back,LB,£450Th.,MSK Zilina,Slovakia,£270Th.,In,2017,w,laliga
+Celta de Vigo,Lucas Boyé,21,Argentina,Centre-Forward,CF,£1.80m,Torino FC,Italy,Loan,In,2017,w,laliga
+Celta de Vigo,Theo Bongonda,22,Belgium,Left Winger,LW,£2.70m,Trabzonspor,Turkey,"End of loanJan 24, 2018",In,2017,w,laliga
+Celta de Vigo,Álvaro Lemos,24,Spain,Right-Back,RB,£450Th.,RC Lens,France,"End of loanJan 10, 2018",In,2017,w,laliga
+UD Las Palmas,Jairo Samperio,24,Spain,Left Winger,LW,£1.80m,1.FSV Mainz 05,Germany,£315Th.,In,2017,w,laliga
+UD Las Palmas,Gabriel Peñalba,33,Argentina,Central Midfield,CM,£1.08m,CD Cruz Azul,Mexico,Free transfer,In,2017,w,laliga
+UD Las Palmas,Oghenekaro Etebo,22,Nigeria,Central Midfield,CM,£1.35m,CD Feirense,Portugal,Loan,In,2017,w,laliga
+UD Las Palmas,Alejandro Gálvez,28,Spain,Centre-Back,CB,£2.25m,SD Eibar,Spain,Loan,In,2017,w,laliga
+UD Las Palmas,Matías Aguirregaray,28,Uruguay,Right-Back,RB,£1.62m,Club Tijuana,Mexico,Loan,In,2017,w,laliga
+UD Las Palmas,Nacho Gil,22,Spain,Left Winger,LW,£270Th.,Valencia CF,Spain,Loan,In,2017,w,laliga
+UD Las Palmas,Emmanuel Emenike,30,Nigeria,Centre-Forward,CF,£2.25m,Olympiacos Piraeus,Greece,Loan,In,2017,w,laliga
+UD Las Palmas,Mateo García,21,Argentina,Right Winger,RW,£1.08m,CA Osasuna,Spain,"End of loanJan 10, 2018",In,2017,w,laliga
+UD Las Palmas,Imoh Ezekiel,24,Nigeria,Centre-Forward,CF,£2.70m,,Without Club,-,In,2017,w,laliga
+Real Betis Balompié,Marc Bartra,27,Spain,Centre-Back,CB,£13.50m,Borussia Dortmund,Germany,£9.45m,In,2017,w,laliga
+Real Betis Balompié,Loren Morón,24,Spain,Centre-Forward,CF,£360Th.,Betis Deportivo Balompié,Spain,-,In,2017,w,laliga
+Real Betis Balompié,Felipe Gutiérrez,27,Chile,Central Midfield,CM,£2.25m,Sport Club Internacional,Brazil,"End of loanDec 31, 2017",In,2017,w,laliga
+Real Betis Balompié,Júnior Firpo,21,Spain,Left-Back,LB,£90Th.,Betis Deportivo Balompié,Spain,-,In,2017,w,laliga
+Real Betis Balompié,Rubén Castro,36,Spain,Centre-Forward,CF,£810Th.,Guizhou Hengfeng,China,"End of loanDec 31, 2017",In,2017,w,laliga
+Deportivo de La Coruña,Michael Krohn-Dehli,34,Denmark,Central Midfield,CM,£1.35m,Sevilla FC,Spain,Free transfer,In,2017,w,laliga
+Deportivo de La Coruña,Eneko Bóveda,29,Spain,Right-Back,RB,£1.80m,Athletic Bilbao,Spain,Free transfer,In,2017,w,laliga
+Deportivo de La Coruña,Maksym Koval,25,Ukraine,Goalkeeper,GK,£1.80m,Dynamo Kyiv,Ukraine,Loan,In,2017,w,laliga
+Deportivo de La Coruña,Sulley Muntari,33,Ghana,Central Midfield,CM,£450Th.,,Without Club,-,In,2017,w,laliga
+CD Leganés,Yahia Al-Shehri,27,Saudi Arabia,Right Winger,RW,£1.44m,Al-Nassr FC,Saudi Arabia,Loan,In,2017,w,laliga
+CD Leganés,Owusu,20,Ghana,Right Winger,RW,£270Th.,Real Oviedo,Spain,"End of loanJan 2, 2018",In,2017,w,laliga
+Levante UD,Armando Sadiku,26,Albania,Centre-Forward,CF,£810Th.,Legia Warszawa,Poland,£900Th.,In,2017,w,laliga
+Levante UD,Rubén Rochina,26,Spain,Attacking Midfield,AM,£1.80m,Rubin Kazan,Russia,Loan fee:£900Th.,In,2017,w,laliga
+Levante UD,Coke,30,Spain,Right-Back,RB,£1.80m,FC Schalke 04,Germany,Loan,In,2017,w,laliga
+Levante UD,Iván Villar,20,Spain,Goalkeeper,GK,£270Th.,Celta de Vigo,Spain,Loan,In,2017,w,laliga
+Levante UD,Fahad Al-Muwallad,23,Saudi Arabia,Right Winger,RW,£2.61m,Al-Ittihad Jeddah,Saudi Arabia,Loan,In,2017,w,laliga
+Levante UD,Giampaolo Pazzini,33,Italy,Centre-Forward,CF,£900Th.,Hellas Verona,Italy,Loan,In,2017,w,laliga
+Levante UD,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Villarreal CF,Spain,Loan,In,2017,w,laliga
+Levante UD,Koke Vegas,22,Spain,Goalkeeper,GK,£90Th.,Atlético Levante UD,Spain,-,In,2017,w,laliga
+Girona FC,Choco Lozano,24,Honduras,Centre-Forward,CF,£1.35m,FC Barcelona B,Spain,£1.58m,In,2017,w,laliga
+Girona FC,Manel Martínez,25,Spain,Centre-Forward,CF,£360Th.,Lorca FC,Spain,"End of loanJan 11, 2018",In,2017,w,laliga
+Girona FC,Fran Sandaza,33,Spain,Centre-Forward,CF,£360Th.,Al Ahli Sports Club,Qatar,"End of loanDec 31, 2017",In,2017,w,laliga
+Getafe CF,Loïc Rémy,31,France,Centre-Forward,CF,£7.20m,UD Las Palmas,Spain,Loan,In,2017,w,laliga
+Getafe CF,Robert Ibáñez,24,Spain,Right Winger,RW,£1.35m,Valencia CF,Spain,Free transfer,In,2017,w,laliga
+Getafe CF,Leandro Cabrera,26,Uruguay,Centre-Back,CB,£540Th.,FC Crotone,Italy,Loan,In,2017,w,laliga
+Getafe CF,Stefan Scepovic,28,Serbia,Centre-Forward,CF,£900Th.,Sporting Gijón,Spain,"End of loanJan 30, 2018",In,2017,w,laliga
+Getafe CF,Mathieu Flamini,33,France,Defensive Midfield,DM,£1.35m,,Without Club,-,In,2017,w,laliga
+FC Barcelona,Javier Mascherano,33,Argentina,Defensive Midfield,DM,£5.40m,Hebei China Fortune,China,£4.95m,Out,2017,w,laliga
+FC Barcelona,Gerard Deulofeu,23,Spain,Left Winger,LW,£12.60m,Watford FC,England,Loan fee:£900Th.,Out,2017,w,laliga
+FC Barcelona,Arda Turan,30,Turkey,Left Winger,LW,£10.80m,Istanbul Basaksehir FK,Turkey,Loan,Out,2017,w,laliga
+FC Barcelona,Rafinha,24,Brazil,Attacking Midfield,AM,£13.50m,Inter Milan,Italy,Loan,Out,2017,w,laliga
+Atlético Madrid,Yannick Carrasco,24,Belgium,Left Winger,LW,£36.00m,Dalian Yifang,China,£9.45m,Out,2017,w,laliga
+Atlético Madrid,Nico Gaitán,30,Argentina,Attacking Midfield,AM,£13.50m,Dalian Yifang,China,£4.95m,Out,2017,w,laliga
+Atlético Madrid,Augusto Fernández,31,Argentina,Central Midfield,CM,£3.60m,Beijing Renhe,China,£4.05m,Out,2017,w,laliga
+Atlético Madrid,Miguel Ángel Moyà,33,Spain,Goalkeeper,GK,£1.80m,Real Sociedad,Spain,Free transfer,Out,2017,w,laliga
+Atlético Madrid,André Moreira,22,Portugal,Goalkeeper,GK,£900Th.,Belenenses SAD,Portugal,Loan,Out,2017,w,laliga
+Atlético Madrid,Luciano Vietto,24,Argentina,Centre-Forward,CF,£9.00m,Valencia CF,Spain,Loan,Out,2017,w,laliga
+Sevilla FC,Walter Montoya,24,Argentina,Right Winger,RW,£2.70m,CD Cruz Azul,Mexico,£4.95m,Out,2017,w,laliga
+Sevilla FC,Michael Krohn-Dehli,34,Denmark,Central Midfield,CM,£1.35m,Deportivo de La Coruña,Spain,Free transfer,Out,2017,w,laliga
+Sevilla FC,Borja Lasso,24,Spain,Attacking Midfield,AM,£1.35m,CA Osasuna,Spain,Loan,Out,2017,w,laliga
+Villarreal CF,Cédric Bakambu,26,DR Congo,Centre-Forward,CF,£22.50m,Beijing Sinobo Guoan,China,£36.00m,Out,2017,w,laliga
+Villarreal CF,Akram Afif,21,Qatar,Left Winger,LW,£630Th.,Al Sadd Sports Club,Qatar,Loan,Out,2017,w,laliga
+Villarreal CF,Matías Nahuel,21,Spain,Left Winger,LW,£900Th.,FC Barcelona B,Spain,Loan,Out,2017,w,laliga
+Villarreal CF,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Levante UD,Spain,Loan,Out,2017,w,laliga
+Real Sociedad,Iñigo Martínez,26,Spain,Centre-Back,CB,£22.50m,Athletic Bilbao,Spain,£28.80m,Out,2017,w,laliga
+Real Sociedad,Carlos Vela,28,Mexico,Right Winger,RW,£9.00m,Los Angeles FC,United States,£4.50m,Out,2017,w,laliga
+Athletic Bilbao,Aymeric Laporte,23,France,Centre-Back,CB,£22.50m,Manchester City,England,£58.50m,Out,2017,w,laliga
+Athletic Bilbao,Eneko Bóveda,29,Spain,Right-Back,RB,£1.80m,Deportivo de La Coruña,Spain,Free transfer,Out,2017,w,laliga
+Athletic Bilbao,Ager Aketxe,24,Spain,Attacking Midfield,AM,£1.80m,Toronto FC,United States,Free transfer,Out,2017,w,laliga
+RCD Espanyol Barcelona,Javi Fuego,34,Spain,Defensive Midfield,DM,£900Th.,Villarreal CF,Spain,£1.35m,Out,2017,w,laliga
+RCD Espanyol Barcelona,Pape Diop,31,Senegal,Defensive Midfield,DM,£1.35m,SD Eibar,Spain,Free transfer,Out,2017,w,laliga
+RCD Espanyol Barcelona,Hernán Pérez,28,Paraguay,Right Winger,RW,£1.35m,Deportivo Alavés,Spain,Loan,Out,2017,w,laliga
+RCD Espanyol Barcelona,Álvaro Vázquez,26,Spain,Centre-Forward,CF,£900Th.,Gimnàstic de Tarragona,Spain,Loan,Out,2017,w,laliga
+Deportivo Alavés,Enzo Zidane,22,France,Attacking Midfield,AM,£2.25m,FC Lausanne-Sport,Switzerland,Free transfer,Out,2017,w,laliga
+Deportivo Alavés,Rafa Páez,23,Spain,Centre-Back,CB,£90Th.,NK Rudes,Croatia,Loan,Out,2017,w,laliga
+Deportivo Alavés,Aleksandar Katai,27,Serbia,Left Winger,LW,£900Th.,Chicago Fire,United States,Loan,Out,2017,w,laliga
+Deportivo Alavés,Anderson Emanuel,21,Angola,Left Winger,LW,£90Th.,NK Rudes,Croatia,Loan,Out,2017,w,laliga
+Deportivo Alavés,Óscar Romero,25,Paraguay,Attacking Midfield,AM,£4.50m,Shanghai Greenland Shenhua,China,"End of loanDec 31, 2017",Out,2017,w,laliga
+SD Eibar,Alejandro Gálvez,28,Spain,Centre-Back,CB,£2.25m,UD Las Palmas,Spain,Loan,Out,2017,w,laliga
+SD Eibar,Bebé,27,Portugal,Left Winger,LW,£1.35m,Rayo Vallecano,Spain,Loan,Out,2017,w,laliga
+SD Eibar,Nano Mesa,22,Spain,Centre-Forward,CF,£540Th.,Sporting Gijón,Spain,Loan,Out,2017,w,laliga
+SD Eibar,Christian Rivera,20,Spain,Central Midfield,CM,£630Th.,FC Barcelona B,Spain,Loan,Out,2017,w,laliga
+Málaga CF,Paul Baysse,29,France,Centre-Back,CB,£2.25m,FC Girondins Bordeaux,France,£900Th.,Out,2017,w,laliga
+Málaga CF,Emanuel Cecchini,21,Argentina,Central Midfield,CM,£3.60m,Club León FC,Mexico,Loan fee:£360Th.,Out,2017,w,laliga
+Málaga CF,Miguel Cifuentes,27,Spain,Right-Back,RB,£540Th.,Albacete Balompié,Spain,Loan,Out,2017,w,laliga
+Málaga CF,Jony,26,Spain,Left Midfield,LM,£1.35m,Sporting Gijón,Spain,Loan,Out,2017,w,laliga
+Málaga CF,Javi Ontiveros,20,Spain,Left Winger,LW,£2.25m,Real Valladolid CF,Spain,Loan,Out,2017,w,laliga
+Málaga CF,Álex Mula,21,Spain,Left Winger,LW,£360Th.,CD Tenerife,Spain,Loan,Out,2017,w,laliga
+Valencia CF,Fabián Orellana,31,Chile,Right Winger,RW,£2.70m,SD Eibar,Spain,Loan fee:£360Th.,Out,2017,w,laliga
+Valencia CF,Robert Ibáñez,24,Spain,Right Winger,RW,£1.35m,Getafe CF,Spain,Free transfer,Out,2017,w,laliga
+Valencia CF,Nacho Gil,22,Spain,Left Winger,LW,£270Th.,UD Las Palmas,Spain,Loan,Out,2017,w,laliga
+Celta de Vigo,John Guidetti,25,Sweden,Centre-Forward,CF,£4.50m,Deportivo Alavés,Spain,Loan,Out,2017,w,laliga
+Celta de Vigo,Theo Bongonda,22,Belgium,Left Winger,LW,£2.70m,SV Zulte Waregem,Belgium,Loan,Out,2017,w,laliga
+Celta de Vigo,Iván Villar,20,Spain,Goalkeeper,GK,£270Th.,Levante UD,Spain,Loan,Out,2017,w,laliga
+Celta de Vigo,Álvaro Lemos,24,Spain,Right-Back,RB,£450Th.,CD Lugo,Spain,Loan,Out,2017,w,laliga
+Celta de Vigo,Andrew Hjulsager,23,Denmark,Right Winger,RW,£900Th.,Granada CF,Spain,Loan,Out,2017,w,laliga
+UD Las Palmas,Jonathan Viera,28,Spain,Attacking Midfield,AM,£7.20m,Beijing Sinobo Guoan,China,£9.90m,Out,2017,w,laliga
+UD Las Palmas,Mauricio Lemos,22,Uruguay,Centre-Back,CB,£5.40m,US Sassuolo,Italy,Loan fee:£1.35m,Out,2017,w,laliga
+UD Las Palmas,Loïc Rémy,31,France,Centre-Forward,CF,£7.20m,Getafe CF,Spain,Loan,Out,2017,w,laliga
+UD Las Palmas,Hernán Santana,27,Spain,Central Midfield,CM,£630Th.,Sporting Gijón,Spain,Free transfer,Out,2017,w,laliga
+UD Las Palmas,Aythami Artiles,31,Spain,Centre-Back,CB,£630Th.,Córdoba CF,Spain,Free transfer,Out,2017,w,laliga
+UD Las Palmas,Mateo García,21,Argentina,Right Winger,RW,£1.08m,AD Alcorcón,Spain,Loan,Out,2017,w,laliga
+UD Las Palmas,Borja Herrera,25,Spain,Left-Back,LB,£270Th.,Real Valladolid CF,Spain,Loan,Out,2017,w,laliga
+UD Las Palmas,Sergi Samper,23,Spain,Defensive Midfield,DM,£2.25m,FC Barcelona,Spain,"End of loanJan 31, 2018",Out,2017,w,laliga
+UD Las Palmas,Alfredo Ortuño,26,Spain,Centre-Forward,CF,£900Th.,,Without Club,-,Out,2017,w,laliga
+UD Las Palmas,Oussama Tannane,23,Morocco,Right Winger,RW,£1.35m,AS Saint-Étienne,France,"End of loanJan 31, 2018",Out,2017,w,laliga
+UD Las Palmas,Vitolo,28,Spain,Left Winger,LW,£27.00m,Atlético Madrid,Spain,"End of loanDec 31, 2017",Out,2017,w,laliga
+Real Betis Balompié,Alin Tosca,25,Romania,Centre-Back,CB,£900Th.,Benevento Calcio,Italy,Loan fee:£90Th.,Out,2017,w,laliga
+Real Betis Balompié,Felipe Gutiérrez,27,Chile,Central Midfield,CM,£2.25m,Sporting Kansas City,United States,Free transfer,Out,2017,w,laliga
+Real Betis Balompié,Juanjo Narváez,22,Colombia,Left Winger,LW,£180Th.,Córdoba CF,Spain,Loan,Out,2017,w,laliga
+Real Betis Balompié,Matías Nahuel,21,Spain,Left Winger,LW,£900Th.,Villarreal CF,Spain,"End of loanJan 28, 2018",Out,2017,w,laliga
+Deportivo de La Coruña,Alejandro Arribas,28,Spain,Centre-Back,CB,£2.70m,UNAM Pumas,Mexico,£1.80m,Out,2017,w,laliga
+Deportivo de La Coruña,Saúl García,23,Spain,Left-Back,LB,£540Th.,CD Numancia,Spain,Loan,Out,2017,w,laliga
+Deportivo de La Coruña,Costel Pantilimon,30,Romania,Goalkeeper,GK,£1.35m,Watford FC,England,"End of loanJan 30, 2018",Out,2017,w,laliga
+Deportivo de La Coruña,Bruno Gama,30,Portugal,Right Winger,RW,£900Th.,,Without Club,-,Out,2017,w,laliga
+CD Leganés,Erik Morán,26,Spain,Defensive Midfield,DM,£810Th.,AEK Athens,Greece,£117Th.,Out,2017,w,laliga
+CD Leganés,Waly Diouf,20,Senegal,Centre-Back,CB,-,FK Palanga,Lithuania,?,Out,2017,w,laliga
+CD Leganés,Mamadou Koné,26,Cote d'Ivoire,Centre-Forward,CF,£450Th.,KAS Eupen,Belgium,Loan,Out,2017,w,laliga
+CD Leganés,Owusu,20,Ghana,Right Winger,RW,£270Th.,FC Cartagena,Spain,Loan,Out,2017,w,laliga
+Levante UD,Mitchell Langerak,29,Australia,Goalkeeper,GK,£900Th.,Nagoya Grampus,Japan,£1.31m,Out,2017,w,laliga
+Levante UD,Samu García,27,Spain,Right Winger,RW,£900Th.,Málaga CF,Spain,Loan,Out,2017,w,laliga
+Levante UD,Nano Mesa,22,Spain,Centre-Forward,CF,£540Th.,SD Eibar,Spain,"End of loanJan 29, 2018",Out,2017,w,laliga
+Levante UD,Enes Ünal,20,Turkey,Centre-Forward,CF,£12.60m,Villarreal CF,Spain,"End of loanDec 31, 2017",Out,2017,w,laliga
+Girona FC,Fran Sandaza,33,Spain,Centre-Forward,CF,£360Th.,Qingdao Huanghai,China,Free transfer,Out,2017,w,laliga
+Girona FC,Farid Boulaya,24,Algeria,Right Winger,RW,£360Th.,FC Metz,France,Loan,Out,2017,w,laliga
+Girona FC,Olarenwaju Kayode,24,Nigeria,Centre-Forward,CF,£2.70m,Manchester City,England,"End of loanJan 31, 2018",Out,2017,w,laliga
+Girona FC,Manel Martínez,25,Spain,Centre-Forward,CF,£360Th.,CF Peralada,Spain,-,Out,2017,w,laliga
+Girona FC,Marlos Moreno,21,Colombia,Left Winger,LW,£450Th.,Manchester City,England,"End of loanJan 15, 2018",Out,2017,w,laliga
+Getafe CF,Juan Cala,28,Spain,Centre-Back,CB,£1.80m,Henan Jianye,China,£1.44m,Out,2017,w,laliga
+Getafe CF,Mehdi Lacen,33,Algeria,Defensive Midfield,DM,£720Th.,Málaga CF,Spain,Free transfer,Out,2017,w,laliga
+Getafe CF,Nicolás Gorosito,29,Argentina,Centre-Back,CB,£540Th.,Albacete Balompié,Spain,Free transfer,Out,2017,w,laliga
+Getafe CF,Karim Yoda,29,France,Right Winger,RW,£630Th.,CF Reus Deportiu,Spain,Loan,Out,2017,w,laliga
+Getafe CF,Chuli,26,Spain,Centre-Forward,CF,£630Th.,CD Lugo,Spain,Loan,Out,2017,w,laliga
+Getafe CF,Jefferson Montero,28,Ecuador,Left Winger,LW,£1.80m,CS Emelec,Ecuador,Loan,Out,2017,w,laliga
+Getafe CF,Robert Ibáñez,24,Spain,Right Winger,RW,£1.35m,CA Osasuna,Spain,Loan,Out,2017,w,laliga
+Getafe CF,Stefan Scepovic,28,Serbia,Centre-Forward,CF,£900Th.,Videoton FC,Hungary,?,Out,2017,w,laliga

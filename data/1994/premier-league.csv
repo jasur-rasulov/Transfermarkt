@@ -1,6 +1,6 @@
 Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Arsenal FC,Stefan Schwarz,25,Sweden,Central Midfield,CM,-,SL Benfica,Portugal,£900k,In,1994,s,premier-league
-Arsenal FC,Lee Harper,22,England,Goalkeeper,GK,-,Sittingbourne FC,England,£162k,In,1994,s,premier-league
+Arsenal FC,Stefan Schwarz,25,Sweden,Central Midfield,CM,-,SL Benfica,Portugal,£900Th.,In,1994,s,premier-league
+Arsenal FC,Lee Harper,22,England,Goalkeeper,GK,-,Sittingbourne FC,England,£162Th.,In,1994,s,premier-league
 Arsenal FC,Vince Bartram,25,England,Goalkeeper,GK,-,AFC Bournemouth,England,?,In,1994,s,premier-league
 Arsenal FC,Matthew Rose,18,England,Defender,Defender,-,Arsenal FC U18,England,-,In,1994,s,premier-league
 Everton FC,Daniel Amokachi,21,Nigeria,Centre-Forward,CF,-,Club Brugge KV,Belgium,£3.15m,In,1994,s,premier-league
@@ -11,7 +11,7 @@ Everton FC,Neil Moore,22,England,Defender,Defender,-,Oldham Athletic,England,"En
 Everton FC,Alex Smith,18,England,Defender,Defender,-,Everton FC U18,England,-,In,1994,s,premier-league
 Liverpool FC,Phil Babb,23,Ireland,Centre-Back,CB,-,Coventry City,England,£4.88m,In,1994,s,premier-league
 Liverpool FC,John Scales,28,England,Centre-Back,CB,-,Wimbledon FC,England,£3.69m,In,1994,s,premier-league
-Liverpool FC,Michael Stensgaard,19,Denmark,Goalkeeper,GK,-,Hvidovre IF,Denmark,£432k,In,1994,s,premier-league
+Liverpool FC,Michael Stensgaard,19,Denmark,Goalkeeper,GK,-,Hvidovre IF,Denmark,£432Th.,In,1994,s,premier-league
 Liverpool FC,Alec Chamberlain,30,England,Goalkeeper,GK,-,Sunderland AFC,England,Loan,In,1994,s,premier-league
 Liverpool FC,Paul Stewart,30,England,Defensive Midfield,DM,-,Burnley FC,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Tottenham Hotspur,Ilie Dumitrescu,25,Romania,Left Winger,LW,-,Steaua Bukarest,Romania,£3.33m,In,1994,s,premier-league
@@ -29,9 +29,9 @@ Blackburn Rovers,Robbie Slater,29,Australia,Central Midfield,CM,-,RC Lens,France
 Blackburn Rovers,Wayne Gill,18,England,Midfielder,Midfielder,-,Blackburn Rovers U18,England,-,In,1994,s,premier-league
 Blackburn Rovers,Thomas Morgan,17,Ireland,Defensive Midfield,DM,-,Blackburn Rovers U18,England,-,In,1994,s,premier-league
 Blackburn Rovers,Marlon Broomes,16,England,Centre-Back,CB,-,Blackburn Rovers U18,England,-,In,1994,s,premier-league
-Southampton FC,Ronnie Ekelund,22,Denmark,Left Midfield,LM,-,FC Barcelona B,Spain,£585k,In,1994,s,premier-league
+Southampton FC,Ronnie Ekelund,22,Denmark,Left Midfield,LM,-,FC Barcelona B,Spain,£585Th.,In,1994,s,premier-league
 Southampton FC,Bruce Grobbelaar,36,Zimbabwe,Goalkeeper,GK,-,Liverpool FC,England,Free transfer,In,1994,s,premier-league
-Southampton FC,Peter Whiston,26,England,Centre-Back,CB,-,Exeter City,England,£34k,In,1994,s,premier-league
+Southampton FC,Peter Whiston,26,England,Centre-Back,CB,-,Exeter City,England,£34Th.,In,1994,s,premier-league
 Manchester City,Nicky Summerbee,22,England,Right Midfield,RM,-,Swindon Town,England,£2.03m,In,1994,s,premier-league
 Manchester City,Simon Tracey,26,England,Goalkeeper,GK,-,Sheffield United,England,Loan,In,1994,s,premier-league
 Manchester City,Martyn Margetson,23,Wales,Goalkeeper,GK,-,Luton Town,England,"End of loanMay 1, 1995",In,1994,s,premier-league
@@ -42,7 +42,7 @@ Manchester City,Fitzroy Simpson,24,Jamaica,Midfielder,Midfielder,-,Bristol City,
 West Ham United,Don Hutchison,19,Scotland,Attacking Midfield,AM,-,Liverpool FC,England,£2.03m,In,1994,s,premier-league
 West Ham United,Marc Rieper,26,Denmark,Centre-Back,CB,-,Bröndby IF,Denmark,£1.53m,In,1994,s,premier-league
 West Ham United,Joey Beauchamp,23,England,Left Midfield,LM,-,Oxford United,England,£1.26m,In,1994,s,premier-league
-West Ham United,Adrian Whitbread,22,England,Centre-Back,CB,-,Swindon Town,England,£560k,In,1994,s,premier-league
+West Ham United,Adrian Whitbread,22,England,Centre-Back,CB,-,Swindon Town,England,£560Th.,In,1994,s,premier-league
 West Ham United,John Moncur,27,England,Central Midfield,CM,-,Swindon Town,England,Free transfer,In,1994,s,premier-league
 West Ham United,Tony Cottee,29,England,Centre-Forward,CF,-,Everton FC,England,?,In,1994,s,premier-league
 West Ham United,Mark Watson,21,England,Forward,Forward,-,Sutton United,England,?,In,1994,s,premier-league
@@ -53,27 +53,27 @@ West Ham United,Darren Currie,20,England,Midfielder,Midfielder,-,Shrewsbury Town
 West Ham United,Jamie Victory,18,England,Left-Back,LB,-,West Ham United U18,England,-,In,1994,s,premier-league
 West Ham United,Jeroen Boere,26,Netherlands,Centre-Forward,CF,-,Portsmouth FC,England,"End of loanJun 30, 1994",In,1994,s,premier-league
 Leeds United,Carlton Palmer,28,England,Defensive Midfield,DM,-,Sheffield Wednesday,England,£2.84m,In,1994,s,premier-league
-Leeds United,Nigel Worthington,32,Northern Ireland,Left-Back,LB,-,Sheffield Wednesday,England,£360k,In,1994,s,premier-league
-Leeds United,Lucas Radebe,25,South Africa,Centre-Back,CB,-,Kaizer Chiefs,South Africa,£338k,In,1994,s,premier-league
+Leeds United,Nigel Worthington,32,Northern Ireland,Left-Back,LB,-,Sheffield Wednesday,England,£360Th.,In,1994,s,premier-league
+Leeds United,Lucas Radebe,25,South Africa,Centre-Back,CB,-,Kaizer Chiefs,South Africa,£338Th.,In,1994,s,premier-league
 Leeds United,Philemon Masinga,25,South Africa,Centre-Forward,CF,-,Mamelodi Sundowns FC,South Africa,?,In,1994,s,premier-league
 Leeds United,Paul Pettinger,19,England,Goalkeeper,GK,-,FC Halifax Town,England,"End of loanMay 1, 1995",In,1994,s,premier-league
 Leeds United,Ryan Nicholls,21,Wales,Forward,Forward,-,Strømsgodset IF,Norway,"End of loanAug 31, 1994",In,1994,s,premier-league
 Leeds United,Nathan Lowndes,17,England,Centre-Forward,CF,-,Leeds United U18,England,-,In,1994,s,premier-league
 Aston Villa,John Fashanu,31,England,Centre-Forward,CF,-,Wimbledon FC,England,£1.46m,In,1994,s,premier-league
-Aston Villa,Phil King,26,England,Left-Back,LB,-,Sheffield Wednesday,England,£216k,In,1994,s,premier-league
+Aston Villa,Phil King,26,England,Left-Back,LB,-,Sheffield Wednesday,England,£216Th.,In,1994,s,premier-league
 Aston Villa,Nii Lamptey,19,Ghana,Attacking Midfield,AM,-,PSV Eindhoven,Netherlands,Free transfer,In,1994,s,premier-league
-Aston Villa,Gareth Farrelly,19,Ireland,Left Midfield,LM,-,Rotherham United,England,"End of loanMay 1, 1995",In,1994,s,premier-league
 Aston Villa,Bryan Small,23,England,Defender,Defender,-,Birmingham City,England,"End of loanMay 31, 1995",In,1994,s,premier-league
+Aston Villa,Gareth Farrelly,19,Ireland,Left Midfield,LM,-,Rotherham United,England,"End of loanMay 1, 1995",In,1994,s,premier-league
 Aston Villa,Guy Whittingham,29,England,Forward,Forward,-,Wolverhampton Wanderers,England,"End of loanJun 30, 1994",In,1994,s,premier-league
 Chelsea FC,Paul Furlong,25,England,Centre-Forward,CF,-,Watford FC,England,£3.15m,In,1994,s,premier-league
 Chelsea FC,David Rocastle,27,England,Attacking Midfield,AM,-,Manchester City,England,£1.33m,In,1994,s,premier-league
 Chelsea FC,Scott Minto,22,England,Left-Back,LB,-,Charlton Athletic,England,£1.04m,In,1994,s,premier-league
 Chelsea FC,Alan Judge,34,England,Goalkeeper,GK,-,Hereford United (liq.),England,?,In,1994,s,premier-league
+Chelsea FC,Nick Colgan,21,Ireland,Goalkeeper,GK,-,Grimsby Town,England,"End of loanMay 1, 1995",In,1994,s,premier-league
 Chelsea FC,Muzzy Izzet,19,Turkey,Right Midfield,RM,-,Chelsea FC U18,England,-,In,1994,s,premier-league
 Chelsea FC,Paul Hughes,18,England,Central Midfield,CM,-,Chelsea FC U18,England,-,In,1994,s,premier-league
-Chelsea FC,Nick Colgan,21,Ireland,Goalkeeper,GK,-,Grimsby Town,England,"End of loanMay 1, 1995",In,1994,s,premier-league
-Ipswich Town,Claus Thomsen,24,Denmark,Centre-Back,CB,-,Aarhus GF,Denmark,£315k,In,1994,s,premier-league
-Ipswich Town,Mauricio Taricco,21,Argentina,Left-Back,LB,-,Asociación Atlética Argentinos Juniors,Argentina,£221k,In,1994,s,premier-league
+Ipswich Town,Claus Thomsen,24,Denmark,Centre-Back,CB,-,Aarhus GF,Denmark,£315Th.,In,1994,s,premier-league
+Ipswich Town,Mauricio Taricco,21,Argentina,Left-Back,LB,-,Asociación Atlética Argentinos Juniors,Argentina,£221Th.,In,1994,s,premier-league
 Ipswich Town,Adrián Paz,25,Uruguay,Midfielder,Midfielder,-,Club Estudiantes de La Plata,Argentina,?,In,1994,s,premier-league
 Ipswich Town,Neil Gregory,22,Zambia,Centre-Forward,CF,-,Scunthorpe United,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Ipswich Town,Lee Norfolk,18,New Zealand,Midfielder,Midfielder,-,Ipswich Town U18,England,-,In,1994,s,premier-league
@@ -83,19 +83,19 @@ Ipswich Town,David Gregory,25,England,Midfielder,Midfielder,-,Hereford United (l
 Ipswich Town,Kevin Ellis,17,England,Defender,Defender,-,Ipswich Town U18,England,-,In,1994,s,premier-league
 Nottingham Forest,Kevin Campbell,24,England,Centre-Forward,CF,-,Arsenal FC,England,£3.78m,In,1994,s,premier-league
 Nottingham Forest,Bryan Roy,24,Netherlands,Right Winger,RW,-,Foggia Calcio,Italy,£2.25m,In,1994,s,premier-league
-Nottingham Forest,Carl Tiler,25,England,Defender,Defender,-,Swindon Town,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Nottingham Forest,Kingsley Black,26,Northern Ireland,Left Midfield,LM,-,Sheffield United,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Nottingham Forest,Gary Bull,28,England,Forward,Forward,-,Birmingham City,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Nottingham Forest,Vance Warner,20,England,Defender,Defender,-,Nottingham Forest U18,England,-,In,1994,s,premier-league
+Nottingham Forest,Carl Tiler,25,England,Centre-Back,CB,-,Swindon Town,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Newcastle United,Darren Peacock,26,England,Centre-Back,CB,-,Queens Park Rangers,England,£4.50m,In,1994,s,premier-league
 Newcastle United,Paul Kitson,23,England,Centre-Forward,CF,-,Derby County,England,£3.04m,In,1994,s,premier-league
-Newcastle United,Marc Hottiger,26,Switzerland,Right-Back,RB,-,FC Sion,Switzerland,£720k,In,1994,s,premier-league
-Newcastle United,Steve Guppy,25,England,Left Winger,LW,-,Wycombe Wanderers,England,£180k,In,1994,s,premier-league
+Newcastle United,Marc Hottiger,26,Switzerland,Right-Back,RB,-,FC Sion,Switzerland,£720Th.,In,1994,s,premier-league
+Newcastle United,Steve Guppy,25,England,Left Winger,LW,-,Wycombe Wanderers,England,£180Th.,In,1994,s,premier-league
 Newcastle United,Philippe Albert,26,Belgium,Centre-Back,CB,-,RSC Anderlecht,Belgium,Free transfer,In,1994,s,premier-league
 Newcastle United,Mike Hooper,31,England,Goalkeeper,GK,-,Sunderland AFC,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Newcastle United,Richard Appleby,18,England,Midfielder,Midfielder,-,Newcastle United U18,England,-,In,1994,s,premier-league
 Newcastle United,Richard Appleby,19,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,"End of loanMay 31, 1995",In,1994,s,premier-league
-Crystal Palace,Darren Pitcher,24,England,Defender,Defender,-,Charlton Athletic,England,£801k,In,1994,s,premier-league
+Crystal Palace,Darren Pitcher,24,England,Defender,Defender,-,Charlton Athletic,England,£801Th.,In,1994,s,premier-league
 Crystal Palace,Ray Wilkins,37,England,Central Midfield,CM,-,Queens Park Rangers,England,?,In,1994,s,premier-league
 Crystal Palace,Rhys Wilmot,32,Wales,Goalkeeper,GK,-,Grimsby Town,England,?,In,1994,s,premier-league
 Crystal Palace,Paul Williams,29,England,Forward,Forward,-,Birmingham City,England,"End of loanMay 31, 1995",In,1994,s,premier-league
@@ -104,7 +104,7 @@ Crystal Palace,Glen Little,18,England,Right Winger,RW,-,Crystal Palace U18,Engla
 Crystal Palace,Jason Harris,18,England,Forward,Forward,-,Dover Athletic,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Crystal Palace,Jason Harris,17,England,Forward,Forward,-,Crystal Palace U18,England,-,In,1994,s,premier-league
 Manchester United,David May,24,England,Centre-Back,CB,-,Blackburn Rovers,England,£1.89m,In,1994,s,premier-league
-Manchester United,Graeme Tomlinson,18,England,Forward,Forward,-,Bradford City,England,£108k,In,1994,s,premier-league
+Manchester United,Graeme Tomlinson,18,England,Forward,Forward,-,Bradford City,England,£108Th.,In,1994,s,premier-league
 Manchester United,Grant Brebner,16,Scotland,Defensive Midfield,DM,-,Hutchison Vale BC,Scotland,?,In,1994,s,premier-league
 Manchester United,Paul Scholes,19,England,Central Midfield,CM,-,Manchester United U23,England,-,In,1994,s,premier-league
 Manchester United,Phil Neville,17,England,Right-Back,RB,-,Manchester United U18,England,-,In,1994,s,premier-league
@@ -115,7 +115,7 @@ Manchester United,Nicky Butt,19,England,Central Midfield,CM,-,Manchester United 
 Manchester United,Colin Murdock,18,Northern Ireland,Centre-Back,CB,-,Manchester United U18,England,-,In,1994,s,premier-league
 Manchester United,Gary Walsh,26,England,Goalkeeper,GK,-,Oldham Athletic,England,"End of loanJun 30, 1994",In,1994,s,premier-league
 Coventry City,Dion Dublin,25,England,Centre-Forward,CF,-,Manchester United,England,£2.70m,In,1994,s,premier-league
-Coventry City,Steven Pressley,20,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,£810k,In,1994,s,premier-league
+Coventry City,Steven Pressley,20,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,£810Th.,In,1994,s,premier-league
 Coventry City,Paul Cook,27,England,Midfielder,Midfielder,-,Wolverhampton Wanderers,England,?,In,1994,s,premier-league
 Coventry City,Alexander Robertson,23,Scotland,Midfielder,Midfielder,-,Rangers FC,Scotland,?,In,1994,s,premier-league
 Coventry City,Cobi Jones,24,United States,Right Winger,RW,-,,Unknown,?,In,1994,s,premier-league
@@ -124,8 +124,8 @@ Coventry City,Paul Williams,25,England,Defender,Defender,-,Huddersfield Town,Eng
 Coventry City,Andrew Ducros,16,England,Right Winger,RW,-,Coventry City U18,England,-,In,1994,s,premier-league
 Coventry City,Iyseden Christie,17,England,Centre-Forward,CF,-,Coventry City U18,England,-,In,1994,s,premier-league
 Coventry City,Brian Borrows,33,England,Right-Back,RB,-,Bristol City,England,"End of loanJun 1, 1994",In,1994,s,premier-league
-Wimbledon FC,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Norwich City,England,£675k,In,1994,s,premier-league
-Wimbledon FC,Mick Harford,35,England,Centre-Forward,CF,-,Coventry City,England,£50k,In,1994,s,premier-league
+Wimbledon FC,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Norwich City,England,£675Th.,In,1994,s,premier-league
+Wimbledon FC,Mick Harford,35,England,Centre-Forward,CF,-,Coventry City,England,£50Th.,In,1994,s,premier-league
 Wimbledon FC,Brendan Murphy,18,Ireland,Goalkeeper,GK,-,Bradford City,England,?,In,1994,s,premier-league
 Wimbledon FC,Andy Thorn,27,England,Centre-Back,CB,-,Crystal Palace,England,?,In,1994,s,premier-league
 Wimbledon FC,Alan Reeves,26,England,Centre-Back,CB,-,Rochdale AFC,England,?,In,1994,s,premier-league
@@ -133,7 +133,7 @@ Wimbledon FC,Lutz Pfannenstiel,21,Germany,Goalkeeper,GK,-,FA Penang,Malaysia,?,I
 Wimbledon FC,Aidan Newhouse,23,England,Forward,Forward,-,Portsmouth FC,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Wimbledon FC,Steve Anthrobus,25,England,Centre-Forward,CF,-,Peterborough United,England,"End of loanJun 30, 1994",In,1994,s,premier-league
 Leicester City,Mark Draper,23,England,Attacking Midfield,AM,-,Notts County,England,£1.69m,In,1994,s,premier-league
-Leicester City,Nicky Mohan,23,England,Midfielder,Midfielder,-,Middlesbrough FC,England,£405k,In,1994,s,premier-league
+Leicester City,Nicky Mohan,23,England,Midfielder,Midfielder,-,Middlesbrough FC,England,£405Th.,In,1994,s,premier-league
 Leicester City,Franz Carr,27,England,Forward,Forward,-,Sheffield United,England,Loan,In,1994,s,premier-league
 Leicester City,Ian Ormondroyd,30,England,Forward,Forward,-,Hull City,England,"End of loanMay 31, 1995",In,1994,s,premier-league
 Leicester City,Julian Joachim,19,England,Centre-Forward,CF,-,Leicester City U23,England,-,In,1994,s,premier-league
@@ -145,7 +145,7 @@ Sheffield Wednesday,Ian Taylor,26,England,Midfielder,Midfielder,-,Port Vale FC,E
 Sheffield Wednesday,Dan Petrescu,26,Romania,Right-Back,RB,-,Genoa 1893,Italy,?,In,1994,s,premier-league
 Sheffield Wednesday,Lee Briscoe,18,England,Left-Back,LB,-,Sheffield Wednesday U18,England,-,In,1994,s,premier-league
 Sheffield Wednesday,Phil King,26,England,Left-Back,LB,-,Notts County,England,"End of loanJun 30, 1994",In,1994,s,premier-league
-Queens Park Rangers,Steve Hodge,31,England,Central Midfield,CM,-,Leeds United,England,£324k,In,1994,s,premier-league
+Queens Park Rangers,Steve Hodge,31,England,Central Midfield,CM,-,Leeds United,England,£324Th.,In,1994,s,premier-league
 Queens Park Rangers,Matt Brazier,17,England,Midfielder,Midfielder,-,,Unknown,?,In,1994,s,premier-league
 Queens Park Rangers,Sieb Dijkstra,27,Netherlands,Goalkeeper,GK,-,Motherwell FC,Scotland,?,In,1994,s,premier-league
 Queens Park Rangers,Dennis Bailey,29,England,Forward,Forward,-,Brentford FC,England,"End of loanMay 31, 1995",In,1994,s,premier-league
@@ -163,12 +163,12 @@ Norwich City,Ali Gibb,18,England,Right Midfield,RM,-,Norwich City U18,England,-,
 Arsenal FC,Kevin Campbell,24,England,Centre-Forward,CF,-,Nottingham Forest,England,£3.78m,Out,1994,s,premier-league
 Arsenal FC,Scott Marshall,21,Scotland,Centre-Back,CB,-,Sheffield United,England,Loan,Out,1994,s,premier-league
 Everton FC,Robert Warzycha,30,Poland,Right Winger,RW,-,Pécsi MFC,Hungary,Free transfer,Out,1994,s,premier-league
-Everton FC,John Doolan,20,England,Central Midfield,CM,-,Mansfield Town,England,?,Out,1994,s,premier-league
-Everton FC,Preki,31,United States,Attacking Midfield,AM,-,Portsmouth FC,England,?,Out,1994,s,premier-league
-Everton FC,Ian Snodin,31,England,Right-Back,RB,-,Sunderland AFC,England,Loan,Out,1994,s,premier-league
 Everton FC,Mark Ward,31,England,Left-Back,LB,-,Birmingham City,England,?,Out,1994,s,premier-league
 Everton FC,Neil Moore,21,England,Defender,Defender,-,Blackpool FC,England,Loan,Out,1994,s,premier-league
 Everton FC,Tony Cottee,29,England,Centre-Forward,CF,-,West Ham United,England,?,Out,1994,s,premier-league
+Everton FC,John Doolan,20,England,Central Midfield,CM,-,Mansfield Town,England,?,Out,1994,s,premier-league
+Everton FC,Preki,31,United States,Attacking Midfield,AM,-,Portsmouth FC,England,?,Out,1994,s,premier-league
+Everton FC,Ian Snodin,31,England,Right-Back,RB,-,Sunderland AFC,England,Loan,Out,1994,s,premier-league
 Liverpool FC,Don Hutchison,19,Scotland,Attacking Midfield,AM,-,West Ham United,England,£2.03m,Out,1994,s,premier-league
 Liverpool FC,Ronnie Whelan,32,Ireland,Left Midfield,LM,-,Southend United,England,Free transfer,Out,1994,s,premier-league
 Liverpool FC,Paul Stewart,29,England,Defensive Midfield,DM,-,Wolverhampton Wanderers,England,Loan,Out,1994,s,premier-league
@@ -177,22 +177,22 @@ Liverpool FC,Bruce Grobbelaar,36,Zimbabwe,Goalkeeper,GK,-,Southampton FC,England
 Liverpool FC,Mark Walters,30,England,Left Midfield,LM,-,Wolverhampton Wanderers,England,Loan,Out,1994,s,premier-league
 Liverpool FC,Torben Piechnik,31,Denmark,Centre-Back,CB,-,Aarhus GF,Denmark,?,Out,1994,s,premier-league
 Liverpool FC,Alec Chamberlain,30,England,Goalkeeper,GK,-,Sunderland AFC,England,"End of loanApr 28, 1995",Out,1994,s,premier-league
+Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,Loan,Out,1994,s,premier-league
 Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Barnet FC,England,Free transfer,Out,1994,s,premier-league
 Tottenham Hotspur,Andy Quy,17,England,Goalkeeper,GK,-,Derby County,England,Free transfer,Out,1994,s,premier-league
 Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Wycombe Wanderers,England,Loan,Out,1994,s,premier-league
 Tottenham Hotspur,Steve Robinson,19,Northern Ireland,Attacking Midfield,AM,-,AFC Bournemouth,England,Free transfer,Out,1994,s,premier-league
 Tottenham Hotspur,Neil Young,20,England,Right-Back,RB,-,AFC Bournemouth,England,Free transfer,Out,1994,s,premier-league
-Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,Loan,Out,1994,s,premier-league
 Tottenham Hotspur,John Hendry,24,Scotland,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,1994,s,premier-league
 Tottenham Hotspur,Vinny Samways,25,England,Central Midfield,CM,-,Everton FC,England,?,Out,1994,s,premier-league
 Tottenham Hotspur,Jeff Minton,20,England,Midfielder,Midfielder,-,Brighton & Hove Albion,England,?,Out,1994,s,premier-league
 Tottenham Hotspur,Paul Moran,26,England,Forward,Forward,-,Peterborough United,England,?,Out,1994,s,premier-league
 Tottenham Hotspur,Peter Beadle,22,England,Forward,Forward,-,Watford FC,England,?,Out,1994,s,premier-league
 Blackburn Rovers,David May,24,England,Centre-Back,CB,-,Manchester United,England,£1.89m,Out,1994,s,premier-league
-Blackburn Rovers,Simon Ireland,22,England,Midfielder,Midfielder,-,Mansfield Town,England,£68k,Out,1994,s,premier-league
+Blackburn Rovers,Simon Ireland,22,England,Midfielder,Midfielder,-,Mansfield Town,England,£68Th.,Out,1994,s,premier-league
 Blackburn Rovers,Andy Morrison,23,Scotland,Centre-Back,CB,-,Blackpool FC,England,?,Out,1994,s,premier-league
 Blackburn Rovers,Kevin Moran,38,Ireland,Centre-Back,CB,-,,Retired,-,Out,1994,s,premier-league
-Southampton FC,Nicky Banger,23,England,Centre-Forward,CF,-,Oldham Athletic,England,£270k,Out,1994,s,premier-league
+Southampton FC,Nicky Banger,23,England,Centre-Forward,CF,-,Oldham Athletic,England,£270Th.,Out,1994,s,premier-league
 Southampton FC,Steve Wood,31,England,Centre-Back,CB,-,Oxford United,England,Free transfer,Out,1994,s,premier-league
 Southampton FC,Kevin Moore,36,England,Defender,Defender,-,Fulham FC,England,Free transfer,Out,1994,s,premier-league
 Southampton FC,Micky Adams,32,England,Left-Back,LB,-,Fulham FC,England,Free transfer,Out,1994,s,premier-league
@@ -204,9 +204,9 @@ Manchester City,David Rocastle,27,England,Attacking Midfield,AM,-,Chelsea FC,Eng
 Manchester City,Mike Sheron,22,England,Centre-Forward,CF,-,Norwich City,England,£1.24m,Out,1994,s,premier-league
 Manchester City,Steffen Karl,24,Germany,Defensive Midfield,DM,-,FC Sion,Switzerland,Free transfer,Out,1994,s,premier-league
 Manchester City,Alfons Groenendijk,30,Netherlands,Defensive Midfield,DM,-,Sparta Rotterdam,Netherlands,?,Out,1994,s,premier-league
-West Ham United,Joey Beauchamp,23,England,Left Midfield,LM,-,Swindon Town,England,£900k,Out,1994,s,premier-league
-West Ham United,Peter Butler,28,England,Midfielder,Midfielder,-,Notts County,England,£396k,Out,1994,s,premier-league
-West Ham United,Steve Jones,24,England,Forward,Forward,-,AFC Bournemouth,England,£168k,Out,1994,s,premier-league
+West Ham United,Joey Beauchamp,23,England,Left Midfield,LM,-,Swindon Town,England,£900Th.,Out,1994,s,premier-league
+West Ham United,Peter Butler,28,England,Midfielder,Midfielder,-,Notts County,England,£396Th.,Out,1994,s,premier-league
+West Ham United,Steve Jones,24,England,Forward,Forward,-,AFC Bournemouth,England,£168Th.,Out,1994,s,premier-league
 West Ham United,Darren Currie,19,England,Midfielder,Midfielder,-,Shrewsbury Town,England,Loan,Out,1994,s,premier-league
 West Ham United,Tony Gale,34,England,Centre-Back,CB,-,Blackburn Rovers,England,Free transfer,Out,1994,s,premier-league
 West Ham United,Matt Holland,20,Ireland,Central Midfield,CM,-,AFC Bournemouth,England,Free transfer,Out,1994,s,premier-league
@@ -214,15 +214,15 @@ West Ham United,Trevor Morley,34,England,Centre-Forward,CF,-,SK Brann,Norway,Loa
 West Ham United,Jeroen Boere,26,Netherlands,Centre-Forward,CF,-,West Bromwich Albion,England,Loan,Out,1994,s,premier-league
 West Ham United,David Burrows,25,England,Left-Back,LB,-,Everton FC,England,?,Out,1994,s,premier-league
 Leeds United,Jon Newsome,23,England,Defender,Defender,-,Norwich City,England,£1.35m,Out,1994,s,premier-league
-Leeds United,Steve Hodge,31,England,Central Midfield,CM,-,Queens Park Rangers,England,£324k,Out,1994,s,premier-league
+Leeds United,Steve Hodge,31,England,Central Midfield,CM,-,Queens Park Rangers,England,£324Th.,Out,1994,s,premier-league
 Leeds United,Ray Wallace,24,England,Defender,Defender,-,Stoke City,England,Free transfer,Out,1994,s,premier-league
 Leeds United,Ryan Nicholls,21,Wales,Forward,Forward,-,Strømsgodset IF,Norway,Loan,Out,1994,s,premier-league
 Leeds United,Jamie Forrester,19,England,Left Winger,LW,-,Scunthorpe United,England,?,Out,1994,s,premier-league
 Aston Villa,Tony Daley,26,England,Right Winger,RW,-,Wolverhampton Wanderers,England,£1.35m,Out,1994,s,premier-league
 Aston Villa,Neil Cox,22,England,Centre-Back,CB,-,Middlesbrough FC,England,£1.26m,Out,1994,s,premier-league
 Aston Villa,Steve Froggatt,21,England,Midfielder,Midfielder,-,Wolverhampton Wanderers,England,£1.08m,Out,1994,s,premier-league
-Aston Villa,Matthias Breitkreutz,23,Germany,Attacking Midfield,AM,-,FC Hansa Rostock,Germany,£144k,Out,1994,s,premier-league
-Aston Villa,Stefan Beinlich,22,Germany,Attacking Midfield,AM,-,FC Hansa Rostock,Germany,£144k,Out,1994,s,premier-league
+Aston Villa,Matthias Breitkreutz,23,Germany,Attacking Midfield,AM,-,FC Hansa Rostock,Germany,£144Th.,Out,1994,s,premier-league
+Aston Villa,Stefan Beinlich,22,Germany,Attacking Midfield,AM,-,FC Hansa Rostock,Germany,£144Th.,Out,1994,s,premier-league
 Aston Villa,Bryan Small,22,England,Defender,Defender,-,Birmingham City,England,Loan,Out,1994,s,premier-league
 Aston Villa,Dariusz Kubicki,31,Poland,Right-Back,RB,-,Sunderland AFC,England,?,Out,1994,s,premier-league
 Chelsea FC,Darren Barnard,22,Wales,Left-Back,LB,-,Reading FC,England,Loan,Out,1994,s,premier-league
@@ -231,25 +231,25 @@ Chelsea FC,Nick Colgan,21,Ireland,Goalkeeper,GK,-,Grimsby Town,England,Loan,Out,
 Chelsea FC,Alan Judge,35,England,Goalkeeper,GK,-,,Without Club,-,Out,1994,s,premier-league
 Chelsea FC,David Lee,24,England,Centre-Back,CB,-,Portsmouth FC,England,Loan,Out,1994,s,premier-league
 Ipswich Town,Paul Goddard,34,England,Centre-Forward,CF,-,,Retired,-,Out,1994,s,premier-league
-Nottingham Forest,Lee Glover,24,Scotland,Forward,Forward,-,Port Vale FC,England,£216k,Out,1994,s,premier-league
+Nottingham Forest,Lee Glover,24,Scotland,Forward,Forward,-,Port Vale FC,England,£216Th.,Out,1994,s,premier-league
 Nottingham Forest,Gary Crosby,30,England,Midfielder,Midfielder,-,Huddersfield Town,England,Free transfer,Out,1994,s,premier-league
 Nottingham Forest,Gary Bull,28,England,Forward,Forward,-,Birmingham City,England,Loan,Out,1994,s,premier-league
-Newcastle United,Mark Robinson,25,England,Defender,Defender,-,Swindon Town,England,£671k,Out,1994,s,premier-league
-Newcastle United,Liam O'Brien,29,Ireland,Defensive Midfield,DM,-,Tranmere Rovers,England,£383k,Out,1994,s,premier-league
+Newcastle United,Mark Robinson,25,England,Defender,Defender,-,Swindon Town,England,£671Th.,Out,1994,s,premier-league
+Newcastle United,Liam O'Brien,29,Ireland,Defensive Midfield,DM,-,Tranmere Rovers,England,£383Th.,Out,1994,s,premier-league
 Newcastle United,Nikodimos Papavasiliou,24,Cyprus,Left Winger,LW,-,OFI Crete,Greece,Free transfer,Out,1994,s,premier-league
 Newcastle United,Kevin Brock,32,England,Midfielder,Midfielder,-,Stockport County,England,?,Out,1994,s,premier-league
 Newcastle United,Richard Appleby,18,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,Loan,Out,1994,s,premier-league
 Newcastle United,Mike Hooper,31,England,Goalkeeper,GK,-,,Retired,-,Out,1994,s,premier-league
-Crystal Palace,David Whyte,23,England,Forward,Forward,-,Charlton Athletic,England,£513k,Out,1994,s,premier-league
-Crystal Palace,Paul Mortimer,26,England,Midfielder,Midfielder,-,Charlton Athletic,England,£226k,Out,1994,s,premier-league
-Crystal Palace,Simon Osborn,22,England,Central Midfield,CM,-,Reading FC,England,£135k,Out,1994,s,premier-league
+Crystal Palace,David Whyte,23,England,Forward,Forward,-,Charlton Athletic,England,£513Th.,Out,1994,s,premier-league
+Crystal Palace,Paul Mortimer,26,England,Midfielder,Midfielder,-,Charlton Athletic,England,£226Th.,Out,1994,s,premier-league
+Crystal Palace,Simon Osborn,22,England,Central Midfield,CM,-,Reading FC,England,£135Th.,Out,1994,s,premier-league
 Crystal Palace,Stuart Massey,29,England,Midfielder,Midfielder,-,Oxford United,England,Free transfer,Out,1994,s,premier-league
 Crystal Palace,Tony Scully,18,Ireland,Midfielder,Midfielder,-,AFC Bournemouth,England,Loan,Out,1994,s,premier-league
 Crystal Palace,Andy Thorn,27,England,Centre-Back,CB,-,Wimbledon FC,England,?,Out,1994,s,premier-league
 Crystal Palace,Niall Thompson,20,Canada,Forward,Forward,-,Colchester United,England,?,Out,1994,s,premier-league
 Manchester United,Dion Dublin,25,England,Centre-Forward,CF,-,Coventry City,England,£2.70m,Out,1994,s,premier-league
-Manchester United,Gary Walsh,26,England,Goalkeeper,GK,-,Middlesbrough FC,England,£630k,Out,1994,s,premier-league
-Manchester United,Neil Whitworth,22,England,Centre-Back,CB,-,Kilmarnock FC,Scotland,£285k,Out,1994,s,premier-league
+Manchester United,Gary Walsh,26,England,Goalkeeper,GK,-,Middlesbrough FC,England,£630Th.,Out,1994,s,premier-league
+Manchester United,Neil Whitworth,22,England,Centre-Back,CB,-,Kilmarnock FC,Scotland,£285Th.,Out,1994,s,premier-league
 Manchester United,Robbie Savage,19,Wales,Central Midfield,CM,-,Crewe Alexandra,England,Free transfer,Out,1994,s,premier-league
 Manchester United,Les Sealey,36,England,Goalkeeper,GK,-,Blackpool FC,England,Free transfer,Out,1994,s,premier-league
 Manchester United,Mike Phelan,31,England,Defensive Midfield,DM,-,West Bromwich Albion,England,Free transfer,Out,1994,s,premier-league
@@ -258,8 +258,8 @@ Manchester United,Craig Lawton,22,Wales,Left Midfield,LM,-,Port Vale FC,England,
 Manchester United,Bryan Robson,37,England,Central Midfield,CM,-,Middlesbrough FC,England,?,Out,1994,s,premier-league
 Coventry City,Phil Babb,23,Ireland,Centre-Back,CB,-,Liverpool FC,England,£4.88m,Out,1994,s,premier-league
 Coventry City,Peter Atherton,24,England,Right-Back,RB,-,Sheffield Wednesday,England,£1.04m,Out,1994,s,premier-league
-Coventry City,John Gayle,30,England,Forward,Forward,-,Burnley FC,England,£90k,Out,1994,s,premier-league
-Coventry City,Mick Harford,35,England,Centre-Forward,CF,-,Wimbledon FC,England,£50k,Out,1994,s,premier-league
+Coventry City,John Gayle,30,England,Forward,Forward,-,Burnley FC,England,£90Th.,Out,1994,s,premier-league
+Coventry City,Mick Harford,35,England,Centre-Forward,CF,-,Wimbledon FC,England,£50Th.,Out,1994,s,premier-league
 Coventry City,Micky Quinn,32,England,Centre-Forward,CF,-,PAOK Thessaloniki,Greece,Free transfer,Out,1994,s,premier-league
 Coventry City,John Williams,26,England,Centre-Forward,CF,-,Notts County,England,Loan,Out,1994,s,premier-league
 Coventry City,Lloyd McGrath,29,England,Midfielder,Midfielder,-,Portsmouth FC,England,Free transfer,Out,1994,s,premier-league
@@ -271,18 +271,18 @@ Wimbledon FC,John Fashanu,31,England,Centre-Forward,CF,-,Aston Villa,England,£1
 Wimbledon FC,Steve Anthrobus,25,England,Centre-Forward,CF,-,Chester City (diss.),England,Loan,Out,1994,s,premier-league
 Wimbledon FC,Paul Miller,26,England,Midfielder,Midfielder,-,Bristol Rovers,England,?,Out,1994,s,premier-league
 Wimbledon FC,Lawrie Sanchez,34,Northern Ireland,Central Midfield,CM,-,Swindon Town,England,?,Out,1994,s,premier-league
-Leicester City,Gary Mills,32,England,Defensive Midfield,DM,-,Notts County,England,£54k,Out,1994,s,premier-league
+Leicester City,Gary Mills,32,England,Defensive Midfield,DM,-,Notts County,England,£54Th.,Out,1994,s,premier-league
 Leicester City,Colin Gibson,34,England,Left-Back,LB,-,Blackpool FC,England,Free transfer,Out,1994,s,premier-league
 Leicester City,Russell Hoult,21,England,Goalkeeper,GK,-,Lincoln City,England,Loan,Out,1994,s,premier-league
 Leicester City,David Speedie,34,Scotland,Centre-Forward,CF,-,Crawley Town,England,?,Out,1994,s,premier-league
 Leicester City,Mike Galloway,29,Scotland,Centre-Back,CB,-,Celtic FC,Scotland,"End of loanMay 4, 1995",Out,1994,s,premier-league
 Leicester City,Franz Carr,28,England,Forward,Forward,-,Sheffield United,England,"End of loanOct 1, 1994",Out,1994,s,premier-league
 Sheffield Wednesday,Carlton Palmer,28,England,Defensive Midfield,DM,-,Leeds United,England,£2.84m,Out,1994,s,premier-league
-Sheffield Wednesday,Nigel Pearson,30,England,Centre-Back,CB,-,Middlesbrough FC,England,£810k,Out,1994,s,premier-league
-Sheffield Wednesday,Nigel Worthington,32,Northern Ireland,Left-Back,LB,-,Leeds United,England,£360k,Out,1994,s,premier-league
-Sheffield Wednesday,Nigel Jemson,25,England,Forward,Forward,-,Notts County,England,£338k,Out,1994,s,premier-league
-Sheffield Wednesday,Simon Coleman,26,England,Defender,Defender,-,Bolton Wanderers,England,£286k,Out,1994,s,premier-league
-Sheffield Wednesday,Phil King,26,England,Left-Back,LB,-,Aston Villa,England,£216k,Out,1994,s,premier-league
+Sheffield Wednesday,Nigel Pearson,30,England,Centre-Back,CB,-,Middlesbrough FC,England,£810Th.,Out,1994,s,premier-league
+Sheffield Wednesday,Nigel Worthington,32,Northern Ireland,Left-Back,LB,-,Leeds United,England,£360Th.,Out,1994,s,premier-league
+Sheffield Wednesday,Nigel Jemson,25,England,Forward,Forward,-,Notts County,England,£338Th.,Out,1994,s,premier-league
+Sheffield Wednesday,Simon Coleman,26,England,Defender,Defender,-,Bolton Wanderers,England,£286Th.,Out,1994,s,premier-league
+Sheffield Wednesday,Phil King,26,England,Left-Back,LB,-,Aston Villa,England,£216Th.,Out,1994,s,premier-league
 Sheffield Wednesday,Roland Nilsson,30,Sweden,Right-Back,RB,-,Helsingborgs IF,Sweden,?,Out,1994,s,premier-league
 Sheffield Wednesday,Trevor Francis,40,England,Centre-Forward,CF,-,,Retired,-,Out,1994,s,premier-league
 Queens Park Rangers,Darren Peacock,26,England,Centre-Back,CB,-,Newcastle United,England,£4.50m,Out,1994,s,premier-league
@@ -292,8 +292,8 @@ Queens Park Rangers,Ray Wilkins,37,England,Central Midfield,CM,-,Crystal Palace,
 Queens Park Rangers,Darren Finlay,20,Northern Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,?,Out,1994,s,premier-league
 Queens Park Rangers,Jan Stejskal,32,Czech Republic,Goalkeeper,GK,-,SK Slavia Prague,Czech Republic,?,Out,1994,s,premier-league
 Norwich City,Chris Sutton,21,England,Centre-Forward,CF,-,Blackburn Rovers,England,£6.75m,Out,1994,s,premier-league
-Norwich City,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Wimbledon FC,England,£675k,Out,1994,s,premier-league
-Norwich City,Colin Woodthorpe,25,England,Left-Back,LB,-,Aberdeen FC,Scotland,£540k,Out,1994,s,premier-league
+Norwich City,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Wimbledon FC,England,£675Th.,Out,1994,s,premier-league
+Norwich City,Colin Woodthorpe,25,England,Left-Back,LB,-,Aberdeen FC,Scotland,£540Th.,Out,1994,s,premier-league
 Norwich City,Ian Butterworth,30,England,Centre-Back,CB,-,King's Lynn FC (diss.),England,Free transfer,Out,1994,s,premier-league
 Norwich City,David Smith,23,England,Midfielder,Midfielder,-,Oxford United,England,?,Out,1994,s,premier-league
 Norwich City,Scott Howie,22,Scotland,Goalkeeper,GK,-,Motherwell FC,Scotland,?,Out,1994,s,premier-league
@@ -314,71 +314,71 @@ Liverpool FC,Steve Harkness,23,England,Left-Back,LB,-,Southend United,England,"E
 Liverpool FC,Stig Inge Björnebye,24,Norway,Left-Back,LB,-,Rosenborg BK,Norway,"End of loanDec 1, 1994",In,1994,w,premier-league
 Liverpool FC,Dominic Matteo,20,Scotland,Left-Back,LB,-,Sunderland AFC,England,"End of loanMar 27, 1995",In,1994,w,premier-league
 Liverpool FC,Mark Walters,30,England,Left Midfield,LM,-,Wolverhampton Wanderers,England,"End of loanDec 1, 1994",In,1994,w,premier-league
+Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Wycombe Wanderers,England,"End of loanOct 9, 1994",In,1994,w,premier-league
 Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,"End of loanNov 1, 1994",In,1994,w,premier-league
 Tottenham Hotspur,Gudni Bergsson,29,Iceland,Centre-Back,CB,-,Valur Reykjavík,Iceland,"End of loanOct 1, 1994",In,1994,w,premier-league
-Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Wycombe Wanderers,England,"End of loanOct 9, 1994",In,1994,w,premier-league
 Blackburn Rovers,Jeff Kenna,24,Ireland,Right-Back,RB,-,Southampton FC,England,£2.03m,In,1994,w,premier-league
 Blackburn Rovers,Richard Witschge,25,Netherlands,Central Midfield,CM,-,FC Girondins Bordeaux,France,?,In,1994,w,premier-league
 Southampton FC,Neil Shipperley,20,England,Centre-Forward,CF,-,Chelsea FC,England,£1.58m,In,1994,w,premier-league
 Southampton FC,Gordon Watson,23,England,Centre-Forward,CF,-,Sheffield Wednesday,England,£1.31m,In,1994,w,premier-league
-Southampton FC,Christer Warren,20,England,Midfielder,Midfielder,-,Cheltenham Town,England,£45k,In,1994,w,premier-league
+Southampton FC,Christer Warren,20,England,Midfielder,Midfielder,-,Cheltenham Town,England,£45Th.,In,1994,w,premier-league
 Southampton FC,Paul Allen,32,England,Midfielder,Midfielder,-,Luton Town,England,"End of loanDec 31, 1994",In,1994,w,premier-league
-Manchester City,Maurizio Gaudino,28,Germany,Central Midfield,CM,-,Eintracht Frankfurt,Germany,Loan fee:£225k,In,1994,w,premier-league
+Manchester City,Maurizio Gaudino,28,Germany,Central Midfield,CM,-,Eintracht Frankfurt,Germany,Loan fee:£225Th.,In,1994,w,premier-league
 Manchester City,John Burridge,43,England,Goalkeeper,GK,-,Falkirk FC,Scotland,Free transfer,In,1994,w,premier-league
 Manchester City,Simon Tracey,26,England,Goalkeeper,GK,-,Sheffield United,England,Loan,In,1994,w,premier-league
-West Ham United,Michael Hughes,23,Northern Ireland,Attacking Midfield,AM,-,RC Strasbourg Alsace,France,Free transfer,In,1994,w,premier-league
 West Ham United,Les Sealey,37,England,Goalkeeper,GK,-,Blackpool FC,England,Free transfer,In,1994,w,premier-league
+West Ham United,Michael Hughes,23,Northern Ireland,Attacking Midfield,AM,-,RC Strasbourg Alsace,France,Free transfer,In,1994,w,premier-league
 West Ham United,Dieter Eckstein,30,Germany,Centre-Forward,CF,-,FC Schalke 04,Germany,?,In,1994,w,premier-league
-West Ham United,Jeroen Boere,27,Netherlands,Centre-Forward,CF,-,West Bromwich Albion,England,"End of loanDec 31, 1994",In,1994,w,premier-league
 West Ham United,Lee Chapman,35,England,Centre-Forward,CF,-,Southend United,England,"End of loanJan 18, 1995",In,1994,w,premier-league
-Leeds United,Anthony Yeboah,28,Ghana,Centre-Forward,CF,-,Eintracht Frankfurt,Germany,Loan fee:£900k,In,1994,w,premier-league
+West Ham United,Jeroen Boere,27,Netherlands,Centre-Forward,CF,-,West Bromwich Albion,England,"End of loanDec 31, 1994",In,1994,w,premier-league
+Leeds United,Anthony Yeboah,28,Ghana,Centre-Forward,CF,-,Eintracht Frankfurt,Germany,Loan fee:£900Th.,In,1994,w,premier-league
 Leeds United,Paul Pettinger,19,England,Goalkeeper,GK,-,Torquay United FC,England,"End of loanJan 1, 1995",In,1994,w,premier-league
 Aston Villa,Tommy Johnson,23,England,Centre-Forward,CF,-,Derby County,England,£1.96m,In,1994,w,premier-league
-Aston Villa,Alan Wright,23,England,Left-Back,LB,-,Blackburn Rovers,England,£1.35m,In,1994,w,premier-league
 Aston Villa,Ian Taylor,26,England,Midfielder,Midfielder,-,Sheffield Wednesday,England,£1.35m,In,1994,w,premier-league
-Aston Villa,Franz Carr,28,England,Forward,Forward,-,Leicester City,England,£270k,In,1994,w,premier-league
+Aston Villa,Alan Wright,23,England,Left-Back,LB,-,Blackburn Rovers,England,£1.35m,In,1994,w,premier-league
+Aston Villa,Franz Carr,28,England,Forward,Forward,-,Leicester City,England,£270Th.,In,1994,w,premier-league
 Aston Villa,Gary Charles,24,England,Right-Back,RB,-,Derby County,England,?,In,1994,w,premier-league
 Chelsea FC,Neil Shipperley,20,England,Centre-Forward,CF,-,Watford FC,England,"End of loanDec 1, 1994",In,1994,w,premier-league
-Ipswich Town,Chris Swailes,24,England,Centre-Back,CB,-,Doncaster Rovers,England,£304k,In,1994,w,premier-league
-Ipswich Town,Lee Chapman,35,England,Centre-Forward,CF,-,West Ham United,England,£79k,In,1994,w,premier-league
+Ipswich Town,Chris Swailes,24,England,Centre-Back,CB,-,Doncaster Rovers,England,£304Th.,In,1994,w,premier-league
+Ipswich Town,Lee Chapman,35,England,Centre-Forward,CF,-,West Ham United,England,£79Th.,In,1994,w,premier-league
 Nottingham Forest,Craig Armstrong,19,England,Left Midfield,LM,-,Burnley FC,England,"End of loanDec 31, 1994",In,1994,w,premier-league
 Newcastle United,Keith Gillespie,19,Northern Ireland,Central Midfield,CM,-,Manchester United,England,£1.35m,In,1994,w,premier-league
 Newcastle United,Jim Crawford,21,Ireland,Midfielder,Midfielder,-,Bohemian Football Club Dublin,Ireland,Free transfer,In,1994,w,premier-league
-Crystal Palace,Iain Dowie,30,Northern Ireland,Centre-Forward,CF,-,Southampton FC,England,£450k,In,1994,w,premier-league
-Crystal Palace,Ray Houghton,33,Ireland,Central Midfield,CM,-,Aston Villa,England,£323k,In,1994,w,premier-league
+Crystal Palace,Iain Dowie,30,Northern Ireland,Centre-Forward,CF,-,Southampton FC,England,£450Th.,In,1994,w,premier-league
+Crystal Palace,Ray Houghton,33,Ireland,Central Midfield,CM,-,Aston Villa,England,£323Th.,In,1994,w,premier-league
 Crystal Palace,Tony Scully,18,Ireland,Midfielder,Midfielder,-,AFC Bournemouth,England,"End of loanNov 1, 1994",In,1994,w,premier-league
 Crystal Palace,Paul Williams,29,England,Forward,Forward,-,Sunderland AFC,England,"End of loanFeb 19, 1995",In,1994,w,premier-league
 Manchester United,Andy Cole,23,England,Centre-Forward,CF,-,Newcastle United,England,£8.64m,In,1994,w,premier-league
 Manchester United,David Beckham,19,England,Right Midfield,RM,-,Preston North End,England,"End of loanMar 31, 1995",In,1994,w,premier-league
 Coventry City,David Burrows,26,England,Left-Back,LB,-,Everton FC,England,£1.49m,In,1994,w,premier-league
-Coventry City,Steven Pressley,20,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,£810k,In,1994,w,premier-league
-Coventry City,John Filan,24,Australia,Goalkeeper,GK,-,Cambridge United,England,£540k,In,1994,w,premier-league
-Coventry City,Mike Marsh,25,England,Central Midfield,CM,-,West Ham United,England,£495k,In,1994,w,premier-league
-Coventry City,Kevin Richardson,32,England,Central Midfield,CM,-,Aston Villa,England,£342k,In,1994,w,premier-league
+Coventry City,Steven Pressley,20,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,£810Th.,In,1994,w,premier-league
+Coventry City,John Filan,24,Australia,Goalkeeper,GK,-,Cambridge United,England,£540Th.,In,1994,w,premier-league
+Coventry City,Mike Marsh,25,England,Central Midfield,CM,-,West Ham United,England,£495Th.,In,1994,w,premier-league
+Coventry City,Kevin Richardson,32,England,Central Midfield,CM,-,Aston Villa,England,£342Th.,In,1994,w,premier-league
 Coventry City,Nigel Jemson,25,England,Forward,Forward,-,Notts County,England,Loan,In,1994,w,premier-league
 Coventry City,John Williams,26,England,Centre-Forward,CF,-,Notts County,England,"End of loanDec 1, 1994",In,1994,w,premier-league
 Coventry City,John Williams,26,England,Centre-Forward,CF,-,Stoke City,England,"End of loanFeb 1, 1995",In,1994,w,premier-league
 Coventry City,Paul Williams,25,England,Defender,Defender,-,Huddersfield Town,England,"End of loanDec 17, 1994",In,1994,w,premier-league
-Wimbledon FC,Öyvind Leonhardsen,24,Norway,Attacking Midfield,AM,-,Rosenborg BK,Norway,£878k,In,1994,w,premier-league
-Wimbledon FC,Kenny Cunningham,23,Ireland,Centre-Back,CB,-,Millwall FC,England,£810k,In,1994,w,premier-league
-Wimbledon FC,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Norwich City,England,£675k,In,1994,w,premier-league
+Wimbledon FC,Öyvind Leonhardsen,24,Norway,Attacking Midfield,AM,-,Rosenborg BK,Norway,£878Th.,In,1994,w,premier-league
+Wimbledon FC,Kenny Cunningham,23,Ireland,Centre-Back,CB,-,Millwall FC,England,£810Th.,In,1994,w,premier-league
+Wimbledon FC,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Norwich City,England,£675Th.,In,1994,w,premier-league
 Wimbledon FC,Peter Shilton,45,England,Goalkeeper,GK,-,Plymouth Argyle,England,Free transfer,In,1994,w,premier-league
 Wimbledon FC,Jon Goodman,23,Ireland,Forward,Forward,-,Millwall FC,England,?,In,1994,w,premier-league
 Leicester City,Mark Robins,25,England,Centre-Forward,CF,-,Norwich City,England,£1.13m,In,1994,w,premier-league
-Leicester City,Garry Parker,29,England,Midfielder,Midfielder,-,Aston Villa,England,£405k,In,1994,w,premier-league
-Leicester City,Franz Carr,28,England,Forward,Forward,-,Sheffield United,England,£108k,In,1994,w,premier-league
+Leicester City,Garry Parker,29,England,Midfielder,Midfielder,-,Aston Villa,England,£405Th.,In,1994,w,premier-league
+Leicester City,Franz Carr,28,England,Forward,Forward,-,Sheffield United,England,£108Th.,In,1994,w,premier-league
 Leicester City,Mike Galloway,29,Scotland,Centre-Back,CB,-,Celtic FC,Scotland,Loan,In,1994,w,premier-league
 Leicester City,Russell Hoult,21,England,Goalkeeper,GK,-,Lincoln City,England,"End of loanOct 1, 1994",In,1994,w,premier-league
-Sheffield Wednesday,Guy Whittingham,30,England,Forward,Forward,-,Aston Villa,England,£900k,In,1994,w,premier-league
-Sheffield Wednesday,O'Neill Donaldson,25,England,Centre-Forward,CF,-,Doncaster Rovers,England,£52k,In,1994,w,premier-league
-Queens Park Rangers,Steve Hodge,31,England,Central Midfield,CM,-,Leeds United,England,£324k,In,1994,w,premier-league
+Sheffield Wednesday,Guy Whittingham,30,England,Forward,Forward,-,Aston Villa,England,£900Th.,In,1994,w,premier-league
+Sheffield Wednesday,O'Neill Donaldson,25,England,Centre-Forward,CF,-,Doncaster Rovers,England,£52Th.,In,1994,w,premier-league
+Queens Park Rangers,Steve Hodge,31,England,Central Midfield,CM,-,Leeds United,England,£324Th.,In,1994,w,premier-league
 Norwich City,Simon Tracey,27,England,Goalkeeper,GK,-,Sheffield United,England,Loan,In,1994,w,premier-league
 Norwich City,Ade Akinbiyi,20,Nigeria,Centre-Forward,CF,-,Brighton & Hove Albion,England,"End of loanDec 1, 1994",In,1994,w,premier-league
 Arsenal FC,Paul Davis,33,England,Central Midfield,CM,-,Stabæk Fotball,Norway,Loan,Out,1994,w,premier-league
 Arsenal FC,Jimmy Carter,29,England,Right Winger,RW,-,Oxford United,England,Loan,Out,1994,w,premier-league
 Arsenal FC,Paul Shaw,21,England,Centre-Forward,CF,-,Burnley FC,England,Loan,Out,1994,w,premier-league
 Everton FC,David Burrows,26,England,Left-Back,LB,-,Coventry City,England,£1.49m,Out,1994,w,premier-league
-Everton FC,Brett Angell,26,England,Centre-Forward,CF,-,Sunderland AFC,England,£540k,Out,1994,w,premier-league
+Everton FC,Brett Angell,26,England,Centre-Forward,CF,-,Sunderland AFC,England,£540Th.,Out,1994,w,premier-league
 Everton FC,Ian Snodin,31,England,Right-Back,RB,-,Oldham Athletic,England,Free transfer,Out,1994,w,premier-league
 Everton FC,Neil Moore,22,England,Defender,Defender,-,Oldham Athletic,England,Loan,Out,1994,w,premier-league
 Everton FC,Ian Snodin,31,England,Right-Back,RB,-,Sunderland AFC,England,Loan,Out,1994,w,premier-league
@@ -388,85 +388,85 @@ Liverpool FC,Paul Stewart,30,England,Defensive Midfield,DM,-,Burnley FC,England,
 Liverpool FC,Steve Harkness,23,England,Left-Back,LB,-,Southend United,England,Loan,Out,1994,w,premier-league
 Liverpool FC,Dominic Matteo,20,Scotland,Left-Back,LB,-,Sunderland AFC,England,Loan,Out,1994,w,premier-league
 Liverpool FC,Mark Prudhoe,31,England,Goalkeeper,GK,-,Stoke City,England,"End of loanJan 3, 1995",Out,1994,w,premier-league
-Tottenham Hotspur,Gudni Bergsson,29,Iceland,Centre-Back,CB,-,Bolton Wanderers,England,£86k,Out,1994,w,premier-league
+Tottenham Hotspur,Gudni Bergsson,29,Iceland,Centre-Back,CB,-,Bolton Wanderers,England,£86Th.,Out,1994,w,premier-league
 Tottenham Hotspur,Steve Robinson,19,Northern Ireland,Attacking Midfield,AM,-,AFC Bournemouth,England,Free transfer,Out,1994,w,premier-league
 Tottenham Hotspur,Ilie Dumitrescu,25,Romania,Left Winger,LW,-,Sevilla FC,Spain,Loan,Out,1994,w,premier-league
 Tottenham Hotspur,Andy Turner,19,Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,Loan,Out,1994,w,premier-league
 Tottenham Hotspur,John Hendry,24,Scotland,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,1994,w,premier-league
 Blackburn Rovers,Alan Wright,23,England,Left-Back,LB,-,Aston Villa,England,£1.35m,Out,1994,w,premier-league
-Blackburn Rovers,Peter Thorne,21,England,Centre-Forward,CF,-,Swindon Town,England,£306k,Out,1994,w,premier-league
+Blackburn Rovers,Peter Thorne,21,England,Centre-Forward,CF,-,Swindon Town,England,£306Th.,Out,1994,w,premier-league
 Blackburn Rovers,Richard Brown,28,England,Right-Back,RB,-,Stockport County,England,?,Out,1994,w,premier-league
 Blackburn Rovers,Matt Dickins,24,England,Goalkeeper,GK,-,Stockport County,England,?,Out,1994,w,premier-league
 Southampton FC,Jeff Kenna,24,Ireland,Right-Back,RB,-,Blackburn Rovers,England,£2.03m,Out,1994,w,premier-league
-Southampton FC,Iain Dowie,30,Northern Ireland,Centre-Forward,CF,-,Crystal Palace,England,£450k,Out,1994,w,premier-league
-Southampton FC,Neal Bartlett,19,England,Midfielder,Midfielder,-,,Unknown,Free transfer,Out,1994,w,premier-league
+Southampton FC,Iain Dowie,30,Northern Ireland,Centre-Forward,CF,-,Crystal Palace,England,£450Th.,Out,1994,w,premier-league
 Southampton FC,Paul Allen,32,England,Midfielder,Midfielder,-,Luton Town,England,Loan,Out,1994,w,premier-league
+Southampton FC,Neal Bartlett,19,England,Midfielder,Midfielder,-,,Unknown,Free transfer,Out,1994,w,premier-league
 Southampton FC,Paul Allen,32,England,Midfielder,Midfielder,-,Stoke City,England,Loan,Out,1994,w,premier-league
 Manchester City,Alan Kernaghan,27,Ireland,Centre-Back,CB,-,Bolton Wanderers,England,Loan,Out,1994,w,premier-league
 Manchester City,Steve McMahon,33,England,Central Midfield,CM,-,Swindon Town,England,Free transfer,Out,1994,w,premier-league
 Manchester City,Martyn Margetson,23,Wales,Goalkeeper,GK,-,Luton Town,England,Loan,Out,1994,w,premier-league
 Manchester City,Michael Quigley,24,England,Midfielder,Midfielder,-,Wrexham AFC,Wales,Loan,Out,1994,w,premier-league
 Manchester City,Simon Tracey,27,England,Goalkeeper,GK,-,Sheffield United,England,"End of loanDec 30, 1994",Out,1994,w,premier-league
-West Ham United,Mike Marsh,25,England,Central Midfield,CM,-,Coventry City,England,£495k,Out,1994,w,premier-league
-West Ham United,Peter Butler,28,England,Midfielder,Midfielder,-,Notts County,England,£396k,Out,1994,w,premier-league
-West Ham United,Steve Jones,24,England,Forward,Forward,-,AFC Bournemouth,England,£168k,Out,1994,w,premier-league
-West Ham United,Lee Chapman,35,England,Centre-Forward,CF,-,Ipswich Town,England,£79k,Out,1994,w,premier-league
+West Ham United,Mike Marsh,25,England,Central Midfield,CM,-,Coventry City,England,£495Th.,Out,1994,w,premier-league
+West Ham United,Peter Butler,28,England,Midfielder,Midfielder,-,Notts County,England,£396Th.,Out,1994,w,premier-league
+West Ham United,Steve Jones,24,England,Forward,Forward,-,AFC Bournemouth,England,£168Th.,Out,1994,w,premier-league
+West Ham United,Lee Chapman,35,England,Centre-Forward,CF,-,Ipswich Town,England,£79Th.,Out,1994,w,premier-league
 West Ham United,Ian Feuer,23,United States,Goalkeeper,GK,-,Peterborough United,England,Loan,Out,1994,w,premier-league
 West Ham United,Lee Chapman,35,England,Centre-Forward,CF,-,Southend United,England,Loan,Out,1994,w,premier-league
 West Ham United,Simon Webster,31,England,Defender,Defender,-,Oldham Athletic,England,Loan,Out,1994,w,premier-league
 West Ham United,Dale Gordon,27,England,Right Midfield,RM,-,Peterborough United,England,?,Out,1994,w,premier-league
-Leeds United,Steve Hodge,31,England,Central Midfield,CM,-,Queens Park Rangers,England,£324k,Out,1994,w,premier-league
+Leeds United,Steve Hodge,31,England,Central Midfield,CM,-,Queens Park Rangers,England,£324Th.,Out,1994,w,premier-league
 Leeds United,Paul Pettinger,19,England,Goalkeeper,GK,-,FC Halifax Town,England,Loan,Out,1994,w,premier-league
 Leeds United,Paul Pettinger,19,England,Goalkeeper,GK,-,Torquay United FC,England,Loan,Out,1994,w,premier-league
 Aston Villa,Earl Barrett,27,England,Right-Back,RB,-,Everton FC,England,£2.25m,Out,1994,w,premier-league
-Aston Villa,Guy Whittingham,30,England,Forward,Forward,-,Sheffield Wednesday,England,£900k,Out,1994,w,premier-league
-Aston Villa,Garry Parker,29,England,Midfielder,Midfielder,-,Leicester City,England,£405k,Out,1994,w,premier-league
-Aston Villa,Kevin Richardson,32,England,Central Midfield,CM,-,Coventry City,England,£342k,Out,1994,w,premier-league
-Aston Villa,Ray Houghton,33,Ireland,Central Midfield,CM,-,Crystal Palace,England,£323k,Out,1994,w,premier-league
-Aston Villa,Chris Boden,21,England,Defender,Defender,-,Derby County,England,£169k,Out,1994,w,premier-league
+Aston Villa,Guy Whittingham,30,England,Forward,Forward,-,Sheffield Wednesday,England,£900Th.,Out,1994,w,premier-league
+Aston Villa,Garry Parker,29,England,Midfielder,Midfielder,-,Leicester City,England,£405Th.,Out,1994,w,premier-league
+Aston Villa,Kevin Richardson,32,England,Central Midfield,CM,-,Coventry City,England,£342Th.,Out,1994,w,premier-league
+Aston Villa,Ray Houghton,33,Ireland,Central Midfield,CM,-,Crystal Palace,England,£323Th.,Out,1994,w,premier-league
+Aston Villa,Chris Boden,21,England,Defender,Defender,-,Derby County,England,£169Th.,Out,1994,w,premier-league
 Aston Villa,Gareth Farrelly,19,Ireland,Left Midfield,LM,-,Rotherham United,England,Loan,Out,1994,w,premier-league
 Chelsea FC,Neil Shipperley,20,England,Centre-Forward,CF,-,Southampton FC,England,£1.58m,Out,1994,w,premier-league
-Chelsea FC,Neil Shipperley,20,England,Centre-Forward,CF,-,Watford FC,England,Loan,Out,1994,w,premier-league
 Chelsea FC,Nick Colgan,21,Ireland,Goalkeeper,GK,-,Grimsby Town,England,Loan,Out,1994,w,premier-league
+Chelsea FC,Neil Shipperley,20,England,Centre-Forward,CF,-,Watford FC,England,Loan,Out,1994,w,premier-league
 Ipswich Town,Chris Kiwomya,25,England,Centre-Forward,CF,-,Arsenal FC,England,£2.03m,Out,1994,w,premier-league
 Ipswich Town,Neil Gregory,22,Zambia,Centre-Forward,CF,-,Scunthorpe United,England,Loan,Out,1994,w,premier-league
 Ipswich Town,David Gregory,24,England,Midfielder,Midfielder,-,Hereford United (liq.),England,Loan,Out,1994,w,premier-league
+Nottingham Forest,Kingsley Black,26,Northern Ireland,Left Midfield,LM,-,Sheffield United,England,Loan,Out,1994,w,premier-league
 Nottingham Forest,Brian Laws,33,England,Right-Back,RB,-,Grimsby Town,England,Free transfer,Out,1994,w,premier-league
 Nottingham Forest,Craig Armstrong,19,England,Left Midfield,LM,-,Burnley FC,England,Loan,Out,1994,w,premier-league
-Nottingham Forest,Kingsley Black,26,Northern Ireland,Left Midfield,LM,-,Sheffield United,England,Loan,Out,1994,w,premier-league
-Nottingham Forest,Carl Tiler,24,England,Defender,Defender,-,Swindon Town,England,Loan,Out,1994,w,premier-league
+Nottingham Forest,Carl Tiler,24,England,Centre-Back,CB,-,Swindon Town,England,Loan,Out,1994,w,premier-league
 Newcastle United,Andy Cole,23,England,Centre-Forward,CF,-,Manchester United,England,£8.64m,Out,1994,w,premier-league
-Newcastle United,Steve Guppy,25,England,Left Winger,LW,-,Port Vale FC,England,£225k,Out,1994,w,premier-league
+Newcastle United,Steve Guppy,25,England,Left Winger,LW,-,Port Vale FC,England,£225Th.,Out,1994,w,premier-league
 Newcastle United,Mike Hooper,30,England,Goalkeeper,GK,-,Sunderland AFC,England,Loan,Out,1994,w,premier-league
 Crystal Palace,Paul Williams,29,England,Forward,Forward,-,Sunderland AFC,England,Loan,Out,1994,w,premier-league
 Crystal Palace,Paul Williams,29,England,Forward,Forward,-,Birmingham City,England,Loan,Out,1994,w,premier-league
-Crystal Palace,Jamie Vincent,19,England,Left-Back,LB,-,AFC Bournemouth,England,£36k,Out,1994,w,premier-league
+Crystal Palace,Jamie Vincent,19,England,Left-Back,LB,-,AFC Bournemouth,England,£36Th.,Out,1994,w,premier-league
 Crystal Palace,Tony Scully,18,Ireland,Midfielder,Midfielder,-,AFC Bournemouth,England,Loan,Out,1994,w,premier-league
 Crystal Palace,Jason Harris,18,England,Forward,Forward,-,Dover Athletic,England,Loan,Out,1994,w,premier-league
 Manchester United,Keith Gillespie,19,Northern Ireland,Central Midfield,CM,-,Newcastle United,England,£1.35m,Out,1994,w,premier-league
 Manchester United,David Beckham,19,England,Right Midfield,RM,-,Preston North End,England,Loan,Out,1994,w,premier-league
-Coventry City,John Williams,26,England,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,1994,w,premier-league
-Coventry City,John Williams,26,England,Centre-Forward,CF,-,Notts County,England,Loan,Out,1994,w,premier-league
 Coventry City,John Williams,26,England,Centre-Forward,CF,-,Stoke City,England,Loan,Out,1994,w,premier-league
 Coventry City,Lloyd McGrath,29,England,Midfielder,Midfielder,-,Portsmouth FC,England,Free transfer,Out,1994,w,premier-league
 Coventry City,Paul Williams,25,England,Defender,Defender,-,Huddersfield Town,England,Loan,Out,1994,w,premier-league
 Coventry City,Paul Williams,25,England,Defender,Defender,-,Huddersfield Town,England,Loan,Out,1994,w,premier-league
+Coventry City,John Williams,26,England,Centre-Forward,CF,-,Swansea City,Wales,Loan,Out,1994,w,premier-league
+Coventry City,John Williams,26,England,Centre-Forward,CF,-,Notts County,England,Loan,Out,1994,w,premier-league
 Wimbledon FC,Peter Shilton,45,England,Goalkeeper,GK,-,Bolton Wanderers,England,Free transfer,Out,1994,w,premier-league
 Wimbledon FC,Aidan Newhouse,22,England,Forward,Forward,-,Portsmouth FC,England,Loan,Out,1994,w,premier-league
-Leicester City,Steve Agnew,29,England,Central Midfield,CM,-,Sunderland AFC,England,£338k,Out,1994,w,premier-league
-Leicester City,Franz Carr,28,England,Forward,Forward,-,Aston Villa,England,£270k,Out,1994,w,premier-league
-Leicester City,Russell Hoult,22,England,Goalkeeper,GK,-,Derby County,England,£270k,Out,1994,w,premier-league
-Leicester City,Steve Thompson,30,England,Midfielder,Midfielder,-,Burnley FC,England,£225k,Out,1994,w,premier-league
+Leicester City,Steve Agnew,29,England,Central Midfield,CM,-,Sunderland AFC,England,£338Th.,Out,1994,w,premier-league
+Leicester City,Franz Carr,28,England,Forward,Forward,-,Aston Villa,England,£270Th.,Out,1994,w,premier-league
+Leicester City,Russell Hoult,22,England,Goalkeeper,GK,-,Derby County,England,£270Th.,Out,1994,w,premier-league
+Leicester City,Steve Thompson,30,England,Midfielder,Midfielder,-,Burnley FC,England,£225Th.,Out,1994,w,premier-league
 Leicester City,Ian Ormondroyd,30,England,Forward,Forward,-,Hull City,England,Loan,Out,1994,w,premier-league
 Leicester City,Franz Carr,28,England,Forward,Forward,-,Sheffield United,England,"End of loanOct 1, 1994",Out,1994,w,premier-league
 Sheffield Wednesday,Ian Taylor,26,England,Midfielder,Midfielder,-,Aston Villa,England,£1.35m,Out,1994,w,premier-league
 Sheffield Wednesday,Gordon Watson,23,England,Centre-Forward,CF,-,Southampton FC,England,£1.31m,Out,1994,w,premier-league
-Sheffield Wednesday,Simon Coleman,26,England,Defender,Defender,-,Bolton Wanderers,England,£286k,Out,1994,w,premier-league
-Queens Park Rangers,Devon White,30,England,Forward,Forward,-,Notts County,England,£125k,Out,1994,w,premier-league
+Sheffield Wednesday,Simon Coleman,26,England,Defender,Defender,-,Bolton Wanderers,England,£286Th.,Out,1994,w,premier-league
+Queens Park Rangers,Devon White,30,England,Forward,Forward,-,Notts County,England,£125Th.,Out,1994,w,premier-league
 Queens Park Rangers,Dennis Bailey,29,England,Forward,Forward,-,Brentford FC,England,Loan,Out,1994,w,premier-league
 Queens Park Rangers,Marvin Bryan,19,England,Midfielder,Midfielder,-,Doncaster Rovers,England,Loan,Out,1994,w,premier-league
 Norwich City,Mark Robins,25,England,Centre-Forward,CF,-,Leicester City,England,£1.13m,Out,1994,w,premier-league
-Norwich City,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Wimbledon FC,England,£675k,Out,1994,w,premier-league
-Norwich City,Ian Culverhouse,30,England,Right-Back,RB,-,Swindon Town,England,£284k,Out,1994,w,premier-league
+Norwich City,Efan Ekoku,27,Nigeria,Centre-Forward,CF,-,Wimbledon FC,England,£675Th.,Out,1994,w,premier-league
+Norwich City,Ian Culverhouse,30,England,Right-Back,RB,-,Swindon Town,England,£284Th.,Out,1994,w,premier-league
 Norwich City,Ade Akinbiyi,20,Nigeria,Centre-Forward,CF,-,Brighton & Hove Albion,England,Loan,Out,1994,w,premier-league
 Norwich City,Scott Howie,22,Scotland,Goalkeeper,GK,-,Motherwell FC,Scotland,?,Out,1994,w,premier-league

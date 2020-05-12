@@ -133,7 +133,8 @@ def export_csv(df, season_id, league_name):
         league_name (str): File name for the csv.
     """
     file_name = '{}.csv'.format(league_name)
-    path_name = '../data/{}'.format(season_id)
+    current_dir = os.path.dirname(__file__)
+    path_name = os.path.join(current_dir, '../data/{}'.format(season_id))
     if not os.path.exists(path_name):
         os.mkdir(path_name)
     
@@ -163,11 +164,17 @@ def scrape_season_transfers(league_name, league_id, season_id, window):
     return pd.concat([df_in, df_out])
 
 
-def main():
-    league_names = ['premier-league', 'championship']
-    league_ids = ['GB1', 'GB2']
-    for league_name, league_id in zip(league_names, league_ids):
-        for i in range(1992, 2020):
+def transfers(league_name, league_id, start, stop):
+    """Scrape a league's transfers over a range of seasons.
+
+    Args:
+        league_name (str): Name of the league.
+        league_id (str): League's unique Transfermarkt ID.
+        start (int): First calendar year of the first season to scrape, e.g. 1992 for the 1992/93 season.
+        stop (int): Second calendar year of the last season, e.g. 2019 for the 2019/20 season.
+    """
+    try:
+        for i in range(start, stop + 1):
             league_transfers = []
             season_id = str(i)
             for window in ['s', 'w']:
@@ -177,7 +184,42 @@ def main():
             df = df[~df['Name'].isna()]
             df.reset_index(drop=True, inplace=True)
             export_csv(df, season_id, league_name)
-    print("\n\nDone!")
+    except TypeError:
+        print("Make sure league parameters are STRINGS and years are INTEGERS.")
+
+
+def main():
+    # England, Premier League
+    print("Getting Premier League data...\n")
+    transfers('premier-league', 'GB1', 1992, 2019)
+    print("Done with the Premier League!")
+    print("********************************\n")
+    
+    # Germany, Bundesliga
+    print("Getting Bundesliga data...\n")
+    transfers('1-bundesliga', 'L1', 1992, 2019)
+    print("Done with the Bundesliga!")
+    print("********************************\n")
+    
+    # Spain, La Liga
+    print("Getting La Liga data...\n")
+    transfers('laliga', 'ES1', 1992, 2019)
+    print("********************************\n")
+    
+    # Italy, Serie A
+    print("Getting Serie A data...\n")
+    transfers('serie-a', 'IT1', 1992, 2019)
+    print("Done with Serie A!")
+    print("********************************\n")
+    
+    # France, Ligue 1
+    print("Getting Ligue 1 data...\n")
+    transfers('ligue-1', 'FR1', 1992, 2019)
+    print("Done with Ligue 1!")
+    print("********************************\n")
+    
+    print("\nDone!")
+
 
 if __name__ == "__main__":
     main()

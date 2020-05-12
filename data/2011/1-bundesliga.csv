@@ -1,0 +1,536 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+Bayern Munich,Manuel Neuer,25,Germany,Goalkeeper,GK,£25.20m,FC Schalke 04,Germany,£27.00m,In,2011,s,1-bundesliga
+Bayern Munich,Jérôme Boateng,22,Germany,Centre-Back,CB,£13.50m,Manchester City,England,£12.15m,In,2011,s,1-bundesliga
+Bayern Munich,Rafinha,25,Brazil,Right-Back,RB,£7.20m,Genoa CFC,Italy,£4.95m,In,2011,s,1-bundesliga
+Bayern Munich,Nils Petersen,22,Germany,Centre-Forward,CF,£3.60m,FC Energie Cottbus,Germany,£2.52m,In,2011,s,1-bundesliga
+Bayern Munich,Takashi Usami,19,Japan,Left Winger,LW,£1.35m,Gamba Osaka,Japan,Loan fee:£270Th.,In,2011,s,1-bundesliga
+Bayern Munich,Maximilian Riedmüller,23,Germany,Goalkeeper,GK,£135Th.,FC Bayern Munich II,Germany,-,In,2011,s,1-bundesliga
+Bayern Munich,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,£5.85m,1.FC Nuremberg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayern Munich,David Alaba,19,Austria,Left-Back,LB,£4.50m,TSG 1899 Hoffenheim,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Dortmund,Ilkay Gündogan,20,Germany,Central Midfield,CM,£5.85m,1.FC Nuremberg,Germany,£4.95m,In,2011,s,1-bundesliga
+Borussia Dortmund,Ivan Perisic,22,Croatia,Left Winger,LW,£5.40m,Club Brugge KV,Belgium,£4.95m,In,2011,s,1-bundesliga
+Borussia Dortmund,Chris Löwe,22,Germany,Left-Back,LB,£180Th.,Chemnitzer FC,Germany,£203Th.,In,2011,s,1-bundesliga
+Borussia Dortmund,Marvin Bakalorz,21,Germany,Central Midfield,CM,£90Th.,Borussia Dortmund II,Germany,-,In,2011,s,1-bundesliga
+Borussia Dortmund,Moritz Leitner,18,Germany,Central Midfield,CM,£1.35m,FC Augsburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Dortmund,Dimitar Rangelov,28,Bulgaria,Second Striker,SS,£1.35m,Maccabi Tel Aviv,Israel,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Dortmund,Julian Koch,20,Germany,Defensive Midfield,DM,£1.58m,MSV Duisburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Dortmund,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,£2.25m,VfB Stuttgart,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,André Schürrle,20,Germany,Left Winger,LW,£11.25m,1.FSV Mainz 05,Germany,£7.65m,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Ömer Toprak,21,Turkey,Centre-Back,CB,£3.60m,SC Freiburg,Germany,£2.70m,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Bernd Leno,19,Germany,Goalkeeper,GK,£540Th.,VfB Stuttgart,Germany,Loan fee:£450Th.,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,David Yelldell,29,United States,Goalkeeper,GK,£900Th.,MSV Duisburg,Germany,£234Th.,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Karim Bellarabi,21,Germany,Right Winger,RW,£900Th.,Eintracht Braunschweig,Germany,Free transfer,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Michael Ortega,20,Colombia,Attacking Midfield,AM,£720Th.,Atlas Guadalajara,Mexico,Loan,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Christoph Kramer,20,Germany,Defensive Midfield,DM,£45Th.,Bayer 04 Leverkusen II,Germany,-,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Danny da Costa,17,Germany,Right-Back,RB,£180Th.,Bayer 04 Leverkusen U19,Germany,-,In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Constant Djakpa,24,Cote d'Ivoire,Left-Back,LB,£900Th.,Hannover 96,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Zvonko Pamic,20,Croatia,Central Midfield,CM,£675Th.,SC Freiburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Bastian Oczipka,22,Germany,Left-Back,LB,£2.25m,FC St. Pauli,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Burak Kaplan,21,Turkey,Attacking Midfield,AM,£675Th.,SpVgg Greuther Fürth,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Richard Sukuta-Pasu,21,Germany,Centre-Forward,CF,£450Th.,FC St. Pauli,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Marcel Risse,21,Germany,Right Midfield,RM,£1.58m,1.FSV Mainz 05,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Schalke 04,Christian Fuchs,25,Austria,Left-Back,LB,£4.50m,1.FSV Mainz 05,Germany,£3.42m,In,2011,s,1-bundesliga
+FC Schalke 04,Teemu Pukki,21,Finland,Centre-Forward,CF,£180Th.,HJK Helsinki,Finland,£1.35m,In,2011,s,1-bundesliga
+FC Schalke 04,Marco Höger,21,Germany,Defensive Midfield,DM,£1.80m,Alemannia Aachen,Germany,£1.35m,In,2011,s,1-bundesliga
+FC Schalke 04,Ralf Fährmann,22,Germany,Goalkeeper,GK,£1.35m,Eintracht Frankfurt,Germany,Free transfer,In,2011,s,1-bundesliga
+FC Schalke 04,Ciprian Marica,25,Romania,Centre-Forward,CF,£3.15m,VfB Stuttgart,Germany,Free transfer,In,2011,s,1-bundesliga
+FC Schalke 04,Andreas Wiegel,19,Germany,Right-Back,RB,£45Th.,FC Schalke 04 II,Germany,-,In,2011,s,1-bundesliga
+FC Schalke 04,Timo Hildebrand,32,Germany,Goalkeeper,GK,£1.53m,,Without Club,-,In,2011,s,1-bundesliga
+FC Schalke 04,Lewis Holtby,20,Germany,Attacking Midfield,AM,£5.40m,1.FSV Mainz 05,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Schalke 04,Tore Reginiussen,25,Norway,Centre-Back,CB,£900Th.,Tromsø IL,Norway,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Schalke 04,Jermaine Jones,29,United States,Defensive Midfield,DM,£4.50m,Blackburn Rovers,England,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Schalke 04,Jan Morávek,21,Czech Republic,Central Midfield,CM,£3.15m,1.FC Kaiserslautern,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Schalke 04,Gerald Asamoah,32,Germany,Centre-Forward,CF,£1.35m,FC St. Pauli,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SC Freiburg,Garra Dembélé,25,Mali,Centre-Forward,CF,£1.53m,Levski Sofia,Bulgaria,£1.98m,In,2011,s,1-bundesliga
+SC Freiburg,Beg Ferati,24,Switzerland,Centre-Back,CB,£720Th.,FC Basel 1893,Switzerland,Free transfer,In,2011,s,1-bundesliga
+SC Freiburg,Daniel Batz,20,Germany,Goalkeeper,GK,£90Th.,1.FC Nuremberg,Germany,Free transfer,In,2011,s,1-bundesliga
+SC Freiburg,Christian Bickel,20,Germany,Right Midfield,RM,£158Th.,SC Freiburg II,Germany,-,In,2011,s,1-bundesliga
+SC Freiburg,Simon Brandstetter,21,Germany,Centre-Forward,CF,£180Th.,SC Freiburg II,Germany,-,In,2011,s,1-bundesliga
+SC Freiburg,Andreas Hinkel,29,Germany,Right-Back,RB,£1.35m,,Without Club,-,In,2011,s,1-bundesliga
+SC Freiburg,Ivica Banovic,30,Croatia,Defensive Midfield,DM,£630Th.,MSV Duisburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Gökhan Töre,19,Turkey,Right Winger,RW,-,Chelsea FC Reserves,England,£3.87m,In,2011,s,1-bundesliga
+Hamburger SV,Ivo Ilicevic,24,Croatia,Left Winger,LW,£4.50m,1.FC Kaiserslautern,Germany,£3.60m,In,2011,s,1-bundesliga
+Hamburger SV,Michael Mancienne,23,England,Centre-Back,CB,£3.15m,Chelsea FC,England,£2.25m,In,2011,s,1-bundesliga
+Hamburger SV,Slobodan Rajkovic,22,Serbia,Centre-Back,CB,£2.25m,Chelsea FC,England,£1.80m,In,2011,s,1-bundesliga
+Hamburger SV,Jeffrey Bruma,19,Netherlands,Centre-Back,CB,£1.80m,Chelsea FC,England,Loan fee:£450Th.,In,2011,s,1-bundesliga
+Hamburger SV,Per Ciljan Skjelbred,24,Norway,Central Midfield,CM,£2.07m,Rosenborg BK,Norway,£450Th.,In,2011,s,1-bundesliga
+Hamburger SV,Jacopo Sala,19,Italy,Right-Back,RB,-,Chelsea FC Reserves,England,£90Th.,In,2011,s,1-bundesliga
+Hamburger SV,Sven Neuhaus,33,Germany,Goalkeeper,GK,£270Th.,RB Leipzig,Germany,Free transfer,In,2011,s,1-bundesliga
+Hamburger SV,Tom Mickel,22,Germany,Goalkeeper,GK,£135Th.,Hamburger SV II,Germany,-,In,2011,s,1-bundesliga
+Hamburger SV,Kevin Ingreso,18,Philippines,Defensive Midfield,DM,-,Hamburger SV U19,Germany,-,In,2011,s,1-bundesliga
+Hamburger SV,Dániel Nagy,20,Hungary,Attacking Midfield,AM,£90Th.,Hamburger SV II,Germany,-,In,2011,s,1-bundesliga
+Hamburger SV,Macauley Chrisantus,20,Nigeria,Centre-Forward,CF,£900Th.,Karlsruher SC,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Tolgay Arslan,20,Germany,Central Midfield,CM,£1.13m,Alemannia Aachen,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,David Rozehnal,30,Czech Republic,Centre-Back,CB,£2.25m,LOSC Lille,France,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Kai-Fabian Schulz,21,Germany,Centre-Back,CB,£90Th.,FSV Frankfurt,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Sören Bertram,20,Germany,Left Winger,LW,£450Th.,FC Augsburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Mickaël Tavares,28,Senegal,Defensive Midfield,DM,£900Th.,Middlesbrough FC,England,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Alex Silva,26,Brazil,Centre-Back,CB,£4.05m,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Marcus Berg,24,Sweden,Centre-Forward,CF,£3.60m,PSV Eindhoven,Netherlands,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hamburger SV,Wolfgang Hesl,25,Germany,Goalkeeper,GK,£540Th.,SV Ried,Austria,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Matthias Zimmermann,19,Germany,Right-Back,RB,£1.58m,Karlsruher SC,Germany,£900Th.,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Lukas Rupp,20,Germany,Central Midfield,CM,£675Th.,Karlsruher SC,Germany,£540Th.,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Yuki Otsu,21,Japan,Attacking Midfield,AM,£540Th.,Kashiwa Reysol,Japan,£360Th.,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Joshua King,19,Norway,Second Striker,SS,£225Th.,Manchester United U23,England,Loan fee:£90Th.,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Mathew Leckie,20,Australia,Right Winger,RW,£900Th.,Adelaide United,Australia,Free transfer,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Oscar Wendt,25,Sweden,Left-Back,LB,£2.70m,FC Copenhagen,Denmark,Free transfer,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Janis Blaswich,20,Germany,Goalkeeper,GK,£90Th.,Borussia Mönchengladbach II,Germany,-,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Elias Kachunga,19,DR Congo,Right Winger,RW,£225Th.,Borussia Mönchengladbach II,Germany,-,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Niklas Dams,21,Germany,Centre-Back,CB,£135Th.,Borussia Mönchengladbach II,Germany,-,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Julian Korb,19,Germany,Right-Back,RB,£135Th.,Borussia Mönchengladbach II,Germany,-,In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Raúl Bobadilla,24,Paraguay,Centre-Forward,CF,£2.25m,Aris Thessaloniki,Greece,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Frederic Löhe,22,Germany,Goalkeeper,GK,£180Th.,SV Sandhausen,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Michael Bradley,23,United States,Central Midfield,CM,£4.50m,Aston Villa,England,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Borussia Mönchengladbach,Marcel Meeuwis,30,Netherlands,Defensive Midfield,DM,£720Th.,Feyenoord Rotterdam,Netherlands,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hannover 96,Artur Sobiech,21,Poland,Centre-Forward,CF,£1.80m,Polonia Warsaw,Poland,£990Th.,In,2011,s,1-bundesliga
+Hannover 96,Daniel Royer,21,Austria,Left Winger,LW,£720Th.,SV Ried,Austria,£540Th.,In,2011,s,1-bundesliga
+Hannover 96,Henning Hauger,25,Norway,Defensive Midfield,DM,£1.08m,Stabæk Fotball,Norway,£405Th.,In,2011,s,1-bundesliga
+Hannover 96,Samuel Sahin-Radlinger,18,Austria,Goalkeeper,GK,-,SV Ried,Austria,£225Th.,In,2011,s,1-bundesliga
+Hannover 96,Christian Pander,27,Germany,Left-Back,LB,£1.80m,FC Schalke 04,Germany,Free transfer,In,2011,s,1-bundesliga
+Hannover 96,Erdal Akdari,18,Turkey,Centre-Back,CB,-,Hannover 96 U19,Germany,-,In,2011,s,1-bundesliga
+Hannover 96,Jannis Pläschke,18,Germany,Right-Back,RB,-,Hannover 96 U19,Germany,-,In,2011,s,1-bundesliga
+Hannover 96,Deniz Aycicek,21,Germany,Attacking Midfield,AM,£68Th.,Hannover 96 II,Germany,-,In,2011,s,1-bundesliga
+1.FC Nuremberg,Tomas Pekhart,22,Czech Republic,Centre-Forward,CF,£1.44m,FK Baumit Jablonec,Czech Republic,£1.80m,In,2011,s,1-bundesliga
+1.FC Nuremberg,Timm Klose,23,Switzerland,Centre-Back,CB,£720Th.,FC Thun,Switzerland,£360Th.,In,2011,s,1-bundesliga
+1.FC Nuremberg,Daniel Didavi,21,Germany,Attacking Midfield,AM,£900Th.,VfB Stuttgart,Germany,Loan fee:£270Th.,In,2011,s,1-bundesliga
+1.FC Nuremberg,Alexander Esswein,21,Germany,Right Winger,RW,£720Th.,SG Dynamo Dresden,Germany,£180Th.,In,2011,s,1-bundesliga
+1.FC Nuremberg,Markus Feulner,29,Germany,Central Midfield,CM,£900Th.,Borussia Dortmund,Germany,£135Th.,In,2011,s,1-bundesliga
+1.FC Nuremberg,Patrick Rakovsky,18,Germany,Goalkeeper,GK,-,FC Schalke 04 U19,Germany,£90Th.,In,2011,s,1-bundesliga
+1.FC Nuremberg,Manuel Zeitz,20,Germany,Defensive Midfield,DM,£540Th.,1.FC Saarbrücken,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FC Nuremberg,Philipp Klement,18,Germany,Attacking Midfield,AM,£23Th.,1.FC Kaiserslautern U19,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FC Nuremberg,Wilson Kamavuaka,21,DR Congo,Defensive Midfield,DM,£45Th.,TSG 1899 Hoffenheim II,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FC Nuremberg,Julian Wießmeier,18,Germany,Attacking Midfield,AM,£135Th.,1.FC Nürnberg U19,Germany,-,In,2011,s,1-bundesliga
+1.FC Nuremberg,Felicio Brown Forbes,19,Costa Rica,Centre-Forward,CF,£135Th.,FC Carl Zeiss Jena,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1.FC Nuremberg,Dario Vidosic,24,Australia,Attacking Midfield,AM,£450Th.,Arminia Bielefeld,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+VfL Wolfsburg,Christian Träsch,23,Germany,Defensive Midfield,DM,£9.00m,VfB Stuttgart,Germany,£8.10m,In,2011,s,1-bundesliga
+VfL Wolfsburg,Rasmus Jönsson,21,Sweden,Centre-Forward,CF,£2.70m,Helsingborgs IF,Sweden,£3.06m,In,2011,s,1-bundesliga
+VfL Wolfsburg,Patrick Ochs,27,Germany,Right-Back,RB,£4.50m,Eintracht Frankfurt,Germany,£2.70m,In,2011,s,1-bundesliga
+VfL Wolfsburg,Marco Russ,25,Germany,Centre-Back,CB,£2.48m,Eintracht Frankfurt,Germany,£2.70m,In,2011,s,1-bundesliga
+VfL Wolfsburg,Mateusz Klich,21,Poland,Central Midfield,CM,£1.35m,Cracovia ,Poland,£1.35m,In,2011,s,1-bundesliga
+VfL Wolfsburg,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,FC Barcelona,Spain,Loan fee:£630Th.,In,2011,s,1-bundesliga
+VfL Wolfsburg,Srdjan Lakic,27,Croatia,Centre-Forward,CF,£5.40m,1.FC Kaiserslautern,Germany,Free transfer,In,2011,s,1-bundesliga
+VfL Wolfsburg,Hrvoje Cale,26,Croatia,Left-Back,LB,£2.43m,Trabzonspor,Turkey,Free transfer,In,2011,s,1-bundesliga
+VfL Wolfsburg,Thomas Hitzlsperger,29,Germany,Central Midfield,CM,£4.50m,West Ham United,England,Free transfer,In,2011,s,1-bundesliga
+VfL Wolfsburg,Hasan Salihamidzic,34,Bosnia-Herzegovina,Right Midfield,RM,£360Th.,Juventus FC,Italy,Free transfer,In,2011,s,1-bundesliga
+VfL Wolfsburg,Sotiris Kyrgiakos,32,Greece,Centre-Back,CB,£1.35m,Liverpool FC,England,Free transfer,In,2011,s,1-bundesliga
+VfL Wolfsburg,Kevin Scheidhauer,19,Germany,Second Striker,SS,-,VfL Wolfsburg U19,Germany,-,In,2011,s,1-bundesliga
+VfL Wolfsburg,Sebastian Polter,20,Germany,Centre-Forward,CF,£68Th.,VfL Wolfsburg II,Germany,-,In,2011,s,1-bundesliga
+VfL Wolfsburg,Michael Schulze,22,Germany,Right-Back,RB,£158Th.,VfL Wolfsburg II,Germany,-,In,2011,s,1-bundesliga
+VfL Wolfsburg,Bjarne Thoelke,19,Germany,Centre-Back,CB,£90Th.,VfL Wolfsburg II,Germany,-,In,2011,s,1-bundesliga
+VfL Wolfsburg,Chris,33,Brazil,Centre-Back,CB,£1.35m,,Without Club,-,In,2011,s,1-bundesliga
+VfL Wolfsburg,Nassim Ben Khalifa,19,Switzerland,Centre-Forward,CF,£1.13m,1.FC Nuremberg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+VfL Wolfsburg,Karim Ziani,28,Algeria,Attacking Midfield,AM,£2.70m,Kayserispor,Turkey,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+VfB Stuttgart,William Kvist,26,Denmark,Defensive Midfield,DM,£3.60m,FC Copenhagen,Denmark,£3.15m,In,2011,s,1-bundesliga
+VfB Stuttgart,Francisco Rodríguez,29,Mexico,Centre-Back,CB,£2.70m,PSV Eindhoven,Netherlands,£1.62m,In,2011,s,1-bundesliga
+VfB Stuttgart,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,£2.25m,Borussia Dortmund,Germany,£900Th.,In,2011,s,1-bundesliga
+VfB Stuttgart,Ibrahima Traoré,23,Guinea,Right Winger,RW,£1.80m,FC Augsburg,Germany,Free transfer,In,2011,s,1-bundesliga
+VfB Stuttgart,Ermin Bicakcic,21,Bosnia-Herzegovina,Centre-Back,CB,£225Th.,VfB Stuttgart II,Germany,-,In,2011,s,1-bundesliga
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,£540Th.,VfB Stuttgart II,Germany,-,In,2011,s,1-bundesliga
+VfB Stuttgart,Julian Schieber,22,Germany,Centre-Forward,CF,£5.85m,1.FC Nuremberg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1.FSV Mainz 05,Anthony Ujah,20,Nigeria,Centre-Forward,CF,£2.34m,Lillestrøm SK,Norway,£2.07m,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Nicolai Müller,23,Germany,Right Winger,RW,£1.80m,SpVgg Greuther Fürth,Germany,£1.62m,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,£3.60m,VfL Bochum,Germany,£1.62m,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Julian Baumgartlinger,23,Austria,Defensive Midfield,DM,£2.03m,Austria Vienna,Austria,£990Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Malik Fathi,27,Germany,Left-Back,LB,£2.25m,Spartak Moscow,Russia,£900Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Zoltán Stieber,22,Hungary,Left Winger,LW,£2.25m,Alemannia Aachen,Germany,£810Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Marcel Risse,21,Germany,Right Midfield,RM,£1.58m,Bayer 04 Leverkusen,Germany,£720Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Fabian Schönheim,24,Germany,Centre-Back,CB,£630Th.,SV Wehen Wiesbaden,Germany,£360Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Mario Gavranovic,21,Switzerland,Centre-Forward,CF,£1.58m,FC Schalke 04,Germany,Loan fee:£180Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Andreas Ivanschitz,27,Austria,Attacking Midfield,AM,£2.70m,Panathinaikos Athens,Greece,£180Th.,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Yunus Malli,19,Turkey,Attacking Midfield,AM,£135Th.,Borussia Mönchengladbach U19,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Deniz Yilmaz,23,Azerbaijan,Centre-Forward,CF,£630Th.,FC Bayern Munich II,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Eric Maxim Choupo-Moting,22,Cameroon,Centre-Forward,CF,£1.80m,Hamburger SV,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Zdenek Pospech,32,Czech Republic,Right-Back,RB,£1.80m,FC Copenhagen,Denmark,Free transfer,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Loris Karius,18,Germany,Goalkeeper,GK,-,Manchester City Reserves,England,Loan,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Benedikt Saller,21,Germany,Right-Back,RB,£135Th.,1.FSV Mainz 05 II,Germany,-,In,2011,s,1-bundesliga
+1.FSV Mainz 05,Filip Trojan,28,Czech Republic,Left Winger,LW,£900Th.,MSV Duisburg,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1.FSV Mainz 05,Stefan Bell,19,Germany,Centre-Back,CB,£1.35m,TSV 1860 Munich,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SV Werder Bremen,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,£5.85m,Bayern Munich,Germany,£4.50m,In,2011,s,1-bundesliga
+SV Werder Bremen,Lukas Schmitz,22,Germany,Left-Back,LB,£2.25m,FC Schalke 04,Germany,£900Th.,In,2011,s,1-bundesliga
+SV Werder Bremen,Sokratis,23,Greece,Centre-Back,CB,£4.50m,Genoa CFC,Italy,Loan fee:£540Th.,In,2011,s,1-bundesliga
+SV Werder Bremen,Aleksandar Ignjovski,20,Serbia,Defensive Midfield,DM,£2.03m,OFK Beograd,Serbia,£450Th.,In,2011,s,1-bundesliga
+SV Werder Bremen,Tom Trybull,18,Germany,Defensive Midfield,DM,£450Th.,FC Hansa Rostock,Germany,£180Th.,In,2011,s,1-bundesliga
+SV Werder Bremen,Florian Hartherz,18,Germany,Left-Back,LB,£90Th.,VfL Wolfsburg II,Germany,£180Th.,In,2011,s,1-bundesliga
+SV Werder Bremen,Aleksandar Stevanovic,19,Germany,Central Midfield,CM,-,FC Schalke 04 U19,Germany,Free transfer,In,2011,s,1-bundesliga
+SV Werder Bremen,Andreas Wolf,29,Germany,Centre-Back,CB,£2.25m,1.FC Nuremberg,Germany,Free transfer,In,2011,s,1-bundesliga
+SV Werder Bremen,Özkan Yildirim,18,Germany,Attacking Midfield,AM,£68Th.,SV Werder Bremen U19,Germany,-,In,2011,s,1-bundesliga
+SV Werder Bremen,John Jairo Mosquera,23,Colombia,Centre-Forward,CF,£675Th.,1.FC Union Berlin,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SV Werder Bremen,Timo Perthel,22,Germany,Left-Back,LB,£360Th.,SK Sturm Graz,Austria,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SV Werder Bremen,Peter Niemeyer,27,Germany,Defensive Midfield,DM,£2.03m,Hertha BSC,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SV Werder Bremen,Márkó Futács,21,Hungary,Centre-Forward,CF,£270Th.,FC Ingolstadt 04,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+SV Werder Bremen,Markus Rosenberg,28,Sweden,Centre-Forward,CF,£2.70m,Racing Santander,Spain,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+FC Augsburg,Dawda Bah,27,The Gambia,Left Winger,LW,£675Th.,HJK Helsinki,Finland,£180Th.,In,2011,s,1-bundesliga
+FC Augsburg,Sascha Mölders,26,Germany,Centre-Forward,CF,£1.35m,FSV Frankfurt,Germany,£158Th.,In,2011,s,1-bundesliga
+FC Augsburg,Sebastian Langkamp,23,Germany,Centre-Back,CB,£900Th.,Karlsruher SC,Germany,£90Th.,In,2011,s,1-bundesliga
+FC Augsburg,Lorenzo Davids,24,Netherlands,Defensive Midfield,DM,£1.13m,NEC Nijmegen,Netherlands,Free transfer,In,2011,s,1-bundesliga
+FC Augsburg,Akaki Gogia,19,Germany,Right Winger,RW,£113Th.,VfL Wolfsburg,Germany,Loan,In,2011,s,1-bundesliga
+FC Augsburg,Patrick Mayer,23,Germany,Centre-Forward,CF,£900Th.,1.FC Heidenheim 1846,Germany,Free transfer,In,2011,s,1-bundesliga
+FC Augsburg,Dominic Peitz,26,Germany,Defensive Midfield,DM,£900Th.,1.FC Union Berlin,Germany,Free transfer,In,2011,s,1-bundesliga
+FC Augsburg,Marco Thiede,19,Germany,Right-Back,RB,-,FC Augsburg U19,Germany,-,In,2011,s,1-bundesliga
+FC Augsburg,Ioannis Gelios,19,Greece,Goalkeeper,GK,-,FC Augsburg U19,Germany,-,In,2011,s,1-bundesliga
+FC Augsburg,Edmond Kapllani,28,Albania,Centre-Forward,CF,£450Th.,SC Paderborn 07,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Knowledge Musona,21,Zimbabwe,Left Winger,LW,£720Th.,Kaizer Chiefs,South Africa,£1.35m,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Koen Casteels,19,Belgium,Goalkeeper,GK,£720Th.,KRC Genk,Belgium,£1.08m,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Fabian Johnson,23,United States,Left Winger,LW,£1.13m,VfL Wolfsburg,Germany,£630Th.,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Michael Gregoritsch,17,Austria,Second Striker,SS,£225Th.,SV Kapfenberg,Austria,£180Th.,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Danny Williams,22,United States,Defensive Midfield,DM,£450Th.,SC Freiburg,Germany,£180Th.,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Sven Schipplock,22,Germany,Centre-Forward,CF,£675Th.,VfB Stuttgart II,Germany,Free transfer,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Denis Thomalla,18,Germany,Centre-Forward,CF,£225Th.,TSG 1899 Hoffenheim II,Germany,-,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Dominik Kaiser,22,Germany,Central Midfield,CM,£90Th.,TSG 1899 Hoffenheim II,Germany,-,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Jannik Vestergaard,18,Denmark,Centre-Back,CB,£225Th.,TSG 1899 Hoffenheim II,Germany,-,In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Jukka Raitala,22,Finland,Left-Back,LB,£675Th.,SC Paderborn 07,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Franco Zuculini,20,Argentina,Central Midfield,CM,£2.70m,Racing Club,Argentina,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Prince Tagoe,24,Ghana,Centre-Forward,CF,£2.25m,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1. FC Köln,Sascha Riether,28,Germany,Right-Back,RB,£4.05m,VfL Wolfsburg,Germany,£2.52m,In,2011,s,1-bundesliga
+1. FC Köln,Mato Jajalo,23,Bosnia-Herzegovina,Defensive Midfield,DM,£2.25m,AC Siena,Italy,£1.80m,In,2011,s,1-bundesliga
+1. FC Köln,Ammar Jemal,24,Tunisia,Centre-Back,CB,£1.35m,BSC Young Boys,Switzerland,Loan fee:£270Th.,In,2011,s,1-bundesliga
+1. FC Köln,Henrique Sereno,26,Portugal,Centre-Back,CB,£1.08m,FC Porto,Portugal,Loan fee:£270Th.,In,2011,s,1-bundesliga
+1. FC Köln,Odise Roshi,20,Albania,Right Winger,RW,£225Th.,Flamurtari FC,Albania,Free transfer,In,2011,s,1-bundesliga
+1. FC Köln,Mark Uth,19,Germany,Centre-Forward,CF,£113Th.,1.FC Köln II,Germany,-,In,2011,s,1-bundesliga
+1. FC Köln,Thiemo-Jérôme Kialka,22,Germany,Centre-Forward,CF,£135Th.,1.FC Köln II,Germany,-,In,2011,s,1-bundesliga
+1. FC Köln,Simon Terodde,23,Germany,Centre-Forward,CF,£225Th.,1.FC Köln II,Germany,-,In,2011,s,1-bundesliga
+1. FC Köln,Timo Horn,18,Germany,Goalkeeper,GK,£90Th.,1.FC Köln II,Germany,-,In,2011,s,1-bundesliga
+1. FC Köln,Daniel Schwabke,21,Germany,Goalkeeper,GK,£68Th.,1.FC Köln II,Germany,-,In,2011,s,1-bundesliga
+1. FC Köln,Thomas Kessler,25,Germany,Goalkeeper,GK,£1.80m,FC St. Pauli,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1. FC Köln,Manasseh Ishiaku,28,Nigeria,Centre-Forward,CF,£450Th.,Sint-Truidense VV,Belgium,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1. FC Köln,José Pierre Vunguidica,21,Angola,Left Midfield,LM,£225Th.,Kickers Offenbach,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1. FC Köln,Michael Gardawski,20,Germany,Right-Back,RB,£225Th.,VfB Stuttgart II,Germany,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hertha BSC,Peter Niemeyer,27,Germany,Defensive Midfield,DM,£2.03m,SV Werder Bremen,Germany,£630Th.,In,2011,s,1-bundesliga
+Hertha BSC,Änis Ben-Hatira,23,Tunisia,Left Winger,LW,£1.80m,Hamburger SV,Germany,£540Th.,In,2011,s,1-bundesliga
+Hertha BSC,Andreas Ottl,26,Germany,Defensive Midfield,DM,£2.25m,Bayern Munich,Germany,Free transfer,In,2011,s,1-bundesliga
+Hertha BSC,Thomas Kraft,22,Germany,Goalkeeper,GK,£2.25m,Bayern Munich,Germany,Free transfer,In,2011,s,1-bundesliga
+Hertha BSC,Maik Franz,29,Germany,Centre-Back,CB,£2.70m,Eintracht Frankfurt,Germany,Free transfer,In,2011,s,1-bundesliga
+Hertha BSC,Tunay Torun,21,Turkey,Right Winger,RW,£1.35m,Hamburger SV,Germany,Free transfer,In,2011,s,1-bundesliga
+Hertha BSC,Abu Bakarr Kargbo,18,Sierra Leone,Centre-Forward,CF,£113Th.,Hertha BSC II,Germany,-,In,2011,s,1-bundesliga
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,£540Th.,MSV Duisburg,Germany,"End of loanAug 29, 2011",In,2011,s,1-bundesliga
+Hertha BSC,John Anthony Brooks,18,United States,Centre-Back,CB,£90Th.,Hertha BSC II,Germany,-,In,2011,s,1-bundesliga
+Hertha BSC,Fabian Holland,21,Germany,Left-Back,LB,£225Th.,Hertha BSC II,Germany,-,In,2011,s,1-bundesliga
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,£540Th.,FC St. Gallen 1879,Switzerland,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+Hertha BSC,Kaká,30,Brazil,Centre-Back,CB,£900Th.,SC Braga,Portugal,"End of loanJun 30, 2011",In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Itay Shechter,24,Israel,Centre-Forward,CF,£2.70m,Hapoel Tel Aviv,Israel,£2.25m,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Gil Vermouth,25,Israel,Right Midfield,RM,£1.53m,Hapoel Tel Aviv,Israel,£675Th.,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Richard Sukuta-Pasu,21,Germany,Centre-Forward,CF,£450Th.,Bayer 04 Leverkusen,Germany,£252Th.,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Konstantinos Fortounis,18,Greece,Attacking Midfield,AM,£720Th.,Asteras Tripolis,Greece,£225Th.,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Dorge Kouemaha,28,Cameroon,Centre-Forward,CF,£1.80m,Club Brugge KV,Belgium,Loan fee:£90Th.,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Olcay Sahan,24,Turkey,Right Winger,RW,£1.35m,MSV Duisburg,Germany,Free transfer,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Julian-Maurice Derstroff,19,Germany,Left Winger,LW,-,1.FC Kaiserslautern U19,Germany,-,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Dominique Heintz,18,Germany,Centre-Back,CB,-,1.FC Kaiserslautern U19,Germany,-,In,2011,s,1-bundesliga
+1.FC Kaiserslautern,Willi Orban,18,Hungary,Centre-Back,CB,-,1.FC Kaiserslautern U19,Germany,-,In,2011,s,1-bundesliga
+Bayern Munich,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,£5.85m,SV Werder Bremen,Germany,£4.50m,Out,2011,s,1-bundesliga
+Bayern Munich,Thomas Kraft,22,Germany,Goalkeeper,GK,£2.25m,Hertha BSC,Germany,Free transfer,Out,2011,s,1-bundesliga
+Bayern Munich,Andreas Ottl,26,Germany,Defensive Midfield,DM,£2.25m,Hertha BSC,Germany,Free transfer,Out,2011,s,1-bundesliga
+Bayern Munich,Hamit Altintop,28,Turkey,Right Midfield,RM,£5.40m,Real Madrid,Spain,Free transfer,Out,2011,s,1-bundesliga
+Bayern Munich,Miroslav Klose,33,Germany,Centre-Forward,CF,£4.50m,SS Lazio,Italy,Free transfer,Out,2011,s,1-bundesliga
+Borussia Dortmund,Nuri Sahin,22,Turkey,Defensive Midfield,DM,£18.00m,Real Madrid,Spain,£9.00m,Out,2011,s,1-bundesliga
+Borussia Dortmund,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,£2.25m,VfB Stuttgart,Germany,£900Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Dimitar Rangelov,28,Bulgaria,Second Striker,SS,£1.35m,FC Energie Cottbus,Germany,Loan fee:£180Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Markus Feulner,29,Germany,Central Midfield,CM,£900Th.,1.FC Nuremberg,Germany,£135Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Lasse Sobiech,20,Germany,Centre-Back,CB,£270Th.,FC St. Pauli,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Marco Stiepermann,20,Germany,Attacking Midfield,AM,£360Th.,Alemannia Aachen,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Daniel Ginczek,20,Germany,Centre-Forward,CF,£360Th.,VfL Bochum,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+Borussia Dortmund,Dedê,33,Brazil,Left-Back,LB,£1.35m,Eskisehirspor,Turkey,Free transfer,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Arturo Vidal,24,Chile,Central Midfield,CM,£18.00m,Juventus FC,Italy,£11.25m,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Domagoj Vida,22,Croatia,Centre-Back,CB,£1.58m,GNK Dinamo Zagreb,Croatia,£1.17m,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Marcel Risse,21,Germany,Right Midfield,RM,£1.58m,1.FSV Mainz 05,Germany,£720Th.,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Burak Kaplan,21,Turkey,Attacking Midfield,AM,£675Th.,Besiktas JK,Turkey,£585Th.,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Constant Djakpa,24,Cote d'Ivoire,Left-Back,LB,£900Th.,Eintracht Frankfurt,Germany,£450Th.,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Richard Sukuta-Pasu,21,Germany,Centre-Forward,CF,£450Th.,1.FC Kaiserslautern,Germany,£252Th.,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Zvonko Pamic,20,Croatia,Central Midfield,CM,£675Th.,MSV Duisburg,Germany,Loan,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Christoph Kramer,20,Germany,Defensive Midfield,DM,£90Th.,VfL Bochum,Germany,Loan,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Kevin Kampl,20,Slovenia,Central Midfield,CM,£90Th.,VfL Osnabrück,Germany,?,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Sami Hyypiä,37,Finland,Centre-Back,CB,-,,Retired,-,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Benedikt Fernandez,26,Germany,Goalkeeper,GK,£180Th.,,Without Club,-,Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Tomasz Bobel,36,Poland,Goalkeeper,GK,-,,Without Club,-,Out,2011,s,1-bundesliga
+FC Schalke 04,Manuel Neuer,25,Germany,Goalkeeper,GK,£25.20m,Bayern Munich,Germany,£27.00m,Out,2011,s,1-bundesliga
+FC Schalke 04,Junmin Hao,24,China,Central Midfield,CM,£675Th.,Shandong Luneng Taishan,China,£990Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Lukas Schmitz,22,Germany,Left-Back,LB,£2.25m,SV Werder Bremen,Germany,£900Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Edú,29,Brazil,Centre-Forward,CF,£1.35m,Besiktas JK,Turkey,Loan fee:£450Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Tore Reginiussen,25,Norway,Centre-Back,CB,£900Th.,Odense Boldklub,Denmark,£360Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Anthony Annan,25,Ghana,Defensive Midfield,DM,£2.25m,Vitesse Arnhem,Netherlands,Loan fee:£360Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Ciprian Deac,25,Romania,Right Winger,RW,£1.13m,FC Rapid 1923,Romania,Loan fee:£270Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Mario Gavranovic,21,Switzerland,Centre-Forward,CF,£1.58m,1.FSV Mainz 05,Germany,Loan fee:£180Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Vasilios Pliatsikas,23,Greece,Centre-Back,CB,£675Th.,MSV Duisburg,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+FC Schalke 04,Ali Karimi,32,Iran,Attacking Midfield,AM,£450Th.,Persepolis FC,Iran,Free transfer,Out,2011,s,1-bundesliga
+FC Schalke 04,Angelos Charisteas,31,Greece,Centre-Forward,CF,£450Th.,Panetolikos GFS,Greece,Free transfer,Out,2011,s,1-bundesliga
+FC Schalke 04,Christian Pander,27,Germany,Left-Back,LB,£1.80m,Hannover 96,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Schalke 04,Nicolas Plestan,30,France,Centre-Back,CB,£450Th.,,Retired,-,Out,2011,s,1-bundesliga
+FC Schalke 04,Gerald Asamoah,32,Germany,Centre-Forward,CF,£1.35m,,Without Club,-,Out,2011,s,1-bundesliga
+FC Schalke 04,Danilo Avelar,22,Brazil,Centre-Back,CB,£540Th.,Karpaty Lviv,Ukraine,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+SC Freiburg,Ömer Toprak,21,Turkey,Centre-Back,CB,£3.60m,Bayer 04 Leverkusen,Germany,£2.70m,Out,2011,s,1-bundesliga
+SC Freiburg,Danny Williams,22,United States,Defensive Midfield,DM,£450Th.,TSG 1899 Hoffenheim,Germany,£180Th.,Out,2011,s,1-bundesliga
+SC Freiburg,Ivica Banovic,31,Croatia,Defensive Midfield,DM,£630Th.,FC Energie Cottbus,Germany,Free transfer,Out,2011,s,1-bundesliga
+SC Freiburg,Tommy Bechmann,29,Denmark,Centre-Forward,CF,£450Th.,SönderjyskE,Denmark,Free transfer,Out,2011,s,1-bundesliga
+SC Freiburg,Nicolas Höfler,21,Germany,Defensive Midfield,DM,£135Th.,FC Erzgebirge Aue,Germany,Loan,Out,2011,s,1-bundesliga
+SC Freiburg,Jonathan Jäger,33,France,Left Winger,LW,£450Th.,,Without Club,-,Out,2011,s,1-bundesliga
+SC Freiburg,Simon Pouplin,26,France,Goalkeeper,GK,£2.70m,,Without Club,-,Out,2011,s,1-bundesliga
+SC Freiburg,Zvonko Pamic,20,Croatia,Central Midfield,CM,£675Th.,Bayer 04 Leverkusen,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+Hamburger SV,Eljero Elia,24,Netherlands,Left Winger,LW,£11.25m,Juventus FC,Italy,£8.10m,Out,2011,s,1-bundesliga
+Hamburger SV,Jonathan Pitroipa,25,Burkina Faso,Right Winger,RW,£4.05m,Stade Rennais FC,France,£3.15m,Out,2011,s,1-bundesliga
+Hamburger SV,Alex Silva,26,Brazil,Centre-Back,CB,£4.05m,Clube de Regatas do Flamengo,Brazil,£1.80m,Out,2011,s,1-bundesliga
+Hamburger SV,Joris Mathijsen,31,Netherlands,Centre-Back,CB,£4.50m,Málaga CF,Spain,£1.58m,Out,2011,s,1-bundesliga
+Hamburger SV,Änis Ben-Hatira,23,Tunisia,Left Winger,LW,£1.80m,Hertha BSC,Germany,£540Th.,Out,2011,s,1-bundesliga
+Hamburger SV,David Rozehnal,30,Czech Republic,Centre-Back,CB,£2.25m,LOSC Lille,France,£450Th.,Out,2011,s,1-bundesliga
+Hamburger SV,Frank Rost,38,Germany,Goalkeeper,GK,£1.35m,New York Red Bulls,United States,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Guy Demel,30,Cote d'Ivoire,Right-Back,RB,£1.58m,West Ham United,England,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Tunay Torun,21,Turkey,Right Winger,RW,£1.35m,Hertha BSC,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Macauley Chrisantus,20,Nigeria,Centre-Forward,CF,£900Th.,FSV Frankfurt,Germany,Loan,Out,2011,s,1-bundesliga
+Hamburger SV,Collin Benjamin,32,Namibia,Defensive Midfield,DM,£675Th.,TSV 1860 Munich,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Ruud van Nistelrooy,35,Netherlands,Centre-Forward,CF,£5.40m,Málaga CF,Spain,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Zé Roberto,37,Brazil,Left Midfield,LM,£2.25m,Al Gharafa Sports Club,Qatar,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Piotr Trochowski,27,Germany,Attacking Midfield,AM,£4.50m,Sevilla FC,Spain,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Eric Maxim Choupo-Moting,22,Cameroon,Centre-Forward,CF,£1.80m,1.FSV Mainz 05,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Kai-Fabian Schulz,21,Germany,Centre-Back,CB,£90Th.,FC Carl Zeiss Jena,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hamburger SV,Wolfgang Hesl,25,Germany,Goalkeeper,GK,£270Th.,SG Dynamo Dresden,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Michael Bradley,24,United States,Central Midfield,CM,£3.15m,Chievo Verona,Italy,£1.08m,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Karim Matmour,26,Algeria,Right Winger,RW,£900Th.,Eintracht Frankfurt,Germany,£450Th.,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Logan Bailly,25,Belgium,Goalkeeper,GK,£900Th.,Neuchâtel Xamax,Switzerland,Loan fee:£360Th.,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Tobias Levels,24,Germany,Right-Back,RB,£1.13m,Fortuna Düsseldorf,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Bamba Anderson,23,Brazil,Centre-Back,CB,£900Th.,Eintracht Frankfurt,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Christian Dorda,22,Germany,Left-Back,LB,£180Th.,SpVgg Greuther Fürth,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Fabian Bäcker,21,Germany,Right Winger,RW,£360Th.,Alemannia Aachen,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Jens Wissing,23,Germany,Left-Back,LB,£360Th.,SC Paderborn 07,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Mohamadou Idrissou,31,Cameroon,Centre-Forward,CF,£1.58m,Eintracht Frankfurt,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Sebastian Schachten,26,Germany,Right-Back,RB,£360Th.,FC St. Pauli,Germany,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Marcel Meeuwis,30,Netherlands,Defensive Midfield,DM,£720Th.,VVV-Venlo,Netherlands,Free transfer,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Frederic Löhe,22,Germany,Goalkeeper,GK,£180Th.,Borussia Mönchengladbach II,Germany,-,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Paul Stalteri,33,Canada,Right-Back,RB,£180Th.,,Without Club,-,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Jean-Sébastien Jaurès,33,France,Left-Back,LB,-,,Retired,-,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Bernhard Janeczek,19,Austria,Centre-Back,CB,£90Th.,Borussia Mönchengladbach II,Germany,-,Out,2011,s,1-bundesliga
+Borussia Mönchengladbach,Michael Fink,29,Germany,Defensive Midfield,DM,£900Th.,Besiktas JK,Turkey,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+Hannover 96,Florian Fromlowitz,24,Germany,Goalkeeper,GK,£1.58m,MSV Duisburg,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hannover 96,Felix Burmeister,21,Germany,Centre-Back,CB,£225Th.,Arminia Bielefeld,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hannover 96,DaMarcus Beasley,29,United States,Left-Back,LB,£675Th.,Puebla FC,Mexico,Free transfer,Out,2011,s,1-bundesliga
+Hannover 96,Willi Evseev,19,Germany,Central Midfield,CM,£135Th.,SC Wiener Neustadt,Austria,Loan,Out,2011,s,1-bundesliga
+Hannover 96,Mikael Forssell,30,Finland,Centre-Forward,CF,£900Th.,,Without Club,-,Out,2011,s,1-bundesliga
+Hannover 96,Tim Hofmann,23,Germany,Centre-Back,CB,£90Th.,,Without Club,-,Out,2011,s,1-bundesliga
+Hannover 96,Constant Djakpa,24,Cote d'Ivoire,Left-Back,LB,£900Th.,Bayer 04 Leverkusen,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Nuremberg,Ilkay Gündogan,20,Germany,Central Midfield,CM,£5.85m,Borussia Dortmund,Germany,£4.95m,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Andreas Wolf,29,Germany,Centre-Back,CB,£2.25m,SV Werder Bremen,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Christoph Sauter,19,Germany,Right Winger,RW,£135Th.,VfR Aalen,Germany,Loan,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Dario Vidosic,24,Australia,Attacking Midfield,AM,£450Th.,Adelaide United,Australia,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Daniel Batz,20,Germany,Goalkeeper,GK,£90Th.,SC Freiburg,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Timo Ochs,29,Germany,Goalkeeper,GK,£270Th.,TSV 1860 Munich,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Felicio Brown Forbes,19,Costa Rica,Centre-Forward,CF,£135Th.,Rot-Weiß Oberhausen,Germany,Loan,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Marek Mintal,33,Slovakia,Attacking Midfield,AM,£810Th.,FC Hansa Rostock,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Pascal Bieler,25,Germany,Left-Back,LB,£315Th.,SV Wehen Wiesbaden,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Rubin Okotie,24,Austria,Centre-Forward,CF,£675Th.,Sint-Truidense VV,Belgium,Loan,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Daniel Klewer,34,Germany,Goalkeeper,GK,-,,Retired,-,Out,2011,s,1-bundesliga
+1.FC Nuremberg,Julian Schieber,22,Germany,Centre-Forward,CF,£5.85m,VfB Stuttgart,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Nuremberg,Nassim Ben Khalifa,19,Switzerland,Centre-Forward,CF,£1.13m,VfL Wolfsburg,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Nuremberg,Mehmet Ekici,21,Turkey,Attacking Midfield,AM,£5.85m,Bayern Munich,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+VfL Wolfsburg,Simon Kjaer,22,Denmark,Centre-Back,CB,£9.00m,AS Roma,Italy,Loan fee:£2.70m,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Grafite,32,Brazil,Centre-Forward,CF,£3.60m,Al-Ahli Dubai Club,United Arab Emirates,£2.70m,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Sascha Riether,28,Germany,Right-Back,RB,£4.05m,1. FC Köln,Germany,£2.52m,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Tuncay Sanli,29,Turkey,Left Winger,LW,£3.60m,Bolton Wanderers,England,Loan fee:£900Th.,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Fabian Johnson,23,United States,Left Winger,LW,£1.13m,TSG 1899 Hoffenheim,Germany,£630Th.,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Peter Pekarik,24,Slovakia,Right-Back,RB,£2.25m,Kayserispor,Turkey,Loan fee:£135Th.,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Karim Ziani,28,Algeria,Attacking Midfield,AM,£2.70m,El-Jaish Sports Club,Qatar,Free transfer,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Diego,26,Brazil,Attacking Midfield,AM,£10.80m,Atlético Madrid,Spain,Loan,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Nassim Ben Khalifa,19,Switzerland,Centre-Forward,CF,£1.13m,BSC Young Boys,Switzerland,Loan,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Akaki Gogia,19,Germany,Right Winger,RW,£113Th.,FC Augsburg,Germany,Loan,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Arne Friedrich,32,Germany,Centre-Back,CB,£3.60m,,Without Club,-,Out,2011,s,1-bundesliga
+VfL Wolfsburg,Cícero,26,Brazil,Central Midfield,CM,£1.80m,Tombense Futebol Clube (MG),Brazil,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+VfL Wolfsburg,Dieumerci Mbokani,25,DR Congo,Centre-Forward,CF,£3.60m,AS Monaco,France,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+VfB Stuttgart,Christian Träsch,23,Germany,Defensive Midfield,DM,£9.00m,VfL Wolfsburg,Germany,£8.10m,Out,2011,s,1-bundesliga
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,£540Th.,Bayer 04 Leverkusen,Germany,Loan fee:£450Th.,Out,2011,s,1-bundesliga
+VfB Stuttgart,Daniel Didavi,21,Germany,Attacking Midfield,AM,£900Th.,1.FC Nuremberg,Germany,Loan fee:£270Th.,Out,2011,s,1-bundesliga
+VfB Stuttgart,Patrick Funk,21,Germany,Defensive Midfield,DM,£675Th.,FC St. Pauli,Germany,Loan fee:£180Th.,Out,2011,s,1-bundesliga
+VfB Stuttgart,Ciprian Marica,25,Romania,Centre-Forward,CF,£3.15m,FC Schalke 04,Germany,Free transfer,Out,2011,s,1-bundesliga
+VfB Stuttgart,Élson,29,Brazil,Attacking Midfield,AM,£675Th.,FK Rostov,Russia,Free transfer,Out,2011,s,1-bundesliga
+VfB Stuttgart,Alexander Stolz,27,Germany,Goalkeeper,GK,£180Th.,VfB Stuttgart II,Germany,-,Out,2011,s,1-bundesliga
+VfB Stuttgart,Philipp Degen,28,Switzerland,Right-Back,RB,£675Th.,Liverpool FC,England,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+VfB Stuttgart,Tamás Hajnal,30,Hungary,Attacking Midfield,AM,£2.25m,Borussia Dortmund,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FSV Mainz 05,André Schürrle,20,Germany,Left Winger,LW,£11.25m,Bayer 04 Leverkusen,Germany,£7.65m,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,£4.50m,FC Schalke 04,Germany,£3.42m,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Stefan Bell,19,Germany,Centre-Back,CB,£1.35m,Eintracht Frankfurt,Germany,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Petar Sliskovic,20,Croatia,Centre-Forward,CF,£540Th.,FC St. Pauli,Germany,Loan fee:£45Th.,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Miroslav Karhan,35,Slovakia,Central Midfield,CM,£270Th.,Spartak Trnava,Slovakia,Free transfer,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Jan Simak,32,Czech Republic,Attacking Midfield,AM,£270Th.,FC Carl Zeiss Jena,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Filip Trojan,28,Czech Republic,Left Winger,LW,£900Th.,SG Dynamo Dresden,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Zsolt Löw,32,Hungary,Left-Back,LB,£270Th.,,Retired,-,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Martin Pieckenhagen,39,Germany,Goalkeeper,GK,£90Th.,,Retired,-,Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Andreas Ivanschitz,27,Austria,Attacking Midfield,AM,£2.70m,Panathinaikos Athens,Greece,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Marcel Risse,21,Germany,Right Midfield,RM,£1.58m,Bayer 04 Leverkusen,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Christian Fuchs,25,Austria,Left-Back,LB,£3.60m,VfL Bochum,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Lewis Holtby,20,Germany,Attacking Midfield,AM,£5.40m,FC Schalke 04,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FSV Mainz 05,Malik Fathi,27,Germany,Left-Back,LB,£2.25m,Spartak Moscow,Russia,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+SV Werder Bremen,Per Mertesacker,26,Germany,Centre-Back,CB,£9.00m,Arsenal FC,England,£10.17m,Out,2011,s,1-bundesliga
+SV Werder Bremen,Peter Niemeyer,27,Germany,Defensive Midfield,DM,£2.03m,Hertha BSC,Germany,£630Th.,Out,2011,s,1-bundesliga
+SV Werder Bremen,Kevin Schindler,23,Germany,Defensive Midfield,DM,£315Th.,FC St. Pauli,Germany,£135Th.,Out,2011,s,1-bundesliga
+SV Werder Bremen,John Jairo Mosquera,23,Colombia,Centre-Forward,CF,£675Th.,1.FC Union Berlin,Germany,£135Th.,Out,2011,s,1-bundesliga
+SV Werder Bremen,Felix Wiedwald,21,Germany,Goalkeeper,GK,£315Th.,MSV Duisburg,Germany,£90Th.,Out,2011,s,1-bundesliga
+SV Werder Bremen,Pascal Testroet,20,Germany,Centre-Forward,CF,£315Th.,Kickers Offenbach,Germany,£45Th.,Out,2011,s,1-bundesliga
+SV Werder Bremen,Petri Pasanen,30,Finland,Centre-Back,CB,£1.80m,Red Bull Salzburg,Austria,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Dominik Schmidt,24,Germany,Centre-Back,CB,£720Th.,Eintracht Frankfurt,Germany,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Jurica Vranjes,31,Croatia,Defensive Midfield,DM,£450Th.,Aris Thessaloniki,Greece,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Torsten Frings,34,Germany,Defensive Midfield,DM,£2.25m,Toronto FC,United States,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Timo Perthel,22,Germany,Left-Back,LB,£360Th.,FC Hansa Rostock,Germany,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Samuel Jesus,25,Brazil,Centre-Back,CB,£180Th.,RSC Anderlecht,Belgium,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Márkó Futács,21,Hungary,Centre-Forward,CF,£180Th.,Portsmouth FC,England,Free transfer,Out,2011,s,1-bundesliga
+SV Werder Bremen,Niklas Andersen,22,Germany,Centre-Back,CB,£158Th.,,Without Club,-,Out,2011,s,1-bundesliga
+SV Werder Bremen,Said Husejinovic,23,Bosnia-Herzegovina,Attacking Midfield,AM,£450Th.,,Without Club,-,Out,2011,s,1-bundesliga
+SV Werder Bremen,Daniel Jensen,32,Denmark,Central Midfield,CM,£1.35m,,Without Club,-,Out,2011,s,1-bundesliga
+FC Augsburg,Dominic Peitz,26,Germany,Defensive Midfield,DM,£900Th.,FC Hansa Rostock,Germany,Loan fee:£45Th.,Out,2011,s,1-bundesliga
+FC Augsburg,Ibrahima Traoré,23,Guinea,Right Winger,RW,£1.80m,VfB Stuttgart,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Augsburg,Thomas Rudolph,22,Germany,Central Midfield,CM,-,TSV Gersthofen,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Augsburg,Lukas Sinkiewicz,25,Germany,Defensive Midfield,DM,£900Th.,VfL Bochum,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Augsburg,Benjamin Woltmann,21,Germany,Centre-Back,CB,£45Th.,TSV Aindling,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Augsburg,Daniel Framberger,21,Germany,Central Midfield,CM,-,TSV Neusäß,Germany,Free transfer,Out,2011,s,1-bundesliga
+FC Augsburg,Kees Kwakman,28,Netherlands,Defensive Midfield,DM,£1.13m,FC Groningen,Netherlands,£9Th.,Out,2011,s,1-bundesliga
+FC Augsburg,Sören Bertram,20,Germany,Left Winger,LW,£450Th.,Hamburger SV,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+FC Augsburg,Moritz Leitner,18,Germany,Central Midfield,CM,£1.35m,Borussia Dortmund,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Prince Tagoe,24,Ghana,Centre-Forward,CF,£1.35m,Bursaspor,Turkey,£1.35m,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Franco Zuculini,20,Argentina,Central Midfield,CM,£2.70m,Real Zaragoza,Spain,Loan fee:£360Th.,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Jukka Raitala,22,Finland,Left-Back,LB,£675Th.,CA Osasuna,Spain,Loan fee:£90Th.,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Jens Grahl,22,Germany,Goalkeeper,GK,£90Th.,SC Paderborn 07,Germany,Loan,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,£360Th.,Goiás Esporte Clube,Brazil,Loan,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Michael Gregoritsch,17,Austria,Second Striker,SS,£225Th.,SV Kapfenberg,Austria,Loan,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Ramazan Özcan,27,Austria,Goalkeeper,GK,£225Th.,FC Ingolstadt 04,Germany,Free transfer,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Josip Simunic,33,Croatia,Centre-Back,CB,£2.25m,GNK Dinamo Zagreb,Croatia,Free transfer,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,Kevin Conrad,20,Germany,Centre-Back,CB,£45Th.,TSG 1899 Hoffenheim II,Germany,-,Out,2011,s,1-bundesliga
+TSG 1899 Hoffenheim,David Alaba,19,Austria,Left-Back,LB,£4.50m,Bayern Munich,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1. FC Köln,Youssef Mohamad,31,Lebanon,Centre-Back,CB,£2.48m,Al-Ahli Dubai Club,United Arab Emirates,£2.27m,Out,2011,s,1-bundesliga
+1. FC Köln,Thomas Kessler,25,Germany,Goalkeeper,GK,£1.80m,Eintracht Frankfurt,Germany,Loan fee:£135Th.,Out,2011,s,1-bundesliga
+1. FC Köln,Taner Yalcin,21,Germany,Attacking Midfield,AM,£1.35m,Istanbul Büyüksehir Belediyespor,Turkey,Loan fee:£135Th.,Out,2011,s,1-bundesliga
+1. FC Köln,Simon Terodde,23,Germany,Centre-Forward,CF,£225Th.,1.FC Union Berlin,Germany,Loan fee:£45Th.,Out,2011,s,1-bundesliga
+1. FC Köln,Christopher Schorch,22,Germany,Centre-Back,CB,£1.58m,FC Energie Cottbus,Germany,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,Fabrice Ehret,31,France,Left-Back,LB,£675Th.,FC Évian Thonon Gaillard,France,Free transfer,Out,2011,s,1-bundesliga
+1. FC Köln,Konstantinos Giannoulis,23,Greece,Centre-Back,CB,£225Th.,Atromitos Athen,Greece,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,Bienvenue Basala-Mazana,19,Germany,Right-Back,RB,£315Th.,SV Ried,Austria,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,José Pierre Vunguidica,21,Angola,Left Midfield,LM,£225Th.,Preußen Münster,Germany,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,Michael Gardawski,20,Germany,Right-Back,RB,£225Th.,VfL Osnabrück,Germany,Free transfer,Out,2011,s,1-bundesliga
+1. FC Köln,Reinhold Yabo,19,Germany,Central Midfield,CM,£450Th.,Alemannia Aachen,Germany,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,Stephan Salger,21,Germany,Centre-Back,CB,£360Th.,VfL Osnabrück,Germany,Loan,Out,2011,s,1-bundesliga
+1. FC Köln,Wilfried Sanou,27,Burkina Faso,Left Winger,LW,£450Th.,,Without Club,-,Out,2011,s,1-bundesliga
+1. FC Köln,Manasseh Ishiaku,28,Nigeria,Centre-Forward,CF,£270Th.,,Without Club,-,Out,2011,s,1-bundesliga
+1. FC Köln,Mato Jajalo,23,Bosnia-Herzegovina,Defensive Midfield,DM,£2.25m,AC Siena,Italy,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+Hertha BSC,Valeri Domovchiyski,24,Bulgaria,Centre-Forward,CF,£900Th.,MSV Duisburg,Germany,£405Th.,Out,2011,s,1-bundesliga
+Hertha BSC,Kaká,30,Brazil,Centre-Back,CB,£900Th.,APOEL Nicosia,Cyprus,£225Th.,Out,2011,s,1-bundesliga
+Hertha BSC,Rob Friend,30,Canada,Centre-Forward,CF,£900Th.,Eintracht Frankfurt,Germany,£225Th.,Out,2011,s,1-bundesliga
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,£540Th.,MSV Duisburg,Germany,Loan fee:£45Th.,Out,2011,s,1-bundesliga
+Hertha BSC,Daniel Beichler,22,Austria,Second Striker,SS,£540Th.,SV Ried,Austria,Loan,Out,2011,s,1-bundesliga
+Hertha BSC,Sascha Bigalke,21,Germany,Attacking Midfield,AM,£225Th.,SpVgg Unterhaching,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hertha BSC,Lennart Hartmann,20,Germany,Defensive Midfield,DM,£180Th.,Alemannia Aachen,Germany,Free transfer,Out,2011,s,1-bundesliga
+Hertha BSC,Marvin Knoll,20,Germany,Defensive Midfield,DM,£180Th.,SG Dynamo Dresden,Germany,Loan,Out,2011,s,1-bundesliga
+Hertha BSC,Marco Sejna,39,Germany,Goalkeeper,GK,£23Th.,Hertha BSC II,Germany,-,Out,2011,s,1-bundesliga
+Hertha BSC,Peter Niemeyer,27,Germany,Defensive Midfield,DM,£2.03m,SV Werder Bremen,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Ivo Ilicevic,24,Croatia,Left Winger,LW,£4.50m,Hamburger SV,Germany,£3.60m,Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Bastian Schulz,26,Germany,Defensive Midfield,DM,£450Th.,RB Leipzig,Germany,£90Th.,Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Srdjan Lakic,27,Croatia,Centre-Forward,CF,£5.40m,VfL Wolfsburg,Germany,Free transfer,Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Alan Stulin,21,Poland,Left-Back,LB,£135Th.,1.FC Kaiserslautern II,Germany,-,Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Danny Fuchs,35,Germany,Left Winger,LW,-,,Retired,-,Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Jan Morávek,21,Czech Republic,Central Midfield,CM,£3.15m,FC Schalke 04,Germany,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Adam Hlousek,22,Czech Republic,Left-Back,LB,£1.35m,SK Slavia Prague,Czech Republic,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+1.FC Kaiserslautern,Erwin Hoffer,24,Austria,Centre-Forward,CF,£1.80m,SSC Napoli,Italy,"End of loanJun 30, 2011",Out,2011,s,1-bundesliga
+Bayer 04 Leverkusen,Bernd Leno,19,Germany,Goalkeeper,GK,£4.50m,VfB Stuttgart,Germany,£6.75m,In,2011,w,1-bundesliga
+Bayer 04 Leverkusen,Vedran Corluka,25,Croatia,Centre-Back,CB,£9.00m,Tottenham Hotspur,England,Loan fee:£495Th.,In,2011,w,1-bundesliga
+FC Schalke 04,Chinedu Obasi,25,Nigeria,Centre-Forward,CF,£5.40m,TSG 1899 Hoffenheim,Germany,Loan fee:£450Th.,In,2011,w,1-bundesliga
+FC Schalke 04,Timo Hildebrand,32,Germany,Goalkeeper,GK,£1.53m,,Without Club,-,In,2011,w,1-bundesliga
+SC Freiburg,Fallou Diagne,22,Senegal,Centre-Back,CB,£450Th.,FC Metz,France,£450Th.,In,2011,w,1-bundesliga
+SC Freiburg,Ivan Santini,22,Croatia,Centre-Forward,CF,£900Th.,NK Zadar,Croatia,Loan fee:£270Th.,In,2011,w,1-bundesliga
+SC Freiburg,Karim Guédé,27,Slovakia,Centre-Forward,CF,£540Th.,Slovan Bratislava,Slovakia,£270Th.,In,2011,w,1-bundesliga
+SC Freiburg,Michael Lumb,24,Denmark,Left-Back,LB,£675Th.,Zenit St. Petersburg,Russia,Loan fee:£180Th.,In,2011,w,1-bundesliga
+SC Freiburg,Sebastian Freis,26,Germany,Centre-Forward,CF,£675Th.,1. FC Köln,Germany,Free transfer,In,2011,w,1-bundesliga
+SC Freiburg,Alexander Schwolow,19,Germany,Goalkeeper,GK,£158Th.,SC Freiburg II,Germany,-,In,2011,w,1-bundesliga
+SC Freiburg,Oliver Sorg,21,Germany,Right-Back,RB,£113Th.,SC Freiburg II,Germany,-,In,2011,w,1-bundesliga
+SC Freiburg,Andreas Hinkel,29,Germany,Right-Back,RB,£1.35m,,Without Club,-,In,2011,w,1-bundesliga
+SC Freiburg,Immanuel Höhn,20,Germany,Centre-Back,CB,£135Th.,SC Freiburg II,Germany,-,In,2011,w,1-bundesliga
+SC Freiburg,Matthias Ginter,18,Germany,Centre-Back,CB,-,SC Freiburg U19,Germany,-,In,2011,w,1-bundesliga
+Hamburger SV,Zhi Gin Lam,20,Germany,Right Midfield,RM,£270Th.,Hamburger SV II,Germany,-,In,2011,w,1-bundesliga
+Borussia Mönchengladbach,Tolga Cigerci,19,Turkey,Central Midfield,CM,£540Th.,VfL Wolfsburg,Germany,Loan fee:£315Th.,In,2011,w,1-bundesliga
+Borussia Mönchengladbach,Alexander Ring,20,Finland,Central Midfield,CM,£540Th.,HJK Helsinki,Finland,Loan fee:£180Th.,In,2011,w,1-bundesliga
+Borussia Mönchengladbach,Logan Bailly,26,Belgium,Goalkeeper,GK,£540Th.,Neuchâtel Xamax,Switzerland,"End of loanDec 31, 2011",In,2011,w,1-bundesliga
+Hannover 96,Mame Diouf,24,Senegal,Centre-Forward,CF,£3.60m,Manchester United,England,£1.62m,In,2011,w,1-bundesliga
+1.FC Nuremberg,Adam Hlousek,23,Czech Republic,Left-Back,LB,£1.08m,FK Baumit Jablonec,Czech Republic,£900Th.,In,2011,w,1-bundesliga
+1.FC Nuremberg,Hanno Balitsch,30,Germany,Defensive Midfield,DM,£2.25m,Bayer 04 Leverkusen,Germany,Free transfer,In,2011,w,1-bundesliga
+1.FC Nuremberg,Omar González,23,United States,Centre-Back,CB,£360Th.,Los Angeles Galaxy,United States,Loan,In,2011,w,1-bundesliga
+1.FC Nuremberg,Rubin Okotie,24,Austria,Centre-Forward,CF,£675Th.,Sint-Truidense VV,Belgium,"End of loanDec 31, 2011",In,2011,w,1-bundesliga
+VfL Wolfsburg,Ricardo Rodríguez,19,Switzerland,Left-Back,LB,£6.75m,FC Zürich,Switzerland,£7.65m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Giovanni Sio,22,Cote d'Ivoire,Centre-Forward,CF,£4.05m,FC Sion,Switzerland,£5.22m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Vieirinha,25,Portugal,Right Winger,RW,£7.20m,PAOK Thessaloniki,Greece,£3.60m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Petr Jiracek,25,Czech Republic,Central Midfield,CM,£2.70m,FC Viktoria Plzen,Czech Republic,£3.15m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Felipe Lopes,24,Brazil,Centre-Back,CB,£2.79m,CD Nacional,Portugal,£2.25m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Slobodan Medojevic,21,Serbia,Defensive Midfield,DM,£1.80m,FK Vojvodina Novi Sad,Serbia,£1.80m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Ibrahim Sissoko,20,Cote d'Ivoire,Right Winger,RW,£360Th.,Académica Coimbra,Portugal,£1.35m,In,2011,w,1-bundesliga
+VfL Wolfsburg,Ferhan Hasani,21,North Macedonia,Attacking Midfield,AM,£585Th.,Shkendija Tetovo,North Macedonia,£360Th.,In,2011,w,1-bundesliga
+VfB Stuttgart,Vedad Ibisevic,27,Bosnia-Herzegovina,Centre-Forward,CF,£5.40m,TSG 1899 Hoffenheim,Germany,£4.05m,In,2011,w,1-bundesliga
+VfB Stuttgart,Gotoku Sakai,20,Japan,Left-Back,LB,£900Th.,Albirex Niigata,Japan,Loan fee:£270Th.,In,2011,w,1-bundesliga
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,£4.50m,Bayer 04 Leverkusen,Germany,"End of loanDec 31, 2011",In,2011,w,1-bundesliga
+1.FSV Mainz 05,Mohamed Zidan,30,Egypt,Second Striker,SS,£1.80m,Borussia Dortmund,Germany,£360Th.,In,2011,w,1-bundesliga
+1.FSV Mainz 05,Loris Karius,18,Germany,Goalkeeper,GK,£180Th.,Manchester City Reserves,England,Free transfer,In,2011,w,1-bundesliga
+1.FSV Mainz 05,Stefan Bell,20,Germany,Centre-Back,CB,£1.13m,Eintracht Frankfurt,Germany,"End of loanDec 31, 2011",In,2011,w,1-bundesliga
+SV Werder Bremen,Zlatko Junuzovic,24,Austria,Central Midfield,CM,£2.25m,Austria Vienna,Austria,£720Th.,In,2011,w,1-bundesliga
+SV Werder Bremen,François Affolter,20,Switzerland,Centre-Back,CB,£1.35m,BSC Young Boys,Switzerland,Loan fee:£450Th.,In,2011,w,1-bundesliga
+SV Werder Bremen,Niclas Füllkrug,19,Germany,Centre-Forward,CF,£180Th.,SV Werder Bremen II,Germany,-,In,2011,w,1-bundesliga
+FC Augsburg,Matthias Ostrzolek,21,Germany,Left-Back,LB,£900Th.,VfL Bochum,Germany,£450Th.,In,2011,w,1-bundesliga
+FC Augsburg,Ja-cheol Koo,22,"Korea, South",Central Midfield,CM,£2.25m,VfL Wolfsburg,Germany,Loan fee:£113Th.,In,2011,w,1-bundesliga
+FC Augsburg,Jan Morávek,22,Czech Republic,Central Midfield,CM,£3.15m,FC Schalke 04,Germany,Loan fee:£68Th.,In,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Sandro Wieser,18,Liechtenstein,Defensive Midfield,DM,£180Th.,FC Basel 1893,Switzerland,£900Th.,In,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Srdjan Lakic,28,Croatia,Centre-Forward,CF,£4.05m,VfL Wolfsburg,Germany,Loan fee:£900Th.,In,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Stefan Thesker,20,Germany,Centre-Back,CB,£90Th.,FC Twente Enschede U21,Netherlands,£90Th.,In,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,-,Goiás Esporte Clube,Brazil,"End of loanDec 31, 2011",In,2011,w,1-bundesliga
+1. FC Köln,Mikael Ishak,18,Sweden,Centre-Forward,CF,£36Th.,Assyriska FF,Sweden,£252Th.,In,2011,w,1-bundesliga
+1. FC Köln,Chong Tese,27,"Korea, North",Centre-Forward,CF,£1.13m,VfL Bochum,Germany,£180Th.,In,2011,w,1-bundesliga
+Hertha BSC,Felix Bastians,23,Germany,Centre-Back,CB,£2.25m,SC Freiburg,Germany,£90Th.,In,2011,w,1-bundesliga
+1.FC Kaiserslautern,Ariel Borysiuk,20,Poland,Defensive Midfield,DM,£1.44m,Legia Warszawa,Poland,£1.80m,In,2011,w,1-bundesliga
+1.FC Kaiserslautern,Jakub Swierczok,19,Poland,Centre-Forward,CF,£113Th.,Polonia Bytom,Poland,£378Th.,In,2011,w,1-bundesliga
+1.FC Kaiserslautern,Sandro Wagner,24,Germany,Centre-Forward,CF,£900Th.,SV Werder Bremen,Germany,Loan fee:£270Th.,In,2011,w,1-bundesliga
+1.FC Kaiserslautern,Anthar Yahia,29,Algeria,Centre-Back,CB,£1.35m,Al-Nassr FC,Saudi Arabia,Free transfer,In,2011,w,1-bundesliga
+1.FC Kaiserslautern,Nicolai Jörgensen,20,Denmark,Centre-Forward,CF,£1.35m,Bayer 04 Leverkusen,Germany,Loan fee:£27Th.,In,2011,w,1-bundesliga
+Borussia Dortmund,Mohamed Zidan,30,Egypt,Second Striker,SS,£1.80m,1.FSV Mainz 05,Germany,£360Th.,Out,2011,w,1-bundesliga
+Borussia Dortmund,Marc Hornschuh,20,Germany,Centre-Back,CB,£270Th.,FC Ingolstadt 04,Germany,Loan fee:£81Th.,Out,2011,w,1-bundesliga
+Borussia Dortmund,Damien Le Tallec,21,France,Defensive Midfield,DM,£135Th.,FC Nantes,France,Free transfer,Out,2011,w,1-bundesliga
+Bayer 04 Leverkusen,Hanno Balitsch,30,Germany,Defensive Midfield,DM,£2.25m,1.FC Nuremberg,Germany,Free transfer,Out,2011,w,1-bundesliga
+Bayer 04 Leverkusen,Nicolai Jörgensen,20,Denmark,Centre-Forward,CF,£1.35m,1.FC Kaiserslautern,Germany,Loan fee:£27Th.,Out,2011,w,1-bundesliga
+Bayer 04 Leverkusen,Bernd Leno,19,Germany,Goalkeeper,GK,£4.50m,VfB Stuttgart,Germany,"End of loanDec 31, 2011",Out,2011,w,1-bundesliga
+FC Schalke 04,Jan Morávek,22,Czech Republic,Central Midfield,CM,£3.15m,FC Augsburg,Germany,Loan fee:£68Th.,Out,2011,w,1-bundesliga
+SC Freiburg,Papiss Demba Cissé,26,Senegal,Centre-Forward,CF,£12.15m,Newcastle United,England,£10.80m,Out,2011,w,1-bundesliga
+SC Freiburg,Felix Bastians,23,Germany,Centre-Back,CB,£2.25m,Hertha BSC,Germany,£90Th.,Out,2011,w,1-bundesliga
+SC Freiburg,Kisho Yano,27,Japan,Centre-Forward,CF,£450Th.,Albirex Niigata,Japan,Free transfer,Out,2011,w,1-bundesliga
+SC Freiburg,Heiko Butscher,31,Germany,Centre-Back,CB,£1.80m,Eintracht Frankfurt,Germany,Free transfer,Out,2011,w,1-bundesliga
+SC Freiburg,Christian Bickel,21,Germany,Right Midfield,RM,£135Th.,SSV Jahn Regensburg,Germany,Loan,Out,2011,w,1-bundesliga
+SC Freiburg,Maximilian Nicu,29,Romania,Centre-Back,CB,£900Th.,TSV 1860 Munich,Germany,Free transfer,Out,2011,w,1-bundesliga
+SC Freiburg,Manuel Salz,26,Germany,Goalkeeper,GK,£180Th.,SC Freiburg II,Germany,-,Out,2011,w,1-bundesliga
+SC Freiburg,Yacine Abdessadki,30,Morocco,Right Winger,RW,£1.35m,,Career break,-,Out,2011,w,1-bundesliga
+Hamburger SV,Lennard Sowah,19,Germany,Left-Back,LB,£225Th.,Millwall FC,England,Loan,Out,2011,w,1-bundesliga
+Borussia Mönchengladbach,Raúl Bobadilla,24,Paraguay,Centre-Forward,CF,£2.25m,BSC Young Boys,Switzerland,£1.35m,Out,2011,w,1-bundesliga
+Borussia Mönchengladbach,Logan Bailly,26,Belgium,Goalkeeper,GK,£540Th.,KRC Genk,Belgium,Loan,Out,2011,w,1-bundesliga
+Borussia Mönchengladbach,Lukas Rupp,21,Germany,Central Midfield,CM,£675Th.,SC Paderborn 07,Germany,Loan,Out,2011,w,1-bundesliga
+Borussia Mönchengladbach,Elias Kachunga,19,DR Congo,Right Winger,RW,£225Th.,VfL Osnabrück,Germany,Loan fee:£27Th.,Out,2011,w,1-bundesliga
+Borussia Mönchengladbach,Joshua King,19,Norway,Second Striker,SS,£225Th.,Manchester United U23,England,"End of loanJan 3, 2012",Out,2011,w,1-bundesliga
+1.FC Nuremberg,Rubin Okotie,24,Austria,Centre-Forward,CF,£540Th.,SK Sturm Graz,Austria,Loan,Out,2011,w,1-bundesliga
+1.FC Nuremberg,Omar González,23,United States,Centre-Back,CB,£360Th.,Los Angeles Galaxy,United States,"End of loanFeb 15, 2012",Out,2011,w,1-bundesliga
+VfL Wolfsburg,Srdjan Lakic,28,Croatia,Centre-Forward,CF,£4.05m,TSG 1899 Hoffenheim,Germany,Loan fee:£900Th.,Out,2011,w,1-bundesliga
+VfL Wolfsburg,Tolga Cigerci,19,Turkey,Central Midfield,CM,£540Th.,Borussia Mönchengladbach,Germany,Loan fee:£315Th.,Out,2011,w,1-bundesliga
+VfL Wolfsburg,Ja-cheol Koo,22,"Korea, South",Central Midfield,CM,£2.25m,FC Augsburg,Germany,Loan fee:£113Th.,Out,2011,w,1-bundesliga
+VfL Wolfsburg,Thomas Kahlenberg,28,Denmark,Central Midfield,CM,£1.80m,FC Évian Thonon Gaillard,France,Loan,Out,2011,w,1-bundesliga
+VfL Wolfsburg,Sotiris Kyrgiakos,32,Greece,Centre-Back,CB,£675Th.,Sunderland AFC,England,Loan,Out,2011,w,1-bundesliga
+VfL Wolfsburg,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,FC Barcelona,Spain,"End of loanDec 31, 2011",Out,2011,w,1-bundesliga
+VfB Stuttgart,Bernd Leno,19,Germany,Goalkeeper,GK,£4.50m,Bayer 04 Leverkusen,Germany,£6.75m,Out,2011,w,1-bundesliga
+VfB Stuttgart,Pavel Pogrebnyak,28,Russia,Centre-Forward,CF,£3.15m,Fulham FC,England,£450Th.,Out,2011,w,1-bundesliga
+VfB Stuttgart,Ermin Bicakcic,21,Bosnia-Herzegovina,Centre-Back,CB,£225Th.,Eintracht Braunschweig,Germany,£90Th.,Out,2011,w,1-bundesliga
+1.FSV Mainz 05,Florian Heller,29,Germany,Right Winger,RW,£900Th.,FC Ingolstadt 04,Germany,Free transfer,Out,2011,w,1-bundesliga
+1.FSV Mainz 05,Loris Karius,18,Germany,Goalkeeper,GK,£180Th.,Manchester City Reserves,England,"End of loanDec 31, 2011",Out,2011,w,1-bundesliga
+SV Werder Bremen,Wesley,24,Brazil,Central Midfield,CM,£4.05m,Sociedade Esportiva Palmeiras,Brazil,£5.40m,Out,2011,w,1-bundesliga
+SV Werder Bremen,Andreas Wolf,29,Germany,Centre-Back,CB,£2.25m,AS Monaco,France,£1.35m,Out,2011,w,1-bundesliga
+SV Werder Bremen,Sandro Wagner,24,Germany,Centre-Forward,CF,£900Th.,1.FC Kaiserslautern,Germany,Loan fee:£270Th.,Out,2011,w,1-bundesliga
+FC Augsburg,Uwe Möhrle,32,Germany,Centre-Back,CB,£1.13m,FC Energie Cottbus,Germany,£180Th.,Out,2011,w,1-bundesliga
+FC Augsburg,Michael Thurk,35,Germany,Centre-Forward,CF,£450Th.,1.FC Heidenheim 1846,Germany,Free transfer,Out,2011,w,1-bundesliga
+FC Augsburg,Patrick Mayer,23,Germany,Centre-Forward,CF,£900Th.,1.FC Heidenheim 1846,Germany,Loan,Out,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Vedad Ibisevic,27,Bosnia-Herzegovina,Centre-Forward,CF,£5.40m,VfB Stuttgart,Germany,£4.05m,Out,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Chinedu Obasi,25,Nigeria,Centre-Forward,CF,£5.40m,FC Schalke 04,Germany,Loan fee:£450Th.,Out,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Gylfi Sigurdsson,22,Iceland,Attacking Midfield,AM,£6.75m,Swansea City,England,Loan fee:£450Th.,Out,2011,w,1-bundesliga
+TSG 1899 Hoffenheim,Wellington,23,Brazil,Centre-Forward,CF,-,Clube Atlético Linense (SP),Brazil,Loan,Out,2011,w,1-bundesliga
+1. FC Köln,Tomoaki Makino,24,Japan,Centre-Back,CB,£900Th.,Urawa Red Diamonds,Japan,Loan,Out,2011,w,1-bundesliga
+1. FC Köln,Thiemo-Jérôme Kialka,22,Germany,Centre-Forward,CF,£135Th.,SSV Jahn Regensburg,Germany,Free transfer,Out,2011,w,1-bundesliga
+1. FC Köln,Adam Matuschyk,22,Poland,Defensive Midfield,DM,£2.25m,Fortuna Düsseldorf,Germany,Loan,Out,2011,w,1-bundesliga
+1. FC Köln,Alexandru Ionita,22,Romania,Centre-Forward,CF,£675Th.,FC Rapid 1923,Romania,Loan,Out,2011,w,1-bundesliga
+1. FC Köln,Sebastian Freis,26,Germany,Centre-Forward,CF,£675Th.,SC Freiburg,Germany,Free transfer,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Martin Amedick,29,Germany,Centre-Back,CB,£2.25m,Eintracht Frankfurt,Germany,£315Th.,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Clemens Walch,24,Austria,Right Midfield,RM,£675Th.,SG Dynamo Dresden,Germany,Loan,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Iliyan Mitsanski,26,Bulgaria,Centre-Forward,CF,£675Th.,FSV Frankfurt,Germany,Loan,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Gil Vermouth,26,Israel,Right Midfield,RM,£1.35m,De Graafschap Doetinchem,Netherlands,Loan,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Chadli Amri,27,Algeria,Right Winger,RW,£450Th.,FSV Frankfurt,Germany,Loan,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Jiri Bilek,28,Czech Republic,Centre-Back,CB,£1.13m,Zaglebie Lubin,Poland,Free transfer,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Adam Nemec,26,Slovakia,Centre-Forward,CF,£1.35m,FC Ingolstadt 04,Germany,Free transfer,Out,2011,w,1-bundesliga
+1.FC Kaiserslautern,Stiven Rivic,26,Croatia,Attacking Midfield,AM,£540Th.,,Without Club,-,Out,2011,w,1-bundesliga

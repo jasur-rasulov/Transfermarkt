@@ -1,7 +1,7 @@
 Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
 Arsenal FC,Giovanni van Bronckhorst,26,Netherlands,Left-Back,LB,-,Rangers FC,Scotland,£12.15m,In,2001,s,premier-league
 Arsenal FC,Richard Wright,23,England,Goalkeeper,GK,-,Ipswich Town,England,£8.10m,In,2001,s,premier-league
-Arsenal FC,Júan,19,Brazil,Attacking Midfield,AM,-,FC São Paulo B,Brazil,£315k,In,2001,s,premier-league
+Arsenal FC,Júan,19,Brazil,Attacking Midfield,AM,-,FC São Paulo B,Brazil,£315Th.,In,2001,s,premier-league
 Arsenal FC,Junichi Inamoto,21,Japan,Defensive Midfield,DM,-,Gamba Osaka,Japan,Loan,In,2001,s,premier-league
 Arsenal FC,Sol Campbell,26,England,Centre-Back,CB,-,Tottenham Hotspur,England,Free transfer,In,2001,s,premier-league
 Arsenal FC,Ólafur Ingi Skúlason,18,Iceland,Defensive Midfield,DM,-,Fylkir Reykjavík,Iceland,Free transfer,In,2001,s,premier-league
@@ -57,25 +57,25 @@ Blackburn Rovers,Alan Kelly,32,Ireland,Goalkeeper,GK,-,Stockport County,England,
 Blackburn Rovers,Egil Östenstad,29,Norway,Centre-Forward,CF,-,Manchester City,England,"End of loanJun 30, 2001",In,2001,s,premier-league
 Southampton FC,Rory Delap,24,Ireland,Central Midfield,CM,-,Derby County,England,£5.40m,In,2001,s,premier-league
 Southampton FC,Mark Draper,30,England,Attacking Midfield,AM,-,Aston Villa,England,£2.03m,In,2001,s,premier-league
-Southampton FC,Anders Svensson,24,Sweden,Defensive Midfield,DM,-,IF Elfsborg,Sweden,£810k,In,2001,s,premier-league
+Southampton FC,Anders Svensson,24,Sweden,Defensive Midfield,DM,-,IF Elfsborg,Sweden,£810Th.,In,2001,s,premier-league
 Southampton FC,Paul Murray,24,England,Central Midfield,CM,-,Queens Park Rangers,England,Free transfer,In,2001,s,premier-league
 Southampton FC,Scott Bevan,22,England,Goalkeeper,GK,-,Woking FC,England,"End of loanMay 1, 2002",In,2001,s,premier-league
 Southampton FC,Scott McDonald,17,Australia,Centre-Forward,CF,-,Southampton FC U18,England,-,In,2001,s,premier-league
 Southampton FC,Michael Green,16,England,Right-Back,RB,-,Southampton FC U18,England,-,In,2001,s,premier-league
-Southampton FC,Dani Rodrigues,21,Portugal,Left Winger,LW,-,Bristol City,England,"End of loanJun 30, 2001",In,2001,s,premier-league
 Southampton FC,Adrián Cáceres,19,Australia,Central Midfield,CM,-,Brentford FC,England,"End of loanJun 30, 2001",In,2001,s,premier-league
+Southampton FC,Dani Rodrigues,21,Portugal,Left Winger,LW,-,Bristol City,England,"End of loanJun 30, 2001",In,2001,s,premier-league
 Sunderland AFC,Bernt Haas,23,Switzerland,Right-Back,RB,-,Grasshopper Club Zurich,Switzerland,£10.62m,In,2001,s,premier-league
 Sunderland AFC,Lilian Laslandes,29,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,£5.40m,In,2001,s,premier-league
 Sunderland AFC,Nicolás Medina,19,Argentina,Defensive Midfield,DM,-,Asociación Atlética Argentinos Juniors,Argentina,£4.73m,In,2001,s,premier-league
 Sunderland AFC,Jason McAteer,30,Ireland,Right Midfield,RM,-,Blackburn Rovers,England,£2.70m,In,2001,s,premier-league
-Sunderland AFC,Sean Thornton,18,Ireland,Central Midfield,CM,-,Tranmere Rovers,England,£252k,In,2001,s,premier-league
+Sunderland AFC,Sean Thornton,18,Ireland,Central Midfield,CM,-,Tranmere Rovers,England,£252Th.,In,2001,s,premier-league
 Sunderland AFC,David Bellion,18,France,Centre-Forward,CF,-,AS Cannes,France,Free transfer,In,2001,s,premier-league
 Sunderland AFC,Stanislav Varga,29,Slovakia,Centre-Back,CB,-,West Bromwich Albion,England,"End of loanApr 1, 2002",In,2001,s,premier-league
 Sunderland AFC,Cliff Byrne,19,Ireland,Right-Back,RB,-,Sunderland AFC U18,England,-,In,2001,s,premier-league
 Sunderland AFC,Michael Proctor,21,England,Centre-Forward,CF,-,York City,England,"End of loanApr 1, 2002",In,2001,s,premier-league
-Bolton Wanderers,Henrik Pedersen,26,Denmark,Centre-Forward,CF,-,Silkeborg IF,Denmark,£810k,In,2001,s,premier-league
-Bolton Wanderers,Bruno N'Gotty,30,France,Centre-Back,CB,-,Olympique Marseille,France,£675k,In,2001,s,premier-league
-Bolton Wanderers,Jonathan Walters,17,Ireland,Right Winger,RW,-,Blackburn Rovers U18,England,£45k,In,2001,s,premier-league
+Bolton Wanderers,Henrik Pedersen,26,Denmark,Centre-Forward,CF,-,Silkeborg IF,Denmark,£810Th.,In,2001,s,premier-league
+Bolton Wanderers,Bruno N'Gotty,30,France,Centre-Back,CB,-,Olympique Marseille,France,£675Th.,In,2001,s,premier-league
+Bolton Wanderers,Jonathan Walters,17,Ireland,Right Winger,RW,-,Blackburn Rovers U18,England,£45Th.,In,2001,s,premier-league
 Bolton Wanderers,Rod Wallace,31,England,Right Winger,RW,-,Rangers FC,Scotland,Free transfer,In,2001,s,premier-league
 Bolton Wanderers,Kevin Poole,38,England,Goalkeeper,GK,-,Birmingham City,England,Free transfer,In,2001,s,premier-league
 Bolton Wanderers,Nicky Southall,29,England,Right Midfield,RM,-,Gillingham FC,England,Free transfer,In,2001,s,premier-league
@@ -124,18 +124,19 @@ Chelsea FC,Frank Lampard,23,England,Central Midfield,CM,-,West Ham United,Englan
 Chelsea FC,Boudewijn Zenden,24,Netherlands,Left Winger,LW,-,FC Barcelona,Spain,£11.61m,In,2001,s,premier-league
 Chelsea FC,Emmanuel Petit,30,France,Defensive Midfield,DM,-,FC Barcelona,Spain,£10.35m,In,2001,s,premier-league
 Chelsea FC,William Gallas,23,France,Centre-Back,CB,-,Olympique Marseille,France,£8.37m,In,2001,s,premier-league
-Chelsea FC,Sam Parkin,21,Scotland,Centre-Forward,CF,-,Northampton Town,England,"End of loanApr 1, 2002",In,2001,s,premier-league
-Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Huddersfield Town,England,"End of loanMay 1, 2002",In,2001,s,premier-league
 Chelsea FC,Warren Cummings,21,Scotland,Left-Back,LB,-,West Bromwich Albion,England,"End of loanApr 1, 2002",In,2001,s,premier-league
 Chelsea FC,Joel Kitamirike,17,Uganda,Centre-Back,CB,-,Chelsea FC U18,England,-,In,2001,s,premier-league
 Chelsea FC,Rhys Evans,20,England,Goalkeeper,GK,-,Queens Park Rangers,England,"End of loanApr 21, 2002",In,2001,s,premier-league
 Chelsea FC,Carlton Cole,17,England,Centre-Forward,CF,-,Chelsea FC U18,England,-,In,2001,s,premier-league
+Chelsea FC,Sam Parkin,21,Scotland,Centre-Forward,CF,-,Northampton Town,England,"End of loanApr 1, 2002",In,2001,s,premier-league
+Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Huddersfield Town,England,"End of loanMay 1, 2002",In,2001,s,premier-league
 Middlesbrough FC,Gareth Southgate,30,England,Centre-Back,CB,-,Aston Villa,England,£8.78m,In,2001,s,premier-league
 Middlesbrough FC,Szilard Nemeth,23,Slovakia,Second Striker,SS,-,Inter Bratislava,Slovakia,£6.08m,In,2001,s,premier-league
 Middlesbrough FC,Jonathan Greening,22,England,Central Midfield,CM,-,Manchester United,England,£2.70m,In,2001,s,premier-league
 Middlesbrough FC,Mark Wilson,22,England,Central Midfield,CM,-,Manchester United,England,£2.07m,In,2001,s,premier-league
-Middlesbrough FC,Allan Johnston,27,Scotland,Right Midfield,RM,-,Rangers FC,Scotland,£810k,In,2001,s,premier-league
+Middlesbrough FC,Allan Johnston,27,Scotland,Right Midfield,RM,-,Rangers FC,Scotland,£810Th.,In,2001,s,premier-league
 Middlesbrough FC,Franck Queudrue,23,France,Left-Back,LB,-,RC Lens,France,Loan,In,2001,s,premier-league
+Middlesbrough FC,Anthony Ormerod,22,Ireland,Right Winger,RW,-,Hartlepool United,England,"End of loanOct 21, 2001",In,2001,s,premier-league
 Middlesbrough FC,Steve Baker,23,England,Defender,Defender,-,Scarborough Athletic,England,"End of loanApr 27, 2002",In,2001,s,premier-league
 Middlesbrough FC,Phil Stamp,25,England,Midfielder,Midfielder,-,Millwall FC,England,"End of loanSep 20, 2001",In,2001,s,premier-league
 Middlesbrough FC,Steve Vickers,34,England,Centre-Back,CB,-,Crystal Palace,England,"End of loanOct 24, 2001",In,2001,s,premier-league
@@ -143,13 +144,12 @@ Middlesbrough FC,Sam Russell,19,England,Goalkeeper,GK,-,Gateshead FC,England,"En
 Middlesbrough FC,David Murphy,17,England,Left-Back,LB,-,Middlesbrough FC U18,England,-,In,2001,s,premier-league
 Middlesbrough FC,Mark Summerbell,24,England,Midfielder,Midfielder,-,Bristol City,England,"End of loanOct 1, 2001",In,2001,s,premier-league
 Middlesbrough FC,Mark Summerbell,25,England,Midfielder,Midfielder,-,Portsmouth FC,England,"End of loanApr 1, 2002",In,2001,s,premier-league
-Middlesbrough FC,Anthony Ormerod,22,Ireland,Right Winger,RW,-,Hartlepool United,England,"End of loanOct 21, 2001",In,2001,s,premier-league
 Ipswich Town,Matteo Sereni,26,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,£5.63m,In,2001,s,premier-league
 Ipswich Town,Finidi George,30,Nigeria,Right Winger,RW,-,RCD Mallorca,Spain,£3.78m,In,2001,s,premier-league
 Ipswich Town,Thomas Gaardsöe,22,Denmark,Centre-Back,CB,-,Aalborg BK,Denmark,£1.62m,In,2001,s,premier-league
-Ipswich Town,Tommy Miller,22,England,Central Midfield,CM,-,Hartlepool United,England,£990k,In,2001,s,premier-league
-Ipswich Town,Chris Hogg,16,England,Centre-Back,CB,-,York City,England,£203k,In,2001,s,premier-league
-Ipswich Town,Sixto Peralta,22,Argentina,Central Midfield,CM,-,FC Internazionale,Italy,Loan fee:£180k,In,2001,s,premier-league
+Ipswich Town,Tommy Miller,22,England,Central Midfield,CM,-,Hartlepool United,England,£990Th.,In,2001,s,premier-league
+Ipswich Town,Chris Hogg,16,England,Centre-Back,CB,-,York City,England,£203Th.,In,2001,s,premier-league
+Ipswich Town,Sixto Peralta,22,Argentina,Central Midfield,CM,-,FC Internazionale,Italy,Loan fee:£180Th.,In,2001,s,premier-league
 Ipswich Town,Andy Marshall,26,England,Goalkeeper,GK,-,Norwich City,England,Free transfer,In,2001,s,premier-league
 Ipswich Town,Pablo Couñago,21,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,Free transfer,In,2001,s,premier-league
 Ipswich Town,Amir Karic,27,Slovenia,Left-Back,LB,-,Crystal Palace,England,?,In,2001,s,premier-league
@@ -162,9 +162,9 @@ Ipswich Town,Wayne Brown,24,England,Centre-Back,CB,-,Watford FC,England,"End of 
 Ipswich Town,Darren Bent,17,England,Centre-Forward,CF,-,Ipswich Town U18,England,-,In,2001,s,premier-league
 Newcastle United,Laurent Robert,26,France,Left Winger,LW,-,Paris Saint-Germain,France,£12.89m,In,2001,s,premier-league
 Newcastle United,Craig Bellamy,21,Wales,Left Winger,LW,-,Coventry City,England,£8.10m,In,2001,s,premier-league
-Newcastle United,Sylvain Distin,23,France,Centre-Back,CB,-,Paris Saint-Germain,France,Loan fee:£675k,In,2001,s,premier-league
+Newcastle United,Sylvain Distin,23,France,Centre-Back,CB,-,Paris Saint-Germain,France,Loan fee:£675Th.,In,2001,s,premier-league
 Newcastle United,Robbie Elliott,27,England,Left-Back,LB,-,Bolton Wanderers,England,Free transfer,In,2001,s,premier-league
-Newcastle United,Ryan McGuffie,20,Scotland,Right-Back,RB,-,Annan Athletic FC ,Scotland,£9k,In,2001,s,premier-league
+Newcastle United,Ryan McGuffie,20,Scotland,Right-Back,RB,-,Annan Athletic FC ,Scotland,£9Th.,In,2001,s,premier-league
 Newcastle United,Robert Middleby,25,Australia,Right-Back,RB,-,South Coast Wolves FC,Australia,?,In,2001,s,premier-league
 Newcastle United,Stuart Green,20,England,Right Winger,RW,-,Carlisle United,England,"End of loanApr 1, 2002",In,2001,s,premier-league
 Newcastle United,Richard Offiong,17,England,Centre-Forward,CF,-,Newcastle United U18,England,-,In,2001,s,premier-league
@@ -185,7 +185,7 @@ Fulham FC,Elvis Hammond,21,Ghana,Centre-Forward,CF,-,Bristol Rovers,England,"End
 Manchester United,Juan Sebastián Verón,26,Argentina,Central Midfield,CM,-,SS Lazio,Italy,£38.34m,In,2001,s,premier-league
 Manchester United,Ruud van Nistelrooy,25,Netherlands,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,£25.65m,In,2001,s,premier-league
 Manchester United,Roy Carroll,23,Northern Ireland,Goalkeeper,GK,-,Wigan Athletic,England,£2.70m,In,2001,s,premier-league
-Manchester United,Luke Steele,16,England,Goalkeeper,GK,-,Peterborough United,England,£675k,In,2001,s,premier-league
+Manchester United,Luke Steele,16,England,Goalkeeper,GK,-,Peterborough United,England,£675Th.,In,2001,s,premier-league
 Manchester United,Laurent Blanc,35,France,Sweeper,SW,-,FC Internazionale,Italy,Free transfer,In,2001,s,premier-league
 Manchester United,Jimmy Davis,19,England,Left Winger,LW,-,Royal Antwerp FC,Belgium,Free transfer,In,2001,s,premier-league
 Manchester United,Danny Webber,20,England,Centre-Forward,CF,-,Watford FC,England,"End of loanApr 1, 2002",In,2001,s,premier-league
@@ -200,8 +200,8 @@ Leicester City,Matthew Jones,20,Wales,Central Midfield,CM,-,Leeds United,England
 Leicester City,James Scowcroft,25,England,Forward,Forward,-,Ipswich Town,England,£4.05m,In,2001,s,premier-league
 Leicester City,Ian Walker,29,England,Goalkeeper,GK,-,Tottenham Hotspur,England,£3.38m,In,2001,s,premier-league
 Leicester City,Dennis Wise,34,England,Defensive Midfield,DM,-,Chelsea FC,England,£3.15m,In,2001,s,premier-league
-Leicester City,Brian Deane,33,England,Centre-Forward,CF,-,Middlesbrough FC,England,£225k,In,2001,s,premier-league
-Leicester City,Ashley Lyth,19,England,Right-Back,RB,-,Scarborough Athletic,England,£135k,In,2001,s,premier-league
+Leicester City,Brian Deane,33,England,Centre-Forward,CF,-,Middlesbrough FC,England,£225Th.,In,2001,s,premier-league
+Leicester City,Ashley Lyth,19,England,Right-Back,RB,-,Scarborough Athletic,England,£135Th.,In,2001,s,premier-league
 Leicester City,Simon Royce,30,England,Goalkeeper,GK,-,Manchester City,England,"End of loanApr 1, 2002",In,2001,s,premier-league
 Leicester City,Tommy Wright,16,England,Centre-Forward,CF,-,Leicester City U18,England,-,In,2001,s,premier-league
 Leicester City,Damien Delaney,20,Ireland,Centre-Back,CB,-,Huddersfield Town,England,"End of loanMay 2, 2002",In,2001,s,premier-league
@@ -210,28 +210,28 @@ Leicester City,Michael Price,18,England,Goalkeeper,GK,-,Leicester City U18,Engla
 Leicester City,Junior Lewis,28,England,Left Winger,LW,-,Brighton & Hove Albion,England,"End of loanMay 1, 2002",In,2001,s,premier-league
 Arsenal FC,Nelson Vivas,31,Argentina,Right-Back,RB,-,FC Internazionale,Italy,£6.30m,Out,2001,s,premier-league
 Arsenal FC,Sylvinho,27,Brazil,Left-Back,LB,-,Celta de Vigo,Spain,£3.42m,Out,2001,s,premier-league
-Arsenal FC,Stefan Malz,29,Germany,Left-Back,LB,-,1.FC Kaiserslautern,Germany,£810k,Out,2001,s,premier-league
-Arsenal FC,Guy Demel,20,Cote d'Ivoire,Right-Back,RB,-,Borussia Dortmund,Germany,£270k,Out,2001,s,premier-league
+Arsenal FC,Stefan Malz,29,Germany,Left-Back,LB,-,1.FC Kaiserslautern,Germany,£810Th.,Out,2001,s,premier-league
+Arsenal FC,Guy Demel,20,Cote d'Ivoire,Right-Back,RB,-,Borussia Dortmund,Germany,£270Th.,Out,2001,s,premier-league
 Arsenal FC,Tomas Danilevicius,22,Lithuania,Centre-Forward,CF,-,KSK Beveren,Belgium,Loan,Out,2001,s,premier-league
 Arsenal FC,David Grondin,21,France,Left-Back,LB,-,KSK Beveren,Belgium,Loan,Out,2001,s,premier-league
 Arsenal FC,Lee Canoville,20,England,Right-Back,RB,-,Torquay United FC,England,Free transfer,Out,2001,s,premier-league
+Arsenal FC,Graham Barrett,19,Ireland,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,2001,s,premier-league
 Arsenal FC,Graham Barrett,19,Ireland,Centre-Forward,CF,-,Colchester United,England,Loan,Out,2001,s,premier-league
 Arsenal FC,Ólafur Ingi Skúlason,18,Iceland,Defensive Midfield,DM,-,Fylkir Reykjavík,Iceland,Loan,Out,2001,s,premier-league
 Arsenal FC,Alexander Manninger,24,Austria,Goalkeeper,GK,-,AC Fiorentina,Italy,Loan,Out,2001,s,premier-league
-Arsenal FC,Graham Barrett,19,Ireland,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,2001,s,premier-league
 Arsenal FC,John Lukic,40,England,Goalkeeper,GK,-,,Retired,-,Out,2001,s,premier-league
 Derby County,Seth Johnson,22,England,Central Midfield,CM,-,Leeds United,England,£10.35m,Out,2001,s,premier-league
 Derby County,Rory Delap,24,Ireland,Central Midfield,CM,-,Southampton FC,England,£5.40m,Out,2001,s,premier-league
-Derby County,Con Blatsis,24,Australia,Centre-Back,CB,-,Colchester United,England,Loan,Out,2001,s,premier-league
 Derby County,Bjørn Otto Bragstad,30,Norway,Centre-Back,CB,-,Birmingham City,England,Loan,Out,2001,s,premier-league
 Derby County,Ian Evatt,19,England,Centre-Back,CB,-,Northampton Town,England,Loan,Out,2001,s,premier-league
 Derby County,Jacob Laursen,29,Denmark,Centre-Back,CB,-,FC Copenhagen,Denmark,Free transfer,Out,2001,s,premier-league
+Derby County,Con Blatsis,24,Australia,Centre-Back,CB,-,Colchester United,England,Loan,Out,2001,s,premier-league
 Derby County,Lilian Martin,30,France,Right-Back,RB,-,Olympique de Marseille B,France,?,Out,2001,s,premier-league
 Derby County,Stefano Eranio,34,Italy,Right Midfield,RM,-,AC Pro Sesto,Italy,?,Out,2001,s,premier-league
 Derby County,Taribo West,27,Nigeria,Left-Back,LB,-,Milan AC,Italy,"End of loanJun 30, 2001",Out,2001,s,premier-league
 Derby County,Thórdur Gudjónsson,27,Iceland,Right Winger,RW,-,UD Las Palmas,Spain,"End of loanJun 30, 2001",Out,2001,s,premier-league
 Everton FC,Michael Ball,21,England,Left-Back,LB,-,Rangers FC,Scotland,£8.78m,Out,2001,s,premier-league
-Everton FC,Phil Jevons,21,England,Centre-Forward,CF,-,Grimsby Town,England,£338k,Out,2001,s,premier-league
+Everton FC,Phil Jevons,21,England,Centre-Forward,CF,-,Grimsby Town,England,£338Th.,Out,2001,s,premier-league
 Everton FC,Stephen Hughes,24,England,Defensive Midfield,DM,-,Watford FC,England,Free transfer,Out,2001,s,premier-league
 Everton FC,Peter Degn,24,Denmark,Right Midfield,RM,-,Bröndby IF,Denmark,Free transfer,Out,2001,s,premier-league
 Everton FC,Danny Cadamarteri,21,England,Right Winger,RW,-,Bradford City,England,Free transfer,Out,2001,s,premier-league
@@ -239,10 +239,10 @@ Everton FC,Alec Cleland,31,Scotland,Right-Back,RB,-,,Retired,-,Out,2001,s,premie
 Everton FC,Richard Gough,39,Scotland,Centre-Back,CB,-,,Retired,-,Out,2001,s,premier-league
 Everton FC,Pablo Paz,28,Argentina,Centre-Back,CB,-,CD Tenerife,Spain,"End of loanJun 30, 2001",Out,2001,s,premier-league
 Liverpool FC,Christian Ziege,29,Germany,Left Midfield,LM,-,Tottenham Hotspur,England,£5.85m,Out,2001,s,premier-league
-Liverpool FC,Djimi Traoré,21,Mali,Centre-Back,CB,-,RC Lens,France,Loan,Out,2001,s,premier-league
 Liverpool FC,John Miles,20,England,Forward,Forward,-,Stoke City,England,Free transfer,Out,2001,s,premier-league
 Liverpool FC,Kevin Doherty,21,Ireland,Centre-Back,CB,-,Shelbourne FC,Ireland,Free transfer,Out,2001,s,premier-league
 Liverpool FC,Alan Navarro,20,England,Defensive Midfield,DM,-,Crewe Alexandra,England,Loan,Out,2001,s,premier-league
+Liverpool FC,Djimi Traoré,21,Mali,Centre-Back,CB,-,RC Lens,France,Loan,Out,2001,s,premier-league
 Liverpool FC,Leyton Maxwell,21,Wales,Central Midfield,CM,-,Cardiff City,Wales,?,Out,2001,s,premier-league
 Tottenham Hotspur,Luke Young,21,England,Right-Back,RB,-,Charlton Athletic,England,£5.40m,Out,2001,s,premier-league
 Tottenham Hotspur,Ian Walker,29,England,Goalkeeper,GK,-,Leicester City,England,£3.38m,Out,2001,s,premier-league
@@ -252,7 +252,7 @@ Tottenham Hotspur,Matthew Etherington,20,England,Left Midfield,LM,-,Bradford Cit
 Tottenham Hotspur,Dave McEwen,23,England,Forward,Forward,-,Queens Park Rangers,England,?,Out,2001,s,premier-league
 Tottenham Hotspur,Hans Segers,39,Netherlands,Goalkeeper,GK,-,,Retired,-,Out,2001,s,premier-league
 Blackburn Rovers,Jason McAteer,30,Ireland,Right Midfield,RM,-,Sunderland AFC,England,£2.70m,Out,2001,s,premier-league
-Blackburn Rovers,John Filan,31,Australia,Goalkeeper,GK,-,Wigan Athletic,England,£720k,Out,2001,s,premier-league
+Blackburn Rovers,John Filan,31,Australia,Goalkeeper,GK,-,Wigan Athletic,England,£720Th.,Out,2001,s,premier-league
 Blackburn Rovers,James Thomas,23,Wales,Forward,Forward,-,Swansea City,Wales,Free transfer,Out,2001,s,premier-league
 Blackburn Rovers,Peter Murphy,20,Ireland,Centre-Back,CB,-,Carlisle United,England,Free transfer,Out,2001,s,premier-league
 Blackburn Rovers,Marc Richards,19,England,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,2001,s,premier-league
@@ -275,22 +275,23 @@ Southampton FC,David Howells,33,England,Defensive Midfield,DM,-,Hartley Wintney 
 Sunderland AFC,Don Hutchison,30,Scotland,Attacking Midfield,AM,-,West Ham United,England,£6.75m,Out,2001,s,premier-league
 Sunderland AFC,Danny Dichio,26,England,Centre-Forward,CF,-,West Bromwich Albion,England,£2.01m,Out,2001,s,premier-league
 Sunderland AFC,Alex Rae,31,Scotland,Central Midfield,CM,-,Wolverhampton Wanderers,England,£1.62m,Out,2001,s,premier-league
-Sunderland AFC,Carsten Fredgaard,25,Denmark,Left-Back,LB,-,FC Copenhagen,Denmark,£743k,Out,2001,s,premier-league
-Sunderland AFC,Chris Lumsdon,21,England,Central Midfield,CM,-,Barnsley FC,England,£428k,Out,2001,s,premier-league
+Sunderland AFC,Carsten Fredgaard,25,Denmark,Left-Back,LB,-,FC Copenhagen,Denmark,£743Th.,Out,2001,s,premier-league
+Sunderland AFC,Chris Lumsdon,21,England,Central Midfield,CM,-,Barnsley FC,England,£428Th.,Out,2001,s,premier-league
 Sunderland AFC,Brendan McGill,20,Ireland,Right Winger,RW,-,Carlisle United,England,Free transfer,Out,2001,s,premier-league
 Sunderland AFC,Michael Proctor,20,England,Centre-Forward,CF,-,York City,England,Loan,Out,2001,s,premier-league
 Sunderland AFC,John Oster,22,Wales,Central Midfield,CM,-,Barnsley FC,England,Loan,Out,2001,s,premier-league
 Sunderland AFC,Dene Shields,18,Scotland,Centre-Forward,CF,-,Scarborough Athletic,England,Loan,Out,2001,s,premier-league
 Sunderland AFC,Milton Núñez,28,Honduras,Centre-Forward,CF,-,Club Nacional,Uruguay,?,Out,2001,s,premier-league
-Bolton Wanderers,Matt Glennon,22,England,Goalkeeper,GK,-,Hull City,England,£63k,Out,2001,s,premier-league
+Bolton Wanderers,Matt Glennon,22,England,Goalkeeper,GK,-,Hull City,England,£63Th.,Out,2001,s,premier-league
 Bolton Wanderers,Henrik Pedersen,26,Denmark,Centre-Forward,CF,-,Silkeborg IF,Denmark,Loan,Out,2001,s,premier-league
 Bolton Wanderers,Tommy Wright,37,Northern Ireland,Goalkeeper,GK,-,Ballymena United,Northern Ireland,Free transfer,Out,2001,s,premier-league
 Bolton Wanderers,Robbie Elliott,27,England,Left-Back,LB,-,Newcastle United,England,Free transfer,Out,2001,s,premier-league
 Bolton Wanderers,John O'Kane,26,England,Defender,Defender,-,Blackpool FC,England,?,Out,2001,s,premier-league
 Bolton Wanderers,Gary Haveron,20,Northern Ireland,Defender,Defender,-,Yeovil Town,England,?,Out,2001,s,premier-league
+Bolton Wanderers,Jimmy Phillips,35,England,Left-Back,LB,-,,Retired,-,Out,2001,s,premier-league
 Bolton Wanderers,Franck Passi,35,France,Defensive Midfield,DM,-,,Retired,-,Out,2001,s,premier-league
-Charlton Athletic,Shaun Newton,25,England,Right Midfield,RM,-,Wolverhampton Wanderers,England,£900k,Out,2001,s,premier-league
-Charlton Athletic,Danny Shittu,21,Nigeria,Centre-Back,CB,-,Queens Park Rangers,England,£338k,Out,2001,s,premier-league
+Charlton Athletic,Shaun Newton,25,England,Right Midfield,RM,-,Wolverhampton Wanderers,England,£900Th.,Out,2001,s,premier-league
+Charlton Athletic,Danny Shittu,21,Nigeria,Centre-Back,CB,-,Queens Park Rangers,England,£338Th.,Out,2001,s,premier-league
 Charlton Athletic,Tony Caig,27,England,Goalkeeper,GK,-,Hibernian FC,Scotland,Free transfer,Out,2001,s,premier-league
 Charlton Athletic,Karim Bagheri,27,Iran,Defensive Midfield,DM,-,Al Sadd Sports Club,Qatar,Free transfer,Out,2001,s,premier-league
 Charlton Athletic,Simon Ford,19,Jamaica,Centre-Back,CB,-,Grimsby Town,England,Free transfer,Out,2001,s,premier-league
@@ -309,9 +310,9 @@ West Ham United,Stuart Pearce,39,England,Left-Back,LB,-,Manchester City,England,
 West Ham United,Gavin Holligan,21,England,Centre-Forward,CF,-,Wycombe Wanderers,England,?,Out,2001,s,premier-league
 West Ham United,Javier Margas,32,Chile,Centre-Back,CB,-,,Retired,-,Out,2001,s,premier-league
 Leeds United,Matthew Jones,20,Wales,Central Midfield,CM,-,Leicester City,England,£4.05m,Out,2001,s,premier-league
-Leeds United,Alan Maybury,23,Ireland,Right-Back,RB,-,Heart of Midlothian FC,Scotland,£68k,Out,2001,s,premier-league
-Leeds United,Harpal Singh,19,India,Left Midfield,LM,-,Bury FC,England,Loan,Out,2001,s,premier-league
+Leeds United,Alan Maybury,23,Ireland,Right-Back,RB,-,Heart of Midlothian FC,Scotland,£68Th.,Out,2001,s,premier-league
 Leeds United,Caleb Folan,18,Ireland,Centre-Forward,CF,-,Rushden & Diamonds (liq.),England,Loan,Out,2001,s,premier-league
+Leeds United,Harpal Singh,19,India,Left Midfield,LM,-,Bury FC,England,Loan,Out,2001,s,premier-league
 Leeds United,Gareth Evans,20,England,Defender,Defender,-,Huddersfield Town,England,?,Out,2001,s,premier-league
 Leeds United,David Robertson,32,Scotland,Left-Back,LB,-,,Retired,-,Out,2001,s,premier-league
 Leeds United,Robbie Keane,20,Ireland,Centre-Forward,CF,-,FC Internazionale,Italy,"End of loanJun 30, 2001",Out,2001,s,premier-league
@@ -330,16 +331,16 @@ Chelsea FC,Jon Harley,21,England,Left-Back,LB,-,Fulham FC,England,£4.73m,Out,20
 Chelsea FC,Dennis Wise,34,England,Defensive Midfield,DM,-,Leicester City,England,£3.15m,Out,2001,s,premier-league
 Chelsea FC,Gustavo Poyet,33,Uruguay,Attacking Midfield,AM,-,Tottenham Hotspur,England,£3.06m,Out,2001,s,premier-league
 Chelsea FC,Frank Leboeuf,33,France,Centre-Back,CB,-,Olympique Marseille,France,£1.62m,Out,2001,s,premier-league
-Chelsea FC,Bernard Lambourde,30,France,Centre-Back,CB,-,SC Bastia,France,£333k,Out,2001,s,premier-league
+Chelsea FC,Bernard Lambourde,30,France,Centre-Back,CB,-,SC Bastia,France,£333Th.,Out,2001,s,premier-league
+Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Huddersfield Town,England,Loan,Out,2001,s,premier-league
 Chelsea FC,Neil Barrett,19,England,Right Midfield,RM,-,Portsmouth FC,England,Free transfer,Out,2001,s,premier-league
 Chelsea FC,Warren Cummings,20,Scotland,Left-Back,LB,-,West Bromwich Albion,England,Loan,Out,2001,s,premier-league
 Chelsea FC,Sam Parkin,20,Scotland,Centre-Forward,CF,-,Northampton Town,England,Loan,Out,2001,s,premier-league
-Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Huddersfield Town,England,Loan,Out,2001,s,premier-league
 Chelsea FC,Rati Aleksidze,22,Georgia,Centre-Forward,CF,-,Dinamo Tbilisi,Georgia,?,Out,2001,s,premier-league
 Chelsea FC,Jes Högh,35,Denmark,Centre-Back,CB,-,,Retired,-,Out,2001,s,premier-league
 Chelsea FC,Pierre Issa,25,South Africa,Centre-Back,CB,-,Olympique Marseille,France,"End of loanJun 1, 2001",Out,2001,s,premier-league
 Middlesbrough FC,Christian Karembeu,30,France,Defensive Midfield,DM,-,Olympiacos Piraeus,Greece,£2.70m,Out,2001,s,premier-league
-Middlesbrough FC,Brian Deane,33,England,Centre-Forward,CF,-,Leicester City,England,£225k,Out,2001,s,premier-league
+Middlesbrough FC,Brian Deane,33,England,Centre-Forward,CF,-,Leicester City,England,£225Th.,Out,2001,s,premier-league
 Middlesbrough FC,Alan Moore,26,Ireland,Midfielder,Midfielder,-,Burnley FC,England,Free transfer,Out,2001,s,premier-league
 Middlesbrough FC,Hámilton Ricard,27,Colombia,Centre-Forward,CF,-,CSKA Sofia,Bulgaria,Free transfer,Out,2001,s,premier-league
 Middlesbrough FC,Chris Bennion,21,Scotland,Goalkeeper,GK,-,Scunthorpe United,England,Free transfer,Out,2001,s,premier-league
@@ -356,7 +357,7 @@ Ipswich Town,James Scowcroft,25,England,Forward,Forward,-,Leicester City,England
 Ipswich Town,Adam Miller,19,England,Central Midfield,CM,-,Canvey Island,England,Free transfer,Out,2001,s,premier-league
 Ipswich Town,Wayne Brown,24,England,Centre-Back,CB,-,Wimbledon FC,England,Loan,Out,2001,s,premier-league
 Ipswich Town,John Scales,34,England,Centre-Back,CB,-,,Retired,-,Out,2001,s,premier-league
-Newcastle United,Silvio Maric,26,Croatia,Attacking Midfield,AM,-,FC Porto,Portugal,£270k,Out,2001,s,premier-league
+Newcastle United,Silvio Maric,26,Croatia,Attacking Midfield,AM,-,FC Porto,Portugal,£270Th.,Out,2001,s,premier-league
 Newcastle United,David Beharall,22,England,Defender,Defender,-,Grimsby Town,England,Loan,Out,2001,s,premier-league
 Newcastle United,Stephen Glass,25,Scotland,Left Midfield,LM,-,Watford FC,England,Free transfer,Out,2001,s,premier-league
 Newcastle United,Steven Caldwell,21,Scotland,Centre-Back,CB,-,Blackpool FC,England,Loan,Out,2001,s,premier-league
@@ -365,8 +366,8 @@ Newcastle United,Carlos Daniel Cordone,27,Argentina,Centre-Forward,CF,-,Asociaci
 Newcastle United,Carl Serrant,25,England,Left-Back,LB,-,Bradford Park Avenue,England,?,Out,2001,s,premier-league
 Newcastle United,Kevin Gallacher,34,Scotland,Right Winger,RW,-,Preston North End,England,?,Out,2001,s,premier-league
 Newcastle United,Pablo Bonvín,20,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,"End of loanJun 1, 2001",Out,2001,s,premier-league
-Fulham FC,Kit Symons,30,Wales,Centre-Back,CB,-,Crystal Palace,England,£450k,Out,2001,s,premier-league
-Fulham FC,Paul Peschisolido,30,Canada,Centre-Forward,CF,-,Sheffield United,England,£203k,Out,2001,s,premier-league
+Fulham FC,Kit Symons,30,Wales,Centre-Back,CB,-,Crystal Palace,England,£450Th.,Out,2001,s,premier-league
+Fulham FC,Paul Peschisolido,30,Canada,Centre-Forward,CF,-,Sheffield United,England,£203Th.,Out,2001,s,premier-league
 Fulham FC,Wayne Collins,32,England,Midfielder,Midfielder,-,Crewe Alexandra,England,Free transfer,Out,2001,s,premier-league
 Fulham FC,Marcus Hahnemann,29,United States,Goalkeeper,GK,-,Rochdale AFC,England,Loan,Out,2001,s,premier-league
 Fulham FC,Simon Morgan,34,England,Right-Back,RB,-,Brighton & Hove Albion,England,?,Out,2001,s,premier-league
@@ -376,26 +377,27 @@ Fulham FC,Karl-Heinz Riedle,36,Germany,Centre-Forward,CF,-,,Retired,-,Out,2001,s
 Manchester United,Jaap Stam,29,Netherlands,Centre-Back,CB,-,SS Lazio,Italy,£23.18m,Out,2001,s,premier-league
 Manchester United,Jonathan Greening,22,England,Central Midfield,CM,-,Middlesbrough FC,England,£2.70m,Out,2001,s,premier-league
 Manchester United,Mark Wilson,22,England,Central Midfield,CM,-,Middlesbrough FC,England,£2.07m,Out,2001,s,premier-league
-Manchester United,Alex Notman,21,Scotland,Right Winger,RW,-,Norwich City,England,£315k,Out,2001,s,premier-league
+Manchester United,Alex Notman,21,Scotland,Right Winger,RW,-,Norwich City,England,£315Th.,Out,2001,s,premier-league
 Manchester United,Jesper Blomqvist,27,Sweden,Left Midfield,LM,-,Everton FC,England,Free transfer,Out,2001,s,premier-league
 Manchester United,Mark Lynch,20,England,Right-Back,RB,-,St. Johnstone FC,Scotland,Loan,Out,2001,s,premier-league
 Manchester United,Teddy Sheringham,35,England,Centre-Forward,CF,-,Tottenham Hotspur,England,Free transfer,Out,2001,s,premier-league
 Manchester United,Andy Goram,37,Scotland,Goalkeeper,GK,-,Motherwell FC,Scotland,"End of loanJun 30, 2001",Out,2001,s,premier-league
-Leicester City,Richard Cresswell,23,England,Centre-Forward,CF,-,Preston North End,England,£675k,Out,2001,s,premier-league
-Leicester City,Steve Guppy,32,England,Left Winger,LW,-,Celtic FC,Scotland,£630k,Out,2001,s,premier-league
-Leicester City,Lawrie Dudfield,21,England,Centre-Forward,CF,-,Hull City,England,£338k,Out,2001,s,premier-league
+Leicester City,Richard Cresswell,23,England,Centre-Forward,CF,-,Preston North End,England,£675Th.,Out,2001,s,premier-league
+Leicester City,Steve Guppy,32,England,Left Winger,LW,-,Celtic FC,Scotland,£630Th.,Out,2001,s,premier-league
+Leicester City,Lawrie Dudfield,21,England,Centre-Forward,CF,-,Hull City,England,£338Th.,Out,2001,s,premier-league
 Leicester City,Elvis Hammond,20,Ghana,Centre-Forward,CF,-,Bristol Rovers,England,Loan,Out,2001,s,premier-league
-Leicester City,Tommy Goodwin,21,England,Centre-Back,CB,-,Shepshed Dynamo FC,England,?,Out,2001,s,premier-league
 Leicester City,Fernando Pasquinelli,21,Argentina,Centre-Forward,CF,-,Club Atlético San Telmo,Argentina,?,Out,2001,s,premier-league
+Leicester City,Matthew Nurse,19,England,Goalkeeper,GK,-,Cambridge City,England,?,Out,2001,s,premier-league
+Leicester City,Tommy Goodwin,21,England,Centre-Back,CB,-,Shepshed Dynamo FC,England,?,Out,2001,s,premier-league
 Leicester City,Garry Parker,35,England,Midfielder,Midfielder,-,,Retired,-,Out,2001,s,premier-league
 Arsenal FC,Edú Gaspar,23,Brazil,Central Midfield,CM,-,Sport Club Corinthians Paulista,Brazil,£7.88m,In,2001,w,premier-league
-Arsenal FC,Stathis Tavlaridis,21,Greece,Centre-Back,CB,-,Iraklis Thessaloniki,Greece,£810k,In,2001,w,premier-league
-Arsenal FC,Kolo Touré,20,Cote d'Ivoire,Centre-Back,CB,-,ASEC Mimosas,Cote d'Ivoire,£167k,In,2001,w,premier-league
+Arsenal FC,Stathis Tavlaridis,21,Greece,Centre-Back,CB,-,Iraklis Thessaloniki,Greece,£810Th.,In,2001,w,premier-league
+Arsenal FC,Kolo Touré,20,Cote d'Ivoire,Centre-Back,CB,-,ASEC Mimosas,Cote d'Ivoire,£167Th.,In,2001,w,premier-league
 Arsenal FC,Jermaine Pennant,19,England,Right Winger,RW,-,Watford FC,England,"End of loanFeb 26, 2002",In,2001,w,premier-league
 Arsenal FC,Ólafur Ingi Skúlason,18,Iceland,Defensive Midfield,DM,-,Fylkir Reykjavík,Iceland,"End of loanOct 19, 2001",In,2001,w,premier-league
 Arsenal FC,Liam Chilvers,20,England,Centre-Back,CB,-,Notts County,England,"End of loanFeb 1, 2002",In,2001,w,premier-league
 Derby County,François Grenet,26,France,Right-Back,RB,-,FC Girondins Bordeaux,France,£3.77m,In,2001,w,premier-league
-Derby County,Rob Lee,36,England,Central Midfield,CM,-,Newcastle United,England,£360k,In,2001,w,premier-league
+Derby County,Rob Lee,36,England,Central Midfield,CM,-,Newcastle United,England,£360Th.,In,2001,w,premier-league
 Derby County,Patrick Foletti,27,Switzerland,Goalkeeper,GK,-,FC Luzern,Switzerland,Free transfer,In,2001,w,premier-league
 Derby County,Warren Barton,32,England,Right-Back,RB,-,Newcastle United,England,Free transfer,In,2001,w,premier-league
 Derby County,Benny Carbone,30,Italy,Second Striker,SS,-,Bradford City,England,Loan,In,2001,w,premier-league
@@ -421,7 +423,7 @@ Blackburn Rovers,Marlon Broomes,24,England,Centre-Back,CB,-,Grimsby Town,England
 Southampton FC,Agustín Delgado,27,Ecuador,Centre-Forward,CF,-,Club Necaxa,Mexico,£5.18m,In,2001,w,premier-league
 Southampton FC,Brett Ormerod,25,England,Centre-Forward,CF,-,Blackpool FC,England,£2.39m,In,2001,w,premier-league
 Southampton FC,Fabrice Fernandes,22,France,Left Winger,LW,-,Stade Rennais FC,France,£1.49m,In,2001,w,premier-league
-Southampton FC,Mike Williamson,17,England,Centre-Back,CB,-,Torquay United FC,England,£135k,In,2001,w,premier-league
+Southampton FC,Mike Williamson,17,England,Centre-Back,CB,-,Torquay United FC,England,£135Th.,In,2001,w,premier-league
 Southampton FC,Paul Telfer,30,Scotland,Right-Back,RB,-,Coventry City,England,Free transfer,In,2001,w,premier-league
 Southampton FC,Cléber Chalá,30,Ecuador,Midfielder,Midfielder,-,CD El Nacional,Ecuador,?,In,2001,w,premier-league
 Southampton FC,Uwe Rösler,33,Germany,Centre-Forward,CF,-,West Bromwich Albion,England,"End of loanNov 30, 2001",In,2001,w,premier-league
@@ -432,17 +434,17 @@ Sunderland AFC,Joachim Björklund,30,Sweden,Centre-Back,CB,-,AC Venezia 1907,Ita
 Sunderland AFC,Dene Shields,19,Scotland,Centre-Forward,CF,-,Scarborough Athletic,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Sunderland AFC,Michael Ingham,21,Northern Ireland,Goalkeeper,GK,-,Stoke City,England,"End of loanJan 1, 2002",In,2001,w,premier-league
 Sunderland AFC,John Oster,22,Wales,Central Midfield,CM,-,Barnsley FC,England,"End of loanNov 1, 2001",In,2001,w,premier-league
-Bolton Wanderers,Fredi Bobic,30,Germany,Centre-Forward,CF,-,Borussia Dortmund,Germany,Loan fee:£450k,In,2001,w,premier-league
-Bolton Wanderers,Youri Djorkaeff,33,France,Attacking Midfield,AM,-,1.FC Kaiserslautern,Germany,£450k,In,2001,w,premier-league
-Bolton Wanderers,Derek Niven,17,Scotland,Defensive Midfield,DM,-,Raith Rovers FC,Scotland,£207k,In,2001,w,premier-league
-Bolton Wanderers,Stig Töfting,32,Denmark,Defensive Midfield,DM,-,Hamburger SV,Germany,£180k,In,2001,w,premier-league
-Bolton Wanderers,Konstantinos Konstantinidis,29,Greece,Centre-Back,CB,-,Hertha BSC,Germany,Loan,In,2001,w,premier-league
+Bolton Wanderers,Fredi Bobic,30,Germany,Centre-Forward,CF,-,Borussia Dortmund,Germany,Loan fee:£450Th.,In,2001,w,premier-league
+Bolton Wanderers,Youri Djorkaeff,33,France,Attacking Midfield,AM,-,1.FC Kaiserslautern,Germany,£450Th.,In,2001,w,premier-league
+Bolton Wanderers,Derek Niven,17,Scotland,Defensive Midfield,DM,-,Raith Rovers FC,Scotland,£207Th.,In,2001,w,premier-league
+Bolton Wanderers,Stig Töfting,32,Denmark,Defensive Midfield,DM,-,Hamburger SV,Germany,£180Th.,In,2001,w,premier-league
 Bolton Wanderers,Kevin Poole,38,England,Goalkeeper,GK,-,Birmingham City,England,Free transfer,In,2001,w,premier-league
+Bolton Wanderers,Konstantinos Konstantinidis,29,Greece,Centre-Back,CB,-,Hertha BSC,Germany,Loan,In,2001,w,premier-league
+Bolton Wanderers,Mario Espartero,24,France,Defensive Midfield,DM,-,FC Metz,France,Loan,In,2001,w,premier-league
 Bolton Wanderers,Jani Viander,26,Finland,Goalkeeper,GK,-,HJK Helsinki,Finland,Loan,In,2001,w,premier-league
 Bolton Wanderers,Jeff Cassar,28,United States,Goalkeeper,GK,-,Dallas Burn,United States,?,In,2001,w,premier-league
-Bolton Wanderers,Mario Espartero,24,France,Defensive Midfield,DM,-,FC Metz,France,Loan,In,2001,w,premier-league
-Bolton Wanderers,Colin Hendry,36,Scotland,Centre-Back,CB,-,Preston North End,England,"End of loanMar 1, 2002",In,2001,w,premier-league
 Bolton Wanderers,Ian Marshall,35,England,Centre-Forward,CF,-,Blackpool FC,England,"End of loanDec 31, 2001",In,2001,w,premier-league
+Bolton Wanderers,Colin Hendry,36,Scotland,Centre-Back,CB,-,Preston North End,England,"End of loanMar 1, 2002",In,2001,w,premier-league
 Charlton Athletic,Chris Bart-Williams,27,England,Attacking Midfield,AM,-,Nottingham Forest,England,Free transfer,In,2001,w,premier-league
 Charlton Athletic,John Salako,32,England,Left Midfield,LM,-,Reading FC,England,Loan,In,2001,w,premier-league
 Charlton Athletic,Jorge Costa,30,Portugal,Centre-Back,CB,-,FC Porto,Portugal,Loan,In,2001,w,premier-league
@@ -450,13 +452,13 @@ Charlton Athletic,Ben Roberts,26,England,Goalkeeper,GK,-,Reading FC,England,"End
 Charlton Athletic,Charlie MacDonald,21,England,Centre-Forward,CF,-,Torquay United FC,England,"End of loanMar 17, 2002",In,2001,w,premier-league
 Charlton Athletic,Greg Shields,25,Scotland,Right-Back,RB,-,Walsall FC,England,"End of loanMar 1, 2002",In,2001,w,premier-league
 West Ham United,Vladimír Labant,27,Slovakia,Left-Back,LB,-,AC Sparta Praha,Czech Republic,£1.26m,In,2001,w,premier-league
-West Ham United,David Forde,22,Ireland,Goalkeeper,GK,-,Barry Town United FC,Wales,£99k,In,2001,w,premier-league
+West Ham United,David Forde,22,Ireland,Goalkeeper,GK,-,Barry Town United FC,Wales,£99Th.,In,2001,w,premier-league
 Leeds United,Robbie Fowler,26,England,Centre-Forward,CF,-,Liverpool FC,England,£15.12m,In,2001,w,premier-league
 Leeds United,Seth Johnson,22,England,Central Midfield,CM,-,Derby County,England,£10.35m,In,2001,w,premier-league
-Leeds United,Dejan Milosevic,23,Australia,Goalkeeper,GK,-,Wolverhampton Wanderers,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Leeds United,Caleb Folan,19,Ireland,Centre-Forward,CF,-,Hull City,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Leeds United,Caleb Folan,19,Ireland,Centre-Forward,CF,-,Rushden & Diamonds (liq.),England,"End of loanNov 1, 2001",In,2001,w,premier-league
 Leeds United,Harpal Singh,20,India,Left Midfield,LM,-,Bury FC,England,"End of loanDec 1, 2001",In,2001,w,premier-league
+Leeds United,Dejan Milosevic,23,Australia,Goalkeeper,GK,-,Wolverhampton Wanderers,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Aston Villa,Peter Crouch,21,England,Centre-Forward,CF,-,Portsmouth FC,England,£6.75m,In,2001,w,premier-league
 Aston Villa,Richard Walker,24,England,Centre-Forward,CF,-,Wycombe Wanderers,England,"End of loanDec 1, 2001",In,2001,w,premier-league
 Aston Villa,Jlloyd Samuel,20,Trinidad and Tobago,Defensive Midfield,DM,-,Gillingham FC,England,"End of loanDec 31, 2001",In,2001,w,premier-league
@@ -498,28 +500,28 @@ Manchester United,Neil Wood,19,England,Central Midfield,CM,-,Royal Antwerp FC,Be
 Manchester United,Bojan Djordjic,19,Sweden,Left Winger,LW,-,Sheffield Wednesday,England,"End of loanJan 7, 2002",In,2001,w,premier-league
 Manchester United,Danny Webber,19,England,Centre-Forward,CF,-,Port Vale FC,England,"End of loanDec 1, 2001",In,2001,w,premier-league
 Leicester City,Paul Dickov,29,Scotland,Centre-Forward,CF,-,Manchester City,England,£1.35m,In,2001,w,premier-league
-Leicester City,Jacob Laursen,30,Denmark,Centre-Back,CB,-,FC Copenhagen,Denmark,£540k,In,2001,w,premier-league
-Leicester City,Alan Rogers,24,England,Left-Back,LB,-,Nottingham Forest,England,£405k,In,2001,w,premier-league
+Leicester City,Jacob Laursen,30,Denmark,Centre-Back,CB,-,FC Copenhagen,Denmark,£540Th.,In,2001,w,premier-league
+Leicester City,Alan Rogers,24,England,Left-Back,LB,-,Nottingham Forest,England,£405Th.,In,2001,w,premier-league
 Leicester City,Damien Delaney,20,Ireland,Centre-Back,CB,-,Stockport County,England,"End of loanFeb 11, 2002",In,2001,w,premier-league
 Leicester City,Simon Royce,30,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Leicester City,Matt Piper,20,England,Right Midfield,RM,-,Mansfield Town,England,"End of loanDec 31, 2001",In,2001,w,premier-league
 Leicester City,Jon Stevenson,19,England,Forward,Forward,-,Leicester City U23,England,-,In,2001,w,premier-league
+Arsenal FC,Alberto Méndez,27,Germany,Attacking Midfield,AM,-,Racing Ferrol,Spain,Free transfer,Out,2001,w,premier-league
 Arsenal FC,Liam Chilvers,19,England,Centre-Back,CB,-,Notts County,England,Loan,Out,2001,w,premier-league
 Arsenal FC,Jermaine Pennant,18,England,Right Winger,RW,-,Watford FC,England,Loan,Out,2001,w,premier-league
-Arsenal FC,Alberto Méndez,27,Germany,Attacking Midfield,AM,-,Racing Ferrol,Spain,Free transfer,Out,2001,w,premier-league
 Derby County,Seth Johnson,22,England,Central Midfield,CM,-,Leeds United,England,£10.35m,Out,2001,w,premier-league
 Derby County,Deon Burton,25,Jamaica,Centre-Forward,CF,-,Stoke City,England,Loan,Out,2001,w,premier-league
 Derby County,Adam Murray,20,England,Central Midfield,CM,-,Mansfield Town,England,Loan,Out,2001,w,premier-league
 Derby County,Horacio Carbonari,27,Argentina,Centre-Back,CB,-,Coventry City,England,Loan,Out,2001,w,premier-league
 Derby County,Daniele Daino,22,Italy,Right-Back,RB,-,Milan AC,Italy,"End of loanDec 31, 2001",Out,2001,w,premier-league
 Everton FC,Abel Xavier,29,Portugal,Right-Back,RB,-,Liverpool FC,England,£1.08m,Out,2001,w,premier-league
-Everton FC,Thomas Myhre,28,Norway,Goalkeeper,GK,-,Besiktas JK,Turkey,£540k,Out,2001,w,premier-league
+Everton FC,Thomas Myhre,28,Norway,Goalkeeper,GK,-,Besiktas JK,Turkey,£540Th.,Out,2001,w,premier-league
 Everton FC,Paul Gascoigne,34,England,Attacking Midfield,AM,-,Burnley FC,England,Free transfer,Out,2001,w,premier-league
 Everton FC,Alex Nyarko,28,Ghana,Centre-Back,CB,-,AS Monaco,France,Loan,Out,2001,w,premier-league
 Everton FC,Richard Dunne,22,Ireland,Centre-Back,CB,-,Manchester City,England,"End of loanJan 1, 2002",Out,2001,w,premier-league
 Liverpool FC,Robbie Fowler,26,England,Centre-Forward,CF,-,Leeds United,England,£15.12m,Out,2001,w,premier-league
 Liverpool FC,Sander Westerveld,27,Netherlands,Goalkeeper,GK,-,Real Sociedad,Spain,£4.50m,Out,2001,w,premier-league
-Liverpool FC,Alan Navarro,20,England,Defensive Midfield,DM,-,Tranmere Rovers,England,£315k,Out,2001,w,premier-league
+Liverpool FC,Alan Navarro,20,England,Defensive Midfield,DM,-,Tranmere Rovers,England,£315Th.,Out,2001,w,premier-league
 Liverpool FC,Frode Kippe,24,Norway,Centre-Back,CB,-,Lillestrøm SK,Norway,Free transfer,Out,2001,w,premier-league
 Tottenham Hotspur,Matthew Etherington,20,England,Left Midfield,LM,-,Bradford City,England,Loan,Out,2001,w,premier-league
 Tottenham Hotspur,Dave Beasant,42,England,Goalkeeper,GK,-,Portsmouth FC,England,Free transfer,Out,2001,w,premier-league
@@ -527,7 +529,8 @@ Tottenham Hotspur,Chris Armstrong,30,England,Centre-Forward,CF,-,,Without Club,-
 Blackburn Rovers,Marcus Bent,23,England,Centre-Forward,CF,-,Ipswich Town,England,£4.05m,Out,2001,w,premier-league
 Blackburn Rovers,Jason McAteer,30,Ireland,Right Midfield,RM,-,Sunderland AFC,England,£2.70m,Out,2001,w,premier-league
 Blackburn Rovers,Nathan Blake,29,Wales,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£2.03m,Out,2001,w,premier-league
-Blackburn Rovers,Damien Johnson,23,Northern Ireland,Central Midfield,CM,-,Birmingham City,England,£113k,Out,2001,w,premier-league
+Blackburn Rovers,Damien Johnson,23,Northern Ireland,Central Midfield,CM,-,Birmingham City,England,£113Th.,Out,2001,w,premier-league
+Blackburn Rovers,Jeff Kenna,31,Ireland,Right-Back,RB,-,Wigan Athletic,England,Loan,Out,2001,w,premier-league
 Blackburn Rovers,Marlon Broomes,24,England,Centre-Back,CB,-,Sheffield Wednesday,England,Free transfer,Out,2001,w,premier-league
 Blackburn Rovers,Jim Corbett,21,England,Midfielder,Midfielder,-,Portsmouth FC,England,Loan,Out,2001,w,premier-league
 Blackburn Rovers,James Thomas,23,Wales,Forward,Forward,-,Bristol Rovers,England,Loan,Out,2001,w,premier-league
@@ -535,7 +538,6 @@ Blackburn Rovers,Marc Richards,19,England,Centre-Forward,CF,-,Oldham Athletic,En
 Blackburn Rovers,Jeff Kenna,31,Ireland,Right-Back,RB,-,Birmingham City,England,Free transfer,Out,2001,w,premier-league
 Blackburn Rovers,Marc Richards,19,England,Centre-Forward,CF,-,FC Halifax Town,England,Loan,Out,2001,w,premier-league
 Blackburn Rovers,Stuart Howson,20,England,Midfielder,Midfielder,-,Chesterfield FC,England,Free transfer,Out,2001,w,premier-league
-Blackburn Rovers,Jeff Kenna,31,Ireland,Right-Back,RB,-,Wigan Athletic,England,Loan,Out,2001,w,premier-league
 Blackburn Rovers,Corrado Grabbi,26,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,Loan,Out,2001,w,premier-league
 Blackburn Rovers,Simon Grayson,32,England,Right-Back,RB,-,Bradford City,England,Loan,Out,2001,w,premier-league
 Blackburn Rovers,Eyal Berkovic,29,Israel,Attacking Midfield,AM,-,Celtic FC,Scotland,"End of loanDec 31, 2001",Out,2001,w,premier-league
@@ -545,7 +547,7 @@ Southampton FC,Paul Murray,25,England,Central Midfield,CM,-,Oldham Athletic,Engl
 Southampton FC,Mark Peters,18,England,Forward,Forward,-,Brentford FC,England,Free transfer,Out,2001,w,premier-league
 Southampton FC,Uwe Rösler,32,Germany,Centre-Forward,CF,-,West Bromwich Albion,England,Loan,Out,2001,w,premier-league
 Southampton FC,Kevin Gibbens,22,England,Midfielder,Midfielder,-,Oxford United,England,?,Out,2001,w,premier-league
-Sunderland AFC,Chris Lumsdon,21,England,Central Midfield,CM,-,Barnsley FC,England,£428k,Out,2001,w,premier-league
+Sunderland AFC,Chris Lumsdon,21,England,Central Midfield,CM,-,Barnsley FC,England,£428Th.,Out,2001,w,premier-league
 Sunderland AFC,Lilian Laslandes,30,France,Centre-Forward,CF,-,1. FC Köln,Germany,Loan,Out,2001,w,premier-league
 Sunderland AFC,Stanislav Varga,29,Slovakia,Centre-Back,CB,-,West Bromwich Albion,England,Loan,Out,2001,w,premier-league
 Sunderland AFC,Michael Ingham,21,Northern Ireland,Goalkeeper,GK,-,Stoke City,England,Loan,Out,2001,w,premier-league
@@ -562,7 +564,7 @@ Bolton Wanderers,Steve Banks,29,England,Goalkeeper,GK,-,Rochdale AFC,England,Loa
 Bolton Wanderers,Akinori Nishizawa,25,Japan,Centre-Forward,CF,-,Cerezo Osaka,Japan,?,Out,2001,w,premier-league
 Bolton Wanderers,Colin Hendry,36,Scotland,Centre-Back,CB,-,Preston North End,England,Loan,Out,2001,w,premier-league
 Bolton Wanderers,Jani Viander,26,Finland,Goalkeeper,GK,-,HJK Helsinki,Finland,"End of loanDec 1, 2001",Out,2001,w,premier-league
-Charlton Athletic,Danny Shittu,21,Nigeria,Centre-Back,CB,-,Queens Park Rangers,England,£338k,Out,2001,w,premier-league
+Charlton Athletic,Danny Shittu,21,Nigeria,Centre-Back,CB,-,Queens Park Rangers,England,£338Th.,Out,2001,w,premier-league
 Charlton Athletic,Greg Shields,25,Scotland,Right-Back,RB,-,Walsall FC,England,Loan,Out,2001,w,premier-league
 Charlton Athletic,Charlie MacDonald,21,England,Centre-Forward,CF,-,Colchester United,England,Loan,Out,2001,w,premier-league
 Charlton Athletic,Ben Roberts,26,England,Goalkeeper,GK,-,Reading FC,England,Loan,Out,2001,w,premier-league
@@ -571,11 +573,11 @@ Charlton Athletic,Sasa Ilic,29,Serbia,Goalkeeper,GK,-,Zalaegerszegi TE FC,Hungar
 Charlton Athletic,Andy Todd,27,England,Centre-Back,CB,-,Grimsby Town,England,Loan,Out,2001,w,premier-league
 Charlton Athletic,Martin Pringle,31,Sweden,Centre-Forward,CF,-,Grimsby Town,England,Loan,Out,2001,w,premier-league
 West Ham United,Svetoslav Todorov,23,Bulgaria,Centre-Forward,CF,-,Portsmouth FC,England,£1.01m,Out,2001,w,premier-league
-West Ham United,Rigobert Song,25,Cameroon,Centre-Back,CB,-,1. FC Köln,Germany,Loan fee:£900k,Out,2001,w,premier-league
+West Ham United,Rigobert Song,25,Cameroon,Centre-Back,CB,-,1. FC Köln,Germany,Loan fee:£900Th.,Out,2001,w,premier-league
 West Ham United,Davor Suker,34,Croatia,Centre-Forward,CF,-,TSV 1860 Munich,Germany,Free transfer,Out,2001,w,premier-league
 West Ham United,Anwar Uddin,20,England,Centre-Back,CB,-,Sheffield Wednesday,England,Free transfer,Out,2001,w,premier-league
 West Ham United,Hannu Tihinen,25,Finland,Centre-Back,CB,-,Viking Stavanger,Norway,"End of loanDec 31, 2001",Out,2001,w,premier-league
-Leeds United,Alan Maybury,23,Ireland,Right-Back,RB,-,Heart of Midlothian FC,Scotland,£68k,Out,2001,w,premier-league
+Leeds United,Alan Maybury,23,Ireland,Right-Back,RB,-,Heart of Midlothian FC,Scotland,£68Th.,Out,2001,w,premier-league
 Leeds United,Wesley Boyle,22,Northern Ireland,Midfielder,Midfielder,-,Portadown FC,Northern Ireland,Free transfer,Out,2001,w,premier-league
 Leeds United,Chad Harpur,19,South Africa,Goalkeeper,GK,-,Millwall FC,England,Free transfer,Out,2001,w,premier-league
 Leeds United,Harpal Singh,20,India,Left Midfield,LM,-,Bristol City,England,Loan,Out,2001,w,premier-league
@@ -583,7 +585,7 @@ Leeds United,Caleb Folan,18,Ireland,Centre-Forward,CF,-,Rushden & Diamonds (liq.
 Leeds United,Stephen McPhail,22,Ireland,Left Midfield,LM,-,Millwall FC,England,Loan,Out,2001,w,premier-league
 Leeds United,Caleb Folan,19,Ireland,Centre-Forward,CF,-,Hull City,England,Loan,Out,2001,w,premier-league
 Leeds United,Dejan Milosevic,23,Australia,Goalkeeper,GK,-,Wolverhampton Wanderers,England,Loan,Out,2001,w,premier-league
-Aston Villa,Richard Walker,24,England,Centre-Forward,CF,-,Blackpool FC,England,£68k,Out,2001,w,premier-league
+Aston Villa,Richard Walker,24,England,Centre-Forward,CF,-,Blackpool FC,England,£68Th.,Out,2001,w,premier-league
 Aston Villa,Michael Standing,20,England,Central Midfield,CM,-,Bradford City,England,Free transfer,Out,2001,w,premier-league
 Aston Villa,Neil Tarrant,22,Scotland,Centre-Forward,CF,-,Ross County FC,Scotland,Free transfer,Out,2001,w,premier-league
 Aston Villa,Stephen Cooke,19,England,Right Midfield,RM,-,AFC Bournemouth,England,Loan,Out,2001,w,premier-league
@@ -595,8 +597,8 @@ Chelsea FC,Rhys Evans,19,England,Goalkeeper,GK,-,Queens Park Rangers,England,Loa
 Chelsea FC,Leon Knight,19,England,Centre-Forward,CF,-,Huddersfield Town,England,Loan,Out,2001,w,premier-league
 Chelsea FC,Roberto Di Matteo,31,Italy,Central Midfield,CM,-,,Retired,-,Out,2001,w,premier-league
 Middlesbrough FC,Andy Campbell,22,England,Centre-Forward,CF,-,Cardiff City,Wales,£1.28m,Out,2001,w,premier-league
-Middlesbrough FC,Steve Vickers,34,England,Centre-Back,CB,-,Birmingham City,England,£428k,Out,2001,w,premier-league
-Middlesbrough FC,Curtis Fleming,33,Ireland,Right-Back,RB,-,Crystal Palace,England,£108k,Out,2001,w,premier-league
+Middlesbrough FC,Steve Vickers,34,England,Centre-Back,CB,-,Birmingham City,England,£428Th.,Out,2001,w,premier-league
+Middlesbrough FC,Curtis Fleming,33,Ireland,Right-Back,RB,-,Crystal Palace,England,£108Th.,Out,2001,w,premier-league
 Middlesbrough FC,Curtis Fleming,33,Ireland,Right-Back,RB,-,Birmingham City,England,Loan,Out,2001,w,premier-league
 Middlesbrough FC,Marlon Beresford,32,England,Goalkeeper,GK,-,Burnley FC,England,Loan,Out,2001,w,premier-league
 Middlesbrough FC,Sam Russell,19,England,Goalkeeper,GK,-,Gateshead FC,England,Loan,Out,2001,w,premier-league
@@ -617,8 +619,8 @@ Ipswich Town,Gary Croft,27,England,Centre-Back,CB,-,Wigan Athletic,England,Loan,
 Ipswich Town,Richard Naylor,25,England,Centre-Back,CB,-,Barnsley FC,England,Loan,Out,2001,w,premier-league
 Ipswich Town,Sean Friars,22,Northern Ireland,Forward,Forward,-,Newry City AFC,Northern Ireland,Free transfer,Out,2001,w,premier-league
 Ipswich Town,Guillermo Graaven,19,Netherlands,Midfielder,Midfielder,-,,Without Club,-,Out,2001,w,premier-league
-Newcastle United,Rob Lee,36,England,Central Midfield,CM,-,Derby County,England,£360k,Out,2001,w,premier-league
-Newcastle United,David Beharall,22,England,Defender,Defender,-,Oldham Athletic,England,£169k,Out,2001,w,premier-league
+Newcastle United,Rob Lee,36,England,Central Midfield,CM,-,Derby County,England,£360Th.,Out,2001,w,premier-league
+Newcastle United,David Beharall,22,England,Defender,Defender,-,Oldham Athletic,England,£169Th.,Out,2001,w,premier-league
 Newcastle United,Gary Caldwell,19,Scotland,Centre-Back,CB,-,Hibernian FC,Scotland,Loan,Out,2001,w,premier-league
 Newcastle United,Steven Caldwell,21,Scotland,Centre-Back,CB,-,Blackpool FC,England,Loan,Out,2001,w,premier-league
 Newcastle United,David Beharall,22,England,Defender,Defender,-,Oldham Athletic,England,Loan,Out,2001,w,premier-league
@@ -628,13 +630,13 @@ Newcastle United,Warren Barton,32,England,Right-Back,RB,-,Derby County,England,F
 Newcastle United,Gary Caldwell,19,Scotland,Centre-Back,CB,-,Darlington FC (liq.),England,Loan,Out,2001,w,premier-league
 Newcastle United,Steven Caldwell,21,Scotland,Centre-Back,CB,-,Bradford City,England,Loan,Out,2001,w,premier-league
 Newcastle United,Diego Gavilán,21,Paraguay,Central Midfield,CM,-,Tecos de la UAG,Mexico,Loan,Out,2001,w,premier-league
-Fulham FC,Kevin Betsy,24,Seychelles,Left Midfield,LM,-,Barnsley FC,England,£270k,Out,2001,w,premier-league
-Fulham FC,Alan Neilson,29,Wales,Centre-Back,CB,-,Luton Town,England,Free transfer,Out,2001,w,premier-league
-Fulham FC,Paul Trollope,29,Wales,Attacking Midfield,AM,-,Coventry City,England,Free transfer,Out,2001,w,premier-league
+Fulham FC,Kevin Betsy,24,Seychelles,Left Midfield,LM,-,Barnsley FC,England,£270Th.,Out,2001,w,premier-league
 Fulham FC,Marcus Hahnemann,29,United States,Goalkeeper,GK,-,Rochdale AFC,England,Loan,Out,2001,w,premier-league
 Fulham FC,Marcus Hahnemann,29,United States,Goalkeeper,GK,-,Reading FC,England,Loan,Out,2001,w,premier-league
-Fulham FC,Alan Neilson,29,Wales,Centre-Back,CB,-,Grimsby Town,England,Loan,Out,2001,w,premier-league
+Fulham FC,Alan Neilson,29,Wales,Centre-Back,CB,-,Luton Town,England,Free transfer,Out,2001,w,premier-league
+Fulham FC,Paul Trollope,29,Wales,Attacking Midfield,AM,-,Coventry City,England,Free transfer,Out,2001,w,premier-league
 Fulham FC,Kieran McAnespie,22,Scotland,Left-Back,LB,-,AFC Bournemouth,England,Loan,Out,2001,w,premier-league
+Fulham FC,Alan Neilson,29,Wales,Centre-Back,CB,-,Grimsby Town,England,Loan,Out,2001,w,premier-league
 Fulham FC,Karl-Heinz Riedle,36,Germany,Centre-Forward,CF,-,,Retired,-,Out,2001,w,premier-league
 Manchester United,Andy Cole,30,England,Centre-Forward,CF,-,Blackburn Rovers,England,£10.98m,Out,2001,w,premier-league
 Manchester United,Danny Webber,20,England,Centre-Forward,CF,-,Watford FC,England,Loan,Out,2001,w,premier-league
@@ -645,10 +647,10 @@ Manchester United,Neil Wood,18,England,Central Midfield,CM,-,Royal Antwerp FC,Be
 Manchester United,Mark Lynch,20,England,Right-Back,RB,-,St. Johnstone FC,Scotland,Loan,Out,2001,w,premier-league
 Manchester United,Alan Tate,19,England,Centre-Back,CB,-,Royal Antwerp FC,Belgium,Loan,Out,2001,w,premier-league
 Leicester City,Dean Sturridge,28,England,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£1.01m,Out,2001,w,premier-league
-Leicester City,Kevin Ellison,22,England,Left Winger,LW,-,Stockport County,England,£72k,Out,2001,w,premier-league
+Leicester City,Kevin Ellison,22,England,Left Winger,LW,-,Stockport County,England,£72Th.,Out,2001,w,premier-league
+Leicester City,Matt Piper,20,England,Right Midfield,RM,-,Mansfield Town,England,Loan,Out,2001,w,premier-league
+Leicester City,Simon Royce,30,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2001,w,premier-league
 Leicester City,Junior Lewis,28,England,Left Winger,LW,-,Brighton & Hove Albion,England,Loan,Out,2001,w,premier-league
 Leicester City,Simon Royce,30,England,Goalkeeper,GK,-,Manchester City,England,Loan,Out,2001,w,premier-league
 Leicester City,Damien Delaney,20,Ireland,Centre-Back,CB,-,Stockport County,England,Loan,Out,2001,w,premier-league
 Leicester City,Damien Delaney,20,Ireland,Centre-Back,CB,-,Huddersfield Town,England,Loan,Out,2001,w,premier-league
-Leicester City,Matt Piper,20,England,Right Midfield,RM,-,Mansfield Town,England,Loan,Out,2001,w,premier-league
-Leicester City,Simon Royce,30,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2001,w,premier-league

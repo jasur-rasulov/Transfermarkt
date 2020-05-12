@@ -1,14 +1,14 @@
 Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
 Arsenal FC,Manuel Almunia,27,Spain,Goalkeeper,GK,-,Celta de Vigo,Spain,£4.50m,In,2004,s,premier-league
 Arsenal FC,Robin van Persie,20,Netherlands,Centre-Forward,CF,-,Feyenoord Rotterdam,Netherlands,£4.05m,In,2004,s,premier-league
-Arsenal FC,Mathieu Flamini,20,France,Defensive Midfield,DM,-,Olympique Marseille,France,£432k,In,2004,s,premier-league
-Arsenal FC,Arturo Lupoli,17,Italy,Centre-Forward,CF,-,Parma FC Youth,Italy,£270k,In,2004,s,premier-league
+Arsenal FC,Mathieu Flamini,20,France,Defensive Midfield,DM,-,Olympique Marseille,France,£432Th.,In,2004,s,premier-league
+Arsenal FC,Arturo Lupoli,17,Italy,Centre-Forward,CF,-,Parma FC Youth,Italy,£270Th.,In,2004,s,premier-league
 Arsenal FC,David Bentley,20,England,Right Midfield,RM,£1.80m,Norwich City,England,"End of loanApr 1, 2005",In,2004,s,premier-league
 Arsenal FC,Sebastian Larsson,19,Sweden,Central Midfield,CM,-,Arsenal FC U18,England,-,In,2004,s,premier-league
 Arsenal FC,Stephen Bradley,19,Ireland,Attacking Midfield,AM,-,Arsenal FC U18,England,-,In,2004,s,premier-league
 Arsenal FC,Frank Simek,20,United States,Right-Back,RB,-,AFC Bournemouth,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Arsenal FC,Patrick Cregg,18,Ireland,Central Midfield,CM,-,Arsenal FC U18,England,-,In,2004,s,premier-league
-Arsenal FC,Graham Stack,23,Ireland,Goalkeeper,GK,£315k,Millwall FC,England,"End of loanMay 9, 2005",In,2004,s,premier-league
+Arsenal FC,Graham Stack,23,Ireland,Goalkeeper,GK,£315Th.,Millwall FC,England,"End of loanMay 9, 2005",In,2004,s,premier-league
 Arsenal FC,Johan Djourou,17,Switzerland,Centre-Back,CB,-,Arsenal FC U18,England,-,In,2004,s,premier-league
 Arsenal FC,Quincy Owusu-Abeyie,18,Ghana,Left Winger,LW,-,Arsenal FC U18,England,-,In,2004,s,premier-league
 Arsenal FC,Igors Stepanovs,28,Latvia,Centre-Back,CB,-,KSK Beveren,Belgium,"End of loanJun 30, 2004",In,2004,s,premier-league
@@ -24,11 +24,11 @@ Chelsea FC,Tiago,23,Portugal,Central Midfield,CM,-,SL Benfica,Portugal,£13.50m,
 Chelsea FC,Petr Cech,22,Czech Republic,Goalkeeper,GK,-,Stade Rennais FC,France,£11.70m,In,2004,s,premier-league
 Chelsea FC,Alex,22,Brazil,Centre-Back,CB,-,Santos FC,Brazil,£10.35m,In,2004,s,premier-league
 Chelsea FC,Mateja Kezman,25,Serbia,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,£6.75m,In,2004,s,premier-league
-Chelsea FC,Alcides,19,Brazil,Centre-Back,CB,-,Esporte Clube Vitória,Brazil,£810k,In,2004,s,premier-league
+Chelsea FC,Alcides,19,Brazil,Centre-Back,CB,-,Esporte Clube Vitória,Brazil,£810Th.,In,2004,s,premier-league
 Chelsea FC,Nuno Morais,20,Portugal,Defensive Midfield,DM,-,FC Penafiel,Portugal,Free transfer,In,2004,s,premier-league
-Chelsea FC,Carlton Cole,21,England,Centre-Forward,CF,£3.15m,Aston Villa,England,"End of loanMay 16, 2005",In,2004,s,premier-league
 Chelsea FC,Steven Watt,19,Scotland,Centre-Back,CB,-,Chelsea FC Reserves,England,-,In,2004,s,premier-league
 Chelsea FC,Adrian Pettigrew,17,England,Centre-Back,CB,-,Chelsea FC U18,England,-,In,2004,s,premier-league
+Chelsea FC,Carlton Cole,21,England,Centre-Forward,CF,£3.15m,Aston Villa,England,"End of loanMay 16, 2005",In,2004,s,premier-league
 Chelsea FC,Boudewijn Zenden,27,Netherlands,Left Winger,LW,-,Middlesbrough FC,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Chelsea FC,Sebastian Kneißl,21,Germany,Attacking Midfield,AM,-,Dundee FC,Scotland,"End of loanJun 30, 2004",In,2004,s,premier-league
 Chelsea FC,Valerio Di Cesare,21,Italy,Centre-Back,CB,-,US Avellino,Italy,"End of loanJun 30, 2004",In,2004,s,premier-league
@@ -39,12 +39,12 @@ Manchester United,Alan Smith,23,England,Central Midfield,CM,-,Leeds United,Engla
 Manchester United,Gerard Piqué,17,Spain,Centre-Back,CB,-,FC Barcelona U19,Spain,£4.73m,In,2004,s,premier-league
 Manchester United,Liam Miller,23,Ireland,Central Midfield,CM,-,Celtic FC,Scotland,Free transfer,In,2004,s,premier-league
 Manchester United,Luke Steele,20,England,Goalkeeper,GK,£1.35m,Coventry City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
-Manchester United,Eddie Johnson,20,England,Centre-Forward,CF,£225k,Coventry City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Manchester United,Eddie Johnson,20,England,Centre-Forward,CF,£225Th.,Coventry City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Manchester United,Jonathan Spector,18,United States,Centre-Back,CB,-,Manchester United U18,England,-,In,2004,s,premier-league
-Manchester United,Chris Eagles,19,England,Right Winger,RW,£450k,Watford FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Manchester United,Chris Eagles,19,England,Right Winger,RW,£450Th.,Watford FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Manchester United,Steven Hogg,18,England,Central Midfield,CM,-,Manchester United U18,England,-,In,2004,s,premier-league
-Manchester United,Kieran Richardson,20,England,Left-Back,LB,£450k,West Bromwich Albion,England,"End of loanMay 31, 2005",In,2004,s,premier-league
-Manchester United,Paul Tierney,22,Ireland,Left-Back,LB,£135k,Bradford City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Manchester United,Kieran Richardson,20,England,Left-Back,LB,£450Th.,West Bromwich Albion,England,"End of loanMay 31, 2005",In,2004,s,premier-league
+Manchester United,Paul Tierney,22,Ireland,Left-Back,LB,£135Th.,Bradford City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Manchester United,Tom Heaton,18,England,Goalkeeper,GK,-,Manchester United U18,England,-,In,2004,s,premier-league
 Manchester United,Ricardo,32,Spain,Goalkeeper,GK,-,Racing Santander,Spain,"End of loanJun 30, 2004",In,2004,s,premier-league
 Manchester United,Mads Timm,19,Denmark,Second Striker,SS,-,Viking Stavanger,Norway,"End of loanJun 30, 2004",In,2004,s,premier-league
@@ -55,20 +55,20 @@ Liverpool FC,Xabi Alonso,22,Spain,Defensive Midfield,DM,-,Real Sociedad,Spain,£
 Liverpool FC,Luis García,26,Spain,Right Winger,RW,-,FC Barcelona,Spain,£7.88m,In,2004,s,premier-league
 Liverpool FC,Josemi,24,Spain,Centre-Back,CB,-,Málaga CF,Spain,£2.70m,In,2004,s,premier-league
 Liverpool FC,Antonio Núñez,25,Spain,Right Winger,RW,-,Real Madrid,Spain,Free transfer,In,2004,s,premier-league
-Liverpool FC,Grégory Vignal,23,France,Left-Back,LB,£1.35m,Rangers FC,Scotland,"End of loanMay 1, 2005",In,2004,s,premier-league
-Liverpool FC,Robbie Foy,19,Scotland,Left Winger,LW,£45k,Chester City (diss.),England,"End of loanMay 1, 2005",In,2004,s,premier-league
-Liverpool FC,Robbie Foy,18,Scotland,Left Winger,LW,-,Liverpool FC U18,England,-,In,2004,s,premier-league
-Liverpool FC,Salif Diao,28,Senegal,Defensive Midfield,DM,£4.50m,Birmingham City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Liverpool FC,El-Hadji Diouf,24,Senegal,Centre-Forward,CF,£5.85m,Bolton Wanderers,England,"End of loanMay 16, 2005",In,2004,s,premier-league
 Liverpool FC,John Welsh,20,England,Central Midfield,CM,-,Liverpool FC U23,England,-,In,2004,s,premier-league
 Liverpool FC,James Smith,18,England,Right-Back,RB,-,Liverpool FC U18,England,-,In,2004,s,premier-league
+Liverpool FC,Grégory Vignal,23,France,Left-Back,LB,£1.35m,Rangers FC,Scotland,"End of loanMay 1, 2005",In,2004,s,premier-league
+Liverpool FC,Robbie Foy,19,Scotland,Left Winger,LW,£45Th.,Chester City (diss.),England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Liverpool FC,Robbie Foy,18,Scotland,Left Winger,LW,-,Liverpool FC U18,England,-,In,2004,s,premier-league
+Liverpool FC,Salif Diao,28,Senegal,Defensive Midfield,DM,£4.50m,Birmingham City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Liverpool FC,Markus Babbel,31,Germany,Centre-Back,CB,-,Blackburn Rovers,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Liverpool FC,Alou Diarra,22,France,Defensive Midfield,DM,-,SC Bastia,France,"End of loanJun 30, 2004",In,2004,s,premier-league
 Liverpool FC,Arnaud Bühler,19,Switzerland,Centre-Back,CB,-,FC Aarau,Switzerland,"End of loanJun 30, 2004",In,2004,s,premier-league
 Newcastle United,James Milner,18,England,Central Midfield,CM,-,Leeds United,England,£6.66m,In,2004,s,premier-league
 Newcastle United,Nicky Butt,29,England,Central Midfield,CM,-,Manchester United,England,£3.38m,In,2004,s,premier-league
 Newcastle United,Stephen Carr,27,Ireland,Right-Back,RB,-,Tottenham Hotspur,England,£2.70m,In,2004,s,premier-league
-Newcastle United,Charles N'Zogbia,18,France,Right Winger,RW,-,AC Le Havre,France,£900k,In,2004,s,premier-league
+Newcastle United,Charles N'Zogbia,18,France,Right Winger,RW,-,AC Le Havre,France,£900Th.,In,2004,s,premier-league
 Newcastle United,Ronny Johnsen,35,Norway,Centre-Back,CB,-,Aston Villa,England,Free transfer,In,2004,s,premier-league
 Newcastle United,Patrick Kluivert,28,Netherlands,Centre-Forward,CF,-,FC Barcelona,Spain,Free transfer,In,2004,s,premier-league
 Newcastle United,Craig Bellamy,25,Wales,Left Winger,LW,£8.10m,Celtic FC,Scotland,"End of loanMay 30, 2005",In,2004,s,premier-league
@@ -82,17 +82,17 @@ Aston Villa,Martin Laursen,26,Denmark,Centre-Back,CB,-,AC Milan,Italy,£3.60m,In
 Aston Villa,Mathieu Berson,24,France,Defensive Midfield,DM,-,FC Nantes,France,£2.07m,In,2004,s,premier-league
 Aston Villa,Carlton Cole,20,England,Centre-Forward,CF,-,Chelsea FC,England,Loan,In,2004,s,premier-league
 Aston Villa,Vaclav Drobny,23,Czech Republic,Centre-Back,CB,-,RC Strasbourg Alsace,France,Loan,In,2004,s,premier-league
-Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,£360k,Leicester City,England,"End of loanMay 11, 2005",In,2004,s,premier-league
+Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,£360Th.,Leicester City,England,"End of loanMay 11, 2005",In,2004,s,premier-league
 Aston Villa,Steven Davis,19,Northern Ireland,Central Midfield,CM,-,Aston Villa U18,England,-,In,2004,s,premier-league
 Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,-,Millwall FC,England,"End of loanOct 3, 2004",In,2004,s,premier-league
-Aston Villa,Gary Cahill,19,England,Centre-Back,CB,£45k,Burnley FC,England,"End of loanMay 9, 2005",In,2004,s,premier-league
+Aston Villa,Gary Cahill,19,England,Centre-Back,CB,£45Th.,Burnley FC,England,"End of loanMay 9, 2005",In,2004,s,premier-league
 Aston Villa,Gary Cahill,18,England,Centre-Back,CB,-,Aston Villa U18,England,-,In,2004,s,premier-league
 Aston Villa,Colin Marshall,19,Scotland,Central Midfield,CM,-,Clyde FC,Scotland,"End of loanJun 30, 2004",In,2004,s,premier-league
 Charlton Athletic,Francis Jeffers,23,England,Centre-Forward,CF,-,Arsenal FC,England,£3.51m,In,2004,s,premier-league
 Charlton Athletic,Dennis Rommedahl,25,Denmark,Right Winger,RW,-,PSV Eindhoven,Netherlands,£3.15m,In,2004,s,premier-league
 Charlton Athletic,Danny Murphy,27,England,Central Midfield,CM,-,Liverpool FC,England,£2.93m,In,2004,s,premier-league
 Charlton Athletic,Talal El Karkouri,27,Morocco,Centre-Back,CB,-,Paris Saint-Germain,France,£1.35m,In,2004,s,premier-league
-Charlton Athletic,Stephan Andersen,22,Denmark,Goalkeeper,GK,-,Akademisk Boldklub,Denmark,£990k,In,2004,s,premier-league
+Charlton Athletic,Stephan Andersen,22,Denmark,Goalkeeper,GK,-,Akademisk Boldklub,Denmark,£990Th.,In,2004,s,premier-league
 Charlton Athletic,Bryan Hughes,28,England,Attacking Midfield,AM,-,Birmingham City,England,Free transfer,In,2004,s,premier-league
 Charlton Athletic,Rob Elliot,19,Ireland,Goalkeeper,GK,-,Notts County,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Charlton Athletic,Barry Fuller,19,England,Right-Back,RB,-,Charlton Athletic U18,England,-,In,2004,s,premier-league
@@ -103,61 +103,61 @@ Charlton Athletic,Mark Ricketts,19,England,Defensive Midfield,DM,-,Charlton Athl
 Charlton Athletic,Adam Cottrell,17,England,Defender,Defender,-,Charlton Athletic U18,England,-,In,2004,s,premier-league
 Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,-,Milton Keynes Dons,England,"End of loanAug 31, 2004",In,2004,s,premier-league
 Bolton Wanderers,Gary Speed,34,Wales,Left Midfield,LM,-,Newcastle United,England,£1.01m,In,2004,s,premier-league
-Bolton Wanderers,Tal Ben Haim,22,Israel,Centre-Back,CB,-,Maccabi Tel Aviv,Israel,£203k,In,2004,s,premier-league
+Bolton Wanderers,Tal Ben Haim,22,Israel,Centre-Back,CB,-,Maccabi Tel Aviv,Israel,£203Th.,In,2004,s,premier-league
+Bolton Wanderers,El-Hadji Diouf,23,Senegal,Centre-Forward,CF,-,Liverpool FC,England,Loan,In,2004,s,premier-league
+Bolton Wanderers,Radhi Jaidi,28,Tunisia,Centre-Back,CB,-,Esperance Tunis,Tunisia,Free transfer,In,2004,s,premier-league
+Bolton Wanderers,Fernando Hierro,36,Spain,Centre-Back,CB,-,Al Rayyan Sports Club,Qatar,Free transfer,In,2004,s,premier-league
 Bolton Wanderers,Les Ferdinand,37,England,Centre-Forward,CF,-,Leicester City,England,Free transfer,In,2004,s,premier-league
 Bolton Wanderers,Júlio César,25,Brazil,Centre-Back,CB,-,Real Valladolid CF,Spain,Free transfer,In,2004,s,premier-league
 Bolton Wanderers,Andy Oakes,27,England,Goalkeeper,GK,-,Derby County,England,Loan,In,2004,s,premier-league
 Bolton Wanderers,Blessing Kaku,26,Nigeria,Attacking Midfield,AM,-,FC Ashdod,Israel,Free transfer,In,2004,s,premier-league
 Bolton Wanderers,Michael Bridges,25,England,Centre-Forward,CF,-,Leeds United,England,Free transfer,In,2004,s,premier-league
-Bolton Wanderers,El-Hadji Diouf,23,Senegal,Centre-Forward,CF,-,Liverpool FC,England,Loan,In,2004,s,premier-league
-Bolton Wanderers,Radhi Jaidi,28,Tunisia,Centre-Back,CB,-,Esperance Tunis,Tunisia,Free transfer,In,2004,s,premier-league
-Bolton Wanderers,Fernando Hierro,36,Spain,Centre-Back,CB,-,Al Rayyan Sports Club,Qatar,Free transfer,In,2004,s,premier-league
-Bolton Wanderers,Jaroslaw Fojut,16,Poland,Centre-Back,CB,-,MSP Szamotuly,Poland,£23k,In,2004,s,premier-league
+Bolton Wanderers,Jaroslaw Fojut,16,Poland,Centre-Back,CB,-,MSP Szamotuly,Poland,£23Th.,In,2004,s,premier-league
 Bolton Wanderers,Dwight Pezzarossi,25,Guatemala,Centre-Forward,CF,-,CSD Comunicaciones,Guatemala,?,In,2004,s,premier-league
-Bolton Wanderers,Donovan Ricketts,27,Jamaica,Goalkeeper,GK,£90k,Bradford City,England,"End of loanApr 1, 2005",In,2004,s,premier-league
-Bolton Wanderers,Danny Livesey,19,England,Centre-Back,CB,-,Blackpool FC,England,"End of loanAug 8, 2004",In,2004,s,premier-league
-Bolton Wanderers,Ricardo Vaz Tê,17,Portugal,Right Winger,RW,-,Bolton Wanderers U18,England,-,In,2004,s,premier-league
-Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45k,Bury FC,England,"End of loanMay 8, 2005",In,2004,s,premier-league
+Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45Th.,Bury FC,England,"End of loanMay 8, 2005",In,2004,s,premier-league
 Bolton Wanderers,Charlie Comyn-Platt,18,England,Centre-Back,CB,-,Wycombe Wanderers,England,"End of loanOct 1, 2004",In,2004,s,premier-league
 Bolton Wanderers,Chris Howarth,18,England,Goalkeeper,GK,-,Bolton Wanderers U18,England,-,In,2004,s,premier-league
+Bolton Wanderers,Donovan Ricketts,27,Jamaica,Goalkeeper,GK,£90Th.,Bradford City,England,"End of loanApr 1, 2005",In,2004,s,premier-league
+Bolton Wanderers,Danny Livesey,19,England,Centre-Back,CB,-,Blackpool FC,England,"End of loanAug 8, 2004",In,2004,s,premier-league
+Bolton Wanderers,Ricardo Vaz Tê,17,Portugal,Right Winger,RW,-,Bolton Wanderers U18,England,-,In,2004,s,premier-league
 Bolton Wanderers,Jardel,30,Brazil,Centre-Forward,CF,-,Ancona Calcio,Italy,"End of loanJun 30, 2004",In,2004,s,premier-league
 Bolton Wanderers,Chris Armstrong,33,England,Centre-Forward,CF,-,Wrexham AFC,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Bolton Wanderers,Kangana N'Diwa,20,DR Congo,Defender,Defender,-,Rochdale AFC,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Fulham FC,Papa Bouba Diop,26,Senegal,Defensive Midfield,DM,-,RC Lens,France,£8.10m,In,2004,s,premier-league
 Fulham FC,Tomasz Radzinski,30,Canada,Centre-Forward,CF,-,Everton FC,England,£2.70m,In,2004,s,premier-league
 Fulham FC,Claus Jensen,27,Denmark,Attacking Midfield,AM,-,Charlton Athletic,England,£1.71m,In,2004,s,premier-league
-Fulham FC,Ricardo Batista,17,Portugal,Goalkeeper,GK,-,Vitória Setúbal FC U19,Portugal,£45k,In,2004,s,premier-league
+Fulham FC,Ricardo Batista,17,Portugal,Goalkeeper,GK,-,Vitória Setúbal FC U19,Portugal,£45Th.,In,2004,s,premier-league
 Fulham FC,Neale McDermott,19,England,Central Midfield,CM,-,Newcastle United U18,England,Free transfer,In,2004,s,premier-league
 Fulham FC,Billy McKinlay,35,Scotland,Right Midfield,RM,-,Leicester City,England,Free transfer,In,2004,s,premier-league
 Fulham FC,Andy Cole,32,England,Centre-Forward,CF,-,Blackburn Rovers,England,Free transfer,In,2004,s,premier-league
-Fulham FC,Elvis Hammond,24,Ghana,Centre-Forward,CF,£225k,RBC Roosendaal,Netherlands,"End of loanMay 1, 2005",In,2004,s,premier-league
+Fulham FC,Elvis Hammond,24,Ghana,Centre-Forward,CF,£225Th.,RBC Roosendaal,Netherlands,"End of loanMay 1, 2005",In,2004,s,premier-league
 Fulham FC,Jide Ogunbote,15,England,Right Midfield,RM,-,Fulham FC U18,England,-,In,2004,s,premier-league
-Fulham FC,Adam Green,21,England,Left-Back,LB,£315k,AFC Bournemouth,England,"End of loanMay 11, 2005",In,2004,s,premier-league
+Fulham FC,Adam Green,21,England,Left-Back,LB,£315Th.,AFC Bournemouth,England,"End of loanMay 11, 2005",In,2004,s,premier-league
 Fulham FC,Chris James,16,New Zealand,Defensive Midfield,DM,-,Fulham FC U18,England,-,In,2004,s,premier-league
-Fulham FC,Darren Pratley,20,England,Central Midfield,CM,£45k,Brentford FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Fulham FC,Darren Pratley,20,England,Central Midfield,CM,£45Th.,Brentford FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Fulham FC,Michael Timlin,19,Ireland,Central Midfield,CM,-,Fulham FC U18,England,-,In,2004,s,premier-league
-Fulham FC,Liam Fontaine,19,England,Centre-Back,CB,£45k,Kilmarnock FC,Scotland,"End of loanMay 1, 2005",In,2004,s,premier-league
-Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90k,Yeading FC,England,"End of loanMay 31, 2005",In,2004,s,premier-league
+Fulham FC,Liam Fontaine,19,England,Centre-Back,CB,£45Th.,Kilmarnock FC,Scotland,"End of loanMay 1, 2005",In,2004,s,premier-league
+Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90Th.,Yeading FC,England,"End of loanMay 31, 2005",In,2004,s,premier-league
 Fulham FC,Liam Fontaine,18,England,Centre-Back,CB,-,Fulham FC U18,England,-,In,2004,s,premier-league
 Fulham FC,Ismael Ehui,17,France,Centre-Forward,CF,-,Fulham FC U18,England,-,In,2004,s,premier-league
 Fulham FC,Abdeslam Ouaddou,25,Morocco,Centre-Back,CB,-,Stade Rennais FC,France,"End of loanJun 30, 2004",In,2004,s,premier-league
 Birmingham City,Emile Heskey,26,England,Centre-Forward,CF,-,Liverpool FC,England,£8.39m,In,2004,s,premier-league
 Birmingham City,Jesper Grönkjaer,26,Denmark,Left Winger,LW,-,Chelsea FC,England,£2.97m,In,2004,s,premier-league
-Birmingham City,Dwight Yorke,32,Trinidad and Tobago,Centre-Forward,CF,-,Blackburn Rovers,England,£360k,In,2004,s,premier-league
+Birmingham City,Dwight Yorke,32,Trinidad and Tobago,Centre-Forward,CF,-,Blackburn Rovers,England,£360Th.,In,2004,s,premier-league
+Birmingham City,Mario Melchiot,27,Netherlands,Right-Back,RB,-,Chelsea FC,England,Free transfer,In,2004,s,premier-league
 Birmingham City,Julian Gray,24,England,Centre-Forward,CF,-,Crystal Palace,England,Free transfer,In,2004,s,premier-league
 Birmingham City,Darren Anderton,32,England,Right Midfield,RM,-,Tottenham Hotspur,England,Free transfer,In,2004,s,premier-league
 Birmingham City,Muzzy Izzet,29,Turkey,Right Midfield,RM,-,Leicester City,England,Free transfer,In,2004,s,premier-league
-Birmingham City,Mario Melchiot,27,Netherlands,Right-Back,RB,-,Chelsea FC,England,Free transfer,In,2004,s,premier-league
 Birmingham City,Sam Oji,18,England,Centre-Back,CB,-,Arsenal FC U18,England,?,In,2004,s,premier-league
-Birmingham City,Andy Barrowman,20,Scotland,Centre-Forward,CF,£68k,Mansfield Town,England,"End of loanApr 4, 2005",In,2004,s,premier-league
-Birmingham City,Peter Till,18,England,Right Midfield,RM,-,Birmingham City U18,England,-,In,2004,s,premier-league
-Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900k,Coventry City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
-Birmingham City,Andy Barrowman,19,Scotland,Centre-Forward,CF,-,Blackpool FC,England,"End of loanSep 1, 2004",In,2004,s,premier-league
-Birmingham City,Neil Kilkenny,19,Australia,Defensive Midfield,DM,£113k,Oldham Athletic,England,"End of loanMay 1, 2005",In,2004,s,premier-league
-Birmingham City,Sam Alsop,19,England,Centre-Back,CB,-,Birmingham City U18,England,-,In,2004,s,premier-league
-Birmingham City,Colin Doyle,19,Ireland,Goalkeeper,GK,£45k,Nottingham Forest,England,"End of loanMay 9, 2005",In,2004,s,premier-league
-Birmingham City,Alex Bruce,20,Northern Ireland,Centre-Back,CB,-,Sheffield Wednesday,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Birmingham City,Alex Bruce,19,Northern Ireland,Centre-Back,CB,-,Birmingham City U18,England,-,In,2004,s,premier-league
+Birmingham City,Andy Barrowman,20,Scotland,Centre-Forward,CF,£68Th.,Mansfield Town,England,"End of loanApr 4, 2005",In,2004,s,premier-league
+Birmingham City,Peter Till,18,England,Right Midfield,RM,-,Birmingham City U18,England,-,In,2004,s,premier-league
+Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900Th.,Coventry City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Birmingham City,Andy Barrowman,19,Scotland,Centre-Forward,CF,-,Blackpool FC,England,"End of loanSep 1, 2004",In,2004,s,premier-league
+Birmingham City,Neil Kilkenny,19,Australia,Defensive Midfield,DM,£113Th.,Oldham Athletic,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Birmingham City,Sam Alsop,19,England,Centre-Back,CB,-,Birmingham City U18,England,-,In,2004,s,premier-league
+Birmingham City,Colin Doyle,19,Ireland,Goalkeeper,GK,£45Th.,Nottingham Forest,England,"End of loanMay 9, 2005",In,2004,s,premier-league
+Birmingham City,Alex Bruce,20,Northern Ireland,Centre-Back,CB,-,Sheffield Wednesday,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Birmingham City,Nico Vaesen,34,Belgium,Goalkeeper,GK,-,Crystal Palace,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Middlesbrough FC,Mark Viduka,28,Australia,Centre-Forward,CF,-,Leeds United,England,£6.08m,In,2004,s,premier-league
 Middlesbrough FC,Jimmy Floyd Hasselbaink,32,Netherlands,Centre-Forward,CF,-,Chelsea FC,England,Free transfer,In,2004,s,premier-league
@@ -165,13 +165,13 @@ Middlesbrough FC,Gaizka Mendieta,30,Spain,Right Midfield,RM,-,SS Lazio,Italy,Fre
 Middlesbrough FC,Boudewijn Zenden,27,Netherlands,Left Winger,LW,-,Chelsea FC,England,Free transfer,In,2004,s,premier-league
 Middlesbrough FC,Michael Reiziger,31,Netherlands,Right-Back,RB,-,FC Barcelona,Spain,Free transfer,In,2004,s,premier-league
 Middlesbrough FC,Ray Parlour,31,England,Central Midfield,CM,-,Arsenal FC,England,Free transfer,In,2004,s,premier-league
-Middlesbrough FC,Ross Turnbull,20,England,Goalkeeper,GK,£45k,Barnsley FC,England,"End of loanMay 8, 2005",In,2004,s,premier-league
-Middlesbrough FC,Matthew Bates,18,England,Centre-Back,CB,£45k,Darlington FC (liq.),England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Middlesbrough FC,Ross Turnbull,20,England,Goalkeeper,GK,£45Th.,Barnsley FC,England,"End of loanMay 8, 2005",In,2004,s,premier-league
+Middlesbrough FC,Matthew Bates,18,England,Centre-Back,CB,£45Th.,Darlington FC (liq.),England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Middlesbrough FC,Tony McMahon,18,England,Right-Back,RB,-,Middlesbrough FC U18,England,-,In,2004,s,premier-league
 Middlesbrough FC,Mark Wilson,26,England,Central Midfield,CM,£1.58m,Livingston FC,Scotland,"End of loanMay 31, 2005",In,2004,s,premier-league
 Middlesbrough FC,Matthew Bates,17,England,Centre-Back,CB,-,Middlesbrough FC U18,England,-,In,2004,s,premier-league
 Middlesbrough FC,Mark Wilson,25,England,Central Midfield,CM,-,Doncaster Rovers,England,"End of loanOct 3, 2004",In,2004,s,premier-league
-Middlesbrough FC,Andrew Davies,20,England,Centre-Back,CB,£450k,Queens Park Rangers,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Middlesbrough FC,Andrew Davies,20,England,Centre-Back,CB,£450Th.,Queens Park Rangers,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Middlesbrough FC,James Morrison,18,Scotland,Central Midfield,CM,-,Middlesbrough FC U18,England,-,In,2004,s,premier-league
 Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Bradford City,England,"End of loanAug 31, 2004",In,2004,s,premier-league
 Middlesbrough FC,Robbie Stockdale,24,Scotland,Right-Back,RB,-,West Ham United,England,"End of loanJun 30, 2004",In,2004,s,premier-league
@@ -179,27 +179,27 @@ Middlesbrough FC,Craig Dove,20,England,Midfielder,Midfielder,-,York City,England
 Middlesbrough FC,Colin Cooper,37,England,Left-Back,LB,-,Sunderland AFC,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Southampton FC,Jelle Van Damme,20,Belgium,Centre-Back,CB,-,Ajax Amsterdam,Netherlands,£2.70m,In,2004,s,premier-league
 Southampton FC,Peter Crouch,23,England,Centre-Forward,CF,-,Aston Villa,England,£2.70m,In,2004,s,premier-league
-Southampton FC,Mikael Nilsson,26,Sweden,Right-Back,RB,-,Halmstads BK,Sweden,£540k,In,2004,s,premier-league
-Southampton FC,Alaeddine Yahia,22,Tunisia,Centre-Back,CB,-,EA Guingamp,France,£473k,In,2004,s,premier-league
+Southampton FC,Mikael Nilsson,26,Sweden,Right-Back,RB,-,Halmstads BK,Sweden,£540Th.,In,2004,s,premier-league
+Southampton FC,Alaeddine Yahia,22,Tunisia,Centre-Back,CB,-,EA Guingamp,France,£473Th.,In,2004,s,premier-league
 Southampton FC,Kenwyne Jones,19,Trinidad and Tobago,Centre-Forward,CF,-,W Connection,Trinidad and Tobago,Free transfer,In,2004,s,premier-league
-Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360k,Preston North End,England,"End of loanApr 1, 2005",In,2004,s,premier-league
-Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45k,Coventry City,England,"End of loanOct 18, 2004",In,2004,s,premier-league
-Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45k,AFC Bournemouth,England,"End of loanMay 31, 2005",In,2004,s,premier-league
+Southampton FC,Martin Cranie,17,England,Centre-Back,CB,-,Southampton FC U18,England,-,In,2004,s,premier-league
+Southampton FC,Michael Poke,18,England,Goalkeeper,GK,-,Southampton FC U18,England,-,In,2004,s,premier-league
+Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360Th.,Preston North End,England,"End of loanApr 1, 2005",In,2004,s,premier-league
+Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45Th.,Coventry City,England,"End of loanOct 18, 2004",In,2004,s,premier-league
+Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45Th.,AFC Bournemouth,England,"End of loanMay 31, 2005",In,2004,s,premier-league
 Southampton FC,Matt Mills,17,England,Centre-Back,CB,-,Southampton FC U18,England,-,In,2004,s,premier-league
 Southampton FC,Brett Ormerod,28,England,Centre-Forward,CF,£1.80m,Wigan Athletic,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Southampton FC,Jason Dodd,34,England,Right-Back,RB,£1.13m,Plymouth Argyle,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Southampton FC,Leon Best,17,Ireland,Centre-Forward,CF,-,Southampton FC U18,England,-,In,2004,s,premier-league
 Southampton FC,Andrew Surman,17,England,Central Midfield,CM,-,Southampton FC U18,England,-,In,2004,s,premier-league
-Southampton FC,Andrew Surman,18,England,Central Midfield,CM,£68k,Walsall FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Southampton FC,Andrew Surman,18,England,Central Midfield,CM,£68Th.,Walsall FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Southampton FC,Brett Ormerod,27,England,Centre-Forward,CF,-,Leeds United,England,"End of loanOct 1, 2004",In,2004,s,premier-league
-Southampton FC,Darren Kenton,26,England,Centre-Back,CB,£900k,Leicester City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
-Southampton FC,Martin Cranie,17,England,Centre-Back,CB,-,Southampton FC U18,England,-,In,2004,s,premier-league
-Southampton FC,Michael Poke,18,England,Goalkeeper,GK,-,Southampton FC U18,England,-,In,2004,s,premier-league
+Southampton FC,Darren Kenton,26,England,Centre-Back,CB,£900Th.,Leicester City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
 Southampton FC,Dani Rodrigues,24,Portugal,Left Winger,LW,-,Yeovil Town,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Portsmouth FC,Ricardo Fuller,24,Jamaica,Centre-Forward,CF,-,Preston North End,England,£2.25m,In,2004,s,premier-league
 Portsmouth FC,Lomana LuaLua,23,DR Congo,Centre-Forward,CF,-,Newcastle United,England,£2.03m,In,2004,s,premier-league
-Portsmouth FC,Valéry Mézague,20,Cameroon,Attacking Midfield,AM,-,HSC Montpellier,France,Loan fee:£450k,In,2004,s,premier-league
-Portsmouth FC,Aliou Cissé,28,Senegal,Defensive Midfield,DM,-,Birmingham City,England,£405k,In,2004,s,premier-league
+Portsmouth FC,Valéry Mézague,20,Cameroon,Attacking Midfield,AM,-,HSC Montpellier,France,Loan fee:£450Th.,In,2004,s,premier-league
+Portsmouth FC,Aliou Cissé,28,Senegal,Defensive Midfield,DM,-,Birmingham City,England,£405Th.,In,2004,s,premier-league
 Portsmouth FC,Andy Griffin,25,England,Right-Back,RB,-,Newcastle United,England,Free transfer,In,2004,s,premier-league
 Portsmouth FC,Jamie Ashdown,23,England,Goalkeeper,GK,-,Reading FC,England,Free transfer,In,2004,s,premier-league
 Portsmouth FC,David Unsworth,30,England,Left-Back,LB,-,Everton FC,England,Free transfer,In,2004,s,premier-league
@@ -207,7 +207,7 @@ Portsmouth FC,Diomansy Kamara,23,Senegal,Right Winger,RW,-,Modena FC,Italy,Loan,
 Portsmouth FC,David Unsworth,31,England,Left-Back,LB,£3.42m,Ipswich Town,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Portsmouth FC,James Keene,18,England,Centre-Forward,CF,-,Portsmouth FC U18,England,-,In,2004,s,premier-league
 Portsmouth FC,Mark Burchill,24,Scotland,Centre-Forward,CF,-,Rotherham United,England,"End of loanOct 1, 2004",In,2004,s,premier-league
-Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450k,Coventry City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
+Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450Th.,Coventry City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
 Portsmouth FC,James Keene,18,England,Centre-Forward,CF,-,AFC Newbury,England,"End of loanOct 1, 2004",In,2004,s,premier-league
 Portsmouth FC,Gary Silk,20,England,Right-Back,RB,-,Wycombe Wanderers,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Portsmouth FC,Kevin Harper,28,Scotland,Right Midfield,RM,-,Leicester City,England,"End of loanOct 1, 2004",In,2004,s,premier-league
@@ -220,30 +220,30 @@ Tottenham Hotspur,Paul Robinson,24,England,Goalkeeper,GK,-,Leeds United,England,
 Tottenham Hotspur,Noé Pamarot,25,France,Centre-Back,CB,-,OGC Nice,France,£2.16m,In,2004,s,premier-league
 Tottenham Hotspur,Erik Edman,25,Sweden,Left-Back,LB,-,SC Heerenveen,Netherlands,£1.80m,In,2004,s,premier-league
 Tottenham Hotspur,Calum Davenport,21,England,Centre-Back,CB,-,Coventry City,England,£1.62m,In,2004,s,premier-league
-Tottenham Hotspur,Noureddine Naybet,34,Morocco,Centre-Back,CB,-,Deportivo de La Coruña,Spain,£900k,In,2004,s,premier-league
-Tottenham Hotspur,Reto Ziegler,18,Switzerland,Centre-Back,CB,-,Grasshopper Club Zurich,Switzerland,£900k,In,2004,s,premier-league
-Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,-,MTK Budapest,Hungary,£675k,In,2004,s,premier-league
-Tottenham Hotspur,Leigh Mills,16,England,Centre-Back,CB,-,Swindon Town U18,England,£203k,In,2004,s,premier-league
+Tottenham Hotspur,Noureddine Naybet,34,Morocco,Centre-Back,CB,-,Deportivo de La Coruña,Spain,£900Th.,In,2004,s,premier-league
+Tottenham Hotspur,Reto Ziegler,18,Switzerland,Centre-Back,CB,-,Grasshopper Club Zurich,Switzerland,£900Th.,In,2004,s,premier-league
+Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,-,MTK Budapest,Hungary,£675Th.,In,2004,s,premier-league
+Tottenham Hotspur,Leigh Mills,16,England,Centre-Back,CB,-,Swindon Town U18,England,£203Th.,In,2004,s,premier-league
 Tottenham Hotspur,Edson,20,Portugal,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,Free transfer,In,2004,s,premier-league
-Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45k,Northampton Town,England,"End of loanApr 4, 2005",In,2004,s,premier-league
+Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45Th.,Northampton Town,England,"End of loanApr 4, 2005",In,2004,s,premier-league
 Tottenham Hotspur,Calum Davenport,22,England,Centre-Back,CB,£1.80m,Southampton FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Tottenham Hotspur,Rob Burch,20,England,Goalkeeper,GK,-,Stevenage FC,England,"End of loanSep 1, 2004",In,2004,s,premier-league
-Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,£360k,Chesterfield FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,£360Th.,Chesterfield FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Tottenham Hotspur,Mark Yeates,19,Ireland,Left Winger,LW,-,Swindon Town,England,"End of loanSep 1, 2004",In,2004,s,premier-league
-Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45k,Stevenage FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45Th.,Stevenage FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Tottenham Hotspur,Philip Ifil,17,England,Right-Back,RB,-,Tottenham Hotspur U18,England,-,In,2004,s,premier-league
 Tottenham Hotspur,Sergiy Rebrov,30,Ukraine,Second Striker,SS,-,Fenerbahce SK,Turkey,"End of loanJun 30, 2004",In,2004,s,premier-league
 Tottenham Hotspur,Milenko Acimovic,27,Slovenia,Left Midfield,LM,-,LOSC Lille,France,"End of loanJun 30, 2004",In,2004,s,premier-league
 Blackburn Rovers,Morten Gamst Pedersen,22,Norway,Central Midfield,CM,-,Tromsø IL,Norway,£2.03m,In,2004,s,premier-league
-Blackburn Rovers,Paul Dickov,31,Scotland,Centre-Forward,CF,-,Leicester City,England,£203k,In,2004,s,premier-league
+Blackburn Rovers,Paul Dickov,31,Scotland,Centre-Forward,CF,-,Leicester City,England,£203Th.,In,2004,s,premier-league
 Blackburn Rovers,Dominic Matteo,30,Scotland,Left-Back,LB,-,Leeds United,England,Free transfer,In,2004,s,premier-league
 Blackburn Rovers,Javi de Pedro,30,Spain,Left Midfield,LM,-,Real Sociedad,Spain,Free transfer,In,2004,s,premier-league
 Blackburn Rovers,Jay Bothroyd,22,England,Centre-Forward,CF,-,AC Perugia,Italy,Loan,In,2004,s,premier-league
 Blackburn Rovers,Michael Gray,30,England,Left-Back,LB,£1.80m,Leeds United,England,"End of loanMay 1, 2005",In,2004,s,premier-league
-Blackburn Rovers,Jonathan Douglas,23,Ireland,Central Midfield,CM,£68k,Gillingham FC,England,"End of loanMay 31, 2005",In,2004,s,premier-league
+Blackburn Rovers,Jonathan Douglas,23,Ireland,Central Midfield,CM,£68Th.,Gillingham FC,England,"End of loanMay 31, 2005",In,2004,s,premier-league
 Blackburn Rovers,Youri Djorkaeff,36,France,Attacking Midfield,AM,-,,Without Club,-,In,2004,s,premier-league
 Blackburn Rovers,Jemal Johnson,19,United States,Left Winger,LW,-,Blackburn Rovers U18,England,-,In,2004,s,premier-league
-Blackburn Rovers,Alan Morgan,21,Scotland,Left Midfield,LM,£68k,Cheltenham Town,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Blackburn Rovers,Alan Morgan,21,Scotland,Left Midfield,LM,£68Th.,Cheltenham Town,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Blackburn Rovers,Paul Weaver,18,Scotland,Midfielder,Midfielder,-,Blackburn Rovers U18,England,-,In,2004,s,premier-league
 Blackburn Rovers,Egil Östenstad,32,Norway,Centre-Forward,CF,-,Rangers FC,Scotland,"End of loanJun 30, 2004",In,2004,s,premier-league
 Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Hartlepool United,England,"End of loanJun 30, 2004",In,2004,s,premier-league
@@ -251,62 +251,62 @@ Manchester City,Ben Thatcher,28,Wales,Left-Back,LB,-,Leicester City,England,£1.
 Manchester City,Geert De Vlieger,32,Belgium,Goalkeeper,GK,-,Willem II Tilburg,Netherlands,Free transfer,In,2004,s,premier-league
 Manchester City,Danny Mills,27,England,Right-Back,RB,-,Leeds United,England,Free transfer,In,2004,s,premier-league
 Manchester City,Ronald Waterreus,33,Netherlands,Goalkeeper,GK,-,PSV Eindhoven,Netherlands,Free transfer,In,2004,s,premier-league
-Manchester City,Karl Bermingham,19,Ireland,Centre-Forward,CF,£45k,Lincoln City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Manchester City,Karl Bermingham,19,Ireland,Centre-Forward,CF,£45Th.,Lincoln City,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Manchester City,Lee Croft,19,England,Right Midfield,RM,-,Manchester City U18,England,-,In,2004,s,premier-league
 Manchester City,Marc Laird,18,Scotland,Central Midfield,CM,-,Manchester City U18,England,-,In,2004,s,premier-league
-Manchester City,Christian Negouai,27,Martinique,Defensive Midfield,DM,£630k,Coventry City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
+Manchester City,Christian Negouai,27,Martinique,Defensive Midfield,DM,£630Th.,Coventry City,England,"End of loanMay 9, 2005",In,2004,s,premier-league
 Manchester City,Nedum Onuoha,17,England,Centre-Back,CB,-,Manchester City U18,England,-,In,2004,s,premier-league
 Manchester City,David Sommeil,29,Guadeloupe,Centre-Back,CB,-,Olympique Marseille,France,"End of loanJun 30, 2004",In,2004,s,premier-league
 Manchester City,Dorryl Proffitt,19,England,Centre-Forward,CF,-,Coventry City,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Everton FC,Tim Cahill,24,Australia,Attacking Midfield,AM,-,Millwall FC,England,£1.98m,In,2004,s,premier-league
-Everton FC,Marcus Bent,26,England,Centre-Forward,CF,-,Ipswich Town,England,£608k,In,2004,s,premier-league
+Everton FC,Marcus Bent,26,England,Centre-Forward,CF,-,Ipswich Town,England,£608Th.,In,2004,s,premier-league
 Everton FC,Eddy Bosnar,24,Australia,Centre-Back,CB,-,SK Sturm Graz,Austria,Free transfer,In,2004,s,premier-league
+Everton FC,Iain Turner,21,Scotland,Goalkeeper,GK,£90Th.,Doncaster Rovers,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Everton FC,Stephen Connor,15,England,Centre-Forward,CF,-,Everton FC U18,England,-,In,2004,s,premier-league
-Everton FC,Iain Turner,21,Scotland,Goalkeeper,GK,£90k,Doncaster Rovers,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Norwich City,Mattias Jonson,30,Sweden,Centre-Forward,CF,-,Bröndby IF,Denmark,£1.22m,In,2004,s,premier-league
-Norwich City,Youssef Safri,27,Morocco,Defensive Midfield,DM,-,Coventry City,England,£675k,In,2004,s,premier-league
-Norwich City,Simon Charlton,32,England,Left-Back,LB,-,Bolton Wanderers,England,£338k,In,2004,s,premier-league
+Norwich City,Youssef Safri,27,Morocco,Defensive Midfield,DM,-,Coventry City,England,£675Th.,In,2004,s,premier-league
+Norwich City,Simon Charlton,32,England,Left-Back,LB,-,Bolton Wanderers,England,£338Th.,In,2004,s,premier-league
 Norwich City,Thomas Helveg,33,Denmark,Right-Back,RB,-,FC Internazionale,Italy,Free transfer,In,2004,s,premier-league
 Norwich City,Darren Ward,30,Wales,Goalkeeper,GK,-,Nottingham Forest,England,Free transfer,In,2004,s,premier-league
 Norwich City,David Bentley,19,England,Right Midfield,RM,-,Arsenal FC,England,Loan,In,2004,s,premier-league
 Norwich City,Paul Gallacher,24,Scotland,Goalkeeper,GK,-,Dundee United FC,Scotland,Free transfer,In,2004,s,premier-league
 Norwich City,Gary Doherty,24,Ireland,Centre-Back,CB,-,Tottenham Hotspur,England,Free transfer,In,2004,s,premier-league
-Norwich City,Mathias Svensson,29,Sweden,Centre-Forward,CF,-,Charlton Athletic,England,£45k,In,2004,s,premier-league
-Norwich City,Danny Crow,19,England,Centre-Forward,CF,£45k,Northampton Town,England,"End of loanApr 27, 2005",In,2004,s,premier-league
-Norwich City,Ryan Jarvis,18,England,Centre-Forward,CF,£900k,Colchester United,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Norwich City,Mathias Svensson,29,Sweden,Centre-Forward,CF,-,Charlton Athletic,England,£45Th.,In,2004,s,premier-league
+Norwich City,Ryan Jarvis,18,England,Centre-Forward,CF,£900Th.,Colchester United,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Norwich City,Danny Crow,18,England,Centre-Forward,CF,-,Norwich City U18,England,-,In,2004,s,premier-league
 Norwich City,Zema Abbey,27,England,Centre-Forward,CF,-,Boston United,England,"End of loanSep 1, 2004",In,2004,s,premier-league
-Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450k,Sheffield Wednesday,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450Th.,Sheffield Wednesday,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 Norwich City,Keith Briggs,22,England,Central Midfield,CM,-,Crewe Alexandra,England,"End of loanSep 5, 2004",In,2004,s,premier-league
+Norwich City,Danny Crow,19,England,Centre-Forward,CF,£45Th.,Northampton Town,England,"End of loanApr 27, 2005",In,2004,s,premier-league
 West Bromwich Albion,Robert Earnshaw,23,Wales,Centre-Forward,CF,-,Cardiff City,England,£4.05m,In,2004,s,premier-league
 West Bromwich Albion,Martin Albrechtsen,24,Denmark,Centre-Back,CB,-,FC Copenhagen,Denmark,£3.38m,In,2004,s,premier-league
 West Bromwich Albion,Zoltán Gera,25,Hungary,Central Midfield,CM,-,Ferencvárosi TC,Hungary,£2.03m,In,2004,s,premier-league
 West Bromwich Albion,Jonathan Greening,25,England,Central Midfield,CM,-,Middlesbrough FC,England,£1.58m,In,2004,s,premier-league
-West Bromwich Albion,Darren Purse,27,England,Centre-Back,CB,-,Birmingham City,England,£810k,In,2004,s,premier-league
-West Bromwich Albion,Junichi Inamoto,24,Japan,Defensive Midfield,DM,-,Gamba Osaka,Japan,£270k,In,2004,s,premier-league
-West Bromwich Albion,Riccardo Scimeca,29,England,Centre-Back,CB,-,Leicester City,England,£135k,In,2004,s,premier-league
+West Bromwich Albion,Darren Purse,27,England,Centre-Back,CB,-,Birmingham City,England,£810Th.,In,2004,s,premier-league
+West Bromwich Albion,Junichi Inamoto,24,Japan,Defensive Midfield,DM,-,Gamba Osaka,Japan,£270Th.,In,2004,s,premier-league
+West Bromwich Albion,Riccardo Scimeca,29,England,Centre-Back,CB,-,Leicester City,England,£135Th.,In,2004,s,premier-league
 West Bromwich Albion,Tomasz Kuszczak,22,Poland,Goalkeeper,GK,-,Hertha BSC,Germany,Free transfer,In,2004,s,premier-league
 West Bromwich Albion,Nwankwo Kanu,27,Nigeria,Centre-Forward,CF,-,Arsenal FC,England,Free transfer,In,2004,s,premier-league
 West Bromwich Albion,Cosmin Contra,28,Romania,Right-Back,RB,-,Atlético Madrid,Spain,Loan,In,2004,s,premier-league
-West Bromwich Albion,Rob Hulse,25,England,Centre-Forward,CF,£900k,Leeds United,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+West Bromwich Albion,Rob Hulse,25,England,Centre-Forward,CF,£900Th.,Leeds United,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 West Bromwich Albion,Philip Midworth,19,England,Centre-Back,CB,-,West Bromwich Albion U18,England,-,In,2004,s,premier-league
-West Bromwich Albion,Joe Murphy,23,Ireland,Goalkeeper,GK,£270k,Walsall FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
+West Bromwich Albion,Joe Murphy,23,Ireland,Goalkeeper,GK,£270Th.,Walsall FC,England,"End of loanMay 1, 2005",In,2004,s,premier-league
 West Bromwich Albion,Phil Gilchrist,30,England,Centre-Back,CB,-,Rotherham United,England,"End of loanJun 30, 2004",In,2004,s,premier-league
 Crystal Palace,Fitz Hall,23,England,Centre-Back,CB,-,Southampton FC,England,£2.03m,In,2004,s,premier-league
-Crystal Palace,Sándor Torghelle,22,Hungary,Centre-Forward,CF,-,MTK Budapest,Hungary,£990k,In,2004,s,premier-league
-Crystal Palace,Julián Speroni,25,Argentina,Goalkeeper,GK,-,Dundee FC,Scotland,£900k,In,2004,s,premier-league
-Crystal Palace,Joonas Kolkka,29,Finland,Right Winger,RW,-,Borussia Mönchengladbach,Germany,£630k,In,2004,s,premier-league
-Crystal Palace,Wayne Andrews,26,England,Forward,Forward,-,Colchester United,England,£90k,In,2004,s,premier-league
-Crystal Palace,Gonzalo Sorondo,24,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,Loan,In,2004,s,premier-league
-Crystal Palace,Mark Hudson,22,England,Centre-Back,CB,-,Fulham FC,England,Free transfer,In,2004,s,premier-league
+Crystal Palace,Sándor Torghelle,22,Hungary,Centre-Forward,CF,-,MTK Budapest,Hungary,£990Th.,In,2004,s,premier-league
+Crystal Palace,Julián Speroni,25,Argentina,Goalkeeper,GK,-,Dundee FC,Scotland,£900Th.,In,2004,s,premier-league
+Crystal Palace,Joonas Kolkka,29,Finland,Right Winger,RW,-,Borussia Mönchengladbach,Germany,£630Th.,In,2004,s,premier-league
+Crystal Palace,Wayne Andrews,26,England,Forward,Forward,-,Colchester United,England,£90Th.,In,2004,s,premier-league
 Crystal Palace,Gábor Király,28,Hungary,Goalkeeper,GK,-,Hertha BSC,Germany,Free transfer,In,2004,s,premier-league
 Crystal Palace,Emmerson Boyce,24,Barbados,Right-Back,RB,-,Luton Town,England,Free transfer,In,2004,s,premier-league
+Crystal Palace,Gonzalo Sorondo,24,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,Loan,In,2004,s,premier-league
+Crystal Palace,Mark Hudson,22,England,Centre-Back,CB,-,Fulham FC,England,Free transfer,In,2004,s,premier-league
 Crystal Palace,Iván Kaviedes,26,Ecuador,Centre-Forward,CF,-,Barcelona SC Guayaquil,Ecuador,?,In,2004,s,premier-league
 Crystal Palace,Nicola Ventola,26,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,Loan,In,2004,s,premier-league
 Crystal Palace,Anthony Danze,20,Australia,Midfielder,Midfielder,-,Perth Glory,Australia,?,In,2004,s,premier-league
+Crystal Palace,Tommy Black,24,England,Right Midfield,RM,-,Sheffield United,England,"End of loanOct 1, 2004",In,2004,s,premier-league
 Crystal Palace,Tom Soares,17,England,Central Midfield,CM,-,Crystal Palace U18,England,-,In,2004,s,premier-league
 Crystal Palace,Sam Togwell,19,England,Defensive Midfield,DM,-,Crystal Palace U23,England,-,In,2004,s,premier-league
-Crystal Palace,Tommy Black,24,England,Right Midfield,RM,-,Sheffield United,England,"End of loanOct 1, 2004",In,2004,s,premier-league
 Arsenal FC,Francis Jeffers,23,England,Centre-Forward,CF,-,Charlton Athletic,England,£3.51m,Out,2004,s,premier-league
 Arsenal FC,Martin Keown,37,England,Centre-Back,CB,-,Leicester City,England,Free transfer,Out,2004,s,premier-league
 Arsenal FC,Stathis Tavlaridis,24,Greece,Centre-Back,CB,-,LOSC Lille,France,Free transfer,Out,2004,s,premier-league
@@ -347,7 +347,8 @@ Chelsea FC,Emmanuel Petit,33,France,Defensive Midfield,DM,-,,Retired,-,Out,2004,
 Chelsea FC,Marcel Desailly,35,France,Centre-Back,CB,-,,Without Club,-,Out,2004,s,premier-league
 Manchester United,Nicky Butt,29,England,Central Midfield,CM,-,Newcastle United,England,£3.38m,Out,2004,s,premier-league
 Manchester United,Diego Forlán,25,Uruguay,Centre-Forward,CF,-,Villarreal CF,Spain,£2.88m,Out,2004,s,premier-league
-Manchester United,Mark Lynch,22,England,Right-Back,RB,-,Sunderland AFC,England,£68k,Out,2004,s,premier-league
+Manchester United,Mark Lynch,22,England,Right-Back,RB,-,Sunderland AFC,England,£68Th.,Out,2004,s,premier-league
+Manchester United,Luke Steele,19,England,Goalkeeper,GK,-,Coventry City,England,Loan,Out,2004,s,premier-league
 Manchester United,Fabien Barthez,33,France,Goalkeeper,GK,-,Olympique Marseille,France,Free transfer,Out,2004,s,premier-league
 Manchester United,Hussein Yasser,21,Qatar,Attacking Midfield,AM,-,AEL Limassol,Cyprus,Free transfer,Out,2004,s,premier-league
 Manchester United,Michael Stewart,23,Scotland,Central Midfield,CM,-,Heart of Midlothian FC,Scotland,Loan,Out,2004,s,premier-league
@@ -355,16 +356,12 @@ Manchester United,Danny Pugh,21,England,Left-Back,LB,-,Leeds United,England,Free
 Manchester United,Luke Chadwick,23,England,Attacking Midfield,AM,-,West Ham United,England,Free transfer,Out,2004,s,premier-league
 Manchester United,Eddie Johnson,19,England,Centre-Forward,CF,-,Coventry City,England,Loan,Out,2004,s,premier-league
 Manchester United,Neil Wood,21,England,Central Midfield,CM,-,Coventry City,England,Free transfer,Out,2004,s,premier-league
-Manchester United,Luke Steele,19,England,Goalkeeper,GK,-,Coventry City,England,Loan,Out,2004,s,premier-league
 Manchester United,Nick Culkin,25,England,Goalkeeper,GK,-,Queens Park Rangers,England,?,Out,2004,s,premier-league
 Manchester United,Mads Timm,19,Denmark,Second Striker,SS,-,Manchester United U23,England,-,Out,2004,s,premier-league
 Manchester United,Danny Byrne,19,Ireland,Defender,Defender,-,,Retired,-,Out,2004,s,premier-league
 Liverpool FC,Michael Owen,24,England,Centre-Forward,CF,-,Real Madrid,Spain,£10.80m,Out,2004,s,premier-league
 Liverpool FC,Emile Heskey,26,England,Centre-Forward,CF,-,Birmingham City,England,£8.39m,Out,2004,s,premier-league
 Liverpool FC,Danny Murphy,27,England,Central Midfield,CM,-,Charlton Athletic,England,£2.93m,Out,2004,s,premier-league
-Liverpool FC,Carl Medjani,19,Algeria,Defensive Midfield,DM,-,FC Lorient,France,Loan,Out,2004,s,premier-league
-Liverpool FC,Michael Foley-Sheridan,21,Ireland,Central Midfield,CM,-,St. Patricks Athletic,Ireland,Free transfer,Out,2004,s,premier-league
-Liverpool FC,Steven Gillespie,19,England,Centre-Forward,CF,-,Bristol City,England,Free transfer,Out,2004,s,premier-league
 Liverpool FC,El-Hadji Diouf,23,Senegal,Centre-Forward,CF,-,Bolton Wanderers,England,Loan,Out,2004,s,premier-league
 Liverpool FC,Bruno Cheyrou,26,France,Central Midfield,CM,-,Olympique Marseille,France,Loan,Out,2004,s,premier-league
 Liverpool FC,Chris Butler,19,Ireland,Left-Back,LB,-,Accrington Stanley,England,Free transfer,Out,2004,s,premier-league
@@ -373,6 +370,9 @@ Liverpool FC,Stephen Vaughan,19,England,Right-Back,RB,-,Chester City (diss.),Eng
 Liverpool FC,Jon Otsemobor,21,England,Right-Back,RB,-,Crewe Alexandra,England,Loan,Out,2004,s,premier-league
 Liverpool FC,Markus Babbel,31,Germany,Centre-Back,CB,-,VfB Stuttgart,Germany,Free transfer,Out,2004,s,premier-league
 Liverpool FC,Alou Diarra,23,France,Defensive Midfield,DM,-,RC Lens,France,Loan,Out,2004,s,premier-league
+Liverpool FC,Carl Medjani,19,Algeria,Defensive Midfield,DM,-,FC Lorient,France,Loan,Out,2004,s,premier-league
+Liverpool FC,Michael Foley-Sheridan,21,Ireland,Central Midfield,CM,-,St. Patricks Athletic,Ireland,Free transfer,Out,2004,s,premier-league
+Liverpool FC,Steven Gillespie,19,England,Centre-Forward,CF,-,Bristol City,England,Free transfer,Out,2004,s,premier-league
 Liverpool FC,Arnaud Bühler,19,Switzerland,Centre-Back,CB,-,FC Aarau,Switzerland,?,Out,2004,s,premier-league
 Liverpool FC,Grégory Vignal,23,France,Left-Back,LB,-,Rangers FC,Scotland,Loan,Out,2004,s,premier-league
 Liverpool FC,Bernard Diomède,30,France,Left Winger,LW,-,,Without Club,-,Out,2004,s,premier-league
@@ -380,6 +380,8 @@ Liverpool FC,David Mannix,18,England,Central Midfield,CM,-,Liverpool FC U23,Engl
 Newcastle United,Jonathan Woodgate,24,England,Centre-Back,CB,-,Real Madrid,Spain,£16.47m,Out,2004,s,premier-league
 Newcastle United,Lomana LuaLua,23,DR Congo,Centre-Forward,CF,-,Portsmouth FC,England,£2.03m,Out,2004,s,premier-league
 Newcastle United,Gary Speed,34,Wales,Left Midfield,LM,-,Bolton Wanderers,England,£1.01m,Out,2004,s,premier-league
+Newcastle United,Steven Caldwell,23,Scotland,Centre-Back,CB,-,Sunderland AFC,England,Free transfer,Out,2004,s,premier-league
+Newcastle United,Richard Offiong,20,England,Centre-Forward,CF,-,K Patro Maasmechelen,Belgium,Free transfer,Out,2004,s,premier-league
 Newcastle United,Andy Griffin,25,England,Right-Back,RB,-,Portsmouth FC,England,Free transfer,Out,2004,s,premier-league
 Newcastle United,Bradley Orr,21,England,Centre-Back,CB,-,Bristol City,England,Free transfer,Out,2004,s,premier-league
 Newcastle United,Hugo Viana,21,Portugal,Central Midfield,CM,-,Sporting CP,Portugal,Loan,Out,2004,s,premier-league
@@ -387,14 +389,12 @@ Newcastle United,Calvin Zola,19,DR Congo,Centre-Forward,CF,-,Tranmere Rovers,Eng
 Newcastle United,Brian Kerr,22,Scotland,Defensive Midfield,DM,-,Motherwell FC,Scotland,Free transfer,Out,2004,s,premier-league
 Newcastle United,Andy Ferrell,20,England,Left Midfield,LM,-,Watford FC,England,Free transfer,Out,2004,s,premier-league
 Newcastle United,Michael Chopra,20,England,Centre-Forward,CF,-,Barnsley FC,England,Loan,Out,2004,s,premier-league
-Newcastle United,Steven Caldwell,23,Scotland,Centre-Back,CB,-,Sunderland AFC,England,Free transfer,Out,2004,s,premier-league
-Newcastle United,Richard Offiong,20,England,Centre-Forward,CF,-,K Patro Maasmechelen,Belgium,Free transfer,Out,2004,s,premier-league
+Newcastle United,Diego Gavilán,24,Paraguay,Central Midfield,CM,-,Sport Club Internacional,Brazil,?,Out,2004,s,premier-league
 Newcastle United,Robert Middleby,28,Australia,Right-Back,RB,-,Sydney FC,Australia,?,Out,2004,s,premier-league
 Newcastle United,Chris Carr,19,England,Centre-Back,CB,-,Sheffield Wednesday,England,?,Out,2004,s,premier-league
-Newcastle United,Diego Gavilán,24,Paraguay,Central Midfield,CM,-,Sport Club Internacional,Brazil,?,Out,2004,s,premier-league
 Aston Villa,Peter Crouch,23,England,Centre-Forward,CF,-,Southampton FC,England,£2.70m,Out,2004,s,premier-league
-Aston Villa,Rob Edwards,21,Wales,Centre-Back,CB,-,Wolverhampton Wanderers,England,£203k,Out,2004,s,premier-league
-Aston Villa,Marcus Allbäck,30,Sweden,Centre-Forward,CF,-,FC Hansa Rostock,Germany,£180k,Out,2004,s,premier-league
+Aston Villa,Rob Edwards,21,Wales,Centre-Back,CB,-,Wolverhampton Wanderers,England,£203Th.,Out,2004,s,premier-league
+Aston Villa,Marcus Allbäck,30,Sweden,Centre-Forward,CF,-,FC Hansa Rostock,Germany,£180Th.,Out,2004,s,premier-league
 Aston Villa,Stefan Moore,20,England,Centre-Forward,CF,-,Millwall FC,England,Loan,Out,2004,s,premier-league
 Aston Villa,Jonathan Bewers,21,England,Right-Back,RB,-,Walsall FC,England,Free transfer,Out,2004,s,premier-league
 Aston Villa,Dion Dublin,35,England,Centre-Forward,CF,-,Leicester City,England,Free transfer,Out,2004,s,premier-league
@@ -414,10 +414,12 @@ Charlton Athletic,Paolo Di Canio,35,Italy,Centre-Forward,CF,-,SS Lazio,Italy,Fre
 Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,-,Milton Keynes Dons,England,Loan,Out,2004,s,premier-league
 Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,-,Northampton Town,England,Loan,Out,2004,s,premier-league
 Charlton Athletic,Rob Elliot,18,Ireland,Goalkeeper,GK,-,Bishop's Stortford FC,England,Loan,Out,2004,s,premier-league
-Charlton Athletic,Mathias Svensson,29,Sweden,Centre-Forward,CF,-,Norwich City,England,£45k,Out,2004,s,premier-league
+Charlton Athletic,Mathias Svensson,29,Sweden,Centre-Forward,CF,-,Norwich City,England,£45Th.,Out,2004,s,premier-league
 Charlton Athletic,Richard Rufus,29,England,Centre-Back,CB,-,,Retired,-,Out,2004,s,premier-league
 Charlton Athletic,Gary Rowett,30,England,Right-Back,RB,-,,Retired,-,Out,2004,s,premier-league
-Bolton Wanderers,Simon Charlton,32,England,Left-Back,LB,-,Norwich City,England,£338k,Out,2004,s,premier-league
+Bolton Wanderers,Simon Charlton,32,England,Left-Back,LB,-,Norwich City,England,£338Th.,Out,2004,s,premier-league
+Bolton Wanderers,Delroy Facey,24,Grenada,Centre-Forward,CF,-,Hull City,England,Free transfer,Out,2004,s,premier-league
+Bolton Wanderers,Émerson Thome,32,Brazil,Centre-Back,CB,-,Wigan Athletic,England,Free transfer,Out,2004,s,premier-league
 Bolton Wanderers,Steve Howey,32,England,Centre-Back,CB,-,New England Revolution,United States,Free transfer,Out,2004,s,premier-league
 Bolton Wanderers,Per Frandsen,34,Denmark,Right Midfield,RM,-,Wigan Athletic,England,Free transfer,Out,2004,s,premier-league
 Bolton Wanderers,Kangana N'Diwa,20,DR Congo,Defender,Defender,-,Stalybridge Celtic FC,England,Free transfer,Out,2004,s,premier-league
@@ -428,44 +430,38 @@ Bolton Wanderers,Gérald Forschelet,22,France,Defensive Midfield,DM,-,FC Istres 
 Bolton Wanderers,Jardel,30,Brazil,Centre-Forward,CF,-,Club Atlético Newell's Old Boys,Argentina,Loan,Out,2004,s,premier-league
 Bolton Wanderers,Donovan Ricketts,27,Jamaica,Goalkeeper,GK,-,Bradford City,England,Loan,Out,2004,s,premier-league
 Bolton Wanderers,Danny Livesey,19,England,Centre-Back,CB,-,Blackpool FC,England,Free transfer,Out,2004,s,premier-league
-Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45k,Bury FC,England,Loan,Out,2004,s,premier-league
+Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45Th.,Bury FC,England,Loan,Out,2004,s,premier-league
 Bolton Wanderers,Michael Bridges,26,England,Centre-Forward,CF,-,Sunderland AFC,England,Free transfer,Out,2004,s,premier-league
 Bolton Wanderers,Ibrahim Bá,30,France,Right Midfield,RM,-,Caykur Rizespor,Turkey,Free transfer,Out,2004,s,premier-league
-Bolton Wanderers,Delroy Facey,24,Grenada,Centre-Forward,CF,-,Hull City,England,Free transfer,Out,2004,s,premier-league
-Bolton Wanderers,Émerson Thome,32,Brazil,Centre-Back,CB,-,Wigan Athletic,England,Free transfer,Out,2004,s,premier-league
 Bolton Wanderers,Chris Armstrong,33,England,Centre-Forward,CF,-,Wrexham AFC,England,?,Out,2004,s,premier-league
 Bolton Wanderers,El-Hadji Diouf,24,Senegal,Centre-Forward,CF,£5.85m,Liverpool FC,England,"End of loanMay 16, 2005",Out,2004,s,premier-league
 Bolton Wanderers,Youri Djorkaeff,36,France,Attacking Midfield,AM,-,,Without Club,-,Out,2004,s,premier-league
 Bolton Wanderers,Javi Moreno,29,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Fulham FC,Sean Davis,24,England,Defensive Midfield,DM,-,Tottenham Hotspur,England,£4.68m,Out,2004,s,premier-league
+Fulham FC,Dean Leacock,20,England,Centre-Back,CB,-,Coventry City,England,Loan,Out,2004,s,premier-league
 Fulham FC,Mark Hudson,22,England,Centre-Back,CB,-,Crystal Palace,England,Free transfer,Out,2004,s,premier-league
 Fulham FC,Liam Fontaine,18,England,Centre-Back,CB,-,Yeovil Town,England,Loan,Out,2004,s,premier-league
 Fulham FC,Jon Harley,24,England,Left-Back,LB,-,Sheffield United,England,Free transfer,Out,2004,s,premier-league
 Fulham FC,Stuart Noble,20,Scotland,Centre-Forward,CF,-,Torquay United FC,England,Loan,Out,2004,s,premier-league
 Fulham FC,Barry Hayles,32,Jamaica,Centre-Forward,CF,-,Sheffield United,England,Free transfer,Out,2004,s,premier-league
-Fulham FC,Dean Leacock,20,England,Centre-Back,CB,-,Coventry City,England,Loan,Out,2004,s,premier-league
 Fulham FC,Facundo Sava,30,Argentina,Centre-Forward,CF,-,Celta de Vigo,Spain,Loan,Out,2004,s,premier-league
 Fulham FC,Abdeslam Ouaddou,25,Morocco,Centre-Back,CB,-,Stade Rennais FC,France,?,Out,2004,s,premier-league
 Fulham FC,Andrejs Stolcers,29,Latvia,Attacking Midfield,AM,-,,Without Club,-,Out,2004,s,premier-league
 Fulham FC,Dave Beasant,45,England,Goalkeeper,GK,-,,Retired,-,Out,2004,s,premier-league
 Fulham FC,Martin Djetou,29,France,Centre-Back,CB,-,AC Parma,Italy,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Fulham FC,Bobby Petta,29,Netherlands,Left Midfield,LM,-,Celtic FC,Scotland,"End of loanJun 30, 2004",Out,2004,s,premier-league
-Birmingham City,Darren Purse,27,England,Centre-Back,CB,-,West Bromwich Albion,England,£810k,Out,2004,s,premier-league
-Birmingham City,Aliou Cissé,28,Senegal,Defensive Midfield,DM,-,Portsmouth FC,England,£405k,Out,2004,s,premier-league
-Birmingham City,Stern John,27,Trinidad and Tobago,Centre-Forward,CF,-,Coventry City,England,£270k,Out,2004,s,premier-league
-Birmingham City,Andy Barrowman,19,Scotland,Centre-Forward,CF,-,Blackpool FC,England,Loan,Out,2004,s,premier-league
+Birmingham City,Darren Purse,27,England,Centre-Back,CB,-,West Bromwich Albion,England,£810Th.,Out,2004,s,premier-league
+Birmingham City,Aliou Cissé,28,Senegal,Defensive Midfield,DM,-,Portsmouth FC,England,£405Th.,Out,2004,s,premier-league
+Birmingham City,Stern John,27,Trinidad and Tobago,Centre-Forward,CF,-,Coventry City,England,£270Th.,Out,2004,s,premier-league
 Birmingham City,Luciano Figueroa,23,Argentina,Centre-Forward,CF,-,CD Cruz Azul,Mexico,Free transfer,Out,2004,s,premier-league
 Birmingham City,Darren Carter,20,England,Central Midfield,CM,-,Sunderland AFC,England,Loan,Out,2004,s,premier-league
 Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Barnsley FC,England,Free transfer,Out,2004,s,premier-league
 Birmingham City,Bryan Hughes,28,England,Attacking Midfield,AM,-,Charlton Athletic,England,Free transfer,Out,2004,s,premier-league
+Birmingham City,Andy Barrowman,19,Scotland,Centre-Forward,CF,-,Blackpool FC,England,Loan,Out,2004,s,premier-league
 Birmingham City,Salif Diao,28,Senegal,Defensive Midfield,DM,£4.50m,Liverpool FC,England,"End of loanMay 1, 2005",Out,2004,s,premier-league
-Birmingham City,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900k,Racing Santander,Spain,"End of loanMay 16, 2005",Out,2004,s,premier-league
+Birmingham City,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Racing Santander,Spain,"End of loanMay 16, 2005",Out,2004,s,premier-league
 Middlesbrough FC,Jonathan Greening,25,England,Central Midfield,CM,-,West Bromwich Albion,England,£1.58m,Out,2004,s,premier-league
-Middlesbrough FC,Massimo Maccarone,24,Italy,Centre-Forward,CF,-,Parma FC,Italy,Loan fee:£900k,Out,2004,s,premier-league
-Middlesbrough FC,Allan Johnston,30,Scotland,Right Midfield,RM,-,Kilmarnock FC,Scotland,Free transfer,Out,2004,s,premier-league
-Middlesbrough FC,Robbie Stockdale,24,Scotland,Right-Back,RB,-,Rotherham United,England,Free transfer,Out,2004,s,premier-league
-Middlesbrough FC,Craig Dove,20,England,Midfielder,Midfielder,-,Rushden & Diamonds (liq.),England,Free transfer,Out,2004,s,premier-league
-Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Barnsley FC,England,Loan,Out,2004,s,premier-league
+Middlesbrough FC,Massimo Maccarone,24,Italy,Centre-Forward,CF,-,Parma FC,Italy,Loan fee:£900Th.,Out,2004,s,premier-league
 Middlesbrough FC,Michael Ricketts,25,England,Centre-Forward,CF,-,Leeds United,England,Free transfer,Out,2004,s,premier-league
 Middlesbrough FC,Juninho Paulista,31,Brazil,Attacking Midfield,AM,-,Celtic FC,Scotland,Free transfer,Out,2004,s,premier-league
 Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Rushden & Diamonds (liq.),England,Free transfer,Out,2004,s,premier-league
@@ -473,11 +469,15 @@ Middlesbrough FC,Mark Wilson,25,England,Central Midfield,CM,-,Doncaster Rovers,E
 Middlesbrough FC,David Murphy,20,England,Left-Back,LB,-,Hibernian FC,Scotland,Free transfer,Out,2004,s,premier-league
 Middlesbrough FC,Sam Russell,21,England,Goalkeeper,GK,-,Darlington FC (liq.),England,Free transfer,Out,2004,s,premier-league
 Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Bradford City,England,Loan,Out,2004,s,premier-league
+Middlesbrough FC,Allan Johnston,30,Scotland,Right Midfield,RM,-,Kilmarnock FC,Scotland,Free transfer,Out,2004,s,premier-league
+Middlesbrough FC,Robbie Stockdale,24,Scotland,Right-Back,RB,-,Rotherham United,England,Free transfer,Out,2004,s,premier-league
+Middlesbrough FC,Craig Dove,20,England,Midfielder,Midfielder,-,Rushden & Diamonds (liq.),England,Free transfer,Out,2004,s,premier-league
+Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Barnsley FC,England,Loan,Out,2004,s,premier-league
 Middlesbrough FC,Ricardinho,28,Brazil,Attacking Midfield,AM,-,Santos FC,Brazil,?,Out,2004,s,premier-league
 Middlesbrough FC,Gaizka Mendieta,30,Spain,Right Midfield,RM,-,SS Lazio,Italy,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Middlesbrough FC,Boudewijn Zenden,27,Netherlands,Left Winger,LW,-,Chelsea FC,England,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Southampton FC,Fitz Hall,23,England,Centre-Back,CB,-,Crystal Palace,England,£2.03m,Out,2004,s,premier-league
-Southampton FC,Stephen Crainey,23,Scotland,Left-Back,LB,-,Leeds United,England,£225k,Out,2004,s,premier-league
+Southampton FC,Stephen Crainey,23,Scotland,Left-Back,LB,-,Leeds United,England,£225Th.,Out,2004,s,premier-league
 Southampton FC,Mike Williamson,20,England,Centre-Back,CB,-,Wycombe Wanderers,England,Free transfer,Out,2004,s,premier-league
 Southampton FC,Stephen Hunt,19,England,Left-Back,LB,-,Colchester United,England,Free transfer,Out,2004,s,premier-league
 Southampton FC,Martin Cranie,18,England,Centre-Back,CB,-,AFC Bournemouth,England,Loan,Out,2004,s,premier-league
@@ -486,10 +486,10 @@ Southampton FC,Stuart Anderson,18,Scotland,Central Midfield,CM,-,Blackpool FC,En
 Southampton FC,Brett Ormerod,27,England,Centre-Forward,CF,-,Leeds United,England,Loan,Out,2004,s,premier-league
 Southampton FC,Dani Rodrigues,24,Portugal,Left Winger,LW,-,AFC Bournemouth,England,Loan,Out,2004,s,premier-league
 Southampton FC,Andrejs Pereplotkins,19,Latvia,Right Midfield,RM,-,Bohemian Football Club Dublin,Ireland,?,Out,2004,s,premier-league
-Southampton FC,Graeme Le Saux,36,England,Left-Back,LB,£585k,,Retired,-,Out,2004,s,premier-league
+Southampton FC,Graeme Le Saux,36,England,Left-Back,LB,£585Th.,,Retired,-,Out,2004,s,premier-league
 Southampton FC,Calum Davenport,22,England,Centre-Back,CB,£1.80m,Tottenham Hotspur,England,"End of loanMay 1, 2005",Out,2004,s,premier-league
 Southampton FC,Henri Camara,27,Senegal,Centre-Forward,CF,£3.15m,Wolverhampton Wanderers,England,"End of loanMay 1, 2005",Out,2004,s,premier-league
-Portsmouth FC,Rowan Vine,21,England,Centre-Forward,CF,-,Luton Town,England,£338k,Out,2004,s,premier-league
+Portsmouth FC,Rowan Vine,21,England,Centre-Forward,CF,-,Luton Town,England,£338Th.,Out,2004,s,premier-league
 Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,-,Burnley FC,England,Loan,Out,2004,s,premier-league
 Portsmouth FC,Chris Tardif,23,Guernsey,Goalkeeper,GK,-,Oxford United,England,Free transfer,Out,2004,s,premier-league
 Portsmouth FC,Deon Burton,27,Jamaica,Centre-Forward,CF,-,Brentford FC,England,Free transfer,Out,2004,s,premier-league
@@ -528,10 +528,10 @@ Tottenham Hotspur,Christian Ziege,32,Germany,Left Midfield,LM,-,Borussia Mönche
 Tottenham Hotspur,Milenko Acimovic,27,Slovenia,Left Midfield,LM,-,LOSC Lille,France,Free transfer,Out,2004,s,premier-league
 Tottenham Hotspur,Lars Hirschfeld,25,Canada,Goalkeeper,GK,-,Dundee United FC,Scotland,Free transfer,Out,2004,s,premier-league
 Tottenham Hotspur,Ben Bowditch,20,England,Midfielder,Midfielder,-,Colchester United,England,Free transfer,Out,2004,s,premier-league
-Tottenham Hotspur,David Limbersky,21,Czech Republic,Left-Back,LB,£90k,FC Viktoria Plzen,Czech Republic,"End of loanMay 1, 2005",Out,2004,s,premier-league
+Tottenham Hotspur,David Limbersky,21,Czech Republic,Left-Back,LB,£90Th.,FC Viktoria Plzen,Czech Republic,"End of loanMay 1, 2005",Out,2004,s,premier-league
 Tottenham Hotspur,Gustavo Poyet,36,Uruguay,Attacking Midfield,AM,-,,Retired,-,Out,2004,s,premier-league
 Tottenham Hotspur,Stéphane Dalmat,25,France,Central Midfield,CM,-,FC Internazionale,Italy,"End of loanJun 30, 2004",Out,2004,s,premier-league
-Blackburn Rovers,Dwight Yorke,32,Trinidad and Tobago,Centre-Forward,CF,-,Birmingham City,England,£360k,Out,2004,s,premier-league
+Blackburn Rovers,Dwight Yorke,32,Trinidad and Tobago,Centre-Forward,CF,-,Birmingham City,England,£360Th.,Out,2004,s,premier-league
 Blackburn Rovers,Michael Taylor,21,England,Centre-Back,CB,-,Cheltenham Town,England,Free transfer,Out,2004,s,premier-league
 Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Colchester United,England,Loan,Out,2004,s,premier-league
 Blackburn Rovers,Paul Weaver,18,Scotland,Midfielder,Midfielder,-,Cercle Brugge ,Belgium,Loan,Out,2004,s,premier-league
@@ -543,40 +543,40 @@ Blackburn Rovers,Jay Bothroyd,22,England,Centre-Forward,CF,£1.58m,AC Perugia,It
 Blackburn Rovers,Alan Kelly,35,Ireland,Goalkeeper,GK,-,,Retired,-,Out,2004,s,premier-league
 Blackburn Rovers,Markus Babbel,31,Germany,Centre-Back,CB,-,Liverpool FC,England,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Blackburn Rovers,Martin Andresen,27,Norway,Central Midfield,CM,-,Stabæk Fotball,Norway,"End of loanJun 30, 2004",Out,2004,s,premier-league
-Manchester City,Chris Shuker,22,England,Right Midfield,RM,-,Barnsley FC,England,Free transfer,Out,2004,s,premier-league
-Manchester City,Gerard Wiekens,31,Netherlands,Centre-Back,CB,-,SC Veendam,Netherlands,Free transfer,Out,2004,s,premier-league
-Manchester City,Mikkel Bischoff,22,Denmark,Centre-Back,CB,-,Wolverhampton Wanderers,England,Loan,Out,2004,s,premier-league
 Manchester City,Danny Tiatto,31,Australia,Left-Back,LB,-,Leicester City,England,Free transfer,Out,2004,s,premier-league
 Manchester City,Keiren Westwood,19,Ireland,Goalkeeper,GK,-,Carlisle United,England,Free transfer,Out,2004,s,premier-league
 Manchester City,Michael Tarnat,34,Germany,Left-Back,LB,-,Hannover 96,Germany,Free transfer,Out,2004,s,premier-league
+Manchester City,Chris Shuker,22,England,Right Midfield,RM,-,Barnsley FC,England,Free transfer,Out,2004,s,premier-league
+Manchester City,Gerard Wiekens,31,Netherlands,Centre-Back,CB,-,SC Veendam,Netherlands,Free transfer,Out,2004,s,premier-league
+Manchester City,Mikkel Bischoff,22,Denmark,Centre-Back,CB,-,Wolverhampton Wanderers,England,Loan,Out,2004,s,premier-league
 Manchester City,Árni Arason,29,Iceland,Goalkeeper,GK,-,Vålerenga Fotball,Norway,?,Out,2004,s,premier-league
 Manchester City,Steve McManaman,33,England,Left Midfield,LM,£5.22m,,Retired,-,Out,2004,s,premier-league
 Manchester City,Daniel Van Buyten,26,Belgium,Centre-Back,CB,-,Olympique Marseille,France,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Everton FC,Wayne Rooney,18,England,Attacking Midfield,AM,-,Manchester United,England,£33.30m,Out,2004,s,premier-league
 Everton FC,Tomasz Radzinski,30,Canada,Centre-Forward,CF,-,Fulham FC,England,£2.70m,Out,2004,s,premier-league
 Everton FC,Tobias Linderoth,25,Sweden,Defensive Midfield,DM,-,FC Copenhagen,Denmark,£1.44m,Out,2004,s,premier-league
+Everton FC,David Unsworth,30,England,Left-Back,LB,-,Portsmouth FC,England,Free transfer,Out,2004,s,premier-league
+Everton FC,Steven Schumacher,20,England,Central Midfield,CM,-,Bradford City,England,Free transfer,Out,2004,s,premier-league
 Everton FC,Steve Simonsen,25,England,Goalkeeper,GK,-,Stoke City,England,Free transfer,Out,2004,s,premier-league
 Everton FC,Scot Gemmill,33,Scotland,Central Midfield,CM,-,Leicester City,England,Free transfer,Out,2004,s,premier-league
 Everton FC,Niclas Alexandersson,32,Sweden,Right Midfield,RM,-,IFK Göteborg,Sweden,Free transfer,Out,2004,s,premier-league
 Everton FC,Paul Gerrard,31,England,Goalkeeper,GK,-,Nottingham Forest,England,Free transfer,Out,2004,s,premier-league
 Everton FC,Peter Clarke,22,England,Centre-Back,CB,-,Blackpool FC,England,Free transfer,Out,2004,s,premier-league
-Everton FC,David Unsworth,30,England,Left-Back,LB,-,Portsmouth FC,England,Free transfer,Out,2004,s,premier-league
-Everton FC,Steven Schumacher,20,England,Central Midfield,CM,-,Bradford City,England,Free transfer,Out,2004,s,premier-league
 Everton FC,Mikel Arteta,23,Spain,Central Midfield,CM,£7.20m,Real Sociedad,Spain,"End of loanMay 16, 2005",Out,2004,s,premier-league
 Everton FC,Ibrahim Said,23,Egypt,Centre-Back,CB,-,El Ahly Cairo,Egypt,"End of loanJun 30, 2004",Out,2004,s,premier-league
-Norwich City,Malky Mackay,32,Scotland,Centre-Back,CB,-,West Ham United,England,£405k,Out,2004,s,premier-league
-Norwich City,Iwan Roberts,36,Wales,Centre-Forward,CF,-,Gillingham FC,England,Free transfer,Out,2004,s,premier-league
-Norwich City,Clint Easton,26,England,Left-Back,LB,-,Wycombe Wanderers,England,Free transfer,Out,2004,s,premier-league
+Norwich City,Malky Mackay,32,Scotland,Centre-Back,CB,-,West Ham United,England,£405Th.,Out,2004,s,premier-league
 Norwich City,Paul Crichton,35,England,Goalkeeper,GK,-,York City,England,Free transfer,Out,2004,s,premier-league
 Norwich City,Dean Sinclair,19,England,Right Winger,RW,-,Barnet FC,England,Free transfer,Out,2004,s,premier-league
 Norwich City,Zema Abbey,27,England,Centre-Forward,CF,-,Boston United,England,Loan,Out,2004,s,premier-league
-Norwich City,Ryan Jarvis,18,England,Centre-Forward,CF,£900k,Colchester United,England,Loan,Out,2004,s,premier-league
+Norwich City,Ryan Jarvis,18,England,Centre-Forward,CF,£900Th.,Colchester United,England,Loan,Out,2004,s,premier-league
 Norwich City,Mark Rivers,28,England,Centre-Forward,CF,-,Crewe Alexandra,England,Free transfer,Out,2004,s,premier-league
 Norwich City,Keith Briggs,22,England,Central Midfield,CM,-,Crewe Alexandra,England,Loan,Out,2004,s,premier-league
 Norwich City,Zema Abbey,27,England,Centre-Forward,CF,-,Wycombe Wanderers,England,Free transfer,Out,2004,s,premier-league
+Norwich City,Iwan Roberts,36,Wales,Centre-Forward,CF,-,Gillingham FC,England,Free transfer,Out,2004,s,premier-league
+Norwich City,Clint Easton,26,England,Left-Back,LB,-,Wycombe Wanderers,England,Free transfer,Out,2004,s,premier-league
 Norwich City,David Bentley,20,England,Right Midfield,RM,£1.80m,Arsenal FC,England,"End of loanApr 1, 2005",Out,2004,s,premier-league
-West Bromwich Albion,Sean Gregan,30,England,Centre-Back,CB,-,Leeds United,England,£675k,Out,2004,s,premier-league
-West Bromwich Albion,James Chambers,23,England,Right-Back,RB,-,Watford FC,England,£338k,Out,2004,s,premier-league
+West Bromwich Albion,Sean Gregan,30,England,Centre-Back,CB,-,Leeds United,England,£675Th.,Out,2004,s,premier-league
+West Bromwich Albion,James Chambers,23,England,Right-Back,RB,-,Watford FC,England,£338Th.,Out,2004,s,premier-league
 West Bromwich Albion,Ross Adams,21,England,Defender,Defender,-,Hednesford Town,England,Free transfer,Out,2004,s,premier-league
 West Bromwich Albion,Simon Brown,20,England,Midfielder,Midfielder,-,Kidderminster Harriers,England,Loan,Out,2004,s,premier-league
 West Bromwich Albion,Joost Volmer,30,Netherlands,Centre-Back,CB,-,FC Den Bosch,Netherlands,Free transfer,Out,2004,s,premier-league
@@ -584,10 +584,10 @@ West Bromwich Albion,Phil Gilchrist,30,England,Centre-Back,CB,-,Rotherham United
 West Bromwich Albion,Mark Kinsella,31,Ireland,Defensive Midfield,DM,-,Walsall FC,England,Free transfer,Out,2004,s,premier-league
 West Bromwich Albion,Lee Marshall,25,England,Central Midfield,CM,-,Hull City,England,Free transfer,Out,2004,s,premier-league
 West Bromwich Albion,Joe Murphy,23,Ireland,Goalkeeper,GK,-,Walsall FC,England,Loan,Out,2004,s,premier-league
-West Bromwich Albion,Kieran Richardson,20,England,Left-Back,LB,£450k,Manchester United,England,"End of loanMay 31, 2005",Out,2004,s,premier-league
+West Bromwich Albion,Kieran Richardson,20,England,Left-Back,LB,£450Th.,Manchester United,England,"End of loanMay 31, 2005",Out,2004,s,premier-league
 West Bromwich Albion,Lee Hughes,28,England,Centre-Forward,CF,-,,Career break,-,Out,2004,s,premier-league
-West Bromwich Albion,Morten Skoubo,24,Denmark,Centre-Forward,CF,-,Borussia Mönchengladbach,Germany,"End of loanJun 30, 2004",Out,2004,s,premier-league
 West Bromwich Albion,Alassane N'Dour,22,Senegal,Defensive Midfield,DM,-,AS Saint-Étienne,France,"End of loanJun 30, 2004",Out,2004,s,premier-league
+West Bromwich Albion,Morten Skoubo,24,Denmark,Centre-Forward,CF,-,Borussia Mönchengladbach,Germany,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Crystal Palace,Julian Gray,24,England,Centre-Forward,CF,-,Birmingham City,England,Free transfer,Out,2004,s,premier-league
 Crystal Palace,Tariq Nabil,19,England,Attacking Midfield,AM,-,FC Windsor,England,Free transfer,Out,2004,s,premier-league
 Crystal Palace,Tommy Black,24,England,Right Midfield,RM,-,Sheffield United,England,Loan,Out,2004,s,premier-league
@@ -600,288 +600,288 @@ Crystal Palace,Matthew Clarke,30,England,Goalkeeper,GK,-,,Retired,-,Out,2004,s,p
 Crystal Palace,Kit Symons,34,Wales,Centre-Back,CB,-,,Retired,-,Out,2004,s,premier-league
 Crystal Palace,Nico Vaesen,34,Belgium,Goalkeeper,GK,-,Birmingham City,England,"End of loanJun 30, 2004",Out,2004,s,premier-league
 Arsenal FC,Emmanuel Eboué,21,Cote d'Ivoire,Right-Back,RB,£1.62m,KSK Beveren,Belgium,£1.98m,In,2004,w,premier-league
-Arsenal FC,Stuart Taylor,24,England,Goalkeeper,GK,£900k,Leicester City,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Arsenal FC,Stuart Taylor,24,England,Goalkeeper,GK,£900Th.,Leicester City,England,"End of loanDec 31, 2004",In,2004,w,premier-league
 Arsenal FC,Frank Simek,20,United States,Right-Back,RB,-,Queens Park Rangers,England,"End of loanNov 1, 2004",In,2004,w,premier-league
-Arsenal FC,Daniel Karbassiyoon,20,United States,Left-Back,LB,£135k,Ipswich Town,England,"End of loanMar 1, 2005",In,2004,w,premier-league
+Arsenal FC,Daniel Karbassiyoon,20,United States,Left-Back,LB,£135Th.,Ipswich Town,England,"End of loanMar 1, 2005",In,2004,w,premier-league
 Chelsea FC,Jiri Jarosik,27,Czech Republic,Centre-Back,CB,£4.50m,CSKA Moscow,Russia,£10.80m,In,2004,w,premier-league
 Chelsea FC,Mikael Forssell,23,Finland,Centre-Forward,CF,£8.10m,Birmingham City,England,"End of loanJan 6, 2005",In,2004,w,premier-league
-Chelsea FC,Sebastian Kneißl,21,Germany,Attacking Midfield,AM,£405k,KVC Westerlo,Belgium,"End of loanDec 31, 2004",In,2004,w,premier-league
-Chelsea FC,Craig Rocastle,23,Grenada,Right Midfield,RM,£90k,Hibernian FC,Scotland,"End of loanJan 4, 2005",In,2004,w,premier-league
-Chelsea FC,Filipe Oliveira,20,Portugal,Right Winger,RW,£405k,Preston North End,England,"End of loanDec 31, 2004",In,2004,w,premier-league
-Manchester United,Giuseppe Rossi,17,Italy,Centre-Forward,CF,£225k,Manchester United U18,England,-,In,2004,w,premier-league
-Manchester United,Colin Heath,21,England,Centre-Forward,CF,£45k,Cambridge United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Chelsea FC,Sebastian Kneißl,21,Germany,Attacking Midfield,AM,£405Th.,KVC Westerlo,Belgium,"End of loanDec 31, 2004",In,2004,w,premier-league
+Chelsea FC,Craig Rocastle,23,Grenada,Right Midfield,RM,£90Th.,Hibernian FC,Scotland,"End of loanJan 4, 2005",In,2004,w,premier-league
+Chelsea FC,Filipe Oliveira,20,Portugal,Right Winger,RW,£405Th.,Preston North End,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Manchester United,Giuseppe Rossi,17,Italy,Centre-Forward,CF,£225Th.,Manchester United U18,England,-,In,2004,w,premier-league
+Manchester United,Colin Heath,21,England,Centre-Forward,CF,£45Th.,Cambridge United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
 Liverpool FC,Fernando Morientes,28,Spain,Centre-Forward,CF,£13.50m,Real Madrid,Spain,£8.33m,In,2004,w,premier-league
-Liverpool FC,Scott Carson,19,England,Goalkeeper,GK,£360k,Leeds United,England,£1.26m,In,2004,w,premier-league
+Liverpool FC,Scott Carson,19,England,Goalkeeper,GK,£360Th.,Leeds United,England,£1.26m,In,2004,w,premier-league
 Liverpool FC,Mauricio Pellegrino,33,Argentina,Centre-Back,CB,£2.03m,Valencia CF,Spain,Free transfer,In,2004,w,premier-league
 Liverpool FC,Anthony Le Tallec,20,France,Centre-Forward,CF,£1.13m,AS Saint-Étienne,France,"End of loanJan 25, 2005",In,2004,w,premier-league
-Liverpool FC,Jon Otsemobor,21,England,Right-Back,RB,£450k,Crewe Alexandra,England,"End of loanJan 1, 2005",In,2004,w,premier-league
-Liverpool FC,Paul Harrison,20,England,Goalkeeper,GK,£113k,Leeds United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Liverpool FC,Jon Otsemobor,21,England,Right-Back,RB,£450Th.,Crewe Alexandra,England,"End of loanJan 1, 2005",In,2004,w,premier-league
+Liverpool FC,Paul Harrison,20,England,Goalkeeper,GK,£113Th.,Leeds United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
 Newcastle United,Jean-Alain Boumsong,25,France,Centre-Back,CB,£7.65m,Rangers FC,Scotland,£10.17m,In,2004,w,premier-league
 Newcastle United,Amdy Fayé,27,Senegal,Defensive Midfield,DM,£2.70m,Portsmouth FC,England,£2.70m,In,2004,w,premier-league
 Newcastle United,Celestine Babayaro,26,Nigeria,Left-Back,LB,£3.60m,Chelsea FC,England,Free transfer,In,2004,w,premier-league
 Newcastle United,Peter Ramage,21,England,Centre-Back,CB,-,Newcastle United U23,England,-,In,2004,w,premier-league
 Aston Villa,Eric Djemba Djemba,23,Cameroon,Defensive Midfield,DM,£6.30m,Manchester United,England,£2.29m,In,2004,w,premier-league
-Aston Villa,Stephen Cooke,21,England,Right Midfield,RM,£45k,Wycombe Wanderers,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Aston Villa,Peter Whittingham,20,England,Central Midfield,CM,£900Th.,Burnley FC,England,"End of loanMar 16, 2005",In,2004,w,premier-league
+Aston Villa,Wayne Henderson,21,Ireland,Goalkeeper,GK,£45Th.,Notts County,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Aston Villa,Stephen Cooke,21,England,Right Midfield,RM,£45Th.,Wycombe Wanderers,England,"End of loanDec 31, 2004",In,2004,w,premier-league
 Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,-,Millwall FC,England,"End of loanOct 3, 2004",In,2004,w,premier-league
-Aston Villa,Peter Whittingham,20,England,Central Midfield,CM,£900k,Burnley FC,England,"End of loanMar 16, 2005",In,2004,w,premier-league
-Aston Villa,Wayne Henderson,21,Ireland,Goalkeeper,GK,£45k,Notts County,England,"End of loanDec 31, 2004",In,2004,w,premier-league
-Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,£900k,Northampton Town,England,"End of loanNov 3, 2004",In,2004,w,premier-league
+Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,£900Th.,Northampton Town,England,"End of loanNov 3, 2004",In,2004,w,premier-league
 Charlton Athletic,Rob Elliot,18,Ireland,Goalkeeper,GK,-,Bishop's Stortford FC,England,"End of loanDec 1, 2004",In,2004,w,premier-league
-Charlton Athletic,Simon Royce,33,England,Goalkeeper,GK,£225k,Luton Town,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+Charlton Athletic,Simon Royce,33,England,Goalkeeper,GK,£225Th.,Luton Town,England,"End of loanNov 1, 2004",In,2004,w,premier-league
 Bolton Wanderers,Vincent Candela,31,France,Left-Back,LB,£3.60m,AS Roma,Italy,Free transfer,In,2004,w,premier-league
 Bolton Wanderers,Khalilou Fadiga,30,Senegal,Left Winger,LW,£3.15m,,Without Club,-,In,2004,w,premier-league
 Bolton Wanderers,Charlie Comyn-Platt,18,England,Centre-Back,CB,-,Wycombe Wanderers,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45k,Bristol Rovers,England,"End of loanMar 9, 2005",In,2004,w,premier-league
+Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45Th.,Bristol Rovers,England,"End of loanMar 9, 2005",In,2004,w,premier-league
 Bolton Wanderers,Jardel,31,Brazil,Centre-Forward,CF,£3.60m,Club Atlético Newell's Old Boys,Argentina,"End of loanDec 31, 2004",In,2004,w,premier-league
-Fulham FC,Dean Leacock,20,England,Centre-Back,CB,£135k,Coventry City,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Fulham FC,Dean Leacock,20,England,Centre-Back,CB,£135Th.,Coventry City,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
 Fulham FC,Liam Fontaine,18,England,Centre-Back,CB,-,Yeovil Town,England,"End of loanDec 1, 2004",In,2004,w,premier-league
-Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90k,Doncaster Rovers,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
-Fulham FC,Adam Green,21,England,Left-Back,LB,£315k,Sheffield Wednesday,England,"End of loanFeb 25, 2005",In,2004,w,premier-league
-Fulham FC,Stuart Noble,21,Scotland,Centre-Forward,CF,£68k,Torquay United FC,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90Th.,Doncaster Rovers,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Fulham FC,Adam Green,21,England,Left-Back,LB,£315Th.,Sheffield Wednesday,England,"End of loanFeb 25, 2005",In,2004,w,premier-league
+Fulham FC,Stuart Noble,21,Scotland,Centre-Forward,CF,£68Th.,Torquay United FC,England,"End of loanDec 31, 2004",In,2004,w,premier-league
 Birmingham City,Robbie Blake,28,England,Second Striker,SS,£1.58m,Burnley FC,England,£2.03m,In,2004,w,premier-league
-Birmingham City,Njazi Kuqi,21,Finland,Centre-Forward,CF,£540k,FC Lahti,Finland,£450k,In,2004,w,premier-league
+Birmingham City,Njazi Kuqi,21,Finland,Centre-Forward,CF,£540Th.,FC Lahti,Finland,£450Th.,In,2004,w,premier-league
+Birmingham City,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Racing Santander,Spain,Loan,In,2004,w,premier-league
 Birmingham City,Salif Diao,27,Senegal,Defensive Midfield,DM,£7.20m,Liverpool FC,England,Loan,In,2004,w,premier-league
 Birmingham City,Jermaine Pennant,22,England,Right Winger,RW,£2.70m,Arsenal FC,England,Loan,In,2004,w,premier-league
-Birmingham City,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900k,Racing Santander,Spain,Loan,In,2004,w,premier-league
 Birmingham City,Wálter Pandiani,28,Uruguay,Centre-Forward,CF,£9.00m,Deportivo de La Coruña,Spain,Loan,In,2004,w,premier-league
-Birmingham City,Darren Carter,20,England,Central Midfield,CM,£450k,Sunderland AFC,England,"End of loanDec 5, 2004",In,2004,w,premier-league
 Birmingham City,Colin Doyle,19,Ireland,Goalkeeper,GK,-,Chester City (diss.),England,"End of loanNov 22, 2004",In,2004,w,premier-league
-Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900k,Sheffield United,England,"End of loanJan 1, 2005",In,2004,w,premier-league
+Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900Th.,Sheffield United,England,"End of loanJan 1, 2005",In,2004,w,premier-league
 Birmingham City,Alex Bruce,20,Northern Ireland,Centre-Back,CB,-,Oldham Athletic,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Birmingham City,Darren Carter,20,England,Central Midfield,CM,£450Th.,Sunderland AFC,England,"End of loanDec 5, 2004",In,2004,w,premier-league
 Middlesbrough FC,David Knight,17,England,Goalkeeper,GK,-,Middlesbrough FC U18,England,-,In,2004,w,premier-league
 Middlesbrough FC,Massimo Maccarone,25,Italy,Centre-Forward,CF,£5.85m,Parma FC,Italy,"End of loanDec 31, 2004",In,2004,w,premier-league
 Middlesbrough FC,Mark Wilson,25,England,Central Midfield,CM,-,Doncaster Rovers,England,"End of loanOct 3, 2004",In,2004,w,premier-league
-Middlesbrough FC,Brad Jones,22,Australia,Goalkeeper,GK,£90k,Blackpool FC,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Middlesbrough FC,Brad Jones,22,Australia,Goalkeeper,GK,£90Th.,Blackpool FC,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
 Southampton FC,Nigel Quashie,26,Scotland,Central Midfield,CM,£2.25m,Portsmouth FC,England,£2.84m,In,2004,w,premier-league
 Southampton FC,Andreas Jakobsson,32,Sweden,Centre-Back,CB,£1.80m,Bröndby IF,Denmark,£1.62m,In,2004,w,premier-league
-Southampton FC,Olivier Bernard,25,France,Left-Back,LB,£3.60m,Newcastle United,England,£540k,In,2004,w,premier-league
+Southampton FC,Olivier Bernard,25,France,Left-Back,LB,£3.60m,Newcastle United,England,£540Th.,In,2004,w,premier-league
 Southampton FC,Jamie Redknapp,31,England,Central Midfield,CM,£5.40m,Tottenham Hotspur,England,Free transfer,In,2004,w,premier-league
 Southampton FC,Kasey Keller,34,United States,Goalkeeper,GK,£3.15m,Tottenham Hotspur,England,Loan,In,2004,w,premier-league
 Southampton FC,Calum Davenport,22,England,Centre-Back,CB,£1.80m,Tottenham Hotspur,England,Loan,In,2004,w,premier-league
 Southampton FC,Henri Camara,27,Senegal,Centre-Forward,CF,£3.15m,Wolverhampton Wanderers,England,Loan,In,2004,w,premier-league
-Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360k,Nottingham Forest,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
-Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45k,Coventry City,England,"End of loanOct 18, 2004",In,2004,w,premier-league
-Southampton FC,Kenwyne Jones,20,Trinidad and Tobago,Centre-Forward,CF,£45k,Sheffield Wednesday,England,"End of loanDec 31, 2004",In,2004,w,premier-league
-Southampton FC,Leon Best,18,Ireland,Centre-Forward,CF,£45k,Queens Park Rangers,England,"End of loanJan 17, 2005",In,2004,w,premier-league
-Southampton FC,Alan Blayney,23,Northern Ireland,Goalkeeper,GK,£113k,Rushden & Diamonds (liq.),England,"End of loanFeb 1, 2005",In,2004,w,premier-league
 Southampton FC,Brett Ormerod,27,England,Centre-Forward,CF,-,Leeds United,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Southampton FC,Martin Cranie,18,England,Centre-Back,CB,£180k,AFC Bournemouth,England,"End of loanDec 1, 2004",In,2004,w,premier-league
-Portsmouth FC,Giannis Skopelitis,26,Greece,Defensive Midfield,DM,£720k,AO Egaleo,Greece,£1.35m,In,2004,w,premier-league
-Portsmouth FC,Konstantinos Chalkias,30,Greece,Goalkeeper,GK,£1.13m,Panathinaikos Athens,Greece,£135k,In,2004,w,premier-league
+Southampton FC,Martin Cranie,18,England,Centre-Back,CB,£180Th.,AFC Bournemouth,England,"End of loanDec 1, 2004",In,2004,w,premier-league
+Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360Th.,Nottingham Forest,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45Th.,Coventry City,England,"End of loanOct 18, 2004",In,2004,w,premier-league
+Southampton FC,Kenwyne Jones,20,Trinidad and Tobago,Centre-Forward,CF,£45Th.,Sheffield Wednesday,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Southampton FC,Leon Best,18,Ireland,Centre-Forward,CF,£45Th.,Queens Park Rangers,England,"End of loanJan 17, 2005",In,2004,w,premier-league
+Southampton FC,Alan Blayney,23,Northern Ireland,Goalkeeper,GK,£113Th.,Rushden & Diamonds (liq.),England,"End of loanFeb 1, 2005",In,2004,w,premier-league
+Portsmouth FC,Giannis Skopelitis,26,Greece,Defensive Midfield,DM,£720Th.,AO Egaleo,Greece,£1.35m,In,2004,w,premier-league
+Portsmouth FC,Konstantinos Chalkias,30,Greece,Goalkeeper,GK,£1.13m,Panathinaikos Athens,Greece,£135Th.,In,2004,w,premier-league
 Portsmouth FC,Aleksandar Rodic,25,Slovenia,Centre-Forward,CF,-,ND Gorica,Slovenia,Free transfer,In,2004,w,premier-league
-Portsmouth FC,Andrea Guatelli,20,Italy,Goalkeeper,GK,£68k,Parma Primavera,Italy,Free transfer,In,2004,w,premier-league
+Portsmouth FC,Andrea Guatelli,20,Italy,Goalkeeper,GK,£68Th.,Parma Primavera,Italy,Free transfer,In,2004,w,premier-league
 Portsmouth FC,Liam Horsted,19,England,Left Winger,LW,-,Portsmouth FC U21,England,-,In,2004,w,premier-league
 Portsmouth FC,Kevin Harper,28,Scotland,Right Midfield,RM,-,Leicester City,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Portsmouth FC,Gary O'Neil,21,England,Central Midfield,CM,£180k,Cardiff City,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+Portsmouth FC,Gary O'Neil,21,England,Central Midfield,CM,£180Th.,Cardiff City,England,"End of loanNov 1, 2004",In,2004,w,premier-league
 Portsmouth FC,James Keene,18,England,Centre-Forward,CF,-,Kidderminster Harriers,England,"End of loanNov 28, 2004",In,2004,w,premier-league
 Portsmouth FC,Mark Burchill,24,Scotland,Centre-Forward,CF,-,Rotherham United,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Portsmouth FC,John Curtis,26,England,Right-Back,RB,£270k,Preston North End,England,"End of loanNov 1, 2004",In,2004,w,premier-league
-Portsmouth FC,Shaun Cooper,21,England,Defensive Midfield,DM,£90k,Kidderminster Harriers,England,"End of loanNov 28, 2004",In,2004,w,premier-league
+Portsmouth FC,John Curtis,26,England,Right-Back,RB,£270Th.,Preston North End,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+Portsmouth FC,Shaun Cooper,21,England,Defensive Midfield,DM,£90Th.,Kidderminster Harriers,England,"End of loanNov 28, 2004",In,2004,w,premier-league
 Portsmouth FC,James Keene,18,England,Centre-Forward,CF,-,AFC Newbury,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450k,Burnley FC,England,"End of loanNov 24, 2004",In,2004,w,premier-league
+Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450Th.,Burnley FC,England,"End of loanNov 24, 2004",In,2004,w,premier-league
 Tottenham Hotspur,Andy Reid,22,Ireland,Left Midfield,LM,£3.15m,Nottingham Forest,England,£7.20m,In,2004,w,premier-league
-Tottenham Hotspur,Michael Dawson,21,England,Centre-Back,CB,£900k,Nottingham Forest,England,£6.30m,In,2004,w,premier-league
+Tottenham Hotspur,Michael Dawson,21,England,Centre-Back,CB,£900Th.,Nottingham Forest,England,£6.30m,In,2004,w,premier-league
 Tottenham Hotspur,Mido,21,Egypt,Centre-Forward,CF,£6.30m,AS Roma,Italy,Loan fee:£1.80m,In,2004,w,premier-league
-Tottenham Hotspur,Mounir El Hamdaoui,20,Morocco,Centre-Forward,CF,£540k,SBV Excelsior Rotterdam,Netherlands,£675k,In,2004,w,premier-league
-Tottenham Hotspur,Radek Cerny,30,Czech Republic,Goalkeeper,GK,£45k,SK Slavia Prague,Czech Republic,Loan fee:£360k,In,2004,w,premier-league
-Tottenham Hotspur,Spase Dilevski,19,Australia,Defensive Midfield,DM,£180k,PSV Eindhoven,Netherlands,Free transfer,In,2004,w,premier-league
-Tottenham Hotspur,David Limbersky,21,Czech Republic,Left-Back,LB,£135k,FC Viktoria Plzen,Czech Republic,Loan,In,2004,w,premier-league
-Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45k,Leyton Orient,England,"End of loanJan 10, 2005",In,2004,w,premier-league
-Tottenham Hotspur,Calum Davenport,21,England,Centre-Back,CB,£1.80m,West Ham United,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+Tottenham Hotspur,Mounir El Hamdaoui,20,Morocco,Centre-Forward,CF,£540Th.,SBV Excelsior Rotterdam,Netherlands,£675Th.,In,2004,w,premier-league
+Tottenham Hotspur,Radek Cerny,30,Czech Republic,Goalkeeper,GK,£45Th.,SK Slavia Prague,Czech Republic,Loan fee:£360Th.,In,2004,w,premier-league
+Tottenham Hotspur,Spase Dilevski,19,Australia,Defensive Midfield,DM,£180Th.,PSV Eindhoven,Netherlands,Free transfer,In,2004,w,premier-league
+Tottenham Hotspur,David Limbersky,21,Czech Republic,Left-Back,LB,£135Th.,FC Viktoria Plzen,Czech Republic,Loan,In,2004,w,premier-league
 Tottenham Hotspur,Kasey Keller,35,United States,Goalkeeper,GK,£3.15m,Southampton FC,England,"End of loanDec 15, 2004",In,2004,w,premier-league
-Tottenham Hotspur,Johnnie Jackson,22,England,Central Midfield,CM,£68k,Watford FC,England,"End of loanMar 22, 2005",In,2004,w,premier-league
-Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45k,West Ham United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
-Tottenham Hotspur,Rohan Ricketts,21,England,Attacking Midfield,AM,£225k,Coventry City,England,"End of loanNov 1, 2004",In,2004,w,premier-league
-Tottenham Hotspur,Dean Marney,20,England,Central Midfield,CM,£45k,Gillingham FC,England,"End of loanDec 1, 2004",In,2004,w,premier-league
+Tottenham Hotspur,Johnnie Jackson,22,England,Central Midfield,CM,£68Th.,Watford FC,England,"End of loanMar 22, 2005",In,2004,w,premier-league
+Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45Th.,West Ham United,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Tottenham Hotspur,Rohan Ricketts,21,England,Attacking Midfield,AM,£225Th.,Coventry City,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+Tottenham Hotspur,Dean Marney,20,England,Central Midfield,CM,£45Th.,Gillingham FC,England,"End of loanDec 1, 2004",In,2004,w,premier-league
+Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45Th.,Leyton Orient,England,"End of loanJan 10, 2005",In,2004,w,premier-league
+Tottenham Hotspur,Calum Davenport,21,England,Centre-Back,CB,£1.80m,West Ham United,England,"End of loanNov 1, 2004",In,2004,w,premier-league
 Blackburn Rovers,Robbie Savage,30,Wales,Central Midfield,CM,£4.50m,Birmingham City,England,£4.05m,In,2004,w,premier-league
-Blackburn Rovers,Aaron Mokoena,24,South Africa,Centre-Back,CB,£1.58m,KRC Genk,Belgium,£810k,In,2004,w,premier-league
+Blackburn Rovers,Aaron Mokoena,24,South Africa,Centre-Back,CB,£1.58m,KRC Genk,Belgium,£810Th.,In,2004,w,premier-league
 Blackburn Rovers,Ryan Nelsen,27,New Zealand,Centre-Back,CB,-,D.C. United,United States,Free transfer,In,2004,w,premier-league
-Blackburn Rovers,David Yelldell,23,United States,Goalkeeper,GK,£90k,Brighton & Hove Albion,England,"End of loanFeb 28, 2005",In,2004,w,premier-league
-Blackburn Rovers,Jerome Watt,20,England,Central Midfield,CM,£180k,Cercle Brugge ,Belgium,"End of loanDec 31, 2004",In,2004,w,premier-league
-Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,£45k,Colchester United,England,"End of loanNov 10, 2004",In,2004,w,premier-league
-Blackburn Rovers,Gary Harkins,20,Scotland,Attacking Midfield,AM,-,Bury FC,England,"End of loanMar 7, 2005",In,2004,w,premier-league
 Blackburn Rovers,Paul Weaver,18,Scotland,Midfielder,Midfielder,-,Cercle Brugge ,Belgium,"End of loanDec 31, 2004",In,2004,w,premier-league
+Blackburn Rovers,David Yelldell,23,United States,Goalkeeper,GK,£90Th.,Brighton & Hove Albion,England,"End of loanFeb 28, 2005",In,2004,w,premier-league
+Blackburn Rovers,Jerome Watt,20,England,Central Midfield,CM,£180Th.,Cercle Brugge ,Belgium,"End of loanDec 31, 2004",In,2004,w,premier-league
+Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,£45Th.,Colchester United,England,"End of loanNov 10, 2004",In,2004,w,premier-league
+Blackburn Rovers,Gary Harkins,20,Scotland,Attacking Midfield,AM,-,Bury FC,England,"End of loanMar 7, 2005",In,2004,w,premier-league
 Manchester City,Kiki Musampa,27,Netherlands,Left Winger,LW,£3.15m,Atlético Madrid,Spain,Loan,In,2004,w,premier-league
 Manchester City,Bradley Wright-Phillips,19,England,Centre-Forward,CF,-,Manchester City U18,England,-,In,2004,w,premier-league
-Manchester City,Lee Croft,19,England,Right Midfield,RM,£68k,Oldham Athletic,England,"End of loanFeb 10, 2005",In,2004,w,premier-league
+Manchester City,Lee Croft,19,England,Right Midfield,RM,£68Th.,Oldham Athletic,England,"End of loanFeb 10, 2005",In,2004,w,premier-league
 Manchester City,Kevin Stuhr Ellegaard,21,Denmark,Goalkeeper,GK,£1.35m,Blackpool FC,England,"End of loanFeb 1, 2005",In,2004,w,premier-league
 Manchester City,Mark Redshaw,20,England,Second Striker,SS,-,Caernarfon Town,Wales,"End of loanDec 31, 2004",In,2004,w,premier-league
 Manchester City,Mikkel Bischoff,22,Denmark,Centre-Back,CB,£1.35m,Wolverhampton Wanderers,England,"End of loanDec 1, 2004",In,2004,w,premier-league
 Everton FC,James Beattie,26,England,Centre-Forward,CF,£9.00m,Southampton FC,England,£8.10m,In,2004,w,premier-league
 Everton FC,Mikel Arteta,22,Spain,Central Midfield,CM,£7.20m,Real Sociedad,Spain,Loan,In,2004,w,premier-league
-Everton FC,Guillaume Plessis,19,France,Defensive Midfield,DM,£270k,RC Lens,France,Free transfer,In,2004,w,premier-league
-Norwich City,Dean Ashton,21,England,Centre-Forward,CF,£675k,Crewe Alexandra,England,£5.40m,In,2004,w,premier-league
-Norwich City,Graham Stuart,34,England,Attacking Midfield,AM,£900k,Charlton Athletic,England,Free transfer,In,2004,w,premier-league
-Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450k,Gillingham FC,England,"End of loanDec 27, 2004",In,2004,w,premier-league
-West Bromwich Albion,Richard Chaplow,19,England,Central Midfield,CM,£45k,Burnley FC,England,£2.03m,In,2004,w,premier-league
+Everton FC,Guillaume Plessis,19,France,Defensive Midfield,DM,£270Th.,RC Lens,France,Free transfer,In,2004,w,premier-league
+Norwich City,Dean Ashton,21,England,Centre-Forward,CF,£675Th.,Crewe Alexandra,England,£5.40m,In,2004,w,premier-league
+Norwich City,Graham Stuart,34,England,Attacking Midfield,AM,£900Th.,Charlton Athletic,England,Free transfer,In,2004,w,premier-league
+Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450Th.,Gillingham FC,England,"End of loanDec 27, 2004",In,2004,w,premier-league
+West Bromwich Albion,Richard Chaplow,19,England,Central Midfield,CM,£45Th.,Burnley FC,England,£2.03m,In,2004,w,premier-league
 West Bromwich Albion,Kevin Campbell,34,England,Centre-Forward,CF,£1.35m,Everton FC,England,Free transfer,In,2004,w,premier-league
-West Bromwich Albion,Kieran Richardson,20,England,Left-Back,LB,£450k,Manchester United,England,Loan,In,2004,w,premier-league
-West Bromwich Albion,Simon Brown,21,England,Midfielder,Midfielder,£45k,Kidderminster Harriers,England,"End of loanNov 1, 2004",In,2004,w,premier-league
+West Bromwich Albion,Kieran Richardson,20,England,Left-Back,LB,£450Th.,Manchester United,England,Loan,In,2004,w,premier-league
 West Bromwich Albion,Junichi Inamoto,25,Japan,Defensive Midfield,DM,£1.13m,Cardiff City,England,"End of loanMar 1, 2005",In,2004,w,premier-league
-Crystal Palace,Tommy Black,24,England,Right Midfield,RM,-,Sheffield United,England,"End of loanOct 1, 2004",In,2004,w,premier-league
-Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675k,Nottingham Forest,England,"End of loanFeb 17, 2005",In,2004,w,premier-league
+West Bromwich Albion,Simon Brown,21,England,Midfielder,Midfielder,£45Th.,Kidderminster Harriers,England,"End of loanNov 1, 2004",In,2004,w,premier-league
 Crystal Palace,Vasilios Lakis,28,Greece,Right Midfield,RM,£2.25m,,Without Club,-,In,2004,w,premier-league
-Crystal Palace,Anthony Danze,20,Australia,Midfielder,Midfielder,£360k,Milton Keynes Dons,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Crystal Palace,Anthony Danze,20,Australia,Midfielder,Midfielder,£360Th.,Milton Keynes Dons,England,"End of loanDec 31, 2004",In,2004,w,premier-league
+Crystal Palace,Tommy Black,24,England,Right Midfield,RM,-,Sheffield United,England,"End of loanOct 1, 2004",In,2004,w,premier-league
+Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675Th.,Nottingham Forest,England,"End of loanFeb 17, 2005",In,2004,w,premier-league
 Arsenal FC,Jermaine Pennant,22,England,Right Winger,RW,£2.70m,Birmingham City,England,Loan,Out,2004,w,premier-league
 Arsenal FC,Stephen Bradley,19,Ireland,Attacking Midfield,AM,-,Dunfermline Athletic FC,Scotland,Free transfer,Out,2004,w,premier-league
 Arsenal FC,Frank Simek,19,United States,Right-Back,RB,-,Queens Park Rangers,England,Loan,Out,2004,w,premier-league
-Arsenal FC,Daniel Karbassiyoon,20,United States,Left-Back,LB,£270k,Ipswich Town,England,Loan,Out,2004,w,premier-league
+Arsenal FC,Daniel Karbassiyoon,20,United States,Left-Back,LB,£270Th.,Ipswich Town,England,Loan,Out,2004,w,premier-league
 Arsenal FC,Frank Simek,20,United States,Right-Back,RB,-,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
-Arsenal FC,Stuart Taylor,23,England,Goalkeeper,GK,£900k,Leicester City,England,Loan,Out,2004,w,premier-league
+Arsenal FC,Stuart Taylor,23,England,Goalkeeper,GK,£900Th.,Leicester City,England,Loan,Out,2004,w,premier-league
 Chelsea FC,Celestine Babayaro,26,Nigeria,Left-Back,LB,£3.60m,Newcastle United,England,Free transfer,Out,2004,w,premier-league
-Chelsea FC,Craig Rocastle,23,Grenada,Right Midfield,RM,£90k,Sheffield Wednesday,England,Free transfer,Out,2004,w,premier-league
+Chelsea FC,Craig Rocastle,23,Grenada,Right Midfield,RM,£90Th.,Sheffield Wednesday,England,Free transfer,Out,2004,w,premier-league
 Chelsea FC,Adrian Mutu,25,Romania,Centre-Forward,CF,£13.50m,,Without Club,-,Out,2004,w,premier-league
 Manchester United,Eric Djemba Djemba,23,Cameroon,Defensive Midfield,DM,£6.30m,Aston Villa,England,£2.29m,Out,2004,w,premier-league
-Manchester United,Colin Heath,20,England,Centre-Forward,CF,£45k,Cambridge United,England,Loan,Out,2004,w,premier-league
-Manchester United,Bojan Djordjic,22,Sweden,Left Winger,LW,£900k,Rangers FC,Scotland,Free transfer,Out,2004,w,premier-league
-Manchester United,Chris Eagles,19,England,Right Winger,RW,£675k,Watford FC,England,Loan,Out,2004,w,premier-league
-Manchester United,Kieran Richardson,20,England,Left-Back,LB,£450k,West Bromwich Albion,England,Loan,Out,2004,w,premier-league
-Manchester United,Paul Tierney,22,Ireland,Left-Back,LB,£135k,Bradford City,England,Loan,Out,2004,w,premier-league
+Manchester United,Bojan Djordjic,22,Sweden,Left Winger,LW,£900Th.,Rangers FC,Scotland,Free transfer,Out,2004,w,premier-league
+Manchester United,Chris Eagles,19,England,Right Winger,RW,£675Th.,Watford FC,England,Loan,Out,2004,w,premier-league
+Manchester United,Kieran Richardson,20,England,Left-Back,LB,£450Th.,West Bromwich Albion,England,Loan,Out,2004,w,premier-league
+Manchester United,Paul Tierney,22,Ireland,Left-Back,LB,£135Th.,Bradford City,England,Loan,Out,2004,w,premier-league
+Manchester United,Colin Heath,20,England,Centre-Forward,CF,£45Th.,Cambridge United,England,Loan,Out,2004,w,premier-league
 Liverpool FC,Stéphane Henchoz,30,Switzerland,Centre-Back,CB,£4.50m,Celtic FC,Scotland,Free transfer,Out,2004,w,premier-league
-Liverpool FC,Robbie Foy,19,Scotland,Left Winger,LW,£45k,Chester City (diss.),England,Loan,Out,2004,w,premier-league
+Liverpool FC,Robbie Foy,19,Scotland,Left Winger,LW,£45Th.,Chester City (diss.),England,Loan,Out,2004,w,premier-league
 Liverpool FC,Salif Diao,27,Senegal,Defensive Midfield,DM,£7.20m,Birmingham City,England,Loan,Out,2004,w,premier-league
-Newcastle United,Olivier Bernard,25,France,Left-Back,LB,£3.60m,Southampton FC,England,£540k,Out,2004,w,premier-league
+Newcastle United,Olivier Bernard,25,France,Left-Back,LB,£3.60m,Southampton FC,England,£540Th.,Out,2004,w,premier-league
 Newcastle United,Craig Bellamy,25,Wales,Left Winger,LW,£10.80m,Celtic FC,Scotland,Loan,Out,2004,w,premier-league
 Newcastle United,Stephen Brennan,21,Ireland,Defensive Midfield,DM,-,Shelbourne FC,Ireland,Loan,Out,2004,w,premier-league
-Newcastle United,Ronny Johnsen,35,Norway,Centre-Back,CB,£270k,Vålerenga Fotball,Norway,Free transfer,Out,2004,w,premier-league
-Aston Villa,Peter Whittingham,20,England,Central Midfield,CM,£900k,Burnley FC,England,Loan,Out,2004,w,premier-league
-Aston Villa,Stephen Cooke,21,England,Right Midfield,RM,£45k,Wycombe Wanderers,England,Loan,Out,2004,w,premier-league
+Newcastle United,Ronny Johnsen,35,Norway,Centre-Back,CB,£270Th.,Vålerenga Fotball,Norway,Free transfer,Out,2004,w,premier-league
+Aston Villa,Peter Whittingham,20,England,Central Midfield,CM,£900Th.,Burnley FC,England,Loan,Out,2004,w,premier-league
+Aston Villa,Stephen Cooke,21,England,Right Midfield,RM,£45Th.,Wycombe Wanderers,England,Loan,Out,2004,w,premier-league
 Aston Villa,Gary Cahill,18,England,Centre-Back,CB,-,Burnley FC,England,Loan,Out,2004,w,premier-league
-Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,£360k,Leicester City,England,Loan,Out,2004,w,premier-league
-Charlton Athletic,Chris Powell,35,England,Left-Back,LB,£360k,West Ham United,England,Free transfer,Out,2004,w,premier-league
+Aston Villa,Stefan Moore,21,England,Centre-Forward,CF,£360Th.,Leicester City,England,Loan,Out,2004,w,premier-league
+Charlton Athletic,Chris Powell,35,England,Left-Back,LB,£360Th.,West Ham United,England,Free transfer,Out,2004,w,premier-league
 Charlton Athletic,Rob Elliot,18,Ireland,Goalkeeper,GK,-,Notts County,England,Loan,Out,2004,w,premier-league
-Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,£900k,Huddersfield Town,England,Free transfer,Out,2004,w,premier-league
-Charlton Athletic,Graham Stuart,34,England,Attacking Midfield,AM,£900k,Norwich City,England,Free transfer,Out,2004,w,premier-league
+Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,£900Th.,Huddersfield Town,England,Free transfer,Out,2004,w,premier-league
+Charlton Athletic,Graham Stuart,34,England,Attacking Midfield,AM,£900Th.,Norwich City,England,Free transfer,Out,2004,w,premier-league
 Charlton Athletic,Simon Royce,33,England,Goalkeeper,GK,-,Luton Town,England,Loan,Out,2004,w,premier-league
-Charlton Athletic,Michael Turner,21,England,Centre-Back,CB,£45k,Brentford FC,England,Free transfer,Out,2004,w,premier-league
-Charlton Athletic,Simon Royce,33,England,Goalkeeper,GK,£225k,Queens Park Rangers,England,Free transfer,Out,2004,w,premier-league
-Bolton Wanderers,Blessing Kaku,26,Nigeria,Attacking Midfield,AM,£720k,Derby County,England,Loan,Out,2004,w,premier-league
-Bolton Wanderers,Les Ferdinand,38,England,Centre-Forward,CF,£675k,Reading FC,England,Free transfer,Out,2004,w,premier-league
-Bolton Wanderers,Danny Livesey,20,England,Centre-Back,CB,£45k,Carlisle United,England,Free transfer,Out,2004,w,premier-league
-Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45k,Bristol Rovers,England,Loan,Out,2004,w,premier-league
+Charlton Athletic,Michael Turner,21,England,Centre-Back,CB,£45Th.,Brentford FC,England,Free transfer,Out,2004,w,premier-league
+Charlton Athletic,Simon Royce,33,England,Goalkeeper,GK,£225Th.,Queens Park Rangers,England,Free transfer,Out,2004,w,premier-league
+Bolton Wanderers,Blessing Kaku,26,Nigeria,Attacking Midfield,AM,£720Th.,Derby County,England,Loan,Out,2004,w,premier-league
+Bolton Wanderers,Les Ferdinand,38,England,Centre-Forward,CF,£675Th.,Reading FC,England,Free transfer,Out,2004,w,premier-league
+Bolton Wanderers,Danny Livesey,20,England,Centre-Back,CB,£45Th.,Carlisle United,England,Free transfer,Out,2004,w,premier-league
+Bolton Wanderers,Ricky Shakes,20,Guyana,Right Midfield,RM,£45Th.,Bristol Rovers,England,Loan,Out,2004,w,premier-league
 Bolton Wanderers,Florent Laville,31,France,Centre-Back,CB,£1.35m,Coventry City,England,Loan,Out,2004,w,premier-league
 Bolton Wanderers,Joey O'Brien,18,Ireland,Right-Back,RB,-,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
 Bolton Wanderers,Dwight Pezzarossi,25,Guatemala,Centre-Forward,CF,-,CSD Comunicaciones,Guatemala,?,Out,2004,w,premier-league
-Bolton Wanderers,Andy Oakes,28,England,Goalkeeper,GK,£45k,Derby County,England,"End of loanFeb 1, 2005",Out,2004,w,premier-league
+Bolton Wanderers,Andy Oakes,28,England,Goalkeeper,GK,£45Th.,Derby County,England,"End of loanFeb 1, 2005",Out,2004,w,premier-league
 Fulham FC,Liam Fontaine,18,England,Centre-Back,CB,-,Kilmarnock FC,Scotland,Loan,Out,2004,w,premier-league
-Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90k,Doncaster Rovers,England,Loan,Out,2004,w,premier-league
-Fulham FC,Adam Green,21,England,Left-Back,LB,£315k,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
-Fulham FC,Adam Green,21,England,Left-Back,LB,£315k,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
-Fulham FC,Darren Pratley,19,England,Central Midfield,CM,£45k,Brentford FC,England,Loan,Out,2004,w,premier-league
-Fulham FC,Elvis Hammond,24,Ghana,Centre-Forward,CF,£225k,RBC Roosendaal,Netherlands,Loan,Out,2004,w,premier-league
-Fulham FC,Stuart Noble,21,Scotland,Centre-Forward,CF,£68k,Northampton Town,England,Free transfer,Out,2004,w,premier-league
-Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90k,Yeading FC,England,Loan,Out,2004,w,premier-league
+Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90Th.,Doncaster Rovers,England,Loan,Out,2004,w,premier-league
+Fulham FC,Adam Green,21,England,Left-Back,LB,£315Th.,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
+Fulham FC,Adam Green,21,England,Left-Back,LB,£315Th.,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
+Fulham FC,Darren Pratley,19,England,Central Midfield,CM,£45Th.,Brentford FC,England,Loan,Out,2004,w,premier-league
+Fulham FC,Elvis Hammond,24,Ghana,Centre-Forward,CF,£225Th.,RBC Roosendaal,Netherlands,Loan,Out,2004,w,premier-league
+Fulham FC,Stuart Noble,21,Scotland,Centre-Forward,CF,£68Th.,Northampton Town,England,Free transfer,Out,2004,w,premier-league
+Fulham FC,Ross Flitney,20,England,Goalkeeper,GK,£90Th.,Yeading FC,England,Loan,Out,2004,w,premier-league
 Birmingham City,Robbie Savage,30,Wales,Central Midfield,CM,£4.50m,Blackburn Rovers,England,£4.05m,Out,2004,w,premier-league
 Birmingham City,Jesper Grönkjaer,27,Denmark,Left Winger,LW,£5.85m,Atlético Madrid,Spain,£1.80m,Out,2004,w,premier-league
-Birmingham City,Andy Barrowman,20,Scotland,Centre-Forward,CF,£68k,Mansfield Town,England,Loan,Out,2004,w,premier-league
-Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900k,Sheffield United,England,Loan,Out,2004,w,premier-league
+Birmingham City,Andy Barrowman,20,Scotland,Centre-Forward,CF,£68Th.,Mansfield Town,England,Loan,Out,2004,w,premier-league
+Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900Th.,Sheffield United,England,Loan,Out,2004,w,premier-league
 Birmingham City,Alex Bruce,20,Northern Ireland,Centre-Back,CB,-,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
 Birmingham City,Colin Doyle,19,Ireland,Goalkeeper,GK,-,Chester City (diss.),England,Loan,Out,2004,w,premier-league
 Birmingham City,Alex Bruce,20,Northern Ireland,Centre-Back,CB,-,Oldham Athletic,England,Loan,Out,2004,w,premier-league
-Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900k,Coventry City,England,Loan,Out,2004,w,premier-league
-Birmingham City,Neil Kilkenny,18,Australia,Defensive Midfield,DM,£90k,Oldham Athletic,England,Loan,Out,2004,w,premier-league
+Birmingham City,Ian Bennett,33,England,Goalkeeper,GK,£900Th.,Coventry City,England,Loan,Out,2004,w,premier-league
+Birmingham City,Neil Kilkenny,18,Australia,Defensive Midfield,DM,£90Th.,Oldham Athletic,England,Loan,Out,2004,w,premier-league
 Birmingham City,Colin Doyle,19,Ireland,Goalkeeper,GK,-,Nottingham Forest,England,Loan,Out,2004,w,premier-league
 Birmingham City,Mikael Forssell,23,Finland,Centre-Forward,CF,£8.10m,Chelsea FC,England,"End of loanJan 6, 2005",Out,2004,w,premier-league
 Birmingham City,Martin Grainger,32,England,Left-Back,LB,-,,Retired,-,Out,2004,w,premier-league
-Middlesbrough FC,Massimo Maccarone,25,Italy,Centre-Forward,CF,£5.85m,AC Siena,Italy,Loan fee:£360k,Out,2004,w,premier-league
-Middlesbrough FC,Carlo Nash,31,England,Goalkeeper,GK,£225k,Preston North End,England,£270k,Out,2004,w,premier-league
-Middlesbrough FC,Brad Jones,22,Australia,Goalkeeper,GK,£90k,Blackpool FC,England,Loan,Out,2004,w,premier-league
+Middlesbrough FC,Massimo Maccarone,25,Italy,Centre-Forward,CF,£5.85m,AC Siena,Italy,Loan fee:£360Th.,Out,2004,w,premier-league
+Middlesbrough FC,Carlo Nash,31,England,Goalkeeper,GK,£225Th.,Preston North End,England,£270Th.,Out,2004,w,premier-league
+Middlesbrough FC,Brad Jones,22,Australia,Goalkeeper,GK,£90Th.,Blackpool FC,England,Loan,Out,2004,w,premier-league
 Middlesbrough FC,Mark Wilson,25,England,Central Midfield,CM,£1.58m,Livingston FC,Scotland,Loan,Out,2004,w,premier-league
 Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Barnsley FC,England,Loan,Out,2004,w,premier-league
-Middlesbrough FC,Andrew Davies,20,England,Centre-Back,CB,£450k,Queens Park Rangers,England,Loan,Out,2004,w,premier-league
+Middlesbrough FC,Andrew Davies,20,England,Centre-Back,CB,£450Th.,Queens Park Rangers,England,Loan,Out,2004,w,premier-league
 Middlesbrough FC,Matthew Bates,18,England,Centre-Back,CB,-,Darlington FC (liq.),England,Loan,Out,2004,w,premier-league
 Southampton FC,James Beattie,26,England,Centre-Forward,CF,£9.00m,Everton FC,England,£8.10m,Out,2004,w,premier-league
+Southampton FC,Jo Tessem,32,Norway,Central Midfield,CM,£1.80m,Millwall FC,England,Loan,Out,2004,w,premier-league
+Southampton FC,Alan Blayney,23,Northern Ireland,Goalkeeper,GK,-,Rushden & Diamonds (liq.),England,Loan,Out,2004,w,premier-league
+Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45Th.,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
+Southampton FC,Brett Ormerod,28,England,Centre-Forward,CF,£1.80m,Wigan Athletic,England,Loan,Out,2004,w,premier-league
+Southampton FC,Jason Dodd,34,England,Right-Back,RB,£1.13m,Plymouth Argyle,England,Loan,Out,2004,w,premier-league
 Southampton FC,Kenwyne Jones,20,Trinidad and Tobago,Centre-Forward,CF,-,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
-Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£315k,Nottingham Forest,England,Loan,Out,2004,w,premier-league
-Southampton FC,Kenwyne Jones,20,Trinidad and Tobago,Centre-Forward,CF,£45k,Stoke City,England,Loan,Out,2004,w,premier-league
-Southampton FC,Dexter Blackstock,18,Antigua and Barbuda,Centre-Forward,CF,£180k,Plymouth Argyle,England,Loan,Out,2004,w,premier-league
-Southampton FC,Darren Kenton,26,England,Centre-Back,CB,£900k,Leicester City,England,Loan,Out,2004,w,premier-league
+Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£315Th.,Nottingham Forest,England,Loan,Out,2004,w,premier-league
+Southampton FC,Kenwyne Jones,20,Trinidad and Tobago,Centre-Forward,CF,£45Th.,Stoke City,England,Loan,Out,2004,w,premier-league
+Southampton FC,Dexter Blackstock,18,Antigua and Barbuda,Centre-Forward,CF,£180Th.,Plymouth Argyle,England,Loan,Out,2004,w,premier-league
+Southampton FC,Darren Kenton,26,England,Centre-Back,CB,£900Th.,Leicester City,England,Loan,Out,2004,w,premier-league
 Southampton FC,Leon Best,18,Ireland,Centre-Forward,CF,-,Queens Park Rangers,England,Loan,Out,2004,w,premier-league
 Southampton FC,Alaeddine Yahia,23,Tunisia,Centre-Back,CB,£1.26m,AS Saint-Étienne,France,Loan,Out,2004,w,premier-league
 Southampton FC,Andrew Surman,18,England,Central Midfield,CM,-,Walsall FC,England,Loan,Out,2004,w,premier-league
-Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360k,Preston North End,England,Loan,Out,2004,w,premier-league
+Southampton FC,Yoann Folly,19,Togo,Defensive Midfield,DM,£360Th.,Preston North End,England,Loan,Out,2004,w,premier-league
 Southampton FC,Martin Cranie,18,England,Centre-Back,CB,-,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
-Southampton FC,Jo Tessem,32,Norway,Central Midfield,CM,£1.80m,Millwall FC,England,Loan,Out,2004,w,premier-league
-Southampton FC,Alan Blayney,23,Northern Ireland,Goalkeeper,GK,-,Rushden & Diamonds (liq.),England,Loan,Out,2004,w,premier-league
-Southampton FC,Matt Mills,18,England,Centre-Back,CB,£45k,AFC Bournemouth,England,Loan,Out,2004,w,premier-league
-Southampton FC,Brett Ormerod,28,England,Centre-Forward,CF,£1.80m,Wigan Athletic,England,Loan,Out,2004,w,premier-league
-Southampton FC,Jason Dodd,34,England,Right-Back,RB,£1.13m,Plymouth Argyle,England,Loan,Out,2004,w,premier-league
 Southampton FC,Kasey Keller,35,United States,Goalkeeper,GK,£3.15m,Tottenham Hotspur,England,"End of loanDec 15, 2004",Out,2004,w,premier-league
 Portsmouth FC,Nigel Quashie,26,Scotland,Central Midfield,CM,£2.25m,Southampton FC,England,£2.84m,Out,2004,w,premier-league
 Portsmouth FC,Amdy Fayé,27,Senegal,Defensive Midfield,DM,£2.70m,Newcastle United,England,£2.70m,Out,2004,w,premier-league
-Portsmouth FC,Kevin Harper,29,Scotland,Right Midfield,RM,£900k,Stoke City,England,£68k,Out,2004,w,premier-league
+Portsmouth FC,Kevin Harper,29,Scotland,Right Midfield,RM,£900Th.,Stoke City,England,£68Th.,Out,2004,w,premier-league
+Portsmouth FC,Sébastien Schemmel,29,France,Left-Back,LB,£900Th.,AC Le Havre,France,Free transfer,Out,2004,w,premier-league
+Portsmouth FC,Chris Clark,20,England,Midfielder,Midfielder,-,Stoke City,England,Loan,Out,2004,w,premier-league
 Portsmouth FC,Anthony Pulis,20,Wales,Central Midfield,CM,-,Stoke City,England,Free transfer,Out,2004,w,premier-league
-Portsmouth FC,Mark Burchill,24,Scotland,Centre-Forward,CF,£675k,Heart of Midlothian FC,Scotland,Free transfer,Out,2004,w,premier-league
-Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450k,Coventry City,England,Loan,Out,2004,w,premier-league
+Portsmouth FC,Mark Burchill,24,Scotland,Centre-Forward,CF,£675Th.,Heart of Midlothian FC,Scotland,Free transfer,Out,2004,w,premier-league
+Portsmouth FC,Richard Duffy,19,Wales,Centre-Back,CB,£450Th.,Coventry City,England,Loan,Out,2004,w,premier-league
 Portsmouth FC,James Keene,18,England,Centre-Forward,CF,-,Kidderminster Harriers,England,Loan,Out,2004,w,premier-league
 Portsmouth FC,David Unsworth,31,England,Left-Back,LB,£3.42m,Ipswich Town,England,Loan,Out,2004,w,premier-league
-Portsmouth FC,John Curtis,26,England,Right-Back,RB,£270k,Nottingham Forest,England,Free transfer,Out,2004,w,premier-league
-Portsmouth FC,Lewis Buxton,20,England,Right-Back,RB,£68k,Stoke City,England,Free transfer,Out,2004,w,premier-league
-Portsmouth FC,Sébastien Schemmel,29,France,Left-Back,LB,£900k,AC Le Havre,France,Free transfer,Out,2004,w,premier-league
-Portsmouth FC,Chris Clark,20,England,Midfielder,Midfielder,-,Stoke City,England,Loan,Out,2004,w,premier-league
+Portsmouth FC,John Curtis,26,England,Right-Back,RB,£270Th.,Nottingham Forest,England,Free transfer,Out,2004,w,premier-league
+Portsmouth FC,Lewis Buxton,20,England,Right-Back,RB,£68Th.,Stoke City,England,Free transfer,Out,2004,w,premier-league
 Portsmouth FC,Harald Wapenaar,34,Netherlands,Goalkeeper,GK,£1.80m,Vitesse Arnhem,Netherlands,?,Out,2004,w,premier-league
 Portsmouth FC,Eyal Berkovic,32,Israel,Attacking Midfield,AM,£1.13m,,Without Club,-,Out,2004,w,premier-league
+Tottenham Hotspur,Calum Davenport,22,England,Centre-Back,CB,£1.80m,Southampton FC,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Johnnie Jackson,22,England,Central Midfield,CM,-,Watford FC,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Kasey Keller,35,United States,Goalkeeper,GK,£1.80m,Borussia Mönchengladbach,Germany,Free transfer,Out,2004,w,premier-league
-Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45k,Stevenage FC,England,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45k,Northampton Town,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,£45Th.,Stevenage FC,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45Th.,Northampton Town,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Mauricio Taricco,31,Argentina,Left-Back,LB,£2.70m,West Ham United,England,Free transfer,Out,2004,w,premier-league
 Tottenham Hotspur,Rob Burch,21,England,Goalkeeper,GK,-,West Ham United,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Mbulelo Mabizela,24,South Africa,Centre-Back,CB,£6.30m,Vålerenga Fotball,Norway,Free transfer,Out,2004,w,premier-league
-Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,£360k,Chesterfield FC,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Márton Fülöp,21,Hungary,Goalkeeper,GK,£360Th.,Chesterfield FC,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Kasey Keller,34,United States,Goalkeeper,GK,£3.15m,Southampton FC,England,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Dean Marney,20,England,Central Midfield,CM,£45k,Gillingham FC,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Dean Marney,20,England,Central Midfield,CM,£45Th.,Gillingham FC,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Jamie Redknapp,31,England,Central Midfield,CM,£5.40m,Southampton FC,England,Free transfer,Out,2004,w,premier-league
-Tottenham Hotspur,Edson,21,Portugal,Centre-Forward,CF,£135k,ADO Den Haag,Netherlands,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Rohan Ricketts,22,England,Attacking Midfield,AM,£225k,Wolverhampton Wanderers,England,Free transfer,Out,2004,w,premier-league
+Tottenham Hotspur,Edson,21,Portugal,Centre-Forward,CF,£135Th.,ADO Den Haag,Netherlands,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Rohan Ricketts,22,England,Attacking Midfield,AM,£225Th.,Wolverhampton Wanderers,England,Free transfer,Out,2004,w,premier-league
 Tottenham Hotspur,Rohan Ricketts,21,England,Attacking Midfield,AM,-,Coventry City,England,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45k,Leyton Orient,England,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Calum Davenport,22,England,Centre-Back,CB,£1.80m,Southampton FC,England,Loan,Out,2004,w,premier-league
-Tottenham Hotspur,Johnnie Jackson,22,England,Central Midfield,CM,-,Watford FC,England,Loan,Out,2004,w,premier-league
+Tottenham Hotspur,Lee Barnard,20,England,Centre-Forward,CF,£45Th.,Leyton Orient,England,Loan,Out,2004,w,premier-league
 Tottenham Hotspur,Dean Richards,30,England,Centre-Back,CB,£6.30m,,Retired,-,Out,2004,w,premier-league
 Blackburn Rovers,Barry Ferguson,26,Scotland,Defensive Midfield,DM,£4.73m,Rangers FC,Scotland,£6.53m,Out,2004,w,premier-league
-Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Colchester United,England,£45k,Out,2004,w,premier-league
-Blackburn Rovers,David Yelldell,23,United States,Goalkeeper,GK,£90k,Brighton & Hove Albion,England,Loan,Out,2004,w,premier-league
+Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Colchester United,England,£45Th.,Out,2004,w,premier-league
+Blackburn Rovers,David Yelldell,23,United States,Goalkeeper,GK,£90Th.,Brighton & Hove Albion,England,Loan,Out,2004,w,premier-league
 Blackburn Rovers,Michael Gray,30,England,Left-Back,LB,£1.80m,Leeds United,England,Loan,Out,2004,w,premier-league
 Blackburn Rovers,Javi de Pedro,31,Spain,Left Midfield,LM,£1.80m,AC Perugia,Italy,Free transfer,Out,2004,w,premier-league
-Blackburn Rovers,Youri Djorkaeff,36,France,Attacking Midfield,AM,£360k,MetroStars,United States,Free transfer,Out,2004,w,premier-league
-Blackburn Rovers,Jonathan Douglas,23,Ireland,Central Midfield,CM,£68k,Gillingham FC,England,Loan,Out,2004,w,premier-league
+Blackburn Rovers,Youri Djorkaeff,36,France,Attacking Midfield,AM,£360Th.,MetroStars,United States,Free transfer,Out,2004,w,premier-league
+Blackburn Rovers,Jonathan Douglas,23,Ireland,Central Midfield,CM,£68Th.,Gillingham FC,England,Loan,Out,2004,w,premier-league
 Blackburn Rovers,Gary Harkins,20,Scotland,Attacking Midfield,AM,-,Bury FC,England,Loan,Out,2004,w,premier-league
-Blackburn Rovers,Alan Morgan,21,Scotland,Left Midfield,LM,£68k,Cheltenham Town,England,Loan,Out,2004,w,premier-league
+Blackburn Rovers,Alan Morgan,21,Scotland,Left Midfield,LM,£68Th.,Cheltenham Town,England,Loan,Out,2004,w,premier-league
 Manchester City,Nicolas Anelka,25,France,Centre-Forward,CF,£13.50m,Fenerbahce SK,Turkey,£6.47m,Out,2004,w,premier-league
-Manchester City,Paulo Wanchope,28,Costa Rica,Centre-Forward,CF,£4.05m,Málaga CF,Spain,£675k,Out,2004,w,premier-league
+Manchester City,Paulo Wanchope,28,Costa Rica,Centre-Forward,CF,£4.05m,Málaga CF,Spain,£675Th.,Out,2004,w,premier-league
 Manchester City,Ronald Waterreus,34,Netherlands,Goalkeeper,GK,£3.15m,Rangers FC,Scotland,Free transfer,Out,2004,w,premier-league
 Manchester City,Mikkel Bischoff,23,Denmark,Centre-Back,CB,£1.35m,Wolverhampton Wanderers,England,Loan,Out,2004,w,premier-league
 Manchester City,Lee Croft,19,England,Right Midfield,RM,-,Oldham Athletic,England,Loan,Out,2004,w,premier-league
 Manchester City,Mikkel Bischoff,22,Denmark,Centre-Back,CB,-,Wolverhampton Wanderers,England,Loan,Out,2004,w,premier-league
 Manchester City,Kevin Stuhr Ellegaard,21,Denmark,Goalkeeper,GK,£1.35m,Blackpool FC,England,Loan,Out,2004,w,premier-league
-Manchester City,Dorryl Proffitt,19,England,Centre-Forward,CF,£360k,Leek Town FC,England,Free transfer,Out,2004,w,premier-league
-Manchester City,Karl Bermingham,19,Ireland,Centre-Forward,CF,£45k,Lincoln City,England,Loan,Out,2004,w,premier-league
-Manchester City,Christian Negouai,27,Martinique,Defensive Midfield,DM,£630k,Coventry City,England,Loan,Out,2004,w,premier-league
+Manchester City,Dorryl Proffitt,19,England,Centre-Forward,CF,£360Th.,Leek Town FC,England,Free transfer,Out,2004,w,premier-league
+Manchester City,Karl Bermingham,19,Ireland,Centre-Forward,CF,£45Th.,Lincoln City,England,Loan,Out,2004,w,premier-league
+Manchester City,Christian Negouai,27,Martinique,Defensive Midfield,DM,£630Th.,Coventry City,England,Loan,Out,2004,w,premier-league
 Manchester City,Mark Redshaw,20,England,Second Striker,SS,-,Caernarfon Town,Wales,Loan,Out,2004,w,premier-league
 Everton FC,Thomas Gravesen,28,Denmark,Defensive Midfield,DM,£5.40m,Real Madrid,Spain,£3.06m,Out,2004,w,premier-league
-Everton FC,Nick Chadwick,22,England,Centre-Forward,CF,£270k,Plymouth Argyle,England,£360k,Out,2004,w,premier-league
+Everton FC,Nick Chadwick,22,England,Centre-Forward,CF,£270Th.,Plymouth Argyle,England,£360Th.,Out,2004,w,premier-league
 Everton FC,Alex Nyarko,31,Ghana,Centre-Back,CB,£2.70m,IK Start,Norway,Free transfer,Out,2004,w,premier-league
 Everton FC,Kevin Campbell,34,England,Centre-Forward,CF,£1.35m,West Bromwich Albion,England,Free transfer,Out,2004,w,premier-league
-Everton FC,Iain Turner,21,Scotland,Goalkeeper,GK,£90k,Doncaster Rovers,England,Loan,Out,2004,w,premier-league
-Norwich City,Keith Briggs,23,England,Central Midfield,CM,£68k,Stockport County,England,Free transfer,Out,2004,w,premier-league
+Everton FC,Iain Turner,21,Scotland,Goalkeeper,GK,£90Th.,Doncaster Rovers,England,Loan,Out,2004,w,premier-league
+Norwich City,Keith Briggs,23,England,Central Midfield,CM,£68Th.,Stockport County,England,Free transfer,Out,2004,w,premier-league
 Norwich City,Zema Abbey,27,England,Centre-Forward,CF,-,Wycombe Wanderers,England,Free transfer,Out,2004,w,premier-league
-Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450k,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
-Norwich City,Danny Crow,19,England,Centre-Forward,CF,£45k,Northampton Town,England,Loan,Out,2004,w,premier-league
-Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450k,Gillingham FC,England,Loan,Out,2004,w,premier-league
-West Bromwich Albion,Scott Dobie,26,Scotland,Centre-Forward,CF,£2.25m,Millwall FC,England,£675k,Out,2004,w,premier-league
-West Bromwich Albion,Simon Brown,21,England,Midfielder,Midfielder,£45k,Mansfield Town,England,£68k,Out,2004,w,premier-league
+Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450Th.,Sheffield Wednesday,England,Loan,Out,2004,w,premier-league
+Norwich City,Danny Crow,19,England,Centre-Forward,CF,£45Th.,Northampton Town,England,Loan,Out,2004,w,premier-league
+Norwich City,Paul Gallacher,25,Scotland,Goalkeeper,GK,£450Th.,Gillingham FC,England,Loan,Out,2004,w,premier-league
+West Bromwich Albion,Scott Dobie,26,Scotland,Centre-Forward,CF,£2.25m,Millwall FC,England,£675Th.,Out,2004,w,premier-league
+West Bromwich Albion,Simon Brown,21,England,Midfielder,Midfielder,£45Th.,Mansfield Town,England,£68Th.,Out,2004,w,premier-league
 West Bromwich Albion,Philip Midworth,19,England,Centre-Back,CB,-,Burton Albion,England,Free transfer,Out,2004,w,premier-league
-West Bromwich Albion,Adam Chambers,24,England,Defensive Midfield,DM,£900k,Kidderminster Harriers,England,Free transfer,Out,2004,w,premier-league
+West Bromwich Albion,Adam Chambers,24,England,Defensive Midfield,DM,£900Th.,Kidderminster Harriers,England,Free transfer,Out,2004,w,premier-league
 West Bromwich Albion,Bernt Haas,26,Switzerland,Right-Back,RB,£1.35m,SC Bastia,France,Free transfer,Out,2004,w,premier-league
-West Bromwich Albion,James O'Connor,25,Ireland,Central Midfield,CM,£270k,Burnley FC,England,Free transfer,Out,2004,w,premier-league
+West Bromwich Albion,James O'Connor,25,Ireland,Central Midfield,CM,£270Th.,Burnley FC,England,Free transfer,Out,2004,w,premier-league
 West Bromwich Albion,Joe Murphy,23,Ireland,Goalkeeper,GK,-,Walsall FC,England,Loan,Out,2004,w,premier-league
 West Bromwich Albion,Junichi Inamoto,25,Japan,Defensive Midfield,DM,£1.80m,Cardiff City,England,Loan,Out,2004,w,premier-league
-West Bromwich Albion,Rob Hulse,25,England,Centre-Forward,CF,£900k,Leeds United,England,Loan,Out,2004,w,premier-league
+West Bromwich Albion,Rob Hulse,25,England,Centre-Forward,CF,£900Th.,Leeds United,England,Loan,Out,2004,w,premier-league
 West Bromwich Albion,Lárus Sigurdsson,31,Iceland,Centre-Back,CB,£1.35m,Thór Akureyri,Iceland,?,Out,2004,w,premier-league
 West Bromwich Albion,Ezekeil Tomlinson,-,England,Midfielder,Midfielder,-,Stockport County,England,?,Out,2004,w,premier-league
 West Bromwich Albion,Cosmin Contra,29,Romania,Right-Back,RB,-,Atlético Madrid,Spain,"End of loanDec 27, 2004",Out,2004,w,premier-league
-Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675k,Leeds United,England,£90k,Out,2004,w,premier-league
-Crystal Palace,Cédric Berthelin,28,France,Goalkeeper,GK,£450k,RAEC Mons,Belgium,Free transfer,Out,2004,w,premier-league
-Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675k,Nottingham Forest,England,Loan,Out,2004,w,premier-league
+Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675Th.,Leeds United,England,£90Th.,Out,2004,w,premier-league
+Crystal Palace,Cédric Berthelin,28,France,Goalkeeper,GK,£450Th.,RAEC Mons,Belgium,Free transfer,Out,2004,w,premier-league
+Crystal Palace,Shaun Derry,27,England,Defensive Midfield,DM,£675Th.,Nottingham Forest,England,Loan,Out,2004,w,premier-league
 Crystal Palace,Iván Kaviedes,27,Ecuador,Centre-Forward,CF,£1.80m,Barcelona SC Guayaquil,Ecuador,Free transfer,Out,2004,w,premier-league
-Crystal Palace,Anthony Danze,20,Australia,Midfielder,Midfielder,£360k,Milton Keynes Dons,England,Loan,Out,2004,w,premier-league
+Crystal Palace,Anthony Danze,20,Australia,Midfielder,Midfielder,£360Th.,Milton Keynes Dons,England,Loan,Out,2004,w,premier-league

@@ -18,8 +18,8 @@ Manchester United,Phil Bardsley,18,Scotland,Right-Back,RB,-,Manchester United U1
 Manchester United,Adam Eckersley,17,England,Left-Back,LB,-,Manchester United U18,England,-,In,2003,s,premier-league
 Arsenal FC,Philippe Senderos,18,Switzerland,Centre-Back,CB,-,Servette FC,Switzerland,£3.19m,In,2003,s,premier-league
 Arsenal FC,Jens Lehmann,33,Germany,Goalkeeper,GK,-,Borussia Dortmund,Germany,£3.15m,In,2003,s,premier-league
-Arsenal FC,Cesc Fàbregas,16,Spain,Central Midfield,CM,-,FC Barcelona U17,Spain,£2.88m,In,2003,s,premier-league
-Arsenal FC,Gaël Clichy,18,France,Left-Back,LB,-,AS Cannes,France,£338k,In,2003,s,premier-league
+Arsenal FC,Cesc Fàbregas,16,Spain,Central Midfield,CM,-,FC Barcelona U16,Spain,£2.88m,In,2003,s,premier-league
+Arsenal FC,Gaël Clichy,18,France,Left-Back,LB,-,AS Cannes,France,£338Th.,In,2003,s,premier-league
 Arsenal FC,Daniel Karbassiyoon,18,United States,Left-Back,LB,-,Roanoke Star,United States,Free transfer,In,2003,s,premier-league
 Arsenal FC,Michal Papadopulos,18,Czech Republic,Centre-Forward,CF,-,FC Banik Ostrava,Czech Republic,Loan,In,2003,s,premier-league
 Arsenal FC,Francis Jeffers,23,England,Centre-Forward,CF,-,Everton FC,England,"End of loanMay 16, 2004",In,2003,s,premier-league
@@ -52,11 +52,11 @@ Chelsea FC,Njitap Geremi,24,Cameroon,Right Midfield,RM,-,Real Madrid,Spain,£9.0
 Chelsea FC,Joe Cole,21,England,Attacking Midfield,AM,-,West Ham United,England,£8.91m,In,2003,s,premier-league
 Chelsea FC,Glen Johnson,18,England,Right-Back,RB,-,West Ham United,England,£7.47m,In,2003,s,premier-league
 Chelsea FC,Aleksey Smertin,28,Russia,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,£4.95m,In,2003,s,premier-league
-Chelsea FC,Neil Sullivan,33,Scotland,Goalkeeper,GK,-,Tottenham Hotspur,England,Free transfer,In,2003,s,premier-league
 Chelsea FC,Marco Ambrosio,30,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,Free transfer,In,2003,s,premier-league
 Chelsea FC,Alexis Nicholas,20,Cyprus,Defensive Midfield,DM,-,Aston Villa U18,England,Free transfer,In,2003,s,premier-league
 Chelsea FC,Jürgen Macho,25,Austria,Goalkeeper,GK,-,Sunderland AFC,England,Free transfer,In,2003,s,premier-league
 Chelsea FC,Craig Rocastle,22,Grenada,Right Midfield,RM,-,Kingstonian FC,England,Free transfer,In,2003,s,premier-league
+Chelsea FC,Neil Sullivan,33,Scotland,Goalkeeper,GK,-,Tottenham Hotspur,England,Free transfer,In,2003,s,premier-league
 Chelsea FC,Aleksey Smertin,29,Russia,Defensive Midfield,DM,-,Portsmouth FC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Chelsea FC,Robert Huth,18,Germany,Centre-Back,CB,-,Chelsea FC Reserves,England,-,In,2003,s,premier-league
 Chelsea FC,Craig Rocastle,22,Grenada,Right Midfield,RM,-,Lincoln City,England,"End of loanMay 20, 2004",In,2003,s,premier-league
@@ -66,7 +66,7 @@ Chelsea FC,Lenny Pidgeley,20,England,Goalkeeper,GK,-,Watford FC,England,"End of 
 Chelsea FC,Joel Kitamirike,20,Uganda,Centre-Back,CB,-,Brentford FC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Liverpool FC,Harry Kewell,24,Australia,Left Winger,LW,-,Leeds United,England,£9.00m,In,2003,s,premier-league
 Liverpool FC,Steve Finnan,27,Ireland,Right-Back,RB,-,Fulham FC,England,£4.73m,In,2003,s,premier-league
-Liverpool FC,Florent Sinama-Pongolle,18,France,Second Striker,SS,-,AC Le Havre,France,£360k,In,2003,s,premier-league
+Liverpool FC,Florent Sinama-Pongolle,18,France,Second Striker,SS,-,AC Le Havre,France,£360Th.,In,2003,s,premier-league
 Liverpool FC,Darren Potter,18,Ireland,Central Midfield,CM,-,Blackburn Rovers U18,England,Free transfer,In,2003,s,premier-league
 Liverpool FC,Carl Medjani,18,Algeria,Defensive Midfield,DM,-,AS Saint-Étienne B,France,Free transfer,In,2003,s,premier-league
 Liverpool FC,Arnaud Bühler,18,Switzerland,Centre-Back,CB,-,FC Lausanne-Sport,Switzerland,?,In,2003,s,premier-league
@@ -87,17 +87,17 @@ Blackburn Rovers,Lorenzo Amoruso,32,Italy,Centre-Back,CB,-,Rangers FC,Scotland,�
 Blackburn Rovers,Vratislav Gresko,25,Slovakia,Left-Back,LB,-,AC Parma,Italy,£1.62m,In,2003,s,premier-league
 Blackburn Rovers,David Yelldell,21,United States,Goalkeeper,GK,-,Stuttgarter Kickers II,Germany,Free transfer,In,2003,s,premier-league
 Blackburn Rovers,Markus Babbel,30,Germany,Centre-Back,CB,-,Liverpool FC,England,Loan,In,2003,s,premier-league
+Blackburn Rovers,Alan Morgan,19,Scotland,Left Midfield,LM,-,Blackburn Rovers U18,England,-,In,2003,s,premier-league
 Blackburn Rovers,Gary Harkins,19,Scotland,Attacking Midfield,AM,-,Huddersfield Town,England,"End of loanMay 31, 2004",In,2003,s,premier-league
 Blackburn Rovers,Gary Harkins,18,Scotland,Attacking Midfield,AM,-,Blackburn Rovers U18,England,-,In,2003,s,premier-league
 Blackburn Rovers,Paul Gallagher,18,Scotland,Central Midfield,CM,-,Blackburn Rovers U18,England,-,In,2003,s,premier-league
 Blackburn Rovers,Andy Todd,29,England,Centre-Back,CB,-,Burnley FC,England,"End of loanOct 1, 2003",In,2003,s,premier-league
-Blackburn Rovers,Alan Morgan,19,Scotland,Left Midfield,LM,-,Blackburn Rovers U18,England,-,In,2003,s,premier-league
 Blackburn Rovers,Michael Taylor,20,England,Centre-Back,CB,-,Rochdale AFC,England,"End of loanJun 1, 2003",In,2003,s,premier-league
 Everton FC,Joseph Yobo,22,Nigeria,Centre-Back,CB,-,Olympique Marseille,France,£5.40m,In,2003,s,premier-league
 Everton FC,James McFadden,20,Scotland,Second Striker,SS,-,Motherwell FC,Scotland,£1.58m,In,2003,s,premier-league
 Everton FC,Kevin Kilbane,26,Ireland,Left Midfield,LM,-,Sunderland AFC,England,£1.13m,In,2003,s,premier-league
-Everton FC,Nigel Martyn,37,England,Goalkeeper,GK,-,Leeds United,England,£720k,In,2003,s,premier-league
-Everton FC,Iain Turner,19,Scotland,Goalkeeper,GK,-,Stirling Albion FC,Scotland,£104k,In,2003,s,premier-league
+Everton FC,Nigel Martyn,37,England,Goalkeeper,GK,-,Leeds United,England,£720Th.,In,2003,s,premier-league
+Everton FC,Iain Turner,19,Scotland,Goalkeeper,GK,-,Stirling Albion FC,Scotland,£104Th.,In,2003,s,premier-league
 Everton FC,Francis Jeffers,22,England,Centre-Forward,CF,-,Arsenal FC,England,Loan,In,2003,s,premier-league
 Everton FC,Nick Chadwick,21,England,Centre-Forward,CF,-,Millwall FC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Everton FC,Leon Osman,22,England,Central Midfield,CM,-,Derby County,England,"End of loanMay 10, 2004",In,2003,s,premier-league
@@ -107,9 +107,9 @@ Everton FC,Iain Turner,20,Scotland,Goalkeeper,GK,-,Chester City (diss.),England,
 Everton FC,Alex Nyarko,29,Ghana,Centre-Back,CB,-,Paris Saint-Germain,France,"End of loanJun 30, 2003",In,2003,s,premier-league
 Southampton FC,Kevin Phillips,30,England,Centre-Forward,CF,-,Sunderland AFC,England,£4.37m,In,2003,s,premier-league
 Southampton FC,Neil McCann,28,Scotland,Left Winger,LW,-,Rangers FC,Scotland,£2.00m,In,2003,s,premier-league
-Southampton FC,Dexter Blackstock,17,Antigua and Barbuda,Centre-Forward,CF,-,Oxford United,England,£360k,In,2003,s,premier-league
-Southampton FC,Fitz Hall,22,England,Centre-Back,CB,-,Oldham Athletic,England,£338k,In,2003,s,premier-league
-Southampton FC,Yoann Folly,18,Togo,Defensive Midfield,DM,-,AS Saint-Étienne U19,France,£338k,In,2003,s,premier-league
+Southampton FC,Dexter Blackstock,17,Antigua and Barbuda,Centre-Forward,CF,-,Oxford United,England,£360Th.,In,2003,s,premier-league
+Southampton FC,Fitz Hall,22,England,Centre-Back,CB,-,Oldham Athletic,England,£338Th.,In,2003,s,premier-league
+Southampton FC,Yoann Folly,18,Togo,Defensive Midfield,DM,-,AS Saint-Étienne U19,France,£338Th.,In,2003,s,premier-league
 Southampton FC,Darren Kenton,24,England,Centre-Back,CB,-,Norwich City,England,Free transfer,In,2003,s,premier-league
 Southampton FC,Léandre Griffit,19,France,Central Midfield,CM,-,SC Amiens,France,Free transfer,In,2003,s,premier-league
 Southampton FC,Graeme Le Saux,34,England,Left-Back,LB,-,Chelsea FC,England,?,In,2003,s,premier-league
@@ -118,25 +118,25 @@ Southampton FC,Stuart Anderson,17,Scotland,Central Midfield,CM,-,Southampton FC 
 Southampton FC,Chris Baird,21,Northern Ireland,Defensive Midfield,DM,-,Southampton FC U21,England,-,In,2003,s,premier-league
 Southampton FC,Mike Williamson,20,England,Centre-Back,CB,-,Doncaster Rovers,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Southampton FC,Stephen Hunt,18,England,Left-Back,LB,-,Southampton FC U18,England,-,In,2003,s,premier-league
-Southampton FC,Scott McDonald,19,Australia,Centre-Forward,CF,-,AFC Bournemouth,England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Southampton FC,Dani Rodrigues,23,Portugal,Left Winger,LW,-,Walsall FC,England,"End of loanJun 30, 2003",In,2003,s,premier-league
+Southampton FC,Scott McDonald,19,Australia,Centre-Forward,CF,-,AFC Bournemouth,England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Manchester City,Trevor Sinclair,30,England,Left Winger,LW,-,West Ham United,England,£3.38m,In,2003,s,premier-league
 Manchester City,Claudio Reyna,29,United States,Central Midfield,CM,-,Sunderland AFC,England,£3.38m,In,2003,s,premier-league
 Manchester City,Eyal Berkovic,31,Israel,Attacking Midfield,AM,-,Celtic FC,Scotland,£2.07m,In,2003,s,premier-league
 Manchester City,Paul Bosvelt,33,Netherlands,Defensive Midfield,DM,-,Feyenoord Rotterdam,Netherlands,£1.35m,In,2003,s,premier-league
-Manchester City,Antoine Sibierski,28,France,Attacking Midfield,AM,-,RC Lens,France,£990k,In,2003,s,premier-league
-Manchester City,Mark Redshaw,18,England,Second Striker,SS,-,Wrexham AFC,England,£324k,In,2003,s,premier-league
+Manchester City,Antoine Sibierski,28,France,Attacking Midfield,AM,-,RC Lens,France,£990Th.,In,2003,s,premier-league
+Manchester City,Mark Redshaw,18,England,Second Striker,SS,-,Wrexham AFC,England,£324Th.,In,2003,s,premier-league
 Manchester City,Steve McManaman,31,England,Left Midfield,LM,-,Real Madrid,Spain,Free transfer,In,2003,s,premier-league
 Manchester City,David Seaman,39,England,Goalkeeper,GK,-,Arsenal FC,England,Free transfer,In,2003,s,premier-league
 Manchester City,Michael Tarnat,33,Germany,Left-Back,LB,-,Bayern Munich,Germany,Free transfer,In,2003,s,premier-league
+Manchester City,Willo Flood,18,Ireland,Central Midfield,CM,-,Manchester City U18,England,-,In,2003,s,premier-league
+Manchester City,Karl Bermingham,17,Ireland,Centre-Forward,CF,-,Manchester City U18,England,-,In,2003,s,premier-league
 Manchester City,Keiren Westwood,19,Ireland,Goalkeeper,GK,-,Oldham Athletic,England,"End of loanMay 9, 2004",In,2003,s,premier-league
 Manchester City,Keiren Westwood,18,Ireland,Goalkeeper,GK,-,Manchester City U18,England,-,In,2003,s,premier-league
 Manchester City,Willo Flood,19,Ireland,Central Midfield,CM,-,Rochdale AFC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Manchester City,Dorryl Proffitt,18,England,Centre-Forward,CF,-,Manchester City U18,England,-,In,2003,s,premier-league
 Manchester City,Stephen Jordan,21,England,Centre-Back,CB,-,Manchester City Reserves,England,-,In,2003,s,premier-league
 Manchester City,Chris Shuker,21,England,Right Midfield,RM,-,Hartlepool United,England,"End of loanMay 1, 2004",In,2003,s,premier-league
-Manchester City,Willo Flood,18,Ireland,Central Midfield,CM,-,Manchester City U18,England,-,In,2003,s,premier-league
-Manchester City,Karl Bermingham,17,Ireland,Centre-Forward,CF,-,Manchester City U18,England,-,In,2003,s,premier-league
 Manchester City,Paul Ritchie,27,Scotland,Centre-Back,CB,-,Derby County,England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Tottenham Hotspur,Hélder Postiga,20,Portugal,Centre-Forward,CF,-,FC Porto,Portugal,£8.10m,In,2003,s,premier-league
 Tottenham Hotspur,Frédéric Kanouté,25,Mali,Centre-Forward,CF,-,West Ham United,England,£4.73m,In,2003,s,premier-league
@@ -150,10 +150,13 @@ Tottenham Hotspur,David Galbraith,19,England,Left Midfield,LM,-,Tottenham Hotspu
 Tottenham Hotspur,Mark Yeates,18,Ireland,Left Winger,LW,-,Tottenham Hotspur U18,England,-,In,2003,s,premier-league
 Middlesbrough FC,Malcolm Christie,24,England,Right Winger,RW,-,Derby County,England,£4.05m,In,2003,s,premier-league
 Middlesbrough FC,Gaizka Mendieta,29,Spain,Right Midfield,RM,-,SS Lazio,Italy,Loan fee:£3.15m,In,2003,s,premier-league
-Middlesbrough FC,Doriva,31,Brazil,Right Midfield,RM,-,Celta de Vigo,Spain,£180k,In,2003,s,premier-league
+Middlesbrough FC,Doriva,31,Brazil,Right Midfield,RM,-,Celta de Vigo,Spain,£180Th.,In,2003,s,premier-league
 Middlesbrough FC,Danny Mills,26,England,Right-Back,RB,-,Leeds United,England,Loan,In,2003,s,premier-league
 Middlesbrough FC,Alan Wright,31,England,Left-Back,LB,-,Aston Villa,England,Free transfer,In,2003,s,premier-league
 Middlesbrough FC,Boudewijn Zenden,26,Netherlands,Left Winger,LW,-,Chelsea FC,England,Loan,In,2003,s,premier-league
+Middlesbrough FC,David Murphy,20,England,Left-Back,LB,-,Barnsley FC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
+Middlesbrough FC,Sam Russell,20,England,Goalkeeper,GK,-,Scunthorpe United,England,"End of loanOct 1, 2003",In,2003,s,premier-league
+Middlesbrough FC,Stewart Downing,18,England,Left Midfield,LM,-,Middlesbrough FC U18,England,-,In,2003,s,premier-league
 Middlesbrough FC,Ross Turnbull,18,England,Goalkeeper,GK,-,Middlesbrough FC U18,England,-,In,2003,s,premier-league
 Middlesbrough FC,Gary Smith,19,England,Central Midfield,CM,-,Middlesbrough FC U18,England,-,In,2003,s,premier-league
 Middlesbrough FC,Brad Jones,21,Australia,Goalkeeper,GK,-,Rotherham United,England,"End of loanSep 1, 2003",In,2003,s,premier-league
@@ -162,37 +165,34 @@ Middlesbrough FC,Brian Close,21,Northern Ireland,Right-Back,RB,-,Middlesbrough F
 Middlesbrough FC,Carlos Marinelli,21,Argentina,Attacking Midfield,AM,-,Torino Calcio,Italy,"End of loanJul 1, 2003",In,2003,s,premier-league
 Middlesbrough FC,Danny Graham,18,England,Centre-Forward,CF,-,Darlington FC (liq.),England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Middlesbrough FC,Danny Graham,17,England,Centre-Forward,CF,-,Middlesbrough FC U18,England,-,In,2003,s,premier-league
-Middlesbrough FC,David Murphy,20,England,Left-Back,LB,-,Barnsley FC,England,"End of loanMay 1, 2004",In,2003,s,premier-league
-Middlesbrough FC,Sam Russell,20,England,Goalkeeper,GK,-,Scunthorpe United,England,"End of loanOct 1, 2003",In,2003,s,premier-league
-Middlesbrough FC,Stewart Downing,18,England,Left Midfield,LM,-,Middlesbrough FC U18,England,-,In,2003,s,premier-league
 Middlesbrough FC,Allan Johnston,29,Scotland,Right Midfield,RM,-,Sheffield Wednesday,England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Middlesbrough FC,Sam Russell,20,England,Goalkeeper,GK,-,Darlington FC (liq.),England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Charlton Athletic,Matt Holland,29,Ireland,Central Midfield,CM,-,Ipswich Town,England,£1.13m,In,2003,s,premier-league
-Charlton Athletic,Chris Perry,30,England,Centre-Back,CB,-,Tottenham Hotspur,England,£90k,In,2003,s,premier-league
-Charlton Athletic,Sérgio Leite,23,Portugal,Goalkeeper,GK,-,Boavista Porto FC,Portugal,Free transfer,In,2003,s,premier-league
-Charlton Athletic,Carlton Cole,19,England,Centre-Forward,CF,-,Chelsea FC,England,Loan,In,2003,s,premier-league
+Charlton Athletic,Chris Perry,30,England,Centre-Back,CB,-,Tottenham Hotspur,England,£90Th.,In,2003,s,premier-league
 Charlton Athletic,Paolo Di Canio,34,Italy,Centre-Forward,CF,-,West Ham United,England,Free transfer,In,2003,s,premier-league
 Charlton Athletic,Stephen Hughes,26,England,Defensive Midfield,DM,-,Watford FC,England,Free transfer,In,2003,s,premier-league
 Charlton Athletic,Simon Royce,31,England,Goalkeeper,GK,-,Leicester City,England,Free transfer,In,2003,s,premier-league
-Charlton Athletic,Lloyd Sam,19,Ghana,Right Winger,RW,-,Leyton Orient,England,"End of loanApr 1, 2004",In,2003,s,premier-league
-Charlton Athletic,Stacy Long,18,England,Left Winger,LW,-,Charlton Athletic U18,England,-,In,2003,s,premier-league
+Charlton Athletic,Sérgio Leite,23,Portugal,Goalkeeper,GK,-,Boavista Porto FC,Portugal,Free transfer,In,2003,s,premier-league
+Charlton Athletic,Carlton Cole,19,England,Centre-Forward,CF,-,Chelsea FC,England,Loan,In,2003,s,premier-league
 Charlton Athletic,Adrian Deane,20,Ireland,Midfielder,Midfielder,-,Charlton Athletic U18,England,-,In,2003,s,premier-league
 Charlton Athletic,Adam Cottrell,16,England,Defender,Defender,-,Charlton Athletic U18,England,-,In,2003,s,premier-league
 Charlton Athletic,Paul Rachubka,23,England,Goalkeeper,GK,-,Huddersfield Town,England,"End of loanMay 31, 2004",In,2003,s,premier-league
 Charlton Athletic,Lloyd Sam,18,Ghana,Right Winger,RW,-,Charlton Athletic U18,England,-,In,2003,s,premier-league
+Charlton Athletic,Lloyd Sam,19,Ghana,Right Winger,RW,-,Leyton Orient,England,"End of loanApr 1, 2004",In,2003,s,premier-league
+Charlton Athletic,Stacy Long,18,England,Left Winger,LW,-,Charlton Athletic U18,England,-,In,2003,s,premier-league
 Charlton Athletic,Michael Turner,19,England,Centre-Back,CB,-,Leyton Orient,England,"End of loanJun 30, 2003",In,2003,s,premier-league
 Birmingham City,David Dunn,23,England,Attacking Midfield,AM,-,Blackburn Rovers,England,£7.88m,In,2003,s,premier-league
 Birmingham City,Luciano Figueroa,22,Argentina,Centre-Forward,CF,-,Club Atlético Rosario Central,Argentina,£3.38m,In,2003,s,premier-league
-Birmingham City,Mikael Forssell,22,Finland,Centre-Forward,CF,-,Chelsea FC,England,Loan fee:£675k,In,2003,s,premier-league
+Birmingham City,Mikael Forssell,22,Finland,Centre-Forward,CF,-,Chelsea FC,England,Loan fee:£675Th.,In,2003,s,premier-league
 Birmingham City,Maik Taylor,31,Northern Ireland,Goalkeeper,GK,-,Fulham FC,England,Loan,In,2003,s,premier-league
+Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Peterborough United,England,"End of loanMay 31, 2004",In,2003,s,premier-league
 Birmingham City,Andy Barrowman,18,Scotland,Centre-Forward,CF,-,Birmingham City U18,England,-,In,2003,s,premier-league
 Birmingham City,Carl Motteram,18,England,Midfielder,Midfielder,-,Birmingham City U18,England,-,In,2003,s,premier-league
 Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Queens Park Rangers,England,"End of loanSep 7, 2003",In,2003,s,premier-league
 Birmingham City,Colin Doyle,18,Ireland,Goalkeeper,GK,-,Birmingham City U18,England,-,In,2003,s,premier-league
-Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Peterborough United,England,"End of loanMay 31, 2004",In,2003,s,premier-league
 Birmingham City,Curtis Woodhouse,23,England,Attacking Midfield,AM,-,Rotherham United,England,"End of loanJun 30, 2003",In,2003,s,premier-league
-Fulham FC,Mark Pembridge,32,Wales,Left Midfield,LM,-,Everton FC,England,£675k,In,2003,s,premier-league
-Fulham FC,Mark Crossley,34,Wales,Goalkeeper,GK,-,Middlesbrough FC,England,£675k,In,2003,s,premier-league
+Fulham FC,Mark Pembridge,32,Wales,Left Midfield,LM,-,Everton FC,England,£675Th.,In,2003,s,premier-league
+Fulham FC,Mark Crossley,34,Wales,Goalkeeper,GK,-,Middlesbrough FC,England,£675Th.,In,2003,s,premier-league
 Fulham FC,Moritz Volz,20,Germany,Right-Back,RB,-,Arsenal FC,England,Loan,In,2003,s,premier-league
 Fulham FC,Jérôme Bonnissel,30,France,Left-Back,LB,-,Rangers FC,Scotland,Free transfer,In,2003,s,premier-league
 Fulham FC,Dave Beasant,44,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Free transfer,In,2003,s,premier-league
@@ -211,7 +211,7 @@ Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Oldham Athletic,England,"End o
 Fulham FC,Adam Green,19,England,Left-Back,LB,-,Fulham FC U18,England,-,In,2003,s,premier-league
 Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Fulham FC U23,England,-,In,2003,s,premier-league
 Fulham FC,Stuart Noble,19,Scotland,Centre-Forward,CF,-,St. Johnstone FC,Scotland,"End of loanJun 30, 2003",In,2003,s,premier-league
-Leeds United,Roque Júnior,26,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan fee:£90k,In,2003,s,premier-league
+Leeds United,Roque Júnior,26,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan fee:£90Th.,In,2003,s,premier-league
 Leeds United,Jody Morris,24,England,Central Midfield,CM,-,Chelsea FC,England,Free transfer,In,2003,s,premier-league
 Leeds United,Cyril Chapuis,24,France,Centre-Forward,CF,-,Olympique Marseille,France,Loan,In,2003,s,premier-league
 Leeds United,Salomon Olembé,22,Cameroon,Left Midfield,LM,-,Olympique Marseille,France,Loan,In,2003,s,premier-league
@@ -237,7 +237,7 @@ Aston Villa,Rob Edwards,21,Wales,Centre-Back,CB,-,Derby County,England,"End of l
 Aston Villa,Luke Moore,17,England,Centre-Forward,CF,-,Aston Villa U18,England,-,In,2003,s,premier-league
 Aston Villa,Wayne Henderson,20,Ireland,Goalkeeper,GK,-,Wycombe Wanderers,England,"End of loanMay 1, 2004",In,2003,s,premier-league
 Aston Villa,Bosko Balaban,24,Croatia,Centre-Forward,CF,-,GNK Dinamo Zagreb,Croatia,"End of loanJun 30, 2003",In,2003,s,premier-league
-Bolton Wanderers,Florent Laville,29,France,Centre-Back,CB,-,Olympique Lyon,France,£675k,In,2003,s,premier-league
+Bolton Wanderers,Florent Laville,29,France,Centre-Back,CB,-,Olympique Lyon,France,£675Th.,In,2003,s,premier-league
 Bolton Wanderers,Kevin Davies,26,England,Centre-Forward,CF,-,Southampton FC,England,Free transfer,In,2003,s,premier-league
 Bolton Wanderers,Jardel,29,Brazil,Centre-Forward,CF,-,Sporting CP,Portugal,Free transfer,In,2003,s,premier-league
 Bolton Wanderers,Émerson Thome,31,Brazil,Centre-Back,CB,-,Sunderland AFC,England,Free transfer,In,2003,s,premier-league
@@ -274,9 +274,8 @@ Portsmouth FC,Gary Silk,19,England,Right-Back,RB,-,Barnet FC,England,"End of loa
 Portsmouth FC,Shaun Cooper,20,England,Defensive Midfield,DM,-,Leyton Orient,England,"End of loanMay 12, 2004",In,2003,s,premier-league
 Portsmouth FC,Deon Burton,26,Jamaica,Centre-Forward,CF,-,Walsall FC,England,"End of loanOct 5, 2003",In,2003,s,premier-league
 Portsmouth FC,Mark Burchill,22,Scotland,Centre-Forward,CF,-,Dundee FC,Scotland,"End of loanJun 30, 2003",In,2003,s,premier-league
-Leicester City,Ben Thatcher,27,Wales,Left-Back,LB,-,Tottenham Hotspur,England,£405k,In,2003,s,premier-league
-Leicester City,Alan Sheehan,16,Ireland,Centre-Back,CB,-,Belvedere FC,Ireland,£135k,In,2003,s,premier-league
-Leicester City,John Curtis,24,England,Right-Back,RB,-,Blackburn Rovers,England,Free transfer,In,2003,s,premier-league
+Leicester City,Ben Thatcher,27,Wales,Left-Back,LB,-,Tottenham Hotspur,England,£405Th.,In,2003,s,premier-league
+Leicester City,Alan Sheehan,16,Ireland,Centre-Back,CB,-,Belvedere FC,Ireland,£135Th.,In,2003,s,premier-league
 Leicester City,Riccardo Scimeca,28,England,Centre-Back,CB,-,Nottingham Forest,England,Free transfer,In,2003,s,premier-league
 Leicester City,Craig Hignett,33,England,Right Winger,RW,-,Blackburn Rovers,England,Free transfer,In,2003,s,premier-league
 Leicester City,Paul Brooker,26,England,Attacking Midfield,AM,-,Brighton & Hove Albion,England,Free transfer,In,2003,s,premier-league
@@ -287,6 +286,7 @@ Leicester City,Danny Coyne,29,Wales,Goalkeeper,GK,-,Grimsby Town,England,Free tr
 Leicester City,Marcus Bent,25,England,Centre-Forward,CF,-,Ipswich Town,England,Loan,In,2003,s,premier-league
 Leicester City,Keith Gillespie,28,Northern Ireland,Central Midfield,CM,-,Blackburn Rovers,England,Free transfer,In,2003,s,premier-league
 Leicester City,Les Ferdinand,36,England,Centre-Forward,CF,-,West Ham United,England,Free transfer,In,2003,s,premier-league
+Leicester City,John Curtis,24,England,Right-Back,RB,-,Blackburn Rovers,England,Free transfer,In,2003,s,premier-league
 Leicester City,Craig Hignett,34,England,Right Winger,RW,-,Crewe Alexandra,England,"End of loanMay 10, 2004",In,2003,s,premier-league
 Leicester City,Jay Smedley,16,England,Centre-Back,CB,-,Leicester City U18,England,-,In,2003,s,premier-league
 Leicester City,Paul Brooker,27,England,Attacking Midfield,AM,-,Reading FC,England,"End of loanMay 10, 2004",In,2003,s,premier-league
@@ -330,6 +330,7 @@ Manchester United,Jimmy Davis,21,England,Left Winger,LW,-,Watford FC,England,?,O
 Manchester United,Ricardo,31,Spain,Goalkeeper,GK,-,Racing Santander,Spain,Loan,Out,2003,s,premier-league
 Manchester United,Colin Heath,19,England,Centre-Forward,CF,-,Royal Antwerp FC,Belgium,Loan,Out,2003,s,premier-league
 Manchester United,Laurent Blanc,37,France,Sweeper,SW,-,,Retired,-,Out,2003,s,premier-league
+Arsenal FC,Júan,21,Brazil,Attacking Midfield,AM,-,Millwall FC,England,Loan,Out,2003,s,premier-league
 Arsenal FC,Oleg Luzhnyi,34,Ukraine,Right-Back,RB,-,Wolverhampton Wanderers,England,Free transfer,Out,2003,s,premier-league
 Arsenal FC,Igors Stepanovs,27,Latvia,Centre-Back,CB,-,KSK Beveren,Belgium,Loan,Out,2003,s,premier-league
 Arsenal FC,Graham Barrett,21,Ireland,Centre-Forward,CF,-,Coventry City,England,Free transfer,Out,2003,s,premier-league
@@ -342,8 +343,7 @@ Arsenal FC,Francis Jeffers,22,England,Centre-Forward,CF,-,Everton FC,England,Loa
 Arsenal FC,Ashley Probets,19,England,Defender,Defender,-,Rochdale AFC,England,Free transfer,Out,2003,s,premier-league
 Arsenal FC,Guillaume Warmuz,33,France,Goalkeeper,GK,-,Borussia Dortmund,Germany,Free transfer,Out,2003,s,premier-league
 Arsenal FC,Giovanni van Bronckhorst,28,Netherlands,Left-Back,LB,-,FC Barcelona,Spain,Loan,Out,2003,s,premier-league
-Arsenal FC,Júan,21,Brazil,Attacking Midfield,AM,-,Millwall FC,England,Loan,Out,2003,s,premier-league
-Arsenal FC,John Halls,21,England,Defensive Midfield,DM,-,Stoke City,England,£45k,Out,2003,s,premier-league
+Arsenal FC,John Halls,21,England,Defensive Midfield,DM,-,Stoke City,England,£45Th.,Out,2003,s,premier-league
 Arsenal FC,Liam Chilvers,21,England,Centre-Back,CB,-,Colchester United,England,Loan,Out,2003,s,premier-league
 Arsenal FC,Michal Papadopulos,19,Czech Republic,Centre-Forward,CF,-,FC Banik Ostrava,Czech Republic,"End of loanMay 1, 2004",Out,2003,s,premier-league
 Newcastle United,Christian Bassedas,30,Argentina,Attacking Midfield,AM,-,Club Atlético Newell's Old Boys,Argentina,Free transfer,Out,2003,s,premier-league
@@ -356,8 +356,8 @@ Newcastle United,Wayne Quinn,26,England,Centre-Back,CB,-,West Ham United,England
 Newcastle United,Calvin Zola,18,DR Congo,Centre-Forward,CF,-,Oldham Athletic,England,Loan,Out,2003,s,premier-league
 Newcastle United,Brian Kerr,21,Scotland,Defensive Midfield,DM,-,Livingston FC,Scotland,Loan,Out,2003,s,premier-league
 Newcastle United,Michael Bridges,25,England,Centre-Forward,CF,-,Leeds United,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
-Chelsea FC,Mikael Forssell,22,Finland,Centre-Forward,CF,-,Birmingham City,England,Loan fee:£675k,Out,2003,s,premier-league
-Chelsea FC,Leon Knight,20,England,Centre-Forward,CF,-,Brighton & Hove Albion,England,£180k,Out,2003,s,premier-league
+Chelsea FC,Mikael Forssell,22,Finland,Centre-Forward,CF,-,Birmingham City,England,Loan fee:£675Th.,Out,2003,s,premier-league
+Chelsea FC,Leon Knight,20,England,Centre-Forward,CF,-,Brighton & Hove Albion,England,£180Th.,Out,2003,s,premier-league
 Chelsea FC,Carlton Cole,19,England,Centre-Forward,CF,-,Charlton Athletic,England,Loan,Out,2003,s,premier-league
 Chelsea FC,Robert Wolleaston,23,England,Central Midfield,CM,-,Bradford City,England,Free transfer,Out,2003,s,premier-league
 Chelsea FC,Ed de Goey,36,Netherlands,Goalkeeper,GK,-,Stoke City,England,Free transfer,Out,2003,s,premier-league
@@ -386,6 +386,11 @@ Liverpool FC,Grégory Vignal,22,France,Left-Back,LB,-,Stade Rennais FC,France,Lo
 Liverpool FC,Vegard Heggem,27,Norway,Right-Back,RB,-,,Retired,-,Out,2003,s,premier-league
 Blackburn Rovers,Damien Duff,24,Ireland,Right Midfield,RM,-,Chelsea FC,England,£22.05m,Out,2003,s,premier-league
 Blackburn Rovers,David Dunn,23,England,Attacking Midfield,AM,-,Birmingham City,England,£7.88m,Out,2003,s,premier-league
+Blackburn Rovers,Marc Richards,20,England,Centre-Forward,CF,-,Northampton Town,England,Free transfer,Out,2003,s,premier-league
+Blackburn Rovers,John Curtis,24,England,Right-Back,RB,-,Leicester City,England,Free transfer,Out,2003,s,premier-league
+Blackburn Rovers,Darren Hockenhull,20,England,Defender,Defender,-,FC Halifax Town,England,Free transfer,Out,2003,s,premier-league
+Blackburn Rovers,Andy Bell,19,England,Centre-Forward,CF,-,Wycombe Wanderers,England,Free transfer,Out,2003,s,premier-league
+Blackburn Rovers,Andy Todd,28,England,Centre-Back,CB,-,Burnley FC,England,Loan,Out,2003,s,premier-league
 Blackburn Rovers,Ryan Robinson,20,England,Goalkeeper,GK,-,Southend United,England,Free transfer,Out,2003,s,premier-league
 Blackburn Rovers,Craig Hignett,33,England,Right Winger,RW,-,Leicester City,England,Free transfer,Out,2003,s,premier-league
 Blackburn Rovers,Hakan Sükür,31,Turkey,Centre-Forward,CF,-,Galatasaray SK,Turkey,Free transfer,Out,2003,s,premier-league
@@ -396,24 +401,19 @@ Blackburn Rovers,Jim Corbett,22,England,Midfielder,Midfielder,-,Southend United,
 Blackburn Rovers,Neil Danns,20,Guyana,Central Midfield,CM,-,Blackpool FC,England,Loan,Out,2003,s,premier-league
 Blackburn Rovers,Keith Gillespie,28,Northern Ireland,Central Midfield,CM,-,Leicester City,England,Free transfer,Out,2003,s,premier-league
 Blackburn Rovers,Alan Mahon,25,Ireland,Left Midfield,LM,-,Ipswich Town,England,Loan,Out,2003,s,premier-league
-Blackburn Rovers,Marc Richards,20,England,Centre-Forward,CF,-,Northampton Town,England,Free transfer,Out,2003,s,premier-league
-Blackburn Rovers,John Curtis,24,England,Right-Back,RB,-,Leicester City,England,Free transfer,Out,2003,s,premier-league
-Blackburn Rovers,Darren Hockenhull,20,England,Defender,Defender,-,FC Halifax Town,England,Free transfer,Out,2003,s,premier-league
-Blackburn Rovers,Andy Bell,19,England,Centre-Forward,CF,-,Wycombe Wanderers,England,Free transfer,Out,2003,s,premier-league
-Blackburn Rovers,Andy Todd,28,England,Centre-Back,CB,-,Burnley FC,England,Loan,Out,2003,s,premier-league
-Blackburn Rovers,Darren Dunning,22,England,Midfielder,Midfielder,-,York City,England,?,Out,2003,s,premier-league
 Blackburn Rovers,Henning Berg,33,Norway,Right-Back,RB,-,Rangers FC,Scotland,?,Out,2003,s,premier-league
+Blackburn Rovers,Darren Dunning,22,England,Midfielder,Midfielder,-,York City,England,?,Out,2003,s,premier-league
 Blackburn Rovers,Stig Inge Björnebye,33,Norway,Left-Back,LB,-,,Retired,-,Out,2003,s,premier-league
 Blackburn Rovers,Yordi,28,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Blackburn Rovers,Vratislav Gresko,25,Slovakia,Left-Back,LB,-,AC Parma,Italy,"End of loanJun 30, 2003",Out,2003,s,premier-league
-Everton FC,Mark Pembridge,32,Wales,Left Midfield,LM,-,Fulham FC,England,£675k,Out,2003,s,premier-league
-Everton FC,David Carney,19,Australia,Left Winger,LW,-,Oldham Athletic,England,Free transfer,Out,2003,s,premier-league
+Everton FC,Mark Pembridge,32,Wales,Left Midfield,LM,-,Fulham FC,England,£675Th.,Out,2003,s,premier-league
 Everton FC,George Pilkington,21,England,Centre-Back,CB,-,Port Vale FC,England,Free transfer,Out,2003,s,premier-league
 Everton FC,Paul Gerrard,30,England,Goalkeeper,GK,-,Sheffield United,England,Loan,Out,2003,s,premier-league
+Everton FC,David Carney,19,Australia,Left Winger,LW,-,Oldham Athletic,England,Free transfer,Out,2003,s,premier-league
 Everton FC,Niclas Alexandersson,31,Sweden,Right Midfield,RM,-,West Ham United,England,Loan,Out,2003,s,premier-league
-Everton FC,Espen Baardsen,25,Norway,Goalkeeper,GK,-,,Retired,-,Out,2003,s,premier-league
 Everton FC,Francis Jeffers,23,England,Centre-Forward,CF,-,Arsenal FC,England,"End of loanMay 16, 2004",Out,2003,s,premier-league
 Everton FC,David Ginola,36,France,Left Winger,LW,-,,Retired,-,Out,2003,s,premier-league
+Everton FC,Espen Baardsen,25,Norway,Goalkeeper,GK,-,,Retired,-,Out,2003,s,premier-league
 Everton FC,Rodrigo Beckham,26,Brazil,Attacking Midfield,AM,-,Botafogo Rio de Janeiro,Brazil,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Everton FC,Weifeng Li,24,China,Centre-Back,CB,-,Shenzhen Jianlibao,China,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Everton FC,Joseph Yobo,22,Nigeria,Centre-Back,CB,-,Olympique Marseille,France,"End of loanJun 30, 2003",Out,2003,s,premier-league
@@ -429,9 +429,9 @@ Southampton FC,Federicio Arias,24,Argentina,Forward,Forward,-,Club Atlético Vé
 Manchester City,Matías Vuoso,21,Mexico,Centre-Forward,CF,-,Santos Laguna,Mexico,£1.35m,Out,2003,s,premier-league
 Manchester City,Niclas Jensen,28,Denmark,Left-Back,LB,-,Borussia Dortmund,Germany,£1.13m,Out,2003,s,premier-league
 Manchester City,Darren Huckerby,27,England,Right Winger,RW,-,Norwich City,England,£1.13m,Out,2003,s,premier-league
-Manchester City,Lucién Mettomo,26,Cameroon,Centre-Back,CB,-,1.FC Kaiserslautern,Germany,£651k,Out,2003,s,premier-league
-Manchester City,Shaun Goater,33,Bermuda,Centre-Forward,CF,-,Reading FC,England,£630k,Out,2003,s,premier-league
-Manchester City,Kevin Horlock,30,Northern Ireland,Defensive Midfield,DM,-,West Ham United,England,£405k,Out,2003,s,premier-league
+Manchester City,Lucién Mettomo,26,Cameroon,Centre-Back,CB,-,1.FC Kaiserslautern,Germany,£651Th.,Out,2003,s,premier-league
+Manchester City,Shaun Goater,33,Bermuda,Centre-Forward,CF,-,Reading FC,England,£630Th.,Out,2003,s,premier-league
+Manchester City,Kevin Horlock,30,Northern Ireland,Defensive Midfield,DM,-,West Ham United,England,£405Th.,Out,2003,s,premier-league
 Manchester City,Jeff Whitley,24,Northern Ireland,Defensive Midfield,DM,-,Sunderland AFC,England,Free transfer,Out,2003,s,premier-league
 Manchester City,Chris Shuker,21,England,Right Midfield,RM,-,Rochdale AFC,England,Loan,Out,2003,s,premier-league
 Manchester City,Steve Howey,31,England,Centre-Back,CB,-,Leicester City,England,Free transfer,Out,2003,s,premier-league
@@ -441,8 +441,8 @@ Manchester City,Ali Benarbia,34,Algeria,Attacking Midfield,AM,-,Al Rayyan Sports
 Manchester City,Tyrone Loran,22,Curacao,Right-Back,RB,-,Tranmere Rovers,England,?,Out,2003,s,premier-league
 Manchester City,Peter Schmeichel,39,Denmark,Goalkeeper,GK,-,,Retired,-,Out,2003,s,premier-league
 Manchester City,Alf-Inge Haaland,30,Norway,Defensive Midfield,DM,-,,Career break,-,Out,2003,s,premier-league
-Tottenham Hotspur,Ben Thatcher,27,Wales,Left-Back,LB,-,Leicester City,England,£405k,Out,2003,s,premier-league
-Tottenham Hotspur,Chris Perry,30,England,Centre-Back,CB,-,Charlton Athletic,England,£90k,Out,2003,s,premier-league
+Tottenham Hotspur,Ben Thatcher,27,Wales,Left-Back,LB,-,Leicester City,England,£405Th.,Out,2003,s,premier-league
+Tottenham Hotspur,Chris Perry,30,England,Centre-Back,CB,-,Charlton Athletic,England,£90Th.,Out,2003,s,premier-league
 Tottenham Hotspur,Teddy Sheringham,37,England,Centre-Forward,CF,-,Portsmouth FC,England,Free transfer,Out,2003,s,premier-league
 Tottenham Hotspur,Alton Thelwell,22,England,Centre-Back,CB,-,Hull City,England,Free transfer,Out,2003,s,premier-league
 Tottenham Hotspur,Neil Sullivan,33,Scotland,Goalkeeper,GK,-,Chelsea FC,England,Free transfer,Out,2003,s,premier-league
@@ -453,8 +453,8 @@ Tottenham Hotspur,Stephen Kelly,19,Ireland,Right-Back,RB,-,Watford FC,England,Lo
 Tottenham Hotspur,Steve Ferguson,21,Scotland,Midfielder,Midfielder,-,Woking FC,England,?,Out,2003,s,premier-league
 Tottenham Hotspur,Matthew Etherington,21,England,Left Midfield,LM,-,West Ham United,England,?,Out,2003,s,premier-league
 Tottenham Hotspur,Kazuyuki Toda,25,Japan,Defensive Midfield,DM,-,Shimizu S-Pulse,Japan,"End of loanJun 30, 2003",Out,2003,s,premier-league
-Middlesbrough FC,Mark Crossley,34,Wales,Goalkeeper,GK,-,Fulham FC,England,£675k,Out,2003,s,premier-league
-Middlesbrough FC,Luke Wilkshire,21,Australia,Right-Back,RB,-,Bristol City,England,£338k,Out,2003,s,premier-league
+Middlesbrough FC,Mark Crossley,34,Wales,Goalkeeper,GK,-,Fulham FC,England,£675Th.,Out,2003,s,premier-league
+Middlesbrough FC,Luke Wilkshire,21,Australia,Right-Back,RB,-,Bristol City,England,£338Th.,Out,2003,s,premier-league
 Middlesbrough FC,Ross Turnbull,19,England,Goalkeeper,GK,-,Barnsley FC,England,Loan,Out,2003,s,premier-league
 Middlesbrough FC,Brad Jones,21,Australia,Goalkeeper,GK,-,Rotherham United,England,Loan,Out,2003,s,premier-league
 Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Bury FC,England,Loan,Out,2003,s,premier-league
@@ -468,7 +468,7 @@ Middlesbrough FC,Alen Boksic,33,Croatia,Centre-Forward,CF,-,,Retired,-,Out,2003,
 Middlesbrough FC,Tony Vidmar,32,Australia,Left-Back,LB,-,,Without Club,-,Out,2003,s,premier-league
 Middlesbrough FC,Danny Mills,26,England,Right-Back,RB,-,Leeds United,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
 Middlesbrough FC,Doriva,31,Brazil,Right Midfield,RM,-,Celta de Vigo,Spain,"End of loanJun 30, 2003",Out,2003,s,premier-league
-Charlton Athletic,Jesper Blomqvist,29,Sweden,Left Midfield,LM,-,Djurgardens IF,Sweden,£450k,Out,2003,s,premier-league
+Charlton Athletic,Jesper Blomqvist,29,Sweden,Left Midfield,LM,-,Djurgardens IF,Sweden,£450Th.,Out,2003,s,premier-league
 Charlton Athletic,Mathias Svensson,28,Sweden,Centre-Forward,CF,-,Derby County,England,Loan,Out,2003,s,premier-league
 Charlton Athletic,Ben Roberts,28,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Free transfer,Out,2003,s,premier-league
 Charlton Athletic,Paul Konchesky,22,England,Left-Back,LB,-,Tottenham Hotspur,England,Loan,Out,2003,s,premier-league
@@ -479,8 +479,9 @@ Charlton Athletic,Carlton Cole,20,England,Centre-Forward,CF,-,Chelsea FC,England
 Charlton Athletic,Tahar El Khalej,35,Morocco,Centre-Back,CB,-,,Retired,-,Out,2003,s,premier-league
 Charlton Athletic,Martin Pringle,32,Sweden,Centre-Forward,CF,-,,Retired,-,Out,2003,s,premier-league
 Birmingham City,Geoff Horsfield,29,England,Centre-Forward,CF,-,Wigan Athletic,England,£1.35m,Out,2003,s,premier-league
-Birmingham City,Michael Johnson,29,Jamaica,Centre-Back,CB,-,Derby County,England,£203k,Out,2003,s,premier-league
-Birmingham City,Paul Devlin,31,Scotland,Attacking Midfield,AM,-,Watford FC,England,£203k,Out,2003,s,premier-league
+Birmingham City,Michael Johnson,29,Jamaica,Centre-Back,CB,-,Derby County,England,£203Th.,Out,2003,s,premier-league
+Birmingham City,Paul Devlin,31,Scotland,Attacking Midfield,AM,-,Watford FC,England,£203Th.,Out,2003,s,premier-league
+Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Queens Park Rangers,England,Loan,Out,2003,s,premier-league
 Birmingham City,Michael Hughes,31,Northern Ireland,Attacking Midfield,AM,-,Crystal Palace,England,Free transfer,Out,2003,s,premier-league
 Birmingham City,Curtis Woodhouse,23,England,Attacking Midfield,AM,-,Peterborough United,England,Free transfer,Out,2003,s,premier-league
 Birmingham City,Joey Hutchinson,21,England,Defender,Defender,-,Darlington FC (liq.),England,Free transfer,Out,2003,s,premier-league
@@ -489,14 +490,12 @@ Birmingham City,Tony Capaldi,21,Northern Ireland,Left-Back,LB,-,Plymouth Argyle,
 Birmingham City,Peter Gilbert,19,Wales,Left-Back,LB,-,Plymouth Argyle,England,Free transfer,Out,2003,s,premier-league
 Birmingham City,Andy Marriott,32,Wales,Goalkeeper,GK,-,SC Beira-Mar,Portugal,Free transfer,Out,2003,s,premier-league
 Birmingham City,Clint Davies,20,Australia,Goalkeeper,GK,-,Bradford City,England,Free transfer,Out,2003,s,premier-league
-Birmingham City,Tom Williams,23,Cyprus,Left-Back,LB,-,Queens Park Rangers,England,Loan,Out,2003,s,premier-league
 Birmingham City,Andy Barrowman,18,Scotland,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,2003,s,premier-league
 Birmingham City,Martin Grainger,30,England,Left-Back,LB,-,Coventry City,England,Loan,Out,2003,s,premier-league
 Birmingham City,Steve Vickers,35,England,Centre-Back,CB,-,,Retired,-,Out,2003,s,premier-league
 Birmingham City,Piotr Swierczewski,31,Poland,Defensive Midfield,DM,-,Olympique Marseille,France,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Birmingham City,Ferdinand Coly,29,Senegal,Right-Back,RB,-,RC Lens,France,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Fulham FC,Steve Finnan,27,Ireland,Right-Back,RB,-,Liverpool FC,England,£4.73m,Out,2003,s,premier-league
-Fulham FC,Bjarne Goldbaek,34,Denmark,Central Midfield,CM,-,Rot-Weiss Essen,Germany,Free transfer,Out,2003,s,premier-league
 Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Oldham Athletic,England,Loan,Out,2003,s,premier-league
 Fulham FC,Maik Taylor,31,Northern Ireland,Goalkeeper,GK,-,Birmingham City,England,Loan,Out,2003,s,premier-league
 Fulham FC,Luke Cornwall,22,England,Centre-Forward,CF,-,Bradford City,England,Free transfer,Out,2003,s,premier-league
@@ -506,29 +505,30 @@ Fulham FC,Ross Flitney,19,England,Goalkeeper,GK,-,Brighton & Hove Albion,England
 Fulham FC,Calum Willock,21,St. Kitts & Nevis,Centre-Forward,CF,-,Bristol Rovers,England,Loan,Out,2003,s,premier-league
 Fulham FC,Steve Marlet,29,France,Centre-Forward,CF,-,Olympique Marseille,France,Loan,Out,2003,s,premier-league
 Fulham FC,Zesh Rehman,19,Pakistan,Centre-Back,CB,-,Brighton & Hove Albion,England,Loan,Out,2003,s,premier-league
-Fulham FC,Calum Willock,21,St. Kitts & Nevis,Centre-Forward,CF,-,Peterborough United,England,£36k,Out,2003,s,premier-league
-Fulham FC,Andy Melville,34,Wales,Centre-Back,CB,-,West Ham United,England,?,Out,2003,s,premier-league
+Fulham FC,Bjarne Goldbaek,34,Denmark,Central Midfield,CM,-,Rot-Weiss Essen,Germany,Free transfer,Out,2003,s,premier-league
+Fulham FC,Calum Willock,21,St. Kitts & Nevis,Centre-Forward,CF,-,Peterborough United,England,£36Th.,Out,2003,s,premier-league
 Fulham FC,Abdeslam Ouaddou,24,Morocco,Centre-Back,CB,-,Stade Rennais FC,France,Loan,Out,2003,s,premier-league
+Fulham FC,Andy Melville,34,Wales,Centre-Back,CB,-,West Ham United,England,?,Out,2003,s,premier-league
 Fulham FC,John Collins,35,Scotland,Left Midfield,LM,-,,Retired,-,Out,2003,s,premier-league
 Fulham FC,Pierre Womé,24,Cameroon,Left-Back,LB,-,Bologna FC 1909,Italy,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Leeds United,Harry Kewell,24,Australia,Left Winger,LW,-,Liverpool FC,England,£9.00m,Out,2003,s,premier-league
 Leeds United,Olivier Dacourt,28,France,Defensive Midfield,DM,-,AS Roma,Italy,£4.73m,Out,2003,s,premier-league
-Leeds United,Nigel Martyn,37,England,Goalkeeper,GK,-,Everton FC,England,£720k,Out,2003,s,premier-league
-Leeds United,Shaun Allaway,20,England,Goalkeeper,GK,-,Walsall FC,England,Loan,Out,2003,s,premier-league
-Leeds United,Danny Mills,26,England,Right-Back,RB,-,Middlesbrough FC,England,Loan,Out,2003,s,premier-league
-Leeds United,Matthew Kilgallon,19,England,Centre-Back,CB,-,West Ham United,England,Loan,Out,2003,s,premier-league
+Leeds United,Nigel Martyn,37,England,Goalkeeper,GK,-,Everton FC,England,£720Th.,Out,2003,s,premier-league
 Leeds United,Harpal Singh,21,India,Left Midfield,LM,-,Bury FC,England,Loan,Out,2003,s,premier-league
 Leeds United,Tom Newey,20,England,Left-Back,LB,-,Leyton Orient,England,Free transfer,Out,2003,s,premier-league
 Leeds United,Stephen McPhail,23,Ireland,Left Midfield,LM,-,Nottingham Forest,England,Loan,Out,2003,s,premier-league
 Leeds United,James Milner,17,England,Central Midfield,CM,-,Swindon Town,England,Loan,Out,2003,s,premier-league
-Leeds United,Shane Cansdell-Sherriff,20,Australia,Centre-Back,CB,-,Aarhus GF,Denmark,£27k,Out,2003,s,premier-league
+Leeds United,Shaun Allaway,20,England,Goalkeeper,GK,-,Walsall FC,England,Loan,Out,2003,s,premier-league
+Leeds United,Danny Mills,26,England,Right-Back,RB,-,Middlesbrough FC,England,Loan,Out,2003,s,premier-league
+Leeds United,Matthew Kilgallon,19,England,Centre-Back,CB,-,West Ham United,England,Loan,Out,2003,s,premier-league
+Leeds United,Shane Cansdell-Sherriff,20,Australia,Centre-Back,CB,-,Aarhus GF,Denmark,£27Th.,Out,2003,s,premier-league
 Leeds United,Paul Okon,31,Australia,Defensive Midfield,DM,-,Vicenza Calcio,Italy,Loan,Out,2003,s,premier-league
-Leeds United,Didier Domi,25,France,Left-Back,LB,-,Paris Saint-Germain,France,"End of loanMay 1, 2004",Out,2003,s,premier-league
-Leeds United,Jermaine Pennant,21,England,Right Winger,RW,-,Arsenal FC,England,"End of loanMay 31, 2004",Out,2003,s,premier-league
-Leeds United,Jacob Burns,25,Australia,Defensive Midfield,DM,-,,Without Club,-,Out,2003,s,premier-league
 Leeds United,Steven Caldwell,23,Scotland,Centre-Back,CB,-,Newcastle United,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
 Leeds United,Lamine Sakho,26,Senegal,Left Winger,LW,-,Olympique Marseille,France,"End of loanMay 31, 2004",Out,2003,s,premier-league
 Leeds United,Salomon Olembé,23,Cameroon,Left Midfield,LM,-,Olympique Marseille,France,"End of loanMay 1, 2004",Out,2003,s,premier-league
+Leeds United,Didier Domi,25,France,Left-Back,LB,-,Paris Saint-Germain,France,"End of loanMay 1, 2004",Out,2003,s,premier-league
+Leeds United,Jermaine Pennant,21,England,Right Winger,RW,-,Arsenal FC,England,"End of loanMay 31, 2004",Out,2003,s,premier-league
+Leeds United,Jacob Burns,25,Australia,Defensive Midfield,DM,-,,Without Club,-,Out,2003,s,premier-league
 Leeds United,Raúl Bravo,22,Spain,Centre-Back,CB,-,Real Madrid,Spain,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Leeds United,Teddy Lucic,30,Sweden,Centre-Back,CB,-,AIK,Sweden,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Aston Villa,Wayne Henderson,20,Ireland,Goalkeeper,GK,-,Wycombe Wanderers,England,Loan,Out,2003,s,premier-league
@@ -544,21 +544,22 @@ Aston Villa,Colin Marshall,18,Scotland,Central Midfield,CM,-,Clyde FC,Scotland,L
 Aston Villa,John McGrath,23,Ireland,Left Midfield,LM,-,Doncaster Rovers,England,Free transfer,Out,2003,s,premier-league
 Aston Villa,Gavin Melaugh,22,Northern Ireland,Midfielder,Midfielder,-,Glentoran FC,Northern Ireland,?,Out,2003,s,premier-league
 Aston Villa,Joey Gudjónsson,23,Iceland,Central Midfield,CM,-,Real Betis Balompié,Spain,"End of loanJun 30, 2003",Out,2003,s,premier-league
+Bolton Wanderers,Kangana N'Diwa,19,DR Congo,Defender,Defender,-,Oldham Athletic,England,Loan,Out,2003,s,premier-league
+Bolton Wanderers,Jonathan Walters,19,Ireland,Right Winger,RW,-,Crewe Alexandra,England,Loan,Out,2003,s,premier-league
+Bolton Wanderers,Danny Livesey,18,England,Centre-Back,CB,-,Notts County,England,Loan,Out,2003,s,premier-league
 Bolton Wanderers,Mike Whitlow,35,England,Centre-Back,CB,-,Sheffield United,England,Free transfer,Out,2003,s,premier-league
 Bolton Wanderers,Michael Bird,19,England,Centre-Forward,CF,-,Aberdeen FC,Scotland,Free transfer,Out,2003,s,premier-league
 Bolton Wanderers,Delroy Facey,23,Grenada,Centre-Forward,CF,-,Burnley FC,England,Loan,Out,2003,s,premier-league
 Bolton Wanderers,Chris Armstrong,32,England,Centre-Forward,CF,-,Wrexham AFC,England,Loan,Out,2003,s,premier-league
 Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Burnley FC,England,Loan,Out,2003,s,premier-league
 Bolton Wanderers,Paul Warhurst,34,England,Centre-Back,CB,-,Chesterfield FC,England,Free transfer,Out,2003,s,premier-league
-Bolton Wanderers,Kangana N'Diwa,19,DR Congo,Defender,Defender,-,Oldham Athletic,England,Loan,Out,2003,s,premier-league
-Bolton Wanderers,Jonathan Walters,19,Ireland,Right Winger,RW,-,Crewe Alexandra,England,Loan,Out,2003,s,premier-league
-Bolton Wanderers,Danny Livesey,18,England,Centre-Back,CB,-,Notts County,England,Loan,Out,2003,s,premier-league
 Bolton Wanderers,Gérald Forschelet,21,France,Defensive Midfield,DM,-,Neuchâtel Xamax,Switzerland,Loan,Out,2003,s,premier-league
+Bolton Wanderers,Gudni Bergsson,37,Iceland,Centre-Back,CB,-,,Retired,-,Out,2003,s,premier-league
 Bolton Wanderers,Jon Otsemobor,21,England,Right-Back,RB,-,Liverpool FC,England,"End of loanMay 31, 2004",Out,2003,s,premier-league
 Bolton Wanderers,Glen Little,28,England,Right Winger,RW,-,Burnley FC,England,"End of loanOct 27, 2003",Out,2003,s,premier-league
-Bolton Wanderers,Gudni Bergsson,37,Iceland,Centre-Back,CB,-,,Retired,-,Out,2003,s,premier-league
 Bolton Wanderers,Pierre-Yves André,29,France,Centre-Forward,CF,-,FC Nantes,France,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Bolton Wanderers,Salva Ballesta,28,Spain,Centre-Forward,CF,-,Valencia CF,Spain,"End of loanJun 30, 2003",Out,2003,s,premier-league
+Portsmouth FC,Rowan Vine,20,England,Centre-Forward,CF,-,Colchester United,England,Loan,Out,2003,s,premier-league
 Portsmouth FC,Carl Robinson,27,Wales,Central Midfield,CM,-,Sunderland AFC,England,Free transfer,Out,2003,s,premier-league
 Portsmouth FC,Carl Robinson,26,Wales,Central Midfield,CM,-,Rotherham United,England,Loan,Out,2003,s,premier-league
 Portsmouth FC,Shaun Cooper,20,England,Defensive Midfield,DM,-,Leyton Orient,England,Loan,Out,2003,s,premier-league
@@ -574,13 +575,14 @@ Portsmouth FC,Deon Burton,26,Jamaica,Centre-Forward,CF,-,Walsall FC,England,Loan
 Portsmouth FC,Kevin Harper,27,Scotland,Right Midfield,RM,-,Norwich City,England,Loan,Out,2003,s,premier-league
 Portsmouth FC,Paul Merson,35,England,Right Midfield,RM,-,Walsall FC,England,Free transfer,Out,2003,s,premier-league
 Portsmouth FC,Yoshikatsu Kawaguchi,27,Japan,Goalkeeper,GK,-,FC Nordsjaelland,Denmark,Free transfer,Out,2003,s,premier-league
-Portsmouth FC,Rowan Vine,20,England,Centre-Forward,CF,-,Colchester United,England,Loan,Out,2003,s,premier-league
-Portsmouth FC,Gianluca Festa,34,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,?,Out,2003,s,premier-league
 Portsmouth FC,Mark Burchill,22,Scotland,Centre-Forward,CF,-,Wigan Athletic,England,Loan,Out,2003,s,premier-league
-Portsmouth FC,Carl Tiler,33,England,Defender,Defender,-,,Retired,-,Out,2003,s,premier-league
+Portsmouth FC,Gianluca Festa,34,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,?,Out,2003,s,premier-league
+Portsmouth FC,Carl Tiler,33,England,Centre-Back,CB,-,,Retired,-,Out,2003,s,premier-league
 Portsmouth FC,Aleksey Smertin,29,Russia,Defensive Midfield,DM,-,Chelsea FC,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
 Portsmouth FC,Stathis Tavlaridis,23,Greece,Centre-Back,CB,-,Arsenal FC,England,"End of loanJun 30, 2003",Out,2003,s,premier-league
 Portsmouth FC,Yakubu Aiyegbeni,20,Nigeria,Centre-Forward,CF,-,Maccabi Haifa,Israel,"End of loanJun 30, 2003",Out,2003,s,premier-league
+Leicester City,Matt Heath,21,England,Centre-Back,CB,-,Stockport County,England,Loan,Out,2003,s,premier-league
+Leicester City,Simon Royce,31,England,Goalkeeper,GK,-,Charlton Athletic,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Martin Reeves,21,England,Midfielder,Midfielder,-,Northampton Town,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Brian Deane,35,England,Centre-Forward,CF,-,West Ham United,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Trevor Benjamin,24,Jamaica,Centre-Forward,CF,-,Gillingham FC,England,Loan,Out,2003,s,premier-league
@@ -592,14 +594,12 @@ Leicester City,Rhys Powell,16,Wales,Right-Back,RB,-,Bolton Wanderers U23,England
 Leicester City,Jon Ashton,20,England,Centre-Back,CB,-,Oxford United,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Lewis Tozer,18,England,Centre-Back,CB,-,FC Halifax Town,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Michael Price,20,England,Goalkeeper,GK,-,Darlington FC (liq.),England,Free transfer,Out,2003,s,premier-league
-Leicester City,Matt Heath,21,England,Centre-Back,CB,-,Stockport County,England,Loan,Out,2003,s,premier-league
-Leicester City,Simon Royce,31,England,Goalkeeper,GK,-,Charlton Athletic,England,Free transfer,Out,2003,s,premier-league
 Leicester City,Jamie Doyle,18,Scotland,Central Midfield,CM,-,Ayr United FC,Scotland,?,Out,2003,s,premier-league
+Leicester City,Marcus Bent,25,England,Centre-Forward,CF,-,Ipswich Town,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
 Leicester City,Darren Eadie,28,England,Left Winger,LW,-,,Retired,-,Out,2003,s,premier-league
 Leicester City,Tim Flowers,36,England,Goalkeeper,GK,-,,Retired,-,Out,2003,s,premier-league
-Leicester City,Marcus Bent,25,England,Centre-Forward,CF,-,Ipswich Town,England,"End of loanMay 1, 2004",Out,2003,s,premier-league
-Wolverhampton Wanderers,Cédric Roussel,25,Belgium,Centre-Forward,CF,-,KRC Genk,Belgium,£900k,Out,2003,s,premier-league
-Wolverhampton Wanderers,Ívar Ingimarsson,26,Iceland,Centre-Back,CB,-,Reading FC,England,£135k,Out,2003,s,premier-league
+Wolverhampton Wanderers,Cédric Roussel,25,Belgium,Centre-Forward,CF,-,KRC Genk,Belgium,£900Th.,Out,2003,s,premier-league
+Wolverhampton Wanderers,Ívar Ingimarsson,26,Iceland,Centre-Back,CB,-,Reading FC,England,£135Th.,Out,2003,s,premier-league
 Wolverhampton Wanderers,Mohammed Camara,28,Guinea,Left-Back,LB,-,Burnley FC,England,Free transfer,Out,2003,s,premier-league
 Wolverhampton Wanderers,Michael Branch,24,England,Centre-Forward,CF,-,Bradford City,England,Free transfer,Out,2003,s,premier-league
 Wolverhampton Wanderers,Keith Andrews,22,Ireland,Central Midfield,CM,-,Stoke City,England,Loan,Out,2003,s,premier-league
@@ -609,7 +609,7 @@ Wolverhampton Wanderers,Ludovic Pollet,33,France,Centre-Back,CB,-,USL Dunkerque,
 Wolverhampton Wanderers,Luke Fitzpatrick,17,Ireland,Midfielder,Midfielder,-,Kidderminster Harriers,England,?,Out,2003,s,premier-league
 Wolverhampton Wanderers,Graham Ward,20,Ireland,Midfielder,Midfielder,-,Kidderminster Harriers,England,?,Out,2003,s,premier-league
 Manchester United,Louis Saha,25,France,Centre-Forward,CF,-,Fulham FC,England,£15.75m,In,2003,w,premier-league
-Manchester United,Fangzhuo Dong,18,China,Centre-Forward,CF,-,Dalian Shide,China,£653k,In,2003,w,premier-league
+Manchester United,Fangzhuo Dong,18,China,Centre-Forward,CF,-,Dalian Shide,China,£653Th.,In,2003,w,premier-league
 Manchester United,Neil Wood,20,England,Central Midfield,CM,-,Peterborough United,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Manchester United,Danny Byrne,19,Ireland,Defender,Defender,-,Hartlepool United,England,"End of loanDec 25, 2003",In,2003,w,premier-league
 Manchester United,Paul Tierney,21,Ireland,Left-Back,LB,-,Colchester United,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
@@ -619,20 +619,20 @@ Arsenal FC,José Antonio Reyes,20,Spain,Right Winger,RW,-,Sevilla FC,Spain,£18.
 Arsenal FC,Moritz Volz,20,Germany,Right-Back,RB,-,Fulham FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
 Arsenal FC,Sebastian Svärd,20,Denmark,Defensive Midfield,DM,-,FC Copenhagen,Denmark,"End of loanDec 1, 2003",In,2003,w,premier-league
 Newcastle United,Michael Bridges,25,England,Centre-Forward,CF,-,Leeds United,England,Loan,In,2003,w,premier-league
+Newcastle United,Michael Chopra,20,England,Centre-Forward,CF,-,Nottingham Forest,England,"End of loanMar 7, 2004",In,2003,w,premier-league
+Newcastle United,Diego Gavilán,23,Paraguay,Central Midfield,CM,-,Sport Club Internacional,Brazil,"End of loanDec 1, 2003",In,2003,w,premier-league
 Newcastle United,Steven Taylor,17,England,Centre-Back,CB,-,Wycombe Wanderers,England,"End of loanJan 12, 2004",In,2003,w,premier-league
 Newcastle United,Bradley Orr,21,England,Centre-Back,CB,-,Burnley FC,England,"End of loanMar 1, 2004",In,2003,w,premier-league
 Newcastle United,Brian Kerr,22,Scotland,Defensive Midfield,DM,-,Livingston FC,Scotland,"End of loanNov 1, 2003",In,2003,w,premier-league
 Newcastle United,Tony Caig,29,England,Goalkeeper,GK,-,Barnsley FC,England,"End of loanFeb 17, 2004",In,2003,w,premier-league
 Newcastle United,Gary Caldwell,21,Scotland,Centre-Back,CB,-,Derby County,England,"End of loanOct 7, 2003",In,2003,w,premier-league
-Newcastle United,Michael Chopra,20,England,Centre-Forward,CF,-,Nottingham Forest,England,"End of loanMar 7, 2004",In,2003,w,premier-league
-Newcastle United,Diego Gavilán,23,Paraguay,Central Midfield,CM,-,Sport Club Internacional,Brazil,"End of loanDec 1, 2003",In,2003,w,premier-league
 Chelsea FC,Scott Parker,23,England,Central Midfield,CM,-,Charlton Athletic,England,£13.05m,In,2003,w,premier-league
 Chelsea FC,Craig Rocastle,22,Grenada,Right Midfield,RM,-,Barnsley FC,England,"End of loanMar 21, 2004",In,2003,w,premier-league
 Liverpool FC,Paul Jones,36,Wales,Goalkeeper,GK,-,Southampton FC,England,Loan,In,2003,w,premier-league
-Liverpool FC,Grégory Vignal,22,France,Left-Back,LB,-,Stade Rennais FC,France,"End of loanDec 1, 2003",In,2003,w,premier-league
 Liverpool FC,Neil Mellor,21,England,Centre-Forward,CF,-,West Ham United,England,"End of loanMar 1, 2004",In,2003,w,premier-league
+Liverpool FC,Grégory Vignal,22,France,Left-Back,LB,-,Stade Rennais FC,France,"End of loanDec 1, 2003",In,2003,w,premier-league
 Blackburn Rovers,Jon Stead,20,England,Centre-Forward,CF,-,Huddersfield Town,England,£1.69m,In,2003,w,premier-league
-Blackburn Rovers,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Aston Villa,England,£194k,In,2003,w,premier-league
+Blackburn Rovers,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Aston Villa,England,£194Th.,In,2003,w,premier-league
 Blackburn Rovers,Michael Gray,29,England,Left-Back,LB,-,Sunderland AFC,England,Free transfer,In,2003,w,premier-league
 Blackburn Rovers,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Aston Villa,England,Loan,In,2003,w,premier-league
 Blackburn Rovers,Martin Andresen,26,Norway,Central Midfield,CM,-,Stabæk Fotball,Norway,Loan,In,2003,w,premier-league
@@ -643,32 +643,31 @@ Blackburn Rovers,Matt Jansen,26,England,Centre-Forward,CF,-,Coventry City,Englan
 Blackburn Rovers,Jerome Watt,19,England,Central Midfield,CM,-,Blackburn Rovers U18,England,-,In,2003,w,premier-league
 Blackburn Rovers,Alan Morgan,19,Scotland,Left Midfield,LM,-,Darlington FC (liq.),England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Blackpool FC,England,"End of loanDec 31, 2003",In,2003,w,premier-league
-Everton FC,Ibrahim Said,23,Egypt,Centre-Back,CB,-,El Ahly Cairo,Egypt,Loan fee:£135k,In,2003,w,premier-league
+Everton FC,Ibrahim Said,23,Egypt,Centre-Back,CB,-,El Ahly Cairo,Egypt,Loan fee:£135Th.,In,2003,w,premier-league
 Everton FC,Paul Gerrard,30,England,Goalkeeper,GK,-,Sheffield United,England,"End of loanDec 9, 2003",In,2003,w,premier-league
 Everton FC,Steven Schumacher,19,England,Central Midfield,CM,-,Carlisle United,England,"End of loanDec 1, 2003",In,2003,w,premier-league
 Everton FC,Peter Clarke,22,England,Centre-Back,CB,-,Coventry City,England,"End of loanMar 14, 2004",In,2003,w,premier-league
 Everton FC,Niclas Alexandersson,32,Sweden,Right Midfield,RM,-,West Ham United,England,"End of loanDec 31, 2003",In,2003,w,premier-league
-Southampton FC,Paul Smith,24,England,Goalkeeper,GK,-,Brentford FC,England,£675k,In,2003,w,premier-league
+Southampton FC,Paul Smith,24,England,Goalkeeper,GK,-,Brentford FC,England,£675Th.,In,2003,w,premier-league
 Southampton FC,Stephen Crainey,22,Scotland,Left-Back,LB,-,Celtic FC,Scotland,Free transfer,In,2003,w,premier-league
 Southampton FC,Andrejs Pereplotkins,19,Latvia,Right Midfield,RM,-,RSC Anderlecht,Belgium,?,In,2003,w,premier-league
 Southampton FC,Chris Baird,21,Northern Ireland,Defensive Midfield,DM,-,Walsall FC,England,"End of loanNov 23, 2003",In,2003,w,premier-league
 Southampton FC,Paul Jones,36,Wales,Goalkeeper,GK,-,Liverpool FC,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Southampton FC,Mike Williamson,19,England,Centre-Back,CB,-,Torquay United FC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Manchester City,David James,33,England,Goalkeeper,GK,-,West Ham United,England,£2.52m,In,2003,w,premier-league
-Manchester City,Daniel Van Buyten,25,Belgium,Centre-Back,CB,-,Olympique Marseille,France,Loan fee:£900k,In,2003,w,premier-league
+Manchester City,Daniel Van Buyten,25,Belgium,Centre-Back,CB,-,Olympique Marseille,France,Loan fee:£900Th.,In,2003,w,premier-league
 Manchester City,Árni Arason,28,Iceland,Goalkeeper,GK,-,Rosenborg BK,Norway,Free transfer,In,2003,w,premier-league
-Manchester City,Kasper Schmeichel,17,Denmark,Goalkeeper,GK,-,Manchester City U18,England,-,In,2003,w,premier-league
 Manchester City,Chris Shuker,21,England,Right Midfield,RM,-,Rochdale AFC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
+Manchester City,Kasper Schmeichel,17,Denmark,Goalkeeper,GK,-,Manchester City U18,England,-,In,2003,w,premier-league
 Tottenham Hotspur,Jermain Defoe,21,England,Centre-Forward,CF,-,West Ham United,England,£9.45m,In,2003,w,premier-league
-Tottenham Hotspur,Michael Brown,26,England,Central Midfield,CM,-,Sheffield United,England,£630k,In,2003,w,premier-league
-Tottenham Hotspur,Lars Hirschfeld,25,Canada,Goalkeeper,GK,-,Gillingham FC,England,"End of loanMar 1, 2004",In,2003,w,premier-league
+Tottenham Hotspur,Michael Brown,26,England,Central Midfield,CM,-,Sheffield United,England,£630Th.,In,2003,w,premier-league
 Tottenham Hotspur,Mark Yeates,18,Ireland,Left Winger,LW,-,Brighton & Hove Albion,England,"End of loanJan 1, 2004",In,2003,w,premier-league
 Tottenham Hotspur,Dean Marney,20,England,Central Midfield,CM,-,Queens Park Rangers,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
 Tottenham Hotspur,Johnnie Jackson,21,England,Central Midfield,CM,-,Coventry City,England,"End of loanDec 22, 2003",In,2003,w,premier-league
 Tottenham Hotspur,Stephen Kelly,20,Ireland,Right-Back,RB,-,Watford FC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
+Tottenham Hotspur,Lars Hirschfeld,25,Canada,Goalkeeper,GK,-,Gillingham FC,England,"End of loanMar 1, 2004",In,2003,w,premier-league
 Middlesbrough FC,Ricardinho,27,Brazil,Attacking Midfield,AM,-,São Paulo Futebol Clube,Brazil,£1.80m,In,2003,w,premier-league
 Middlesbrough FC,Carlo Nash,30,England,Goalkeeper,GK,-,Manchester City,England,Free transfer,In,2003,w,premier-league
-Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Bury FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
 Middlesbrough FC,Sam Russell,20,England,Goalkeeper,GK,-,Scunthorpe United,England,"End of loanOct 1, 2003",In,2003,w,premier-league
 Middlesbrough FC,Stewart Downing,19,England,Left Midfield,LM,-,Sunderland AFC,England,"End of loanDec 11, 2003",In,2003,w,premier-league
 Middlesbrough FC,Mark Wilson,24,England,Central Midfield,CM,-,Swansea City,Wales,"End of loanDec 1, 2003",In,2003,w,premier-league
@@ -676,7 +675,8 @@ Middlesbrough FC,Mark Wilson,25,England,Central Midfield,CM,-,Sheffield Wednesda
 Middlesbrough FC,Ross Turnbull,18,England,Goalkeeper,GK,-,Darlington FC (liq.),England,"End of loanNov 20, 2003",In,2003,w,premier-league
 Middlesbrough FC,Brad Jones,21,Australia,Goalkeeper,GK,-,Blackpool FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
 Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Scunthorpe United,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
-Charlton Athletic,Jerome Thomas,20,England,Left Winger,LW,-,Arsenal FC Reserves,England,£135k,In,2003,w,premier-league
+Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Bury FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
+Charlton Athletic,Jerome Thomas,20,England,Left Winger,LW,-,Arsenal FC Reserves,England,£135Th.,In,2003,w,premier-league
 Charlton Athletic,Mathias Svensson,29,Sweden,Centre-Forward,CF,-,Derby County,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Charlton Athletic,Jamal Campbell-Ryce,20,Jamaica,Right Winger,RW,-,Wimbledon FC,England,"End of loanMar 6, 2004",In,2003,w,premier-league
 Charlton Athletic,Paul Rachubka,22,England,Goalkeeper,GK,-,Burnley FC,England,"End of loanFeb 29, 2004",In,2003,w,premier-league
@@ -689,11 +689,11 @@ Birmingham City,Nico Vaesen,34,Belgium,Goalkeeper,GK,-,Bradford City,England,"En
 Birmingham City,Andy Barrowman,18,Scotland,Centre-Forward,CF,-,Crewe Alexandra,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Fulham FC,Collins John,18,Netherlands,Centre-Forward,CF,-,Twente Enschede FC,Netherlands,£3.15m,In,2003,w,premier-league
 Fulham FC,Ian Pearce,29,England,Centre-Back,CB,-,West Ham United,England,£1.44m,In,2003,w,premier-league
-Fulham FC,Moritz Volz,20,Germany,Right-Back,RB,-,Arsenal FC,England,£900k,In,2003,w,premier-league
-Fulham FC,Brian McBride,31,United States,Centre-Forward,CF,-,Columbus Crew,United States,£720k,In,2003,w,premier-league
-Fulham FC,Liam Rosenior,19,England,Right-Back,RB,-,Bristol City,England,£72k,In,2003,w,premier-league
-Fulham FC,Bobby Petta,29,Netherlands,Left Midfield,LM,-,Celtic FC,Scotland,Loan,In,2003,w,premier-league
+Fulham FC,Moritz Volz,20,Germany,Right-Back,RB,-,Arsenal FC,England,£900Th.,In,2003,w,premier-league
+Fulham FC,Brian McBride,31,United States,Centre-Forward,CF,-,Columbus Crew,United States,£720Th.,In,2003,w,premier-league
+Fulham FC,Liam Rosenior,19,England,Right-Back,RB,-,Bristol City,England,£72Th.,In,2003,w,premier-league
 Fulham FC,Carlos Bocanegra,23,United States,Centre-Back,CB,-,Chicago Fire,United States,Free transfer,In,2003,w,premier-league
+Fulham FC,Bobby Petta,29,Netherlands,Left Midfield,LM,-,Celtic FC,Scotland,Loan,In,2003,w,premier-league
 Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Oldham Athletic,England,"End of loanOct 25, 2003",In,2003,w,premier-league
 Fulham FC,Stuart Noble,20,Scotland,Centre-Forward,CF,-,Woking FC,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Fulham FC,Maik Taylor,32,Northern Ireland,Goalkeeper,GK,-,Birmingham City,England,"End of loanMar 21, 2004",In,2003,w,premier-league
@@ -721,25 +721,27 @@ Aston Villa,Peter Hynes,20,Ireland,Centre-Forward,CF,-,Doncaster Rovers,England,
 Aston Villa,Luke Moore,17,England,Centre-Forward,CF,-,Wycombe Wanderers,England,"End of loanJan 11, 2004",In,2003,w,premier-league
 Aston Villa,Peter Crouch,22,England,Centre-Forward,CF,-,Norwich City,England,"End of loanDec 7, 2003",In,2003,w,premier-league
 Aston Villa,Boaz Myhill,21,Wales,Goalkeeper,GK,-,Stockport County,England,"End of loanDec 1, 2003",In,2003,w,premier-league
+Bolton Wanderers,Donovan Ricketts,26,Jamaica,Goalkeeper,GK,-,Village United,Jamaica,Free transfer,In,2003,w,premier-league
 Bolton Wanderers,Javi Moreno,29,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2003,w,premier-league
 Bolton Wanderers,Steve Howey,32,England,Centre-Back,CB,-,Leicester City,England,Free transfer,In,2003,w,premier-league
-Bolton Wanderers,Donovan Ricketts,26,Jamaica,Goalkeeper,GK,-,Village United,Jamaica,Free transfer,In,2003,w,premier-league
 Bolton Wanderers,Jon Otsemobor,20,England,Right-Back,RB,-,Liverpool FC,England,Loan,In,2003,w,premier-league
-Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Bradford City,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
-Bolton Wanderers,Jonathan Walters,20,Ireland,Right Winger,RW,-,Barnsley FC,England,"End of loanDec 12, 2003",In,2003,w,premier-league
-Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Scunthorpe United,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Burnley FC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Bolton Wanderers,Kangana N'Diwa,19,DR Congo,Defender,Defender,-,Oldham Athletic,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Rochdale AFC,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Bolton Wanderers,Danny Livesey,18,England,Centre-Back,CB,-,Notts County,England,"End of loanDec 5, 2003",In,2003,w,premier-league
 Bolton Wanderers,Delroy Facey,23,Grenada,Centre-Forward,CF,-,Burnley FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
-Portsmouth FC,Eyal Berkovic,31,Israel,Attacking Midfield,AM,-,Manchester City,England,£675k,In,2003,w,premier-league
-Portsmouth FC,Ivica Mornar,30,Croatia,Centre-Forward,CF,-,RSC Anderlecht,Belgium,£540k,In,2003,w,premier-league
-Portsmouth FC,Richard Duffy,18,Wales,Centre-Back,CB,-,Swansea City,Wales,£405k,In,2003,w,premier-league
-Portsmouth FC,Petri Pasanen,23,Finland,Centre-Back,CB,-,Ajax Amsterdam,Netherlands,Loan fee:£270k,In,2003,w,premier-league
-Portsmouth FC,Sebastian Olszar,22,Poland,Centre-Forward,CF,-,VfB Admira Wacker Mödling,Austria,£180k,In,2003,w,premier-league
-Portsmouth FC,Lomana LuaLua,23,DR Congo,Centre-Forward,CF,-,Newcastle United,England,Loan,In,2003,w,premier-league
+Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Bradford City,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
+Bolton Wanderers,Jonathan Walters,20,Ireland,Right Winger,RW,-,Barnsley FC,England,"End of loanDec 12, 2003",In,2003,w,premier-league
+Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Scunthorpe United,England,"End of loanDec 31, 2003",In,2003,w,premier-league
+Portsmouth FC,Eyal Berkovic,31,Israel,Attacking Midfield,AM,-,Manchester City,England,£675Th.,In,2003,w,premier-league
+Portsmouth FC,Ivica Mornar,30,Croatia,Centre-Forward,CF,-,RSC Anderlecht,Belgium,£540Th.,In,2003,w,premier-league
+Portsmouth FC,Richard Duffy,18,Wales,Centre-Back,CB,-,Swansea City,Wales,£405Th.,In,2003,w,premier-league
+Portsmouth FC,Petri Pasanen,23,Finland,Centre-Back,CB,-,Ajax Amsterdam,Netherlands,Loan fee:£270Th.,In,2003,w,premier-league
+Portsmouth FC,Sebastian Olszar,22,Poland,Centre-Forward,CF,-,VfB Admira Wacker Mödling,Austria,£180Th.,In,2003,w,premier-league
 Portsmouth FC,John Curtis,25,England,Right-Back,RB,-,Leicester City,England,Free transfer,In,2003,w,premier-league
+Portsmouth FC,Lomana LuaLua,23,DR Congo,Centre-Forward,CF,-,Newcastle United,England,Loan,In,2003,w,premier-league
+Portsmouth FC,Gary O'Neil,20,England,Central Midfield,CM,-,Walsall FC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
+Portsmouth FC,Mark Burchill,23,Scotland,Centre-Forward,CF,-,Sheffield Wednesday,England,"End of loanDec 31, 2003",In,2003,w,premier-league
 Portsmouth FC,Courtney Pitt,21,England,Left Midfield,LM,-,Luton Town,England,"End of loanOct 1, 2003",In,2003,w,premier-league
 Portsmouth FC,Shaun Cooper,20,England,Defensive Midfield,DM,-,Leyton Orient,England,"End of loanNov 18, 2003",In,2003,w,premier-league
 Portsmouth FC,Jamie Vincent,28,England,Left-Back,LB,-,Walsall FC,England,"End of loanDec 1, 2003",In,2003,w,premier-league
@@ -747,10 +749,8 @@ Portsmouth FC,Carl Robinson,27,Wales,Central Midfield,CM,-,Sheffield United,Engl
 Portsmouth FC,Deon Burton,26,Jamaica,Centre-Forward,CF,-,Walsall FC,England,"End of loanOct 5, 2003",In,2003,w,premier-league
 Portsmouth FC,Kevin Harper,27,Scotland,Right Midfield,RM,-,Norwich City,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Portsmouth FC,Carl Robinson,27,Wales,Central Midfield,CM,-,Rotherham United,England,"End of loanDec 1, 2003",In,2003,w,premier-league
-Portsmouth FC,Gary O'Neil,20,England,Central Midfield,CM,-,Walsall FC,England,"End of loanNov 1, 2003",In,2003,w,premier-league
-Portsmouth FC,Mark Burchill,23,Scotland,Centre-Forward,CF,-,Sheffield Wednesday,England,"End of loanDec 31, 2003",In,2003,w,premier-league
-Leicester City,Peter Canero,22,Scotland,Right Midfield,RM,-,Kilmarnock FC,Scotland,£324k,In,2003,w,premier-league
-Leicester City,Lee Morris,23,England,Centre-Forward,CF,-,Derby County,England,£162k,In,2003,w,premier-league
+Leicester City,Peter Canero,22,Scotland,Right Midfield,RM,-,Kilmarnock FC,Scotland,£324Th.,In,2003,w,premier-league
+Leicester City,Lee Morris,23,England,Centre-Forward,CF,-,Derby County,England,£162Th.,In,2003,w,premier-league
 Leicester City,Nikolaos Dabizas,30,Greece,Centre-Back,CB,-,Newcastle United,England,Free transfer,In,2003,w,premier-league
 Leicester City,Steffen Freund,33,Germany,Defensive Midfield,DM,-,1.FC Kaiserslautern,Germany,Loan,In,2003,w,premier-league
 Leicester City,Steve Guppy,34,England,Left Winger,LW,-,Celtic FC,Scotland,Free transfer,In,2003,w,premier-league
@@ -761,28 +761,28 @@ Leicester City,Trevor Benjamin,24,Jamaica,Centre-Forward,CF,-,Rushden & Diamonds
 Leicester City,Tommy Wright,19,England,Centre-Forward,CF,-,Brentford FC,England,"End of loanNov 20, 2003",In,2003,w,premier-league
 Leicester City,Matt Heath,22,England,Centre-Back,CB,-,Stockport County,England,"End of loanDec 1, 2003",In,2003,w,premier-league
 Wolverhampton Wanderers,Carl Cort,26,Guyana,Centre-Forward,CF,-,Newcastle United,England,£2.70m,In,2003,w,premier-league
-Wolverhampton Wanderers,Paul Jones,36,Wales,Goalkeeper,GK,-,Southampton FC,England,£338k,In,2003,w,premier-league
+Wolverhampton Wanderers,Paul Jones,36,Wales,Goalkeeper,GK,-,Southampton FC,England,£338Th.,In,2003,w,premier-league
 Wolverhampton Wanderers,Andy Marshall,28,England,Goalkeeper,GK,-,Ipswich Town,England,Loan,In,2003,w,premier-league
 Wolverhampton Wanderers,Ionel Ganea,30,Romania,Centre-Forward,CF,-,Bursaspor,Turkey,?,In,2003,w,premier-league
 Wolverhampton Wanderers,JJ Melligan,21,Ireland,Midfielder,Midfielder,-,Kidderminster Harriers,England,"End of loanNov 1, 2003",In,2003,w,premier-league
 Wolverhampton Wanderers,Kevin Cooper,28,England,Left Midfield,LM,-,Sunderland AFC,England,"End of loanFeb 1, 2004",In,2003,w,premier-league
 Wolverhampton Wanderers,Keith Andrews,23,Ireland,Central Midfield,CM,-,Stoke City,England,"End of loanNov 7, 2003",In,2003,w,premier-league
+Manchester United,Danny Byrne,18,Ireland,Defender,Defender,-,Hartlepool United,England,Loan,Out,2003,w,premier-league
+Manchester United,Fangzhuo Dong,19,China,Centre-Forward,CF,-,Royal Antwerp FC,Belgium,Loan,Out,2003,w,premier-league
+Manchester United,Mads Timm,19,Denmark,Second Striker,SS,-,Viking Stavanger,Norway,Loan,Out,2003,w,premier-league
+Manchester United,Alan Tate,21,England,Centre-Back,CB,-,Swansea City,Wales,Loan,Out,2003,w,premier-league
 Manchester United,Fabien Barthez,32,France,Goalkeeper,GK,-,Olympique Marseille,France,Loan,Out,2003,w,premier-league
 Manchester United,Phil Bardsley,18,Scotland,Right-Back,RB,-,Royal Antwerp FC,Belgium,Loan,Out,2003,w,premier-league
 Manchester United,Matthew Williams,21,Wales,Centre-Forward,CF,-,Notts County,England,Free transfer,Out,2003,w,premier-league
 Manchester United,Paul Tierney,21,Ireland,Left-Back,LB,-,Colchester United,England,Loan,Out,2003,w,premier-league
 Manchester United,Alan Tate,21,England,Centre-Back,CB,-,Swansea City,Wales,Free transfer,Out,2003,w,premier-league
-Manchester United,Danny Byrne,18,Ireland,Defender,Defender,-,Hartlepool United,England,Loan,Out,2003,w,premier-league
-Manchester United,Fangzhuo Dong,19,China,Centre-Forward,CF,-,Royal Antwerp FC,Belgium,Loan,Out,2003,w,premier-league
-Manchester United,Mads Timm,19,Denmark,Second Striker,SS,-,Viking Stavanger,Norway,Loan,Out,2003,w,premier-league
-Manchester United,Alan Tate,21,England,Centre-Back,CB,-,Swansea City,Wales,Loan,Out,2003,w,premier-league
-Arsenal FC,Moritz Volz,20,Germany,Right-Back,RB,-,Fulham FC,England,£900k,Out,2003,w,premier-league
+Arsenal FC,Moritz Volz,20,Germany,Right-Back,RB,-,Fulham FC,England,£900Th.,Out,2003,w,premier-league
 Arsenal FC,Stathis Tavlaridis,23,Greece,Centre-Back,CB,-,LOSC Lille,France,Loan,Out,2003,w,premier-league
 Arsenal FC,Júan,21,Brazil,Attacking Midfield,AM,-,Fluminense Football Club,Brazil,Free transfer,Out,2003,w,premier-league
 Arsenal FC,Sebastian Svärd,20,Denmark,Defensive Midfield,DM,-,Stoke City,England,Loan,Out,2003,w,premier-league
 Arsenal FC,Nicky Nicolau,20,Cyprus,Left Midfield,LM,-,Southend United,England,Free transfer,Out,2003,w,premier-league
 Arsenal FC,Rami Shaaban,28,Sweden,Goalkeeper,GK,-,West Ham United,England,Loan,Out,2003,w,premier-league
-Arsenal FC,John Halls,21,England,Defensive Midfield,DM,-,Stoke City,England,£45k,Out,2003,w,premier-league
+Arsenal FC,John Halls,21,England,Defensive Midfield,DM,-,Stoke City,England,£45Th.,Out,2003,w,premier-league
 Newcastle United,Carl Cort,26,Guyana,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£2.70m,Out,2003,w,premier-league
 Newcastle United,Nolberto Solano,29,Peru,Right Midfield,RM,-,Aston Villa,England,£1.80m,Out,2003,w,premier-league
 Newcastle United,Clarence Acuña,28,Chile,Central Midfield,CM,-,Club Atlético Rosario Central,Argentina,Free transfer,Out,2003,w,premier-league
@@ -813,7 +813,7 @@ Blackburn Rovers,Gary Harkins,19,Scotland,Attacking Midfield,AM,-,Huddersfield T
 Blackburn Rovers,Neil Danns,21,Guyana,Central Midfield,CM,-,Hartlepool United,England,Loan,Out,2003,w,premier-league
 Blackburn Rovers,Corrado Grabbi,28,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,2003,w,premier-league
 Blackburn Rovers,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Aston Villa,England,"End of loanDec 1, 2003",Out,2003,w,premier-league
-Everton FC,Sean O'Hanlon,20,England,Centre-Back,CB,-,Swindon Town,England,£203k,Out,2003,w,premier-league
+Everton FC,Sean O'Hanlon,20,England,Centre-Back,CB,-,Swindon Town,England,£203Th.,Out,2003,w,premier-league
 Everton FC,Leon Osman,22,England,Central Midfield,CM,-,Derby County,England,Loan,Out,2003,w,premier-league
 Everton FC,Peter Clarke,22,England,Centre-Back,CB,-,Coventry City,England,Loan,Out,2003,w,premier-league
 Everton FC,Nick Chadwick,21,England,Centre-Forward,CF,-,Millwall FC,England,Loan,Out,2003,w,premier-league
@@ -821,18 +821,18 @@ Everton FC,Iain Turner,20,Scotland,Goalkeeper,GK,-,Chester City (diss.),England,
 Everton FC,Scot Gemmill,33,Scotland,Central Midfield,CM,-,Preston North End,England,Loan,Out,2003,w,premier-league
 Everton FC,Steven Schumacher,19,England,Central Midfield,CM,-,Oldham Athletic,England,Loan,Out,2003,w,premier-league
 Everton FC,Steven Schumacher,19,England,Central Midfield,CM,-,Carlisle United,England,Loan,Out,2003,w,premier-league
-Southampton FC,Paul Jones,36,Wales,Goalkeeper,GK,-,Wolverhampton Wanderers,England,£338k,Out,2003,w,premier-league
+Southampton FC,Paul Jones,36,Wales,Goalkeeper,GK,-,Wolverhampton Wanderers,England,£338Th.,Out,2003,w,premier-league
+Southampton FC,Chris Marsden,35,England,Left Midfield,LM,-,Busan I'Cons,"Korea, South",Free transfer,Out,2003,w,premier-league
 Southampton FC,Chris Baird,22,Northern Ireland,Defensive Midfield,DM,-,Watford FC,England,Loan,Out,2003,w,premier-league
 Southampton FC,Mike Williamson,20,England,Centre-Back,CB,-,Doncaster Rovers,England,Loan,Out,2003,w,premier-league
 Southampton FC,Paul Jones,36,Wales,Goalkeeper,GK,-,Liverpool FC,England,Loan,Out,2003,w,premier-league
 Southampton FC,Garry Monk,24,England,Centre-Back,CB,-,Barnsley FC,England,Free transfer,Out,2003,w,premier-league
 Southampton FC,Scott Bevan,24,England,Goalkeeper,GK,-,Wimbledon FC,England,Free transfer,Out,2003,w,premier-league
 Southampton FC,Michael Green,19,England,Right-Back,RB,-,Forest Green Rovers ,England,Free transfer,Out,2003,w,premier-league
-Southampton FC,Chris Marsden,35,England,Left Midfield,LM,-,Busan I'Cons,"Korea, South",Free transfer,Out,2003,w,premier-league
 Southampton FC,Agustín Delgado,29,Ecuador,Centre-Forward,CF,-,SD Aucas,Ecuador,?,Out,2003,w,premier-league
 Southampton FC,Mark Draper,33,England,Attacking Midfield,AM,-,,Retired,-,Out,2003,w,premier-league
 Southampton FC,Francis Benali,35,England,Left-Back,LB,-,,Retired,-,Out,2003,w,premier-league
-Manchester City,Eyal Berkovic,31,Israel,Attacking Midfield,AM,-,Portsmouth FC,England,£675k,Out,2003,w,premier-league
+Manchester City,Eyal Berkovic,31,Israel,Attacking Midfield,AM,-,Portsmouth FC,England,£675Th.,Out,2003,w,premier-league
 Manchester City,Dorryl Proffitt,18,England,Centre-Forward,CF,-,Coventry City,England,Loan,Out,2003,w,premier-league
 Manchester City,Keiren Westwood,19,Ireland,Goalkeeper,GK,-,Oldham Athletic,England,Loan,Out,2003,w,premier-league
 Manchester City,Carlo Nash,30,England,Goalkeeper,GK,-,Middlesbrough FC,England,Free transfer,Out,2003,w,premier-league
@@ -849,6 +849,8 @@ Tottenham Hotspur,Johnnie Jackson,21,England,Central Midfield,CM,-,Coventry City
 Tottenham Hotspur,Milenko Acimovic,26,Slovenia,Left Midfield,LM,-,LOSC Lille,France,Loan,Out,2003,w,premier-league
 Tottenham Hotspur,Bobby Zamora,22,England,Centre-Forward,CF,-,West Ham United,England,?,Out,2003,w,premier-league
 Tottenham Hotspur,Paul Konchesky,22,England,Left-Back,LB,-,Charlton Athletic,England,"End of loanDec 24, 2003",Out,2003,w,premier-league
+Middlesbrough FC,Gary Smith,20,England,Central Midfield,CM,-,Wimbledon FC,England,Free transfer,Out,2003,w,premier-league
+Middlesbrough FC,Alan Wright,32,England,Left-Back,LB,-,Sheffield United,England,Free transfer,Out,2003,w,premier-league
 Middlesbrough FC,Craig Dove,20,England,Midfielder,Midfielder,-,York City,England,Loan,Out,2003,w,premier-league
 Middlesbrough FC,Phil Gulliver,21,England,Centre-Back,CB,-,Scunthorpe United,England,Loan,Out,2003,w,premier-league
 Middlesbrough FC,Mark Wilson,24,England,Central Midfield,CM,-,Sheffield Wednesday,England,Loan,Out,2003,w,premier-league
@@ -862,8 +864,6 @@ Middlesbrough FC,Brad Jones,21,Australia,Goalkeeper,GK,-,Blackpool FC,England,Lo
 Middlesbrough FC,Jamie Cade,19,England,Right Winger,RW,-,Colchester United,England,Free transfer,Out,2003,w,premier-league
 Middlesbrough FC,Colin Cooper,36,England,Left-Back,LB,-,Sunderland AFC,England,Loan,Out,2003,w,premier-league
 Middlesbrough FC,Brian Close,22,Northern Ireland,Right-Back,RB,-,Darlington FC (liq.),England,Free transfer,Out,2003,w,premier-league
-Middlesbrough FC,Gary Smith,20,England,Central Midfield,CM,-,Wimbledon FC,England,Free transfer,Out,2003,w,premier-league
-Middlesbrough FC,Alan Wright,32,England,Left-Back,LB,-,Sheffield United,England,Free transfer,Out,2003,w,premier-league
 Middlesbrough FC,Carlos Marinelli,21,Argentina,Attacking Midfield,AM,-,Club Atlético Boca Juniors,Argentina,?,Out,2003,w,premier-league
 Charlton Athletic,Scott Parker,23,England,Central Midfield,CM,-,Chelsea FC,England,£13.05m,Out,2003,w,premier-league
 Charlton Athletic,Chris Bart-Williams,29,England,Attacking Midfield,AM,-,Ipswich Town,England,Free transfer,Out,2003,w,premier-league
@@ -890,22 +890,22 @@ Fulham FC,Liam Rosenior,19,England,Right-Back,RB,-,Torquay United FC,England,Loa
 Fulham FC,Jon Harley,24,England,Left-Back,LB,-,West Ham United,England,Loan,Out,2003,w,premier-league
 Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Oldham Athletic,England,Loan,Out,2003,w,premier-league
 Fulham FC,Ross Flitney,19,England,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2003,w,premier-league
-Fulham FC,Calum Willock,21,St. Kitts & Nevis,Centre-Forward,CF,-,Peterborough United,England,£36k,Out,2003,w,premier-league
+Fulham FC,Calum Willock,21,St. Kitts & Nevis,Centre-Forward,CF,-,Peterborough United,England,£36Th.,Out,2003,w,premier-league
 Fulham FC,Mark Hudson,21,England,Centre-Back,CB,-,Crystal Palace,England,Loan,Out,2003,w,premier-league
 Fulham FC,Moritz Volz,20,Germany,Right-Back,RB,-,Arsenal FC,England,"End of loanDec 1, 2003",Out,2003,w,premier-league
 Fulham FC,Junichi Inamoto,24,Japan,Defensive Midfield,DM,-,Gamba Osaka,Japan,"End of loanDec 31, 2003",Out,2003,w,premier-league
+Leeds United,Jamie McMaster,21,Australia,Central Midfield,CM,-,Chesterfield FC,England,Loan,Out,2003,w,premier-league
+Leeds United,Michael Bridges,25,England,Centre-Forward,CF,-,Newcastle United,England,Loan,Out,2003,w,premier-league
+Leeds United,Jody Morris,25,England,Central Midfield,CM,-,Rotherham United,England,Free transfer,Out,2003,w,premier-league
 Leeds United,Paul Okon,31,Australia,Defensive Midfield,DM,-,KV Oostende,Belgium,Free transfer,Out,2003,w,premier-league
 Leeds United,Harpal Singh,22,India,Left Midfield,LM,-,Bury FC,England,Loan,Out,2003,w,premier-league
 Leeds United,Paul Keegan,19,Ireland,Central Midfield,CM,-,Scunthorpe United,England,Loan,Out,2003,w,premier-league
 Leeds United,Nick Barmby,29,England,Left Midfield,LM,-,Nottingham Forest,England,Loan,Out,2003,w,premier-league
 Leeds United,Frazer Richardson,21,England,Right-Back,RB,-,Stoke City,England,Loan,Out,2003,w,premier-league
-Leeds United,Jamie McMaster,21,Australia,Central Midfield,CM,-,Chesterfield FC,England,Loan,Out,2003,w,premier-league
-Leeds United,Michael Bridges,25,England,Centre-Forward,CF,-,Newcastle United,England,Loan,Out,2003,w,premier-league
-Leeds United,Jody Morris,25,England,Central Midfield,CM,-,Rotherham United,England,Free transfer,Out,2003,w,premier-league
 Leeds United,Roque Júnior,27,Brazil,Centre-Back,CB,-,Milan AC,Italy,"End of loanDec 1, 2003",Out,2003,w,premier-league
 Leeds United,Cyril Chapuis,24,France,Centre-Forward,CF,-,Olympique Marseille,France,"End of loanJan 6, 2004",Out,2003,w,premier-league
-Aston Villa,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Blackburn Rovers,England,£194k,Out,2003,w,premier-league
-Aston Villa,Boaz Myhill,21,Wales,Goalkeeper,GK,-,Hull City,England,£68k,Out,2003,w,premier-league
+Aston Villa,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Blackburn Rovers,England,£194Th.,Out,2003,w,premier-league
+Aston Villa,Boaz Myhill,21,Wales,Goalkeeper,GK,-,Hull City,England,£68Th.,Out,2003,w,premier-league
 Aston Villa,Alpay Özalan,30,Turkey,Centre-Back,CB,-,Incheon United,"Korea, South",Free transfer,Out,2003,w,premier-league
 Aston Villa,Rob Edwards,21,Wales,Centre-Back,CB,-,Derby County,England,Loan,Out,2003,w,premier-league
 Aston Villa,Peter Hynes,20,Ireland,Centre-Forward,CF,-,Cheltenham Town,England,Loan,Out,2003,w,premier-league
@@ -919,11 +919,7 @@ Aston Villa,Mark Kinsella,31,Ireland,Defensive Midfield,DM,-,West Bromwich Albio
 Aston Villa,Mustapha Hadji,32,Morocco,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,Free transfer,Out,2003,w,premier-league
 Aston Villa,Boaz Myhill,20,Wales,Goalkeeper,GK,-,Stockport County,England,Loan,Out,2003,w,premier-league
 Aston Villa,Peter Enckelman,26,Finland,Goalkeeper,GK,-,Blackburn Rovers,England,Loan,Out,2003,w,premier-league
-Bolton Wanderers,Jonathan Walters,20,Ireland,Right Winger,RW,-,Hull City,England,£68k,Out,2003,w,premier-league
-Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Scunthorpe United,England,Loan,Out,2003,w,premier-league
-Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Rochdale AFC,England,Loan,Out,2003,w,premier-league
-Bolton Wanderers,Cleveland Taylor,20,Jamaica,Right Midfield,RM,-,Scunthorpe United,England,Free transfer,Out,2003,w,premier-league
-Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Wigan Athletic,England,Free transfer,Out,2003,w,premier-league
+Bolton Wanderers,Jonathan Walters,20,Ireland,Right Winger,RW,-,Hull City,England,£68Th.,Out,2003,w,premier-league
 Bolton Wanderers,Jonathan Walters,20,Ireland,Right Winger,RW,-,Barnsley FC,England,Loan,Out,2003,w,premier-league
 Bolton Wanderers,Delroy Facey,23,Grenada,Centre-Forward,CF,-,West Bromwich Albion,England,Free transfer,Out,2003,w,premier-league
 Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Preston North End,England,Free transfer,Out,2003,w,premier-league
@@ -933,8 +929,12 @@ Bolton Wanderers,Kangana N'Diwa,19,DR Congo,Defender,Defender,-,Rochdale AFC,Eng
 Bolton Wanderers,Danny Livesey,19,England,Centre-Back,CB,-,Rochdale AFC,England,Loan,Out,2003,w,premier-league
 Bolton Wanderers,Paul Warhurst,34,England,Centre-Back,CB,-,Chesterfield FC,England,Free transfer,Out,2003,w,premier-league
 Bolton Wanderers,Jermaine Johnson,23,Jamaica,Right Winger,RW,-,Oldham Athletic,England,Free transfer,Out,2003,w,premier-league
+Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Scunthorpe United,England,Loan,Out,2003,w,premier-league
+Bolton Wanderers,Jeff Smith,23,England,Attacking Midfield,AM,-,Rochdale AFC,England,Loan,Out,2003,w,premier-league
+Bolton Wanderers,Cleveland Taylor,20,Jamaica,Right Midfield,RM,-,Scunthorpe United,England,Free transfer,Out,2003,w,premier-league
+Bolton Wanderers,Gareth Farrelly,28,Ireland,Left Midfield,LM,-,Wigan Athletic,England,Free transfer,Out,2003,w,premier-league
 Bolton Wanderers,Glen Little,28,England,Right Winger,RW,-,Burnley FC,England,"End of loanOct 27, 2003",Out,2003,w,premier-league
-Portsmouth FC,Boris Zivkovic,28,Croatia,Right-Back,RB,-,VfB Stuttgart,Germany,£180k,Out,2003,w,premier-league
+Portsmouth FC,Boris Zivkovic,28,Croatia,Right-Back,RB,-,VfB Stuttgart,Germany,£180Th.,Out,2003,w,premier-league
 Portsmouth FC,Lassina Diabaté,29,Cote d'Ivoire,Defensive Midfield,DM,-,AC Ajaccio,France,Free transfer,Out,2003,w,premier-league
 Portsmouth FC,Pavel Srnicek,35,Czech Republic,Goalkeeper,GK,-,West Ham United,England,Loan,Out,2003,w,premier-league
 Portsmouth FC,Jamie Vincent,28,England,Left-Back,LB,-,Derby County,England,Free transfer,Out,2003,w,premier-league
@@ -962,14 +962,14 @@ Leicester City,Junior Lewis,30,England,Left Winger,LW,-,Hull City,England,Free t
 Leicester City,Craig Hignett,34,England,Right Winger,RW,-,Crewe Alexandra,England,Loan,Out,2003,w,premier-league
 Leicester City,Matt Elliott,35,Scotland,Centre-Back,CB,-,Ipswich Town,England,Loan,Out,2003,w,premier-league
 Leicester City,Alan Rogers,26,England,Left-Back,LB,-,Wigan Athletic,England,Loan,Out,2003,w,premier-league
-Wolverhampton Wanderers,Ívar Ingimarsson,26,Iceland,Centre-Back,CB,-,Reading FC,England,£135k,Out,2003,w,premier-league
+Wolverhampton Wanderers,Ívar Ingimarsson,26,Iceland,Centre-Back,CB,-,Reading FC,England,£135Th.,Out,2003,w,premier-league
+Wolverhampton Wanderers,Leon Clarke,19,England,Centre-Forward,CF,-,Kidderminster Harriers,England,Free transfer,Out,2003,w,premier-league
 Wolverhampton Wanderers,Dean Sturridge,30,England,Centre-Forward,CF,-,Sheffield United,England,Loan,Out,2003,w,premier-league
 Wolverhampton Wanderers,Keith Andrews,23,Ireland,Central Midfield,CM,-,Walsall FC,England,Loan,Out,2003,w,premier-league
 Wolverhampton Wanderers,JJ Melligan,21,Ireland,Midfielder,Midfielder,-,Kidderminster Harriers,England,Loan,Out,2003,w,premier-league
 Wolverhampton Wanderers,Kevin Cooper,28,England,Left Midfield,LM,-,Sunderland AFC,England,Loan,Out,2003,w,premier-league
 Wolverhampton Wanderers,Kevin Cooper,29,England,Left Midfield,LM,-,Norwich City,England,Loan,Out,2003,w,premier-league
 Wolverhampton Wanderers,JJ Melligan,21,Ireland,Midfielder,Midfielder,-,Doncaster Rovers,England,Loan,Out,2003,w,premier-league
-Wolverhampton Wanderers,Leon Clarke,19,England,Centre-Forward,CF,-,Kidderminster Harriers,England,Free transfer,Out,2003,w,premier-league
+Wolverhampton Wanderers,Joey Gudjónsson,23,Iceland,Central Midfield,CM,-,Real Betis Balompié,Spain,"End of loanDec 31, 2003",Out,2003,w,premier-league
 Wolverhampton Wanderers,Hassan Kachloul,30,Morocco,Left Midfield,LM,-,Aston Villa,England,"End of loanDec 31, 2003",Out,2003,w,premier-league
 Wolverhampton Wanderers,Andy Marshall,28,England,Goalkeeper,GK,-,Ipswich Town,England,"End of loanJan 1, 2004",Out,2003,w,premier-league
-Wolverhampton Wanderers,Joey Gudjónsson,23,Iceland,Central Midfield,CM,-,Real Betis Balompié,Spain,"End of loanDec 31, 2003",Out,2003,w,premier-league

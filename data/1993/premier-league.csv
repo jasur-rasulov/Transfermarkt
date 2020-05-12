@@ -1,7 +1,7 @@
 Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
 Arsenal FC,Eddie McGoldrick,28,Ireland,Central Midfield,CM,-,Crystal Palace,England,£1.15m,In,1993,s,premier-league
-Arsenal FC,Adrian Clarke,18,England,Midfielder,Midfielder,-,Arsenal FC Reserves,England,-,In,1993,s,premier-league
 Arsenal FC,Paul Dickov,21,Scotland,Centre-Forward,CF,-,Brighton & Hove Albion,England,"End of loanMay 1, 1994",In,1993,s,premier-league
+Arsenal FC,Adrian Clarke,18,England,Midfielder,Midfielder,-,Arsenal FC Reserves,England,-,In,1993,s,premier-league
 Everton FC,Graham Stuart,22,England,Attacking Midfield,AM,-,Chelsea FC,England,£1.15m,In,1993,s,premier-league
 Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,Loan,In,1993,s,premier-league
 Everton FC,Paul Holmes,25,England,Midfielder,Midfielder,-,Birmingham City,England,?,In,1993,s,premier-league
@@ -14,51 +14,52 @@ Liverpool FC,Lee Jones,21,Wales,Centre-Forward,CF,-,Crewe Alexandra,England,"End
 Liverpool FC,Mark Walters,29,England,Left Midfield,LM,-,Stoke City,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Liverpool FC,Steve Harkness,22,England,Left-Back,LB,-,Huddersfield Town,England,"End of loanOct 25, 1993",In,1993,s,premier-league
 Tottenham Hotspur,Jason Dozzell,25,England,Central Midfield,CM,-,Ipswich Town,England,£2.16m,In,1993,s,premier-league
-Tottenham Hotspur,David Kerslake,27,England,Right-Back,RB,-,Leeds United,England,£507k,In,1993,s,premier-league
+Tottenham Hotspur,David Kerslake,27,England,Right-Back,RB,-,Leeds United,England,£507Th.,In,1993,s,premier-league
 Tottenham Hotspur,Garry Brady,16,Scotland,Central Midfield,CM,-,Celtic Boys Club,Scotland,?,In,1993,s,premier-league
 Tottenham Hotspur,Colin Calderwood,28,Scotland,Centre-Back,CB,-,Swindon Town,England,?,In,1993,s,premier-league
-Tottenham Hotspur,Steve Robinson,19,Northern Ireland,Attacking Midfield,AM,-,Leyton Orient,England,"End of loanMay 1, 1994",In,1993,s,premier-league
 Tottenham Hotspur,Stephen Carr,16,Ireland,Right-Back,RB,-,Tottenham Hotspur U18,England,-,In,1993,s,premier-league
-Tottenham Hotspur,Peter Beadle,22,England,Forward,Forward,-,Southend United,England,"End of loanMay 31, 1994",In,1993,s,premier-league
+Tottenham Hotspur,Steve Robinson,19,Northern Ireland,Attacking Midfield,AM,-,Leyton Orient,England,"End of loanMay 1, 1994",In,1993,s,premier-league
+Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Plymouth Argyle,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Tottenham Hotspur,Andy Quy,16,England,Goalkeeper,GK,-,Tottenham Hotspur U18,England,-,In,1993,s,premier-league
+Tottenham Hotspur,Peter Beadle,22,England,Forward,Forward,-,Southend United,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Tottenham Hotspur,Paul Mahorn,20,England,Forward,Forward,-,Fulham FC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Tottenham Hotspur,John Hendry,23,Scotland,Centre-Forward,CF,-,Charlton Athletic,England,"End of loanJun 30, 1993",In,1993,s,premier-league
 Blackburn Rovers,Paul Warhurst,23,England,Centre-Back,CB,-,Sheffield Wednesday,England,£3.38m,In,1993,s,premier-league
-Blackburn Rovers,Ian Pearce,19,England,Centre-Back,CB,-,Chelsea FC,England,£405k,In,1993,s,premier-league
+Blackburn Rovers,Ian Pearce,19,England,Centre-Back,CB,-,Chelsea FC,England,£405Th.,In,1993,s,premier-league
 Blackburn Rovers,Kevin Gallacher,26,Scotland,Right Winger,RW,-,Coventry City,England,?,In,1993,s,premier-league
 Blackburn Rovers,Andy Morrison,22,Scotland,Centre-Back,CB,-,Plymouth Argyle,England,?,In,1993,s,premier-league
 Blackburn Rovers,Simon Ireland,22,England,Midfielder,Midfielder,-,Mansfield Town,England,"End of loanMay 31, 1994",In,1993,s,premier-league
-Southampton FC,Paul Allen,30,England,Midfielder,Midfielder,-,Tottenham Hotspur,England,£594k,In,1993,s,premier-league
-Southampton FC,Simon Charlton,21,England,Left-Back,LB,-,Huddersfield Town,England,£315k,In,1993,s,premier-league
+Southampton FC,Paul Allen,30,England,Midfielder,Midfielder,-,Tottenham Hotspur,England,£594Th.,In,1993,s,premier-league
+Southampton FC,Simon Charlton,21,England,Left-Back,LB,-,Huddersfield Town,England,£315Th.,In,1993,s,premier-league
 Southampton FC,Peter Reid,37,England,Defensive Midfield,DM,-,Manchester City,England,Free transfer,In,1993,s,premier-league
 Southampton FC,Colin Cramb,19,Scotland,Centre-Forward,CF,-,Hamilton Academical FC,Scotland,?,In,1993,s,premier-league
 Southampton FC,Derek Allan,18,Scotland,Centre-Back,CB,-,Ayr United FC,Scotland,?,In,1993,s,premier-league
 Southampton FC,Kevin Moore,35,England,Defender,Defender,-,Bristol Rovers,England,"End of loanJun 30, 1993",In,1993,s,premier-league
 Manchester City,Alan Kernaghan,26,Ireland,Centre-Back,CB,-,Middlesbrough FC,England,£2.16m,In,1993,s,premier-league
-Manchester City,Carl Griffiths,21,England,Centre-Forward,CF,-,Shrewsbury Town,England,£540k,In,1993,s,premier-league
-Manchester City,Alfons Groenendijk,29,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£307k,In,1993,s,premier-league
+Manchester City,Carl Griffiths,21,England,Centre-Forward,CF,-,Shrewsbury Town,England,£540Th.,In,1993,s,premier-league
+Manchester City,Alfons Groenendijk,29,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£307Th.,In,1993,s,premier-league
 Manchester City,Martyn Margetson,22,Wales,Goalkeeper,GK,-,Bolton Wanderers,England,"End of loanMay 1, 1994",In,1993,s,premier-league
 Manchester City,Jim Whitley,18,Northern Ireland,Midfielder,Midfielder,-,Manchester City U18,England,-,In,1993,s,premier-league
 Manchester City,Rae Ingram,18,England,Defender,Defender,-,Manchester City U18,England,-,In,1993,s,premier-league
 Manchester City,Adrian Mike,20,England,Forward,Forward,-,Linköpings FF,Sweden,"End of loanMay 31, 1994",In,1993,s,premier-league
-Sheffield United,Willie Falconer,27,Scotland,Centre-Forward,CF,-,Middlesbrough FC,England,£540k,In,1993,s,premier-league
+Sheffield United,Willie Falconer,27,Scotland,Centre-Forward,CF,-,Middlesbrough FC,England,£540Th.,In,1993,s,premier-league
 Sheffield United,Chris Kamara,35,England,Defensive Midfield,DM,-,Luton Town,England,Free transfer,In,1993,s,premier-league
 Sheffield United,Jonas Wirmola,23,Sweden,Defender,Defender,-,Spårvägens FF,Sweden,Free transfer,In,1993,s,premier-league
 Sheffield United,Jostein Flo,28,Norway,Centre-Forward,CF,-,Sogndal IL,Norway,?,In,1993,s,premier-league
 Sheffield United,Dave Tuttle,21,England,Defender,Defender,-,Tottenham Hotspur,England,?,In,1993,s,premier-league
 Sheffield United,Jamie Hoyland,28,England,Midfielder,Midfielder,-,Bristol City,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Sheffield United,John Gannon,27,England,Midfielder,Midfielder,-,Middlesbrough FC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
-Swindon Town,Jan Aage Fjörtoft,26,Norway,Centre-Forward,CF,-,Rapid Vienna,Austria,£630k,In,1993,s,premier-league
-Swindon Town,Adrian Whitbread,21,England,Centre-Back,CB,-,Leyton Orient,England,£560k,In,1993,s,premier-league
-Swindon Town,Andy Mutch,29,England,Forward,Forward,-,Wolverhampton Wanderers,England,£279k,In,1993,s,premier-league
+Swindon Town,Jan Aage Fjörtoft,26,Norway,Centre-Forward,CF,-,Rapid Vienna,Austria,£630Th.,In,1993,s,premier-league
+Swindon Town,Adrian Whitbread,21,England,Centre-Back,CB,-,Leyton Orient,England,£560Th.,In,1993,s,premier-league
+Swindon Town,Andy Mutch,29,England,Forward,Forward,-,Wolverhampton Wanderers,England,£279Th.,In,1993,s,premier-league
 Swindon Town,Ty Gooden,20,England,Midfielder,Midfielder,-,Wycombe Wanderers,England,Free transfer,In,1993,s,premier-league
 Swindon Town,Luc Nijholt,31,Netherlands,Centre-Back,CB,-,Motherwell FC,Scotland,?,In,1993,s,premier-league
 Swindon Town,Terry Fenwick,33,England,Centre-Back,CB,-,Tottenham Hotspur,England,?,In,1993,s,premier-league
 West Ham United,Julian Dicks,25,England,Left-Back,LB,-,Liverpool FC,England,£1.35m,In,1993,s,premier-league
-West Ham United,Dale Gordon,26,England,Right Midfield,RM,-,Rangers FC,Scotland,£765k,In,1993,s,premier-league
-West Ham United,Simon Webster,29,England,Defender,Defender,-,Charlton Athletic,England,£585k,In,1993,s,premier-league
-West Ham United,Lee Chapman,33,England,Centre-Forward,CF,-,Portsmouth FC,England,£282k,In,1993,s,premier-league
-West Ham United,Keith Rowland,21,Northern Ireland,Left-Back,LB,-,AFC Bournemouth,England,£149k,In,1993,s,premier-league
+West Ham United,Dale Gordon,26,England,Right Midfield,RM,-,Rangers FC,Scotland,£765Th.,In,1993,s,premier-league
+West Ham United,Simon Webster,29,England,Defender,Defender,-,Charlton Athletic,England,£585Th.,In,1993,s,premier-league
+West Ham United,Lee Chapman,33,England,Centre-Forward,CF,-,Portsmouth FC,England,£282Th.,In,1993,s,premier-league
+West Ham United,Keith Rowland,21,Northern Ireland,Left-Back,LB,-,AFC Bournemouth,England,£149Th.,In,1993,s,premier-league
 West Ham United,Mike Marsh,24,England,Central Midfield,CM,-,Liverpool FC,England,Free transfer,In,1993,s,premier-league
 West Ham United,Jeroen Boere,25,Netherlands,Centre-Forward,CF,-,Go Ahead Eagles Deventer,Netherlands,?,In,1993,s,premier-league
 West Ham United,David Burrows,24,England,Left-Back,LB,-,Liverpool FC,England,?,In,1993,s,premier-league
@@ -79,7 +80,7 @@ Aston Villa,Paul Browne,18,Scotland,Centre-Back,CB,-,Aston Villa U18,England,-,I
 Aston Villa,Chris Boden,20,England,Defender,Defender,-,Barnsley FC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Aston Villa,Dariusz Kubicki,30,Poland,Right-Back,RB,-,Sunderland AFC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Chelsea FC,Mark Stein,27,England,Centre-Forward,CF,-,Stoke City,England,£1.50m,In,1993,s,premier-league
-Chelsea FC,Jakob Kjeldbjerg,23,Denmark,Centre-Back,CB,-,Silkeborg IF,Denmark,£432k,In,1993,s,premier-league
+Chelsea FC,Jakob Kjeldbjerg,23,Denmark,Centre-Back,CB,-,Silkeborg IF,Denmark,£432Th.,In,1993,s,premier-league
 Chelsea FC,Andy Dow,20,Scotland,Defender,Defender,-,Dundee FC,Scotland,?,In,1993,s,premier-league
 Chelsea FC,Glenn Hoddle,35,England,Attacking Midfield,AM,-,Swindon Town,England,?,In,1993,s,premier-league
 Chelsea FC,Nick Colgan,20,Ireland,Goalkeeper,GK,-,Crewe Alexandra,England,"End of loanMay 1, 1994",In,1993,s,premier-league
@@ -92,42 +93,42 @@ Ipswich Town,Ian Marshall,27,England,Centre-Forward,CF,-,Oldham Athletic,England
 Ipswich Town,Paul Mason,29,England,Midfielder,Midfielder,-,Aberdeen FC,Scotland,?,In,1993,s,premier-league
 Ipswich Town,Neil Gregory,21,Zambia,Centre-Forward,CF,-,Chesterfield FC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Newcastle United,Peter Beardsley,32,England,Second Striker,SS,-,Everton FC,England,£1.53m,In,1993,s,premier-league
-Newcastle United,Mike Hooper,29,England,Goalkeeper,GK,-,Liverpool FC,England,£565k,In,1993,s,premier-league
-Newcastle United,Malcolm Allen,26,Wales,Forward,Forward,-,Millwall FC,England,£315k,In,1993,s,premier-league
-Newcastle United,Nikodimos Papavasiliou,22,Cyprus,Left Winger,LW,-,OFI Crete,Greece,£162k,In,1993,s,premier-league
+Newcastle United,Mike Hooper,29,England,Goalkeeper,GK,-,Liverpool FC,England,£565Th.,In,1993,s,premier-league
+Newcastle United,Malcolm Allen,26,Wales,Forward,Forward,-,Millwall FC,England,£315Th.,In,1993,s,premier-league
+Newcastle United,Nikodimos Papavasiliou,22,Cyprus,Left Winger,LW,-,OFI Crete,Greece,£162Th.,In,1993,s,premier-league
 Newcastle United,Steve Harper,18,England,Goalkeeper,GK,-,Seaham Red Star,England,Free transfer,In,1993,s,premier-league
 Newcastle United,John Burridge,41,England,Goalkeeper,GK,-,Hibernian FC,Scotland,Free transfer,In,1993,s,premier-league
 Newcastle United,Alex Mathie,24,Scotland,Centre-Forward,CF,-,Greenock Morton FC,Scotland,?,In,1993,s,premier-league
 Newcastle United,Michael Jeffrey,21,England,Centre-Forward,CF,-,Doncaster Rovers,England,?,In,1993,s,premier-league
 Newcastle United,Scott Sellars,27,England,Left Midfield,LM,-,Leeds United,England,?,In,1993,s,premier-league
+Newcastle United,Kevin Brock,31,England,Midfielder,Midfielder,-,Cardiff City,Wales,"End of loanApr 26, 1994",In,1993,s,premier-league
 Newcastle United,Robbie Elliott,19,England,Left-Back,LB,-,Newcastle United U23,England,-,In,1993,s,premier-league
 Newcastle United,Matty Appleby,22,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,"End of loanMay 1, 1994",In,1993,s,premier-league
-Newcastle United,Kevin Brock,31,England,Midfielder,Midfielder,-,Cardiff City,Wales,"End of loanApr 26, 1994",In,1993,s,premier-league
 Manchester United,Roy Keane,21,Ireland,Defensive Midfield,DM,-,Nottingham Forest,England,£7.65m,In,1993,s,premier-league
 Manchester United,David Beckham,18,England,Right Midfield,RM,-,Manchester United U18,England,-,In,1993,s,premier-league
 Manchester United,Keith Gillespie,18,Northern Ireland,Central Midfield,CM,-,Manchester United U18,England,-,In,1993,s,premier-league
 Manchester United,Robbie Savage,18,Wales,Central Midfield,CM,-,Manchester United U18,England,-,In,1993,s,premier-league
 Manchester United,Chris Casper,18,England,Defender,Defender,-,Manchester United U18,England,-,In,1993,s,premier-league
-Coventry City,Mick Harford,34,England,Centre-Forward,CF,-,Sunderland AFC,England,£203k,In,1993,s,premier-league
-Coventry City,Paul Williams,23,England,Defender,Defender,-,Stockport County,England,£167k,In,1993,s,premier-league
-Coventry City,Julian Darby,25,England,Midfielder,Midfielder,-,Bolton Wanderers,England,£162k,In,1993,s,premier-league
-Coventry City,Steve Morgan,24,England,Left-Back,LB,-,Plymouth Argyle,England,£122k,In,1993,s,premier-league
-Coventry City,John Gayle,29,England,Forward,Forward,-,Birmingham City,England,£108k,In,1993,s,premier-league
-Coventry City,Ally Pickering,26,England,Defender,Defender,-,Rotherham United,England,£90k,In,1993,s,premier-league
+Coventry City,Mick Harford,34,England,Centre-Forward,CF,-,Sunderland AFC,England,£203Th.,In,1993,s,premier-league
+Coventry City,Paul Williams,23,England,Defender,Defender,-,Stockport County,England,£167Th.,In,1993,s,premier-league
+Coventry City,Julian Darby,25,England,Midfielder,Midfielder,-,Bolton Wanderers,England,£162Th.,In,1993,s,premier-league
+Coventry City,Steve Morgan,24,England,Left-Back,LB,-,Plymouth Argyle,England,£122Th.,In,1993,s,premier-league
+Coventry City,John Gayle,29,England,Forward,Forward,-,Birmingham City,England,£108Th.,In,1993,s,premier-league
+Coventry City,Ally Pickering,26,England,Defender,Defender,-,Rotherham United,England,£90Th.,In,1993,s,premier-league
 Coventry City,Leigh Jenkinson,23,Wales,Midfielder,Midfielder,-,Hull City,England,?,In,1993,s,premier-league
 Coventry City,Zbigniew Kruszyński,32,Poland,Defender,Defender,-,Brentford FC,England,?,In,1993,s,premier-league
 Coventry City,Willie Boland,17,Ireland,Central Midfield,CM,-,Coventry City U18,England,-,In,1993,s,premier-league
 Coventry City,Peter Billing,28,England,Centre-Back,CB,-,Port Vale FC,England,"End of loanJun 30, 1993",In,1993,s,premier-league
-Wimbledon FC,Alan Kimble,26,England,Left-Back,LB,-,Cambridge United,England,£189k,In,1993,s,premier-league
+Wimbledon FC,Alan Kimble,26,England,Left-Back,LB,-,Cambridge United,England,£189Th.,In,1993,s,premier-league
 Wimbledon FC,Gary Blissett,29,England,Centre-Forward,CF,-,Brentford FC,England,?,In,1993,s,premier-league
 Wimbledon FC,Aidan Newhouse,22,England,Forward,Forward,-,Port Vale FC,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Sheffield Wednesday,Andy Sinton,27,England,Left Midfield,LM,-,Queens Park Rangers,England,£3.02m,In,1993,s,premier-league
 Sheffield Wednesday,Des Walker,27,England,Centre-Back,CB,-,UC Sampdoria,Italy,£2.70m,In,1993,s,premier-league
-Sheffield Wednesday,Andy Pearce,27,England,Centre-Back,CB,-,Coventry City,England,£540k,In,1993,s,premier-league
-Sheffield Wednesday,Adem Poric,20,Australia,Central Midfield,CM,-,St. George Saints,Australia,£65k,In,1993,s,premier-league
+Sheffield Wednesday,Andy Pearce,27,England,Centre-Back,CB,-,Coventry City,England,£540Th.,In,1993,s,premier-league
+Sheffield Wednesday,Adem Poric,20,Australia,Central Midfield,CM,-,St. George Saints,Australia,£65Th.,In,1993,s,premier-league
 Sheffield Wednesday,Nigel Jemson,24,England,Forward,Forward,-,Grimsby Town,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Sheffield Wednesday,Brian Linighan,19,England,Centre-Back,CB,-,Sheffield Wednesday U23,England,-,In,1993,s,premier-league
-Queens Park Rangers,Steve Yates,23,England,Defender,Defender,-,Bristol Rovers,England,£738k,In,1993,s,premier-league
+Queens Park Rangers,Steve Yates,23,England,Defender,Defender,-,Bristol Rovers,England,£738Th.,In,1993,s,premier-league
 Queens Park Rangers,Trevor Sinclair,20,England,Left Winger,LW,-,Blackpool FC,England,?,In,1993,s,premier-league
 Queens Park Rangers,Alan McCarthy,22,Wales,Defender,Defender,-,Plymouth Argyle,England,"End of loanMay 31, 1994",In,1993,s,premier-league
 Queens Park Rangers,Danny Dichio,18,England,Centre-Forward,CF,-,Queens Park Rangers U18,England,-,In,1993,s,premier-league
@@ -138,7 +139,7 @@ Oldham Athletic,Gary Walsh,25,England,Goalkeeper,GK,-,Manchester United,England,
 Oldham Athletic,Paul Rickers,18,England,Midfielder,Midfielder,-,,Unknown,?,In,1993,s,premier-league
 Oldham Athletic,Richard Graham,18,England,Centre-Back,CB,-,,Unknown,?,In,1993,s,premier-league
 Oldham Athletic,Andy Barlow,28,England,Left-Back,LB,-,Bradford City,England,"End of loanMay 31, 1994",In,1993,s,premier-league
-Norwich City,Spencer Prior,22,England,Centre-Back,CB,-,Southend United,England,£225k,In,1993,s,premier-league
+Norwich City,Spencer Prior,22,England,Centre-Back,CB,-,Southend United,England,£225Th.,In,1993,s,premier-league
 Norwich City,Scott Howie,21,Scotland,Goalkeeper,GK,-,Clyde FC,Scotland,?,In,1993,s,premier-league
 Norwich City,Ade Akinbiyi,18,Nigeria,Centre-Forward,CF,-,Norwich City U18,England,-,In,1993,s,premier-league
 Norwich City,Andy Marshall,18,England,Goalkeeper,GK,-,Norwich City U18,England,-,In,1993,s,premier-league
@@ -151,17 +152,17 @@ Everton FC,Mo Johnston,30,Scotland,Centre-Forward,CF,-,Heart of Midlothian FC,Sc
 Everton FC,Iain Jenkins,20,Northern Ireland,Right-Back,RB,-,Chester City (diss.),England,?,Out,1993,s,premier-league
 Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,"End of loanSep 1, 1993",Out,1993,s,premier-league
 Liverpool FC,Julian Dicks,25,England,Left-Back,LB,-,West Ham United,England,£1.35m,Out,1993,s,premier-league
-Liverpool FC,Mike Hooper,29,England,Goalkeeper,GK,-,Newcastle United,England,£565k,Out,1993,s,premier-league
+Liverpool FC,Mike Hooper,29,England,Goalkeeper,GK,-,Newcastle United,England,£565Th.,Out,1993,s,premier-league
 Liverpool FC,Steve Harkness,22,England,Left-Back,LB,-,Huddersfield Town,England,Loan,Out,1993,s,premier-league
 Liverpool FC,Mike Marsh,24,England,Central Midfield,CM,-,West Ham United,England,Free transfer,Out,1993,s,premier-league
 Liverpool FC,István Kozma,28,Hungary,Attacking Midfield,AM,-,Újpest FC,Hungary,Free transfer,Out,1993,s,premier-league
-Liverpool FC,Lee Jones,20,Wales,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,1993,s,premier-league
 Liverpool FC,David Burrows,24,England,Left-Back,LB,-,West Ham United,England,?,Out,1993,s,premier-league
+Liverpool FC,Lee Jones,20,Wales,Centre-Forward,CF,-,Crewe Alexandra,England,Loan,Out,1993,s,premier-league
 Tottenham Hotspur,Neil Ruddock,25,England,Centre-Back,CB,-,Liverpool FC,England,£2.70m,Out,1993,s,premier-league
 Tottenham Hotspur,Gordon Durie,27,Scotland,Centre-Forward,CF,-,Rangers FC,Scotland,£1.62m,Out,1993,s,premier-league
 Tottenham Hotspur,Steve Sedgley,26,England,Midfielder,Midfielder,-,Ipswich Town,England,£1.13m,Out,1993,s,premier-league
-Tottenham Hotspur,Paul Allen,30,England,Midfielder,Midfielder,-,Southampton FC,England,£594k,Out,1993,s,premier-league
-Tottenham Hotspur,Ian Hendon,21,England,Centre-Back,CB,-,Leyton Orient,England,£59k,Out,1993,s,premier-league
+Tottenham Hotspur,Paul Allen,30,England,Midfielder,Midfielder,-,Southampton FC,England,£594Th.,Out,1993,s,premier-league
+Tottenham Hotspur,Ian Hendon,21,England,Centre-Back,CB,-,Leyton Orient,England,£59Th.,Out,1993,s,premier-league
 Tottenham Hotspur,Kevin Watson,19,England,Central Midfield,CM,-,Brentford FC,England,Free transfer,Out,1993,s,premier-league
 Tottenham Hotspur,Pat van den Hauwe,32,Wales,Left-Back,LB,-,Millwall FC,England,Free transfer,Out,1993,s,premier-league
 Tottenham Hotspur,David McDonald,22,Ireland,Defender,Defender,-,Peterborough United,England,Free transfer,Out,1993,s,premier-league
@@ -171,21 +172,21 @@ Tottenham Hotspur,Nayim,26,Spain,Right Midfield,RM,-,Real Zaragoza,Spain,?,Out,1
 Tottenham Hotspur,Terry Fenwick,33,England,Centre-Back,CB,-,Swindon Town,England,?,Out,1993,s,premier-league
 Tottenham Hotspur,Gudni Bergsson,28,Iceland,Centre-Back,CB,-,Valur Reykjavík,Iceland,Loan,Out,1993,s,premier-league
 Tottenham Hotspur,Dave Tuttle,21,England,Defender,Defender,-,Sheffield United,England,?,Out,1993,s,premier-league
-Blackburn Rovers,Tony Dobson,24,England,Midfielder,Midfielder,-,Portsmouth FC,England,£169k,Out,1993,s,premier-league
+Blackburn Rovers,Tony Dobson,24,England,Midfielder,Midfielder,-,Portsmouth FC,England,£169Th.,Out,1993,s,premier-league
 Blackburn Rovers,Gordon Cowans,34,England,Midfielder,Midfielder,-,Aston Villa,England,Free transfer,Out,1993,s,premier-league
 Blackburn Rovers,Wayne Burnett,21,England,Midfielder,Midfielder,-,Plymouth Argyle,England,?,Out,1993,s,premier-league
 Blackburn Rovers,Mickey Evans,20,Ireland,Centre-Forward,CF,-,Plymouth Argyle,England,"End of loanJun 30, 1993",Out,1993,s,premier-league
 Southampton FC,David Speedie,33,Scotland,Centre-Forward,CF,-,Leicester City,England,?,Out,1993,s,premier-league
 Southampton FC,Stuart Gray,33,England,Central Midfield,CM,-,,Retired,-,Out,1993,s,premier-league
 Manchester City,Peter Reid,37,England,Defensive Midfield,DM,-,Southampton FC,England,Free transfer,Out,1993,s,premier-league
+Manchester City,Fitzroy Simpson,23,Jamaica,Midfielder,Midfielder,-,Bristol City,England,Loan,Out,1993,s,premier-league
+Manchester City,Rick Holden,28,England,Left Midfield,LM,-,Oldham Athletic,England,?,Out,1993,s,premier-league
 Manchester City,Ray Ranson,33,England,Right-Back,RB,-,Reading FC,England,?,Out,1993,s,premier-league
 Manchester City,Kare Ingebrigtsen,27,Norway,Defensive Midfield,DM,-,Rosenborg BK,Norway,?,Out,1993,s,premier-league
 Manchester City,Adrian Mike,19,England,Forward,Forward,-,Linköpings FF,Sweden,Loan,Out,1993,s,premier-league
-Manchester City,Fitzroy Simpson,23,Jamaica,Midfielder,Midfielder,-,Bristol City,England,Loan,Out,1993,s,premier-league
-Manchester City,Rick Holden,28,England,Left Midfield,LM,-,Oldham Athletic,England,?,Out,1993,s,premier-league
 Sheffield United,Brian Deane,25,England,Centre-Forward,CF,-,Leeds United,England,£3.92m,Out,1993,s,premier-league
-Sheffield United,Nathan Peel,21,England,Centre-Forward,CF,-,Burnley FC,England,£62k,Out,1993,s,premier-league
-Sheffield United,Ian Bryson,30,Scotland,Central Midfield,CM,-,Barnsley FC,England,£27k,Out,1993,s,premier-league
+Sheffield United,Nathan Peel,21,England,Centre-Forward,CF,-,Burnley FC,England,£62Th.,Out,1993,s,premier-league
+Sheffield United,Ian Bryson,30,Scotland,Central Midfield,CM,-,Barnsley FC,England,£27Th.,Out,1993,s,premier-league
 Sheffield United,Mike Lake,26,England,Midfielder,Midfielder,-,Wrexham AFC,Wales,?,Out,1993,s,premier-league
 Sheffield United,Tom Cowan,23,Scotland,Left-Back,LB,-,Stoke City,England,?,Out,1993,s,premier-league
 Sheffield United,Jim Leighton,34,Scotland,Goalkeeper,GK,-,Hibernian FC,Scotland,?,Out,1993,s,premier-league
@@ -199,21 +200,21 @@ West Ham United,Alex Bunbury,26,Canada,Centre-Forward,CF,-,CS Marítimo,Portugal
 West Ham United,Daniel Williamson,19,England,Attacking Midfield,AM,-,Doncaster Rovers,England,Loan,Out,1993,s,premier-league
 West Ham United,Gary Kelly,27,Ireland,Goalkeeper,GK,-,Bury FC,England,"End of loanMay 31, 1994",Out,1993,s,premier-league
 West Ham United,Kevin Hitchcock,30,England,Goalkeeper,GK,-,Chelsea FC,England,"End of loanJun 30, 1993",Out,1993,s,premier-league
-Leeds United,Dylan Kerr,26,England,Left-Back,LB,-,Reading FC,England,£795k,Out,1993,s,premier-league
-Leeds United,David Kerslake,27,England,Right-Back,RB,-,Tottenham Hotspur,England,£507k,Out,1993,s,premier-league
-Leeds United,Lee Chapman,33,England,Centre-Forward,CF,-,Portsmouth FC,England,£282k,Out,1993,s,premier-league
+Leeds United,Dylan Kerr,26,England,Left-Back,LB,-,Reading FC,England,£795Th.,Out,1993,s,premier-league
+Leeds United,David Kerslake,27,England,Right-Back,RB,-,Tottenham Hotspur,England,£507Th.,Out,1993,s,premier-league
+Leeds United,Lee Chapman,33,England,Centre-Forward,CF,-,Portsmouth FC,England,£282Th.,Out,1993,s,premier-league
 Leeds United,Carl-Steven Shutt,31,England,Forward,Forward,-,Birmingham City,England,?,Out,1993,s,premier-league
 Leeds United,Mervyn Day,38,England,Goalkeeper,GK,-,Carlisle United,England,?,Out,1993,s,premier-league
 Leeds United,Scott Sellars,27,England,Left Midfield,LM,-,Newcastle United,England,?,Out,1993,s,premier-league
-Aston Villa,Mark Blake,22,England,Midfielder,Midfielder,-,Portsmouth FC,England,£451k,Out,1993,s,premier-league
-Aston Villa,Martin Carruthers,20,England,Centre-Forward,CF,-,Stoke City,England,£378k,Out,1993,s,premier-league
-Aston Villa,Cyrille Regis,35,England,Centre-Forward,CF,-,Wolverhampton Wanderers,England,Free transfer,Out,1993,s,premier-league
+Aston Villa,Mark Blake,22,England,Midfielder,Midfielder,-,Portsmouth FC,England,£451Th.,Out,1993,s,premier-league
+Aston Villa,Martin Carruthers,20,England,Centre-Forward,CF,-,Stoke City,England,£378Th.,Out,1993,s,premier-league
 Aston Villa,Henrik Larsen,27,Denmark,Attacking Midfield,AM,-,SV Waldhof Mannheim,Germany,Free transfer,Out,1993,s,premier-league
+Aston Villa,Cyrille Regis,35,England,Centre-Forward,CF,-,Wolverhampton Wanderers,England,Free transfer,Out,1993,s,premier-league
 Aston Villa,Chris Boden,20,England,Defender,Defender,-,Barnsley FC,England,Loan,Out,1993,s,premier-league
 Chelsea FC,Andy Townsend,29,Ireland,Central Midfield,CM,-,Aston Villa,England,£2.16m,Out,1993,s,premier-league
 Chelsea FC,Graham Stuart,22,England,Attacking Midfield,AM,-,Everton FC,England,£1.15m,Out,1993,s,premier-league
-Chelsea FC,Ian Pearce,19,England,Centre-Back,CB,-,Blackburn Rovers,England,£405k,Out,1993,s,premier-league
-Chelsea FC,Steve Livingstone,24,England,Centre-Forward,CF,-,Grimsby Town,England,£135k,Out,1993,s,premier-league
+Chelsea FC,Ian Pearce,19,England,Centre-Back,CB,-,Blackburn Rovers,England,£405Th.,Out,1993,s,premier-league
+Chelsea FC,Steve Livingstone,24,England,Centre-Forward,CF,-,Grimsby Town,England,£135Th.,Out,1993,s,premier-league
 Chelsea FC,Anthony Barness,20,England,Right-Back,RB,-,Middlesbrough FC,England,Loan,Out,1993,s,premier-league
 Chelsea FC,Nick Colgan,19,Ireland,Goalkeeper,GK,-,Crewe Alexandra,England,Loan,Out,1993,s,premier-league
 Chelsea FC,Alan Dickens,28,England,Central Midfield,CM,-,Colchester United,England,?,Out,1993,s,premier-league
@@ -222,47 +223,47 @@ Chelsea FC,Paul Elliott,30,England,Centre-Back,CB,-,,Retired,-,Out,1993,s,premie
 Chelsea FC,Mal Donaghy,36,Northern Ireland,Left-Back,LB,-,,Retired,-,Out,1993,s,premier-league
 Ipswich Town,Jason Dozzell,25,England,Central Midfield,CM,-,Tottenham Hotspur,England,£2.16m,Out,1993,s,premier-league
 Ipswich Town,Vlado Bozinoski,29,Australia,Central Midfield,CM,-,FC Paços de Ferreira,Portugal,?,Out,1993,s,premier-league
-Newcastle United,David Kelly,27,Ireland,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£746k,Out,1993,s,premier-league
-Newcastle United,Tommy Wright,29,Northern Ireland,Goalkeeper,GK,-,Nottingham Forest,England,£608k,Out,1993,s,premier-league
-Newcastle United,Alan Thompson,19,England,Left Midfield,LM,-,Bolton Wanderers,England,£338k,Out,1993,s,premier-league
+Newcastle United,David Kelly,27,Ireland,Centre-Forward,CF,-,Wolverhampton Wanderers,England,£746Th.,Out,1993,s,premier-league
+Newcastle United,Tommy Wright,29,Northern Ireland,Goalkeeper,GK,-,Nottingham Forest,England,£608Th.,Out,1993,s,premier-league
+Newcastle United,Alan Thompson,19,England,Left Midfield,LM,-,Bolton Wanderers,England,£338Th.,Out,1993,s,premier-league
 Newcastle United,Matty Appleby,22,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,Free transfer,Out,1993,s,premier-league
 Newcastle United,John Burridge,41,England,Goalkeeper,GK,-,Scarborough FC (diss.),England,Free transfer,Out,1993,s,premier-league
 Newcastle United,Björn Kristensen,29,Denmark,Defender,Defender,-,Portsmouth FC,England,?,Out,1993,s,premier-league
 Newcastle United,Kevin Sheedy,33,Ireland,Left Midfield,LM,-,Blackpool FC,England,?,Out,1993,s,premier-league
 Newcastle United,Brian Reid,23,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,"End of loanMay 31, 1994",Out,1993,s,premier-league
 Newcastle United,Gavin Maguire,25,England,Centre-Back,CB,-,Portsmouth FC,England,"End of loanJun 30, 1993",Out,1993,s,premier-league
-Manchester United,Danny Wallace,29,England,Attacking Midfield,AM,-,Birmingham City,England,£270k,Out,1993,s,premier-league
-Manchester United,Brian Carey,25,Ireland,Centre-Back,CB,-,Leicester City,England,£264k,Out,1993,s,premier-league
+Manchester United,Danny Wallace,29,England,Attacking Midfield,AM,-,Birmingham City,England,£270Th.,Out,1993,s,premier-league
+Manchester United,Brian Carey,25,Ireland,Centre-Back,CB,-,Leicester City,England,£264Th.,Out,1993,s,premier-league
 Manchester United,Keith Gillespie,18,Northern Ireland,Central Midfield,CM,-,Wigan Athletic,England,Loan,Out,1993,s,premier-league
 Manchester United,Neil Whitworth,21,England,Centre-Back,CB,-,Rotherham United,England,Loan,Out,1993,s,premier-league
 Manchester United,Gary Walsh,25,England,Goalkeeper,GK,-,Oldham Athletic,England,Loan,Out,1993,s,premier-league
 Manchester United,Russell Beardsmore,24,England,Central Midfield,CM,-,AFC Bournemouth,England,?,Out,1993,s,premier-league
-Coventry City,Andy Pearce,27,England,Centre-Back,CB,-,Sheffield Wednesday,England,£540k,Out,1993,s,premier-league
+Coventry City,Andy Pearce,27,England,Centre-Back,CB,-,Sheffield Wednesday,England,£540Th.,Out,1993,s,premier-league
 Coventry City,Billy Woods,19,Ireland,Left Midfield,LM,-,Cork City FC (diss. 2009),Ireland,Free transfer,Out,1993,s,premier-league
 Coventry City,Steve Williams,18,Wales,Goalkeeper,GK,-,Cardiff City,Wales,Free transfer,Out,1993,s,premier-league
 Coventry City,Terry Fleming,20,England,Midfielder,Midfielder,-,Northampton Town,England,Free transfer,Out,1993,s,premier-league
 Coventry City,Chris Greenman,24,England,Defender,Defender,-,Peterborough United,England,Free transfer,Out,1993,s,premier-league
-Coventry City,Peter Billing,28,England,Centre-Back,CB,-,Port Vale FC,England,£36k,Out,1993,s,premier-league
+Coventry City,Peter Billing,28,England,Centre-Back,CB,-,Port Vale FC,England,£36Th.,Out,1993,s,premier-league
 Coventry City,Kevin Gallacher,26,Scotland,Right Winger,RW,-,Blackburn Rovers,England,?,Out,1993,s,premier-league
 Coventry City,Craig Middleton,22,England,Midfielder,Midfielder,-,Cambridge United,England,?,Out,1993,s,premier-league
 Coventry City,Brian Borrows,32,England,Right-Back,RB,-,Bristol City,England,Loan,Out,1993,s,premier-league
 Coventry City,Micky Gynn,31,England,Midfielder,Midfielder,-,Stoke City,England,?,Out,1993,s,premier-league
 Coventry City,Kenny Sansom,34,England,Left-Back,LB,-,,Retired,-,Out,1993,s,premier-league
-Wimbledon FC,Steve Cotterill,29,England,Forward,Forward,-,AFC Bournemouth,England,£92k,Out,1993,s,premier-league
+Wimbledon FC,Steve Cotterill,29,England,Forward,Forward,-,AFC Bournemouth,England,£92Th.,Out,1993,s,premier-league
 Wimbledon FC,Steve Finnan,17,Ireland,Right-Back,RB,-,Welling United,England,?,Out,1993,s,premier-league
 Wimbledon FC,Timothy Alexander,19,England,Centre-Back,CB,-,Barnet FC,England,?,Out,1993,s,premier-league
 Wimbledon FC,Terry Gibson,30,England,Forward,Forward,-,Peterborough United,England,?,Out,1993,s,premier-league
 Sheffield Wednesday,Paul Warhurst,23,England,Centre-Back,CB,-,Blackburn Rovers,England,£3.38m,Out,1993,s,premier-league
 Sheffield Wednesday,John Harkes,26,United States,Right Midfield,RM,-,Derby County,England,£1.08m,Out,1993,s,premier-league
-Sheffield Wednesday,Peter Shirtliff,32,England,Centre-Back,CB,-,Wolverhampton Wanderers,England,£258k,Out,1993,s,premier-league
+Sheffield Wednesday,Peter Shirtliff,32,England,Centre-Back,CB,-,Wolverhampton Wanderers,England,£258Th.,Out,1993,s,premier-league
 Sheffield Wednesday,Phil King,25,England,Left-Back,LB,-,Notts County,England,Loan,Out,1993,s,premier-league
 Sheffield Wednesday,Danny Wilson,33,Northern Ireland,Midfielder,Midfielder,-,Barnsley FC,England,?,Out,1993,s,premier-league
 Sheffield Wednesday,Nigel Jemson,24,England,Forward,Forward,-,Grimsby Town,England,Loan,Out,1993,s,premier-league
 Sheffield Wednesday,Viv Anderson,36,England,Right-Back,RB,-,Barnsley FC,England,?,Out,1993,s,premier-league
 Queens Park Rangers,Andy Sinton,27,England,Left Midfield,LM,-,Sheffield Wednesday,England,£3.02m,Out,1993,s,premier-league
+Queens Park Rangers,Dennis Bailey,27,England,Forward,Forward,-,Charlton Athletic,England,Loan,Out,1993,s,premier-league
 Queens Park Rangers,Garry Thompson,33,England,Forward,Forward,-,Cardiff City,Wales,Free transfer,Out,1993,s,premier-league
 Queens Park Rangers,Danny Dichio,18,England,Centre-Forward,CF,-,Barnet FC,England,Loan,Out,1993,s,premier-league
-Queens Park Rangers,Dennis Bailey,27,England,Forward,Forward,-,Charlton Athletic,England,Loan,Out,1993,s,premier-league
 Queens Park Rangers,Tony Witter,29,England,Centre-Back,CB,-,Millwall FC,England,"End of loanSep 13, 1993",Out,1993,s,premier-league
 Oldham Athletic,Ian Marshall,27,England,Centre-Forward,CF,-,Ipswich Town,England,£1.01m,Out,1993,s,premier-league
 Oldham Athletic,Tore Pedersen,24,Norway,Centre-Back,CB,-,SK Brann,Norway,?,Out,1993,s,premier-league
@@ -270,69 +271,69 @@ Oldham Athletic,Orpheo Keizerweerd,24,Netherlands,Centre-Forward,CF,-,FC Den Bos
 Norwich City,Mark Peters,21,Wales,Defender,Defender,-,Peterborough United,England,Free transfer,Out,1993,s,premier-league
 Norwich City,David Phillips,29,Wales,Right Midfield,RM,-,Nottingham Forest,England,?,Out,1993,s,premier-league
 Arsenal FC,Paul Dickov,21,Scotland,Centre-Forward,CF,-,Luton Town,England,"End of loanDec 1, 1993",In,1993,w,premier-league
-Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,£450k,In,1993,w,premier-league
-Everton FC,Joe Parkinson,22,England,Midfielder,Midfielder,-,AFC Bournemouth,England,£338k,In,1993,w,premier-league
+Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,£450Th.,In,1993,w,premier-league
+Everton FC,Joe Parkinson,22,England,Midfielder,Midfielder,-,AFC Bournemouth,England,£338Th.,In,1993,w,premier-league
 Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,Loan,In,1993,w,premier-league
 Liverpool FC,Mark Gayle,24,England,Goalkeeper,GK,-,Crewe Alexandra,England,Loan,In,1993,w,premier-league
 Liverpool FC,Steve Harkness,22,England,Left-Back,LB,-,Huddersfield Town,England,"End of loanOct 25, 1993",In,1993,w,premier-league
-Tottenham Hotspur,Kevin Scott,27,England,Defender,Defender,-,Newcastle United,England,£990k,In,1993,w,premier-league
-Tottenham Hotspur,Ronny Rosenthal,30,Israel,Left Winger,LW,-,Liverpool FC,England,£270k,In,1993,w,premier-league
-Tottenham Hotspur,Micky Hazard,33,England,Central Midfield,CM,-,Swindon Town,England,£50k,In,1993,w,premier-league
+Tottenham Hotspur,Kevin Scott,27,England,Defender,Defender,-,Newcastle United,England,£990Th.,In,1993,w,premier-league
+Tottenham Hotspur,Ronny Rosenthal,30,Israel,Left Winger,LW,-,Liverpool FC,England,£270Th.,In,1993,w,premier-league
+Tottenham Hotspur,Micky Hazard,33,England,Central Midfield,CM,-,Swindon Town,England,£50Th.,In,1993,w,premier-league
 Tottenham Hotspur,Chris Day,18,England,Goalkeeper,GK,-,Tottenham Hotspur U18,England,-,In,1993,w,premier-league
 Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Wycombe Wanderers,England,"End of loanDec 31, 1993",In,1993,w,premier-league
 Blackburn Rovers,Tim Flowers,26,England,Goalkeeper,GK,-,Southampton FC,England,£3.42m,In,1993,w,premier-league
 Blackburn Rovers,David Batty,25,England,Defensive Midfield,DM,-,Leeds United,England,£3.40m,In,1993,w,premier-league
 Blackburn Rovers,Peter Thorne,20,England,Centre-Forward,CF,-,Wigan Athletic,England,"End of loanMar 1, 1994",In,1993,w,premier-league
-Southampton FC,Jim Magilton,24,Northern Ireland,Right Midfield,RM,-,Oxford United,England,£720k,In,1993,w,premier-league
-Southampton FC,Neil Heaney,22,England,Right Winger,RW,-,Arsenal FC,England,£342k,In,1993,w,premier-league
-Southampton FC,Dave Beasant,34,England,Goalkeeper,GK,-,Chelsea FC,England,£342k,In,1993,w,premier-league
-Southampton FC,Craig Maskell,25,England,Centre-Forward,CF,-,Swindon Town,England,£315k,In,1993,w,premier-league
+Southampton FC,Jim Magilton,24,Northern Ireland,Right Midfield,RM,-,Oxford United,England,£720Th.,In,1993,w,premier-league
+Southampton FC,Neil Heaney,22,England,Right Winger,RW,-,Arsenal FC,England,£342Th.,In,1993,w,premier-league
+Southampton FC,Dave Beasant,34,England,Goalkeeper,GK,-,Chelsea FC,England,£342Th.,In,1993,w,premier-league
+Southampton FC,Craig Maskell,25,England,Centre-Forward,CF,-,Swindon Town,England,£315Th.,In,1993,w,premier-league
 Southampton FC,Peter Reid,37,England,Defensive Midfield,DM,-,Manchester City,England,Free transfer,In,1993,w,premier-league
 Manchester City,David Rocastle,26,England,Attacking Midfield,AM,-,Leeds United,England,£2.16m,In,1993,w,premier-league
-Manchester City,Uwe Rösler,25,Germany,Centre-Forward,CF,-,1.FC Nuremberg,Germany,£900k,In,1993,w,premier-league
-Manchester City,Paul Walsh,31,England,Centre-Forward,CF,-,Portsmouth FC,England,£765k,In,1993,w,premier-league
+Manchester City,Uwe Rösler,25,Germany,Centre-Forward,CF,-,1.FC Nuremberg,Germany,£900Th.,In,1993,w,premier-league
+Manchester City,Paul Walsh,31,England,Centre-Forward,CF,-,Portsmouth FC,England,£765Th.,In,1993,w,premier-league
 Manchester City,Steffen Karl,23,Germany,Defensive Midfield,DM,-,Borussia Dortmund,Germany,Free transfer,In,1993,w,premier-league
 Manchester City,Peter Beagrie,28,England,Midfielder,Midfielder,-,Everton FC,England,?,In,1993,w,premier-league
 Manchester City,Carl-Steven Shutt,32,England,Forward,Forward,-,Birmingham City,England,?,In,1993,w,premier-league
 Manchester City,Martyn Margetson,22,Wales,Goalkeeper,GK,-,Bristol Rovers,England,"End of loanDec 31, 1993",In,1993,w,premier-league
-Sheffield United,Nathan Blake,21,Wales,Centre-Forward,CF,-,Cardiff City,Wales,£378k,In,1993,w,premier-league
+Sheffield United,Nathan Blake,21,Wales,Centre-Forward,CF,-,Cardiff City,Wales,£378Th.,In,1993,w,premier-league
 Sheffield United,Bobby Davison,34,England,Forward,Forward,-,Leicester City,England,Free transfer,In,1993,w,premier-league
 Sheffield United,Roger Nilsen,24,Norway,Centre-Back,CB,-,Viking Stavanger,Norway,?,In,1993,w,premier-league
 Sheffield United,Tom Cowan,24,Scotland,Left-Back,LB,-,Stoke City,England,?,In,1993,w,premier-league
-Swindon Town,Brian Kilcline,31,England,Centre-Back,CB,-,Newcastle United,England,£101k,In,1993,w,premier-league
+Swindon Town,Brian Kilcline,31,England,Centre-Back,CB,-,Newcastle United,England,£101Th.,In,1993,w,premier-league
 West Ham United,Gary Kelly,27,Ireland,Goalkeeper,GK,-,Bury FC,England,Loan,In,1993,w,premier-league
 West Ham United,Paul Mitchell,22,England,Midfielder,Midfielder,-,AFC Bournemouth,England,?,In,1993,w,premier-league
 West Ham United,Colin Foster,29,England,Centre-Back,CB,-,Notts County,England,"End of loanMar 22, 1994",In,1993,w,premier-league
-Leeds United,John Pemberton,28,England,Centre-Back,CB,-,Sheffield United,England,£282k,In,1993,w,premier-league
+Leeds United,John Pemberton,28,England,Centre-Back,CB,-,Sheffield United,England,£282Th.,In,1993,w,premier-league
 Leeds United,David White,26,England,Right Winger,RW,-,Manchester City,England,?,In,1993,w,premier-league
-Aston Villa,Scott Murray,19,Scotland,Right Midfield,RM,-,Fraserburgh FC,Scotland,£45k,In,1993,w,premier-league
+Aston Villa,Scott Murray,19,Scotland,Right Midfield,RM,-,Fraserburgh FC,Scotland,£45Th.,In,1993,w,premier-league
 Chelsea FC,Mark Stein,27,England,Centre-Forward,CF,-,Stoke City,England,£1.50m,In,1993,w,premier-league
 Chelsea FC,Steve Livingstone,24,England,Centre-Forward,CF,-,Port Vale FC,England,"End of loanOct 28, 1993",In,1993,w,premier-league
 Newcastle United,Andy Cole,22,England,Centre-Forward,CF,-,Bristol City,England,£2.43m,In,1993,w,premier-league
 Newcastle United,Ruel Fox,26,Montserrat,Right Winger,RW,-,Norwich City,England,£2.25m,In,1993,w,premier-league
-Newcastle United,Chris Holland,18,England,Central Midfield,CM,-,Preston North End,England,£107k,In,1993,w,premier-league
+Newcastle United,Chris Holland,18,England,Central Midfield,CM,-,Preston North End,England,£107Th.,In,1993,w,premier-league
 Newcastle United,Brian Reid,23,Scotland,Centre-Back,CB,-,Rangers FC,Scotland,Loan,In,1993,w,premier-league
 Manchester United,Ben Thornley,18,England,Forward,Forward,-,Manchester United U23,England,-,In,1993,w,premier-league
 Manchester United,Simon Davies,19,Wales,Midfielder,Midfielder,-,Exeter City,England,"End of loanDec 31, 1993",In,1993,w,premier-league
 Manchester United,Neil Whitworth,21,England,Centre-Back,CB,-,Rotherham United,England,"End of loanNov 1, 1993",In,1993,w,premier-league
 Manchester United,Keith Gillespie,18,Northern Ireland,Central Midfield,CM,-,Wigan Athletic,England,"End of loanNov 1, 1993",In,1993,w,premier-league
-Coventry City,Julian Darby,25,England,Midfielder,Midfielder,-,Bolton Wanderers,England,£162k,In,1993,w,premier-league
-Coventry City,Ally Pickering,26,England,Defender,Defender,-,Rotherham United,England,£90k,In,1993,w,premier-league
+Coventry City,Julian Darby,25,England,Midfielder,Midfielder,-,Bolton Wanderers,England,£162Th.,In,1993,w,premier-league
+Coventry City,Ally Pickering,26,England,Defender,Defender,-,Rotherham United,England,£90Th.,In,1993,w,premier-league
 Coventry City,Chris Marsden,24,England,Left Midfield,LM,-,Huddersfield Town,England,Loan,In,1993,w,premier-league
 Coventry City,Leigh Jenkinson,24,Wales,Midfielder,Midfielder,-,Birmingham City,England,"End of loanDec 31, 1993",In,1993,w,premier-league
 Coventry City,Paul Williams,24,England,Defender,Defender,-,West Bromwich Albion,England,"End of loanDec 31, 1993",In,1993,w,premier-league
-Wimbledon FC,Marcus Gayle,23,Jamaica,Centre-Forward,CF,-,Brentford FC,England,£338k,In,1993,w,premier-league
-Sheffield Wednesday,Simon Coleman,25,England,Defender,Defender,-,Derby County,England,£344k,In,1993,w,premier-league
-Sheffield Wednesday,Adem Poric,20,Australia,Central Midfield,CM,-,St. George Saints,Australia,£65k,In,1993,w,premier-league
+Wimbledon FC,Marcus Gayle,23,Jamaica,Centre-Forward,CF,-,Brentford FC,England,£338Th.,In,1993,w,premier-league
+Sheffield Wednesday,Simon Coleman,25,England,Defender,Defender,-,Derby County,England,£344Th.,In,1993,w,premier-league
+Sheffield Wednesday,Adem Poric,20,Australia,Central Midfield,CM,-,St. George Saints,Australia,£65Th.,In,1993,w,premier-league
 Queens Park Rangers,Danny Dichio,19,England,Centre-Forward,CF,-,Barnet FC,England,"End of loanFeb 1, 1994",In,1993,w,premier-league
 Queens Park Rangers,Dennis Bailey,28,England,Forward,Forward,-,Charlton Athletic,England,"End of loanDec 31, 1993",In,1993,w,premier-league
 Queens Park Rangers,Alan McCarthy,22,Wales,Defender,Defender,-,Watford FC,England,"End of loanFeb 10, 1994",In,1993,w,premier-league
-Oldham Athletic,Sean McCarthy,26,Wales,Forward,Forward,-,Bradford City,England,£565k,In,1993,w,premier-league
+Oldham Athletic,Sean McCarthy,26,Wales,Forward,Forward,-,Bradford City,England,£565Th.,In,1993,w,premier-league
 Oldham Athletic,Tore Pedersen,24,Norway,Centre-Back,CB,-,SK Brann,Norway,?,In,1993,w,premier-league
-Norwich City,Neil Adams,28,England,Right-Back,RB,-,Oldham Athletic,England,£338k,In,1993,w,premier-league
+Norwich City,Neil Adams,28,England,Right-Back,RB,-,Oldham Athletic,England,£338Th.,In,1993,w,premier-league
 Norwich City,Mark Walton,24,Wales,Goalkeeper,GK,-,Dundee United FC,Scotland,"End of loanDec 31, 1993",In,1993,w,premier-league
 Norwich City,Ade Akinbiyi,19,Nigeria,Centre-Forward,CF,-,Hereford United (liq.),England,"End of loanFeb 1, 1994",In,1993,w,premier-league
-Arsenal FC,Neil Heaney,22,England,Right Winger,RW,-,Southampton FC,England,£342k,Out,1993,w,premier-league
+Arsenal FC,Neil Heaney,22,England,Right Winger,RW,-,Southampton FC,England,£342Th.,Out,1993,w,premier-league
 Arsenal FC,Paul Dickov,20,Scotland,Centre-Forward,CF,-,Luton Town,England,Loan,Out,1993,w,premier-league
 Arsenal FC,Paul Dickov,21,Scotland,Centre-Forward,CF,-,Brighton & Hove Albion,England,Loan,Out,1993,w,premier-league
 Arsenal FC,Pal Lydersen,28,Norway,Left-Back,LB,-,IK Start,Norway,?,Out,1993,w,premier-league
@@ -340,21 +341,21 @@ Everton FC,Mo Johnston,30,Scotland,Centre-Forward,CF,-,Heart of Midlothian FC,Sc
 Everton FC,Peter Beagrie,28,England,Midfielder,Midfielder,-,Manchester City,England,?,Out,1993,w,premier-league
 Everton FC,Billy Kenny,20,England,Midfielder,Midfielder,-,,Unknown,?,Out,1993,w,premier-league
 Everton FC,Brett Angell,25,England,Centre-Forward,CF,-,Southend United,England,"End of loanDec 31, 1993",Out,1993,w,premier-league
-Liverpool FC,Ronny Rosenthal,30,Israel,Left Winger,LW,-,Tottenham Hotspur,England,£270k,Out,1993,w,premier-league
+Liverpool FC,Ronny Rosenthal,30,Israel,Left Winger,LW,-,Tottenham Hotspur,England,£270Th.,Out,1993,w,premier-league
 Liverpool FC,Paul Stewart,29,England,Defensive Midfield,DM,-,Crystal Palace,England,Loan,Out,1993,w,premier-league
 Liverpool FC,Mark Walters,29,England,Left Midfield,LM,-,Stoke City,England,Loan,Out,1993,w,premier-league
 Liverpool FC,Stig Inge Björnebye,24,Norway,Left-Back,LB,-,Rosenborg BK,Norway,Loan,Out,1993,w,premier-league
 Liverpool FC,Mark Gayle,24,England,Goalkeeper,GK,-,Crewe Alexandra,England,"End of loanMar 25, 1994",Out,1993,w,premier-league
 Liverpool FC,Nick Tanner,28,England,Centre-Back,CB,-,,Retired,-,Out,1993,w,premier-league
-Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Plymouth Argyle,England,Free transfer,Out,1993,w,premier-league
+Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Plymouth Argyle,England,Loan,Out,1993,w,premier-league
 Tottenham Hotspur,Lee Hodges,20,England,Left Midfield,LM,-,Wycombe Wanderers,England,Loan,Out,1993,w,premier-league
 Tottenham Hotspur,Peter Beadle,21,England,Forward,Forward,-,Southend United,England,Loan,Out,1993,w,premier-league
 Tottenham Hotspur,Steve Robinson,19,Northern Ireland,Attacking Midfield,AM,-,Leyton Orient,England,Loan,Out,1993,w,premier-league
-Blackburn Rovers,Patrik Andersson,22,Sweden,Centre-Back,CB,-,Borussia Mönchengladbach,Germany,£495k,Out,1993,w,premier-league
+Blackburn Rovers,Patrik Andersson,22,Sweden,Centre-Back,CB,-,Borussia Mönchengladbach,Germany,£495Th.,Out,1993,w,premier-league
 Blackburn Rovers,Peter Thorne,20,England,Centre-Forward,CF,-,Wigan Athletic,England,Loan,Out,1993,w,premier-league
 Blackburn Rovers,Simon Ireland,22,England,Midfielder,Midfielder,-,Mansfield Town,England,Loan,Out,1993,w,premier-league
 Southampton FC,Tim Flowers,26,England,Goalkeeper,GK,-,Blackburn Rovers,England,£3.42m,Out,1993,w,premier-league
-Southampton FC,Paul Moody,26,England,Forward,Forward,-,Oxford United,England,£63k,Out,1993,w,premier-league
+Southampton FC,Paul Moody,26,England,Forward,Forward,-,Oxford United,England,£63Th.,Out,1993,w,premier-league
 Southampton FC,Peter Reid,37,England,Defensive Midfield,DM,-,Notts County,England,Free transfer,Out,1993,w,premier-league
 Southampton FC,Kerry Dixon,32,England,Centre-Forward,CF,-,Luton Town,England,Free transfer,Out,1993,w,premier-league
 Southampton FC,Glenn Cockerill,34,England,Central Midfield,CM,-,Leyton Orient,England,?,Out,1993,w,premier-league
@@ -364,45 +365,45 @@ Manchester City,Martyn Margetson,22,Wales,Goalkeeper,GK,-,Bolton Wanderers,Engla
 Manchester City,Martyn Margetson,22,Wales,Goalkeeper,GK,-,Bristol Rovers,England,Loan,Out,1993,w,premier-league
 Manchester City,Peter Reid,37,England,Defensive Midfield,DM,-,Southampton FC,England,Free transfer,Out,1993,w,premier-league
 Manchester City,David White,26,England,Right Winger,RW,-,Leeds United,England,?,Out,1993,w,premier-league
-Sheffield United,John Pemberton,28,England,Centre-Back,CB,-,Leeds United,England,£282k,Out,1993,w,premier-league
+Sheffield United,John Pemberton,28,England,Centre-Back,CB,-,Leeds United,England,£282Th.,Out,1993,w,premier-league
 Sheffield United,Jamie Hoyland,28,England,Midfielder,Midfielder,-,Bristol City,England,Loan,Out,1993,w,premier-league
 Sheffield United,Willie Falconer,27,Scotland,Centre-Forward,CF,-,Celtic FC,Scotland,?,Out,1993,w,premier-league
 Sheffield United,John Gannon,26,England,Midfielder,Midfielder,-,Middlesbrough FC,England,Loan,Out,1993,w,premier-league
-Swindon Town,Craig Maskell,25,England,Centre-Forward,CF,-,Southampton FC,England,£315k,Out,1993,w,premier-league
-Swindon Town,Micky Hazard,33,England,Central Midfield,CM,-,Tottenham Hotspur,England,£50k,Out,1993,w,premier-league
-West Ham United,Mark Robson,24,England,Midfielder,Midfielder,-,Charlton Athletic,England,£140k,Out,1993,w,premier-league
-West Ham United,Colin Foster,29,England,Centre-Back,CB,-,Watford FC,England,£113k,Out,1993,w,premier-league
-West Ham United,Clive Allen,32,England,Centre-Forward,CF,-,Millwall FC,England,£77k,Out,1993,w,premier-league
-West Ham United,Colin Foster,29,England,Centre-Back,CB,-,Notts County,England,Loan,Out,1993,w,premier-league
-West Ham United,Matthew Rush,22,England,Midfielder,Midfielder,-,Swansea City,Wales,Loan,Out,1993,w,premier-league
+Swindon Town,Craig Maskell,25,England,Centre-Forward,CF,-,Southampton FC,England,£315Th.,Out,1993,w,premier-league
+Swindon Town,Micky Hazard,33,England,Central Midfield,CM,-,Tottenham Hotspur,England,£50Th.,Out,1993,w,premier-league
+West Ham United,Mark Robson,24,England,Midfielder,Midfielder,-,Charlton Athletic,England,£140Th.,Out,1993,w,premier-league
+West Ham United,Colin Foster,29,England,Centre-Back,CB,-,Watford FC,England,£113Th.,Out,1993,w,premier-league
+West Ham United,Clive Allen,32,England,Centre-Forward,CF,-,Millwall FC,England,£77Th.,Out,1993,w,premier-league
 West Ham United,Paul Marquis,21,England,Centre-Back,CB,-,Doncaster Rovers,England,Free transfer,Out,1993,w,premier-league
 West Ham United,Mitchell Thomas,29,England,Left-Back,LB,-,Luton Town,England,Free transfer,Out,1993,w,premier-league
-West Ham United,Daniel Williamson,19,England,Attacking Midfield,AM,-,Doncaster Rovers,England,Loan,Out,1993,w,premier-league
+West Ham United,Colin Foster,29,England,Centre-Back,CB,-,Notts County,England,Loan,Out,1993,w,premier-league
+West Ham United,Matthew Rush,22,England,Midfielder,Midfielder,-,Swansea City,Wales,Loan,Out,1993,w,premier-league
 West Ham United,Jeroen Boere,26,Netherlands,Centre-Forward,CF,-,Portsmouth FC,England,Loan,Out,1993,w,premier-league
+West Ham United,Daniel Williamson,19,England,Attacking Midfield,AM,-,Doncaster Rovers,England,Loan,Out,1993,w,premier-league
 Leeds United,David Batty,25,England,Defensive Midfield,DM,-,Blackburn Rovers,England,£3.40m,Out,1993,w,premier-league
 Leeds United,David Rocastle,26,England,Attacking Midfield,AM,-,Manchester City,England,£2.16m,Out,1993,w,premier-league
-Leeds United,Frank Strandli,21,Norway,Centre-Forward,CF,-,SK Brann,Norway,£135k,Out,1993,w,premier-league
+Leeds United,Frank Strandli,21,Norway,Centre-Forward,CF,-,SK Brann,Norway,£135Th.,Out,1993,w,premier-league
 Leeds United,Ray Wallace,24,England,Defender,Defender,-,Reading FC,England,Loan,Out,1993,w,premier-league
 Leeds United,Mel Sterland,32,England,Right-Back,RB,-,Boston United,England,?,Out,1993,w,premier-league
-Aston Villa,Gordon Cowans,35,England,Midfielder,Midfielder,-,Derby County,England,£207k,Out,1993,w,premier-league
-Aston Villa,Guy Whittingham,29,England,Forward,Forward,-,Wolverhampton Wanderers,England,Loan,Out,1993,w,premier-league
+Aston Villa,Gordon Cowans,35,England,Midfielder,Midfielder,-,Derby County,England,£207Th.,Out,1993,w,premier-league
 Aston Villa,Michael Oakes,20,England,Goalkeeper,GK,-,Scarborough Athletic,England,Loan,Out,1993,w,premier-league
-Aston Villa,Chris Boden,20,England,Defender,Defender,-,Barnsley FC,England,Loan,Out,1993,w,premier-league
-Aston Villa,Lee Williams,21,England,Midfielder,Midfielder,-,Peterborough United,England,?,Out,1993,w,premier-league
+Aston Villa,Guy Whittingham,29,England,Forward,Forward,-,Wolverhampton Wanderers,England,Loan,Out,1993,w,premier-league
 Aston Villa,Frank McAvennie,34,Scotland,Centre-Forward,CF,-,Celtic FC,Scotland,?,Out,1993,w,premier-league
 Aston Villa,Dariusz Kubicki,30,Poland,Right-Back,RB,-,Sunderland AFC,England,Loan,Out,1993,w,premier-league
-Chelsea FC,Dave Beasant,34,England,Goalkeeper,GK,-,Southampton FC,England,£342k,Out,1993,w,premier-league
-Chelsea FC,Damian Matthew,23,England,Midfielder,Midfielder,-,Crystal Palace,England,£168k,Out,1993,w,premier-league
-Chelsea FC,Steve Livingstone,24,England,Centre-Forward,CF,-,Grimsby Town,England,£135k,Out,1993,w,premier-league
+Aston Villa,Chris Boden,20,England,Defender,Defender,-,Barnsley FC,England,Loan,Out,1993,w,premier-league
+Aston Villa,Lee Williams,21,England,Midfielder,Midfielder,-,Peterborough United,England,?,Out,1993,w,premier-league
+Chelsea FC,Dave Beasant,34,England,Goalkeeper,GK,-,Southampton FC,England,£342Th.,Out,1993,w,premier-league
+Chelsea FC,Damian Matthew,23,England,Midfielder,Midfielder,-,Crystal Palace,England,£168Th.,Out,1993,w,premier-league
+Chelsea FC,Steve Livingstone,24,England,Centre-Forward,CF,-,Grimsby Town,England,£135Th.,Out,1993,w,premier-league
 Ipswich Town,Neil Gregory,21,Zambia,Centre-Forward,CF,-,Chesterfield FC,England,Loan,Out,1993,w,premier-league
-Ipswich Town,Steve Whitton,33,England,Forward,Forward,-,Colchester United,England,£11k,Out,1993,w,premier-league
-Newcastle United,Kevin Scott,27,England,Defender,Defender,-,Tottenham Hotspur,England,£990k,Out,1993,w,premier-league
-Newcastle United,Brian Kilcline,31,England,Centre-Back,CB,-,Swindon Town,England,£101k,Out,1993,w,premier-league
-Newcastle United,John Burridge,41,England,Goalkeeper,GK,-,Scarborough FC (diss.),England,Free transfer,Out,1993,w,premier-league
+Ipswich Town,Steve Whitton,33,England,Forward,Forward,-,Colchester United,England,£11Th.,Out,1993,w,premier-league
+Newcastle United,Kevin Scott,27,England,Defender,Defender,-,Tottenham Hotspur,England,£990Th.,Out,1993,w,premier-league
+Newcastle United,Brian Kilcline,31,England,Centre-Back,CB,-,Swindon Town,England,£101Th.,Out,1993,w,premier-league
 Newcastle United,Matty Appleby,21,England,Midfielder,Midfielder,-,Darlington FC (liq.),England,Loan,Out,1993,w,premier-league
+Newcastle United,John Burridge,41,England,Goalkeeper,GK,-,Scarborough FC (diss.),England,Free transfer,Out,1993,w,premier-league
 Newcastle United,Kevin Brock,31,England,Midfielder,Midfielder,-,Cardiff City,Wales,Loan,Out,1993,w,premier-league
-Manchester United,Darren Ferguson,21,Scotland,Central Midfield,CM,-,Wolverhampton Wanderers,England,£338k,Out,1993,w,premier-league
-Manchester United,Danny Wallace,29,England,Attacking Midfield,AM,-,Birmingham City,England,£270k,Out,1993,w,premier-league
+Manchester United,Darren Ferguson,21,Scotland,Central Midfield,CM,-,Wolverhampton Wanderers,England,£338Th.,Out,1993,w,premier-league
+Manchester United,Danny Wallace,29,England,Attacking Midfield,AM,-,Birmingham City,England,£270Th.,Out,1993,w,premier-league
 Manchester United,Neil Whitworth,21,England,Centre-Back,CB,-,Rotherham United,England,Loan,Out,1993,w,premier-league
 Manchester United,Neil Whitworth,21,England,Centre-Back,CB,-,Blackpool FC,England,Loan,Out,1993,w,premier-league
 Manchester United,Simon Davies,19,Wales,Midfielder,Midfielder,-,Exeter City,England,Loan,Out,1993,w,premier-league
@@ -410,7 +411,7 @@ Manchester United,Lee Martin,25,England,Left-Back,LB,-,Celtic FC,Scotland,?,Out,
 Coventry City,Paul Williams,24,England,Defender,Defender,-,West Bromwich Albion,England,Loan,Out,1993,w,premier-league
 Coventry City,Zbigniew Kruszyński,33,Poland,Defender,Defender,-,Peterborough United,England,?,Out,1993,w,premier-league
 Coventry City,Chris Marsden,25,England,Left Midfield,LM,-,Huddersfield Town,England,"End of loanJan 10, 1994",Out,1993,w,premier-league
-Wimbledon FC,Greg Berry,23,England,Midfielder,Midfielder,-,Millwall FC,England,£225k,Out,1993,w,premier-league
+Wimbledon FC,Greg Berry,23,England,Midfielder,Midfielder,-,Millwall FC,England,£225Th.,Out,1993,w,premier-league
 Wimbledon FC,Aidan Newhouse,21,England,Forward,Forward,-,Port Vale FC,England,Loan,Out,1993,w,premier-league
 Wimbledon FC,Steve Anthrobus,25,England,Centre-Forward,CF,-,Peterborough United,England,Loan,Out,1993,w,premier-league
 Wimbledon FC,Perry Digweed,34,England,Goalkeeper,GK,-,Watford FC,England,?,Out,1993,w,premier-league
@@ -421,7 +422,7 @@ Queens Park Rangers,Alan McCarthy,21,Wales,Defender,Defender,-,Watford FC,Englan
 Queens Park Rangers,Alan McCarthy,22,Wales,Defender,Defender,-,Plymouth Argyle,England,Loan,Out,1993,w,premier-league
 Queens Park Rangers,Dennis Bailey,27,England,Forward,Forward,-,Charlton Athletic,England,Loan,Out,1993,w,premier-league
 Queens Park Rangers,Robbie Herrera,23,England,Right-Back,RB,-,Fulham FC,England,?,Out,1993,w,premier-league
-Oldham Athletic,Neil Adams,28,England,Right-Back,RB,-,Norwich City,England,£338k,Out,1993,w,premier-league
+Oldham Athletic,Neil Adams,28,England,Right-Back,RB,-,Norwich City,England,£338Th.,Out,1993,w,premier-league
 Oldham Athletic,Gunnar Halle,28,Norway,Right-Back,RB,-,Lillestrøm SK,Norway,Loan,Out,1993,w,premier-league
 Oldham Athletic,Neil Tolson,20,England,Centre-Forward,CF,-,Bradford City,England,?,Out,1993,w,premier-league
 Oldham Athletic,Andy Barlow,27,England,Left-Back,LB,-,Bradford City,England,Loan,Out,1993,w,premier-league

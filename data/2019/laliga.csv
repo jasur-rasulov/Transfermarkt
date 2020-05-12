@@ -1,0 +1,832 @@
+Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
+FC Barcelona,Antoine Griezmann,28,France,Second Striker,SS,£117.00m,Atlético Madrid,Spain,£108.00m,In,2019,s,laliga
+FC Barcelona,Frenkie de Jong,22,Netherlands,Central Midfield,CM,£76.50m,Ajax Amsterdam,Netherlands,£67.50m,In,2019,s,laliga
+FC Barcelona,Neto,29,Brazil,Goalkeeper,GK,£16.20m,Valencia CF,Spain,£23.40m,In,2019,s,laliga
+FC Barcelona,Júnior Firpo,22,Spain,Left-Back,LB,£22.50m,Real Betis Balompié,Spain,£16.20m,In,2019,s,laliga
+FC Barcelona,Emerson,20,Brazil,Right-Back,RB,£2.70m,Clube Atlético Mineiro,Brazil,£10.80m,In,2019,s,laliga
+FC Barcelona,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,SD Eibar,Spain,£3.60m,In,2019,s,laliga
+FC Barcelona,Ansu Fati,16,Spain,Left Winger,LW,-,FC Barcelona U19,Spain,-,In,2019,s,laliga
+FC Barcelona,Oriol Busquets,20,Spain,Defensive Midfield,DM,£2.25m,FC Barcelona B,Spain,-,In,2019,s,laliga
+FC Barcelona,Juan Miranda,19,Spain,Left-Back,LB,£4.50m,FC Barcelona B,Spain,-,In,2019,s,laliga
+FC Barcelona,Moussa Wagué,20,Senegal,Right-Back,RB,£4.50m,FC Barcelona B,Spain,-,In,2019,s,laliga
+FC Barcelona,Carles Pérez,21,Spain,Right Winger,RW,£1.35m,FC Barcelona B,Spain,-,In,2019,s,laliga
+FC Barcelona,Marc Cardona,23,Spain,Centre-Forward,CF,£1.35m,SD Eibar,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,André Gomes,25,Portugal,Central Midfield,CM,£25.20m,Everton FC,England,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,SD Eibar,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Adrián Ortolá,25,Spain,Goalkeeper,GK,£900Th.,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Paco Alcácer,25,Spain,Centre-Forward,CF,£33.30m,Borussia Dortmund,Germany,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Douglas,28,Brazil,Right-Back,RB,£1.80m,Sivasspor,Turkey,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Sergi Palencia,23,Spain,Right-Back,RB,£5.40m,FC Girondins Bordeaux,France,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Denis Suárez,25,Spain,Left Winger,LW,£10.80m,Arsenal FC,England,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,João Félix,19,Portugal,Second Striker,SS,£63.00m,SL Benfica,Portugal,£113.40m,In,2019,s,laliga
+Atlético Madrid,Marcos Llorente,24,Spain,Defensive Midfield,DM,£18.00m,Real Madrid,Spain,£27.00m,In,2019,s,laliga
+Atlético Madrid,Mario Hermoso,24,Spain,Centre-Back,CB,£22.50m,RCD Espanyol Barcelona,Spain,£22.50m,In,2019,s,laliga
+Atlético Madrid,Kieran Trippier,28,England,Right-Back,RB,£31.50m,Tottenham Hotspur,England,£19.80m,In,2019,s,laliga
+Atlético Madrid,Felipe,30,Brazil,Centre-Back,CB,£18.00m,FC Porto,Portugal,£18.00m,In,2019,s,laliga
+Atlético Madrid,Renan Lodi,21,Brazil,Left-Back,LB,£3.60m,Club Athletico Paranaense,Brazil,£18.00m,In,2019,s,laliga
+Atlético Madrid,Ivan Saponjic,21,Serbia,Centre-Forward,CF,£810Th.,SL Benfica B,Portugal,£450Th.,In,2019,s,laliga
+Atlético Madrid,Héctor Herrera,29,Mexico,Central Midfield,CM,£19.80m,FC Porto,Portugal,Free transfer,In,2019,s,laliga
+Atlético Madrid,Nicolás Ibáñez,24,Argentina,Centre-Forward,CF,£900Th.,Atlético de San Luis,Mexico,?,In,2019,s,laliga
+Atlético Madrid,Francisco Montero,20,Spain,Centre-Back,CB,£9.00m,Atlético Madrid B,Spain,-,In,2019,s,laliga
+Atlético Madrid,Víctor Mollejo,18,Spain,Right Winger,RW,£2.25m,Atlético Madrid B,Spain,-,In,2019,s,laliga
+Atlético Madrid,Bernard Mensah,24,Ghana,Attacking Midfield,AM,£2.07m,Kayserispor,Turkey,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,André Moreira,23,Portugal,Goalkeeper,GK,£720Th.,CD Feirense,Portugal,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,Axel Werner,23,Argentina,Goalkeeper,GK,£540Th.,Málaga CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,Luciano Vietto,25,Argentina,Centre-Forward,CF,£6.30m,Fulham FC,England,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,Héctor Hernández,23,Spain,Centre-Forward,CF,£630Th.,CF Rayo Majadahonda,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,Sime Vrsaljko,27,Croatia,Right-Back,RB,£18.00m,Inter Milan,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Atlético Madrid,Gelson Martins,24,Portugal,Right Winger,RW,£25.20m,AS Monaco,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Eden Hazard,28,Belgium,Left Winger,LW,£135.00m,Chelsea FC,England,£90.00m,In,2019,s,laliga
+Real Madrid,Luka Jovic,21,Serbia,Centre-Forward,CF,£54.00m,Eintracht Frankfurt,Germany,£54.00m,In,2019,s,laliga
+Real Madrid,Éder Militão,21,Brazil,Centre-Back,CB,£45.00m,FC Porto,Portugal,£45.00m,In,2019,s,laliga
+Real Madrid,Ferland Mendy,24,France,Left-Back,LB,£27.00m,Olympique Lyon,France,£43.20m,In,2019,s,laliga
+Real Madrid,Rodrygo,18,Brazil,Right Winger,RW,£36.00m,Santos FC,Brazil,£40.50m,In,2019,s,laliga
+Real Madrid,Alberto Soro,20,Spain,Right Winger,RW,£2.70m,Real Zaragoza,Spain,£2.25m,In,2019,s,laliga
+Real Madrid,Alphonse Areola,26,France,Goalkeeper,GK,£15.75m,Paris Saint-Germain,France,Loan fee:£1.80m,In,2019,s,laliga
+Real Madrid,Takefusa Kubo,18,Japan,Right Winger,RW,£1.80m,FC Tokyo,Japan,Free transfer,In,2019,s,laliga
+Real Madrid,Jorge de Frutos,22,Spain,Right Winger,RW,£4.50m,Real Madrid Castilla,Spain,-,In,2019,s,laliga
+Real Madrid,Javi Sánchez,22,Spain,Centre-Back,CB,£1.80m,Real Madrid Castilla,Spain,-,In,2019,s,laliga
+Real Madrid,Lucas Silva,26,Brazil,Defensive Midfield,DM,£1.80m,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Theo Hernández,21,France,Left-Back,LB,£13.50m,Real Sociedad,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£6.75m,CD Leganés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Mateo Kovacic,25,Croatia,Central Midfield,CM,£31.50m,Chelsea FC,England,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Raúl de Tomás,24,Spain,Centre-Forward,CF,£18.00m,Rayo Vallecano,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,James Rodríguez,27,Colombia,Attacking Midfield,AM,£45.00m,Bayern Munich,Germany,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Martin Ödegaard,20,Norway,Attacking Midfield,AM,£13.50m,Vitesse Arnhem,Netherlands,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Madrid,Borja Mayoral,22,Spain,Centre-Forward,CF,£3.60m,Levante UD,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Enric Gallego,32,Spain,Centre-Forward,CF,£2.70m,SD Huesca,Spain,£5.40m,In,2019,s,laliga
+Getafe CF,Allan Nyom,31,Cameroon,Right-Back,RB,£2.70m,West Bromwich Albion,England,£2.70m,In,2019,s,laliga
+Getafe CF,Fayçal Fajr,31,Morocco,Central Midfield,CM,£4.05m,SM Caen,France,£1.35m,In,2019,s,laliga
+Getafe CF,Jack Harper,23,Scotland,Centre-Forward,CF,£1.35m,Málaga CF,Spain,£1.35m,In,2019,s,laliga
+Getafe CF,David Timor,29,Spain,Defensive Midfield,DM,£1.35m,UD Las Palmas,Spain,Free transfer,In,2019,s,laliga
+Getafe CF,Raúl Garcia,30,Spain,Left-Back,LB,£900Th.,Girona FC,Spain,Free transfer,In,2019,s,laliga
+Getafe CF,Xabi Etxeita,31,Spain,Centre-Back,CB,£1.80m,Athletic Bilbao,Spain,Free transfer,In,2019,s,laliga
+Getafe CF,Jason,25,Spain,Right Winger,RW,£4.50m,Valencia CF,Spain,Loan,In,2019,s,laliga
+Getafe CF,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,FC Barcelona,Spain,Loan,In,2019,s,laliga
+Getafe CF,Kenedy,23,Brazil,Left Midfield,LM,£9.00m,Chelsea FC,England,Loan,In,2019,s,laliga
+Getafe CF,Filip Manojlovic,23,Serbia,Goalkeeper,GK,£360Th.,Panionios Athens,Greece,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Álvaro Jiménez,24,Spain,Right Winger,RW,£540Th.,Sporting Gijón,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Iván Alejo,24,Spain,Right Winger,RW,£1.08m,Málaga CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Chuli,28,Spain,Centre-Forward,CF,£360Th.,Extremadura UD,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Merveil Ndockyt,20,Congo,Left Winger,LW,£720Th.,FC Barcelona B,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,José Carlos Lazo,23,Spain,Left Winger,LW,£900Th.,CD Lugo,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Getafe CF,Robert Ibáñez,26,Spain,Right Winger,RW,£900Th.,CA Osasuna,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Jasper Cillessen,30,Netherlands,Goalkeeper,GK,£16.20m,FC Barcelona,Spain,£31.50m,In,2019,s,laliga
+Valencia CF,Maxi Gómez,22,Uruguay,Centre-Forward,CF,£36.00m,Celta de Vigo,Spain,£13.05m,In,2019,s,laliga
+Valencia CF,Thierry Correia,20,Portugal,Right-Back,RB,£360Th.,Sporting CP,Portugal,£10.80m,In,2019,s,laliga
+Valencia CF,Denis Cheryshev,28,Russia,Left Winger,LW,£5.40m,Villarreal CF,Spain,£5.40m,In,2019,s,laliga
+Valencia CF,Manu Vallejo,22,Spain,Left Winger,LW,£4.50m,Cádiz CF,Spain,£4.95m,In,2019,s,laliga
+Valencia CF,Jorge Sáenz,22,Spain,Centre-Back,CB,£2.70m,CD Tenerife,Spain,£1.80m,In,2019,s,laliga
+Valencia CF,Salva Ruiz,24,Spain,Left-Back,LB,£360Th.,RCD Mallorca,Spain,Free transfer,In,2019,s,laliga
+Valencia CF,Àlex Carbonell,21,Spain,Central Midfield,CM,£360Th.,Córdoba CF,Spain,Free transfer,In,2019,s,laliga
+Valencia CF,Jason,24,Spain,Right Winger,RW,£4.50m,Levante UD,Spain,Free transfer,In,2019,s,laliga
+Valencia CF,Eliaquim Mangala,28,France,Centre-Back,CB,£9.00m,Manchester City,England,Free transfer,In,2019,s,laliga
+Valencia CF,Jaume Costa,31,Spain,Left-Back,LB,£3.60m,Villarreal CF,Spain,Loan,In,2019,s,laliga
+Valencia CF,Fran Villalba,21,Spain,Attacking Midfield,AM,£1.80m,CD Numancia,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Nacho Gil,23,Spain,Left Winger,LW,£630Th.,Elche CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Rúben Vezo,25,Portugal,Centre-Back,CB,£5.40m,Levante UD,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Aymen Abdennour,29,Tunisia,Centre-Back,CB,£1.80m,Olympique Marseille,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Simone Zaza,28,Italy,Centre-Forward,CF,£9.00m,Torino FC,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Uros Racic,21,Serbia,Central Midfield,CM,£4.50m,CD Tenerife,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Álvaro Medrán,25,Spain,Central Midfield,CM,£1.62m,Rayo Vallecano,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Jeison Murillo,27,Colombia,Centre-Back,CB,£9.00m,FC Barcelona,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Valencia CF,Álex Blanco,20,Spain,Left Winger,LW,£450Th.,Deportivo Alavés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Jules Koundé,20,France,Centre-Back,CB,£13.50m,FC Girondins Bordeaux,France,£22.50m,In,2019,s,laliga
+Sevilla FC,Rony Lopes,23,Portugal,Right Winger,RW,£22.50m,AS Monaco,France,£22.50m,In,2019,s,laliga
+Sevilla FC,Munas Dabbur,27,Israel,Centre-Forward,CF,£13.50m,Red Bull Salzburg,Austria,£15.30m,In,2019,s,laliga
+Sevilla FC,Lucas Ocampos,24,Argentina,Right Winger,RW,£13.50m,Olympique Marseille,France,£13.50m,In,2019,s,laliga
+Sevilla FC,Diego Carlos,26,Brazil,Centre-Back,CB,£11.70m,FC Nantes,France,£13.50m,In,2019,s,laliga
+Sevilla FC,Joan Jordán,24,Spain,Central Midfield,CM,£10.80m,SD Eibar,Spain,£12.60m,In,2019,s,laliga
+Sevilla FC,Luuk de Jong,28,Netherlands,Centre-Forward,CF,£10.80m,PSV Eindhoven,Netherlands,£11.25m,In,2019,s,laliga
+Sevilla FC,Óliver Torres,24,Spain,Central Midfield,CM,£15.30m,FC Porto,Portugal,£9.90m,In,2019,s,laliga
+Sevilla FC,Maximilian Wöber,21,Austria,Centre-Back,CB,£9.00m,Ajax Amsterdam,Netherlands,£9.45m,In,2019,s,laliga
+Sevilla FC,Chicharito,31,Mexico,Centre-Forward,CF,£10.80m,West Ham United,England,£6.98m,In,2019,s,laliga
+Sevilla FC,Fernando,31,Brazil,Defensive Midfield,DM,£4.05m,Galatasaray SK,Turkey,£4.05m,In,2019,s,laliga
+Sevilla FC,Yan Brice,21,Cameroon,Central Midfield,CM,£900Th.,UD Almería,Spain,£450Th.,In,2019,s,laliga
+Sevilla FC,Nemanja Gudelj,27,Serbia,Defensive Midfield,DM,£5.85m,Guangzhou Evergrande Taobao,China,Free transfer,In,2019,s,laliga
+Sevilla FC,Bono,28,Morocco,Goalkeeper,GK,£4.50m,Girona FC,Spain,Loan,In,2019,s,laliga
+Sevilla FC,Sergio Reguilón,22,Spain,Left-Back,LB,£13.50m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Sevilla FC,Javi Díaz,22,Spain,Goalkeeper,GK,£180Th.,Sevilla Atlético,Spain,-,In,2019,s,laliga
+Sevilla FC,Giorgi Aburjania,24,Georgia,Central Midfield,CM,£720Th.,CD Lugo,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Sébastien Corchia,28,France,Right-Back,RB,£1.80m,SL Benfica,Portugal,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Luis Muriel,28,Colombia,Centre-Forward,CF,£11.70m,ACF Fiorentina,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Marc Gual,23,Spain,Centre-Forward,CF,£900Th.,Real Zaragoza,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Carlos Fernández,23,Spain,Centre-Forward,CF,£1.80m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Sergio Rico,25,Spain,Goalkeeper,GK,£10.80m,Fulham FC,England,"End of loanJun 30, 2019",In,2019,s,laliga
+Sevilla FC,Alejandro Pozo,20,Spain,Right Winger,RW,£2.25m,Granada CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Athletic Bilbao,Peru Nolaskoain,20,Spain,Defensive Midfield,DM,£4.50m,Bilbao Athletic,Spain,-,In,2019,s,laliga
+Athletic Bilbao,Iñigo Vicente,21,Spain,Left Winger,LW,£900Th.,Bilbao Athletic,Spain,-,In,2019,s,laliga
+Athletic Bilbao,Asier Villalibre,21,Spain,Centre-Forward,CF,£1.80m,Bilbao Athletic,Spain,-,In,2019,s,laliga
+Athletic Bilbao,Gaizka Larrazabal,21,Spain,Right Winger,RW,£270Th.,Bilbao Athletic,Spain,-,In,2019,s,laliga
+Athletic Bilbao,Hodei Oleaga,22,Spain,Goalkeeper,GK,£180Th.,Bilbao Athletic,Spain,-,In,2019,s,laliga
+Athletic Bilbao,Mikel Vesga,26,Spain,Defensive Midfield,DM,£3.60m,CD Leganés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Athletic Bilbao,Sabin Merino,27,Spain,Centre-Forward,CF,£900Th.,CD Leganés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Athletic Bilbao,Andoni López,23,Spain,Left-Back,LB,£450Th.,UD Almería,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Athletic Bilbao,Xabi Etxeita,31,Spain,Centre-Back,CB,£1.80m,SD Huesca,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Athletic Bilbao,Cristian Ganea,27,Romania,Left-Back,LB,£900Th.,CD Numancia,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Sociedad,Portu,27,Spain,Right Winger,RW,£9.00m,Girona FC,Spain,£9.00m,In,2019,s,laliga
+Real Sociedad,Alexander Isak,19,Sweden,Centre-Forward,CF,£7.20m,Borussia Dortmund,Germany,£5.85m,In,2019,s,laliga
+Real Sociedad,Modibo Sagnan,20,France,Centre-Back,CB,£2.70m,RC Lens,France,£4.05m,In,2019,s,laliga
+Real Sociedad,Nacho Monreal,33,Spain,Left-Back,LB,£7.20m,Arsenal FC,England,£225Th.,In,2019,s,laliga
+Real Sociedad,Alex Remiro,24,Spain,Goalkeeper,GK,£1.35m,Athletic Bilbao,Spain,Free transfer,In,2019,s,laliga
+Real Sociedad,Martin Ödegaard,20,Norway,Attacking Midfield,AM,£13.50m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Real Sociedad,Ander Guevara,21,Spain,Central Midfield,CM,£2.25m,Real Sociedad B,Spain,-,In,2019,s,laliga
+Real Sociedad,Alex Sola,20,Spain,Right-Back,RB,£180Th.,Real Sociedad B,Spain,-,In,2019,s,laliga
+Real Sociedad,Ander Barrenetxea,17,Spain,Left Winger,LW,£9.00m,Real Sociedad B,Spain,-,In,2019,s,laliga
+Real Sociedad,Aihen Muñoz,21,Spain,Left-Back,LB,£6.75m,Real Sociedad B,Spain,-,In,2019,s,laliga
+Real Sociedad,Robin Le Normand,22,France,Centre-Back,CB,£3.60m,Real Sociedad B,Spain,-,In,2019,s,laliga
+Real Sociedad,Eneko Capilla,24,Spain,Attacking Midfield,AM,£270Th.,Cultural Leonesa,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Sociedad,Jon Guridi,24,Spain,Central Midfield,CM,£225Th.,CD Mirandés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Espanyol Barcelona,Matías Vargas,22,Argentina,Left Winger,LW,£9.90m,Club Atlético Vélez Sarsfield,Argentina,£9.45m,In,2019,s,laliga
+RCD Espanyol Barcelona,Fernando Calero,23,Spain,Centre-Back,CB,£9.00m,Real Valladolid CF,Spain,£7.20m,In,2019,s,laliga
+RCD Espanyol Barcelona,Ander Iturraspe,30,Spain,Defensive Midfield,DM,£2.25m,Athletic Bilbao,Spain,Free transfer,In,2019,s,laliga
+RCD Espanyol Barcelona,Andrés Prieto,25,Spain,Goalkeeper,GK,£180Th.,CD Leganés,Spain,Free transfer,In,2019,s,laliga
+RCD Espanyol Barcelona,Jonathan Calleri,25,Argentina,Centre-Forward,CF,£8.10m,Club Deportivo Maldonado,Uruguay,Loan,In,2019,s,laliga
+RCD Espanyol Barcelona,Bernardo Espinosa,29,Colombia,Centre-Back,CB,£5.40m,Girona FC,Spain,Loan,In,2019,s,laliga
+RCD Espanyol Barcelona,Sébastien Corchia,28,France,Right-Back,RB,£1.80m,Sevilla FC,Spain,Loan,In,2019,s,laliga
+RCD Espanyol Barcelona,Adrià Pedrosa,21,Spain,Left-Back,LB,£9.00m,RCD Espanyol B,Spain,-,In,2019,s,laliga
+RCD Espanyol Barcelona,Víctor Campuzano,22,Spain,Centre-Forward,CF,£270Th.,RCD Espanyol B,Spain,-,In,2019,s,laliga
+RCD Espanyol Barcelona,Lluis López,22,Spain,Centre-Back,CB,£270Th.,RCD Espanyol B,Spain,-,In,2019,s,laliga
+RCD Espanyol Barcelona,Víctor Gómez,19,Spain,Right-Back,RB,£270Th.,RCD Espanyol B,Spain,-,In,2019,s,laliga
+RCD Espanyol Barcelona,Aarón Martín,22,Spain,Left-Back,LB,£18.00m,1.FSV Mainz 05,Germany,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Espanyol Barcelona,Pipa,21,Spain,Right-Back,RB,£270Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Espanyol Barcelona,Álvaro Vázquez,28,Spain,Centre-Forward,CF,£900Th.,Real Zaragoza,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Lucas Pérez,30,Spain,Centre-Forward,CF,£3.60m,West Ham United,England,£2.07m,In,2019,s,laliga
+Deportivo Alavés,Joselu,29,Spain,Centre-Forward,CF,£3.60m,Newcastle United,England,£2.02m,In,2019,s,laliga
+Deportivo Alavés,Ramón Miérez,22,Argentina,Centre-Forward,CF,£585Th.,Club Atlético Tigre,Argentina,£2.01m,In,2019,s,laliga
+Deportivo Alavés,Pere Pons,26,Spain,Defensive Midfield,DM,£3.60m,Girona FC,Spain,£1.80m,In,2019,s,laliga
+Deportivo Alavés,Luis Rioja,25,Spain,Left Winger,LW,£1.35m,UD Almería,Spain,£1.80m,In,2019,s,laliga
+Deportivo Alavés,Saúl García,24,Spain,Left-Back,LB,£810Th.,Deportivo de La Coruña,Spain,Free transfer,In,2019,s,laliga
+Deportivo Alavés,Tachi,21,Spain,Centre-Back,CB,£270Th.,Atlético Madrid B,Spain,Free transfer,In,2019,s,laliga
+Deportivo Alavés,Jeando Fuchs,21,Cameroon,Defensive Midfield,DM,£1.80m,FC Sochaux-Montbéliard,France,?,In,2019,s,laliga
+Deportivo Alavés,Aleix Vidal,29,Spain,Right Winger,RW,£3.60m,Sevilla FC,Spain,Loan,In,2019,s,laliga
+Deportivo Alavés,Lisandro Magallán,25,Argentina,Centre-Back,CB,£5.40m,Ajax Amsterdam,Netherlands,Loan,In,2019,s,laliga
+Deportivo Alavés,Oliver Burke,22,Scotland,Right Winger,RW,£9.00m,West Bromwich Albion,England,Loan,In,2019,s,laliga
+Deportivo Alavés,Olivier Verdon,23,Benin,Centre-Back,CB,£450Th.,FC Sochaux-Montbéliard,France,?,In,2019,s,laliga
+Deportivo Alavés,Borja Sainz,18,Spain,Left Winger,LW,-,Deportivo Alavés U19,Spain,-,In,2019,s,laliga
+Deportivo Alavés,Anderson Emanuel,23,Angola,Left Winger,LW,£180Th.,FC Sochaux-Montbéliard,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Javi Muñoz,24,Spain,Central Midfield,CM,£450Th.,Real Oviedo,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Nando García,25,Spain,Right Winger,RW,£360Th.,Extremadura UD,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Rafa Navarro,25,Spain,Right-Back,RB,£450Th.,FC Sochaux-Montbéliard,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Ermedin Demirovic,21,Bosnia-Herzegovina,Centre-Forward,CF,£900Th.,UD Almería,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Adrián Diéguez,23,Spain,Centre-Back,CB,£270Th.,SD Huesca,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Rafa Páez,24,Spain,Centre-Back,CB,£360Th.,FC Sochaux-Montbéliard,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Cristian Glauder,23,Spain,Left-Back,LB,£270Th.,CF Fuenlabrada,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Deportivo Alavés,Daniel Torres,29,Colombia,Defensive Midfield,DM,£810Th.,Albacete Balompié,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+SD Eibar,Edu Expósito,22,Spain,Central Midfield,CM,£3.60m,Deportivo de La Coruña,Spain,£3.60m,In,2019,s,laliga
+SD Eibar,Quique,29,Spain,Centre-Forward,CF,£1.35m,Deportivo de La Coruña,Spain,£2.97m,In,2019,s,laliga
+SD Eibar,Pedro Bigas,29,Spain,Centre-Back,CB,£2.70m,UD Las Palmas,Spain,£2.70m,In,2019,s,laliga
+SD Eibar,Roberto Olabe,23,Spain,Central Midfield,CM,£720Th.,Atlético Madrid B,Spain,£2.52m,In,2019,s,laliga
+SD Eibar,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,FC Barcelona,Spain,£1.80m,In,2019,s,laliga
+SD Eibar,Takashi Inui,31,Japan,Left Winger,LW,£3.60m,Real Betis Balompié,Spain,£1.80m,In,2019,s,laliga
+SD Eibar,Esteban Burgos,27,Argentina,Centre-Back,CB,£900Th.,AD Alcorcón,Spain,Free transfer,In,2019,s,laliga
+SD Eibar,Roberto Correa,26,Spain,Right-Back,RB,£720Th.,Cádiz CF,Spain,Free transfer,In,2019,s,laliga
+SD Eibar,Álvaro Tejero,22,Spain,Right-Back,RB,£2.70m,Real Madrid Castilla,Spain,Free transfer,In,2019,s,laliga
+SD Eibar,Asier Benito,24,Spain,Centre-Forward,CF,£225Th.,Bilbao Athletic,Spain,Free transfer,In,2019,s,laliga
+SD Eibar,Rubén Lobato,25,Spain,Left-Back,LB,£225Th.,Real Oviedo Vetusta,Spain,Free transfer,In,2019,s,laliga
+SD Eibar,José Antonio Martínez,26,Spain,Centre-Back,CB,£1.08m,Granada CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+SD Eibar,Yoel Rodríguez,30,Spain,Goalkeeper,GK,£1.35m,Real Valladolid CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+SD Eibar,Unai Elgezabal,26,Spain,Centre-Back,CB,£360Th.,AD Alcorcón,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+SD Eibar,Nano Mesa,24,Spain,Centre-Forward,CF,£540Th.,CD Tenerife,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+SD Eibar,Pablo Hervías,26,Spain,Right Winger,RW,£630Th.,Real Valladolid CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Martin Braithwaite,28,Denmark,Centre-Forward,CF,£7.20m,Middlesbrough FC,England,£4.50m,In,2019,s,laliga
+CD Leganés,Kenneth Omeruo,25,Nigeria,Centre-Back,CB,£4.50m,Chelsea FC,England,£4.50m,In,2019,s,laliga
+CD Leganés,Jonathan Silva,25,Argentina,Left-Back,LB,£2.70m,Sporting CP,Portugal,£2.43m,In,2019,s,laliga
+CD Leganés,Juan Muñoz,23,Spain,Centre-Forward,CF,£1.35m,AD Alcorcón,Spain,£1.35m,In,2019,s,laliga
+CD Leganés,Roberto Rosales,30,Venezuela,Right-Back,RB,£2.25m,Málaga CF,Spain,£1.08m,In,2019,s,laliga
+CD Leganés,Fede Varela,22,Argentina,Attacking Midfield,AM,£1.80m,FC Porto B,Portugal,£900Th.,In,2019,s,laliga
+CD Leganés,Sabin Merino,27,Spain,Centre-Forward,CF,£900Th.,Athletic Bilbao,Spain,Free transfer,In,2019,s,laliga
+CD Leganés,Álex Martín,21,Spain,Centre-Back,CB,£90Th.,Real Madrid Castilla,Spain,Free transfer,In,2019,s,laliga
+CD Leganés,Chidozie Awaziem,22,Nigeria,Centre-Back,CB,£3.15m,FC Porto,Portugal,Loan,In,2019,s,laliga
+CD Leganés,Kévin Rodrigues,25,Portugal,Left-Back,LB,£2.70m,Real Sociedad,Spain,Loan,In,2019,s,laliga
+CD Leganés,Aitor Ruibal,23,Spain,Right Winger,RW,£1.35m,Real Betis Balompié,Spain,Loan,In,2019,s,laliga
+CD Leganés,Roque Mesa,30,Spain,Central Midfield,CM,£6.30m,Sevilla FC,Spain,Loan,In,2019,s,laliga
+CD Leganés,Christian Rivera,22,Spain,Central Midfield,CM,£2.25m,UD Las Palmas,Spain,Loan,In,2019,s,laliga
+CD Leganés,Juan Soriano,21,Spain,Goalkeeper,GK,£2.25m,Sevilla FC,Spain,Loan,In,2019,s,laliga
+CD Leganés,Guido Carrillo,28,Argentina,Centre-Forward,CF,£6.75m,Southampton FC,England,Loan,In,2019,s,laliga
+CD Leganés,Kleandro Lleshi,19,Albania,Defensive Midfield,DM,£180Th.,CD Leganés B,Spain,-,In,2019,s,laliga
+CD Leganés,Luciano,26,Brazil,Centre-Forward,CF,£1.80m,Fluminense Football Club,Brazil,"End of loanJul 28, 2019",In,2019,s,laliga
+CD Leganés,Fede Vico,24,Spain,Attacking Midfield,AM,£1.35m,Granada CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Facundo García,19,Argentina,Central Midfield,CM,£540Th.,AEK Larnaca,Cyprus,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Mamadou Koné,27,Cote d'Ivoire,Centre-Forward,CF,£720Th.,Málaga CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Josua Mejías,21,Venezuela,Centre-Back,CB,£180Th.,FC Cartagena,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Owusu,22,Ghana,Right Winger,RW,£270Th.,Salamanca CF UDS,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CD Leganés,Dani Ojeda,24,Spain,Left Winger,LW,£360Th.,Granada CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Borja Iglesias,26,Spain,Centre-Forward,CF,£25.20m,RCD Espanyol Barcelona,Spain,£25.20m,In,2019,s,laliga
+Real Betis Balompié,Giovani Lo Celso,23,Argentina,Central Midfield,CM,£45.00m,Paris Saint-Germain,France,£19.80m,In,2019,s,laliga
+Real Betis Balompié,Nabil Fekir,26,France,Attacking Midfield,AM,£54.00m,Olympique Lyon,France,£17.78m,In,2019,s,laliga
+Real Betis Balompié,Juanmi,26,Spain,Right Winger,RW,£7.20m,Real Sociedad,Spain,£7.20m,In,2019,s,laliga
+Real Betis Balompié,Álex Moreno,26,Spain,Left-Back,LB,£10.80m,Rayo Vallecano,Spain,£6.30m,In,2019,s,laliga
+Real Betis Balompié,Emerson,20,Brazil,Right-Back,RB,£2.70m,FC Barcelona,Spain,Loan fee:£5.40m,In,2019,s,laliga
+Real Betis Balompié,Dani Martín,21,Spain,Goalkeeper,GK,£540Th.,Sporting Gijón,Spain,£4.50m,In,2019,s,laliga
+Real Betis Balompié,Alfonso Pedraza,23,Spain,Left-Back,LB,£19.80m,Villarreal CF,Spain,Loan,In,2019,s,laliga
+Real Betis Balompié,Aitor Ruibal,23,Spain,Right Winger,RW,£1.35m,Betis Deportivo Balompié,Spain,-,In,2019,s,laliga
+Real Betis Balompié,Víctor Camarasa,25,Spain,Central Midfield,CM,£9.00m,Cardiff City,England,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Julio Gracia,21,Spain,Attacking Midfield,AM,£225Th.,FC Cartagena,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Takashi Inui,31,Japan,Left Winger,LW,£3.60m,Deportivo Alavés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Alin Tosca,27,Romania,Centre-Back,CB,£1.13m,PAOK Thessaloniki,Greece,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Juanjo Narváez,24,Colombia,Left Winger,LW,£630Th.,UD Almería,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Alex Alegría,26,Spain,Centre-Forward,CF,£720Th.,Sporting Gijón,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Liberto Beltrán,22,Spain,Left Winger,LW,£90Th.,Cultural Leonesa,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Darko Brasanac,27,Serbia,Central Midfield,CM,£1.80m,Deportivo Alavés,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Betis Balompié,Ryad Boudebouz,29,Algeria,Attacking Midfield,AM,£5.40m,Celta de Vigo,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Rubén Peña,27,Spain,Right-Back,RB,£9.00m,SD Eibar,Spain,£7.20m,In,2019,s,laliga
+Villarreal CF,Javi Ontiveros,21,Spain,Left Winger,LW,£5.40m,Málaga CF,Spain,£6.75m,In,2019,s,laliga
+Villarreal CF,Raúl Albiol,33,Spain,Centre-Back,CB,£4.50m,SSC Napoli,Italy,£4.50m,In,2019,s,laliga
+Villarreal CF,Moi Gómez,25,Spain,Left Winger,LW,£4.50m,Sporting Gijón,Spain,£1.17m,In,2019,s,laliga
+Villarreal CF,Alberto Moreno,27,Spain,Left-Back,LB,£8.10m,Liverpool FC,England,Free transfer,In,2019,s,laliga
+Villarreal CF,André Zambo Anguissa,23,Cameroon,Defensive Midfield,DM,£22.50m,Fulham FC,England,Loan,In,2019,s,laliga
+Villarreal CF,Enric Franquesa,22,Spain,Left-Back,LB,£135Th.,Villarreal CF B,Spain,-,In,2019,s,laliga
+Villarreal CF,Xavi Quintillà,22,Spain,Left-Back,LB,£900Th.,Villarreal CF B,Spain,-,In,2019,s,laliga
+Villarreal CF,Alfred N'Diaye,29,Senegal,Defensive Midfield,DM,£3.15m,Málaga CF,Spain,"End of loanAug 30, 2019",In,2019,s,laliga
+Villarreal CF,Juan Ibiza,23,Spain,Centre-Back,CB,£540Th.,UD Almería,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Nicola Sansone,27,Italy,Left Winger,LW,£6.75m,Bologna FC 1909,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Roberto Soriano,28,Italy,Central Midfield,CM,£6.30m,Bologna FC 1909,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Leo Suárez,23,Argentina,Right Winger,RW,£900Th.,RCD Mallorca,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Denis Cheryshev,28,Russia,Left Winger,LW,£5.40m,Valencia CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Villarreal CF,Rúben Semedo,25,Portugal,Centre-Back,CB,£1.80m,Rio Ave FC,Portugal,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Rúben Vezo,25,Portugal,Centre-Back,CB,£5.40m,Valencia CF,Spain,£4.50m,In,2019,s,laliga
+Levante UD,Sergio León,30,Spain,Centre-Forward,CF,£2.70m,Real Betis Balompié,Spain,£3.60m,In,2019,s,laliga
+Levante UD,Gonzalo Melero,25,Spain,Central Midfield,CM,£3.60m,SD Huesca,Spain,£3.24m,In,2019,s,laliga
+Levante UD,Carlos Clerc,27,Spain,Left-Back,LB,£1.80m,CA Osasuna,Spain,Free transfer,In,2019,s,laliga
+Levante UD,Nemanja Radoja,26,Serbia,Defensive Midfield,DM,£2.70m,Celta de Vigo,Spain,Free transfer,In,2019,s,laliga
+Levante UD,Jorge Miramón,30,Spain,Right-Back,RB,£2.70m,SD Huesca,Spain,Free transfer,In,2019,s,laliga
+Levante UD,Hernâni,27,Portugal,Right Winger,RW,£2.25m,FC Porto,Portugal,Free transfer,In,2019,s,laliga
+Levante UD,Óscar Duarte,30,Costa Rica,Centre-Back,CB,£900Th.,RCD Espanyol Barcelona,Spain,Free transfer,In,2019,s,laliga
+Levante UD,Rober Pier,24,Spain,Centre-Back,CB,£2.25m,Deportivo de La Coruña,Spain,?,In,2019,s,laliga
+Levante UD,Borja Mayoral,22,Spain,Centre-Forward,CF,£3.60m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Levante UD,Pepelu,20,Spain,Defensive Midfield,DM,£270Th.,Atlético Levante UD,Spain,-,In,2019,s,laliga
+Levante UD,Fran Manzanara,22,Spain,Central Midfield,CM,£270Th.,Atlético Levante UD,Spain,-,In,2019,s,laliga
+Levante UD,Iván López,25,Spain,Right-Back,RB,£360Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Ivi López,25,Spain,Right Winger,RW,£900Th.,Sporting Gijón,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Sanjin Prcic,25,Bosnia-Herzegovina,Central Midfield,CM,£3.60m,RC Strasbourg Alsace,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Rubén García,25,Spain,Attacking Midfield,AM,£3.15m,CA Osasuna,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Esteban Saveljich,28,Montenegro,Centre-Back,CB,£900Th.,UD Almería,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Levante UD,Armando Sadiku,28,Albania,Centre-Forward,CF,£630Th.,FC Lugano,Switzerland,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,Pablo Hervías,26,Spain,Right Winger,RW,£630Th.,SD Eibar,Spain,£900Th.,In,2019,s,laliga
+Real Valladolid CF,Federico Barba,25,Italy,Centre-Back,CB,£1.80m,Chievo Verona,Italy,Loan,In,2019,s,laliga
+Real Valladolid CF,Pedro Porro,19,Spain,Right-Back,RB,£9.00m,Manchester City,England,Loan,In,2019,s,laliga
+Real Valladolid CF,Sandro Ramírez,23,Spain,Centre-Forward,CF,£3.60m,Everton FC,England,Loan,In,2019,s,laliga
+Real Valladolid CF,Jorge de Frutos,22,Spain,Right Winger,RW,£4.50m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Real Valladolid CF,Javi Sánchez,22,Spain,Centre-Back,CB,£1.80m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Real Valladolid CF,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£6.75m,Real Madrid,Spain,Loan,In,2019,s,laliga
+Real Valladolid CF,Mohammed Salisu,20,Ghana,Centre-Back,CB,£225Th.,Real Valladolid B,Spain,-,In,2019,s,laliga
+Real Valladolid CF,Marcos André,22,Brazil,Centre-Forward,CF,£360Th.,Real Valladolid B,Spain,-,In,2019,s,laliga
+Real Valladolid CF,José Antonio Caro,25,Spain,Goalkeeper,GK,£360Th.,Albacete Balompié,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,Antonio Domínguez,26,Spain,Right Winger,RW,£135Th.,CE Sabadell,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,David Mayoral,22,Spain,Right Winger,RW,£270Th.,AD Alcorcón,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,Álvaro Aguado,23,Spain,Attacking Midfield,AM,£540Th.,Córdoba CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,Fede San Emeterio,22,Spain,Central Midfield,CM,£4.50m,Granada CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Real Valladolid CF,Chris Ramos,22,Spain,Centre-Forward,CF,£225Th.,Sevilla Atlético,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Denis Suárez,25,Spain,Left Winger,LW,£10.80m,FC Barcelona,Spain,£11.61m,In,2019,s,laliga
+Celta de Vigo,Joseph Aidoo,23,Ghana,Centre-Back,CB,£3.60m,KRC Genk,Belgium,£7.20m,In,2019,s,laliga
+Celta de Vigo,Rafinha,26,Brazil,Attacking Midfield,AM,£13.50m,FC Barcelona,Spain,Loan fee:£1.35m,In,2019,s,laliga
+Celta de Vigo,Pape Cheikh,22,Spain,Central Midfield,CM,£6.30m,Olympique Lyon,France,Loan fee:£450Th.,In,2019,s,laliga
+Celta de Vigo,Santi Mina,23,Spain,Centre-Forward,CF,£27.00m,Valencia CF,Spain,Free transfer,In,2019,s,laliga
+Celta de Vigo,Jorge Sáenz,22,Spain,Centre-Back,CB,£2.70m,Valencia CF,Spain,Loan,In,2019,s,laliga
+Celta de Vigo,Iván Villar,21,Spain,Goalkeeper,GK,£270Th.,Celta Vigo B,Spain,-,In,2019,s,laliga
+Celta de Vigo,Juan Hernández,24,Spain,Right Winger,RW,£450Th.,Cádiz CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Gabriel Fernández,25,Uruguay,Centre-Forward,CF,£2.70m,CA Peñarol,Uruguay,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Robert Mazan,25,Slovakia,Left-Back,LB,£270Th.,Venezia FC,Italy,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Facundo Roncaglia,32,Argentina,Centre-Back,CB,£2.25m,Valencia CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Claudio Beauvue,31,Guadeloupe,Centre-Forward,CF,£2.25m,SM Caen,France,"End of loanJun 30, 2019",In,2019,s,laliga
+Celta de Vigo,Dennis Eckert Ayensa,22,Germany,Centre-Forward,CF,£1.08m,SBV Excelsior Rotterdam,Netherlands,"End of loanJun 30, 2019",In,2019,s,laliga
+CA Osasuna,Rubén García,25,Spain,Attacking Midfield,AM,£3.15m,Levante UD,Spain,£2.70m,In,2019,s,laliga
+CA Osasuna,Chimy Ávila,25,Argentina,Centre-Forward,CF,£4.50m,Club Atlético San Lorenzo de Almagro,Argentina,£2.43m,In,2019,s,laliga
+CA Osasuna,Marc Cardona,23,Spain,Centre-Forward,CF,£1.35m,FC Barcelona,Spain,£2.25m,In,2019,s,laliga
+CA Osasuna,Brandon,24,Spain,Centre-Forward,CF,£1.80m,Stade Rennais FC,France,£1.80m,In,2019,s,laliga
+CA Osasuna,Robert Ibáñez,26,Spain,Right Winger,RW,£900Th.,Getafe CF,Spain,£1.80m,In,2019,s,laliga
+CA Osasuna,Darko Brasanac,27,Serbia,Central Midfield,CM,£1.80m,Real Betis Balompié,Spain,£900Th.,In,2019,s,laliga
+CA Osasuna,Facundo Roncaglia,32,Argentina,Centre-Back,CB,£2.25m,Celta de Vigo,Spain,£225Th.,In,2019,s,laliga
+CA Osasuna,Jaume Grau,22,Spain,Central Midfield,CM,£270Th.,Real Madrid Castilla,Spain,Free transfer,In,2019,s,laliga
+CA Osasuna,Adrián López,31,Spain,Centre-Forward,CF,£2.25m,FC Porto,Portugal,Free transfer,In,2019,s,laliga
+CA Osasuna,Raúl Navas,31,Spain,Centre-Back,CB,£2.70m,Real Sociedad,Spain,Loan,In,2019,s,laliga
+CA Osasuna,Pervis Estupiñán,21,Ecuador,Left-Back,LB,£1.80m,Watford FC U23,England,Loan,In,2019,s,laliga
+CA Osasuna,Juan Pérez,22,Spain,Goalkeeper,GK,£180Th.,CA Osasuna Promesas,Spain,-,In,2019,s,laliga
+CA Osasuna,Jon Moncayola,21,Spain,Central Midfield,CM,£45Th.,CA Osasuna Promesas,Spain,-,In,2019,s,laliga
+CA Osasuna,Antonio Otegui,21,Spain,Central Midfield,CM,£270Th.,UD Melilla,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CA Osasuna,Miguel Díaz,25,Spain,Attacking Midfield,AM,£180Th.,Real Murcia CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CA Osasuna,David Rodríguez,33,Spain,Centre-Forward,CF,£360Th.,CD Numancia,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+CA Osasuna,Imanol García,23,Spain,Central Midfield,CM,£450Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Granada CF,Darwin Machís,26,Venezuela,Left Winger,LW,£2.70m,Udinese Calcio,Italy,£2.70m,In,2019,s,laliga
+Granada CF,Domingos Duarte,24,Portugal,Centre-Back,CB,£2.25m,Sporting CP,Portugal,£2.70m,In,2019,s,laliga
+Granada CF,Yan Brice,21,Cameroon,Central Midfield,CM,£900Th.,Sevilla FC,Spain,£900Th.,In,2019,s,laliga
+Granada CF,Fede Vico,24,Spain,Attacking Midfield,AM,£1.35m,CD Leganés,Spain,£225Th.,In,2019,s,laliga
+Granada CF,Roberto Soldado,34,Spain,Centre-Forward,CF,£900Th.,Fenerbahce SK,Turkey,Free transfer,In,2019,s,laliga
+Granada CF,Neyder Lozano,25,Colombia,Centre-Back,CB,£540Th.,Elche CF,Spain,Free transfer,In,2019,s,laliga
+Granada CF,Ismail Köybasi,30,Turkey,Left-Back,LB,£450Th.,Fenerbahce SK,Turkey,Free transfer,In,2019,s,laliga
+Granada CF,Carlos Fernández,23,Spain,Centre-Forward,CF,£1.80m,Sevilla FC,Spain,Loan,In,2019,s,laliga
+Granada CF,Yangel Herrera,21,Venezuela,Defensive Midfield,DM,£1.80m,Manchester City U23,England,Loan,In,2019,s,laliga
+Granada CF,José Antonio Martínez,26,Spain,Centre-Back,CB,£1.08m,SD Eibar,Spain,Loan,In,2019,s,laliga
+Granada CF,Maxime Gonalons,30,France,Defensive Midfield,DM,£3.60m,AS Roma,Italy,Loan,In,2019,s,laliga
+Granada CF,Carlos Neva,23,Spain,Left-Back,LB,£180Th.,Recreativo Granada,Spain,-,In,2019,s,laliga
+Granada CF,Sergio Peña,23,Peru,Attacking Midfield,AM,£630Th.,CD Tondela,Portugal,"End of loanJun 30, 2019",In,2019,s,laliga
+Granada CF,Pablo Vázquez,24,Spain,Centre-Back,CB,£270Th.,Cultural Leonesa,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+Granada CF,Raúl Baena,30,Spain,Defensive Midfield,DM,£720Th.,Melbourne Victory,Australia,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Ante Budimir,27,Croatia,Centre-Forward,CF,£1.26m,FC Crotone,Italy,£1.98m,In,2019,s,laliga
+RCD Mallorca,Yannis Salibur,28,France,Right Winger,RW,£3.15m,EA Guingamp,France,£1.80m,In,2019,s,laliga
+RCD Mallorca,Martin Valjent,23,Slovakia,Centre-Back,CB,£1.35m,Chievo Verona,Italy,£1.35m,In,2019,s,laliga
+RCD Mallorca,Igor Zlatanovic,21,Serbia,Centre-Forward,CF,£1.13m,FK Radnik Surdulica,Serbia,£1.17m,In,2019,s,laliga
+RCD Mallorca,Pablo Chavarría,31,Argentina,Centre-Forward,CF,£2.25m,Stade Reims,France,Free transfer,In,2019,s,laliga
+RCD Mallorca,Aleix Febas,23,Spain,Central Midfield,CM,£3.60m,Real Madrid Castilla,Spain,Free transfer,In,2019,s,laliga
+RCD Mallorca,Aleksandar Trajkovski,26,North Macedonia,Left Winger,LW,£1.80m,SSD Palermo,Italy,Free transfer,In,2019,s,laliga
+RCD Mallorca,Alex Alegría,26,Spain,Centre-Forward,CF,£720Th.,Real Betis Balompié,Spain,Free transfer,In,2019,s,laliga
+RCD Mallorca,Josep Señé,27,Spain,Attacking Midfield,AM,£225Th.,Cultural Leonesa,Spain,Free transfer,In,2019,s,laliga
+RCD Mallorca,Aleksandar Sedlar,27,Serbia,Centre-Back,CB,£810Th.,Piast Gliwice,Poland,Free transfer,In,2019,s,laliga
+RCD Mallorca,Cucho Hernández,20,Colombia,Centre-Forward,CF,£9.00m,Watford FC,England,Loan,In,2019,s,laliga
+RCD Mallorca,Fabri,31,Spain,Goalkeeper,GK,£3.60m,Fulham FC,England,Loan,In,2019,s,laliga
+RCD Mallorca,Lumor,22,Ghana,Left-Back,LB,£1.26m,Sporting CP,Portugal,Loan,In,2019,s,laliga
+RCD Mallorca,Iñigo Ruiz de Galarreta,26,Spain,Central Midfield,CM,£1.80m,UD Las Palmas,Spain,?,In,2019,s,laliga
+RCD Mallorca,Takefusa Kubo,18,Japan,Right Winger,RW,£1.80m,Real Madrid,Spain,Loan,In,2019,s,laliga
+RCD Mallorca,Abdul Rahman Baba,25,Ghana,Left-Back,LB,£4.50m,Chelsea FC,England,Loan,In,2019,s,laliga
+RCD Mallorca,Pol Roigé,25,Spain,Right Winger,RW,£225Th.,Hércules CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Bryan Reyna,20,Peru,Left Winger,LW,£90Th.,CD Alcoyano,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Alejandro Faurlín,32,Argentina,Central Midfield,CM,£180Th.,Marbella FC,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Antonio Sánchez,22,Spain,Central Midfield,CM,£225Th.,Barakaldo CF ,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Sergio Moyita,26,Spain,Right Winger,RW,£270Th.,FC Cartagena,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Álvaro Bustos,24,Spain,Left Winger,LW,£225Th.,Pontevedra CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Pierre Cornud,22,France,Left-Back,LB,£270Th.,Real Balompédica Linense,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Fernando Cano,24,Spain,Attacking Midfield,AM,£225Th.,Lleida Esportiu,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+RCD Mallorca,Carlos Castro,24,Spain,Centre-Forward,CF,£720Th.,Elche CF,Spain,"End of loanJun 30, 2019",In,2019,s,laliga
+FC Barcelona,Malcom,22,Brazil,Right Winger,RW,£36.00m,Zenit St. Petersburg,Russia,£36.00m,Out,2019,s,laliga
+FC Barcelona,Jasper Cillessen,30,Netherlands,Goalkeeper,GK,£16.20m,Valencia CF,Spain,£31.50m,Out,2019,s,laliga
+FC Barcelona,André Gomes,25,Portugal,Central Midfield,CM,£25.20m,Everton FC,England,£22.50m,Out,2019,s,laliga
+FC Barcelona,Paco Alcácer,25,Spain,Centre-Forward,CF,£33.30m,Borussia Dortmund,Germany,£18.90m,Out,2019,s,laliga
+FC Barcelona,Denis Suárez,25,Spain,Left Winger,LW,£10.80m,Celta de Vigo,Spain,£11.61m,Out,2019,s,laliga
+FC Barcelona,Philippe Coutinho,27,Brazil,Attacking Midfield,AM,£81.00m,Bayern Munich,Germany,Loan fee:£7.65m,Out,2019,s,laliga
+FC Barcelona,Emerson,20,Brazil,Right-Back,RB,£2.70m,Real Betis Balompié,Spain,Loan fee:£5.40m,Out,2019,s,laliga
+FC Barcelona,Marc Cardona,23,Spain,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,£2.25m,Out,2019,s,laliga
+FC Barcelona,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,SD Eibar,Spain,£1.80m,Out,2019,s,laliga
+FC Barcelona,Sergi Palencia,23,Spain,Right-Back,RB,£5.40m,AS Saint-Étienne,France,£1.80m,Out,2019,s,laliga
+FC Barcelona,Rafinha,26,Brazil,Attacking Midfield,AM,£13.50m,Celta de Vigo,Spain,Loan fee:£1.35m,Out,2019,s,laliga
+FC Barcelona,Thomas Vermaelen,33,Belgium,Centre-Back,CB,£2.25m,Vissel Kobe,Japan,Free transfer,Out,2019,s,laliga
+FC Barcelona,Douglas,28,Brazil,Right-Back,RB,£1.80m,Besiktas JK,Turkey,Free transfer,Out,2019,s,laliga
+FC Barcelona,Adrián Ortolá,25,Spain,Goalkeeper,GK,£900Th.,CD Tenerife,Spain,Free transfer,Out,2019,s,laliga
+FC Barcelona,Juan Miranda,19,Spain,Left-Back,LB,£4.50m,FC Schalke 04,Germany,Loan,Out,2019,s,laliga
+FC Barcelona,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,Getafe CF,Spain,Loan,Out,2019,s,laliga
+FC Barcelona,Oriol Busquets,20,Spain,Defensive Midfield,DM,£2.25m,Twente Enschede FC,Netherlands,Loan,Out,2019,s,laliga
+FC Barcelona,Jeison Murillo,27,Colombia,Centre-Back,CB,£9.00m,Valencia CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+FC Barcelona,Kevin-Prince Boateng,32,Ghana,Attacking Midfield,AM,£6.30m,US Sassuolo,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Atlético Madrid,Antoine Griezmann,28,France,Second Striker,SS,£117.00m,FC Barcelona,Spain,£108.00m,Out,2019,s,laliga
+Atlético Madrid,Lucas Hernández,23,France,Centre-Back,CB,£63.00m,Bayern Munich,Germany,£72.00m,Out,2019,s,laliga
+Atlético Madrid,Rodrigo,23,Spain,Defensive Midfield,DM,£72.00m,Manchester City,England,£63.00m,Out,2019,s,laliga
+Atlético Madrid,Gelson Martins,24,Portugal,Right Winger,RW,£25.20m,AS Monaco,France,£27.00m,Out,2019,s,laliga
+Atlético Madrid,Luciano Vietto,25,Argentina,Centre-Forward,CF,£6.30m,Sporting CP,Portugal,£6.75m,Out,2019,s,laliga
+Atlético Madrid,Bernard Mensah,24,Ghana,Attacking Midfield,AM,£2.07m,Kayserispor,Turkey,£3.24m,Out,2019,s,laliga
+Atlético Madrid,Nikola Kalinic,31,Croatia,Centre-Forward,CF,£9.00m,AS Roma,Italy,Loan fee:£1.80m,Out,2019,s,laliga
+Atlético Madrid,Héctor Hernández,23,Spain,Centre-Forward,CF,£630Th.,CF Fuenlabrada,Spain,Free transfer,Out,2019,s,laliga
+Atlético Madrid,Filipe Luís,33,Brazil,Left-Back,LB,£2.70m,Clube de Regatas do Flamengo,Brazil,Free transfer,Out,2019,s,laliga
+Atlético Madrid,Diego Godín,33,Uruguay,Centre-Back,CB,£18.00m,Inter Milan,Italy,Free transfer,Out,2019,s,laliga
+Atlético Madrid,André Moreira,23,Portugal,Goalkeeper,GK,£720Th.,Belenenses SAD,Portugal,Free transfer,Out,2019,s,laliga
+Atlético Madrid,Juanfran,34,Spain,Right-Back,RB,£2.70m,São Paulo Futebol Clube,Brazil,Free transfer,Out,2019,s,laliga
+Atlético Madrid,Francisco Montero,20,Spain,Centre-Back,CB,£9.00m,Deportivo de La Coruña,Spain,Loan,Out,2019,s,laliga
+Atlético Madrid,Axel Werner,23,Argentina,Goalkeeper,GK,£540Th.,Atlético de San Luis,Mexico,Loan,Out,2019,s,laliga
+Atlético Madrid,Nicolás Ibáñez,24,Argentina,Centre-Forward,CF,£900Th.,Atlético de San Luis,Mexico,Loan,Out,2019,s,laliga
+Atlético Madrid,Víctor Mollejo,18,Spain,Right Winger,RW,£2.25m,Deportivo de La Coruña,Spain,Loan,Out,2019,s,laliga
+Atlético Madrid,Nehuén Pérez,19,Argentina,Centre-Back,CB,£2.25m,FC Famalicão,Portugal,Loan,Out,2019,s,laliga
+Real Madrid,Mateo Kovacic,25,Croatia,Central Midfield,CM,£31.50m,Chelsea FC,England,£40.50m,Out,2019,s,laliga
+Real Madrid,Marcos Llorente,24,Spain,Defensive Midfield,DM,£18.00m,Atlético Madrid,Spain,£27.00m,Out,2019,s,laliga
+Real Madrid,Raúl de Tomás,24,Spain,Centre-Forward,CF,£18.00m,SL Benfica,Portugal,£18.00m,Out,2019,s,laliga
+Real Madrid,Theo Hernández,21,France,Left-Back,LB,£13.50m,AC Milan,Italy,£18.00m,Out,2019,s,laliga
+Real Madrid,Keylor Navas,32,Costa Rica,Goalkeeper,GK,£9.00m,Paris Saint-Germain,France,£13.50m,Out,2019,s,laliga
+Real Madrid,Jesús Vallejo,22,Spain,Centre-Back,CB,£9.00m,Wolverhampton Wanderers,England,Loan,Out,2019,s,laliga
+Real Madrid,Alberto Soro,20,Spain,Right Winger,RW,£2.70m,Real Zaragoza,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Martin Ödegaard,20,Norway,Attacking Midfield,AM,£13.50m,Real Sociedad,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Dani Ceballos,22,Spain,Central Midfield,CM,£27.00m,Arsenal FC,England,Loan,Out,2019,s,laliga
+Real Madrid,Borja Mayoral,22,Spain,Centre-Forward,CF,£3.60m,Levante UD,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Takefusa Kubo,18,Japan,Right Winger,RW,£1.80m,RCD Mallorca,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Jorge de Frutos,22,Spain,Right Winger,RW,£4.50m,Real Valladolid CF,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Sergio Reguilón,22,Spain,Left-Back,LB,£13.50m,Sevilla FC,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Javi Sánchez,22,Spain,Centre-Back,CB,£1.80m,Real Valladolid CF,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£6.75m,Real Valladolid CF,Spain,Loan,Out,2019,s,laliga
+Real Madrid,Lucas Silva,26,Brazil,Defensive Midfield,DM,£1.80m,,Without Club,-,Out,2019,s,laliga
+Real Madrid,Luca Zidane,21,France,Goalkeeper,GK,£900Th.,Racing Santander,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Robert Ibáñez,26,Spain,Right Winger,RW,£900Th.,CA Osasuna,Spain,£1.80m,Out,2019,s,laliga
+Getafe CF,José Carlos Lazo,23,Spain,Left Winger,LW,£900Th.,UD Almería,Spain,Loan fee:£225Th.,Out,2019,s,laliga
+Getafe CF,Jack Harper,23,Scotland,Centre-Forward,CF,£1.35m,AD Alcorcón,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Chuli,28,Spain,Centre-Forward,CF,£360Th.,Recreativo Huelva,Spain,Free transfer,Out,2019,s,laliga
+Getafe CF,Gaku Shibasaki,27,Japan,Central Midfield,CM,£1.80m,Deportivo de La Coruña,Spain,Free transfer,Out,2019,s,laliga
+Getafe CF,Ignasi Miquel,26,Spain,Centre-Back,CB,£1.80m,Girona FC,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Merveil Ndockyt,21,Congo,Left Winger,LW,£720Th.,NK Osijek,Croatia,Loan,Out,2019,s,laliga
+Getafe CF,Álvaro Jiménez,24,Spain,Right Winger,RW,£540Th.,Albacete Balompié,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Rubén Yáñez,25,Spain,Goalkeeper,GK,£270Th.,SD Huesca,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Iván Alejo,24,Spain,Right Winger,RW,£1.08m,Cádiz CF,Spain,Loan,Out,2019,s,laliga
+Getafe CF,Mathieu Flamini,35,France,Defensive Midfield,DM,£540Th.,,Without Club,-,Out,2019,s,laliga
+Getafe CF,Sebastián Cristóforo,25,Uruguay,Central Midfield,CM,£1.62m,ACF Fiorentina,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Getafe CF,Dimitri Foulquier,26,Guadeloupe,Right-Back,RB,£3.15m,Watford FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+Getafe CF,Samu Sáiz,28,Spain,Attacking Midfield,AM,£1.80m,Leeds United,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+Valencia CF,Neto,29,Brazil,Goalkeeper,GK,£16.20m,FC Barcelona,Spain,£23.40m,Out,2019,s,laliga
+Valencia CF,Simone Zaza,28,Italy,Centre-Forward,CF,£9.00m,Torino FC,Italy,£10.80m,Out,2019,s,laliga
+Valencia CF,Rúben Vezo,25,Portugal,Centre-Back,CB,£5.40m,Levante UD,Spain,£4.50m,Out,2019,s,laliga
+Valencia CF,Jeison Murillo,27,Colombia,Centre-Back,CB,£9.00m,UC Sampdoria,Italy,Loan fee:£1.80m,Out,2019,s,laliga
+Valencia CF,Aymen Abdennour,29,Tunisia,Centre-Back,CB,£1.80m,Kayserispor,Turkey,Free transfer,Out,2019,s,laliga
+Valencia CF,Jorge Sáenz,22,Spain,Centre-Back,CB,£2.70m,Celta de Vigo,Spain,Loan,Out,2019,s,laliga
+Valencia CF,Santi Mina,23,Spain,Centre-Forward,CF,£27.00m,Celta de Vigo,Spain,Free transfer,Out,2019,s,laliga
+Valencia CF,Salva Ruiz,24,Spain,Left-Back,LB,£360Th.,Deportivo de La Coruña,Spain,Free transfer,Out,2019,s,laliga
+Valencia CF,Nacho Gil,23,Spain,Left Winger,LW,£630Th.,SD Ponferradina,Spain,Free transfer,Out,2019,s,laliga
+Valencia CF,Toni Lato,21,Spain,Left-Back,LB,£4.50m,PSV Eindhoven,Netherlands,Loan,Out,2019,s,laliga
+Valencia CF,Uros Racic,21,Serbia,Central Midfield,CM,£4.50m,FC Famalicão,Portugal,Loan,Out,2019,s,laliga
+Valencia CF,Àlex Carbonell,21,Spain,Central Midfield,CM,£360Th.,Fortuna Sittard,Netherlands,Loan,Out,2019,s,laliga
+Valencia CF,Fran Villalba,21,Spain,Attacking Midfield,AM,£1.80m,Birmingham City,England,?,Out,2019,s,laliga
+Valencia CF,Álex Blanco,20,Spain,Left Winger,LW,£450Th.,Real Zaragoza,Spain,Loan,Out,2019,s,laliga
+Valencia CF,Jason,25,Spain,Right Winger,RW,£4.50m,Getafe CF,Spain,Loan,Out,2019,s,laliga
+Valencia CF,Álvaro Medrán,25,Spain,Central Midfield,CM,£1.62m,,Without Club,-,Out,2019,s,laliga
+Valencia CF,Denis Cheryshev,28,Russia,Left Winger,LW,£5.40m,Villarreal CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Valencia CF,Facundo Roncaglia,32,Argentina,Centre-Back,CB,£2.25m,Celta de Vigo,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Sevilla FC,Wissam Ben Yedder,29,France,Centre-Forward,CF,£36.00m,AS Monaco,France,£36.00m,Out,2019,s,laliga
+Sevilla FC,Pablo Sarabia,27,Spain,Right Winger,RW,£36.00m,Paris Saint-Germain,France,£16.20m,Out,2019,s,laliga
+Sevilla FC,Quincy Promes,27,Netherlands,Left Winger,LW,£16.20m,Ajax Amsterdam,Netherlands,£14.13m,Out,2019,s,laliga
+Sevilla FC,Luis Muriel,28,Colombia,Centre-Forward,CF,£11.70m,Atalanta BC,Italy,£13.50m,Out,2019,s,laliga
+Sevilla FC,Maximilian Wöber,21,Austria,Centre-Back,CB,£9.00m,Red Bull Salzburg,Austria,£9.45m,Out,2019,s,laliga
+Sevilla FC,Guilherme Arana,22,Brazil,Left-Back,LB,£2.70m,Atalanta BC,Italy,Loan fee:£900Th.,Out,2019,s,laliga
+Sevilla FC,Yan Brice,21,Cameroon,Central Midfield,CM,£900Th.,Granada CF,Spain,£900Th.,Out,2019,s,laliga
+Sevilla FC,Gabriel Mercado,32,Argentina,Centre-Back,CB,£2.25m,Al Rayyan Sports Club,Qatar,Free transfer,Out,2019,s,laliga
+Sevilla FC,Marc Gual,23,Spain,Centre-Forward,CF,£900Th.,Girona FC,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,Giorgi Aburjania,24,Georgia,Central Midfield,CM,£720Th.,Twente Enschede FC,Netherlands,Loan,Out,2019,s,laliga
+Sevilla FC,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,Norwich City,England,Loan,Out,2019,s,laliga
+Sevilla FC,Carlos Fernández,23,Spain,Centre-Forward,CF,£1.80m,Granada CF,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,Joris Gnagnon,22,France,Centre-Back,CB,£5.40m,Stade Rennais FC,France,Loan,Out,2019,s,laliga
+Sevilla FC,Simon Kjaer,30,Denmark,Centre-Back,CB,£7.20m,Atalanta BC,Italy,Loan,Out,2019,s,laliga
+Sevilla FC,Juan Soriano,21,Spain,Goalkeeper,GK,£2.25m,CD Leganés,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,Aleix Vidal,29,Spain,Right Winger,RW,£3.60m,Deportivo Alavés,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,Sébastien Corchia,28,France,Right-Back,RB,£1.80m,RCD Espanyol Barcelona,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,Sergio Rico,26,Spain,Goalkeeper,GK,£10.80m,Paris Saint-Germain,France,Loan,Out,2019,s,laliga
+Sevilla FC,Roque Mesa,30,Spain,Central Midfield,CM,£6.30m,CD Leganés,Spain,Loan,Out,2019,s,laliga
+Sevilla FC,André Silva,23,Portugal,Centre-Forward,CF,£19.80m,AC Milan,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Sevilla FC,Marko Rog,23,Croatia,Central Midfield,CM,£5.40m,SSC Napoli,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Sevilla FC,Maximilian Wöber,21,Austria,Centre-Back,CB,£9.00m,Ajax Amsterdam,Netherlands,"End of loanJun 30, 2019",Out,2019,s,laliga
+Sevilla FC,Maxime Gonalons,30,France,Defensive Midfield,DM,£3.60m,AS Roma,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Athletic Bilbao,Sabin Merino,27,Spain,Centre-Forward,CF,£900Th.,CD Leganés,Spain,Free transfer,Out,2019,s,laliga
+Athletic Bilbao,Ander Iturraspe,30,Spain,Defensive Midfield,DM,£2.25m,RCD Espanyol Barcelona,Spain,Free transfer,Out,2019,s,laliga
+Athletic Bilbao,Mikel Rico,34,Spain,Central Midfield,CM,£720Th.,SD Huesca,Spain,Free transfer,Out,2019,s,laliga
+Athletic Bilbao,Xabi Etxeita,31,Spain,Centre-Back,CB,£1.80m,Getafe CF,Spain,Free transfer,Out,2019,s,laliga
+Athletic Bilbao,Alex Remiro,24,Spain,Goalkeeper,GK,£1.35m,Real Sociedad,Spain,Free transfer,Out,2019,s,laliga
+Athletic Bilbao,Andoni López,23,Spain,Left-Back,LB,£450Th.,Elche CF,Spain,Loan,Out,2019,s,laliga
+Athletic Bilbao,Hodei Oleaga,22,Spain,Goalkeeper,GK,£180Th.,UD Melilla,Spain,Loan,Out,2019,s,laliga
+Athletic Bilbao,Iñigo Vicente,21,Spain,Left Winger,LW,£900Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+Athletic Bilbao,Peru Nolaskoain,20,Spain,Defensive Midfield,DM,£4.50m,Deportivo de La Coruña,Spain,Loan,Out,2019,s,laliga
+Athletic Bilbao,Markel Susaeta,31,Spain,Right Winger,RW,£5.40m,,Without Club,-,Out,2019,s,laliga
+Real Sociedad,Juanmi,26,Spain,Right Winger,RW,£7.20m,Real Betis Balompié,Spain,£7.20m,Out,2019,s,laliga
+Real Sociedad,Gerónimo Rulli,27,Argentina,Goalkeeper,GK,£9.00m,HSC Montpellier,France,Loan fee:£1.35m,Out,2019,s,laliga
+Real Sociedad,Eneko Capilla,24,Spain,Attacking Midfield,AM,£270Th.,Asteras Tripolis,Greece,Free transfer,Out,2019,s,laliga
+Real Sociedad,Héctor Moreno,31,Mexico,Centre-Back,CB,£5.40m,Al Gharafa Sports Club,Qatar,Free transfer,Out,2019,s,laliga
+Real Sociedad,Jon Guridi,24,Spain,Central Midfield,CM,£225Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+Real Sociedad,Alex Sola,20,Spain,Right-Back,RB,£180Th.,CD Numancia,Spain,Loan,Out,2019,s,laliga
+Real Sociedad,Kévin Rodrigues,25,Portugal,Left-Back,LB,£2.70m,CD Leganés,Spain,Loan,Out,2019,s,laliga
+Real Sociedad,Raúl Navas,31,Spain,Centre-Back,CB,£2.70m,CA Osasuna,Spain,Loan,Out,2019,s,laliga
+Real Sociedad,Jon Bautista,24,Spain,Centre-Forward,CF,£1.80m,KAS Eupen,Belgium,Loan,Out,2019,s,laliga
+Real Sociedad,Martín Merquelanz,24,Spain,Left Winger,LW,£360Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+Real Sociedad,Theo Hernández,21,France,Left-Back,LB,£13.50m,Real Madrid,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Sociedad,Sandro Ramírez,23,Spain,Centre-Forward,CF,£3.60m,Everton FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Espanyol Barcelona,Borja Iglesias,26,Spain,Centre-Forward,CF,£25.20m,Real Betis Balompié,Spain,£25.20m,Out,2019,s,laliga
+RCD Espanyol Barcelona,Mario Hermoso,24,Spain,Centre-Back,CB,£22.50m,Atlético Madrid,Spain,£22.50m,Out,2019,s,laliga
+RCD Espanyol Barcelona,Aarón Martín,22,Spain,Left-Back,LB,£18.00m,1.FSV Mainz 05,Germany,£5.40m,Out,2019,s,laliga
+RCD Espanyol Barcelona,Álvaro Vázquez,28,Spain,Centre-Forward,CF,£900Th.,Sporting Gijón,Spain,Free transfer,Out,2019,s,laliga
+RCD Espanyol Barcelona,Óscar Duarte,30,Costa Rica,Centre-Back,CB,£900Th.,Levante UD,Spain,Free transfer,Out,2019,s,laliga
+RCD Espanyol Barcelona,Hernán Pérez,30,Paraguay,Right Winger,RW,£1.35m,Al Ahli Sports Club,Qatar,Free transfer,Out,2019,s,laliga
+RCD Espanyol Barcelona,Roberto,33,Spain,Goalkeeper,GK,£1.35m,West Ham United,England,Free transfer,Out,2019,s,laliga
+RCD Espanyol Barcelona,Álex López,22,Spain,Central Midfield,CM,£360Th.,CD Lugo,Spain,Loan,Out,2019,s,laliga
+RCD Espanyol Barcelona,Sergio García,36,Spain,Centre-Forward,CF,£900Th.,,Retired,-,Out,2019,s,laliga
+RCD Espanyol Barcelona,Roberto Rosales,30,Venezuela,Right-Back,RB,£2.25m,Málaga CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Espanyol Barcelona,Alfa Semedo,21,Guinea-Bissau,Defensive Midfield,DM,£1.80m,SL Benfica,Portugal,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Guillermo Maripán,25,Chile,Centre-Back,CB,£13.50m,AS Monaco,France,£16.20m,Out,2019,s,laliga
+Deportivo Alavés,Cristian Glauder,23,Spain,Left-Back,LB,£270Th.,CF Fuenlabrada,Spain,Free transfer,Out,2019,s,laliga
+Deportivo Alavés,Nando García,25,Spain,Right Winger,RW,£360Th.,Arka Gdynia,Poland,Free transfer,Out,2019,s,laliga
+Deportivo Alavés,Carlos Vigaray,24,Spain,Right-Back,RB,£540Th.,Real Zaragoza,Spain,Free transfer,Out,2019,s,laliga
+Deportivo Alavés,Adrián Diéguez,23,Spain,Centre-Back,CB,£270Th.,AD Alcorcón,Spain,Loan,Out,2019,s,laliga
+Deportivo Alavés,Patrick Twumasi,25,Ghana,Right Winger,RW,£1.08m,Gaziantep FK,Turkey,Loan,Out,2019,s,laliga
+Deportivo Alavés,Olivier Verdon,23,Benin,Centre-Back,CB,£450Th.,KAS Eupen,Belgium,Loan,Out,2019,s,laliga
+Deportivo Alavés,Jeando Fuchs,21,Cameroon,Defensive Midfield,DM,£1.80m,Maccabi Haifa,Israel,Loan,Out,2019,s,laliga
+Deportivo Alavés,Anderson Emanuel,23,Angola,Left Winger,LW,£180Th.,CF Fuenlabrada,Spain,Loan,Out,2019,s,laliga
+Deportivo Alavés,Ramón Miérez,22,Argentina,Centre-Forward,CF,£585Th.,CD Tenerife,Spain,Loan,Out,2019,s,laliga
+Deportivo Alavés,Saúl García,24,Spain,Left-Back,LB,£810Th.,Rayo Vallecano,Spain,Loan,Out,2019,s,laliga
+Deportivo Alavés,Rafa Páez,24,Spain,Centre-Back,CB,£360Th.,NK Istra 1961,Croatia,Loan,Out,2019,s,laliga
+Deportivo Alavés,Ermedin Demirovic,21,Bosnia-Herzegovina,Centre-Forward,CF,£900Th.,FC St. Gallen 1879,Switzerland,Loan,Out,2019,s,laliga
+Deportivo Alavés,Jony,27,Spain,Left Midfield,LM,£9.00m,Málaga CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Darko Brasanac,27,Serbia,Central Midfield,CM,£1.80m,Real Betis Balompié,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Diego Rolán,26,Uruguay,Centre-Forward,CF,£1.80m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Jonathan Calleri,25,Argentina,Centre-Forward,CF,£8.10m,Club Deportivo Maldonado,Uruguay,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Álex Blanco,20,Spain,Left Winger,LW,£450Th.,Valencia CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Borja Bastón,26,Spain,Centre-Forward,CF,£1.80m,Swansea City,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+Deportivo Alavés,Takashi Inui,31,Japan,Left Winger,LW,£3.60m,Real Betis Balompié,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+SD Eibar,Joan Jordán,24,Spain,Central Midfield,CM,£10.80m,Sevilla FC,Spain,£12.60m,Out,2019,s,laliga
+SD Eibar,Rubén Peña,27,Spain,Right-Back,RB,£9.00m,Villarreal CF,Spain,£7.20m,Out,2019,s,laliga
+SD Eibar,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,FC Barcelona,Spain,£3.60m,Out,2019,s,laliga
+SD Eibar,Pablo Hervías,26,Spain,Right Winger,RW,£630Th.,Real Valladolid CF,Spain,£900Th.,Out,2019,s,laliga
+SD Eibar,Asier Riesgo,35,Spain,Goalkeeper,GK,£360Th.,Girona FC,Spain,Free transfer,Out,2019,s,laliga
+SD Eibar,Rubén Lobato,25,Spain,Left-Back,LB,£225Th.,Getafe CF B,Spain,Free transfer,Out,2019,s,laliga
+SD Eibar,Pere Milla,26,Spain,Left Winger,LW,£630Th.,Elche CF,Spain,Free transfer,Out,2019,s,laliga
+SD Eibar,Unai Elgezabal,26,Spain,Centre-Back,CB,£360Th.,AD Alcorcón,Spain,Free transfer,Out,2019,s,laliga
+SD Eibar,Roberto Olabe,23,Spain,Central Midfield,CM,£720Th.,Albacete Balompié,Spain,Loan,Out,2019,s,laliga
+SD Eibar,Nano Mesa,24,Spain,Centre-Forward,CF,£540Th.,Cádiz CF,Spain,Loan,Out,2019,s,laliga
+SD Eibar,José Antonio Martínez,26,Spain,Centre-Back,CB,£1.08m,Granada CF,Spain,Loan,Out,2019,s,laliga
+SD Eibar,Asier Benito,24,Spain,Centre-Forward,CF,£225Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+SD Eibar,Jordi Calavera,24,Spain,Right-Back,RB,£540Th.,Girona FC,Spain,Loan,Out,2019,s,laliga
+SD Eibar,Marc Cardona,23,Spain,Centre-Forward,CF,£1.35m,FC Barcelona,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+SD Eibar,Marc Cucurella,20,Spain,Left Midfield,LM,£9.00m,FC Barcelona,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+SD Eibar,Pedro Bigas,29,Spain,Centre-Back,CB,£2.70m,UD Las Palmas,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Luciano,26,Brazil,Centre-Forward,CF,£1.80m,Grêmio Foot-Ball Porto Alegrense,Brazil,£900Th.,Out,2019,s,laliga
+CD Leganés,Gerard Gumbau,24,Spain,Defensive Midfield,DM,£2.25m,Girona FC,Spain,£450Th.,Out,2019,s,laliga
+CD Leganés,Juan Muñoz,23,Spain,Centre-Forward,CF,£1.35m,UD Almería,Spain,Loan fee:£243Th.,Out,2019,s,laliga
+CD Leganés,Fede Vico,24,Spain,Attacking Midfield,AM,£1.35m,Granada CF,Spain,£225Th.,Out,2019,s,laliga
+CD Leganés,Nabil El Zhar,32,Morocco,Right Winger,RW,£1.80m,Al Ahli Sports Club,Qatar,Free transfer,Out,2019,s,laliga
+CD Leganés,Ezequiel Muñoz,28,Argentina,Centre-Back,CB,£900Th.,Club Atlético Lanús,Argentina,Free transfer,Out,2019,s,laliga
+CD Leganés,Andrés Prieto,25,Spain,Goalkeeper,GK,£180Th.,RCD Espanyol Barcelona,Spain,Free transfer,Out,2019,s,laliga
+CD Leganés,Dani Ojeda,24,Spain,Left Winger,LW,£360Th.,Albacete Balompié,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Josua Mejías,22,Venezuela,Centre-Back,CB,£180Th.,Atlético Madrid B,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Álex Martín,21,Spain,Centre-Back,CB,£90Th.,FC Cartagena,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Mamadou Koné,27,Cote d'Ivoire,Centre-Forward,CF,£720Th.,Deportivo de La Coruña,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Facundo García,19,Argentina,Central Midfield,CM,£540Th.,AEK Larnaca,Cyprus,Loan,Out,2019,s,laliga
+CD Leganés,Kleandro Lleshi,19,Albania,Defensive Midfield,DM,£180Th.,CF Fuenlabrada,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Owusu,22,Ghana,Right Winger,RW,£270Th.,Córdoba CF,Spain,Loan,Out,2019,s,laliga
+CD Leganés,Mikel Vesga,26,Spain,Defensive Midfield,DM,£3.60m,Athletic Bilbao,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Jonathan Silva,25,Argentina,Left-Back,LB,£2.70m,Sporting CP,Portugal,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Allan Nyom,31,Cameroon,Right-Back,RB,£2.70m,West Bromwich Albion,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Martin Braithwaite,28,Denmark,Centre-Forward,CF,£7.20m,Middlesbrough FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Juanfran,30,Spain,Right-Back,RB,£2.25m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Kenneth Omeruo,25,Nigeria,Centre-Back,CB,£4.50m,Chelsea FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Sabin Merino,27,Spain,Centre-Forward,CF,£900Th.,Athletic Bilbao,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Guido Carrillo,28,Argentina,Centre-Forward,CF,£6.75m,Southampton FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Michael Santos,26,Uruguay,Centre-Forward,CF,£1.80m,Málaga CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£6.75m,Real Madrid,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CD Leganés,Diego Reyes,26,Mexico,Centre-Back,CB,£1.80m,Fenerbahce SK,Turkey,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Betis Balompié,Pau López,24,Spain,Goalkeeper,GK,£18.00m,AS Roma,Italy,£21.15m,Out,2019,s,laliga
+Real Betis Balompié,Júnior Firpo,22,Spain,Left-Back,LB,£22.50m,FC Barcelona,Spain,£16.20m,Out,2019,s,laliga
+Real Betis Balompié,Giovani Lo Celso,23,Argentina,Central Midfield,CM,£45.00m,Tottenham Hotspur,England,Loan fee:£14.40m,Out,2019,s,laliga
+Real Betis Balompié,Sergio León,30,Spain,Centre-Forward,CF,£2.70m,Levante UD,Spain,£3.60m,Out,2019,s,laliga
+Real Betis Balompié,Ryad Boudebouz,29,Algeria,Attacking Midfield,AM,£5.40m,AS Saint-Étienne,France,£3.15m,Out,2019,s,laliga
+Real Betis Balompié,Takashi Inui,31,Japan,Left Winger,LW,£3.60m,SD Eibar,Spain,£1.80m,Out,2019,s,laliga
+Real Betis Balompié,Víctor Camarasa,25,Spain,Central Midfield,CM,£9.00m,Crystal Palace,England,Loan fee:£1.35m,Out,2019,s,laliga
+Real Betis Balompié,Darko Brasanac,27,Serbia,Central Midfield,CM,£1.80m,CA Osasuna,Spain,£900Th.,Out,2019,s,laliga
+Real Betis Balompié,Alin Tosca,27,Romania,Centre-Back,CB,£1.13m,Gaziantep FK,Turkey,Free transfer,Out,2019,s,laliga
+Real Betis Balompié,Alex Alegría,26,Spain,Centre-Forward,CF,£720Th.,RCD Mallorca,Spain,Free transfer,Out,2019,s,laliga
+Real Betis Balompié,Juanjo Narváez,24,Colombia,Left Winger,LW,£630Th.,UD Las Palmas,Spain,Loan,Out,2019,s,laliga
+Real Betis Balompié,Aitor Ruibal,23,Spain,Right Winger,RW,£1.35m,CD Leganés,Spain,Loan,Out,2019,s,laliga
+Real Betis Balompié,Julio Gracia,21,Spain,Attacking Midfield,AM,£225Th.,CD Badajoz,Spain,Loan,Out,2019,s,laliga
+Real Betis Balompié,Liberto Beltrán,22,Spain,Left Winger,LW,£90Th.,Lleida Esportiu,Spain,Loan,Out,2019,s,laliga
+Real Betis Balompié,Giovani Lo Celso,23,Argentina,Central Midfield,CM,£45.00m,Paris Saint-Germain,France,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Betis Balompié,Emerson,20,Brazil,Right-Back,RB,£2.70m,Clube Atlético Mineiro,Brazil,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Betis Balompié,Jesé,26,Spain,Left Winger,LW,£4.50m,Paris Saint-Germain,France,"End of loanJun 30, 2019",Out,2019,s,laliga
+Villarreal CF,Pablo Fornals,23,Spain,Attacking Midfield,AM,£22.50m,West Ham United,England,£25.20m,Out,2019,s,laliga
+Villarreal CF,Nicola Sansone,27,Italy,Left Winger,LW,£6.75m,Bologna FC 1909,Italy,£7.20m,Out,2019,s,laliga
+Villarreal CF,Roberto Soriano,28,Italy,Central Midfield,CM,£6.30m,Bologna FC 1909,Italy,£7.20m,Out,2019,s,laliga
+Villarreal CF,Denis Cheryshev,28,Russia,Left Winger,LW,£5.40m,Valencia CF,Spain,£5.40m,Out,2019,s,laliga
+Villarreal CF,Alfred N'Diaye,29,Senegal,Defensive Midfield,DM,£3.15m,Al-Shabab Riyadh,Saudi Arabia,£5.40m,Out,2019,s,laliga
+Villarreal CF,Rúben Semedo,25,Portugal,Centre-Back,CB,£1.80m,Olympiacos Piraeus,Greece,£4.05m,Out,2019,s,laliga
+Villarreal CF,Víctor Ruiz,30,Spain,Centre-Back,CB,£6.30m,Besiktas JK,Turkey,£2.25m,Out,2019,s,laliga
+Villarreal CF,Javi Fuego,35,Spain,Defensive Midfield,DM,£720Th.,Sporting Gijón,Spain,Free transfer,Out,2019,s,laliga
+Villarreal CF,Juan Ibiza,23,Spain,Centre-Back,CB,£540Th.,UD Almería,Spain,Free transfer,Out,2019,s,laliga
+Villarreal CF,Álvaro González,29,Spain,Centre-Back,CB,£7.20m,Olympique Marseille,France,Loan,Out,2019,s,laliga
+Villarreal CF,Alfonso Pedraza,23,Spain,Left-Back,LB,£19.80m,Real Betis Balompié,Spain,Loan,Out,2019,s,laliga
+Villarreal CF,Dani Raba,23,Spain,Right Winger,RW,£1.80m,SD Huesca,Spain,Loan,Out,2019,s,laliga
+Villarreal CF,Miguelón,23,Spain,Right-Back,RB,£720Th.,SD Huesca,Spain,Loan,Out,2019,s,laliga
+Villarreal CF,Enric Franquesa,22,Spain,Left-Back,LB,£135Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+Villarreal CF,Jaume Costa,31,Spain,Left-Back,LB,£3.60m,Valencia CF,Spain,Loan,Out,2019,s,laliga
+Villarreal CF,Daniele Bonera,38,Italy,Centre-Back,CB,£180Th.,,Retired,-,Out,2019,s,laliga
+Levante UD,Rubén García,25,Spain,Attacking Midfield,AM,£3.15m,CA Osasuna,Spain,£2.70m,Out,2019,s,laliga
+Levante UD,Sanjin Prcic,25,Bosnia-Herzegovina,Central Midfield,CM,£3.60m,RC Strasbourg Alsace,France,£900Th.,Out,2019,s,laliga
+Levante UD,Chema,27,Spain,Centre-Back,CB,£2.25m,Nottingham Forest,England,£450Th.,Out,2019,s,laliga
+Levante UD,Esteban Saveljich,28,Montenegro,Centre-Back,CB,£900Th.,Rayo Vallecano,Spain,£270Th.,Out,2019,s,laliga
+Levante UD,Moses Simon,24,Nigeria,Left Winger,LW,£2.70m,FC Nantes,France,Loan,Out,2019,s,laliga
+Levante UD,Pedro López,35,Spain,Right-Back,RB,£180Th.,SD Huesca,Spain,Free transfer,Out,2019,s,laliga
+Levante UD,Fran Manzanara,22,Spain,Central Midfield,CM,£270Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+Levante UD,Jason,24,Spain,Right Winger,RW,£4.50m,Valencia CF,Spain,Free transfer,Out,2019,s,laliga
+Levante UD,Koke Vegas,23,Spain,Goalkeeper,GK,£720Th.,Deportivo de La Coruña,Spain,Loan,Out,2019,s,laliga
+Levante UD,Cheick Doukouré,26,Cote d'Ivoire,Defensive Midfield,DM,£900Th.,SD Huesca,Spain,Loan,Out,2019,s,laliga
+Levante UD,Pepelu,20,Spain,Defensive Midfield,DM,£270Th.,CD Tondela,Portugal,Loan,Out,2019,s,laliga
+Levante UD,Ivi López,25,Spain,Right Winger,RW,£900Th.,SD Huesca,Spain,Loan,Out,2019,s,laliga
+Levante UD,Raphael Dwamena,23,Ghana,Centre-Forward,CF,£2.25m,Real Zaragoza,Spain,Loan,Out,2019,s,laliga
+Levante UD,Antonio Luna,28,Spain,Left-Back,LB,£1.35m,Rayo Vallecano,Spain,Loan,Out,2019,s,laliga
+Levante UD,Armando Sadiku,28,Albania,Centre-Forward,CF,£630Th.,Málaga CF,Spain,Loan,Out,2019,s,laliga
+Levante UD,Rober Pier,24,Spain,Centre-Back,CB,£2.25m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Levante UD,Rúben Vezo,25,Portugal,Centre-Back,CB,£5.40m,Valencia CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Levante UD,Borja Mayoral,22,Spain,Centre-Forward,CF,£3.60m,Real Madrid,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Valladolid CF,Fernando Calero,23,Spain,Centre-Back,CB,£9.00m,RCD Espanyol Barcelona,Spain,£7.20m,Out,2019,s,laliga
+Real Valladolid CF,Antonio Domínguez,26,Spain,Right Winger,RW,£135Th.,Algeciras CF,Spain,Free transfer,Out,2019,s,laliga
+Real Valladolid CF,David Mayoral,22,Spain,Right Winger,RW,£270Th.,UCAM Murcia CF,Spain,Free transfer,Out,2019,s,laliga
+Real Valladolid CF,Marcos André,22,Brazil,Centre-Forward,CF,£360Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+Real Valladolid CF,Moisés Delgado,25,Spain,Left-Back,LB,£270Th.,Racing Santander,Spain,Loan,Out,2019,s,laliga
+Real Valladolid CF,José Antonio Caro,25,Spain,Goalkeeper,GK,£360Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+Real Valladolid CF,Chris Ramos,22,Spain,Centre-Forward,CF,£225Th.,CD Badajoz,Spain,Loan,Out,2019,s,laliga
+Real Valladolid CF,Borja Fernández,38,Spain,Defensive Midfield,DM,£90Th.,,Retired,-,Out,2019,s,laliga
+Real Valladolid CF,Keko,27,Spain,Right Winger,RW,£1.80m,Málaga CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Valladolid CF,Yoel Rodríguez,30,Spain,Goalkeeper,GK,£1.35m,SD Eibar,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Valladolid CF,Duje Cop,29,Croatia,Centre-Forward,CF,£1.35m,Standard Liège,Belgium,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Valladolid CF,Daniele Verde,23,Italy,Right Winger,RW,£2.25m,AS Roma,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+Real Valladolid CF,Pablo Hervías,26,Spain,Right Winger,RW,£630Th.,SD Eibar,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Celta de Vigo,Maxi Gómez,22,Uruguay,Centre-Forward,CF,£36.00m,Valencia CF,Spain,£13.05m,Out,2019,s,laliga
+Celta de Vigo,Mathias Jensen,23,Denmark,Central Midfield,CM,£2.25m,Brentford FC,England,£3.42m,Out,2019,s,laliga
+Celta de Vigo,Emre Mor,22,Turkey,Right Winger,RW,£1.80m,Galatasaray SK,Turkey,Loan fee:£540Th.,Out,2019,s,laliga
+Celta de Vigo,Andrew Hjulsager,24,Denmark,Right Winger,RW,£900Th.,KV Oostende,Belgium,£450Th.,Out,2019,s,laliga
+Celta de Vigo,Facundo Roncaglia,32,Argentina,Centre-Back,CB,£2.25m,CA Osasuna,Spain,£225Th.,Out,2019,s,laliga
+Celta de Vigo,Gustavo Cabral,33,Argentina,Centre-Back,CB,£1.35m,CF Pachuca,Mexico,Free transfer,Out,2019,s,laliga
+Celta de Vigo,Dennis Eckert Ayensa,22,Germany,Centre-Forward,CF,£1.08m,FC Ingolstadt 04,Germany,Free transfer,Out,2019,s,laliga
+Celta de Vigo,Nemanja Radoja,26,Serbia,Defensive Midfield,DM,£2.70m,Levante UD,Spain,Free transfer,Out,2019,s,laliga
+Celta de Vigo,Jozabed Sánchez,28,Spain,Central Midfield,CM,£1.80m,Girona FC,Spain,Loan,Out,2019,s,laliga
+Celta de Vigo,Robert Mazan,25,Slovakia,Left-Back,LB,£270Th.,CD Tenerife,Spain,Loan,Out,2019,s,laliga
+Celta de Vigo,Sofiane Boufal,25,Morocco,Left Winger,LW,£10.80m,Southampton FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+Celta de Vigo,Ryad Boudebouz,29,Algeria,Attacking Midfield,AM,£5.40m,Real Betis Balompié,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Celta de Vigo,Wesley Hoedt,25,Netherlands,Centre-Back,CB,£10.80m,Southampton FC,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+CA Osasuna,Carlos Clerc,27,Spain,Left-Back,LB,£1.80m,Levante UD,Spain,Free transfer,Out,2019,s,laliga
+CA Osasuna,David Rodríguez,33,Spain,Centre-Forward,CF,£360Th.,Racing Santander,Spain,Free transfer,Out,2019,s,laliga
+CA Osasuna,Miguel Díaz,25,Spain,Attacking Midfield,AM,£180Th.,CD Tudelano,Spain,Free transfer,Out,2019,s,laliga
+CA Osasuna,Imanol García,23,Spain,Central Midfield,CM,£450Th.,Córdoba CF,Spain,Free transfer,Out,2019,s,laliga
+CA Osasuna,Jaume Grau,22,Spain,Central Midfield,CM,£270Th.,CD Lugo,Spain,Loan,Out,2019,s,laliga
+CA Osasuna,Antonio Otegui,21,Spain,Central Midfield,CM,£270Th.,CD Numancia,Spain,Loan,Out,2019,s,laliga
+CA Osasuna,Xisco,33,Spain,Centre-Forward,CF,£450Th.,,Without Club,-,Out,2019,s,laliga
+CA Osasuna,Miguel Olavide,23,Spain,Right Winger,RW,£360Th.,,Without Club,-,Out,2019,s,laliga
+CA Osasuna,Brandon,24,Spain,Centre-Forward,CF,£1.80m,Stade Rennais FC,France,"End of loanJun 30, 2019",Out,2019,s,laliga
+CA Osasuna,Rubén García,25,Spain,Attacking Midfield,AM,£3.15m,Levante UD,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+CA Osasuna,Robert Ibáñez,26,Spain,Right Winger,RW,£900Th.,Getafe CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Granada CF,Adrián Castellano,25,Spain,Left-Back,LB,£270Th.,CD Numancia,Spain,£270Th.,Out,2019,s,laliga
+Granada CF,Sergio Peña,23,Peru,Attacking Midfield,AM,£630Th.,FC Emmen,Netherlands,Free transfer,Out,2019,s,laliga
+Granada CF,Pablo Vázquez,24,Spain,Centre-Back,CB,£270Th.,CD Badajoz,Spain,Free transfer,Out,2019,s,laliga
+Granada CF,Raúl Baena,30,Spain,Defensive Midfield,DM,£720Th.,Atromitos Athen,Greece,Free transfer,Out,2019,s,laliga
+Granada CF,Bernardo Cruz,26,Spain,Centre-Back,CB,£720Th.,AD Alcorcón,Spain,Loan,Out,2019,s,laliga
+Granada CF,José Antonio González,23,Spain,Central Midfield,CM,£270Th.,Córdoba CF,Spain,Loan,Out,2019,s,laliga
+Granada CF,Nicolás Aguirre,29,Argentina,Central Midfield,CM,£900Th.,,Without Club,-,Out,2019,s,laliga
+Granada CF,Fran Rico,31,Spain,Central Midfield,CM,£540Th.,,Retired,-,Out,2019,s,laliga
+Granada CF,Alberto Martín,30,Spain,Central Midfield,CM,£540Th.,,Without Club,-,Out,2019,s,laliga
+Granada CF,Rodri,29,Spain,Centre-Forward,CF,£720Th.,,Without Club,-,Out,2019,s,laliga
+Granada CF,Fede Vico,24,Spain,Attacking Midfield,AM,£1.35m,CD Leganés,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Granada CF,Alejandro Pozo,20,Spain,Right Winger,RW,£2.25m,Sevilla FC,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Granada CF,Fede San Emeterio,22,Spain,Central Midfield,CM,£4.50m,Real Valladolid CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Granada CF,José Antonio Martínez,26,Spain,Centre-Back,CB,£1.08m,SD Eibar,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+Granada CF,Dani Ojeda,24,Spain,Left Winger,LW,£360Th.,CD Leganés,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Mallorca,Salva Ruiz,24,Spain,Left-Back,LB,£360Th.,Valencia CF,Spain,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Alejandro Faurlín,32,Argentina,Central Midfield,CM,£180Th.,Marbella FC,Spain,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Pol Roigé,25,Spain,Right Winger,RW,£225Th.,GIF Sundsvall,Sweden,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Leandro Montagud,30,Spain,Goalkeeper,GK,£270Th.,Cultural Leonesa,Spain,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Álvaro Bustos,24,Spain,Left Winger,LW,£225Th.,Pontevedra CF,Spain,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Pablo Valcarce,26,Spain,Right Winger,RW,£450Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Fernando Cano,24,Spain,Attacking Midfield,AM,£225Th.,Lleida Esportiu,Spain,Free transfer,Out,2019,s,laliga
+RCD Mallorca,Pierre Cornud,22,France,Left-Back,LB,£270Th.,Real Oviedo Vetusta,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Sergio Buenacasa,23,Spain,Centre-Forward,CF,£270Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Carlos Castro,24,Spain,Centre-Forward,CF,£720Th.,CD Lugo,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Álex López,25,Spain,Centre-Forward,CF,£450Th.,Extremadura UD,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Antonio Sánchez,22,Spain,Central Midfield,CM,£225Th.,CD Mirandés,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Franco Russo,24,Argentina,Centre-Back,CB,£270Th.,SD Ponferradina,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Sergio Moyita,26,Spain,Right Winger,RW,£270Th.,CF Rayo Majadahonda,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Stoichkov,25,Spain,Attacking Midfield,AM,£270Th.,AD Alcorcón,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Bryan Reyna,20,Peru,Left Winger,LW,£90Th.,Barakaldo CF ,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Igor Zlatanovic,21,Serbia,Centre-Forward,CF,£1.13m,CD Numancia,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Iñigo Ruiz de Galarreta,26,Spain,Central Midfield,CM,£1.80m,UD Las Palmas,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Enzo Lombardo,22,France,Left Winger,LW,£180Th.,Racing Santander,Spain,Loan,Out,2019,s,laliga
+RCD Mallorca,Pervis Estupiñán,21,Ecuador,Left-Back,LB,£1.80m,Watford FC U23,England,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Mallorca,Nikola Stojiljkovic,26,Serbia,Centre-Forward,CF,£720Th.,SC Braga,Portugal,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Mallorca,Ante Budimir,27,Croatia,Centre-Forward,CF,£1.26m,FC Crotone,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Mallorca,Martin Valjent,23,Slovakia,Centre-Back,CB,£1.35m,Chievo Verona,Italy,"End of loanJun 30, 2019",Out,2019,s,laliga
+RCD Mallorca,Leo Suárez,23,Argentina,Right Winger,RW,£900Th.,Villarreal CF,Spain,"End of loanJun 30, 2019",Out,2019,s,laliga
+FC Barcelona,Martin Braithwaite,28,Denmark,Centre-Forward,CF,£9.00m,CD Leganés,Spain,£16.20m,In,2019,w,laliga
+FC Barcelona,Arda Turan,32,Turkey,Left Winger,LW,£720Th.,Istanbul Basaksehir FK,Turkey,"End of loanJan 4, 2020",In,2019,w,laliga
+Atlético Madrid,Yannick Carrasco,26,Belgium,Left Winger,LW,£25.20m,Dalian Professional,China,Loan,In,2019,w,laliga
+Real Madrid,Reinier,18,Brazil,Attacking Midfield,AM,£22.50m,Clube de Regatas do Flamengo,Brazil,£27.00m,In,2019,w,laliga
+Real Madrid,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£2.70m,Real Valladolid CF,Spain,"End of loanJan 14, 2020",In,2019,w,laliga
+Real Madrid,Jorge de Frutos,22,Spain,Right Winger,RW,£2.25m,Real Valladolid CF,Spain,"End of loanJan 16, 2020",In,2019,w,laliga
+Getafe CF,Erick Cabaco,24,Uruguay,Centre-Back,CB,£1.80m,Levante UD,Spain,£7.20m,In,2019,w,laliga
+Getafe CF,Chema,27,Spain,Centre-Back,CB,£1.35m,Nottingham Forest,England,£1.35m,In,2019,w,laliga
+Getafe CF,Oghenekaro Etebo,24,Nigeria,Central Midfield,CM,£4.50m,Stoke City,England,Loan,In,2019,w,laliga
+Getafe CF,Deyverson,28,Brazil,Centre-Forward,CF,£3.15m,Sociedade Esportiva Palmeiras,Brazil,Loan,In,2019,w,laliga
+Getafe CF,Enric Gallego,33,Spain,Centre-Forward,CF,£1.08m,CA Osasuna,Spain,"End of loanJun 30, 2020",In,2019,w,laliga
+Valencia CF,Alessandro Florenzi,28,Italy,Right-Back,RB,£18.00m,AS Roma,Italy,Loan,In,2019,w,laliga
+Valencia CF,Toni Lato,22,Spain,Left-Back,LB,£1.80m,PSV Eindhoven,Netherlands,"End of loanJan 1, 2020",In,2019,w,laliga
+Valencia CF,Jeison Murillo,27,Colombia,Centre-Back,CB,£7.20m,UC Sampdoria,Italy,"End of loanDec 31, 2019",In,2019,w,laliga
+Sevilla FC,Youssef En-Nesyri,22,Morocco,Centre-Forward,CF,£10.80m,CD Leganés,Spain,£18.00m,In,2019,w,laliga
+Sevilla FC,Suso,26,Spain,Right Winger,RW,£27.00m,AC Milan,Italy,Loan,In,2019,w,laliga
+Sevilla FC,Marc Gual,23,Spain,Centre-Forward,CF,£1.26m,Girona FC,Spain,"End of loanJan 29, 2020",In,2019,w,laliga
+Sevilla FC,Simon Kjaer,30,Denmark,Centre-Back,CB,£5.85m,Atalanta BC,Italy,"End of loanJan 12, 2020",In,2019,w,laliga
+Sevilla FC,Guilherme Arana,22,Brazil,Left-Back,LB,£2.52m,Atalanta BC,Italy,"End of loanJan 28, 2020",In,2019,w,laliga
+Sevilla FC,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,Norwich City,England,"End of loanJan 30, 2020",In,2019,w,laliga
+Real Sociedad,David Concha,23,Spain,Right Winger,RW,£180Th.,Gamba Osaka,Japan,"End of loanJan 1, 2020",In,2019,w,laliga
+RCD Espanyol Barcelona,Raúl de Tomás,25,Spain,Centre-Forward,CF,£13.50m,SL Benfica,Portugal,£18.45m,In,2019,w,laliga
+RCD Espanyol Barcelona,Adrián Embarba,27,Spain,Right Winger,RW,£3.60m,Rayo Vallecano,Spain,£9.00m,In,2019,w,laliga
+RCD Espanyol Barcelona,Leandro Cabrera,28,Uruguay,Centre-Back,CB,£9.00m,Getafe CF,Spain,£8.10m,In,2019,w,laliga
+RCD Espanyol Barcelona,Oier Olazábal,30,Spain,Goalkeeper,GK,£1.80m,Levante UD,Spain,£1.35m,In,2019,w,laliga
+RCD Espanyol Barcelona,Víctor Gómez,19,Spain,Right-Back,RB,£270Th.,RCD Espanyol B,Spain,-,In,2019,w,laliga
+Deportivo Alavés,Víctor Camarasa,25,Spain,Central Midfield,CM,£4.50m,Real Betis Balompié,Spain,Loan,In,2019,w,laliga
+Deportivo Alavés,Roberto,33,Spain,Goalkeeper,GK,£900Th.,West Ham United,England,Loan,In,2019,w,laliga
+Deportivo Alavés,Edgar Méndez,30,Spain,Right Winger,RW,£1.80m,CD Cruz Azul,Mexico,?,In,2019,w,laliga
+Deportivo Alavés,Ismael Gutiérrez,19,Spain,Central Midfield,CM,£900Th.,Real Betis Balompié,Spain,Loan,In,2019,w,laliga
+Deportivo Alavés,Ljubomir Fejsa,31,Serbia,Defensive Midfield,DM,£3.15m,SL Benfica,Portugal,Loan,In,2019,w,laliga
+Deportivo Alavés,Jeando Fuchs,22,Cameroon,Defensive Midfield,DM,£1.35m,Maccabi Haifa,Israel,"End of loanJan 27, 2020",In,2019,w,laliga
+SD Eibar,Sebastián Cristóforo,26,Uruguay,Central Midfield,CM,£1.35m,ACF Fiorentina,Italy,Loan,In,2019,w,laliga
+SD Eibar,Rafa Soares,24,Portugal,Left-Back,LB,£2.70m,Vitória Guimarães SC,Portugal,Loan,In,2019,w,laliga
+SD Eibar,Roberto Olabe,23,Spain,Central Midfield,CM,£720Th.,Albacete Balompié,Spain,"End of loanJan 21, 2020",In,2019,w,laliga
+CD Leganés,Owusu,22,Ghana,Right Winger,RW,£270Th.,Córdoba CF,Spain,"End of loanJan 22, 2020",In,2019,w,laliga
+CD Leganés,Miguel Ángel Guerrero,29,Spain,Centre-Forward,CF,£1.80m,Olympiacos Piraeus,Greece,Loan,In,2019,w,laliga
+CD Leganés,Bryan Gil,18,Spain,Left Winger,LW,£9.00m,Sevilla FC,Spain,Loan,In,2019,w,laliga
+CD Leganés,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,Sevilla FC,Spain,Loan,In,2019,w,laliga
+CD Leganés,Roger Assalé,26,Cote d'Ivoire,Centre-Forward,CF,£6.75m,BSC Young Boys,Switzerland,Loan,In,2019,w,laliga
+CD Leganés,Kleandro Lleshi,20,Albania,Defensive Midfield,DM,£180Th.,CF Fuenlabrada,Spain,"End of loanJan 20, 2020",In,2019,w,laliga
+Real Betis Balompié,Guido Rodríguez,25,Argentina,Defensive Midfield,DM,£9.00m,CF América,Mexico,£4.05m,In,2019,w,laliga
+Real Betis Balompié,Carles Aleñá,21,Spain,Central Midfield,CM,£18.00m,FC Barcelona,Spain,Loan,In,2019,w,laliga
+Real Betis Balompié,Víctor Camarasa,25,Spain,Central Midfield,CM,£4.50m,Crystal Palace,England,"End of loanJan 12, 2020",In,2019,w,laliga
+Real Betis Balompié,Ismael Gutiérrez,19,Spain,Central Midfield,CM,£900Th.,Betis Deportivo Balompié,Spain,-,In,2019,w,laliga
+Villarreal CF,Paco Alcácer,26,Spain,Centre-Forward,CF,£37.80m,Borussia Dortmund,Germany,£20.70m,In,2019,w,laliga
+Villarreal CF,Soufiane Chakla,26,Morocco,Centre-Back,CB,£225Th.,Villarreal CF B,Spain,-,In,2019,w,laliga
+Villarreal CF,Cristian Espinoza,24,Argentina,Right Winger,RW,£1.35m,San Jose Earthquakes,United States,"End of loanDec 31, 2019",In,2019,w,laliga
+Levante UD,Bruno González,29,Spain,Centre-Back,CB,£1.35m,Getafe CF,Spain,Free transfer,In,2019,w,laliga
+Levante UD,Koke Vegas,24,Spain,Goalkeeper,GK,£630Th.,Deportivo de La Coruña,Spain,"End of loanJan 31, 2020",In,2019,w,laliga
+Levante UD,Ivi López,25,Spain,Right Winger,RW,£720Th.,SD Huesca,Spain,"End of loanJan 15, 2020",In,2019,w,laliga
+Real Valladolid CF,Sekou Gassama,24,Senegal,Centre-Forward,CF,£450Th.,UD Almería,Spain,£360Th.,In,2019,w,laliga
+Real Valladolid CF,Raúl Garcia,30,Spain,Left-Back,LB,£900Th.,Getafe CF,Spain,Loan,In,2019,w,laliga
+Real Valladolid CF,Matheus Fernandes,21,Brazil,Central Midfield,CM,£3.15m,Sociedade Esportiva Palmeiras,Brazil,Loan,In,2019,w,laliga
+Real Valladolid CF,José Antonio Caro,25,Spain,Goalkeeper,GK,£540Th.,SD Ponferradina,Spain,"End of loanJan 12, 2020",In,2019,w,laliga
+Real Valladolid CF,Hatem Ben Arfa,32,France,Attacking Midfield,AM,£5.40m,,Without Club,-,In,2019,w,laliga
+Celta de Vigo,Fedor Smolov,29,Russia,Centre-Forward,CF,£8.10m,Lokomotiv Moscow,Russia,Loan fee:£630Th.,In,2019,w,laliga
+Celta de Vigo,Jeison Murillo,27,Colombia,Centre-Back,CB,£7.20m,UC Sampdoria,Italy,Loan,In,2019,w,laliga
+Celta de Vigo,Filip Bradaric,28,Croatia,Defensive Midfield,DM,£3.60m,Cagliari Calcio,Italy,Loan,In,2019,w,laliga
+CA Osasuna,José Manuel Arnáiz,24,Spain,Left Winger,LW,£2.25m,CD Leganés,Spain,Loan fee:£450Th.,In,2019,w,laliga
+CA Osasuna,Toni Lato,22,Spain,Left-Back,LB,£1.80m,Valencia CF,Spain,Loan,In,2019,w,laliga
+CA Osasuna,Enric Gallego,33,Spain,Centre-Forward,CF,£1.35m,Getafe CF,Spain,Loan,In,2019,w,laliga
+Granada CF,Antoñín,19,Spain,Centre-Forward,CF,£1.35m,Málaga CF,Spain,£1.35m,In,2019,w,laliga
+Granada CF,Gil Dias,23,Portugal,Right Winger,RW,£3.60m,AS Monaco,France,Loan,In,2019,w,laliga
+Granada CF,Jesús Vallejo,23,Spain,Centre-Back,CB,£9.00m,Wolverhampton Wanderers,England,Loan,In,2019,w,laliga
+Granada CF,Dimitri Foulquier,26,Guadeloupe,Right-Back,RB,£2.25m,Watford FC,England,Loan,In,2019,w,laliga
+Granada CF,Bernardo Cruz,26,Spain,Centre-Back,CB,£540Th.,AD Alcorcón,Spain,"End of loanJan 10, 2020",In,2019,w,laliga
+RCD Mallorca,Leonardo Koutris,24,Greece,Left-Back,LB,£4.05m,Olympiacos Piraeus,Greece,Loan fee:£450Th.,In,2019,w,laliga
+RCD Mallorca,Sung-yong Ki,31,"Korea, South",Defensive Midfield,DM,£4.05m,Newcastle United,England,Free transfer,In,2019,w,laliga
+RCD Mallorca,Alejandro Pozo,20,Spain,Right Winger,RW,£4.50m,Sevilla FC,Spain,Loan,In,2019,w,laliga
+RCD Mallorca,Sergio Buenacasa,23,Spain,Centre-Forward,CF,£270Th.,SD Ponferradina,Spain,"End of loanJan 8, 2020",In,2019,w,laliga
+RCD Mallorca,Pierre Cornud,23,France,Left-Back,LB,£270Th.,Real Oviedo Vetusta,Spain,"End of loanJan 28, 2020",In,2019,w,laliga
+RCD Mallorca,Bryan Reyna,21,Peru,Left Winger,LW,£90Th.,Barakaldo CF ,Spain,"End of loanJan 2, 2020",In,2019,w,laliga
+FC Barcelona,Jean-Clair Todibo,20,France,Centre-Back,CB,£9.00m,FC Schalke 04,Germany,Loan fee:£1.35m,Out,2019,w,laliga
+FC Barcelona,Carles Pérez,21,Spain,Right Winger,RW,£9.00m,AS Roma,Italy,Loan fee:£900Th.,Out,2019,w,laliga
+FC Barcelona,Moussa Wagué,21,Senegal,Right-Back,RB,£6.75m,OGC Nice,France,Loan,Out,2019,w,laliga
+FC Barcelona,Carles Aleñá,21,Spain,Central Midfield,CM,£18.00m,Real Betis Balompié,Spain,Loan,Out,2019,w,laliga
+Real Madrid,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£2.70m,Real Oviedo,Spain,Loan,Out,2019,w,laliga
+Real Madrid,Álvaro Odriozola,24,Spain,Right-Back,RB,£18.00m,Bayern Munich,Germany,Loan,Out,2019,w,laliga
+Real Madrid,Jorge de Frutos,22,Spain,Right Winger,RW,£2.25m,Rayo Vallecano,Spain,Loan,Out,2019,w,laliga
+Getafe CF,Leandro Cabrera,28,Uruguay,Centre-Back,CB,£9.00m,RCD Espanyol Barcelona,Spain,£8.10m,Out,2019,w,laliga
+Getafe CF,Bruno González,29,Spain,Centre-Back,CB,£1.35m,Levante UD,Spain,Free transfer,Out,2019,w,laliga
+Getafe CF,Enric Gallego,33,Spain,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,Loan,Out,2019,w,laliga
+Getafe CF,Raúl Garcia,30,Spain,Left-Back,LB,£900Th.,Real Valladolid CF,Spain,Loan,Out,2019,w,laliga
+Getafe CF,Markel Bergara,33,Spain,Defensive Midfield,DM,-,,Retired,-,Out,2019,w,laliga
+Valencia CF,Jeison Murillo,27,Colombia,Centre-Back,CB,£7.20m,UC Sampdoria,Italy,£10.80m,Out,2019,w,laliga
+Valencia CF,Toni Lato,22,Spain,Left-Back,LB,£1.80m,CA Osasuna,Spain,Loan,Out,2019,w,laliga
+Sevilla FC,Munas Dabbur,27,Israel,Centre-Forward,CF,£9.00m,TSG 1899 Hoffenheim,Germany,£10.80m,Out,2019,w,laliga
+Sevilla FC,Chicharito,31,Mexico,Centre-Forward,CF,£8.10m,Los Angeles Galaxy,United States,£7.69m,Out,2019,w,laliga
+Sevilla FC,Guilherme Arana,22,Brazil,Left-Back,LB,£2.52m,Clube Atlético Mineiro,Brazil,Loan fee:£2.70m,Out,2019,w,laliga
+Sevilla FC,Daniel Carriço,31,Portugal,Centre-Back,CB,£2.25m,Wuhan Zall,China,£1.80m,Out,2019,w,laliga
+Sevilla FC,Bryan Gil,18,Spain,Left Winger,LW,£9.00m,CD Leganés,Spain,Loan,Out,2019,w,laliga
+Sevilla FC,Alejandro Pozo,20,Spain,Right Winger,RW,£4.50m,RCD Mallorca,Spain,Loan,Out,2019,w,laliga
+Sevilla FC,Marc Gual,23,Spain,Centre-Forward,CF,£1.26m,Real Madrid Castilla,Spain,Loan,Out,2019,w,laliga
+Sevilla FC,Simon Kjaer,30,Denmark,Centre-Back,CB,£5.85m,AC Milan,Italy,Loan,Out,2019,w,laliga
+Sevilla FC,Ibrahim Amadou,26,France,Defensive Midfield,DM,£6.30m,CD Leganés,Spain,Loan,Out,2019,w,laliga
+Athletic Bilbao,Cristian Ganea,27,Romania,Left-Back,LB,£900Th.,FC Viitorul ,Romania,Loan,Out,2019,w,laliga
+Real Sociedad,Rubén Pardo,27,Spain,Central Midfield,CM,£2.70m,FC Girondins Bordeaux,France,Free transfer,Out,2019,w,laliga
+Real Sociedad,Modibo Sagnan,20,France,Centre-Back,CB,£2.70m,CD Mirandés,Spain,Loan,Out,2019,w,laliga
+Real Sociedad,David Concha,23,Spain,Right Winger,RW,£180Th.,,Without Club,-,Out,2019,w,laliga
+RCD Espanyol Barcelona,Pablo Piatti,30,Argentina,Left Winger,LW,£2.70m,Toronto FC,United States,Free transfer,Out,2019,w,laliga
+RCD Espanyol Barcelona,Esteban Granero,32,Spain,Central Midfield,CM,£2.70m,Marbella FC,Spain,Free transfer,Out,2019,w,laliga
+RCD Espanyol Barcelona,Lluis López,22,Spain,Centre-Back,CB,£1.35m,CD Tenerife,Spain,Loan,Out,2019,w,laliga
+RCD Espanyol Barcelona,Javi Puado,21,Spain,Left Winger,LW,£900Th.,Real Zaragoza,Spain,Loan,Out,2019,w,laliga
+Deportivo Alavés,Mubarak Wakaso,29,Ghana,Central Midfield,CM,£2.25m,Jiangsu Suning,China,£3.60m,Out,2019,w,laliga
+Deportivo Alavés,John Guidetti,27,Sweden,Centre-Forward,CF,£1.80m,Hannover 96,Germany,Loan fee:£450Th.,Out,2019,w,laliga
+Deportivo Alavés,Daniel Torres,30,Colombia,Defensive Midfield,DM,£540Th.,Real Zaragoza,Spain,Free transfer,Out,2019,w,laliga
+Deportivo Alavés,Antonio Sivera,23,Spain,Goalkeeper,GK,£1.35m,UD Almería,Spain,Loan,Out,2019,w,laliga
+Deportivo Alavés,Javi Muñoz,24,Spain,Central Midfield,CM,£360Th.,CD Tenerife,Spain,Loan,Out,2019,w,laliga
+Deportivo Alavés,Burgui,26,Spain,Left Winger,LW,£1.35m,Real Zaragoza,Spain,Loan,Out,2019,w,laliga
+SD Eibar,Roberto Olabe,23,Spain,Central Midfield,CM,£720Th.,Extremadura UD,Spain,Loan,Out,2019,w,laliga
+CD Leganés,Youssef En-Nesyri,22,Morocco,Centre-Forward,CF,£10.80m,Sevilla FC,Spain,£18.00m,Out,2019,w,laliga
+CD Leganés,Martin Braithwaite,28,Denmark,Centre-Forward,CF,£9.00m,FC Barcelona,Spain,£16.20m,Out,2019,w,laliga
+CD Leganés,José Manuel Arnáiz,24,Spain,Left Winger,LW,£2.25m,CA Osasuna,Spain,Loan fee:£450Th.,Out,2019,w,laliga
+CD Leganés,Owusu,22,Ghana,Right Winger,RW,£270Th.,Qarabağ Ağdam,Azerbaijan,£270Th.,Out,2019,w,laliga
+CD Leganés,Sabin Merino,28,Spain,Centre-Forward,CF,£810Th.,Deportivo de La Coruña,Spain,Free transfer,Out,2019,w,laliga
+CD Leganés,Fede Varela,22,Argentina,Attacking Midfield,AM,£900Th.,UD Las Palmas,Spain,Loan,Out,2019,w,laliga
+CD Leganés,Vasyl Kravets,22,Ukraine,Left-Back,LB,£1.80m,CD Lugo,Spain,Loan,Out,2019,w,laliga
+CD Leganés,Kleandro Lleshi,20,Albania,Defensive Midfield,DM,£180Th.,Recreativo Huelva,Spain,Loan,Out,2019,w,laliga
+CD Leganés,Christian Rivera,22,Spain,Central Midfield,CM,£1.80m,UD Las Palmas,Spain,"End of loanJan 30, 2020",Out,2019,w,laliga
+Real Betis Balompié,Wilfrid Kaptoum,23,Cameroon,Central Midfield,CM,£2.70m,UD Almería,Spain,Loan fee:£450Th.,Out,2019,w,laliga
+Real Betis Balompié,Francis Guerrero,23,Spain,Right-Back,RB,£2.70m,UD Almería,Spain,Loan,Out,2019,w,laliga
+Real Betis Balompié,Ismael Gutiérrez,19,Spain,Central Midfield,CM,£900Th.,Deportivo Alavés,Spain,Loan,Out,2019,w,laliga
+Real Betis Balompié,Víctor Camarasa,25,Spain,Central Midfield,CM,£4.50m,Deportivo Alavés,Spain,Loan,Out,2019,w,laliga
+Villarreal CF,Karl Toko Ekambi,27,Cameroon,Centre-Forward,CF,£15.75m,Olympique Lyon,France,Loan fee:£3.60m,Out,2019,w,laliga
+Villarreal CF,Cristian Espinoza,24,Argentina,Right Winger,RW,£1.35m,San Jose Earthquakes,United States,£2.07m,Out,2019,w,laliga
+Villarreal CF,Santiago Cáseres,22,Argentina,Defensive Midfield,DM,£5.40m,CF América,Mexico,Loan,Out,2019,w,laliga
+Villarreal CF,Leo Suárez,23,Argentina,Right Winger,RW,£810Th.,CF América,Mexico,?,Out,2019,w,laliga
+Levante UD,Erick Cabaco,24,Uruguay,Centre-Back,CB,£1.80m,Getafe CF,Spain,£7.20m,Out,2019,w,laliga
+Levante UD,Oier Olazábal,30,Spain,Goalkeeper,GK,£1.80m,RCD Espanyol Barcelona,Spain,£1.35m,Out,2019,w,laliga
+Levante UD,Ivi López,25,Spain,Right Winger,RW,£720Th.,SD Ponferradina,Spain,Loan,Out,2019,w,laliga
+Real Valladolid CF,Luismi,27,Spain,Defensive Midfield,DM,£540Th.,Real Oviedo,Spain,Loan,Out,2019,w,laliga
+Real Valladolid CF,Sekou Gassama,24,Senegal,Centre-Forward,CF,£450Th.,CF Fuenlabrada,Spain,Loan,Out,2019,w,laliga
+Real Valladolid CF,Anuar,24,Morocco,Central Midfield,CM,£1.35m,Panathinaikos Athens,Greece,Loan,Out,2019,w,laliga
+Real Valladolid CF,Álvaro Aguado,23,Spain,Attacking Midfield,AM,£540Th.,CD Numancia,Spain,Loan,Out,2019,w,laliga
+Real Valladolid CF,Federico Barba,26,Italy,Centre-Back,CB,£1.35m,Chievo Verona,Italy,"End of loanJan 23, 2020",Out,2019,w,laliga
+Real Valladolid CF,Andriy Lunin,20,Ukraine,Goalkeeper,GK,£2.70m,Real Madrid,Spain,"End of loanJan 14, 2020",Out,2019,w,laliga
+Real Valladolid CF,Jorge de Frutos,22,Spain,Right Winger,RW,£2.25m,Real Madrid,Spain,"End of loanJan 16, 2020",Out,2019,w,laliga
+Celta de Vigo,Stanislav Lobotka,25,Slovakia,Defensive Midfield,DM,£18.00m,SSC Napoli,Italy,£18.00m,Out,2019,w,laliga
+Celta de Vigo,Claudio Beauvue,31,Guadeloupe,Centre-Forward,CF,£1.35m,Deportivo de La Coruña,Spain,Free transfer,Out,2019,w,laliga
+Celta de Vigo,David Costas,24,Spain,Centre-Back,CB,£1.80m,UD Almería,Spain,Loan,Out,2019,w,laliga
+CA Osasuna,Lillo Castellano,30,Spain,Right-Back,RB,£630Th.,Maccabi Haifa,Israel,Free transfer,Out,2019,w,laliga
+CA Osasuna,Luis Perea,22,Spain,Defensive Midfield,DM,£450Th.,AD Alcorcón,Spain,Loan,Out,2019,w,laliga
+CA Osasuna,Brandon,24,Spain,Centre-Forward,CF,£1.35m,Girona FC,Spain,Loan,Out,2019,w,laliga
+CA Osasuna,Juan Villar,31,Spain,Right Winger,RW,£720Th.,Rayo Vallecano,Spain,Loan,Out,2019,w,laliga
+CA Osasuna,Enric Gallego,33,Spain,Centre-Forward,CF,£1.08m,Getafe CF,Spain,"End of loanJun 30, 2020",Out,2019,w,laliga
+Granada CF,Adrián Ramos,33,Colombia,Centre-Forward,CF,£900Th.,CD América de Cali,Colombia,Free transfer,Out,2019,w,laliga
+Granada CF,Bernardo Cruz,26,Spain,Centre-Back,CB,£540Th.,CD Numancia,Spain,Loan,Out,2019,w,laliga
+RCD Mallorca,Alex Alegría,27,Spain,Centre-Forward,CF,£720Th.,Extremadura UD,Spain,Loan,Out,2019,w,laliga
+RCD Mallorca,Ariday Cabrera,31,Spain,Right Winger,RW,£360Th.,UD Las Palmas,Spain,Free transfer,Out,2019,w,laliga
+RCD Mallorca,Sergio Buenacasa,23,Spain,Centre-Forward,CF,£270Th.,Málaga CF,Spain,Loan,Out,2019,w,laliga
+RCD Mallorca,Pierre Cornud,23,France,Left-Back,LB,£270Th.,UD Ibiza,Spain,Loan,Out,2019,w,laliga
+RCD Mallorca,Bryan Reyna,21,Peru,Left Winger,LW,£90Th.,Las Rozas CF,Spain,Loan,Out,2019,w,laliga
