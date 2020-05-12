@@ -4,11 +4,10 @@
 
 # Dependencies
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load("ggplot2", "showtext")
+pacman::p_load("dplyr", "readr", "ggplot2", "showtext")
 source("./src/01-clean.R")
 
-pl_2019 <- read_csv("./data/2019/premier-league.csv")
-pl_2019 <- tidy_transfers(pl_2019)
+pl_2019 <- read_csv("./data/2019/premier-league.csv") %>% tidy_transfers()
 
 # Look only at movements with a fee
 transfers <- pl_2019 %>% filter(!is_loan | fee > 0)
@@ -92,8 +91,8 @@ viz_spending <- club_record %>%
     labs(
         title = "Premier League transfer spending by club",
         subtitle = paste("For the 2019/20 season, transfer spending in the",
-                        "summer and winter \nwindows totaled more than",
-                        "\u00A31.59 billion."),
+            "summer and winter \nwindows totaled more than \u00A31.59",
+            "billion."),
         caption = "Source: Transfermarkt | @emordonez",
         x = NULL,
         y = "Total transfer expenditure (million \u00A3)"
@@ -129,10 +128,9 @@ viz_profits <- club_record %>%
     labs(
         title = "Net transfer spending for the 2019/20 season",
         subtitle = paste("Premier League clubs raked in over \u00A3790",
-                            "million in transfer income. \nChelsea's transfer",
-                            "ban and sale of Eden Hazard to Real Madrid for",
-                            "\n\u00A390 million saw them top the league in",
-                            "income and profit."),
+            "million in transfer income. \nChelsea's transfer ban and sale of",
+            "Eden Hazard to Real Madrid for\n\u00A390 million saw them top",
+            "the league in income and profit."),
         caption = "Source: Transfermarkt | @emordonez",
         x = NULL,
         y = "Net transfer value (million \u00A3)"

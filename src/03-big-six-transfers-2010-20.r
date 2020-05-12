@@ -4,17 +4,14 @@
 
 # Dependencies
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load("data.table", "ggplot2", "showtext")
+pacman::p_load("dplyr", "readr", "data.table", "ggplot2", "showtext")
 source("./src/01-clean.R")
 
 # Read data
-dfs <- list()
 dirs <- dir("./data", pattern = "201\\d")
-file_name <- file.path("./data", dirs, paste0("premier-league.csv"))
-for (i in seq(along = file_name)) {
-    dfs[[i]] <- tidy_transfers(read_csv(file_name[i]))
-}
-transfers <- rbindlist(dfs, use.names = TRUE)
+files <- file.path("./data", dirs, paste0("premier-league.csv"))
+data <- lapply(files, read_csv)
+transfers <- rbindlist(data, use.names = TRUE) %>% tidy_transfers()
 
 # Separate big six from rest of the league
 transfer_history <- transfers %>%
