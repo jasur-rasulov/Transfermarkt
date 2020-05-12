@@ -20,8 +20,8 @@ tidy_transfers <- function(df) {
             val <- NA_real_
         } else if (stri_sub(val, -1, -1) == "m") {
             val <- as.numeric(stri_sub(val, 2, -2)) * 1000000
-        } else if (stri_sub(val, -1, -1) == "k") {
-            val <- as.numeric(stri_sub(val, 2, -2)) * 1000
+        } else if (stri_sub(val, -3, -1) == "Th.") {
+            val <- as.numeric(stri_sub(val, 2, -4)) * 1000
         } else {
             val <- as.numeric(stri_sub(val, 2, -1))
         }
