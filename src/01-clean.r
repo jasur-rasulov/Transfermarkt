@@ -74,6 +74,7 @@ tidy_transfers <- function(df) {
             league = "League"
         ) %>%
         mutate(
+            age = as.integer(age),
             season = as.integer(season),
             league = stri_trans_totitle(gsub("-", " ", league)),
             window = if_else(window == "s", "Summer", "Winter"),
