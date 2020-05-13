@@ -51,8 +51,8 @@ club_record$club <- c(
     "Wolves"
 )
 
-# Club colors and fonts for graphics
-# Definitions from https://teamcolorcodes.com/
+# Visualizations
+# Club colors and fonts. Definitions from https://teamcolorcodes.com/
 club_record$color <- c(
     "#EF0107", # Arsenal
     "#670E36", # Aston Villa
@@ -75,12 +75,10 @@ club_record$color <- c(
     "#7A263A", # West Ham
     "#FDB913" # Wolves
 )
-
 font_add_google("Open Sans", "Open Sans")
 showtext_auto()
 
-# Visualizations
-# Total club expenditures
+# 02-1: Total club expenditures
 viz_spending <- club_record %>%
     ggplot(aes(x = reorder(club, expenditure), y = expenditure)) +
     geom_col(aes(alpha = 0.75, fill = club)) +
@@ -98,8 +96,8 @@ viz_spending <- club_record %>%
         y = "Total transfer expenditure (million \u00A3)"
     ) +
     theme_minimal() +
-    scale_fill_manual(values = club_record$color) +
     scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+    scale_fill_manual(values = club_record$color) +
     theme(
         legend.position = "none",
         plot.margin = margin(10, 10, 10, 10, "pt"),
@@ -113,7 +111,7 @@ viz_spending <- club_record %>%
     coord_flip()
 viz_spending
 
-# Net transfer spending
+# 02-2: Net transfer spending
 viz_profits <- club_record %>%
     ggplot(aes(x = reorder(club, profit), y = profit)) +
     geom_col(aes(alpha = 0.75, fill = club)) +

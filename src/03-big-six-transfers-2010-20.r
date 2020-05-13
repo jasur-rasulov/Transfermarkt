@@ -1,5 +1,5 @@
 #'
-#' Transfer record comparison of the big six to the rest of the Premier League.
+#' Transfer record comparison of the Big Six to the rest of the Premier League.
 #'
 
 # Dependencies
@@ -10,67 +10,105 @@ source("./src/01-clean.R")
 # Read data
 dirs <- dir("./data", pattern = "201\\d")
 files <- file.path("./data", dirs, paste0("premier-league.csv"))
-data <- lapply(files, read_csv)
-transfers <- rbindlist(data, use.names = TRUE) %>% tidy_transfers()
+transfers <- files %>%
+    lapply(read_csv) %>%
+    rbindlist(use.names = TRUE) %>%
+    tidy_transfers()
 
-# Separate big six from rest of the league
+# 03-1: Comparison of the Big Six to rest of the Premier League
+# Separate Big Six from the rest
+big_six_names <- "Man United, Man City, Chelsea,\nLiverpool, Arsenal, Tottenham"
 transfer_history <- transfers %>%
     filter(movement == "In" & (!is_loan | fee > 0)) %>%
     mutate(
         club = case_when(
-            club == "Arsenal FC" ~ "Big Six",
-            club == "Chelsea FC" ~ "Big Six",
-            club == "Liverpool FC" ~ "Big Six",
-            club == "Manchester City" ~ "Big Six",
-            club == "Manchester United" ~ "Big Six",
-            club == "Tottenham Hotspur" ~ "Big Six",
+            club == "Arsenal FC" ~ big_six_names,
+            club == "Chelsea FC" ~ big_six_names,
+            club == "Liverpool FC" ~ big_six_names,
+            club == "Manchester City" ~ big_six_names,
+            club == "Manchester United" ~ big_six_names,
+            club == "Tottenham Hotspur" ~ big_six_names,
             TRUE ~ "Rest of Premier League"
         )
-    )
-    
-transfer_history <- transfer_history %>%
+    ) %>%
     group_by(club, season) %>%
     summarise(expenditure = sum(fee, na.rm = TRUE)) %>%
     mutate(expenditure = expenditure / 1000000)
 
-# Calculate percent difference in group expenditures
-percentage_differences <- list()
-i <- 1
-for (year in 2010:2019) {
-    df <- transfer_history %>% filter(season == year)
-    percentage_differences[[i]] <- (df$expenditure[[1]] - df$expenditure[[2]]) /
-        ((df$expenditure[[1]] + df$expenditure[[2]]) / 2) * 100
-    i <- i + 1
-}
-percentage_differences <- unlist(percentage_differences)
+# Generate prop table for each group's proportion of total spending
+df <- as.data.frame(transfer_history)
+df <- df %>%
+    reshape(
+        idvar = "club",
+        timevar = "season",
+        v.names = "expenditure",
+        direction = "wide"
+    )
+tab <- as.table(as.matrix(df[, -1]))
+prop <- prop.table(tab, 2)
 
-# Colors and fonts for graphics
-colors <- c("#36003C", "#00FF87")
+# 03-2: Individual club spending among the Big Six
+big_six <- transfers %>%
+    filter(movement == "In" & (!is_loan | fee > 0)) %>%
+    filter(
+        club == "Arsenal FC" |
+        club == "Chelsea FC" |
+        club == "Liverpool FC" |
+        club == "Manchester City" |
+        club == "Manchester United" |
+        club == "Tottenham Hotspur"
+    ) %>%
+    mutate(
+        club = case_when(
+            club == "Arsenal FC" ~ "Arsenal",
+            club == "Chelsea FC" ~ "Chelsea",
+            club == "Liverpool FC" ~ "Liverpool",
+            club == "Tottenham Hotspur" ~ "Tottenham",
+            TRUE ~ club
+        )
+    ) %>%
+    group_by(club, season) %>%
+    summarise(expenditure = sum(fee, na.rm = TRUE)) %>%
+    mutate(expenditure = expenditure / 1000000)
+
+# Visualizations
+# Colors and fonts
+league_colors <- c("#36003C", "#00FF87")
+club_colors <- c(
+    "#EF0107", # Arsenal
+    "#034694", # Chelsea
+    "#C8102E", # Liverpool
+    "#6CABDD", # Manchester City
+    "#DA291C", # Manchester United
+    "#132257" # Tottenham
+)
 font_add_google("Open Sans", "Open Sans")
 showtext_auto()
 
-# Visualizations
-viz <- transfer_history %>%
-    ggplot(aes(x = season), y = expenditure) +
-    geom_line(aes(y = expenditure, alpha = 0.75, color = club), size = 1.5) +
+# #03-1: Big Six vs the rest of the Premier League
+viz_pl_comparison <- transfer_history %>%
+    ggplot(aes(x = season, y = expenditure)) +
+    geom_col(aes(y = expenditure, fill = club), position = "dodge") +
     labs(
-        title = "Big Six spending atop the rest of the Premier League",
-        subtitle = paste("From 2010-2020, Arsenal, Chelsea, Liverpool,",
-            "Manchester City, Manchester \nUnited, and Tottenham averaged",
-            "16.05% more in annual transfer spending \nthan the other 14",
-            "clubs in the league combined."),
+        title = "League spending is catching up with the Big Six",
+        subtitle = paste("The Big Six's proportion of Premier League transfer",
+            "spending has steadily \ndeclined from its peak at 68.9% in 2010.",
+            "Manchester City and Chelsea alone \naccounted for \u00A3520",
+            "million of the record \u00A31.1 billion the Big Six spent in",
+            "2017."),
         caption = "Source: Transfermarkt | @emordonez",
         x = "Season",
         y = "Total transfer expenditure (million \u00A3)"
     ) +
     guides(alpha = FALSE) +
     theme_minimal() +
-    scale_color_manual(values = colors) +
     scale_x_continuous(breaks = transfer_history$season) +
+    scale_y_continuous(expand = expansion(mult = c(0, 0.1))) +
+    scale_fill_manual(values = alpha(league_colors, 0.75)) +
     theme(
         legend.title = element_blank(),
-        legend.position = c(1, 0),
-        legend.justification = c(1, 0),
+        legend.position = c(0, 1),
+        legend.justification = c(0, 1),
         plot.margin = margin(10, 10, 10, 10, "pt"),
         text = element_text(family = "Open Sans"),
         plot.title = element_text(face = "bold"),
@@ -79,4 +117,35 @@ viz <- transfer_history %>%
         axis.title.x = element_text(margin = margin(7, 0, 0, 0, "pt")),
         axis.title.y = element_text(margin = margin(0, 7, 0, 0, "pt"))
     )
-viz
+viz_pl_comparison
+
+# 03-2: Big Six club spending
+viz_big_six <- big_six %>%
+    ggplot(aes(x = season, y = expenditure, group = club)) +
+    geom_area(aes(alpha = 0.75, fill = club)) +
+    labs(
+        title = "Three big spenders among the Big Six",
+        subtitle = paste("The Manchester clubs and Chelsea won every league",
+            "title in the decade save for the \n2015/16 and 2019/20 seasons.",
+            "Each spent more than \u00A31 billion over 20 windows."),
+        caption = "Source: Transfermarkt | @emordonez",
+        x = "Season",
+        y = "Total transfer expenditure (million \u00A3)"
+    ) +
+    theme_minimal() +
+    scale_x_continuous(breaks = c(2010, 2012, 2014, 2016, 2018)) +
+    scale_fill_manual(values = club_colors) +
+    theme(
+        legend.position = "none",
+        plot.margin = margin(10, 10, 10, 10, "pt"),
+        text = element_text(family = "Open Sans", face = "bold"),
+        axis.title = element_text(face = "plain"),
+        axis.text = element_text(face = "plain"),
+        plot.title = element_text(face = "bold"),
+        plot.subtitle = element_text(face = "plain"),
+        plot.caption = element_text(face = "italic"),
+        axis.title.x = element_text(margin = margin(7, 0, 0, 0, "pt")),
+        axis.title.y = element_text(margin = margin(0, 7, 0, 0, "pt"))
+    ) +
+    facet_wrap(~club)
+viz_big_six
