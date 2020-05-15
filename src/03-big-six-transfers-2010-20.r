@@ -2,12 +2,14 @@
 #' Transfer record comparison of the Big Six to the rest of the Premier League.
 #'
 
-# Dependencies
+# DEPENDENCIES
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load("dplyr", "readr", "data.table", "ggplot2", "showtext")
 source("./src/01-clean.R")
 
-# Read data
+
+# DATA
+# Read for the 2010/11-2019/20 seasons
 dirs <- dir("./data", pattern = "201\\d")
 files <- file.path("./data", dirs, paste0("premier-league.csv"))
 transfers <- files %>%
@@ -15,7 +17,9 @@ transfers <- files %>%
     rbindlist(use.names = TRUE) %>%
     tidy_transfers()
 
-# 03-1: Comparison of the Big Six to rest of the Premier League
+
+# ANALYSIS
+# 03-1: Comparison of the Big Six to other Premeir League clubs
 # Separate Big Six from the rest
 big_six_names <- "Man United, Man City, Chelsea,\nLiverpool, Arsenal, Tottenham"
 transfer_history <- transfers %>%
@@ -32,8 +36,8 @@ transfer_history <- transfers %>%
         )
     ) %>%
     group_by(club, season) %>%
-    summarise(expenditure = sum(fee, na.rm = TRUE)) %>%
-    mutate(expenditure = expenditure / 1000000)
+    summarize(expenditure = sum(fee, na.rm = TRUE)) %>%
+    mutate(expenditure = expenditure / 1e6)
 
 # Generate prop table for each group's proportion of total spending
 df <- as.data.frame(transfer_history)
@@ -68,10 +72,11 @@ big_six <- transfers %>%
         )
     ) %>%
     group_by(club, season) %>%
-    summarise(expenditure = sum(fee, na.rm = TRUE)) %>%
-    mutate(expenditure = expenditure / 1000000)
+    summarize(expenditure = sum(fee, na.rm = TRUE)) %>%
+    mutate(expenditure = expenditure / 1e6)
 
-# Visualizations
+
+# VISUALIZATIONS
 # Colors and fonts
 league_colors <- c("#36003C", "#00FF87")
 club_colors <- c(
@@ -85,7 +90,7 @@ club_colors <- c(
 font_add_google("Open Sans", "Open Sans")
 showtext_auto()
 
-# #03-1: Big Six vs the rest of the Premier League
+# 03-1: Comparison of the Big Six to other Premeir League clubs
 viz_pl_comparison <- transfer_history %>%
     ggplot(aes(x = season, y = expenditure)) +
     geom_col(aes(y = expenditure, fill = club), position = "dodge") +
@@ -119,7 +124,7 @@ viz_pl_comparison <- transfer_history %>%
     )
 viz_pl_comparison
 
-# 03-2: Big Six club spending
+# 03-2: Individual club spending among the Big Six
 viz_big_six <- big_six %>%
     ggplot(aes(x = season, y = expenditure, group = club)) +
     geom_area(aes(alpha = 0.75, fill = club)) +

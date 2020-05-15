@@ -1,33 +1,36 @@
 #'
-#'  Premier League spending comparisons for the 2019/20 transfer windows.
+#'  Premier League transfer spending comparisons for the 2019/20 season.
 #'
 
-# Dependencies
+# DEPENDENCIES
 if (!require("pacman")) install.packages("pacman")
 pacman::p_load("dplyr", "readr", "ggplot2", "showtext")
 source("./src/01-clean.R")
 
-pl_2019 <- read_csv("./data/2019/premier-league.csv") %>% tidy_transfers()
 
+# DATA AND ANALYSIS
 # Look only at movements with a fee
+pl_2019 <- read_csv("./data/2019/premier-league.csv") %>% tidy_transfers()
 transfers <- pl_2019 %>% filter(!is_loan | fee > 0)
 
+# 02-1: Total club expenditure
 club_spending <- transfers %>%
     filter(movement == "In") %>%
     group_by(club) %>%
-    summarise(expenditure = sum(fee, na.rm = TRUE)) %>%
-    mutate(expenditure = expenditure / 1000000)
+    summarize(expenditure = sum(fee, na.rm = TRUE)) %>%
+    mutate(expenditure = expenditure / 1e6)
 
+# 02-2: Club net transfer spending
 club_sales <- transfers %>%
     filter(movement == "Out") %>%
     group_by(club) %>%
-    summarise(income = sum(fee, na.rm = TRUE)) %>%
-    mutate(income = income / 1000000)
+    summarize(income = sum(fee, na.rm = TRUE)) %>%
+    mutate(income = income / 1e6)
 
 club_record <- merge(club_spending, club_sales) %>%
     mutate(profit = income - expenditure)
 
-# Update names
+# Update club names
 club_record$club <- c(
     "Bournemouth",
     "Arsenal",
@@ -51,7 +54,8 @@ club_record$club <- c(
     "Wolves"
 )
 
-# Visualizations
+
+# VISUALIZATIONS
 # Club colors and fonts. Definitions from https://teamcolorcodes.com/
 club_record$color <- c(
     "#EF0107", # Arsenal
@@ -111,7 +115,7 @@ viz_spending <- club_record %>%
     coord_flip()
 viz_spending
 
-# 02-2: Net transfer spending
+# 02-2: Club net transfer spending
 viz_profits <- club_record %>%
     ggplot(aes(x = reorder(club, profit), y = profit)) +
     geom_col(aes(alpha = 0.75, fill = club)) +
