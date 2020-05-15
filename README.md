@@ -1,10 +1,16 @@
-# Web Scraping Football Transfer Data from Transfermarkt
+# Transfermarket Transfer Data
 
-This is a Python script that scrapes league transfer histories from Transfermarkt using BeautifulSoup and Pandas. 
+Web-scraped data of all transfers from the 1992/93 to 2019/20 seasons of the top five European leagues:
+
+* Premier League
+* Bundesliga
+* La Liga
+* Serie A
+* Ligue 1
 
 ## Data
 
-The scraped data are written to csv's in subfolders, labeled by year, of the `data` folder. This repository has data from 1992-2018 for the English Premier League and Championship to demonstrate how the script can scrape multiple leagues and seasons.
+Each league's records are saved in season subdirectories of `data`. The Python script used to scrape the data is included in `src`.
 
 ### Variables
 
@@ -27,14 +33,16 @@ The scraped data are written to csv's in subfolders, labeled by year, of the `da
 
 ### Cleaning
 
-Note that dataframe entries are given as _"-"_ when "not applicable" and _"?"_ when unknown. Entries under the `Fee` label can include:
+Note that entries are recorded as _"-"_ when "not applicable" and _"?"_ when unknown. Non-numeric entries under the `Fee` label include:
 
 * _Loan_
 * _Loan fee:_ + Amount
 * _End of loan_ + Date
 * _Free transfer_
 
-An example cleaning with R is included in `src`.
+### Examples
+
+Example R scripts to tidy and analyze the data are included in `src`. The resulting images are included in `figure`.
 
 ## Source
 
