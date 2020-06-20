@@ -1,247 +1,251 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Atlético Madrid,José Luis Caminero,25,Spain,Central Midfield,CM,-,Real Valladolid CF,Spain,?,In,1993,s,laliga
-Atlético Madrid,Mami Quevedo,24,Spain,Central Midfield,CM,-,Cádiz CF,Spain,?,In,1993,s,laliga
-Atlético Madrid,Tilico,28,Brazil,Forward,Forward,-,Marbella FC,Spain,?,In,1993,s,laliga
-Atlético Madrid,Kiko Narváez,21,Spain,Centre-Forward,CF,-,Cádiz CF,Spain,?,In,1993,s,laliga
-Atlético Madrid,Serge-Alain Maguy,22,Cote d'Ivoire,Midfielder,Midfielder,-,Africa Sports,Cote d'Ivoire,?,In,1993,s,laliga
-Atlético Madrid,Roman Kosecki,27,Poland,Centre-Forward,CF,-,CA Osasuna,Spain,?,In,1993,s,laliga
-Atlético Madrid,Pirri Mori,22,Spain,Attacking Midfield,AM,-,Real Oviedo,Spain,?,In,1993,s,laliga
-Atlético Madrid,Moacir,23,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1993,s,laliga
-Atlético Madrid,Pizo Gómez,29,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,"End of loanJun 30, 1993",In,1993,s,laliga
-FC Barcelona,Romário,27,Brazil,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,£10.80m,In,1993,s,laliga
-FC Barcelona,Iván Iglesias,21,Spain,Central Midfield,CM,-,Sporting Gijón,Spain,£585Th.,In,1993,s,laliga
-FC Barcelona,Sergi Barjuán,21,Spain,Left-Back,LB,-,FC Barcelona B,Spain,-,In,1993,s,laliga
-FC Barcelona,Óscar García,20,Spain,Attacking Midfield,AM,-,FC Barcelona B,Spain,-,In,1993,s,laliga
-Real Zaragoza,Juan Esnáider,20,Argentina,Centre-Forward,CF,-,Real Madrid,Spain,£1.26m,In,1993,s,laliga
-Real Zaragoza,Juanmi,22,Spain,Goalkeeper,GK,-,Real Madrid,Spain,?,In,1993,s,laliga
-Real Zaragoza,Nayim,26,Spain,Right Midfield,RM,-,Tottenham Hotspur,England,?,In,1993,s,laliga
-Real Zaragoza,Fernando Cáceres,24,Argentina,Centre-Back,CB,-,Club Atlético River Plate,Argentina,?,In,1993,s,laliga
-Real Zaragoza,Seba,19,Spain,Second Striker,SS,-,Real Zaragoza B,Spain,-,In,1993,s,laliga
-Real Zaragoza,Mario García,25,Spain,Goalkeeper,GK,-,CD Badajoz,Spain,"End of loanJun 30, 1993",In,1993,s,laliga
-CD Logroñés,Dejan Markovic,20,Serbia,Right Midfield,RM,-,UE Castelldefels,Spain,Free transfer,In,1993,s,laliga
-CD Logroñés,Juan José Vallina,22,Spain,Midfielder,Midfielder,-,Real Burgos CF,Spain,?,In,1993,s,laliga
-CD Logroñés,Paco Fernández,25,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,In,1993,s,laliga
-CA Osasuna,Thomas Christiansen,20,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,Loan,In,1993,s,laliga
-CA Osasuna,Ramón de Quintana,21,Spain,Centre-Back,CB,-,UE Figueres,Spain,?,In,1993,s,laliga
-CA Osasuna,Francisco Javier Luke,25,Spain,Midfielder,Midfielder,-,Athletic Bilbao,Spain,Loan,In,1993,s,laliga
-CA Osasuna,Ryszard Staniek,22,Poland,Midfielder,Midfielder,-,Górnik Zabrze,Poland,?,In,1993,s,laliga
-CA Osasuna,Jesús Unanua,24,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,In,1993,s,laliga
-CA Osasuna,Javier López Vallejo,17,Spain,Goalkeeper,GK,-,CA Osasuna Promesas,Spain,-,In,1993,s,laliga
-CA Osasuna,Santiago Castillejo,21,Spain,Forward,Forward,-,CA Osasuna Promesas,Spain,-,In,1993,s,laliga
-Real Valladolid CF,Manolo Alfaro,22,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Free transfer,In,1993,s,laliga
-Real Valladolid CF,Gabi Correa,25,Uruguay,Central Midfield,CM,-,Real Murcia CF,Spain,?,In,1993,s,laliga
-Real Valladolid CF,Javier Torres Gómez,23,Spain,Right-Back,RB,-,Real Madrid C,Spain,?,In,1993,s,laliga
-Real Valladolid CF,Javi Gracia,23,Spain,Defensive Midfield,DM,-,Unió Esportiva Lleida,Spain,?,In,1993,s,laliga
-Real Valladolid CF,Rubén Baraja,17,Spain,Central Midfield,CM,-,Real Valladolid B,Spain,-,In,1993,s,laliga
-Real Valladolid CF,Jesús Ángel Turiel,19,Spain,Defensive Midfield,DM,-,Real Valladolid U19,Spain,-,In,1993,s,laliga
-Rayo Vallecano,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,In,1993,s,laliga
-Rayo Vallecano,Antonio Orejuela,32,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,1993,s,laliga
-Rayo Vallecano,Armando Tejera,25,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,In,1993,s,laliga
-Rayo Vallecano,Onésimo,24,Spain,Midfielder,Midfielder,-,Real Valladolid CF,Spain,?,In,1993,s,laliga
-Rayo Vallecano,Hugo Sánchez,34,Mexico,Centre-Forward,CF,-,CF América,Mexico,?,In,1993,s,laliga
-Rayo Vallecano,Ángel Luis Alcázar,26,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,?,In,1993,s,laliga
-Rayo Vallecano,Eduardo Rodríguez,27,Spain,Forward,Forward,-,Hércules CF,Spain,?,In,1993,s,laliga
-Rayo Vallecano,Míchel,17,Spain,Attacking Midfield,AM,-,Rayo Vallecano B,Spain,-,In,1993,s,laliga
-Sevilla FC,Patxi Ferreira,26,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,Loan,In,1993,s,laliga
-Sevilla FC,Miquel Soler,28,Spain,Left-Back,LB,-,FC Barcelona,Spain,?,In,1993,s,laliga
-Sevilla FC,Yordi,18,Spain,Centre-Forward,CF,-,Sevilla FC C,Spain,-,In,1993,s,laliga
-Sevilla FC,José Padilla,23,Spain,Left-Back,LB,-,Sevilla FC B,Spain,-,In,1993,s,laliga
-Sevilla FC,Gabriel Moya,27,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,,In,1993,s,laliga
-Real Madrid,Peter Dubovsky,21,Slovakia,Second Striker,SS,-,Slovan Bratislava,Slovakia,£3.87m,In,1993,s,laliga
-Real Madrid,Rafael Martin Vazquez,27,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,?,In,1993,s,laliga
-Real Madrid,Rafael Alkorta,24,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1993,s,laliga
-Real Madrid,Vítor,20,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,?,In,1993,s,laliga
-Real Madrid,Fernando Sanz,20,Spain,Centre-Back,CB,-,Unión Española,Chile,"End of loanJun 30, 1994",In,1993,s,laliga
-Real Madrid,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,"End of loanJun 30, 1993",In,1993,s,laliga
-Athletic Bilbao,Iñigo Larrainzar,22,Spain,Right-Back,RB,-,CA Osasuna,Spain,?,In,1993,s,laliga
-Athletic Bilbao,Aitor Karanka,19,Spain,Centre-Back,CB,-,Bilbao Athletic,Spain,-,In,1993,s,laliga
-Athletic Bilbao,Jorge Aizkorreta,19,Spain,Goalkeeper,GK,-,CD Basconia,Spain,-,In,1993,s,laliga
-Racing Santander,Dmitri Radchenko,22,Russia,Centre-Forward,CF,-,Spartak Moscow,Russia,£1.08m,In,1993,s,laliga
-Racing Santander,Pablo Alfaro,24,Spain,Centre-Back,CB,-,FC Barcelona,Spain,Free transfer,In,1993,s,laliga
-Racing Santander,Quique Setién,34,Spain,Central Midfield,CM,-,CD Logroñés,Spain,?,In,1993,s,laliga
-Racing Santander,Óscar Engonga,24,Equatorial Guinea,Midfielder,Midfielder,-,CD Toledo,Spain,?,In,1993,s,laliga
-Racing Santander,Michel Pineda,29,France,Centre-Forward,CF,-,Sporting Club de Toulon 83,France,?,In,1993,s,laliga
-Racing Santander,Dmitri Popov,26,Russia,Right-Back,RB,-,Spartak Moscow,Russia,?,In,1993,s,laliga
-Racing Santander,David Billabona,23,Spain,Central Midfield,CM,-,Athletic Bilbao,Spain,?,In,1993,s,laliga
-CD Tenerife,Antonio Pinilla,22,Spain,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,In,1993,s,laliga
-CD Tenerife,Percy Olivares,25,Peru,Left-Back,LB,-,Sporting Cristal Lima,Peru,?,In,1993,s,laliga
-CD Tenerife,Ignacio Conte,24,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,In,1993,s,laliga
-CD Tenerife,Juan Carlos Aguilera,24,Spain,Right-Back,RB,-,Atlético Madrid,Spain,?,In,1993,s,laliga
-Real Sociedad,Bixente Biurrun,33,Brazil,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga
-Real Sociedad,Loren,26,Spain,Centre-Back,CB,-,Burgos CF,Spain,?,In,1993,s,laliga
-Real Sociedad,Agustín Aranzabal,20,Spain,Left-Back,LB,-,Real Sociedad U19,Spain,-,In,1993,s,laliga
-Real Sociedad,Javi de Pedro,19,Spain,Left Midfield,LM,-,Real Sociedad U19,Spain,-,In,1993,s,laliga
-Deportivo de La Coruña,Paco Jémez,23,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Agustín Elduayen,28,Spain,Goalkeeper,GK,-,Burgos CF,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Pedro Riesco,23,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Javier Manjarín,23,Spain,Second Striker,SS,-,Sporting Gijón,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Alfredo Santaelena,25,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Donato,30,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,?,In,1993,s,laliga
-Deportivo de La Coruña,Voro,29,Spain,Centre-Back,CB,-,Valencia CF,Spain,?,In,1993,s,laliga
-Celta de Vigo,Stjepan Andrijasevic,26,Croatia,Right Midfield,RM,-,AS Monaco,France,?,In,1993,s,laliga
-Celta de Vigo,Joseba Aguirre,29,Spain,Midfielder,Midfielder,-,Burgos CF,Spain,?,In,1993,s,laliga
-Celta de Vigo,Rafa Berges,22,Spain,Left-Back,LB,-,CD Tenerife,Spain,?,In,1993,s,laliga
-Celta de Vigo,Losada,25,Spain,Forward,Forward,-,Sevilla FC,Spain,?,In,1993,s,laliga
-Celta de Vigo,Luisinho,28,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,In,1993,s,laliga
-Celta de Vigo,Carlos Pérez,21,Spain,Attacking Midfield,AM,-,Club Celta Turista,Spain,-,In,1993,s,laliga
-Valencia CF,Predrag Mijatović,24,Montenegro,Centre-Forward,CF,-,FK Partizan Belgrade,Serbia,£9.00m,In,1993,s,laliga
-Valencia CF,Juan Antonio Pizzi,25,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1993,s,laliga
-Valencia CF,José Serer,27,Spain,Centre-Back,CB,-,RCD Mallorca,Spain,?,In,1993,s,laliga
-Valencia CF,José Gálvez,18,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,?,In,1993,s,laliga
-Valencia CF,Javi Navarro,19,Spain,Centre-Back,CB,-,Valencia Mestalla,Spain,-,In,1993,s,laliga
-Valencia CF,José Manuel Tárraga,22,Spain,Defender,Defender,-,Valencia Mestalla,Spain,-,In,1993,s,laliga
-Valencia CF,Antonio Notario,20,Spain,Goalkeeper,GK,-,Valencia Mestalla,Spain,-,In,1993,s,laliga
-Albacete Balompié,José González,26,Spain,Forward,Forward,-,RCD Mallorca,Spain,?,In,1993,s,laliga
-Albacete Balompié,Ramón,29,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,?,In,1993,s,laliga
-Albacete Balompié,Esteban Fradera Serrat,30,Spain,Defender,Defender,-,RCD Mallorca,Spain,?,In,1993,s,laliga
-Albacete Balompié,Josep Sala,29,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,In,1993,s,laliga
-Albacete Balompié,Gabelo Conejo,33,Costa Rica,Goalkeeper,GK,-,,Unknown,?,In,1993,s,laliga
-Albacete Balompié,Alejandro Rodríguez López,29,Spain,Defender,Defender,-,Burgos CF,Spain,?,In,1993,s,laliga
-Albacete Balompié,Vladan Dimitrijevic,20,Serbia,Defender,Defender,-,UE Figueres,Spain,?,In,1993,s,laliga
-Albacete Balompié,Fernando Morientes,17,Spain,Centre-Forward,CF,-,Albacete Balompié B,Spain,-,In,1993,s,laliga
-Sporting Gijón,Mario Stanic,21,Croatia,Right Winger,RW,-,NK Croatia Zagreb,Croatia,?,In,1993,s,laliga
-Sporting Gijón,Marcel Sabou,27,Romania,Midfielder,Midfielder,-,Racing Santander,Spain,?,In,1993,s,laliga
-Sporting Gijón,Daniel Saric,20,Croatia,Right-Back,RB,-,HNK Rijeka,Croatia,?,In,1993,s,laliga
-Sporting Gijón,Xavier Escaich,24,Spain,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga
-Sporting Gijón,Marcelino,21,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga
-Sporting Gijón,José Manuel,19,Spain,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga
-Sporting Gijón,Mario Cotelo,18,Spain,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga
-Sporting Gijón,Javier Castaño,20,Spain,Central Midfield,CM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga
-Real Oviedo,Slavisa Jokanovic,24,Serbia,Defensive Midfield,DM,-,FK Partizan Belgrade,Serbia,?,In,1993,s,laliga
-Real Oviedo,Lluís Carreras,20,Spain,Left-Back,LB,-,FC Barcelona B,Spain,Loan,In,1993,s,laliga
-Real Oviedo,Roberto Suárez,19,Spain,Central Midfield,CM,-,Real Madrid C,Spain,?,In,1993,s,laliga
-Real Oviedo,Juan Luis Mora,19,Spain,Goalkeeper,GK,-,Real Oviedo B,Spain,-,In,1993,s,laliga
-Unió Esportiva Lleida,Urbano,31,Spain,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga
-Unió Esportiva Lleida,Javi García,23,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,In,1993,s,laliga
-Unió Esportiva Lleida,Sören Andersen,23,Denmark,Centre-Forward,CF,-,Aarhus GF,Denmark,?,In,1993,s,laliga
-Unió Esportiva Lleida,Nikola Milinkovic,25,Serbia,Attacking Midfield,AM,-,FK Becej,Serbia,?,In,1993,s,laliga
-Unió Esportiva Lleida,Sebastián Herrera,24,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,s,laliga
-Unió Esportiva Lleida,Albert Tomàs,22,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,s,laliga
-Unió Esportiva Lleida,Alberto Aguilà,22,Spain,Forward,Forward,-,CA Osasuna,Spain,?,In,1993,s,laliga
-Atlético Madrid,Paulo Futre,27,Portugal,Left Winger,LW,-,SL Benfica,Portugal,£900Th.,Out,1993,s,laliga
-Atlético Madrid,Bernd Schuster,33,Germany,Attacking Midfield,AM,-,Bayer 04 Leverkusen,Germany,Free transfer,Out,1993,s,laliga
-Atlético Madrid,Manolo Alfaro,22,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,Free transfer,Out,1993,s,laliga
-Atlético Madrid,Donato,30,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Atlético Madrid,Vladan Lukic,23,Serbia,Centre-Forward,CF,-,FK Vojvodina Novi Sad,Serbia,?,Out,1993,s,laliga
-Atlético Madrid,Patxi Ferreira,26,Spain,Centre-Back,CB,-,Sevilla FC,Spain,Loan,Out,1993,s,laliga
-Atlético Madrid,Ángel Mejías,34,Spain,Goalkeeper,GK,-,Talavera CF,Spain,?,Out,1993,s,laliga
-Atlético Madrid,Antonio Orejuela,32,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga
-Atlético Madrid,José Luis Villarreal,27,Argentina,Defensive Midfield,DM,-,Club Atlético River Plate,Argentina,?,Out,1993,s,laliga
-Atlético Madrid,Alfredo Santaelena,25,Spain,Midfielder,Midfielder,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Atlético Madrid,Juan Carlos Aguilera,24,Spain,Right-Back,RB,-,CD Tenerife,Spain,?,Out,1993,s,laliga
-Atlético Madrid,Antonio Acosta,21,Spain,Midfielder,Midfielder,-,Cádiz CF,Spain,?,Out,1993,s,laliga
-Atlético Madrid,Gabriel Moya,27,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,,Out,1993,s,laliga
-FC Barcelona,Pablo Alfaro,24,Spain,Centre-Back,CB,-,Racing Santander,Spain,Free transfer,Out,1993,s,laliga
-FC Barcelona,Miquel Soler,28,Spain,Left-Back,LB,-,Sevilla FC,Spain,?,Out,1993,s,laliga
-FC Barcelona,Richard Witschge,23,Netherlands,Central Midfield,CM,-,FC Girondins Bordeaux,France,?,Out,1993,s,laliga
-FC Barcelona,José Ramón Alexanko,37,Spain,Sweeper,SW,-,,Retired,-,Out,1993,s,laliga
-Real Zaragoza,Andreas Brehme,32,Germany,Left-Back,LB,-,1.FC Kaiserslautern,Germany,?,Out,1993,s,laliga
-Real Zaragoza,Víctor Segura,20,Spain,Centre-Back,CB,-,Palamós CF,Spain,?,Out,1993,s,laliga
-Real Zaragoza,José Ramón Bermell,31,Spain,Goalkeeper,GK,-,,Retired,-,Out,1993,s,laliga
-CD Logroñés,Quique Setién,34,Spain,Central Midfield,CM,-,Racing Santander,Spain,?,Out,1993,s,laliga
-CD Logroñés,Amarildo,28,Brazil,Forward,Forward,-,FC Famalicão,Portugal,?,Out,1993,s,laliga
-CD Logroñés,Jesús García-Pitarch,29,Spain,Forward,Forward,-,CP Mérida,Spain,?,Out,1993,s,laliga
-CD Logroñés,Víctor Torres Mestre,22,Spain,Left-Back,LB,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga
-CD Logroñés,Nelson Gutiérrez,31,Uruguay,Centre-Back,CB,-,CA Peñarol,Uruguay,?,Out,1993,s,laliga
-CD Logroñés,Marcelo Vega,21,Chile,Attacking Midfield,AM,-,CSD Colo Colo,Chile,?,Out,1993,s,laliga
-CD Logroñés,Cleber,23,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1993,s,laliga
-CA Osasuna,Goran Stevanovic,26,Serbia,Midfielder,Midfielder,-,SC Farense,Portugal,Free transfer,Out,1993,s,laliga
-CA Osasuna,Roman Kosecki,27,Poland,Centre-Forward,CF,-,Atlético Madrid,Spain,?,Out,1993,s,laliga
-CA Osasuna,Cholo,31,Spain,Centre-Forward,CF,-,Burgos CF,Spain,?,Out,1993,s,laliga
-CA Osasuna,Deyan Angelov,28,Bulgaria,Midfielder,Midfielder,-,Levski Sofia,Bulgaria,?,Out,1993,s,laliga
-CA Osasuna,Iñigo Larrainzar,22,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,?,Out,1993,s,laliga
-CA Osasuna,Alberto Aguilà,22,Spain,Forward,Forward,-,Unió Esportiva Lleida,Spain,?,Out,1993,s,laliga
-Real Valladolid CF,René Higuita,26,Colombia,Goalkeeper,GK,-,Atlético Nacional,Colombia,Free transfer,Out,1993,s,laliga
-Real Valladolid CF,José Luis Caminero,25,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,Out,1993,s,laliga
-Real Valladolid CF,Onésimo,24,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga
-Real Valladolid CF,Rashid Rakhimov,28,Russia,Left Midfield,LM,-,Lokomotiv Moscow,Russia,?,Out,1993,s,laliga
-Rayo Vallecano,Toni Polster,29,Austria,Centre-Forward,CF,-,1. FC Köln,Germany,Free transfer,Out,1993,s,laliga
-Rayo Vallecano,Pedro Riesco,23,Spain,Forward,Forward,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Rayo Vallecano,Javi García,23,Spain,Forward,Forward,-,Unió Esportiva Lleida,Spain,?,Out,1993,s,laliga
-Rayo Vallecano,Prudencio Sáez,26,Spain,Forward,Forward,-,CP Mérida,Spain,?,Out,1993,s,laliga
-Rayo Vallecano,Toni Jiménez,22,Spain,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga
-Rayo Vallecano,Paco Jémez,23,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Rayo Vallecano,Marcelo Rocha,24,Brazil,Forward,Forward,-,,Retired,-,Out,1993,s,laliga
-Rayo Vallecano,Pizo Gómez,29,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga
-Sevilla FC,Diego Maradona,32,Argentina,Attacking Midfield,AM,-,Club Atlético Newell's Old Boys,Argentina,?,Out,1993,s,laliga
-Sevilla FC,Ignacio Conte,24,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,?,Out,1993,s,laliga
-Sevilla FC,Losada,25,Spain,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1993,s,laliga
-Real Madrid,Juan Esnáider,20,Argentina,Centre-Forward,CF,-,Real Zaragoza,Spain,£1.26m,Out,1993,s,laliga
-Real Madrid,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,Free transfer,Out,1993,s,laliga
-Real Madrid,Ricardo Rocha,30,Brazil,Centre-Back,CB,-,Santos FC,Brazil,?,Out,1993,s,laliga
-Real Madrid,Fernando Sanz,19,Spain,Centre-Back,CB,-,Unión Española,Chile,Loan,Out,1993,s,laliga
-Real Madrid,Juanmi,22,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,?,Out,1993,s,laliga
-Real Madrid,Juan José Maqueda,24,Spain,Midfielder,Midfielder,-,Real Madrid B,Spain,-,Out,1993,s,laliga
-Athletic Bilbao,Rafael Alkorta,24,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,Out,1993,s,laliga
-Athletic Bilbao,David Billabona,23,Spain,Central Midfield,CM,-,Racing Santander,Spain,?,Out,1993,s,laliga
-Athletic Bilbao,Vicente Uriz,22,Spain,Defensive Midfield,DM,-,Levante UD,Spain,?,Out,1993,s,laliga
-Athletic Bilbao,Francisco Javier Luke,25,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,Loan,Out,1993,s,laliga
-Athletic Bilbao,Luis de la Fuente,32,Spain,Left-Back,LB,-,Deportivo Alavés,Spain,?,Out,1993,s,laliga
-Athletic Bilbao,Rípodas,32,Spain,Central Midfield,CM,-,,Retired,-,Out,1993,s,laliga
-Racing Santander,Ivica Barbaric,31,Bosnia-Herzegovina,Midfielder,Midfielder,-,CD Badajoz,Spain,?,Out,1993,s,laliga
-Racing Santander,Marcel Sabou,27,Romania,Midfielder,Midfielder,-,Sporting Gijón,Spain,?,Out,1993,s,laliga
-Racing Santander,Tuto Sañudo,37,Spain,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga
-Racing Santander,Benito,30,Spain,Forward,Forward,-,,Retired,-,Out,1993,s,laliga
-CD Tenerife,Alexis Trujillo,27,Spain,Midfielder,Midfielder,-,Real Betis Balompié,Spain,?,Out,1993,s,laliga
-CD Tenerife,Rafa Berges,22,Spain,Left-Back,LB,-,Celta de Vigo,Spain,?,Out,1993,s,laliga
-CD Tenerife,Juan Antonio Pizzi,25,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,Out,1993,s,laliga
-CD Tenerife,Manolo Hierro,31,Spain,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga
-Real Sociedad,Mikel Loinaz Balda,26,Spain,Forward,Forward,-,Villarreal CF,Spain,?,Out,1993,s,laliga
-Real Sociedad,Patxi,25,Spain,Goalkeeper,GK,-,Girona FC,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Ramón,29,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Juan Mari Mujika,30,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Antonio Doncel Valcárcel,26,Spain,Defender,Defender,-,Burgos CF,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Atanas Kirov,23,Bulgaria,Forward,Forward,-,CSKA Sofia,Bulgaria,?,Out,1993,s,laliga
-Deportivo de La Coruña,Yosu,29,Spain,Goalkeeper,GK,-,Cádiz CF,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Ilian Kiriakov,25,Bulgaria,Left-Back,LB,-,CP Mérida,Spain,?,Out,1993,s,laliga
-Deportivo de La Coruña,Georgi Slavchev,23,Bulgaria,Defender,Defender,-,Levski Sofia,Bulgaria,?,Out,1993,s,laliga
-Celta de Vigo,José Mosquera,26,Venezuela,Midfielder,Midfielder,-,CP Mérida,Spain,?,Out,1993,s,laliga
-Celta de Vigo,Emilio López,27,Spain,Goalkeeper,GK,-,UE Figueres,Spain,?,Out,1993,s,laliga
-Celta de Vigo,Milos Bursac,28,Serbia,Forward,Forward,-,Royal Antwerp FC,Belgium,?,Out,1993,s,laliga
-Celta de Vigo,Goran Juric,30,Croatia,Sweeper,SW,-,NK Zagreb,Croatia,?,Out,1993,s,laliga
-Celta de Vigo,José Carlos Alonso Oliveira,23,Spain,Forward,Forward,-,,Retired,-,Out,1993,s,laliga
-Celta de Vigo,Javier Maté,35,Spain,Goalkeeper,GK,-,,Retired,-,Out,1993,s,laliga
-Celta de Vigo,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga
-Valencia CF,Juan Sánchez,21,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,Loan,Out,1993,s,laliga
-Valencia CF,Voro,29,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Valencia CF,Leonardo,23,Brazil,Attacking Midfield,AM,-,São Paulo Futebol Clube,Brazil,?,Out,1993,s,laliga
-Albacete Balompié,Antonio Pinilla,22,Spain,Left Winger,LW,-,CD Tenerife,Spain,Free transfer,Out,1993,s,laliga
-Albacete Balompié,Antônio Carlos Zago,24,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,Free transfer,Out,1993,s,laliga
-Albacete Balompié,Manolo Salvador,29,Spain,Central Midfield,CM,-,Marbella FC,Spain,?,Out,1993,s,laliga
-Albacete Balompié,Jesús Unanua,24,Spain,Goalkeeper,GK,-,CA Osasuna,Spain,?,Out,1993,s,laliga
-Albacete Balompié,Pedro Corbalán,26,Spain,Forward,Forward,-,Real Murcia CF,Spain,?,Out,1993,s,laliga
-Albacete Balompié,Armando Tejera,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga
-Sporting Gijón,Iván Iglesias,21,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£585Th.,Out,1993,s,laliga
-Sporting Gijón,Javier Manjarín,23,Spain,Second Striker,SS,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga
-Sporting Gijón,Ángel Luis Alcázar,26,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga
-Sporting Gijón,Georgi Yordanov,29,Bulgaria,Midfielder,Midfielder,-,Marbella FC,Spain,?,Out,1993,s,laliga
-Sporting Gijón,Joakim Nilsson,27,Sweden,Left-Back,LB,-,,Retired,-,Out,1993,s,laliga
-Sporting Gijón,Thomas Christiansen,20,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga
-Real Oviedo,Marius Lacatus,29,Romania,Centre-Forward,CF,-,Steaua Bukarest,Romania,?,Out,1993,s,laliga
-Real Oviedo,Fermín,25,Spain,Midfielder,Midfielder,-,CD Castellón,Spain,?,Out,1993,s,laliga
-Real Oviedo,Paco Fernández,25,Spain,Central Midfield,CM,-,CD Logroñés,Spain,?,Out,1993,s,laliga
-Real Oviedo,Pirri Mori,22,Spain,Attacking Midfield,AM,-,Atlético Madrid,Spain,?,Out,1993,s,laliga
-Real Oviedo,Nenad Gracan,31,Croatia,Midfielder,Midfielder,-,,Retired,-,Out,1993,s,laliga
-Unió Esportiva Lleida,Javi Gracia,23,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,?,Out,1993,s,laliga
-Unió Esportiva Lleida,José Luis Gallardo,21,Spain,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga
-Unió Esportiva Lleida,Mora,19,Spain,Goalkeeper,GK,-,CF Balaguer,Spain,?,Out,1993,s,laliga
-Unió Esportiva Lleida,José Francisco Sigüenza Soto,27,Spain,Forward,Forward,-,CD Toledo,Spain,?,Out,1993,s,laliga
-Unió Esportiva Lleida,Ali Benhalima,31,Algeria,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga
-Atlético Madrid,José Soler,26,Spain,Midfielder,Midfielder,-,CD Badajoz,Spain,?,In,1993,w,laliga
-CD Logroñés,Grzegorz Lewandowski,24,Poland,Defensive Midfield,DM,-,Wisla Kraków,Poland,?,In,1993,w,laliga
-CD Logroñés,José Ignacio,20,Spain,Defensive Midfield,DM,-,CD Logroñés B,Spain,-,In,1993,w,laliga
-Real Valladolid CF,Marlon Brandão,30,Brazil,Forward,Forward,-,Boavista Porto FC,Portugal,?,In,1993,w,laliga
-Sevilla FC,Quique Estebaranz,28,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£900Th.,In,1993,w,laliga
-Valencia CF,Víctor Aristizábal,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,£450Th.,In,1993,w,laliga
-Unió Esportiva Lleida,Antonio Acosta,22,Spain,Midfielder,Midfielder,-,Cádiz CF,Spain,?,In,1993,w,laliga
-Unió Esportiva Lleida,Sören Andersen,23,Denmark,Centre-Forward,CF,-,Aarhus GF,Denmark,?,In,1993,w,laliga
-Unió Esportiva Lleida,Sebastián Herrera,24,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,w,laliga
-Unió Esportiva Lleida,Gustavo Matosas,26,Uruguay,Forward,Forward,-,São Paulo Futebol Clube,Brazil,?,In,1993,w,laliga
-FC Barcelona,Quique Estebaranz,28,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,£900Th.,Out,1993,w,laliga
-CA Osasuna,Deyan Angelov,28,Bulgaria,Midfielder,Midfielder,-,Levski Sofia,Bulgaria,?,Out,1993,w,laliga
-Real Madrid,Vítor,21,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,?,Out,1993,w,laliga
-Athletic Bilbao,Josema,24,Spain,Right-Back,RB,-,UD Salamanca,Spain,?,Out,1993,w,laliga
-Real Sociedad,Carlos Martínez,26,Spain,Midfielder,Midfielder,-,UD Las Palmas,Spain,?,Out,1993,w,laliga
-Real Sociedad,Javier Yubero,21,Spain,Goalkeeper,GK,-,Real Betis Balompié,Spain,?,Out,1993,w,laliga
-Deportivo de La Coruña,Dragi Kanatlarovski,33,North Macedonia,Defender,Defender,-,Karsiyaka,Turkey,?,Out,1993,w,laliga
-Celta de Vigo,Luisinho,28,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1993,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Atlético Madrid,José Luis Caminero,25,Spain,Central Midfield,CM,-,Real Valladolid CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-luis-caminero/profil/spieler/7800
+Atlético Madrid,Mami Quevedo,24,Spain,Central Midfield,CM,-,Cádiz CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/mami-quevedo/profil/spieler/172351
+Atlético Madrid,Tilico,28,Brazil,Forward,Forward,-,Marbella FC,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/tilico/profil/spieler/353162
+Atlético Madrid,Kiko Narváez,21,Spain,Centre-Forward,CF,-,Cádiz CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/kiko-narvaez/profil/spieler/104048
+Atlético Madrid,Serge-Alain Maguy,22,Cote d'Ivoire,Midfielder,Midfielder,-,Africa Sports,Cote d'Ivoire,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/serge-alain-maguy/profil/spieler/353161
+Atlético Madrid,Roman Kosecki,27,Poland,Centre-Forward,CF,-,CA Osasuna,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/roman-kosecki/profil/spieler/91661
+Atlético Madrid,Pirri Mori,22,Spain,Attacking Midfield,AM,-,Real Oviedo,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/pirri-mori/profil/spieler/258143
+Atlético Madrid,Moacir,23,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/moacir/profil/spieler/303470
+Atlético Madrid,Pizo Gómez,29,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,"End of loanJun 30, 1993",In,1993,s,laliga,https://www.transfermarkt.co.uk/pizo-gomez/profil/spieler/154877
+FC Barcelona,Romário,27,Brazil,Centre-Forward,CF,-,PSV Eindhoven,Netherlands,£10.80m,In,1993,s,laliga,https://www.transfermarkt.co.uk/romario/profil/spieler/7942
+FC Barcelona,Iván Iglesias,21,Spain,Central Midfield,CM,-,Sporting Gijón,Spain,£585Th.,In,1993,s,laliga,https://www.transfermarkt.co.uk/ivan-iglesias/profil/spieler/184337
+FC Barcelona,Óscar García,20,Spain,Attacking Midfield,AM,-,FC Barcelona B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+FC Barcelona,Sergi Barjuán,21,Spain,Left-Back,LB,-,FC Barcelona B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/sergi-barjuan/profil/spieler/8063
+Real Zaragoza,Juan Esnáider,20,Argentina,Centre-Forward,CF,-,Real Madrid,Spain,£1.26m,In,1993,s,laliga,https://www.transfermarkt.co.uk/juan-esnaider/profil/spieler/3856
+Real Zaragoza,Juanmi,22,Spain,Goalkeeper,GK,-,Real Madrid,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/juanmi/profil/spieler/7484
+Real Zaragoza,Nayim,26,Spain,Right Midfield,RM,-,Tottenham Hotspur,England,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/nayim/profil/spieler/184495
+Real Zaragoza,Fernando Cáceres,24,Argentina,Centre-Back,CB,-,Club Atlético River Plate,Argentina,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/fernando-caceres/profil/spieler/7540
+Real Zaragoza,Seba,19,Spain,Second Striker,SS,-,Real Zaragoza B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/seba/profil/spieler/184502
+Real Zaragoza,Mario García,25,Spain,Goalkeeper,GK,-,CD Badajoz,Spain,"End of loanJun 30, 1993",In,1993,s,laliga,https://www.transfermarkt.co.uk/mario-garcia/profil/spieler/357678
+CD Logroñés (liq.),Dejan Markovic,20,Serbia,Right Midfield,RM,-,UE Castelldefels,Spain,Free transfer,In,1993,s,laliga,https://www.transfermarkt.co.uk/dejan-markovic/profil/spieler/2834
+CD Logroñés (liq.),Juan José Vallina,22,Spain,Midfielder,Midfielder,-,Real Burgos CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/juan-jose-vallina/profil/spieler/354468
+CD Logroñés (liq.),Paco Fernández,25,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/paco-fernandez/profil/spieler/314747
+CA Osasuna,Thomas Christiansen,20,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,Loan,In,1993,s,laliga,https://www.transfermarkt.co.uk/thomas-christiansen/profil/spieler/722
+CA Osasuna,Ramón de Quintana,21,Spain,Centre-Back,CB,-,UE Figueres,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/ramon-de-quintana/profil/spieler/29130
+CA Osasuna,Francisco Javier Luke,25,Spain,Midfielder,Midfielder,-,Athletic Bilbao,Spain,Loan,In,1993,s,laliga,https://www.transfermarkt.co.uk/francisco-javier-luke/profil/spieler/154618
+CA Osasuna,Ryszard Staniek,22,Poland,Midfielder,Midfielder,-,Górnik Zabrze,Poland,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/ryszard-staniek/profil/spieler/173895
+CA Osasuna,Jesús Unanua,24,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/jesus-unanua/profil/spieler/64421
+CA Osasuna,Javier López Vallejo,17,Spain,Goalkeeper,GK,-,CA Osasuna Promesas,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/javier-lopez-vallejo/profil/spieler/7824
+CA Osasuna,Santiago Castillejo,21,Spain,Forward,Forward,-,CA Osasuna Promesas,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/santiago-castillejo/profil/spieler/312164
+Real Valladolid CF,Manolo Alfaro,22,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Free transfer,In,1993,s,laliga,https://www.transfermarkt.co.uk/manolo-alfaro/profil/spieler/221878
+Real Valladolid CF,Miguelo,24,Spain,Midfielder,Midfielder,-,Real Murcia CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/miguelo/profil/spieler/288173
+Real Valladolid CF,Gabi Correa,25,Uruguay,Central Midfield,CM,-,Real Murcia CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/gabi-correa/profil/spieler/258056
+Real Valladolid CF,Javier Torres Gómez,23,Spain,Right-Back,RB,-,Real Madrid C,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/javier-torres-gomez/profil/spieler/7809
+Real Valladolid CF,Javi Gracia,23,Spain,Defensive Midfield,DM,-,UE Lleida (liq.),Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/javi-gracia/profil/spieler/172656
+Real Valladolid CF,Rubén Baraja,17,Spain,Central Midfield,CM,-,Real Valladolid B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/ruben-baraja/profil/spieler/4191
+Real Valladolid CF,Víctor Javier Ferreras,20,Spain,Right-Back,RB,-,Real Valladolid B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/victor-javier-ferreras/profil/spieler/259698
+Real Valladolid CF,Jesús Ángel Turiel,19,Spain,Defensive Midfield,DM,-,Real Valladolid U19,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/jesus-angel-turiel/profil/spieler/29197
+Real Valladolid CF,Ramón,18,Spain,Centre-Back,CB,-,Real Valladolid B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/57947
+Real Valladolid CF,Luis Miguel Martín,23,Spain,Centre-Back,CB,-,Real Valladolid B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/luis-miguel-martin/profil/spieler/354369
+Rayo Vallecano,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,In,1993,s,laliga,https://www.transfermarkt.co.uk/ismael-urzaiz/profil/spieler/7641
+Rayo Vallecano,Antonio Orejuela,32,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-orejuela/profil/spieler/130036
+Rayo Vallecano,Armando Tejera,25,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/armando-tejera/profil/spieler/312119
+Rayo Vallecano,Onésimo,24,Spain,Midfielder,Midfielder,-,Real Valladolid CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/onesimo/profil/spieler/246203
+Rayo Vallecano,Hugo Sánchez,34,Mexico,Centre-Forward,CF,-,CF América,Mexico,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/hugo-sanchez/profil/spieler/84528
+Rayo Vallecano,Ángel Luis Alcázar,26,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/angel-luis-alcazar/profil/spieler/184328
+Rayo Vallecano,Eduardo Rodríguez,27,Spain,Forward,Forward,-,Hércules CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/eduardo-rodriguez/profil/spieler/259711
+Rayo Vallecano,Míchel,17,Spain,Attacking Midfield,AM,-,Rayo Vallecano B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/michel/profil/spieler/8324
+Sevilla FC,Patxi Ferreira,26,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,Loan,In,1993,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Sevilla FC,Miquel Soler,28,Spain,Left-Back,LB,-,FC Barcelona,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/miquel-soler/profil/spieler/7675
+Sevilla FC,Yordi,18,Spain,Centre-Forward,CF,-,Sevilla FC C,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/yordi/profil/spieler/7979
+Sevilla FC,José Padilla,23,Spain,Left-Back,LB,-,Sevilla FC B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-padilla/profil/spieler/253209
+Sevilla FC,Gabriel Moya,27,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,,In,1993,s,laliga,https://www.transfermarkt.co.uk/gabriel-moya/profil/spieler/173462
+Real Madrid,Peter Dubovsky,21,Slovakia,Second Striker,SS,-,Slovan Bratislava,Slovakia,£3.87m,In,1993,s,laliga,https://www.transfermarkt.co.uk/peter-dubovsky/profil/spieler/183461
+Real Madrid,Rafael Alkorta,24,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/rafael-alkorta/profil/spieler/101566
+Real Madrid,Vítor,20,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/vitor/profil/spieler/223767
+Real Madrid,Rafael Martin Vazquez,27,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/rafael-martin-vazquez/profil/spieler/79567
+Real Madrid,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,"End of loanJun 30, 1993",In,1993,s,laliga,https://www.transfermarkt.co.uk/ismael-urzaiz/profil/spieler/7641
+Athletic Bilbao,Iñigo Larrainzar,22,Spain,Right-Back,RB,-,CA Osasuna,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/inigo-larrainzar/profil/spieler/7621
+Athletic Bilbao,Aitor Karanka,19,Spain,Centre-Back,CB,-,Bilbao Athletic,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/aitor-karanka/profil/spieler/7619
+Athletic Bilbao,Jorge Aizkorreta,19,Spain,Goalkeeper,GK,-,CD Basconia,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/jorge-aizkorreta/profil/spieler/29161
+Racing Santander,Dmitri Radchenko,22,Russia,Centre-Forward,CF,-,Spartak Moscow,Russia,£1.08m,In,1993,s,laliga,https://www.transfermarkt.co.uk/dmitri-radchenko/profil/spieler/67136
+Racing Santander,Pablo Alfaro,24,Spain,Centre-Back,CB,-,FC Barcelona,Spain,Free transfer,In,1993,s,laliga,https://www.transfermarkt.co.uk/pablo-alfaro/profil/spieler/7700
+Racing Santander,Quique Setién,34,Spain,Central Midfield,CM,-,CD Logroñés (liq.),Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/quique-setien/profil/spieler/117609
+Racing Santander,Óscar Engonga,24,Equatorial Guinea,Midfielder,Midfielder,-,CD Toledo,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/oscar-engonga/profil/spieler/462525
+Racing Santander,Michel Pineda,29,France,Centre-Forward,CF,-,Sporting Club de Toulon 83,France,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/michel-pineda/profil/spieler/255176
+Racing Santander,Dmitri Popov,26,Russia,Right-Back,RB,-,Spartak Moscow,Russia,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/dmitri-popov/profil/spieler/67134
+Racing Santander,David Billabona,23,Spain,Central Midfield,CM,-,Athletic Bilbao,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/david-billabona/profil/spieler/154567
+CD Tenerife,Antonio Pinilla,22,Spain,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,In,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-pinilla/profil/spieler/29111
+CD Tenerife,Percy Olivares,25,Peru,Left-Back,LB,-,Sporting Cristal Lima,Peru,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/percy-olivares/profil/spieler/17969
+CD Tenerife,Ignacio Conte,24,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/ignacio-conte/profil/spieler/258845
+CD Tenerife,Juan Carlos Aguilera,24,Spain,Right-Back,RB,-,Atlético Madrid,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-aguilera/profil/spieler/7370
+Real Sociedad,Bixente Biurrun,33,Brazil,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/bixente-biurrun/profil/spieler/150644
+Real Sociedad,Loren,26,Spain,Centre-Back,CB,-,Burgos CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/loren/profil/spieler/154605
+Real Sociedad,Agustín Aranzabal,20,Spain,Left-Back,LB,-,Real Sociedad U19,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/agustin-aranzabal/profil/spieler/7460
+Real Sociedad,Javi de Pedro,19,Spain,Left Midfield,LM,-,Real Sociedad U19,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/javi-de-pedro/profil/spieler/7348
+Deportivo de La Coruña,Paco Jémez,23,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/paco-jemez/profil/spieler/7975
+Deportivo de La Coruña,Agustín Elduayen,28,Spain,Goalkeeper,GK,-,Burgos CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/agustin-elduayen/profil/spieler/121089
+Deportivo de La Coruña,Pedro Riesco,23,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/pedro-riesco/profil/spieler/305883
+Deportivo de La Coruña,Javier Manjarín,23,Spain,Second Striker,SS,-,Sporting Gijón,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/javier-manjarin/profil/spieler/104049
+Deportivo de La Coruña,Alfredo Santaelena,25,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/alfredo-santaelena/profil/spieler/253504
+Deportivo de La Coruña,Donato,30,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/donato/profil/spieler/7489
+Deportivo de La Coruña,Voro,29,Spain,Centre-Back,CB,-,Valencia CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/voro/profil/spieler/101568
+Celta de Vigo,Stjepan Andrijasevic,26,Croatia,Right Midfield,RM,-,AS Monaco,France,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/stjepan-andrijasevic/profil/spieler/175963
+Celta de Vigo,Joseba Aguirre,29,Spain,Midfielder,Midfielder,-,Burgos CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/joseba-aguirre/profil/spieler/179566
+Celta de Vigo,Rafa Berges,22,Spain,Left-Back,LB,-,CD Tenerife,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/rafa-berges/profil/spieler/187797
+Celta de Vigo,Losada,25,Spain,Forward,Forward,-,Sevilla FC,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/losada/profil/spieler/180080
+Celta de Vigo,Luisinho,28,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/luisinho/profil/spieler/223765
+Celta de Vigo,Carlos Pérez,21,Spain,Attacking Midfield,AM,-,Club Celta Turista,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/carlos-perez/profil/spieler/144737
+Valencia CF,Predrag Mijatović,24,Montenegro,Centre-Forward,CF,-,FK Partizan Belgrade,Serbia,£9.00m,In,1993,s,laliga,https://www.transfermarkt.co.uk/predrag-mijatovi%C4%87/profil/spieler/24481
+Valencia CF,Juan Antonio Pizzi,25,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/juan-antonio-pizzi/profil/spieler/8015
+Valencia CF,José Serer,27,Spain,Centre-Back,CB,-,RCD Mallorca,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-serer/profil/spieler/292388
+Valencia CF,José Gálvez,18,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-galvez/profil/spieler/253198
+Valencia CF,Javi Navarro,19,Spain,Centre-Back,CB,-,Valencia CF B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/javi-navarro/profil/spieler/7696
+Valencia CF,José Manuel Tárraga,22,Spain,Defender,Defender,-,Valencia CF B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-tarraga/profil/spieler/258870
+Valencia CF,Antonio Notario,20,Spain,Goalkeeper,GK,-,Valencia CF B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-notario/profil/spieler/7694
+Albacete Balompié,José González,26,Spain,Forward,Forward,-,RCD Mallorca,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-gonzalez/profil/spieler/276624
+Albacete Balompié,Ramón,29,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/208608
+Albacete Balompié,Esteban Fradera Serrat,30,Spain,Defender,Defender,-,RCD Mallorca,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/esteban-fradera-serrat/profil/spieler/221672
+Albacete Balompié,Josep Sala,29,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/josep-sala/profil/spieler/303507
+Albacete Balompié,Gabelo Conejo,33,Costa Rica,Goalkeeper,GK,-,,Unknown,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/gabelo-conejo/profil/spieler/92916
+Albacete Balompié,Alejandro Rodríguez López,29,Spain,Defender,Defender,-,Burgos CF,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/alejandro-rodriguez-lopez/profil/spieler/303506
+Albacete Balompié,Vladan Dimitrijevic,20,Serbia,Defender,Defender,-,UE Figueres,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/vladan-dimitrijevic/profil/spieler/356414
+Albacete Balompié,Fernando Morientes,17,Spain,Centre-Forward,CF,-,Albacete Balompié B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/fernando-morientes/profil/spieler/7531
+Sporting Gijón,Mario Stanic,21,Croatia,Right Winger,RW,-,NK Croatia Zagreb,Croatia,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/mario-stanic/profil/spieler/3164
+Sporting Gijón,Xavier Escaich,24,Spain,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/xavier-escaich/profil/spieler/8123
+Sporting Gijón,Marcel Sabou,27,Romania,Midfielder,Midfielder,-,Racing Santander,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/marcel-sabou/profil/spieler/303936
+Sporting Gijón,Daniel Saric,20,Croatia,Right-Back,RB,-,HNK Rijeka,Croatia,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/daniel-saric/profil/spieler/27928
+Sporting Gijón,Marcelino,21,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/marcelino/profil/spieler/171977
+Sporting Gijón,José Manuel,19,Spain,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Sporting Gijón,Mario Cotelo,18,Spain,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/mario-cotelo/profil/spieler/23033
+Sporting Gijón,Javier Castaño,20,Spain,Central Midfield,CM,-,Sporting de Gijón B ,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/javier-castano/profil/spieler/184364
+Real Oviedo,Lluís Carreras,20,Spain,Left-Back,LB,-,FC Barcelona B,Spain,Loan,In,1993,s,laliga,https://www.transfermarkt.co.uk/lluis-carreras/profil/spieler/16593
+Real Oviedo,Roberto Suárez,19,Spain,Central Midfield,CM,-,Real Madrid C,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/roberto-suarez/profil/spieler/29140
+Real Oviedo,Slavisa Jokanovic,24,Serbia,Defensive Midfield,DM,-,FK Partizan Belgrade,Serbia,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/slavisa-jokanovic/profil/spieler/79065
+Real Oviedo,Juan Luis Mora,19,Spain,Goalkeeper,GK,-,Real Oviedo B,Spain,-,In,1993,s,laliga,https://www.transfermarkt.co.uk/juan-luis-mora/profil/spieler/23269
+UE Lleida (liq.),Urbano,31,Spain,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/urbano/profil/spieler/214127
+UE Lleida (liq.),Javi García,23,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/javi-garcia/profil/spieler/259493
+UE Lleida (liq.),Sören Andersen,23,Denmark,Centre-Forward,CF,-,Aarhus GF,Denmark,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/soren-andersen/profil/spieler/170652
+UE Lleida (liq.),Nikola Milinkovic,25,Serbia,Attacking Midfield,AM,-,FK Becej,Serbia,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/nikola-milinkovic/profil/spieler/5002
+UE Lleida (liq.),Sebastián Herrera,24,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/sebastian-herrera/profil/spieler/259497
+UE Lleida (liq.),Albert Tomàs,22,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/albert-tomas/profil/spieler/253507
+UE Lleida (liq.),Alberto Aguilà,22,Spain,Forward,Forward,-,CA Osasuna,Spain,?,In,1993,s,laliga,https://www.transfermarkt.co.uk/alberto-aguila/profil/spieler/266924
+Atlético Madrid,Paulo Futre,27,Portugal,Left Winger,LW,-,SL Benfica,Portugal,£900Th.,Out,1993,s,laliga,https://www.transfermarkt.co.uk/paulo-futre/profil/spieler/27705
+Atlético Madrid,Bernd Schuster,33,Germany,Attacking Midfield,AM,-,Bayer 04 Leverkusen,Germany,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/bernd-schuster/profil/spieler/8025
+Atlético Madrid,Manolo Alfaro,22,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/manolo-alfaro/profil/spieler/221878
+Atlético Madrid,Donato,30,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/donato/profil/spieler/7489
+Atlético Madrid,Vladan Lukic,23,Serbia,Centre-Forward,CF,-,FK Vojvodina Novi Sad,Serbia,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/vladan-lukic/profil/spieler/171753
+Atlético Madrid,Patxi Ferreira,26,Spain,Centre-Back,CB,-,Sevilla FC,Spain,Loan,Out,1993,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Atlético Madrid,Ángel Mejías,34,Spain,Goalkeeper,GK,-,Talavera CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/angel-mejias/profil/spieler/310570
+Atlético Madrid,Antonio Orejuela,32,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-orejuela/profil/spieler/130036
+Atlético Madrid,José Luis Villarreal,27,Argentina,Defensive Midfield,DM,-,Club Atlético River Plate,Argentina,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-luis-villarreal/profil/spieler/173747
+Atlético Madrid,Alfredo Santaelena,25,Spain,Midfielder,Midfielder,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/alfredo-santaelena/profil/spieler/253504
+Atlético Madrid,Juan Carlos Aguilera,24,Spain,Right-Back,RB,-,CD Tenerife,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-aguilera/profil/spieler/7370
+Atlético Madrid,Antonio Acosta,21,Spain,Midfielder,Midfielder,-,Cádiz CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-acosta/profil/spieler/145580
+Atlético Madrid,Gabriel Moya,27,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,,Out,1993,s,laliga,https://www.transfermarkt.co.uk/gabriel-moya/profil/spieler/173462
+FC Barcelona,Pablo Alfaro,24,Spain,Centre-Back,CB,-,Racing Santander,Spain,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/pablo-alfaro/profil/spieler/7700
+FC Barcelona,Richard Witschge,23,Netherlands,Central Midfield,CM,-,FC Girondins Bordeaux,France,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/richard-witschge/profil/spieler/4325
+FC Barcelona,Miquel Soler,28,Spain,Left-Back,LB,-,Sevilla FC,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/miquel-soler/profil/spieler/7675
+FC Barcelona,José Ramón Alexanko,37,Spain,Sweeper,SW,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-ramon-alexanko/profil/spieler/134926
+Real Zaragoza,Andreas Brehme,32,Germany,Left-Back,LB,-,1.FC Kaiserslautern,Germany,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/andreas-brehme/profil/spieler/16056
+Real Zaragoza,Víctor Segura,20,Spain,Centre-Back,CB,-,Palamós CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/victor-segura/profil/spieler/303475
+Real Zaragoza,José Ramón Bermell,31,Spain,Goalkeeper,GK,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-ramon-bermell/profil/spieler/276614
+CD Logroñés (liq.),Quique Setién,34,Spain,Central Midfield,CM,-,Racing Santander,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/quique-setien/profil/spieler/117609
+CD Logroñés (liq.),Amarildo,28,Brazil,Forward,Forward,-,FC Famalicão,Portugal,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/amarildo/profil/spieler/226393
+CD Logroñés (liq.),Jesús García-Pitarch,29,Spain,Forward,Forward,-,CP Mérida,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jesus-garcia-pitarch/profil/spieler/356748
+CD Logroñés (liq.),Víctor Torres Mestre,22,Spain,Left-Back,LB,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/victor-torres-mestre/profil/spieler/171914
+CD Logroñés (liq.),Nelson Gutiérrez,31,Uruguay,Centre-Back,CB,-,CA Peñarol,Uruguay,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/nelson-gutierrez/profil/spieler/116065
+CD Logroñés (liq.),Marcelo Vega,21,Chile,Attacking Midfield,AM,-,CSD Colo Colo,Chile,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/marcelo-vega/profil/spieler/133860
+CD Logroñés (liq.),Cleber,23,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/cleber/profil/spieler/354467
+CA Osasuna,Goran Stevanovic,26,Serbia,Midfielder,Midfielder,-,SC Farense,Portugal,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/goran-stevanovic/profil/spieler/241226
+CA Osasuna,Roman Kosecki,27,Poland,Centre-Forward,CF,-,Atlético Madrid,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/roman-kosecki/profil/spieler/91661
+CA Osasuna,Cholo,31,Spain,Centre-Forward,CF,-,Burgos CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/cholo/profil/spieler/214178
+CA Osasuna,Deyan Angelov,28,Bulgaria,Midfielder,Midfielder,-,Levski Sofia,Bulgaria,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/deyan-angelov/profil/spieler/356390
+CA Osasuna,Iñigo Larrainzar,22,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/inigo-larrainzar/profil/spieler/7621
+CA Osasuna,Alberto Aguilà,22,Spain,Forward,Forward,-,UE Lleida (liq.),Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/alberto-aguila/profil/spieler/266924
+Real Valladolid CF,René Higuita,26,Colombia,Goalkeeper,GK,-,Atlético Nacional,Colombia,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/rene-higuita/profil/spieler/55838
+Real Valladolid CF,José Luis Caminero,25,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-luis-caminero/profil/spieler/7800
+Real Valladolid CF,Onésimo,24,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/onesimo/profil/spieler/246203
+Real Valladolid CF,Rashid Rakhimov,28,Russia,Left Midfield,LM,-,Lokomotiv Moscow,Russia,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/rashid-rakhimov/profil/spieler/79093
+Rayo Vallecano,Toni Polster,29,Austria,Centre-Forward,CF,-,1. FC Köln,Germany,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/toni-polster/profil/spieler/22416
+Rayo Vallecano,Pedro Riesco,23,Spain,Forward,Forward,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/pedro-riesco/profil/spieler/305883
+Rayo Vallecano,Javi García,23,Spain,Forward,Forward,-,UE Lleida (liq.),Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/javi-garcia/profil/spieler/259493
+Rayo Vallecano,Prudencio Sáez,26,Spain,Forward,Forward,-,CP Mérida,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/prudencio-saez/profil/spieler/356980
+Rayo Vallecano,Toni Jiménez,22,Spain,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/toni-jimenez/profil/spieler/15767
+Rayo Vallecano,Paco Jémez,23,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/paco-jemez/profil/spieler/7975
+Rayo Vallecano,Marcelo Rocha,24,Brazil,Forward,Forward,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/marcelo-rocha/profil/spieler/356979
+Rayo Vallecano,Pizo Gómez,29,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga,https://www.transfermarkt.co.uk/pizo-gomez/profil/spieler/154877
+Sevilla FC,Diego Maradona,32,Argentina,Attacking Midfield,AM,-,Club Atlético Newell's Old Boys,Argentina,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/diego-maradona/profil/spieler/8024
+Sevilla FC,Ignacio Conte,24,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ignacio-conte/profil/spieler/258845
+Sevilla FC,Losada,25,Spain,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/losada/profil/spieler/180080
+Real Madrid,Juan Esnáider,20,Argentina,Centre-Forward,CF,-,Real Zaragoza,Spain,£1.26m,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-esnaider/profil/spieler/3856
+Real Madrid,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ismael-urzaiz/profil/spieler/7641
+Real Madrid,Juanmi,22,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juanmi/profil/spieler/7484
+Real Madrid,Ricardo Rocha,30,Brazil,Centre-Back,CB,-,Santos FC,Brazil,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ricardo-rocha/profil/spieler/102579
+Real Madrid,Juan José Maqueda,24,Spain,Midfielder,Midfielder,-,Real Madrid B,Spain,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-jose-maqueda/profil/spieler/180072
+Athletic Bilbao,Vicente Uriz,22,Spain,Defensive Midfield,DM,-,Levante UD,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/vicente-uriz/profil/spieler/72088
+Athletic Bilbao,Francisco Javier Luke,25,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,Loan,Out,1993,s,laliga,https://www.transfermarkt.co.uk/francisco-javier-luke/profil/spieler/154618
+Athletic Bilbao,Luis de la Fuente,32,Spain,Left-Back,LB,-,Deportivo Alavés,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/luis-de-la-fuente/profil/spieler/150670
+Athletic Bilbao,Rafael Alkorta,24,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/rafael-alkorta/profil/spieler/101566
+Athletic Bilbao,David Billabona,23,Spain,Central Midfield,CM,-,Racing Santander,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/david-billabona/profil/spieler/154567
+Athletic Bilbao,Rípodas,32,Spain,Central Midfield,CM,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ripodas/profil/spieler/154640
+Racing Santander,Ivica Barbaric,31,Bosnia-Herzegovina,Midfielder,Midfielder,-,CD Badajoz,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ivica-barbaric/profil/spieler/356524
+Racing Santander,Marcel Sabou,27,Romania,Midfielder,Midfielder,-,Sporting Gijón,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/marcel-sabou/profil/spieler/303936
+Racing Santander,Tuto Sañudo,37,Spain,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/tuto-sanudo/profil/spieler/273221
+Racing Santander,Benito,30,Spain,Forward,Forward,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/benito/profil/spieler/356406
+CD Tenerife,Juan Antonio Pizzi,25,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-antonio-pizzi/profil/spieler/8015
+CD Tenerife,Alexis Trujillo,27,Spain,Midfielder,Midfielder,-,Real Betis Balompié,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/alexis-trujillo/profil/spieler/253525
+CD Tenerife,Rafa Berges,22,Spain,Left-Back,LB,-,Celta de Vigo,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/rafa-berges/profil/spieler/187797
+CD Tenerife,Manolo Hierro,31,Spain,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/manolo-hierro/profil/spieler/275662
+Real Sociedad,Mikel Loinaz Balda,26,Spain,Forward,Forward,-,Villarreal CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/mikel-loinaz-balda/profil/spieler/200753
+Real Sociedad,Patxi,25,Spain,Goalkeeper,GK,-,Girona FC,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/patxi/profil/spieler/200749
+Deportivo de La Coruña,Juan Mari Mujika,30,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-mari-mujika/profil/spieler/159970
+Deportivo de La Coruña,Antonio Doncel Valcárcel,26,Spain,Defender,Defender,-,Burgos CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-doncel-valcarcel/profil/spieler/356517
+Deportivo de La Coruña,Atanas Kirov,23,Bulgaria,Forward,Forward,-,CSKA Sofia,Bulgaria,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/atanas-kirov/profil/spieler/582604
+Deportivo de La Coruña,Yosu,29,Spain,Goalkeeper,GK,-,Cádiz CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/yosu/profil/spieler/356516
+Deportivo de La Coruña,Ilian Kiriakov,25,Bulgaria,Left-Back,LB,-,CP Mérida,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ilian-kiriakov/profil/spieler/102345
+Deportivo de La Coruña,Georgi Slavchev,23,Bulgaria,Defender,Defender,-,Levski Sofia,Bulgaria,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/georgi-slavchev/profil/spieler/106939
+Deportivo de La Coruña,Ramón,29,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/208608
+Celta de Vigo,Goran Juric,30,Croatia,Sweeper,SW,-,NK Zagreb,Croatia,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/goran-juric/profil/spieler/160213
+Celta de Vigo,José Mosquera,26,Venezuela,Midfielder,Midfielder,-,CP Mérida,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-mosquera/profil/spieler/277067
+Celta de Vigo,Emilio López,27,Spain,Goalkeeper,GK,-,UE Figueres,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/emilio-lopez/profil/spieler/253551
+Celta de Vigo,Milos Bursac,28,Serbia,Forward,Forward,-,Royal Antwerp FC,Belgium,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/milos-bursac/profil/spieler/215176
+Celta de Vigo,Javier Maté,35,Spain,Goalkeeper,GK,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/javier-mate/profil/spieler/277064
+Celta de Vigo,José Carlos Alonso Oliveira,23,Spain,Forward,Forward,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-carlos-alonso-oliveira/profil/spieler/459911
+Celta de Vigo,Ismael Urzaiz,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga,https://www.transfermarkt.co.uk/ismael-urzaiz/profil/spieler/7641
+Valencia CF,Leonardo,23,Brazil,Attacking Midfield,AM,-,São Paulo Futebol Clube,Brazil,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/leonardo/profil/spieler/102586
+Valencia CF,Juan Sánchez,21,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,Loan,Out,1993,s,laliga,https://www.transfermarkt.co.uk/juan-sanchez/profil/spieler/7585
+Valencia CF,Voro,29,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/voro/profil/spieler/101568
+Albacete Balompié,Antonio Pinilla,22,Spain,Left Winger,LW,-,CD Tenerife,Spain,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-pinilla/profil/spieler/29111
+Albacete Balompié,Antônio Carlos Zago,24,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,Free transfer,Out,1993,s,laliga,https://www.transfermarkt.co.uk/antonio-carlos-zago/profil/spieler/6913
+Albacete Balompié,Manolo Salvador,29,Spain,Central Midfield,CM,-,Marbella FC,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/manolo-salvador/profil/spieler/277216
+Albacete Balompié,Jesús Unanua,24,Spain,Goalkeeper,GK,-,CA Osasuna,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jesus-unanua/profil/spieler/64421
+Albacete Balompié,Pedro Corbalán,26,Spain,Forward,Forward,-,Real Murcia CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/pedro-corbalan/profil/spieler/355975
+Albacete Balompié,Armando Tejera,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/armando-tejera/profil/spieler/312119
+Sporting Gijón,Iván Iglesias,21,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£585Th.,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ivan-iglesias/profil/spieler/184337
+Sporting Gijón,Javier Manjarín,23,Spain,Second Striker,SS,-,Deportivo de La Coruña,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/javier-manjarin/profil/spieler/104049
+Sporting Gijón,Ángel Luis Alcázar,26,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/angel-luis-alcazar/profil/spieler/184328
+Sporting Gijón,Darío Óscar Scotto,23,Argentina,Centre-Forward,CF,-,Club Necaxa,Mexico,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/dario-oscar-scotto/profil/spieler/357216
+Sporting Gijón,Georgi Yordanov,29,Bulgaria,Midfielder,Midfielder,-,Marbella FC,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/georgi-yordanov/profil/spieler/116714
+Sporting Gijón,Joakim Nilsson,27,Sweden,Left-Back,LB,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/joakim-nilsson/profil/spieler/214593
+Sporting Gijón,Thomas Christiansen,20,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,"End of loanJun 30, 1993",Out,1993,s,laliga,https://www.transfermarkt.co.uk/thomas-christiansen/profil/spieler/722
+Real Oviedo,Marius Lacatus,29,Romania,Centre-Forward,CF,-,Steaua Bukarest,Romania,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/marius-lacatus/profil/spieler/103220
+Real Oviedo,Fermín,25,Spain,Midfielder,Midfielder,-,CD Castellón,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/fermin/profil/spieler/355099
+Real Oviedo,Paco Fernández,25,Spain,Central Midfield,CM,-,CD Logroñés (liq.),Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/paco-fernandez/profil/spieler/314747
+Real Oviedo,Pirri Mori,22,Spain,Attacking Midfield,AM,-,Atlético Madrid,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/pirri-mori/profil/spieler/258143
+Real Oviedo,Nenad Gracan,31,Croatia,Midfielder,Midfielder,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/nenad-gracan/profil/spieler/231206
+UE Lleida (liq.),Javi Gracia,23,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/javi-gracia/profil/spieler/172656
+UE Lleida (liq.),José Luis Gallardo,21,Spain,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-luis-gallardo/profil/spieler/456071
+UE Lleida (liq.),Mora,19,Spain,Goalkeeper,GK,-,CF Balaguer,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/mora/profil/spieler/14396
+UE Lleida (liq.),José Francisco Sigüenza Soto,27,Spain,Forward,Forward,-,CD Toledo,Spain,?,Out,1993,s,laliga,https://www.transfermarkt.co.uk/jose-francisco-siguenza-soto/profil/spieler/580228
+UE Lleida (liq.),Ali Benhalima,31,Algeria,Centre-Back,CB,-,,Retired,-,Out,1993,s,laliga,https://www.transfermarkt.co.uk/ali-benhalima/profil/spieler/471258
+Atlético Madrid,José Soler,26,Spain,Midfielder,Midfielder,-,CD Badajoz,Spain,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/jose-soler/profil/spieler/262964
+CD Logroñés (liq.),Grzegorz Lewandowski,24,Poland,Defensive Midfield,DM,-,Wisla Kraków,Poland,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/grzegorz-lewandowski/profil/spieler/69240
+CD Logroñés (liq.),José Ignacio,20,Spain,Defensive Midfield,DM,-,CD Logroñés B,Spain,-,In,1993,w,laliga,https://www.transfermarkt.co.uk/jose-ignacio/profil/spieler/7554
+Real Valladolid CF,Marlon Brandão,30,Brazil,Forward,Forward,-,Boavista Porto FC,Portugal,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/marlon-brandao/profil/spieler/355986
+Sevilla FC,Quique Estebaranz,28,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£900Th.,In,1993,w,laliga,https://www.transfermarkt.co.uk/quique-estebaranz/profil/spieler/8126
+Valencia CF,Víctor Aristizábal,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,£450Th.,In,1993,w,laliga,https://www.transfermarkt.co.uk/victor-aristizabal/profil/spieler/102165
+Albacete Balompié,Nilson,28,Brazil,Attacking Midfield,AM,-,Fluminense Football Club,Brazil,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/nilson/profil/spieler/283199
+UE Lleida (liq.),Antonio Acosta,22,Spain,Midfielder,Midfielder,-,Cádiz CF,Spain,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/antonio-acosta/profil/spieler/145580
+UE Lleida (liq.),Sören Andersen,23,Denmark,Centre-Forward,CF,-,Aarhus GF,Denmark,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/soren-andersen/profil/spieler/170652
+UE Lleida (liq.),Sebastián Herrera,24,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/sebastian-herrera/profil/spieler/259497
+UE Lleida (liq.),Gustavo Matosas,26,Uruguay,Forward,Forward,-,São Paulo Futebol Clube,Brazil,?,In,1993,w,laliga,https://www.transfermarkt.co.uk/gustavo-matosas/profil/spieler/273265
+FC Barcelona,Quique Estebaranz,28,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,£900Th.,Out,1993,w,laliga,https://www.transfermarkt.co.uk/quique-estebaranz/profil/spieler/8126
+CA Osasuna,Deyan Angelov,28,Bulgaria,Midfielder,Midfielder,-,Levski Sofia,Bulgaria,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/deyan-angelov/profil/spieler/356390
+Real Madrid,Vítor,21,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/vitor/profil/spieler/223767
+Athletic Bilbao,Josema,24,Spain,Right-Back,RB,-,UD Salamanca,Spain,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/josema/profil/spieler/187834
+Real Sociedad,Carlos Martínez,26,Spain,Midfielder,Midfielder,-,UD Las Palmas,Spain,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/carlos-martinez/profil/spieler/200757
+Real Sociedad,Javier Yubero,21,Spain,Goalkeeper,GK,-,Real Betis Balompié,Spain,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/javier-yubero/profil/spieler/200765
+Deportivo de La Coruña,Dragi Kanatlarovski,33,North Macedonia,Defender,Defender,-,Karsiyaka,Turkey,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/dragi-kanatlarovski/profil/spieler/217426
+Celta de Vigo,Luisinho,28,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1993,w,laliga,https://www.transfermarkt.co.uk/luisinho/profil/spieler/223765

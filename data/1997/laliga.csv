@@ -1,376 +1,380 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Atlético Madrid,Christian Vieri,23,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£15.80m,In,1997,s,laliga
-Atlético Madrid,Paulo Futre,31,Portugal,Left Winger,LW,-,West Ham United,England,Free transfer,In,1997,s,laliga
-Atlético Madrid,Rade Bogdanovic,27,Serbia,Centre-Forward,CF,-,JEF United Chiba,Japan,?,In,1997,s,laliga
-Atlético Madrid,José Mari,18,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,?,In,1997,s,laliga
-Atlético Madrid,Ramón,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,1997,s,laliga
-Atlético Madrid,Andrei Frascarelli,24,Brazil,Defender,Defender,-,Atlético Paranaense,Brazil,?,In,1997,s,laliga
-Atlético Madrid,Avi Nimni,25,Israel,Attacking Midfield,AM,-,Maccabi Tel Aviv,Israel,?,In,1997,s,laliga
-Atlético Madrid,Jordi Lardín,24,Spain,Left Winger,LW,-,RCD Espanyol Barcelona,Spain,?,In,1997,s,laliga
-Atlético Madrid,Iván Rocha,29,Brazil,Left-Back,LB,-,RCD Mallorca,Spain,"End of loanJul 1, 1998",In,1997,s,laliga
-FC Barcelona,Rivaldo,25,Brazil,Attacking Midfield,AM,-,Deportivo de La Coruña,Spain,£21.15m,In,1997,s,laliga
-FC Barcelona,Sonny Anderson,26,Brazil,Centre-Forward,CF,-,AS Monaco,France,£16.20m,In,1997,s,laliga
-FC Barcelona,Michael Reiziger,24,Netherlands,Right-Back,RB,-,Milan AC,Italy,£7.20m,In,1997,s,laliga
-FC Barcelona,Christophe Dugarry,25,France,Centre-Forward,CF,-,Milan AC,Italy,£3.60m,In,1997,s,laliga
-FC Barcelona,Ruud Hesp,31,Netherlands,Goalkeeper,GK,-,Roda JC Kerkrade,Netherlands,£990Th.,In,1997,s,laliga
-FC Barcelona,Dragan Ciric,22,Serbia,Attacking Midfield,AM,-,FK Partizan Belgrade,Serbia,£810Th.,In,1997,s,laliga
-FC Barcelona,Emmanuel Amunike,26,Nigeria,Left Winger,LW,-,Sporting CP,Portugal,Free transfer,In,1997,s,laliga
-FC Barcelona,Ibán Cuadrado,18,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,-,In,1997,s,laliga
-FC Barcelona,Toni Velamazán,20,Spain,Right Midfield,RM,-,Real Oviedo,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Real Zaragoza,Yordi,22,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1997,s,laliga
-Real Zaragoza,Marcos Vales,22,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,?,In,1997,s,laliga
-Real Zaragoza,Gary Sundgren,29,Sweden,Centre-Back,CB,-,AIK,Sweden,?,In,1997,s,laliga
-Real Zaragoza,Seba,23,Spain,Second Striker,SS,-,Wigan Athletic,England,?,In,1997,s,laliga
-Real Zaragoza,Nordin Wooter,19,Netherlands,Right Winger,RW,-,Ajax Amsterdam,Netherlands,?,In,1997,s,laliga
-Real Zaragoza,Luis Helguera,21,Spain,Defensive Midfield,DM,-,CD Manchego,Spain,?,In,1997,s,laliga
-Real Zaragoza,José Ignacio,23,Spain,Defensive Midfield,DM,-,Valencia CF,Spain,?,In,1997,s,laliga
-Real Zaragoza,Roberto Acuña,25,Paraguay,Central Midfield,CM,-,Club Atlético Independiente,Argentina,?,In,1997,s,laliga
-Real Zaragoza,Pier,25,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,In,1997,s,laliga
-Real Zaragoza,Javi Suárez,21,Spain,Centre-Back,CB,-,Real Zaragoza B,Spain,-,In,1997,s,laliga
-Real Betis Balompié,Ángel Cuéllar,24,Spain,Forward,Forward,-,FC Barcelona,Spain,£1.62m,In,1997,s,laliga
-Real Betis Balompié,Joaquín Valerio,24,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,In,1997,s,laliga
-Real Betis Balompié,Roberto Solozábal,27,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1997,s,laliga
-Real Betis Balompié,Iván Pérez,21,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,?,In,1997,s,laliga
-Real Betis Balompié,Oli,25,Spain,Centre-Forward,CF,-,Real Oviedo,Spain,?,In,1997,s,laliga
-Real Betis Balompié,Fernando,25,Spain,Left Midfield,LM,-,Real Valladolid CF,Spain,?,In,1997,s,laliga
-Real Betis Balompié,José Manuel Pinto,21,Spain,Goalkeeper,GK,-,Real Betis B,Spain,-,In,1997,s,laliga
-RCD Mallorca,Iván Campo,23,Spain,Defensive Midfield,DM,-,Valencia CF,Spain,£900Th.,In,1997,s,laliga
-RCD Mallorca,Romero,26,Spain,Left-Back,LB,-,Valencia CF,Spain,Free transfer,In,1997,s,laliga
-RCD Mallorca,Juan Carlos Valerón,22,Spain,Attacking Midfield,AM,-,UD Las Palmas,Spain,Free transfer,In,1997,s,laliga
-RCD Mallorca,Vicente Engonga,31,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,In,1997,s,laliga
-RCD Mallorca,Palhinha,29,Brazil,Attacking Midfield,AM,-,Cruzeiro Esporte Clube,Brazil,?,In,1997,s,laliga
-RCD Mallorca,Paco Sanz,24,Spain,Right Midfield,RM,-,Racing Santander,Spain,?,In,1997,s,laliga
-RCD Mallorca,Gabriel Amato,26,Argentina,Centre-Forward,CF,-,Hércules CF,Spain,?,In,1997,s,laliga
-RCD Mallorca,Óscar Mena,26,Argentina,Right Midfield,RM,-,Club Atlético Lanús,Argentina,?,In,1997,s,laliga
-RCD Mallorca,Josemi,21,Spain,Forward,Forward,-,RCD Mallorca,Spain,-,In,1997,s,laliga
-RCD Mallorca,Gabriel Moya,31,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,,In,1997,s,laliga
-Real Valladolid CF,Gabriel Heinze,19,Argentina,Centre-Back,CB,-,Club Atlético Newell's Old Boys,Argentina,£1.80m,In,1997,s,laliga
-Real Valladolid CF,Chema,21,Spain,Right Midfield,RM,-,Atlético Madrid B,Spain,Free transfer,In,1997,s,laliga
-Real Valladolid CF,Eusebio,33,Spain,Defensive Midfield,DM,-,Celta de Vigo,Spain,Free transfer,In,1997,s,laliga
-Real Valladolid CF,Jesús Lanza,18,Spain,Central Midfield,CM,-,Córdoba CF,Spain,Loan,In,1997,s,laliga
-Real Valladolid CF,Diego Klimowicz,22,Argentina,Centre-Forward,CF,-,Rayo Vallecano,Spain,?,In,1997,s,laliga
-Real Valladolid CF,Juan Carlos,24,Spain,Forward,Forward,-,Atlético Madrid,Spain,?,In,1997,s,laliga
-Real Valladolid CF,Pepe Belman,26,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,?,In,1997,s,laliga
-Real Valladolid CF,Pablo García,20,Uruguay,Defensive Midfield,DM,-,Atlético Madrid B,Spain,Loan,In,1997,s,laliga
-Real Valladolid CF,García Calvo,22,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1997,s,laliga
-Real Madrid,Christian Karembeu,26,France,Defensive Midfield,DM,-,UC Sampdoria,Italy,£11.25m,In,1997,s,laliga
-Real Madrid,Manuel Canabal,22,Spain,Centre-Forward,CF,-,CP Mérida,Spain,£4.33m,In,1997,s,laliga
-Real Madrid,Sávio,23,Brazil,Left Winger,LW,-,Clube de Regatas do Flamengo,Brazil,£2.70m,In,1997,s,laliga
-Real Madrid,Fernando Morientes,21,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,Free transfer,In,1997,s,laliga
-Real Madrid,Aitor Karanka,23,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1997,s,laliga
-Real Madrid,Milan Jankovic,37,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1997,s,laliga
-Real Madrid,Jaime,24,Spain,Defensive Midfield,DM,-,Racing Santander,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Real Madrid,Dani García,22,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,"End of loanJun 1, 1997",In,1997,s,laliga
-Real Madrid,Pedro Contreras,25,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Athletic Bilbao,Roberto Ríos,25,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,£10.80m,In,1997,s,laliga
-Athletic Bilbao,Mari Lacruz,19,Spain,Right-Back,RB,-,CA Osasuna,Spain,Free transfer,In,1997,s,laliga
-Athletic Bilbao,Txomin Nagore,22,Spain,Central Midfield,CM,-,CA Osasuna,Spain,Free transfer,In,1997,s,laliga
-Athletic Bilbao,Javi González,23,Spain,Right Midfield,RM,-,Celta de Vigo,Spain,Free transfer,In,1997,s,laliga
-Athletic Bilbao,Jorge Pérez,21,Spain,Central Midfield,CM,-,CD Aurrera de Vitoria,Spain,?,In,1997,s,laliga
-Athletic Bilbao,Mario Bermejo,18,Spain,Second Striker,SS,-,Racing Santander,Spain,?,In,1997,s,laliga
-Athletic Bilbao,Mikel Lasa,25,Spain,Left-Back,LB,-,Real Madrid,Spain,?,In,1997,s,laliga
-Athletic Bilbao,Rafael Alkorta,28,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1997,s,laliga
-Athletic Bilbao,Patxi Ferreira,30,Spain,Centre-Back,CB,-,Valencia CF,Spain,?,In,1997,s,laliga
-Athletic Bilbao,Aitor Huegun,24,Spain,Centre-Forward,CF,-,Bilbao Athletic,Spain,-,In,1997,s,laliga
-Athletic Bilbao,Mikel,22,Spain,Centre-Forward,CF,-,Barakaldo CF ,Spain,,In,1997,s,laliga
-Athletic Bilbao,Bolo,23,Spain,Centre-Forward,CF,-,CA Osasuna,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Racing Santander,Porfírio,23,Portugal,Left Midfield,LM,-,Sporting CP,Portugal,?,In,1997,s,laliga
-Racing Santander,Txefe Guerrero,21,Spain,Defensive Midfield,DM,-,Bilbao Athletic,Spain,?,In,1997,s,laliga
-Racing Santander,Washington Tais,24,Uruguay,Right-Back,RB,-,CA Peñarol,Uruguay,?,In,1997,s,laliga
-Racing Santander,Nando Có,23,Guinea-Bissau,Forward,Forward,-,Vitória Setúbal FC,Portugal,?,In,1997,s,laliga
-Racing Santander,Nelson Abeijón,23,Uruguay,Defensive Midfield,DM,-,Club Nacional,Uruguay,?,In,1997,s,laliga
-Racing Santander,Ignacio Conte,28,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,?,In,1997,s,laliga
-Racing Santander,Ismael Ruiz,20,Spain,Central Midfield,CM,-,Racing de Santander B,Spain,-,In,1997,s,laliga
-Racing Santander,Gontzal Suances,24,Spain,Forward,Forward,-,CD Toledo,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-CD Tenerife,Domingos Paciência,28,Portugal,Centre-Forward,CF,-,FC Porto,Portugal,£6.75m,In,1997,s,laliga
-CD Tenerife,Roy Makaay,22,Netherlands,Centre-Forward,CF,-,Vitesse Arnhem,Netherlands,£5.40m,In,1997,s,laliga
-CD Tenerife,Samuel Slovak,21,Slovakia,Attacking Midfield,AM,-,Slovan Bratislava,Slovakia,£450Th.,In,1997,s,laliga
-CD Tenerife,Álvaro Benito,20,Spain,Left Midfield,LM,-,Real Madrid,Spain,Loan,In,1997,s,laliga
-CD Tenerife,Juan Carlos Unzué,30,Spain,Goalkeeper,GK,-,Sevilla FC,Spain,?,In,1997,s,laliga
-CD Tenerife,André Luiz,22,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,?,In,1997,s,laliga
-CD Tenerife,Ferdi Vierklau,24,Netherlands,Right-Back,RB,-,Vitesse Arnhem,Netherlands,?,In,1997,s,laliga
-Real Sociedad,Dietmar Kühbauer,26,Austria,Central Midfield,CM,-,Rapid Vienna,Austria,?,In,1997,s,laliga
-Real Sociedad,Mikel Antía,24,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,1997,s,laliga
-Real Sociedad,Ricardo Sá Pinto,24,Portugal,Second Striker,SS,-,Sporting CP,Portugal,?,In,1997,s,laliga
-Real Sociedad,Iker Sarriegi,23,Spain,Centre-Back,CB,-,SD Eibar,Spain,?,In,1997,s,laliga
-Real Sociedad,Aitor López Rekarte,21,Spain,Right-Back,RB,-,Real Sociedad B,Spain,-,In,1997,s,laliga
-RCD Espanyol Barcelona,Quique Martín,24,Spain,Left Winger,LW,-,FC Barcelona B,Spain,£630Th.,In,1997,s,laliga
-RCD Espanyol Barcelona,Constantin Galca,25,Romania,Defensive Midfield,DM,-,RCD Mallorca,Spain,£90Th.,In,1997,s,laliga
-RCD Espanyol Barcelona,Juan Esnáider,24,Argentina,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1997,s,laliga
-RCD Espanyol Barcelona,Sergio,20,Spain,Central Midfield,CM,-,RCD Espanyol B,Spain,-,In,1997,s,laliga
-RCD Espanyol Barcelona,David Charcos,22,Spain,Defender,Defender,-,RCD Espanyol B,Spain,-,In,1997,s,laliga
-RCD Espanyol Barcelona,Àngel Morales,21,Spain,Defensive Midfield,DM,-,RCD Espanyol B,Spain,-,In,1997,s,laliga
-RCD Espanyol Barcelona,Diego Ribera,20,Spain,Forward,Forward,-,UE Castelldefels,Spain,,In,1997,s,laliga
-RCD Espanyol Barcelona,Florin Raducioiu,27,Romania,Centre-Forward,CF,-,West Ham United,England,"End of loanJun 30, 1997",In,1997,s,laliga
-Deportivo de La Coruña,Luizão,21,Brazil,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,£5.85m,In,1997,s,laliga
-Deportivo de La Coruña,Lionel Scaloni,19,Argentina,Right-Back,RB,-,Club Estudiantes de La Plata,Argentina,£2.34m,In,1997,s,laliga
-Deportivo de La Coruña,Mustapha Hadji,25,Morocco,Attacking Midfield,AM,-,Sporting CP,Portugal,?,In,1997,s,laliga
-Deportivo de La Coruña,Luis Miguel Ramis,26,Spain,Centre-Back,CB,-,Sevilla FC,Spain,?,In,1997,s,laliga
-Deportivo de La Coruña,Sena,19,Portugal,Right-Back,RB,-,FC Famalicão,Portugal,?,In,1997,s,laliga
-Deportivo de La Coruña,Peter Rufai,33,Nigeria,Goalkeeper,GK,-,Hércules CF,Spain,?,In,1997,s,laliga
-Deportivo de La Coruña,Salaheddine Bassir,24,Morocco,Centre-Forward,CF,-,Al-Hilal Riyadh,Saudi Arabia,?,In,1997,s,laliga
-Deportivo de La Coruña,Maikel,21,Spain,Forward,Forward,-,RC Deportivo B,Spain,-,In,1997,s,laliga
-Celta de Vigo,Dan Eggen,27,Norway,Centre-Back,CB,-,Bröndby IF,Denmark,£720Th.,In,1997,s,laliga
-Celta de Vigo,Goran Djorovic,25,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1997,s,laliga
-Celta de Vigo,Jorge Cadete,28,Portugal,Centre-Forward,CF,-,Celtic FC,Scotland,?,In,1997,s,laliga
-Celta de Vigo,Oskar Vales,22,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,Loan,In,1997,s,laliga
-Celta de Vigo,Valeri Karpin,28,Russia,Right Midfield,RM,-,Valencia CF,Spain,?,In,1997,s,laliga
-Celta de Vigo,Bruno Caires,21,Portugal,Defensive Midfield,DM,-,SL Benfica,Portugal,?,In,1997,s,laliga
-Celta de Vigo,Ito,22,Spain,Central Midfield,CM,-,CF Extremadura,Spain,?,In,1997,s,laliga
-Celta de Vigo,Pablo Couñago,17,Spain,Centre-Forward,CF,-,Celta Vigo B,Spain,-,In,1997,s,laliga
-Celta de Vigo,Míchel Salgado,21,Spain,Right-Back,RB,-,UD Salamanca,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Celta de Vigo,Carlos Pérez,25,Spain,Attacking Midfield,AM,-,UD Almería,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Valencia CF,Marcelinho Carioca,26,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,£4.68m,In,1997,s,laliga
-Valencia CF,Moussa Saïb,28,Algeria,Left Midfield,LM,-,AJ Auxerre,France,£3.87m,In,1997,s,laliga
-Valencia CF,Amedeo Carboni,32,Italy,Left-Back,LB,-,AS Roma,Italy,£3.60m,In,1997,s,laliga
-Valencia CF,Juanfran,20,Spain,Left-Back,LB,-,Levante UD,Spain,£1.08m,In,1997,s,laliga
-Valencia CF,Jocelyn Angloma,31,Guadeloupe,Right-Back,RB,-,FC Internazionale,Italy,£1.08m,In,1997,s,laliga
-Valencia CF,Miroslav Djukic,31,Serbia,Centre-Back,CB,-,Deportivo de La Coruña,Spain,Free transfer,In,1997,s,laliga
-Valencia CF,Gerard López,18,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,Free transfer,In,1997,s,laliga
-Valencia CF,Nicolás Olivera,19,Uruguay,Second Striker,SS,-,Defensor Sporting Club,Uruguay,?,In,1997,s,laliga
-Valencia CF,Luis Milla,31,Spain,Central Midfield,CM,-,Real Madrid,Spain,?,In,1997,s,laliga
-Valencia CF,José del Solar,29,Peru,Central Midfield,CM,-,Celta de Vigo,Spain,?,In,1997,s,laliga
-Valencia CF,Gustavo Campagnuolo,24,Argentina,Goalkeeper,GK,-,Club Deportivo Español,Argentina,?,In,1997,s,laliga
-Valencia CF,Guillermo Morigi,23,Argentina,Left Midfield,LM,-,Club Atlético Vélez Sarsfield,Argentina,?,In,1997,s,laliga
-Valencia CF,Miguel Ángel Soria,23,Spain,Defender,Defender,-,Levante UD,Spain,?,In,1997,s,laliga
-Valencia CF,Miguel Ángel Angulo,20,Spain,Second Striker,SS,-,Valencia Mestalla,Spain,-,In,1997,s,laliga
-Valencia CF,Jero,19,Spain,Centre-Back,CB,-,Valencia Mestalla,Spain,-,In,1997,s,laliga
-Valencia CF,David Albelda,19,Spain,Defensive Midfield,DM,-,Villarreal CF,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-UD Salamanca,Bogdan Stelea,29,Romania,Goalkeeper,GK,-,Steaua Bukarest,Romania,£810Th.,In,1997,s,laliga
-UD Salamanca,Edu Alonso,23,Spain,Right-Back,RB,-,SD Eibar,Spain,Free transfer,In,1997,s,laliga
-UD Salamanca,Sergio Korino,22,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1997,s,laliga
-UD Salamanca,Gustavo Lombardi,21,Argentina,Right-Back,RB,-,Club Atlético River Plate,Argentina,?,In,1997,s,laliga
-UD Salamanca,Axel Smeets,22,Belgium,Right-Back,RB,-,KAA Gent,Belgium,?,In,1997,s,laliga
-UD Salamanca,Tulipa,24,Portugal,Attacking Midfield,AM,-,Boavista Porto FC,Portugal,?,In,1997,s,laliga
-UD Salamanca,Marco Lanna,28,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,1997,s,laliga
-UD Salamanca,Walter Silvani,26,Argentina,Forward,Forward,-,CF Extremadura,Spain,?,In,1997,s,laliga
-UD Salamanca,Rogério,21,Portugal,Defensive Midfield,DM,-,Belenenses SAD,Portugal,?,In,1997,s,laliga
-UD Salamanca,Ronen Harazi,27,Israel,Centre-Forward,CF,-,Beitar Jerusalem,Israel,?,In,1997,s,laliga
-UD Salamanca,Dubravko Pavlicic,29,Croatia,Centre-Back,CB,-,Hércules CF,Spain,?,In,1997,s,laliga
-UD Salamanca,Tom,19,Spain,Goalkeeper,GK,-,UD Salamanca U19,Spain,-,In,1997,s,laliga
-UD Salamanca,César Villafañe,22,Spain,Midfielder,Midfielder,-,Racing Ferrol,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Sporting Gijón,Cezary Kucharski,25,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,Free transfer,In,1997,s,laliga
-Sporting Gijón,Dragoje Lekovic,29,Serbia,Goalkeeper,GK,-,Kilmarnock FC,Scotland,?,In,1997,s,laliga
-Sporting Gijón,Vladimir Popovic,21,Montenegro,Forward,Forward,-,FK Zemun,Serbia,?,In,1997,s,laliga
-Sporting Gijón,Aleksey Kosolapov,26,Russia,Central Midfield,CM,-,Lokomotiv Moscow,Russia,?,In,1997,s,laliga
-Sporting Gijón,Fredi,23,Spain,Left Midfield,LM,-,CA Osasuna,Spain,?,In,1997,s,laliga
-Sporting Gijón,Antonio Poyatos,31,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,?,In,1997,s,laliga
-Sporting Gijón,Manolo Sánchez,21,Spain,Left-Back,LB,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga
-Sporting Gijón,Pablo Amo,19,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga
-Sporting Gijón,Óscar Fernández,21,Spain,Midfielder,Midfielder,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga
-Sporting Gijón,Mario Cotelo,22,Spain,Right Midfield,RM,-,CD Badajoz,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Sporting Gijón,José Manuel,23,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,"End of loanJun 30, 1997",In,1997,s,laliga
-Real Oviedo,Xabier Eskurza,27,Spain,Central Midfield,CM,-,Valencia CF,Spain,£1.35m,In,1997,s,laliga
-Real Oviedo,Julio Dely Valdés,30,Panama,Centre-Forward,CF,-,Paris Saint-Germain,France,Free transfer,In,1997,s,laliga
-Real Oviedo,Dani Pendín,22,Argentina,Defensive Midfield,DM,-,Club Atlético Central Córdoba (Cba),Argentina,?,In,1997,s,laliga
-Real Oviedo,Juan González,25,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,In,1997,s,laliga
-Real Oviedo,Roberto Pompei,27,Argentina,Left Midfield,LM,-,Racing Club,Argentina,?,In,1997,s,laliga
-Real Oviedo,Joyce Moreno,22,Panama,Defender,Defender,-,Real Madrid B,Spain,?,In,1997,s,laliga
-Real Oviedo,José María Buljubasich,26,Argentina,Goalkeeper,GK,-,Club Atlético Rosario Central,Argentina,?,In,1997,s,laliga
-Real Oviedo,Esteban,22,Spain,Goalkeeper,GK,-,Real Oviedo B,Spain,-,In,1997,s,laliga
-SD Compostela,René Ponk,25,Netherlands,Goalkeeper,GK,-,FC Utrecht,Netherlands,Free transfer,In,1997,s,laliga
-SD Compostela,Romano Sion,26,Netherlands,Midfielder,Midfielder,-,SBV Emmen,Netherlands,?,In,1997,s,laliga
-SD Compostela,Changui,20,Spain,Centre-Forward,CF,-,,Unknown,"End of loanJun 30, 1997",In,1997,s,laliga
-CP Mérida,Juan Sabas,30,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,£676Th.,In,1997,s,laliga
-CP Mérida,Dmitri Radchenko,26,Russia,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,1997,s,laliga
-CP Mérida,José Cortés,27,Spain,Right-Back,RB,-,CF Extremadura,Spain,Free transfer,In,1997,s,laliga
-CP Mérida,Jaime Molina,28,Spain,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,?,In,1997,s,laliga
-CP Mérida,Pirri Mori,26,Spain,Attacking Midfield,AM,-,SD Compostela,Spain,?,In,1997,s,laliga
-CP Mérida,David Ávila,19,Spain,Forward,Forward,-,FC Barcelona B,Spain,?,In,1997,s,laliga
-CP Mérida,Ramón de Quintana,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,In,1997,s,laliga
-Atlético Madrid,Yordi,22,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,1997,s,laliga
-Atlético Madrid,Juan Carlos,24,Spain,Forward,Forward,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga
-Atlético Madrid,Juan Esnáider,24,Argentina,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,?,Out,1997,s,laliga
-Atlético Madrid,Leo Biagini,20,Argentina,Centre-Forward,CF,-,CP Mérida,Spain,?,Out,1997,s,laliga
-Atlético Madrid,Roberto Solozábal,27,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga
-FC Barcelona,Ronaldo,20,Brazil,Centre-Forward,CF,-,FC Internazionale,Italy,£25.20m,Out,1997,s,laliga
-FC Barcelona,Gheorghe Popescu,29,Romania,Centre-Back,CB,-,Galatasaray SK,Turkey,£4.05m,Out,1997,s,laliga
-FC Barcelona,Laurent Blanc,31,France,Sweeper,SW,-,Olympique Marseille,France,£2.25m,Out,1997,s,laliga
-FC Barcelona,Ángel Cuéllar,24,Spain,Forward,Forward,-,Real Betis Balompié,Spain,£1.62m,Out,1997,s,laliga
-FC Barcelona,Julen Lopetegui,30,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,Free transfer,Out,1997,s,laliga
-FC Barcelona,Quique Álvarez,21,Spain,Centre-Back,CB,-,CD Logroñés,Spain,Loan,Out,1997,s,laliga
-FC Barcelona,Toni Velamazán,20,Spain,Right Midfield,RM,-,Albacete Balompié,Spain,Loan,Out,1997,s,laliga
-FC Barcelona,Goran Vucevic,26,Croatia,Central Midfield,CM,-,1. FC Köln,Germany,?,Out,1997,s,laliga
-FC Barcelona,Josep Setvalls,22,Spain,Midfielder,Midfielder,-,Unió Esportiva Lleida,Spain,?,Out,1997,s,laliga
-Real Zaragoza,Fernando Morientes,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,Out,1997,s,laliga
-Real Zaragoza,Gustavo Poyet,29,Uruguay,Attacking Midfield,AM,-,Chelsea FC,England,Free transfer,Out,1997,s,laliga
-Real Zaragoza,Pepe Belman,26,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga
-Real Zaragoza,Nayim,30,Spain,Right Midfield,RM,-,CD Logroñés,Spain,?,Out,1997,s,laliga
-Real Zaragoza,Pardeza,32,Spain,Second Striker,SS,-,Puebla FC,Mexico,?,Out,1997,s,laliga
-Real Zaragoza,Quique Sánchez Flores,32,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga
-Real Zaragoza,Dani García,22,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 1, 1997",Out,1997,s,laliga
-Real Zaragoza,Sebastián Rambert,23,Argentina,Centre-Forward,CF,-,FC Internazionale,Italy,"End of loanJun 30, 1997",Out,1997,s,laliga
-Real Betis Balompié,Roberto Ríos,25,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,£10.80m,Out,1997,s,laliga
-Real Betis Balompié,Juan Sabas,30,Spain,Centre-Forward,CF,-,CP Mérida,Spain,£676Th.,Out,1997,s,laliga
-Real Betis Balompié,Juan Luis Redondo,20,Spain,Right-Back,RB,-,Hércules CF,Spain,?,Out,1997,s,laliga
-Real Betis Balompié,Pier,25,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,1997,s,laliga
-Real Betis Balompié,Wojciech Kowalczyk,25,Poland,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1997,s,laliga
-RCD Mallorca,Constantin Galca,25,Romania,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,£90Th.,Out,1997,s,laliga
-RCD Mallorca,Francisco Copado,23,Germany,Second Striker,SS,-,Tennis Borussia Berlin,Germany,Free transfer,Out,1997,s,laliga
-RCD Mallorca,David Castedo,23,Spain,Left-Back,LB,-,Hércules CF,Spain,Free transfer,Out,1997,s,laliga
-RCD Mallorca,Emmanuel Duah,20,Ghana,Left Midfield,LM,-,União de Leiria,Portugal,?,Out,1997,s,laliga
-RCD Mallorca,Raúl Pareja,22,Spain,Centre-Back,CB,-,Real Madrid B,Spain,?,Out,1997,s,laliga
-RCD Mallorca,Tito Vilanova,28,Spain,Midfielder,Midfielder,-,Unió Esportiva Lleida,Spain,?,Out,1997,s,laliga
-RCD Mallorca,Luis López Rekarte,35,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga
-RCD Mallorca,Iván Rocha,29,Brazil,Left-Back,LB,-,Atlético Madrid,Spain,"End of loanJul 1, 1998",Out,1997,s,laliga
-RCD Mallorca,Ernesto Valverde,33,Spain,Centre-Forward,CF,-,,Retired,-,Out,1997,s,laliga
-RCD Mallorca,Josemi,21,Spain,Forward,Forward,-,RCD Mallorca,Spain,-,Out,1997,s,laliga
-RCD Mallorca,José Manuel,23,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-RCD Mallorca,Carlitos,20,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-RCD Mallorca,Juan Antonio Santaella,23,Spain,Second Striker,SS,-,Sevilla FC B,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-Real Valladolid CF,Jesús Ángel Turiel,23,Spain,Defensive Midfield,DM,-,CD Toledo,Spain,Loan,Out,1997,s,laliga
-Real Valladolid CF,Mikel Antía,24,Spain,Centre-Back,CB,-,Real Sociedad,Spain,?,Out,1997,s,laliga
-Real Valladolid CF,Ramón,22,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,Out,1997,s,laliga
-Real Valladolid CF,Fernando,25,Spain,Left Midfield,LM,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga
-Real Valladolid CF,José Mosquera,30,Venezuela,Midfielder,Midfielder,-,Racing Ferrol,Spain,?,Out,1997,s,laliga
-Real Madrid,Luis Milla,31,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1997,s,laliga
-Real Madrid,Álvaro Benito,20,Spain,Left Midfield,LM,-,CD Tenerife,Spain,Loan,Out,1997,s,laliga
-Real Madrid,Rafael Alkorta,28,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga
-Real Madrid,García Calvo,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga
-Real Madrid,Mikel Lasa,25,Spain,Left-Back,LB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga
-Real Madrid,Chendo,36,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga
-Real Madrid,Paco Buyo,39,Spain,Goalkeeper,GK,-,,Retired,-,Out,1997,s,laliga
-Athletic Bilbao,Bixente Lizarazu,27,France,Left-Back,LB,-,Bayern Munich,Germany,£4.05m,Out,1997,s,laliga
-Athletic Bilbao,Sergio Korino,22,Spain,Centre-Back,CB,-,UD Salamanca,Spain,?,Out,1997,s,laliga
-Athletic Bilbao,Oskar Vales,22,Spain,Right-Back,RB,-,Celta de Vigo,Spain,Loan,Out,1997,s,laliga
-Athletic Bilbao,Aitor Karanka,23,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,Out,1997,s,laliga
-Athletic Bilbao,Felipe Guréndez,21,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,1997,s,laliga
-Athletic Bilbao,Eduardo Estibariz,31,Spain,Right-Back,RB,-,Rayo Vallecano,Spain,?,Out,1997,s,laliga
-Athletic Bilbao,Bolo,23,Spain,Centre-Forward,CF,-,Hércules CF,Spain,?,Out,1997,s,laliga
-Athletic Bilbao,Genar Andrinua,33,Spain,Centre-Back,CB,-,,Retired,-,Out,1997,s,laliga
-Racing Santander,Dejan Petkovic,24,Serbia,Attacking Midfield,AM,-,Esporte Clube Vitória,Brazil,Free transfer,Out,1997,s,laliga
-Racing Santander,Fernando Morán,21,Spain,Right Midfield,RM,-,CD Numancia,Spain,?,Out,1997,s,laliga
-Racing Santander,José Manuel Ochotorena,36,Spain,Goalkeeper,GK,-,CD Logroñés,Spain,?,Out,1997,s,laliga
-Racing Santander,Paco Sanz,24,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,?,Out,1997,s,laliga
-Racing Santander,Ilshat Faizulin,24,Russia,Centre-Forward,CF,-,Villarreal CF,Spain,?,Out,1997,s,laliga
-Racing Santander,Pedro Munitis,22,Spain,Second Striker,SS,-,CD Badajoz,Spain,Loan,Out,1997,s,laliga
-Racing Santander,Álvaro Cervera,31,Spain,Forward,Forward,-,Hércules CF,Spain,?,Out,1997,s,laliga
-Racing Santander,Mario Bermejo,18,Spain,Second Striker,SS,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga
-Racing Santander,José Luis Zalazar,33,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,Out,1997,s,laliga
-Racing Santander,Dmitri Ulyanov,26,Russia,Attacking Midfield,AM,-,CSKA Moscow,Russia,,Out,1997,s,laliga
-Racing Santander,Jaime,24,Spain,Defensive Midfield,DM,-,Real Madrid,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-CD Tenerife,César Gómez,29,Spain,Centre-Back,CB,-,AS Roma,Italy,£3.15m,Out,1997,s,laliga
-CD Tenerife,Oliver Neuville,24,Germany,Centre-Forward,CF,-,FC Hansa Rostock,Germany,£1.62m,Out,1997,s,laliga
-CD Tenerife,Sizwe Motaung,27,South Africa,Right-Back,RB,-,Kaizer Chiefs,South Africa,?,Out,1997,s,laliga
-CD Tenerife,Ignacio Conte,28,Spain,Midfielder,Midfielder,-,Racing Santander,Spain,?,Out,1997,s,laliga
-Real Sociedad,Joachin Yaw Acheampong,23,Ghana,Midfielder,Midfielder,-,Hércules CF,Spain,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Raúl Tamudo,19,Spain,Centre-Forward,CF,-,Deportivo Alavés,Spain,Loan,Out,1997,s,laliga
-RCD Espanyol Barcelona,Florin Raducioiu,27,Romania,Centre-Forward,CF,-,VfB Stuttgart,Germany,Loan,Out,1997,s,laliga
-RCD Espanyol Barcelona,Pascal Olmeta,36,France,Goalkeeper,GK,-,Gazélec Football Club Olympique Ajaccio,France,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Jordi Lardín,24,Spain,Left Winger,LW,-,Atlético Madrid,Spain,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Jaime Molina,28,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Goran Bogdanovic,30,Serbia,Midfielder,Midfielder,-,CF Extremadura,Spain,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Sebastián Herrera,28,Spain,Centre-Back,CB,-,UD Las Palmas,Spain,?,Out,1997,s,laliga
-RCD Espanyol Barcelona,Francisco,34,Spain,Central Midfield,CM,-,,Retired,-,Out,1997,s,laliga
-Deportivo de La Coruña,Rivaldo,25,Brazil,Attacking Midfield,AM,-,FC Barcelona,Spain,£21.15m,Out,1997,s,laliga
-Deportivo de La Coruña,Miroslav Djukic,31,Serbia,Centre-Back,CB,-,Valencia CF,Spain,Free transfer,Out,1997,s,laliga
-Deportivo de La Coruña,Dmitri Radchenko,26,Russia,Centre-Forward,CF,-,CP Mérida,Spain,Loan,Out,1997,s,laliga
-Deportivo de La Coruña,Txiki Begiristain,32,Spain,Left Winger,LW,-,Urawa Red Diamonds,Japan,?,Out,1997,s,laliga
-Deportivo de La Coruña,Alfredo Santaelena,29,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,Out,1997,s,laliga
-Deportivo de La Coruña,Renaldo,27,Brazil,Centre-Forward,CF,-,Sport Club Corinthians Paulista,Brazil,Loan,Out,1997,s,laliga
-Deportivo de La Coruña,Petr Kouba,28,Czech Republic,Goalkeeper,GK,-,1.FC Kaiserslautern,Germany,?,Out,1997,s,laliga
-Deportivo de La Coruña,Rafael Martin Vazquez,31,Spain,Attacking Midfield,AM,-,Atletico Celaya,Mexico,?,Out,1997,s,laliga
-Deportivo de La Coruña,José Luis Ribera,32,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,Out,1997,s,laliga
-Celta de Vigo,Javi González,23,Spain,Right Midfield,RM,-,Athletic Bilbao,Spain,Free transfer,Out,1997,s,laliga
-Celta de Vigo,Eusebio,33,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,Free transfer,Out,1997,s,laliga
-Celta de Vigo,Alejo Indias,30,Spain,Centre-Back,CB,-,Elche CF,Spain,?,Out,1997,s,laliga
-Celta de Vigo,José Manuel Tárraga,26,Spain,Defender,Defender,-,Unió Esportiva Lleida,Spain,?,Out,1997,s,laliga
-Celta de Vigo,José del Solar,29,Peru,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1997,s,laliga
-Celta de Vigo,Srdjan Bajcetic,25,Serbia,Midfielder,Midfielder,-,SC Braga,Portugal,?,Out,1997,s,laliga
-Celta de Vigo,Juan Manuel Prieto,26,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,Loan,Out,1997,s,laliga
-Celta de Vigo,Andoni Lakabeg,28,Spain,Right-Back,RB,-,Villarreal CF,Spain,?,Out,1997,s,laliga
-Celta de Vigo,Diego Pereira Carrera,23,Spain,Defender,Defender,-,,Retired,-,Out,1997,s,laliga
-Valencia CF,Xabier Eskurza,27,Spain,Central Midfield,CM,-,Real Oviedo,Spain,£1.35m,Out,1997,s,laliga
-Valencia CF,Leandro Machado,21,Brazil,Centre-Forward,CF,-,Sporting CP,Portugal,£900Th.,Out,1997,s,laliga
-Valencia CF,Iván Campo,23,Spain,Defensive Midfield,DM,-,RCD Mallorca,Spain,£900Th.,Out,1997,s,laliga
-Valencia CF,Romero,26,Spain,Left-Back,LB,-,RCD Mallorca,Spain,Free transfer,Out,1997,s,laliga
-Valencia CF,José Ignacio,23,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,?,Out,1997,s,laliga
-Valencia CF,Iñaki Hurtado,25,Spain,Midfielder,Midfielder,-,Villarreal CF,Spain,?,Out,1997,s,laliga
-Valencia CF,Patxi Ferreira,30,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga
-Valencia CF,Vicente Engonga,31,Spain,Central Midfield,CM,-,RCD Mallorca,Spain,?,Out,1997,s,laliga
-Valencia CF,Antonio Poyatos,31,Spain,Midfielder,Midfielder,-,Sporting Gijón,Spain,?,Out,1997,s,laliga
-Valencia CF,Valeri Karpin,28,Russia,Right Midfield,RM,-,Celta de Vigo,Spain,?,Out,1997,s,laliga
-Valencia CF,Gabriel Moya,31,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,,Out,1997,s,laliga
-UD Salamanca,Catanha,25,Brazil,Centre-Forward,CF,-,CD Leganés,Spain,?,Out,1997,s,laliga
-UD Salamanca,Nuno Afonso,22,Portugal,Centre-Back,CB,-,Vitória Setúbal FC,Portugal,?,Out,1997,s,laliga
-UD Salamanca,Hermes Desio,27,Argentina,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1997,s,laliga
-UD Salamanca,César Villafañe,22,Spain,Midfielder,Midfielder,-,Cultural Leonesa,Spain,?,Out,1997,s,laliga
-UD Salamanca,Agostinho,21,Portugal,Left Winger,LW,-,UD Las Palmas,Spain,?,Out,1997,s,laliga
-UD Salamanca,Miguel Torrecilla,27,Spain,Centre-Back,CB,-,Elche CF,Spain,?,Out,1997,s,laliga
-UD Salamanca,Míchel Salgado,21,Spain,Right-Back,RB,-,Celta de Vigo,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-Sporting Gijón,Aitor Tornavaca,21,Spain,Left-Back,LB,-,CD Leganés,Spain,Free transfer,Out,1997,s,laliga
-Sporting Gijón,Marcos Vales,22,Spain,Right Midfield,RM,-,Real Zaragoza,Spain,?,Out,1997,s,laliga
-Sporting Gijón,Urbano,22,Spain,Centre-Back,CB,-,CD Badajoz,Spain,Loan,Out,1997,s,laliga
-Sporting Gijón,Rónald Gómez,22,Costa Rica,Centre-Forward,CF,-,Hércules CF,Spain,?,Out,1997,s,laliga
-Sporting Gijón,Hugo Pérez,28,Argentina,Right Midfield,RM,-,Club Estudiantes de La Plata,Argentina,?,Out,1997,s,laliga
-Real Oviedo,Rafa,26,Spain,Goalkeeper,GK,-,Málaga CF,Spain,Free transfer,Out,1997,s,laliga
-Real Oviedo,Thomas Christiansen,24,Spain,Centre-Forward,CF,-,Villarreal CF,Spain,Free transfer,Out,1997,s,laliga
-Real Oviedo,Juan José Borrelli,26,Argentina,Attacking Midfield,AM,-,Club Atlético River Plate,Argentina,?,Out,1997,s,laliga
-Real Oviedo,Oli,25,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga
-Real Oviedo,Toni Velamazán,20,Spain,Right Midfield,RM,-,FC Barcelona,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga
-SD Compostela,Bent Christensen,30,Denmark,Centre-Forward,CF,-,Genclerbirligi Ankara,Turkey,Free transfer,Out,1997,s,laliga
-SD Compostela,José Manuel Galdames,26,Spain,Centre-Back,CB,-,FC Toulouse,France,?,Out,1997,s,laliga
-SD Compostela,Pirri Mori,26,Spain,Attacking Midfield,AM,-,CP Mérida,Spain,?,Out,1997,s,laliga
-CP Mérida,Manuel Canabal,22,Spain,Centre-Forward,CF,-,Real Madrid,Spain,£4.33m,Out,1997,s,laliga
-CP Mérida,Remco Torken,25,Netherlands,Forward,Forward,-,KSK Beveren,Belgium,?,Out,1997,s,laliga
-CP Mérida,Carlos Barroso Ruiz,25,Spain,Forward,Forward,-,Xerez CD,Spain,?,Out,1997,s,laliga
-CP Mérida,Sergio Barila,24,Equatorial Guinea,Left-Back,LB,-,Levante UD,Spain,?,Out,1997,s,laliga
-CP Mérida,Virgilio Hernández,28,Spain,Left-Back,LB,-,Córdoba CF,Spain,?,Out,1997,s,laliga
-CP Mérida,José Baroja,27,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,Out,1997,s,laliga
-CP Mérida,Luis Miguel Olivar,24,Spain,Midfielder,Midfielder,-,CF Fuenlabrada,Spain,?,Out,1997,s,laliga
-CP Mérida,Juan Toribio,31,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga
-FC Barcelona,Winston Bogarde,27,Netherlands,Centre-Back,CB,-,Milan AC,Italy,£3.33m,In,1997,w,laliga
-Real Zaragoza,Paulo Jamelli,23,Brazil,Second Striker,SS,-,Kashiwa Reysol,Japan,?,In,1997,w,laliga
-RCD Mallorca,Santiago Ezquerro,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,1997,w,laliga
-RCD Mallorca,Iván Rocha,28,Brazil,Left-Back,LB,-,Atlético Madrid B,Spain,Loan,In,1997,w,laliga
-RCD Mallorca,Michael Obiku,29,Nigeria,Centre-Forward,CF,-,Avispa Fukuoka,Japan,?,In,1997,w,laliga
-RCD Mallorca,Carlos Roa,28,Argentina,Goalkeeper,GK,-,Club Atlético Lanús,Argentina,?,In,1997,w,laliga
-Real Valladolid CF,Manuel Canabal,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Loan,In,1997,w,laliga
-RCD Espanyol Barcelona,Iván Helguera,22,Spain,Centre-Back,CB,-,AS Roma,Italy,£4.05m,In,1997,w,laliga
-RCD Espanyol Barcelona,Roberto,24,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,In,1997,w,laliga
-Deportivo de La Coruña,Sebastián Abreu,21,Uruguay,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,£9.45m,In,1997,w,laliga
-Deportivo de La Coruña,Sergio Martínez,28,Uruguay,Forward,Forward,-,Club Atlético Boca Juniors,Argentina,?,In,1997,w,laliga
-Valencia CF,Adrian Ilie,23,Romania,Centre-Forward,CF,-,Galatasaray SK,Turkey,£3.38m,In,1997,w,laliga
-UD Salamanca,Gabriel Popescu,24,Romania,Attacking Midfield,AM,-,Universitatea Craiova,Romania,?,In,1997,w,laliga
-UD Salamanca,Nemanja Miljanovic,26,Sweden,Midfielder,Midfielder,-,Hércules CF,Spain,Loan,In,1997,w,laliga
-Sporting Gijón,Roberto Trotta,28,Argentina,Centre-Back,CB,-,Racing Club,Argentina,£1.80m,In,1997,w,laliga
-SD Compostela,Oskar Tabuenka,26,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1997,w,laliga
-SD Compostela,Jean-François Hernandez,28,France,Centre-Back,CB,-,Olympique de Marseille B,France,?,In,1997,w,laliga
-Atlético Madrid,Rade Bogdanovic,27,Serbia,Centre-Forward,CF,-,NAC Breda,Netherlands,Loan,Out,1997,w,laliga
-Atlético Madrid,Roberto,24,Spain,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,?,Out,1997,w,laliga
-Atlético Madrid,Avi Nimni,25,Israel,Attacking Midfield,AM,-,Maccabi Tel Aviv,Israel,?,Out,1997,w,laliga
-Atlético Madrid,Santiago Ezquerro,21,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,Loan,Out,1997,w,laliga
-FC Barcelona,Christophe Dugarry,25,France,Centre-Forward,CF,-,Olympique Marseille,France,£4.95m,Out,1997,w,laliga
-FC Barcelona,Hristo Stoichkov,31,Bulgaria,Left Winger,LW,-,CSKA Sofia,Bulgaria,Free transfer,Out,1997,w,laliga
-RCD Mallorca,Palhinha,30,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,?,Out,1997,w,laliga
-Real Valladolid CF,Raúl Ibáñez,25,Spain,Forward,Forward,-,Levante UD,Spain,Loan,Out,1997,w,laliga
-Real Valladolid CF,Álvaro Gutiérrez,29,Uruguay,Defensive Midfield,DM,-,Rayo Vallecano,Spain,Loan,Out,1997,w,laliga
-Real Valladolid CF,Pablo García,20,Uruguay,Defensive Midfield,DM,-,Atlético Madrid B,Spain,"End of loanDec 1, 1997",Out,1997,w,laliga
-Real Madrid,Zé Roberto,23,Brazil,Left Midfield,LM,-,Clube de Regatas do Flamengo,Brazil,Loan,Out,1997,w,laliga
-Real Madrid,Secretário,27,Portugal,Right-Back,RB,-,FC Porto,Portugal,?,Out,1997,w,laliga
-Real Madrid,Manuel Canabal,23,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,Loan,Out,1997,w,laliga
-Athletic Bilbao,Oskar Tabuenka,26,Spain,Centre-Back,CB,-,SD Compostela,Spain,?,Out,1997,w,laliga
-Athletic Bilbao,Jon Andoni Goikoetxea,32,Spain,Right Midfield,RM,-,Yokohama Marinos,Japan,?,Out,1997,w,laliga
-Racing Santander,Iñaki Bollain,23,Spain,Right-Back,RB,-,Levante UD,Spain,?,Out,1997,w,laliga
-Racing Santander,Nando Có,24,Guinea-Bissau,Forward,Forward,-,CD Numancia,Spain,?,Out,1997,w,laliga
-Real Sociedad,Alberto Albistegi,33,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,?,Out,1997,w,laliga
-Real Sociedad,Raúl Iglesias,23,Spain,Goalkeeper,GK,-,CD Toledo,Spain,?,Out,1997,w,laliga
-RCD Espanyol Barcelona,Dominique Lemoine,31,Belgium,Attacking Midfield,AM,-,Standard Liège,Belgium,Loan,Out,1997,w,laliga
-Deportivo de La Coruña,Luizão,22,Brazil,Centre-Forward,CF,-,Club de Regatas Vasco da Gama,Brazil,£675Th.,Out,1997,w,laliga
-Deportivo de La Coruña,Nando,30,Spain,Defender,Defender,-,Sevilla FC,Spain,?,Out,1997,w,laliga
-Deportivo de La Coruña,Corentin Martins,28,France,Attacking Midfield,AM,-,RC Strasbourg Alsace,France,?,Out,1997,w,laliga
-Deportivo de La Coruña,Mickaël Madar,29,France,Centre-Forward,CF,-,Everton FC,England,?,Out,1997,w,laliga
-Valencia CF,Moussa Saïb,28,Algeria,Left Midfield,LM,-,Tottenham Hotspur,England,£2.34m,Out,1997,w,laliga
-UD Salamanca,Tulipa,25,Portugal,Attacking Midfield,AM,-,SC Salgueiros,Portugal,?,Out,1997,w,laliga
-UD Salamanca,Pablo Zegarra,24,Peru,Attacking Midfield,AM,-,Sporting Cristal Lima,Peru,?,Out,1997,w,laliga
-UD Salamanca,Ronen Harazi,27,Israel,Centre-Forward,CF,-,Hapoel Haifa,Israel,Loan,Out,1997,w,laliga
-Sporting Gijón,Cezary Kucharski,25,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,Free transfer,Out,1997,w,laliga
-Sporting Gijón,Igor Ledyakhov,29,Russia,Central Midfield,CM,-,Yokohama Flügels (-1998),Japan,Free transfer,Out,1997,w,laliga
-Sporting Gijón,Fredi,23,Spain,Left Midfield,LM,-,CF Extremadura,Spain,Loan,Out,1997,w,laliga
-Sporting Gijón,Aleksey Kosolapov,26,Russia,Central Midfield,CM,-,Lokomotiv Moscow,Russia,?,Out,1997,w,laliga
-Real Oviedo,Nebojsa Scepanovic,30,Montenegro,Midfielder,Midfielder,-,Paniliakos Pyrgos,Greece,Free transfer,Out,1997,w,laliga
-Real Oviedo,Roberto Suárez,23,Spain,Central Midfield,CM,-,Levante UD,Spain,?,Out,1997,w,laliga
-Real Oviedo,Carlos Cano,28,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,Out,1997,w,laliga
-SD Compostela,Manuel Alfredo Mosquera,29,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,?,Out,1997,w,laliga
-SD Compostela,Carlos Sastre,29,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1997,w,laliga
-CP Mérida,David Ávila,19,Spain,Forward,Forward,-,CD Toledo,Spain,?,Out,1997,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Atlético Madrid,Christian Vieri,23,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£15.80m,In,1997,s,laliga,https://www.transfermarkt.co.uk/christian-vieri/profil/spieler/5797
+Atlético Madrid,Avi Nimni,25,Israel,Attacking Midfield,AM,-,Maccabi Tel Aviv,Israel,£3.15m,In,1997,s,laliga,https://www.transfermarkt.co.uk/avi-nimni/profil/spieler/58335
+Atlético Madrid,Paulo Futre,31,Portugal,Left Winger,LW,-,West Ham United,England,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/paulo-futre/profil/spieler/27705
+Atlético Madrid,Rade Bogdanovic,27,Serbia,Centre-Forward,CF,-,JEF United Chiba,Japan,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/rade-bogdanovic/profil/spieler/521
+Atlético Madrid,José Mari,18,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/6194
+Atlético Madrid,Ramón,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/57947
+Atlético Madrid,Andrei Frascarelli,24,Brazil,Defender,Defender,-,Atlético Paranaense,Brazil,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/andrei-frascarelli/profil/spieler/105859
+Atlético Madrid,Jordi Lardín,24,Spain,Left Winger,LW,-,RCD Espanyol Barcelona,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jordi-lardin/profil/spieler/185953
+Atlético Madrid,Iván Rocha,29,Brazil,Left-Back,LB,-,RCD Mallorca,Spain,"End of loanJul 1, 1998",In,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+FC Barcelona,Rivaldo,25,Brazil,Attacking Midfield,AM,-,Deportivo de La Coruña,Spain,£21.15m,In,1997,s,laliga,https://www.transfermarkt.co.uk/rivaldo/profil/spieler/3372
+FC Barcelona,Sonny Anderson,26,Brazil,Centre-Forward,CF,-,AS Monaco,France,£16.20m,In,1997,s,laliga,https://www.transfermarkt.co.uk/sonny-anderson/profil/spieler/3500
+FC Barcelona,Michael Reiziger,24,Netherlands,Right-Back,RB,-,Milan AC,Italy,£7.20m,In,1997,s,laliga,https://www.transfermarkt.co.uk/michael-reiziger/profil/spieler/4375
+FC Barcelona,Christophe Dugarry,25,France,Centre-Forward,CF,-,Milan AC,Italy,£3.60m,In,1997,s,laliga,https://www.transfermarkt.co.uk/christophe-dugarry/profil/spieler/3237
+FC Barcelona,Ruud Hesp,31,Netherlands,Goalkeeper,GK,-,Roda JC Kerkrade,Netherlands,£990Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/ruud-hesp/profil/spieler/8018
+FC Barcelona,Dragan Ciric,22,Serbia,Attacking Midfield,AM,-,FK Partizan Belgrade,Serbia,£810Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/dragan-ciric/profil/spieler/7812
+FC Barcelona,Emmanuel Amunike,26,Nigeria,Left Winger,LW,-,Sporting CP,Portugal,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/emmanuel-amunike/profil/spieler/8062
+FC Barcelona,Ibán Cuadrado,18,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/iban-cuadrado/profil/spieler/7990
+FC Barcelona,Toni Velamazán,20,Spain,Right Midfield,RM,-,Real Oviedo,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/toni-velamazan/profil/spieler/15794
+Real Zaragoza,Yordi,22,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/yordi/profil/spieler/7979
+Real Zaragoza,Marcos Vales,22,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+Real Zaragoza,Gary Sundgren,29,Sweden,Centre-Back,CB,-,AIK,Sweden,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/gary-sundgren/profil/spieler/16102
+Real Zaragoza,Seba,23,Spain,Second Striker,SS,-,Wigan Athletic,England,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/seba/profil/spieler/184502
+Real Zaragoza,Nordin Wooter,19,Netherlands,Right Winger,RW,-,Ajax Amsterdam,Netherlands,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/nordin-wooter/profil/spieler/12090
+Real Zaragoza,Luis Helguera,21,Spain,Defensive Midfield,DM,-,CD Manchego,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/luis-helguera/profil/spieler/16845
+Real Zaragoza,José Ignacio,23,Spain,Defensive Midfield,DM,-,Valencia CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-ignacio/profil/spieler/7554
+Real Zaragoza,Roberto Acuña,25,Paraguay,Central Midfield,CM,-,Club Atlético Independiente,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-acuna/profil/spieler/7495
+Real Zaragoza,Pier,25,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/pier/profil/spieler/184330
+Real Zaragoza,Javi Suárez,21,Spain,Centre-Back,CB,-,Real Zaragoza B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/javi-suarez/profil/spieler/72423
+Real Betis Balompié,Ángel Cuéllar,24,Spain,Forward,Forward,-,FC Barcelona,Spain,£1.62m,In,1997,s,laliga,https://www.transfermarkt.co.uk/angel-cuellar/profil/spieler/8066
+Real Betis Balompié,Joaquín Valerio,24,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/joaquin-valerio/profil/spieler/51543
+Real Betis Balompié,Roberto Solozábal,27,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-solozabal/profil/spieler/173139
+Real Betis Balompié,Iván Pérez,21,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-perez/profil/spieler/7505
+Real Betis Balompié,Oli,25,Spain,Centre-Forward,CF,-,Real Oviedo,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/olitm/profil/spieler/29143
+Real Betis Balompié,Fernando,25,Spain,Left Midfield,LM,-,Real Valladolid CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/2757
+Real Betis Balompié,José Manuel Pinto,21,Spain,Goalkeeper,GK,-,Real Betis B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-pinto/profil/spieler/7537
+RCD Mallorca,Iván Campo,23,Spain,Defensive Midfield,DM,-,Valencia CF,Spain,£900Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-campo/profil/spieler/3274
+RCD Mallorca,Romero,26,Spain,Left-Back,LB,-,Valencia CF,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/romero/profil/spieler/7494
+RCD Mallorca,Juan Carlos Valerón,22,Spain,Attacking Midfield,AM,-,UD Las Palmas,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-valeron/profil/spieler/7501
+RCD Mallorca,Vicente Engonga,31,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/vicente-engonga/profil/spieler/150748
+RCD Mallorca,Palhinha,29,Brazil,Attacking Midfield,AM,-,Cruzeiro Esporte Clube,Brazil,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/palhinha/profil/spieler/310473
+RCD Mallorca,Paco Sanz,24,Spain,Right Midfield,RM,-,Racing Santander,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/paco-sanz/profil/spieler/305217
+RCD Mallorca,Gabriel Amato,26,Argentina,Centre-Forward,CF,-,Hércules CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/gabriel-amato/profil/spieler/16938
+RCD Mallorca,Óscar Mena,26,Argentina,Right Midfield,RM,-,Club Atlético Lanús,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/oscar-mena/profil/spieler/253207
+RCD Mallorca,Josemi,21,Spain,Forward,Forward,-,RCD Mallorca,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/josemi/profil/spieler/167940
+RCD Mallorca,Gabriel Moya,31,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,,In,1997,s,laliga,https://www.transfermarkt.co.uk/gabriel-moya/profil/spieler/173462
+Real Valladolid CF,Gabriel Heinze,19,Argentina,Centre-Back,CB,-,Club Atlético Newell's Old Boys,Argentina,£1.80m,In,1997,s,laliga,https://www.transfermarkt.co.uk/gabriel-heinze/profil/spieler/5555
+Real Valladolid CF,Chema,21,Spain,Right Midfield,RM,-,Atlético Madrid B,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/chema/profil/spieler/7811
+Real Valladolid CF,Eusebio,33,Spain,Defensive Midfield,DM,-,Celta de Vigo,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/eusebio/profil/spieler/8128
+Real Valladolid CF,Jesús Lanza,18,Spain,Central Midfield,CM,-,Córdoba CF,Spain,Loan,In,1997,s,laliga,https://www.transfermarkt.co.uk/jesus-lanza/profil/spieler/71339
+Real Valladolid CF,Diego Klimowicz,22,Argentina,Centre-Forward,CF,-,Rayo Vallecano,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/diego-klimowicz/profil/spieler/1424
+Real Valladolid CF,Juan Carlos,24,Spain,Forward,Forward,-,Atlético Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/173135
+Real Valladolid CF,Pepe Belman,26,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/pepe-belman/profil/spieler/14229
+Real Valladolid CF,Pablo García,20,Uruguay,Defensive Midfield,DM,-,Atlético Madrid B,Spain,Loan,In,1997,s,laliga,https://www.transfermarkt.co.uk/pablo-garcia/profil/spieler/7737
+Real Valladolid CF,García Calvo,22,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/garcia-calvo/profil/spieler/10006
+Real Madrid,Christian Karembeu,26,France,Defensive Midfield,DM,-,UC Sampdoria,Italy,£11.25m,In,1997,s,laliga,https://www.transfermarkt.co.uk/christian-karembeu/profil/spieler/9209
+Real Madrid,Aitor Karanka,23,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,£5.41m,In,1997,s,laliga,https://www.transfermarkt.co.uk/aitor-karanka/profil/spieler/7619
+Real Madrid,Manuel Canabal,22,Spain,Centre-Forward,CF,-,CP Mérida,Spain,£4.33m,In,1997,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Real Madrid,Sávio,23,Brazil,Left Winger,LW,-,Clube de Regatas do Flamengo,Brazil,£2.70m,In,1997,s,laliga,https://www.transfermarkt.co.uk/savio/profil/spieler/7976
+Real Madrid,Pedro Contreras,25,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,"End of loanJul 1, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/pedro-contreras/profil/spieler/7771
+Real Madrid,Fernando Morientes,21,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/fernando-morientes/profil/spieler/7531
+Real Madrid,Milan Jankovic,37,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/milan-jankovic/profil/spieler/190030
+Real Madrid,Jaime,24,Spain,Defensive Midfield,DM,-,Racing Santander,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Real Madrid,Dani García,22,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,"End of loanJun 1, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/dani-garcia/profil/spieler/7608
+Athletic Bilbao,Roberto Ríos,25,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,£10.80m,In,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-rios/profil/spieler/150329
+Athletic Bilbao,Mari Lacruz,19,Spain,Right-Back,RB,-,CA Osasuna,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/mari-lacruz/profil/spieler/7620
+Athletic Bilbao,Txomin Nagore,22,Spain,Central Midfield,CM,-,CA Osasuna,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/txomin-nagore/profil/spieler/7764
+Athletic Bilbao,Javi González,23,Spain,Right Midfield,RM,-,Celta de Vigo,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/javi-gonzalez/profil/spieler/7632
+Athletic Bilbao,Jorge Pérez,21,Spain,Central Midfield,CM,-,CD Aurrera de Vitoria,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jorge-perez/profil/spieler/51413
+Athletic Bilbao,Mario Bermejo,18,Spain,Second Striker,SS,-,Racing Santander,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/mario-bermejo/profil/spieler/51545
+Athletic Bilbao,Mikel Lasa,25,Spain,Left-Back,LB,-,Real Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/mikel-lasa/profil/spieler/154617
+Athletic Bilbao,Rafael Alkorta,28,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/rafael-alkorta/profil/spieler/101566
+Athletic Bilbao,Patxi Ferreira,30,Spain,Centre-Back,CB,-,Valencia CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Athletic Bilbao,Aitor Huegun,24,Spain,Centre-Forward,CF,-,Bilbao Athletic,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/aitor-huegun/profil/spieler/71796
+Athletic Bilbao,Mikel,22,Spain,Centre-Forward,CF,-,Barakaldo CF ,Spain,,In,1997,s,laliga,https://www.transfermarkt.co.uk/mikel/profil/spieler/8325
+Athletic Bilbao,Bolo,23,Spain,Centre-Forward,CF,-,CA Osasuna,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/bolo/profil/spieler/29110
+Racing Santander,Porfírio,23,Portugal,Left Midfield,LM,-,Sporting CP,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/porfirio/profil/spieler/17187
+Racing Santander,Txefe Guerrero,21,Spain,Defensive Midfield,DM,-,Bilbao Athletic,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/txefe-guerrero/profil/spieler/187829
+Racing Santander,Washington Tais,24,Uruguay,Right-Back,RB,-,CA Peñarol,Uruguay,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/washington-tais/profil/spieler/7651
+Racing Santander,Nando Có,23,Guinea-Bissau,Forward,Forward,-,Vitória Setúbal FC,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/nando-co/profil/spieler/310481
+Racing Santander,Nelson Abeijón,23,Uruguay,Defensive Midfield,DM,-,Club Nacional,Uruguay,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/nelson-abeijon/profil/spieler/20725
+Racing Santander,Ignacio Conte,28,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ignacio-conte/profil/spieler/258845
+Racing Santander,Ismael Ruiz,20,Spain,Central Midfield,CM,-,Racing de Santander B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/ismael-ruiz/profil/spieler/7859
+Racing Santander,Gontzal Suances,24,Spain,Forward,Forward,-,CD Toledo,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/gontzal-suances/profil/spieler/154649
+CD Tenerife,Domingos Paciência,28,Portugal,Centre-Forward,CF,-,FC Porto,Portugal,£6.75m,In,1997,s,laliga,https://www.transfermarkt.co.uk/domingos-paciencia/profil/spieler/92085
+CD Tenerife,Roy Makaay,22,Netherlands,Centre-Forward,CF,-,Vitesse Arnhem,Netherlands,£5.40m,In,1997,s,laliga,https://www.transfermarkt.co.uk/roy-makaay/profil/spieler/3994
+CD Tenerife,Samuel Slovak,21,Slovakia,Attacking Midfield,AM,-,Slovan Bratislava,Slovakia,£450Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/samuel-slovak/profil/spieler/15994
+CD Tenerife,Álvaro Benito,20,Spain,Left Midfield,LM,-,Real Madrid,Spain,Loan,In,1997,s,laliga,https://www.transfermarkt.co.uk/alvaro-benito/profil/spieler/187796
+CD Tenerife,Juan Carlos Unzué,30,Spain,Goalkeeper,GK,-,Sevilla FC,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-unzue/profil/spieler/7722
+CD Tenerife,André Luiz,22,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/andre-luiz/profil/spieler/14855
+CD Tenerife,Ferdi Vierklau,24,Netherlands,Right-Back,RB,-,Vitesse Arnhem,Netherlands,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ferdi-vierklau/profil/spieler/147756
+Real Sociedad,Dietmar Kühbauer,26,Austria,Central Midfield,CM,-,Rapid Vienna,Austria,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/dietmar-kuhbauer/profil/spieler/661
+Real Sociedad,Mikel Antía,24,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/mikel-antia/profil/spieler/187820
+Real Sociedad,Ricardo Sá Pinto,24,Portugal,Second Striker,SS,-,Sporting CP,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ricardo-sa-pinto/profil/spieler/13817
+Real Sociedad,Iker Sarriegi,23,Spain,Centre-Back,CB,-,SD Eibar,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/iker-sarriegi/profil/spieler/200763
+Real Sociedad,Aitor López Rekarte,21,Spain,Right-Back,RB,-,Real Sociedad B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/aitor-lopez-rekarte/profil/spieler/7464
+RCD Espanyol Barcelona,Quique Martín,24,Spain,Left Winger,LW,-,FC Barcelona B,Spain,£630Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/quique-martin/profil/spieler/51493
+RCD Espanyol Barcelona,Constantin Galca,25,Romania,Defensive Midfield,DM,-,RCD Mallorca,Spain,£90Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/constantin-galca/profil/spieler/7835
+RCD Espanyol Barcelona,Juan Esnáider,24,Argentina,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-esnaider/profil/spieler/3856
+RCD Espanyol Barcelona,Sergio,20,Spain,Central Midfield,CM,-,RCD Espanyol B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/sergio/profil/spieler/7500
+RCD Espanyol Barcelona,David Charcos,22,Spain,Defender,Defender,-,RCD Espanyol B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/david-charcos/profil/spieler/51484
+RCD Espanyol Barcelona,Àngel Morales,21,Spain,Defensive Midfield,DM,-,RCD Espanyol B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/angel-morales/profil/spieler/7890
+RCD Espanyol Barcelona,Diego Ribera,20,Spain,Forward,Forward,-,UE Castelldefels,Spain,,In,1997,s,laliga,https://www.transfermarkt.co.uk/diego-ribera/profil/spieler/29113
+RCD Espanyol Barcelona,Florin Raducioiu,27,Romania,Centre-Forward,CF,-,West Ham United,England,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/florin-raducioiu/profil/spieler/16167
+Deportivo de La Coruña,Luizão,21,Brazil,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,£5.85m,In,1997,s,laliga,https://www.transfermarkt.co.uk/luizao/profil/spieler/1727
+Deportivo de La Coruña,Lionel Scaloni,19,Argentina,Right-Back,RB,-,Club Estudiantes de La Plata,Argentina,£2.34m,In,1997,s,laliga,https://www.transfermarkt.co.uk/lionel-scaloni/profil/spieler/7499
+Deportivo de La Coruña,Mustapha Hadji,25,Morocco,Attacking Midfield,AM,-,Sporting CP,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/mustapha-hadji/profil/spieler/3840
+Deportivo de La Coruña,Luis Miguel Ramis,26,Spain,Centre-Back,CB,-,Sevilla FC,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/luis-miguel-ramis/profil/spieler/154986
+Deportivo de La Coruña,Sena,19,Portugal,Right-Back,RB,-,FC Famalicão,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/sena/profil/spieler/14374
+Deportivo de La Coruña,Peter Rufai,33,Nigeria,Goalkeeper,GK,-,Hércules CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/peter-rufai/profil/spieler/102309
+Deportivo de La Coruña,Salaheddine Bassir,24,Morocco,Centre-Forward,CF,-,Al-Hilal Riyadh,Saudi Arabia,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/salaheddine-bassir/profil/spieler/103655
+Deportivo de La Coruña,Maikel,21,Spain,Forward,Forward,-,RC Deportivo B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/maikel/profil/spieler/39220
+Celta de Vigo,Dan Eggen,27,Norway,Centre-Back,CB,-,Bröndby IF,Denmark,£720Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/dan-eggen/profil/spieler/6819
+Celta de Vigo,Goran Djorovic,25,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/goran-djorovic/profil/spieler/7488
+Celta de Vigo,Jorge Cadete,28,Portugal,Centre-Forward,CF,-,Celtic FC,Scotland,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jorge-cadete/profil/spieler/25356
+Celta de Vigo,Oskar Vales,22,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,Loan,In,1997,s,laliga,https://www.transfermarkt.co.uk/oskar-vales/profil/spieler/7625
+Celta de Vigo,Valeri Karpin,28,Russia,Right Midfield,RM,-,Valencia CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/valeri-karpin/profil/spieler/7472
+Celta de Vigo,Bruno Caires,21,Portugal,Defensive Midfield,DM,-,SL Benfica,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/bruno-caires/profil/spieler/159940
+Celta de Vigo,Ito,22,Spain,Central Midfield,CM,-,CF Extremadura,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/itotm/profil/spieler/7662
+Celta de Vigo,Pablo Couñago,17,Spain,Centre-Forward,CF,-,Celta Vigo B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/pablo-counago/profil/spieler/13242
+Celta de Vigo,Míchel Salgado,21,Spain,Right-Back,RB,-,UD Salamanca,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/michel-salgado/profil/spieler/7515
+Celta de Vigo,Carlos Pérez,25,Spain,Attacking Midfield,AM,-,UD Almería,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/carlos-perez/profil/spieler/144737
+Valencia CF,Marcelinho Carioca,26,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,£4.68m,In,1997,s,laliga,https://www.transfermarkt.co.uk/marcelinho-carioca/profil/spieler/17894
+Valencia CF,Moussa Saïb,28,Algeria,Left Midfield,LM,-,AJ Auxerre,France,£3.87m,In,1997,s,laliga,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+Valencia CF,Amedeo Carboni,32,Italy,Left-Back,LB,-,AS Roma,Italy,£3.60m,In,1997,s,laliga,https://www.transfermarkt.co.uk/amedeo-carboni/profil/spieler/7566
+Valencia CF,Juanfran,20,Spain,Left-Back,LB,-,Levante UD,Spain,£1.08m,In,1997,s,laliga,https://www.transfermarkt.co.uk/juanfran/profil/spieler/7542
+Valencia CF,Jocelyn Angloma,31,Guadeloupe,Right-Back,RB,-,FC Internazionale,Italy,£1.08m,In,1997,s,laliga,https://www.transfermarkt.co.uk/jocelyn-angloma/profil/spieler/51776
+Valencia CF,Miroslav Djukic,31,Serbia,Centre-Back,CB,-,Deportivo de La Coruña,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/miroslav-djukic/profil/spieler/7569
+Valencia CF,Gerard López,18,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/gerard-lopez/profil/spieler/7599
+Valencia CF,Miguel Ángel Soria,23,Spain,Defender,Defender,-,Levante UD,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-soria/profil/spieler/160905
+Valencia CF,Nicolás Olivera,19,Uruguay,Second Striker,SS,-,Defensor Sporting Club,Uruguay,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/nicolas-olivera/profil/spieler/53033
+Valencia CF,Luis Milla,31,Spain,Central Midfield,CM,-,Real Madrid,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/luis-milla/profil/spieler/147796
+Valencia CF,José del Solar,29,Peru,Central Midfield,CM,-,Celta de Vigo,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-del-solar/profil/spieler/177670
+Valencia CF,Gustavo Campagnuolo,24,Argentina,Goalkeeper,GK,-,Club Deportivo Español,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/gustavo-campagnuolo/profil/spieler/55912
+Valencia CF,Guillermo Morigi,23,Argentina,Left Midfield,LM,-,Club Atlético Vélez Sarsfield,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/guillermo-morigi/profil/spieler/290629
+Valencia CF,Jero,19,Spain,Centre-Back,CB,-,Valencia CF B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/jero/profil/spieler/71816
+Valencia CF,Miguel Ángel Angulo,20,Spain,Second Striker,SS,-,Valencia CF B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-angulo/profil/spieler/7579
+Valencia CF,David Albelda,19,Spain,Defensive Midfield,DM,-,Villarreal CF,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/david-albelda/profil/spieler/7575
+UD Salamanca,Bogdan Stelea,29,Romania,Goalkeeper,GK,-,Steaua Bukarest,Romania,£810Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/bogdan-stelea/profil/spieler/32185
+UD Salamanca,Edu Alonso,23,Spain,Right-Back,RB,-,SD Eibar,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/edu-alonso/profil/spieler/29080
+UD Salamanca,Dubravko Pavlicic,29,Croatia,Centre-Back,CB,-,Hércules CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/dubravko-pavlicic/profil/spieler/103810
+UD Salamanca,Sergio Korino,22,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/sergio-korino/profil/spieler/154574
+UD Salamanca,Gustavo Lombardi,21,Argentina,Right-Back,RB,-,Club Atlético River Plate,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/gustavo-lombardi/profil/spieler/184341
+UD Salamanca,Axel Smeets,22,Belgium,Right-Back,RB,-,KAA Gent,Belgium,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/axel-smeets/profil/spieler/7030
+UD Salamanca,Tulipa,24,Portugal,Attacking Midfield,AM,-,Boavista Porto FC,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/tulipa/profil/spieler/101809
+UD Salamanca,Marco Lanna,28,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/marco-lanna/profil/spieler/181054
+UD Salamanca,Walter Silvani,26,Argentina,Forward,Forward,-,CF Extremadura,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/walter-silvani/profil/spieler/253558
+UD Salamanca,Rogério,21,Portugal,Defensive Midfield,DM,-,Belenenses SAD,Portugal,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/rogerio/profil/spieler/13197
+UD Salamanca,Ronen Harazi,27,Israel,Centre-Forward,CF,-,Beitar Jerusalem,Israel,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ronen-harazi/profil/spieler/171981
+UD Salamanca,Tom,19,Spain,Goalkeeper,GK,-,UD Salamanca U19,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/tomtm/profil/spieler/27689
+UD Salamanca,César Villafañe,22,Spain,Midfielder,Midfielder,-,Racing Ferrol,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/cesar-villafane/profil/spieler/305680
+Sporting Gijón,Cezary Kucharski,25,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/cezary-kucharski/profil/spieler/17226
+Sporting Gijón,Dragoje Lekovic,29,Serbia,Goalkeeper,GK,-,Kilmarnock FC,Scotland,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/dragoje-lekovic/profil/spieler/102692
+Sporting Gijón,Vladimir Popovic,21,Montenegro,Forward,Forward,-,FK Zemun,Serbia,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/vladimir-popovic/profil/spieler/61077
+Sporting Gijón,Aleksey Kosolapov,26,Russia,Central Midfield,CM,-,Lokomotiv Moscow,Russia,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/aleksey-kosolapov/profil/spieler/67113
+Sporting Gijón,Fredi,23,Spain,Left Midfield,LM,-,CA Osasuna,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/fredi/profil/spieler/7707
+Sporting Gijón,Antonio Poyatos,31,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/antonio-poyatos/profil/spieler/173466
+Sporting Gijón,Manolo Sánchez,21,Spain,Left-Back,LB,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/manolo-sanchez/profil/spieler/57907
+Sporting Gijón,Pablo Amo,19,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/pablo-amo/profil/spieler/7508
+Sporting Gijón,Óscar Fernández,21,Spain,Midfielder,Midfielder,-,Sporting de Gijón B ,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/oscar-fernandez/profil/spieler/308172
+Sporting Gijón,José Manuel,23,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Sporting Gijón,Mario Cotelo,22,Spain,Right Midfield,RM,-,CD Badajoz,Spain,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/mario-cotelo/profil/spieler/23033
+Real Oviedo,Xabier Eskurza,27,Spain,Central Midfield,CM,-,Valencia CF,Spain,£1.35m,In,1997,s,laliga,https://www.transfermarkt.co.uk/xabier-eskurza/profil/spieler/154584
+Real Oviedo,Julio Dely Valdés,30,Panama,Centre-Forward,CF,-,Paris Saint-Germain,France,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/julio-dely-valdes/profil/spieler/7793
+Real Oviedo,Dani Pendín,22,Argentina,Defensive Midfield,DM,-,Club Atlético Central Córdoba (Cba),Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/dani-pendin/profil/spieler/29185
+Real Oviedo,Juan González,25,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-gonzalez/profil/spieler/187828
+Real Oviedo,Roberto Pompei,27,Argentina,Left Midfield,LM,-,Racing Club,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-pompei/profil/spieler/55217
+Real Oviedo,Joyce Moreno,22,Panama,Defender,Defender,-,Real Madrid B,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/joyce-moreno/profil/spieler/187840
+Real Oviedo,José María Buljubasich,26,Argentina,Goalkeeper,GK,-,Club Atlético Rosario Central,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-maria-buljubasich/profil/spieler/67204
+Real Oviedo,Esteban,22,Spain,Goalkeeper,GK,-,Real Oviedo B,Spain,-,In,1997,s,laliga,https://www.transfermarkt.co.uk/esteban/profil/spieler/15974
+SD Compostela,René Ponk,25,Netherlands,Goalkeeper,GK,-,FC Utrecht,Netherlands,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/rene-ponk/profil/spieler/4464
+SD Compostela,Romano Sion,26,Netherlands,Midfielder,Midfielder,-,SBV Emmen,Netherlands,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/romano-sion/profil/spieler/222537
+SD Compostela,Changui,20,Spain,Centre-Forward,CF,-,,Unknown,"End of loanJun 30, 1997",In,1997,s,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+CP Mérida,Iván Gabrich,24,Argentina,Centre-Forward,CF,-,Ajax Amsterdam,Netherlands,£2.70m,In,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-gabrich/profil/spieler/149508
+CP Mérida,Gonzalo de los Santos,20,Uruguay,Defensive Midfield,DM,-,CA Peñarol,Uruguay,£1.19m,In,1997,s,laliga,https://www.transfermarkt.co.uk/gonzalo-de-los-santos/profil/spieler/7577
+CP Mérida,Juan Sabas,30,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,£676Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/juan-sabas/profil/spieler/253212
+CP Mérida,Leo Biagini,20,Argentina,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan fee:£189Th.,In,1997,s,laliga,https://www.transfermarkt.co.uk/leo-biagini/profil/spieler/7688
+CP Mérida,Dmitri Radchenko,26,Russia,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,1997,s,laliga,https://www.transfermarkt.co.uk/dmitri-radchenko/profil/spieler/67136
+CP Mérida,José Cortés,27,Spain,Right-Back,RB,-,CF Extremadura,Spain,Free transfer,In,1997,s,laliga,https://www.transfermarkt.co.uk/jose-cortes/profil/spieler/258142
+CP Mérida,Jaime Molina,28,Spain,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/jaime-molina/profil/spieler/22572
+CP Mérida,Carlos Navarro,31,Colombia,Goalkeeper,GK,-,Club Atlético Boca Juniors,Argentina,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/carlos-navarro/profil/spieler/54334
+CP Mérida,Pirri Mori,26,Spain,Attacking Midfield,AM,-,SD Compostela,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/pirri-mori/profil/spieler/258143
+CP Mérida,Ramón de Quintana,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/ramon-de-quintana/profil/spieler/29130
+CP Mérida,David Ávila,19,Spain,Forward,Forward,-,FC Barcelona B,Spain,?,In,1997,s,laliga,https://www.transfermarkt.co.uk/david-avila/profil/spieler/309590
+Atlético Madrid,Leo Biagini,20,Argentina,Centre-Forward,CF,-,CP Mérida,Spain,Loan fee:£189Th.,Out,1997,s,laliga,https://www.transfermarkt.co.uk/leo-biagini/profil/spieler/7688
+Atlético Madrid,Yordi,22,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/yordi/profil/spieler/7979
+Atlético Madrid,Juan Carlos,24,Spain,Forward,Forward,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/173135
+Atlético Madrid,Juan Esnáider,24,Argentina,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-esnaider/profil/spieler/3856
+Atlético Madrid,Roberto Solozábal,27,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-solozabal/profil/spieler/173139
+FC Barcelona,Ronaldo,20,Brazil,Centre-Forward,CF,-,FC Internazionale,Italy,£25.20m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ronaldo/profil/spieler/3140
+FC Barcelona,Gheorghe Popescu,29,Romania,Centre-Back,CB,-,Galatasaray SK,Turkey,£4.05m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/gheorghe-popescu/profil/spieler/3129
+FC Barcelona,Laurent Blanc,31,France,Sweeper,SW,-,Olympique Marseille,France,£2.25m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/laurent-blanc/profil/spieler/3113
+FC Barcelona,Ángel Cuéllar,24,Spain,Forward,Forward,-,Real Betis Balompié,Spain,£1.62m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/angel-cuellar/profil/spieler/8066
+FC Barcelona,Julen Lopetegui,30,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/julen-lopetegui/profil/spieler/101570
+FC Barcelona,Quique Álvarez,21,Spain,Centre-Back,CB,-,CD Logroñés (liq.),Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/quique-alvarez/profil/spieler/7832
+FC Barcelona,Josep Setvalls,22,Spain,Midfielder,Midfielder,-,UE Lleida (liq.),Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/josep-setvalls/profil/spieler/167941
+FC Barcelona,Toni Velamazán,20,Spain,Right Midfield,RM,-,Albacete Balompié,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/toni-velamazan/profil/spieler/15794
+FC Barcelona,Goran Vucevic,26,Croatia,Central Midfield,CM,-,1. FC Köln,Germany,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/goran-vucevic/profil/spieler/130411
+Real Zaragoza,Fernando Morientes,21,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/fernando-morientes/profil/spieler/7531
+Real Zaragoza,Gustavo Poyet,29,Uruguay,Attacking Midfield,AM,-,Chelsea FC,England,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/gustavo-poyet/profil/spieler/3361
+Real Zaragoza,Pepe Belman,26,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pepe-belman/profil/spieler/14229
+Real Zaragoza,Nayim,30,Spain,Right Midfield,RM,-,CD Logroñés (liq.),Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/nayim/profil/spieler/184495
+Real Zaragoza,Pardeza,32,Spain,Second Striker,SS,-,Puebla FC,Mexico,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pardeza/profil/spieler/184503
+Real Zaragoza,Quique Sánchez Flores,32,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/quique-sanchez-flores/profil/spieler/173942
+Real Zaragoza,Dani García,22,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 1, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/dani-garcia/profil/spieler/7608
+Real Betis Balompié,Roberto Ríos,25,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,£10.80m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/roberto-rios/profil/spieler/150329
+Real Betis Balompié,Juan Sabas,30,Spain,Centre-Forward,CF,-,CP Mérida,Spain,£676Th.,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-sabas/profil/spieler/253212
+Real Betis Balompié,Juan Luis Redondo,20,Spain,Right-Back,RB,-,Hércules CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-luis-redondo/profil/spieler/7702
+Real Betis Balompié,Pier,25,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pier/profil/spieler/184330
+Real Betis Balompié,Wojciech Kowalczyk,25,Poland,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/wojciech-kowalczyk/profil/spieler/20812
+RCD Mallorca,Constantin Galca,25,Romania,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,£90Th.,Out,1997,s,laliga,https://www.transfermarkt.co.uk/constantin-galca/profil/spieler/7835
+RCD Mallorca,Francisco Copado,23,Germany,Second Striker,SS,-,Tennis Borussia Berlin,Germany,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/francisco-copado/profil/spieler/728
+RCD Mallorca,David Castedo,23,Spain,Left-Back,LB,-,Hércules CF,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/david-castedo/profil/spieler/7695
+RCD Mallorca,Emmanuel Duah,20,Ghana,Left Midfield,LM,-,União de Leiria,Portugal,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/emmanuel-duah/profil/spieler/14286
+RCD Mallorca,Raúl Pareja,22,Spain,Centre-Back,CB,-,Real Madrid B,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/raul-pareja/profil/spieler/767268
+RCD Mallorca,Tito Vilanova,28,Spain,Midfielder,Midfielder,-,UE Lleida (liq.),Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/tito-vilanova/profil/spieler/356364
+RCD Mallorca,Luis López Rekarte,35,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/luis-lopez-rekarte/profil/spieler/159966
+RCD Mallorca,Iván Rocha,29,Brazil,Left-Back,LB,-,Atlético Madrid,Spain,"End of loanJul 1, 1998",Out,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+RCD Mallorca,Ernesto Valverde,33,Spain,Centre-Forward,CF,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ernesto-valverde/profil/spieler/150667
+RCD Mallorca,Josemi,21,Spain,Forward,Forward,-,RCD Mallorca,Spain,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/josemi/profil/spieler/167940
+RCD Mallorca,Carlitos,20,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/carlitos/profil/spieler/7689
+RCD Mallorca,Juan Antonio Santaella,23,Spain,Second Striker,SS,-,Sevilla FC B,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-antonio-santaella/profil/spieler/353639
+RCD Mallorca,José Manuel,23,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Real Valladolid CF,Jesús Ángel Turiel,23,Spain,Defensive Midfield,DM,-,CD Toledo,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jesus-angel-turiel/profil/spieler/29197
+Real Valladolid CF,Mikel Antía,24,Spain,Centre-Back,CB,-,Real Sociedad,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/mikel-antia/profil/spieler/187820
+Real Valladolid CF,Ramón,22,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/57947
+Real Valladolid CF,Fernando,25,Spain,Left Midfield,LM,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/2757
+Real Valladolid CF,José Mosquera,30,Venezuela,Midfielder,Midfielder,-,Racing Ferrol,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-mosquera/profil/spieler/277067
+Real Madrid,Luis Milla,31,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/luis-milla/profil/spieler/147796
+Real Madrid,Álvaro Benito,20,Spain,Left Midfield,LM,-,CD Tenerife,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/alvaro-benito/profil/spieler/187796
+Real Madrid,Rafael Alkorta,28,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/rafael-alkorta/profil/spieler/101566
+Real Madrid,García Calvo,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/garcia-calvo/profil/spieler/10006
+Real Madrid,Mikel Lasa,25,Spain,Left-Back,LB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/mikel-lasa/profil/spieler/154617
+Real Madrid,Chendo,36,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/chendo/profil/spieler/117606
+Real Madrid,Paco Buyo,39,Spain,Goalkeeper,GK,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/paco-buyo/profil/spieler/118352
+Athletic Bilbao,Aitor Karanka,23,Spain,Centre-Back,CB,-,Real Madrid,Spain,£5.41m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/aitor-karanka/profil/spieler/7619
+Athletic Bilbao,Bixente Lizarazu,27,France,Left-Back,LB,-,Bayern Munich,Germany,£4.05m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/bixente-lizarazu/profil/spieler/210
+Athletic Bilbao,Sergio Korino,22,Spain,Centre-Back,CB,-,UD Salamanca,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/sergio-korino/profil/spieler/154574
+Athletic Bilbao,Oskar Vales,22,Spain,Right-Back,RB,-,Celta de Vigo,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/oskar-vales/profil/spieler/7625
+Athletic Bilbao,Felipe Guréndez,21,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/felipe-gurendez/profil/spieler/7618
+Athletic Bilbao,Eduardo Estibariz,31,Spain,Right-Back,RB,-,Rayo Vallecano,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/eduardo-estibariz/profil/spieler/154585
+Athletic Bilbao,Bolo,23,Spain,Centre-Forward,CF,-,Hércules CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/bolo/profil/spieler/29110
+Athletic Bilbao,Genar Andrinua,33,Spain,Centre-Back,CB,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/genar-andrinua/profil/spieler/118351
+Racing Santander,Dejan Petkovic,24,Serbia,Attacking Midfield,AM,-,Esporte Clube Vitória,Brazil,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/dejan-petkovic/profil/spieler/54056
+Racing Santander,Fernando Morán,21,Spain,Right Midfield,RM,-,CD Numancia,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/fernando-moran/profil/spieler/7861
+Racing Santander,José Manuel Ochotorena,36,Spain,Goalkeeper,GK,-,CD Logroñés (liq.),Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-ochotorena/profil/spieler/255175
+Racing Santander,Paco Sanz,24,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/paco-sanz/profil/spieler/305217
+Racing Santander,Ilshat Faizulin,24,Russia,Centre-Forward,CF,-,Villarreal CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ilshat-faizulin/profil/spieler/67101
+Racing Santander,Pedro Munitis,22,Spain,Second Striker,SS,-,CD Badajoz,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pedro-munitis/profil/spieler/7864
+Racing Santander,Álvaro Cervera,31,Spain,Forward,Forward,-,Hércules CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/alvaro-cervera/profil/spieler/259623
+Racing Santander,Mario Bermejo,18,Spain,Second Striker,SS,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/mario-bermejo/profil/spieler/51545
+Racing Santander,José Luis Zalazar,33,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-luis-zalazar/profil/spieler/227728
+Racing Santander,Dmitri Ulyanov,26,Russia,Attacking Midfield,AM,-,CSKA Moscow,Russia,,Out,1997,s,laliga,https://www.transfermarkt.co.uk/dmitri-ulyanov/profil/spieler/93326
+Racing Santander,Jaime,24,Spain,Defensive Midfield,DM,-,Real Madrid,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+CD Tenerife,César Gómez,29,Spain,Centre-Back,CB,-,AS Roma,Italy,£3.15m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/cesar-gomez/profil/spieler/227750
+CD Tenerife,Oliver Neuville,24,Germany,Centre-Forward,CF,-,FC Hansa Rostock,Germany,£1.62m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/oliver-neuville/profil/spieler/81
+CD Tenerife,Ignacio Conte,28,Spain,Midfielder,Midfielder,-,Racing Santander,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ignacio-conte/profil/spieler/258845
+CD Tenerife,Sizwe Motaung,27,South Africa,Right-Back,RB,-,Kaizer Chiefs,South Africa,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/sizwe-motaung/profil/spieler/147070
+Real Sociedad,Joachin Yaw Acheampong,23,Ghana,Midfielder,Midfielder,-,Hércules CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/joachin-yaw-acheampong/profil/spieler/114929
+RCD Espanyol Barcelona,Raúl Tamudo,19,Spain,Centre-Forward,CF,-,Deportivo Alavés,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/raul-tamudo/profil/spieler/7899
+RCD Espanyol Barcelona,Florin Raducioiu,27,Romania,Centre-Forward,CF,-,VfB Stuttgart,Germany,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/florin-raducioiu/profil/spieler/16167
+RCD Espanyol Barcelona,Pascal Olmeta,36,France,Goalkeeper,GK,-,Gazélec Football Club Olympique Ajaccio,France,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pascal-olmeta/profil/spieler/173707
+RCD Espanyol Barcelona,Jordi Lardín,24,Spain,Left Winger,LW,-,Atlético Madrid,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jordi-lardin/profil/spieler/185953
+RCD Espanyol Barcelona,Jaime Molina,28,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jaime-molina/profil/spieler/22572
+RCD Espanyol Barcelona,Goran Bogdanovic,30,Serbia,Midfielder,Midfielder,-,CF Extremadura,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/goran-bogdanovic/profil/spieler/26067
+RCD Espanyol Barcelona,Sebastián Herrera,28,Spain,Centre-Back,CB,-,UD Las Palmas,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/sebastian-herrera/profil/spieler/259497
+RCD Espanyol Barcelona,Francisco,34,Spain,Central Midfield,CM,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/francisco/profil/spieler/117614
+Deportivo de La Coruña,Rivaldo,25,Brazil,Attacking Midfield,AM,-,FC Barcelona,Spain,£21.15m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/rivaldo/profil/spieler/3372
+Deportivo de La Coruña,Miroslav Djukic,31,Serbia,Centre-Back,CB,-,Valencia CF,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/miroslav-djukic/profil/spieler/7569
+Deportivo de La Coruña,Dmitri Radchenko,26,Russia,Centre-Forward,CF,-,CP Mérida,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/dmitri-radchenko/profil/spieler/67136
+Deportivo de La Coruña,Txiki Begiristain,32,Spain,Left Winger,LW,-,Urawa Red Diamonds,Japan,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/txiki-begiristain/profil/spieler/8124
+Deportivo de La Coruña,Alfredo Santaelena,29,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/alfredo-santaelena/profil/spieler/253504
+Deportivo de La Coruña,Renaldo,27,Brazil,Centre-Forward,CF,-,Sport Club Corinthians Paulista,Brazil,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/renaldo/profil/spieler/253469
+Deportivo de La Coruña,Petr Kouba,28,Czech Republic,Goalkeeper,GK,-,1.FC Kaiserslautern,Germany,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/petr-kouba/profil/spieler/9520
+Deportivo de La Coruña,Rafael Martin Vazquez,31,Spain,Attacking Midfield,AM,-,Atletico Celaya,Mexico,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/rafael-martin-vazquez/profil/spieler/79567
+Deportivo de La Coruña,José Luis Ribera,32,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-luis-ribera/profil/spieler/288300
+Celta de Vigo,Eusebio,33,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/eusebio/profil/spieler/8128
+Celta de Vigo,Javi González,23,Spain,Right Midfield,RM,-,Athletic Bilbao,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/javi-gonzalez/profil/spieler/7632
+Celta de Vigo,Angel Merino,30,Spain,Midfielder,Midfielder,-,UD Las Palmas,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/angel-merino/profil/spieler/253953
+Celta de Vigo,Juan Manuel Prieto,26,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-manuel-prieto/profil/spieler/253521
+Celta de Vigo,Andoni Lakabeg,28,Spain,Right-Back,RB,-,Villarreal CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/andoni-lakabeg/profil/spieler/154615
+Celta de Vigo,Alejo Indias,30,Spain,Centre-Back,CB,-,Elche CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/alejo-indias/profil/spieler/253983
+Celta de Vigo,José Manuel Tárraga,26,Spain,Defender,Defender,-,UE Lleida (liq.),Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-tarraga/profil/spieler/258870
+Celta de Vigo,José del Solar,29,Peru,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-del-solar/profil/spieler/177670
+Celta de Vigo,Srdjan Bajcetic,25,Serbia,Midfielder,Midfielder,-,SC Braga,Portugal,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/srdjan-bajcetic/profil/spieler/213087
+Celta de Vigo,Diego Pereira Carrera,23,Spain,Defender,Defender,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/diego-pereira-carrera/profil/spieler/459984
+Valencia CF,Xabier Eskurza,27,Spain,Central Midfield,CM,-,Real Oviedo,Spain,£1.35m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/xabier-eskurza/profil/spieler/154584
+Valencia CF,Leandro Machado,21,Brazil,Centre-Forward,CF,-,Sporting CP,Portugal,£900Th.,Out,1997,s,laliga,https://www.transfermarkt.co.uk/leandro-machado/profil/spieler/67907
+Valencia CF,Iván Campo,23,Spain,Defensive Midfield,DM,-,RCD Mallorca,Spain,£900Th.,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ivan-campo/profil/spieler/3274
+Valencia CF,Romero,26,Spain,Left-Back,LB,-,RCD Mallorca,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/romero/profil/spieler/7494
+Valencia CF,José Ignacio,23,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-ignacio/profil/spieler/7554
+Valencia CF,Iñaki Hurtado,25,Spain,Midfielder,Midfielder,-,Villarreal CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/inaki-hurtado/profil/spieler/7984
+Valencia CF,Patxi Ferreira,30,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Valencia CF,Vicente Engonga,31,Spain,Central Midfield,CM,-,RCD Mallorca,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/vicente-engonga/profil/spieler/150748
+Valencia CF,Antonio Poyatos,31,Spain,Midfielder,Midfielder,-,Sporting Gijón,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/antonio-poyatos/profil/spieler/173466
+Valencia CF,Valeri Karpin,28,Russia,Right Midfield,RM,-,Celta de Vigo,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/valeri-karpin/profil/spieler/7472
+Valencia CF,Gabriel Moya,31,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,,Out,1997,s,laliga,https://www.transfermarkt.co.uk/gabriel-moya/profil/spieler/173462
+UD Salamanca,Catanha,25,Brazil,Centre-Forward,CF,-,CD Leganés,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/catanha/profil/spieler/7559
+UD Salamanca,Nuno Afonso,22,Portugal,Centre-Back,CB,-,Vitória Setúbal FC,Portugal,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/nuno-afonso/profil/spieler/255186
+UD Salamanca,Hermes Desio,27,Argentina,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/hermes-desio/profil/spieler/172356
+UD Salamanca,César Villafañe,22,Spain,Midfielder,Midfielder,-,Cultural Leonesa,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/cesar-villafane/profil/spieler/305680
+UD Salamanca,Agostinho,21,Portugal,Left Winger,LW,-,UD Las Palmas,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/agostinho/profil/spieler/3622
+UD Salamanca,Miguel Torrecilla,27,Spain,Centre-Back,CB,-,Elche CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/miguel-torrecilla/profil/spieler/305679
+UD Salamanca,Míchel Salgado,21,Spain,Right-Back,RB,-,Celta de Vigo,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/michel-salgado/profil/spieler/7515
+Sporting Gijón,Aitor Tornavaca,21,Spain,Left-Back,LB,-,CD Leganés,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/aitor-tornavaca/profil/spieler/44026
+Sporting Gijón,Rónald Gómez,22,Costa Rica,Centre-Forward,CF,-,Hércules CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/ronald-gomez/profil/spieler/35372
+Sporting Gijón,Hugo Pérez,28,Argentina,Right Midfield,RM,-,Club Estudiantes de La Plata,Argentina,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/hugo-perez/profil/spieler/102210
+Sporting Gijón,Marcos Vales,22,Spain,Right Midfield,RM,-,Real Zaragoza,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+Sporting Gijón,Urbano,22,Spain,Centre-Back,CB,-,CD Badajoz,Spain,Loan,Out,1997,s,laliga,https://www.transfermarkt.co.uk/urbano/profil/spieler/35800
+Real Oviedo,Rafa,26,Spain,Goalkeeper,GK,-,Málaga CF,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/rafa/profil/spieler/7772
+Real Oviedo,Thomas Christiansen,24,Spain,Centre-Forward,CF,-,Villarreal CF,Spain,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/thomas-christiansen/profil/spieler/722
+Real Oviedo,Juan José Borrelli,26,Argentina,Attacking Midfield,AM,-,Club Atlético River Plate,Argentina,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-jose-borrelli/profil/spieler/173863
+Real Oviedo,Oli,25,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/olitm/profil/spieler/29143
+Real Oviedo,Toni Velamazán,20,Spain,Right Midfield,RM,-,FC Barcelona,Spain,"End of loanJun 30, 1997",Out,1997,s,laliga,https://www.transfermarkt.co.uk/toni-velamazan/profil/spieler/15794
+SD Compostela,Bent Christensen,30,Denmark,Centre-Forward,CF,-,Genclerbirligi Ankara,Turkey,Free transfer,Out,1997,s,laliga,https://www.transfermarkt.co.uk/bent-christensen/profil/spieler/17301
+SD Compostela,José Manuel Galdames,26,Spain,Centre-Back,CB,-,FC Toulouse,France,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-galdames/profil/spieler/154589
+SD Compostela,Pirri Mori,26,Spain,Attacking Midfield,AM,-,CP Mérida,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/pirri-mori/profil/spieler/258143
+CP Mérida,Manuel Canabal,22,Spain,Centre-Forward,CF,-,Real Madrid,Spain,£4.33m,Out,1997,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+CP Mérida,Remco Torken,25,Netherlands,Forward,Forward,-,KSK Beveren,Belgium,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/remco-torken/profil/spieler/144241
+CP Mérida,Carlos Barroso Ruiz,25,Spain,Forward,Forward,-,Xerez CD,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/carlos-barroso-ruiz/profil/spieler/508602
+CP Mérida,Sergio Barila,24,Equatorial Guinea,Left-Back,LB,-,Levante UD,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/sergio-barila/profil/spieler/64105
+CP Mérida,Virgilio Hernández,28,Spain,Left-Back,LB,-,Córdoba CF,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/virgilio-hernandez/profil/spieler/273560
+CP Mérida,José Baroja,27,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/jose-baroja/profil/spieler/306022
+CP Mérida,Luis Miguel Olivar,24,Spain,Midfielder,Midfielder,-,CF Fuenlabrada,Spain,?,Out,1997,s,laliga,https://www.transfermarkt.co.uk/luis-miguel-olivar/profil/spieler/767265
+CP Mérida,Juan Toribio,31,Spain,Right-Back,RB,-,,Retired,-,Out,1997,s,laliga,https://www.transfermarkt.co.uk/juan-toribio/profil/spieler/305222
+FC Barcelona,Winston Bogarde,27,Netherlands,Centre-Back,CB,-,Milan AC,Italy,£3.33m,In,1997,w,laliga,https://www.transfermarkt.co.uk/winston-bogarde/profil/spieler/3155
+Real Zaragoza,Paulo Jamelli,23,Brazil,Second Striker,SS,-,Kashiwa Reysol,Japan,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/paulo-jamelli/profil/spieler/184346
+RCD Mallorca,Santiago Ezquerro,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,1997,w,laliga,https://www.transfermarkt.co.uk/santiago-ezquerro/profil/spieler/7639
+RCD Mallorca,Iván Rocha,28,Brazil,Left-Back,LB,-,Atlético Madrid B,Spain,Loan,In,1997,w,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+RCD Mallorca,Michael Obiku,29,Nigeria,Centre-Forward,CF,-,Avispa Fukuoka,Japan,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/michael-obiku/profil/spieler/127756
+RCD Mallorca,Carlos Roa,28,Argentina,Goalkeeper,GK,-,Club Atlético Lanús,Argentina,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/carlos-roa/profil/spieler/8137
+Real Valladolid CF,Manuel Canabal,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Loan,In,1997,w,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+RCD Espanyol Barcelona,Iván Helguera,22,Spain,Centre-Back,CB,-,AS Roma,Italy,£4.05m,In,1997,w,laliga,https://www.transfermarkt.co.uk/ivan-helguera/profil/spieler/7514
+RCD Espanyol Barcelona,Roberto,24,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/roberto/profil/spieler/8004
+Deportivo de La Coruña,Sebastián Abreu,21,Uruguay,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,£9.45m,In,1997,w,laliga,https://www.transfermarkt.co.uk/sebastian-abreu/profil/spieler/53817
+Deportivo de La Coruña,Sergio Martínez,28,Uruguay,Forward,Forward,-,Club Atlético Boca Juniors,Argentina,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/sergio-martinez/profil/spieler/229623
+Valencia CF,Adrian Ilie,23,Romania,Centre-Forward,CF,-,Galatasaray SK,Turkey,£3.38m,In,1997,w,laliga,https://www.transfermarkt.co.uk/adrian-ilie/profil/spieler/9536
+UD Salamanca,Nemanja Miljanovic,26,Sweden,Midfielder,Midfielder,-,Hércules CF,Spain,Loan,In,1997,w,laliga,https://www.transfermarkt.co.uk/nemanja-miljanovic/profil/spieler/259706
+UD Salamanca,Gabriel Popescu,24,Romania,Attacking Midfield,AM,-,Universitatea Craiova,Romania,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/gabriel-popescu/profil/spieler/103222
+Sporting Gijón,Roberto Trotta,28,Argentina,Centre-Back,CB,-,Racing Club,Argentina,£1.80m,In,1997,w,laliga,https://www.transfermarkt.co.uk/roberto-trotta/profil/spieler/223151
+SD Compostela,Oskar Tabuenka,26,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/oskar-tabuenka/profil/spieler/154650
+SD Compostela,Jean-François Hernandez,28,France,Centre-Back,CB,-,Olympique de Marseille B,France,?,In,1997,w,laliga,https://www.transfermarkt.co.uk/jean-francois-hernandez/profil/spieler/184336
+Atlético Madrid,Avi Nimni,25,Israel,Attacking Midfield,AM,-,Maccabi Tel Aviv,Israel,Free transfer,Out,1997,w,laliga,https://www.transfermarkt.co.uk/avi-nimni/profil/spieler/58335
+Atlético Madrid,Rade Bogdanovic,27,Serbia,Centre-Forward,CF,-,NAC Breda,Netherlands,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/rade-bogdanovic/profil/spieler/521
+Atlético Madrid,Roberto,24,Spain,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/roberto/profil/spieler/8004
+Atlético Madrid,Santiago Ezquerro,21,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/santiago-ezquerro/profil/spieler/7639
+FC Barcelona,Christophe Dugarry,25,France,Centre-Forward,CF,-,Olympique Marseille,France,£4.95m,Out,1997,w,laliga,https://www.transfermarkt.co.uk/christophe-dugarry/profil/spieler/3237
+FC Barcelona,Hristo Stoichkov,31,Bulgaria,Left Winger,LW,-,CSKA Sofia,Bulgaria,Free transfer,Out,1997,w,laliga,https://www.transfermarkt.co.uk/hristo-stoichkov/profil/spieler/7938
+RCD Mallorca,Palhinha,30,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/palhinha/profil/spieler/310473
+Real Valladolid CF,Raúl Ibáñez,25,Spain,Forward,Forward,-,Levante UD,Spain,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/raul-ibanez/profil/spieler/187831
+Real Valladolid CF,Álvaro Gutiérrez,29,Uruguay,Defensive Midfield,DM,-,Rayo Vallecano,Spain,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/alvaro-gutierrez/profil/spieler/227721
+Real Valladolid CF,Pablo García,20,Uruguay,Defensive Midfield,DM,-,Atlético Madrid B,Spain,"End of loanDec 1, 1997",Out,1997,w,laliga,https://www.transfermarkt.co.uk/pablo-garcia/profil/spieler/7737
+Real Madrid,Zé Roberto,23,Brazil,Left Midfield,LM,-,Clube de Regatas do Flamengo,Brazil,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/ze-roberto/profil/spieler/89
+Real Madrid,Secretário,27,Portugal,Right-Back,RB,-,FC Porto,Portugal,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/secretario/profil/spieler/9829
+Real Madrid,Manuel Canabal,23,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Athletic Bilbao,Oskar Tabuenka,26,Spain,Centre-Back,CB,-,SD Compostela,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/oskar-tabuenka/profil/spieler/154650
+Athletic Bilbao,Jon Andoni Goikoetxea,32,Spain,Right Midfield,RM,-,Yokohama Marinos,Japan,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/jon-andoni-goikoetxea/profil/spieler/150650
+Racing Santander,Iñaki Bollain,23,Spain,Right-Back,RB,-,Levante UD,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/inaki-bollain/profil/spieler/96051
+Racing Santander,Nando Có,24,Guinea-Bissau,Forward,Forward,-,CD Numancia,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/nando-co/profil/spieler/310481
+Real Sociedad,Alberto Albistegi,33,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/alberto-albistegi/profil/spieler/200732
+Real Sociedad,Raúl Iglesias,23,Spain,Goalkeeper,GK,-,CD Toledo,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/raul-iglesias/profil/spieler/95959
+RCD Espanyol Barcelona,Dominique Lemoine,31,Belgium,Attacking Midfield,AM,-,Standard Liège,Belgium,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/dominique-lemoine/profil/spieler/181538
+Deportivo de La Coruña,Luizão,22,Brazil,Centre-Forward,CF,-,Club de Regatas Vasco da Gama,Brazil,£675Th.,Out,1997,w,laliga,https://www.transfermarkt.co.uk/luizao/profil/spieler/1727
+Deportivo de La Coruña,Nando,30,Spain,Defender,Defender,-,Sevilla FC,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/nando/profil/spieler/253552
+Deportivo de La Coruña,Corentin Martins,28,France,Attacking Midfield,AM,-,RC Strasbourg Alsace,France,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/corentin-martins/profil/spieler/5623
+Deportivo de La Coruña,Mickaël Madar,29,France,Centre-Forward,CF,-,Everton FC,England,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/mickael-madar/profil/spieler/104068
+Valencia CF,Moussa Saïb,28,Algeria,Left Midfield,LM,-,Tottenham Hotspur,England,£2.34m,Out,1997,w,laliga,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+UD Salamanca,Tulipa,25,Portugal,Attacking Midfield,AM,-,SC Salgueiros,Portugal,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/tulipa/profil/spieler/101809
+UD Salamanca,Pablo Zegarra,24,Peru,Attacking Midfield,AM,-,Sporting Cristal Lima,Peru,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/pablo-zegarra/profil/spieler/296191
+UD Salamanca,Ronen Harazi,27,Israel,Centre-Forward,CF,-,Hapoel Haifa,Israel,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/ronen-harazi/profil/spieler/171981
+Sporting Gijón,Cezary Kucharski,25,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,Free transfer,Out,1997,w,laliga,https://www.transfermarkt.co.uk/cezary-kucharski/profil/spieler/17226
+Sporting Gijón,Igor Ledyakhov,29,Russia,Central Midfield,CM,-,Yokohama Flügels (-1998),Japan,Free transfer,Out,1997,w,laliga,https://www.transfermarkt.co.uk/igor-ledyakhov/profil/spieler/102594
+Sporting Gijón,Fredi,23,Spain,Left Midfield,LM,-,CF Extremadura,Spain,Loan,Out,1997,w,laliga,https://www.transfermarkt.co.uk/fredi/profil/spieler/7707
+Sporting Gijón,Aleksey Kosolapov,26,Russia,Central Midfield,CM,-,Lokomotiv Moscow,Russia,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/aleksey-kosolapov/profil/spieler/67113
+Real Oviedo,Nebojsa Scepanovic,30,Montenegro,Midfielder,Midfielder,-,Paniliakos Pyrgos,Greece,Free transfer,Out,1997,w,laliga,https://www.transfermarkt.co.uk/nebojsa-scepanovic/profil/spieler/353416
+Real Oviedo,Roberto Suárez,23,Spain,Central Midfield,CM,-,Levante UD,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/roberto-suarez/profil/spieler/29140
+Real Oviedo,Carlos Cano,28,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/carlos-cano/profil/spieler/253196
+SD Compostela,Manuel Mosquera,29,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/manuel-mosquera/profil/spieler/253955
+SD Compostela,Carlos Sastre,29,Spain,Midfielder,Midfielder,-,Rayo Vallecano,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/carlos-sastre/profil/spieler/259505
+CP Mérida,David Ávila,19,Spain,Forward,Forward,-,CD Toledo,Spain,?,Out,1997,w,laliga,https://www.transfermarkt.co.uk/david-avila/profil/spieler/309590

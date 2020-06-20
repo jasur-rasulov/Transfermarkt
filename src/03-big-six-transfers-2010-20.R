@@ -4,7 +4,7 @@
 
 # DEPENDENCIES
 if (!require("pacman")) install.packages("pacman")
-pacman::p_load("dplyr", "readr", "data.table", "ggplot2", "showtext")
+pacman::p_load("data.table", "dplyr", "ggplot2", "readr", "showtext")
 source("./src/01-clean.R")
 
 

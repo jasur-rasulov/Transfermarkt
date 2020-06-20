@@ -1,358 +1,360 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-FC Girondins Bordeaux,Zinédine Zidane,20,France,Attacking Midfield,AM,-,AS Cannes,France,£6.30m,In,1992,s,ligue-1
-FC Girondins Bordeaux,Márcio Santos,22,Brazil,Centre-Back,CB,-,Botafogo Rio de Janeiro,Brazil,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Christophe Vecchioni,23,France,Defender,Defender,-,US Marseille Endoume,France,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Philippe Lucas,28,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Michel Flos,27,France,Midfielder,Midfielder,-,US Marseille Endoume,France,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Valdeir,24,Brazil,Second Striker,SS,-,Botafogo Rio de Janeiro,Brazil,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Laurent Croci,27,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Jean-Francois Daniel,28,France,Central Midfield,CM,-,AS Cannes,France,?,In,1992,s,ligue-1
-FC Girondins Bordeaux,Eric Guérit,27,France,Defensive Midfield,DM,-,AS Cannes,France,?,In,1992,s,ligue-1
-AS Monaco,Jürgen Klinsmann,27,Germany,Centre-Forward,CF,-,FC Internazionale,Italy,£6.30m,In,1992,s,ligue-1
-AS Monaco,Sylvain Legwinski,19,France,Left Midfield,LM,-,Racing Club Vichy,France,Free transfer,In,1992,s,ligue-1
-AS Monaco,Franck Dumas,24,France,Centre-Back,CB,-,SM Caen,France,?,In,1992,s,ligue-1
-AS Monaco,Denis Schaer,29,France,Midfielder,Midfielder,-,Annecy FC,France,?,In,1992,s,ligue-1
-AS Monaco,Christian Perez,29,France,Attacking Midfield,AM,-,Paris Saint-Germain,France,?,In,1992,s,ligue-1
-AS Monaco,Luiz Henrique,23,Brazil,Central Midfield,CM,-,Sociedade Esportiva Palmeiras,Brazil,?,In,1992,s,ligue-1
-AS Monaco,Stjepan Andrijasevic,25,Croatia,Right Midfield,RM,-,HNK Hajduk Split,Croatia,?,In,1992,s,ligue-1
-Olympique Marseille,Rudi Völler,32,Germany,Centre-Forward,CF,-,AS Roma,Italy,?,In,1992,s,ligue-1
-Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,AS Cannes,France,?,In,1992,s,ligue-1
-Olympique Marseille,Jean-Jacques Eydelie,26,France,Defensive Midfield,DM,-,FC Nantes,France,?,In,1992,s,ligue-1
-Olympique Marseille,Marcel Desailly,23,France,Centre-Back,CB,-,FC Nantes,France,?,In,1992,s,ligue-1
-Olympique Marseille,Jean-Christophe Thomas,27,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1
-Olympique Marseille,Fabien Barthez,21,France,Goalkeeper,GK,-,FC Toulouse,France,?,In,1992,s,ligue-1
-Olympique Marseille,Rafael Martin Vazquez,26,Spain,Attacking Midfield,AM,-,Torino Calcio,Italy,?,In,1992,s,ligue-1
-Olympique Marseille,Jean-Marc Ferreri,29,France,Attacking Midfield,AM,-,AJ Auxerre,France,?,In,1992,s,ligue-1
-Olympique Marseille,Alen Boksic,22,Croatia,Centre-Forward,CF,-,AS Cannes,France,"End of loanJun 30, 1992",In,1992,s,ligue-1
-Olympique Marseille,Dragan Stojkovic,27,Serbia,Attacking Midfield,AM,-,Verona FC,Italy,"End of loanJun 30, 1992",In,1992,s,ligue-1
-AJ Auxerre,Moussa Saïb,23,Algeria,Left Midfield,LM,-,JS Kabylie,Algeria,£34Th.,In,1992,s,ligue-1
-AJ Auxerre,Frank Verlaat,24,Netherlands,Centre-Back,CB,-,FC Lausanne-Sport,Switzerland,?,In,1992,s,ligue-1
-AJ Auxerre,Thierry Bonalair,26,France,Left-Back,LB,-,FC Nantes,France,?,In,1992,s,ligue-1
-AJ Auxerre,Lilian Laslandes,20,France,Centre-Forward,CF,-,Association sportive Saint-Seurin,France,?,In,1992,s,ligue-1
-AJ Auxerre,Jacques-Désiré Périatambée,16,Mauritius,Defensive Midfield,DM,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1
-AJ Auxerre,Franck Rabarivony,21,Madagascar,Left-Back,LB,-,AJ Auxerre B,France,-,In,1992,s,ligue-1
-AJ Auxerre,Laurent Ciechelski,21,France,Right-Back,RB,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1
-AJ Auxerre,Bernard Diomède,18,France,Left Winger,LW,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1
-AJ Auxerre,Fabien Cool,19,France,Goalkeeper,GK,-,AJ Auxerre B,France,-,In,1992,s,ligue-1
-FC Metz,Anthony Baffoe,27,Ghana,Attacking Midfield,AM,-,Fortuna Düsseldorf,Germany,Free transfer,In,1992,s,ligue-1
-FC Metz,Robert Pirès,18,France,Left Midfield,LM,-,Stade Reims B,France,Free transfer,In,1992,s,ligue-1
-FC Metz,David Zitelli,23,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1
-FC Metz,Olivier Ichoua,21,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,In,1992,s,ligue-1
-FC Metz,Éric Bertrand,28,France,Defender,Defender,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1
-FC Metz,Mohamed Chaouch,25,Morocco,Centre-Forward,CF,-,FC Istres Ville Nouvelle ,France,?,In,1992,s,ligue-1
-FC Metz,Franck Meyrignac,21,France,Defender,Defender,-,US Orléans 45,France,?,In,1992,s,ligue-1
-FC Metz,François Darcy,24,France,Goalkeeper,GK,-,Besançon Racing Club ,France,?,In,1992,s,ligue-1
-FC Metz,Jean-Phillippe Séchet,24,France,Central Midfield,CM,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1
-FC Metz,Frédéric Hantz,26,France,Midfielder,Midfielder,-,FC Istres Ville Nouvelle ,France,?,In,1992,s,ligue-1
-FC Metz,David Terrier,18,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1
-FC Metz,Christophe Paul,20,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1
-FC Metz,Didier Lang,21,France,Defensive Midfield,DM,-,FC Metz B,France,-,In,1992,s,ligue-1
-FC Metz,Christophe Boulard,19,France,Midfielder,Midfielder,-,FC Metz B,France,-,In,1992,s,ligue-1
-FC Metz,Dario Saint-Hilaire,20,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1
-FC Toulouse,Dominique Arribagé,21,France,Centre-Back,CB,-,AS Muret,France,?,In,1992,s,ligue-1
-FC Toulouse,Éric Lada,26,France,Forward,Forward,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-FC Toulouse,Vaclav Nemecek,25,Czech Republic,Central Midfield,CM,-,AC Sparta Praha,Czech Republic,?,In,1992,s,ligue-1
-FC Toulouse,Serge Romano,28,France,Midfielder,Midfielder,-,FC Metz,France,?,In,1992,s,ligue-1
-FC Toulouse,Philippe Lafon,21,France,Goalkeeper,GK,-,Racing 92,France,?,In,1992,s,ligue-1
-FC Toulouse,Rémy Loret,19,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1
-FC Toulouse,Alain Casanova,30,France,Goalkeeper,GK,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-FC Toulouse,Olivier Frapolli,20,France,Defender,Defender,-,FC Toulouse B,France,-,In,1992,s,ligue-1
-FC Toulouse,Vincent Candela,18,France,Left-Back,LB,-,FC Toulouse B,France,-,In,1992,s,ligue-1
-FC Toulouse,Olivier Pédémas,23,France,Goalkeeper,GK,-,Rodez AF,France,"End of loanJun 30, 1992",In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Éric Roy,24,France,Defensive Midfield,DM,-,OGC Nice,France,Free transfer,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Frédéric Martin,23,France,Right-Back,RB,-,OGC Nice,France,Loan,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Patrice Eyraud,24,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Pascal Danieri,16,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Daniel Xuereb,32,France,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Cédric Charlet,19,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Frédéric Brando,18,France,Central Midfield,CM,-,Sporting Club de Toulon U19,France,-,In,1992,s,ligue-1
-Paris Saint-Germain,George Weah,25,Liberia,Centre-Forward,CF,-,AS Monaco,France,£5.85m,In,1992,s,ligue-1
-Paris Saint-Germain,Bernard Lama,29,France,Goalkeeper,GK,-,RC Lens,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Vincent Guérin,26,France,Central Midfield,CM,-,HSC Montpellier,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Francois Calderaro,28,France,Centre-Forward,CF,-,FC Metz,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Jean-Luc Sassus,29,France,Right-Back,RB,-,AS Cannes,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Alain Roche,24,France,Centre-Back,CB,-,AJ Auxerre,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,David Ginola,25,France,Left Winger,LW,-,Stade Brest 29,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Joël Cloarec,26,France,Forward,Forward,-,LB Châteauroux,France,?,In,1992,s,ligue-1
-Paris Saint-Germain,Djamel Belmadi,16,Algeria,Right Midfield,RM,-,Paris Saint-Germain U19,France,-,In,1992,s,ligue-1
-AS Saint-Étienne,Miklos Molnar,22,Denmark,Centre-Forward,CF,-,Servette FC,Switzerland,?,In,1992,s,ligue-1
-AS Saint-Étienne,Robin Huc,27,France,Goalkeeper,GK,-,FC Toulouse,France,?,In,1992,s,ligue-1
-AS Saint-Étienne,Stéphane Santini,19,France,Right Midfield,RM,-,,Unknown,?,In,1992,s,ligue-1
-AS Saint-Étienne,Gérald Passi,28,France,Attacking Midfield,AM,-,AS Monaco,France,?,In,1992,s,ligue-1
-AS Saint-Étienne,Pascal Despeyroux,27,France,Defensive Midfield,DM,-,FC Toulouse,France,?,In,1992,s,ligue-1
-RC Strasbourg Alsace,Michael Hughes,20,Northern Ireland,Attacking Midfield,AM,-,Manchester City,England,£450Th.,In,1992,s,ligue-1
-RC Strasbourg Alsace,Tomasz Frankowski,17,Poland,Centre-Forward,CF,-,Jagiellonia Bialystok,Poland,£180Th.,In,1992,s,ligue-1
-RC Strasbourg Alsace,Martin Djetou,17,France,Centre-Back,CB,-,US Créteil-Lusitanos B,France,Free transfer,In,1992,s,ligue-1
-RC Strasbourg Alsace,Pascal Baills,27,France,Right-Back,RB,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-RC Strasbourg Alsace,Franck Mary,28,France,Goalkeeper,GK,-,Olympique Saint-Quentin,France,?,In,1992,s,ligue-1
-RC Strasbourg Alsace,Frank Farina,27,Australia,Forward,Forward,-,AS Bari,Italy,?,In,1992,s,ligue-1
-RC Strasbourg Alsace,Ali Bouafia,27,Algeria,Left Winger,LW,-,Olympique Lyon,France,?,In,1992,s,ligue-1
-RC Strasbourg Alsace,Yannick Rott,17,France,Left-Back,LB,-,Racing Strasbourg B,France,-,In,1992,s,ligue-1
-RC Strasbourg Alsace,Laurent Weber,19,France,Goalkeeper,GK,-,Racing Strasbourg U19,France,-,In,1992,s,ligue-1
-RC Strasbourg Alsace,Olivier Dacourt,17,France,Defensive Midfield,DM,-,Racing Strasbourg U19,France,-,In,1992,s,ligue-1
-AC Le Havre,Gia Guruli,28,Georgia,Centre-Forward,CF,-,GKS Katowice,Poland,?,In,1992,s,ligue-1
-AC Le Havre,Jean-Roch Testa,27,France,Forward,Forward,-,FC Gueugnon,France,?,In,1992,s,ligue-1
-AC Le Havre,Didier Angibeaud,17,Cameroon,Forward,Forward,-,,Unknown,?,In,1992,s,ligue-1
-AC Le Havre,Michel Rio,29,France,Attacking Midfield,AM,-,SM Caen,France,?,In,1992,s,ligue-1
-AC Le Havre,Christophe Revault,20,France,Goalkeeper,GK,-,AC Le Havre B,France,-,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Pavlo Yakovenko,27,Ukraine,Defensive Midfield,DM,-,Dynamo Kyiv,Ukraine,Free transfer,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Benjamin Clément,26,France,Defensive Midfield,DM,-,AS Monaco,France,?,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,André Blanc,25,France,Midfielder,Midfielder,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Bertrand Piton,21,France,Defender,Defender,-,AS Red Star 93,France,?,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Frédéric Darras,25,France,Right-Back,RB,-,AJ Auxerre,France,?,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Patrice Garande,31,France,Centre-Forward,CF,-,AC Le Havre,France,?,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Stéphane Cassard,19,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard B,France,-,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Thierry Couppé,21,France,Midfielder,Midfielder,-,FC Sochaux-Montbéliard U19,France,-,In,1992,s,ligue-1
-FC Sochaux-Montbéliard,Jean-Marc Frotey,23,France,Forward,Forward,-,FC Sochaux-Montbéliard B,France,-,In,1992,s,ligue-1
-RC Lens,Guillaume Warmuz,22,France,Goalkeeper,GK,-,CS Louhans-Cuiseaux 71,France,?,In,1992,s,ligue-1
-RC Lens,Nasko Sirakov,30,Bulgaria,Attacking Midfield,AM,-,Levski Sofia,Bulgaria,Loan,In,1992,s,ligue-1
-RC Lens,Franck Raviot,18,France,Goalkeeper,GK,-,INF Clairefontaine,France,?,In,1992,s,ligue-1
-RC Lens,Emmanuel Hutteau,23,France,Left-Back,LB,-,FC Bourges,France,?,In,1992,s,ligue-1
-RC Lens,Jean-François Péron,26,France,Left Midfield,LM,-,RC Strasbourg Alsace,France,?,In,1992,s,ligue-1
-RC Lens,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,s,ligue-1
-RC Lens,Didier Dubois,25,France,Centre-Back,CB,-,USL Dunkerque,France,?,In,1992,s,ligue-1
-RC Lens,Bernard Héréson,23,Guadeloupe,Right-Back,RB,-,Paris Saint-Germain,France,?,In,1992,s,ligue-1
-RC Lens,Ryszard Tarasiewicz,30,Poland,Central Midfield,CM,-,AS Nancy-Lorraine,France,,In,1992,s,ligue-1
-HSC Montpellier,Olivier Pickeu,22,France,Centre-Forward,CF,-,SM Caen,France,?,In,1992,s,ligue-1
-HSC Montpellier,Franck Rizzetto,21,France,Attacking Midfield,AM,-,Olympique Alès,France,?,In,1992,s,ligue-1
-HSC Montpellier,Pierre-Yves Bricon,28,France,Defender,Defender,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1
-HSC Montpellier,Aljosa Asanovic,26,Croatia,Central Midfield,CM,-,AS Cannes,France,?,In,1992,s,ligue-1
-HSC Montpellier,Joël Fréchet,26,France,Midfielder,Midfielder,-,SCO Angers,France,?,In,1992,s,ligue-1
-HSC Montpellier,Jérôme Bonnissel,19,France,Left-Back,LB,-,HSC Montpellier B,France,-,In,1992,s,ligue-1
-HSC Montpellier,Christophe Sanchez,19,France,Centre-Forward,CF,-,HSC Montpellier B,France,-,In,1992,s,ligue-1
-HSC Montpellier,Alain Bonnafous,23,France,Centre-Back,CB,-,Olympique Alès,France,"End of loanJun 30, 1992",In,1992,s,ligue-1
-FC Nantes,Serge Le Dizet,28,France,Right-Back,RB,-,Stade Rennais FC,France,?,In,1992,s,ligue-1
-FC Nantes,José Dalmao,22,Uruguay,Forward,Forward,-,ES La Rochelle,France,?,In,1992,s,ligue-1
-FC Nantes,Fabien Debotté,28,France,Defensive Midfield,DM,-,SM Caen,France,?,In,1992,s,ligue-1
-FC Nantes,Anthony Martins,21,France,Midfielder,Midfielder,-,FC Nantes B,France,-,In,1992,s,ligue-1
-FC Nantes,Claude Makélélé,19,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,1992,s,ligue-1
-Olympique Lyon,James Debbah,22,Liberia,Centre-Forward,CF,-,AS Monaco,France,Free transfer,In,1992,s,ligue-1
-Olympique Lyon,Samassi Abou,19,France,Centre-Forward,CF,-,FC Martigues,France,?,In,1992,s,ligue-1
-Olympique Lyon,Laurent Delamontagne,26,France,Centre-Forward,CF,-,Stade Rennais FC,France,?,In,1992,s,ligue-1
-Olympique Lyon,Torben Frank,24,Denmark,Centre-Forward,CF,-,Lyngby BK,Denmark,?,In,1992,s,ligue-1
-Olympique Lyon,Patrice Ferri,28,France,Centre-Back,CB,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1
-Olympique Lyon,Franck Gava,22,France,Left Midfield,LM,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1
-Olympique Lyon,Éric Péan,28,France,Sweeper,SW,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1
-Olympique Lyon,Maxence Flachez,19,France,Centre-Back,CB,-,Olympique Lyon B,France,-,In,1992,s,ligue-1
-Olympique Lyon,Alain Colacicco,19,France,Defender,Defender,-,Olympique Lyon B,France,-,In,1992,s,ligue-1
-Olympique Lyon,Florian Maurice,18,France,Centre-Forward,CF,-,Olympique Lyon U19,France,-,In,1992,s,ligue-1
-LOSC Lille,Pascal Nouma,20,France,Centre-Forward,CF,-,Paris Saint-Germain,France,Loan,In,1992,s,ligue-1
-LOSC Lille,José Bray,27,France,Midfielder,Midfielder,-,AS Cannes,France,?,In,1992,s,ligue-1
-LOSC Lille,Edgar Borges,22,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,In,1992,s,ligue-1
-LOSC Lille,Samba N'Diaye,19,Senegal,Centre-Forward,CF,-,FC Metz B,France,Loan,In,1992,s,ligue-1
-LOSC Lille,Walquir Mota,24,Brazil,Forward,Forward,-,FC Tours,France,?,In,1992,s,ligue-1
-LOSC Lille,Carl Tourenne,20,France,Defensive Midfield,DM,-,LOSC Lille B,France,-,In,1992,s,ligue-1
-LOSC Lille,Antoine Sibierski,17,France,Attacking Midfield,AM,-,LOSC Lille U19,France,-,In,1992,s,ligue-1
-LOSC Lille,Joël Dolignon,19,France,Defender,Defender,-,LOSC Lille B,France,-,In,1992,s,ligue-1
-LOSC Lille,Oumar Dieng,19,France,Centre-Back,CB,-,CS Louhans-Cuiseaux 71,France,"End of loanJun 30, 1992",In,1992,s,ligue-1
-Nîmes Olympique,Didier Monczuk,31,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Laurent Blanc,26,France,Sweeper,SW,-,SSC Napoli,Italy,?,In,1992,s,ligue-1
-Nîmes Olympique,Stéphan Lerda,21,France,Centre-Back,CB,-,Olympique avignonnais,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Philippe Mazzuchetti,25,France,Attacking Midfield,AM,-,OGC Nice,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Eric Allibert,16,France,Goalkeeper,GK,-,,Unknown,?,In,1992,s,ligue-1
-Nîmes Olympique,Didier Martel,20,France,Forward,Forward,-,AJ Auxerre B,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Christophe Buffat,22,France,Forward,Forward,-,OGC Nice B,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Camille Derramond,18,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1
-Nîmes Olympique,Dusan Tittel,25,Slovakia,Centre-Back,CB,-,Slovan Bratislava,Slovakia,?,In,1992,s,ligue-1
-Nîmes Olympique,Nicolas Marx,18,France,Left Winger,LW,-,,Unknown,?,In,1992,s,ligue-1
-Nîmes Olympique,Ludovic Gros,19,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1
-Nîmes Olympique,Franck Lucchesi,28,France,Left-Back,LB,-,HSC Montpellier,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Gilles Leclerc,25,France,Centre-Back,CB,-,Perpignan FC,France,?,In,1992,s,ligue-1
-Nîmes Olympique,Antoine Préget,19,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1
-Nîmes Olympique,Stéphane Flory,21,France,Goalkeeper,GK,-,Nîmes Olympique B,France,-,In,1992,s,ligue-1
-Nîmes Olympique,Yannick Liron,18,France,Defender,Defender,-,Nîmes Olympique U19,France,-,In,1992,s,ligue-1
-Nîmes Olympique,Hassan Kachloul,19,Morocco,Left Midfield,LM,-,Nîmes Olympique B,France,-,In,1992,s,ligue-1
-SM Caen,Stéphane Dedebant,21,France,Central Midfield,CM,-,,Unknown,?,In,1992,s,ligue-1
-SM Caen,Christophe Duboscq,25,France,Midfielder,Midfielder,-,US Avranches,France,?,In,1992,s,ligue-1
-SM Caen,Faouzi Rouissi,21,Tunisia,Centre-Forward,CF,-,Club Africain Tunis,Tunisia,?,In,1992,s,ligue-1
-SM Caen,Gabriel Calderón,32,Argentina,Attacking Midfield,AM,-,FC Sion,Switzerland,?,In,1992,s,ligue-1
-SM Caen,Clément Garcia,24,France,Forward,Forward,-,HSC Montpellier,France,Loan,In,1992,s,ligue-1
-SM Caen,Wally Dieng,18,France,Defender,Defender,-,SM Caen B,France,-,In,1992,s,ligue-1
-SM Caen,Stéphane Lièvre,19,France,Left-Back,LB,-,SM Caen U19,France,-,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Laurent Dufresne,20,France,Centre-Forward,CF,-,RUFC Calais,France,Free transfer,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Arnold Oosterveer,29,Netherlands,Centre-Back,CB,-,Stade Rennais FC,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Yves Bouger,22,France,Left-Back,LB,-,FC Lorient,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Dominique Corroyer,27,France,Centre-Forward,CF,-,AS Saint-Étienne,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Jorge Burruchaga,29,Argentina,Attacking Midfield,AM,-,FC Nantes,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Philippe Gaillot,27,France,Left-Back,LB,-,FC Metz,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Thierry Fernier,27,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Kálmán Kovács,26,Hungary,Centre-Forward,CF,-,Kispest–Honvéd FC,Hungary,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Christophe Robert,28,France,Left Winger,LW,-,AS Monaco,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Sylvain Matrisciano,28,France,Goalkeeper,GK,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Thierry Cygan,17,France,Centre-Back,CB,-,FC Valenciennes U19,France,-,In,1992,s,ligue-1
-FC Girondins Bordeaux,Jean-Michel Lavaud,23,France,Forward,Forward,-,Trélissac FC,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Jean-Pierre Bade,32,France,Left-Back,LB,-,JS Saint-Pierroise,Réunion,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Philippe Lalanne,26,France,Midfielder,Midfielder,-,Association sportive d'origine arménienne de Valence,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Rainer Ernst,30,Germany,Midfielder,Midfielder,-,AS Cannes,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Patrice Lestage,30,France,Left-Back,LB,-,AS Cannes,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Philippe Raschke,24,France,Right-Back,RB,-,AS Cannes,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Philippe Fargeon,28,France,Second Striker,SS,-,FC Chiasso,Switzerland,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Thierry Fernier,27,France,Attacking Midfield,AM,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Jean-Marc Ferratge,33,France,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1
-FC Girondins Bordeaux,Pascal Monbrun,24,France,Midfielder,Midfielder,-,FC Girondins Bordeaux B,France,-,Out,1992,s,ligue-1
-AS Monaco,George Weah,25,Liberia,Centre-Forward,CF,-,Paris Saint-Germain,France,£5.85m,Out,1992,s,ligue-1
-AS Monaco,James Debbah,22,Liberia,Centre-Forward,CF,-,Olympique Lyon,France,Free transfer,Out,1992,s,ligue-1
-AS Monaco,Jimmy Algérino,20,France,Right-Back,RB,-,SAS Epinal,France,?,Out,1992,s,ligue-1
-AS Monaco,Roger Mendy,32,Senegal,Sweeper,SW,-,Delfino Pescara 1936,Italy,?,Out,1992,s,ligue-1
-AS Monaco,Benjamin Clément,26,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1
-AS Monaco,John Sivebaek,30,Denmark,Right-Back,RB,-,Delfino Pescara 1936,Italy,?,Out,1992,s,ligue-1
-AS Monaco,Gérald Passi,28,France,Attacking Midfield,AM,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1
-AS Monaco,Christophe Robert,28,France,Left Winger,LW,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1
-AS Monaco,Cyril Granon,20,France,Midfielder,Midfielder,-,FC Lorient,France,"End of loanJul 1, 1992",Out,1992,s,ligue-1
-AS Monaco,Christophe Métais,24,France,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,ligue-1
-Olympique Marseille,Jean-Pierre Papin,28,France,Centre-Forward,CF,-,Milan AC,Italy,£10.80m,Out,1992,s,ligue-1
-Olympique Marseille,Trevor Steven,28,England,Right Midfield,RM,-,Rangers FC,Scotland,£2.34m,Out,1992,s,ligue-1
-Olympique Marseille,Chris Waddle,31,England,Attacking Midfield,AM,-,Sheffield Wednesday,England,£1.35m,Out,1992,s,ligue-1
-Olympique Marseille,Marc Libbra,19,France,Centre-Forward,CF,-,FC Istres Ville Nouvelle ,France,Loan,Out,1992,s,ligue-1
-Olympique Marseille,Patrice Eyraud,24,France,Defensive Midfield,DM,-,Sporting Club de Toulon et du Var,France,?,Out,1992,s,ligue-1
-Olympique Marseille,Alain Boghossian,21,France,Central Midfield,CM,-,FC Istres Ville Nouvelle ,France,Loan,Out,1992,s,ligue-1
-Olympique Marseille,Pascal Baills,27,France,Right-Back,RB,-,RC Strasbourg Alsace,France,?,Out,1992,s,ligue-1
-Olympique Marseille,Éric Lada,26,France,Forward,Forward,-,FC Toulouse,France,?,Out,1992,s,ligue-1
-Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,RC Lens,France,?,Out,1992,s,ligue-1
-Olympique Marseille,Carlos Mozer,31,Brazil,Centre-Back,CB,-,SL Benfica,Portugal,?,Out,1992,s,ligue-1
-Olympique Marseille,Daniel Xuereb,32,France,Centre-Forward,CF,-,Sporting Club de Toulon et du Var,France,?,Out,1992,s,ligue-1
-Olympique Marseille,Alain Casanova,30,France,Goalkeeper,GK,-,FC Toulouse,France,?,Out,1992,s,ligue-1
-AJ Auxerre,Kevin Sharp,18,Canada,Left-Back,LB,-,Leeds United,England,£81Th.,Out,1992,s,ligue-1
-AJ Auxerre,Franco Vignola,25,France,Forward,Forward,-,EA Guingamp,France,Loan,Out,1992,s,ligue-1
-AJ Auxerre,Jean-Marc Ferreri,29,France,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1
-AJ Auxerre,Zbigniew Kaczmarek,30,Poland,Defensive Midfield,DM,-,EA Guingamp,France,?,Out,1992,s,ligue-1
-AJ Auxerre,Frédéric Darras,25,France,Right-Back,RB,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1
-AJ Auxerre,Alain Roche,24,France,Centre-Back,CB,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1
-FC Metz,Emmanuel Clément,20,France,Defensive Midfield,DM,-,SC Amiens,France,Loan,Out,1992,s,ligue-1
-FC Metz,Kwame Ayew,18,Ghana,Centre-Forward,CF,-,Al Ahli Sports Club,Qatar,?,Out,1992,s,ligue-1
-FC Metz,Philippe Gaillot,27,France,Left-Back,LB,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1
-FC Metz,David Hodgson,31,England,Centre-Forward,CF,-,Swansea City,Wales,?,Out,1992,s,ligue-1
-FC Metz,Yannick Stopyra,31,France,Centre-Forward,CF,-,FC Mulhouse Sud-Alsace,France,?,Out,1992,s,ligue-1
-FC Metz,Thierry Pauk,26,France,Defender,Defender,-,FC Famalicão,Portugal,?,Out,1992,s,ligue-1
-FC Metz,Francois Calderaro,28,France,Centre-Forward,CF,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1
-FC Metz,Serge Romano,28,France,Midfielder,Midfielder,-,FC Toulouse,France,?,Out,1992,s,ligue-1
-FC Metz,François Darcy,25,France,Goalkeeper,GK,-,AS Poissy,France,?,Out,1992,s,ligue-1
-FC Metz,Didier Casini,29,France,Right-Back,RB,-,,Retired,-,Out,1992,s,ligue-1
-FC Metz,Philippe Schuth,25,France,Goalkeeper,GK,-,,Without Club,-,Out,1992,s,ligue-1
-FC Metz,Dragoljub Brnovic,28,Montenegro,Midfielder,Midfielder,-,,Without Club,-,Out,1992,s,ligue-1
-FC Metz,Michel Ettorre,34,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1
-FC Metz,Philippe Hinschberger,32,France,Attacking Midfield,AM,-,,Career break,-,Out,1992,s,ligue-1
-FC Toulouse,Fabien Barthez,21,France,Goalkeeper,GK,-,Olympique Marseille,France,?,Out,1992,s,ligue-1
-FC Toulouse,Robin Huc,27,France,Goalkeeper,GK,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1
-FC Toulouse,Leonardo Rodríguez,25,Argentina,Attacking Midfield,AM,-,Atalanta BC,Italy,?,Out,1992,s,ligue-1
-FC Toulouse,Alberto Márcico,32,Argentina,Second Striker,SS,-,Club Atlético Boca Juniors,Argentina,?,Out,1992,s,ligue-1
-FC Toulouse,Viliam Hyravy,29,Slovakia,Attacking Midfield,AM,-,FC Banik Ostrava,Czech Republic,?,Out,1992,s,ligue-1
-FC Toulouse,Pascal Despeyroux,27,France,Defensive Midfield,DM,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1
-FC Toulouse,Frederic Pons,30,France,Defender,Defender,-,Association sportive d'origine arménienne de Valence,France,?,Out,1992,s,ligue-1
-FC Toulouse,Jean-Luc Ruty,32,France,Centre-Back,CB,-,,Retired,-,Out,1992,s,ligue-1
-FC Toulouse,Franck Tiriakian,21,France,Forward,Forward,-,FC Toulouse B,France,-,Out,1992,s,ligue-1
-FC Toulouse,Norbert Almendoz,22,France,Forward,Forward,-,,Retired,-,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Éric Péan,28,France,Sweeper,SW,-,Olympique Lyon,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,André Blanc,25,France,Midfielder,Midfielder,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Jean-Paul Péronin,21,France,Defender,Defender,-,FC Martigues,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Jacques Songo'o,28,Cameroon,Goalkeeper,GK,-,Le Mans Union Club 72,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Patrice Ferri,28,France,Centre-Back,CB,-,Olympique Lyon,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Bernard Rodriguez,28,France,Midfielder,Midfielder,-,,Unknown,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Dumè Murati,32,France,Goalkeeper,GK,-,CA Bastia,France,?,Out,1992,s,ligue-1
-Sporting Club de Toulon et du Var,Francois Zahoui,30,Cote d'Ivoire,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1
-Paris Saint-Germain,Patrick M'Boma,21,Cameroon,Centre-Forward,CF,-,LB Châteauroux,France,Loan,Out,1992,s,ligue-1
-Paris Saint-Germain,Pascal Nouma,20,France,Centre-Forward,CF,-,LOSC Lille,France,Loan,Out,1992,s,ligue-1
-Paris Saint-Germain,Jean-Luc Vasseur,23,France,Right-Back,RB,-,Stade Rennais FC,France,?,Out,1992,s,ligue-1
-Paris Saint-Germain,Liazid Sandjak,25,Algeria,Second Striker,SS,-,OGC Nice,France,?,Out,1992,s,ligue-1
-Paris Saint-Germain,Bernard Héréson,23,Guadeloupe,Right-Back,RB,-,RC Lens,France,?,Out,1992,s,ligue-1
-Paris Saint-Germain,Christian Perez,29,France,Attacking Midfield,AM,-,AS Monaco,France,?,Out,1992,s,ligue-1
-Paris Saint-Germain,Joël Bats,35,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1
-Paris Saint-Germain,Oumar Sène,32,Senegal,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1
-Paris Saint-Germain,Dominique Leclercq,34,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1
-AS Saint-Étienne,Pierre Haon,25,France,Defensive Midfield,DM,-,Perpignan FC,France,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Dominique Corroyer,27,France,Centre-Forward,CF,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Franck Solacroup,21,France,Midfielder,Midfielder,-,Toulouse Fontaines Club,France,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Gilles Giuliano,21,France,Centre-Back,CB,-,,Unknown,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Fabrice Mège,27,France,Attacking Midfield,AM,-,OGC Nice,France,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Gilbert Ceccarelli,29,France,Goalkeeper,GK,-,Olympique Alès,France,?,Out,1992,s,ligue-1
-AS Saint-Étienne,Thierry Courault,27,France,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,ligue-1
-RC Strasbourg Alsace,Jean-François Péron,26,France,Left Midfield,LM,-,RC Lens,France,?,Out,1992,s,ligue-1
-RC Strasbourg Alsace,Serge Jenner,32,France,Centre-Back,CB,-,FC Haguenau,France,?,Out,1992,s,ligue-1
-RC Strasbourg Alsace,Cyriaque Didaux,32,France,Midfielder,Midfielder,-,SAS Epinal,France,?,Out,1992,s,ligue-1
-RC Strasbourg Alsace,Olivier Dall'Oglio,28,France,Right-Back,RB,-,Perpignan FC,France,?,Out,1992,s,ligue-1
-RC Strasbourg Alsace,Didier Monczuk,31,France,Centre-Forward,CF,-,Nîmes Olympique,France,?,Out,1992,s,ligue-1
-RC Strasbourg Alsace,José Guerra,27,France,Forward,Forward,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1
-AC Le Havre,Vaclav Danek,31,Czech Republic,Centre-Forward,CF,-,FC Wacker Innsbruck,Austria,?,Out,1992,s,ligue-1
-AC Le Havre,Patrice Garande,31,France,Centre-Forward,CF,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1
-AC Le Havre,Graham Rix,34,England,Left Midfield,LM,-,Dundee FC,Scotland,?,Out,1992,s,ligue-1
-AC Le Havre,Hubert Castets,20,France,Centre-Back,CB,-,AC Le Havre B,France,-,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Mickaël Madar,24,France,Centre-Forward,CF,-,AS Cannes,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Christophe Gardié,27,France,Goalkeeper,GK,-,CS Louhans-Cuiseaux 71,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Philippe Lucas,28,France,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Pierre-Yves Bricon,28,France,Defender,Defender,-,HSC Montpellier,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Laurent Croci,27,France,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Jean-Christophe Thomas,27,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Zlatko Vujovic,33,Croatia,Centre-Forward,CF,-,OGC Nice,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Eric Dufournet,23,France,Centre-Back,CB,-,CS Louhans-Cuiseaux 71,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Chérif Oudjani,27,Algeria,Centre-Forward,CF,-,AS Beauvais Oise,France,?,Out,1992,s,ligue-1
-FC Sochaux-Montbéliard,Lobo Carrasco,33,Spain,Right Winger,RW,-,,Retired,-,Out,1992,s,ligue-1
-RC Lens,Bernard Lama,29,France,Goalkeeper,GK,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1
-RC Lens,Christophe Baïocco,26,France,Goalkeeper,GK,-,S. O. Châtellerault,France,?,Out,1992,s,ligue-1
-RC Lens,Stéphane Gilet,28,France,Defender,Defender,-,Quimper Cornouaille FC,France,?,Out,1992,s,ligue-1
-RC Lens,David François,22,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1
-RC Lens,Shalom Tikva,27,Israel,Attacking Midfield,AM,-,Boom FC,Belgium,?,Out,1992,s,ligue-1
-RC Lens,Anicet Saussé,23,France,Defender,Defender,-,FC Martigues,France,Loan,Out,1992,s,ligue-1
-RC Lens,Boban Bozovic,28,Bosnia-Herzegovina,Midfielder,Midfielder,-,FC Istres Ville Nouvelle ,France,?,Out,1992,s,ligue-1
-RC Lens,Jules Bocandé,33,Senegal,Centre-Forward,CF,-,KSC Eendracht Aalst,Belgium,?,Out,1992,s,ligue-1
-RC Lens,Patrice Zeré,21,Cote d'Ivoire,Left-Back,LB,-,Union sportive Créteil,France,?,Out,1992,s,ligue-1
-RC Lens,Pascal Peltier,30,France,Attacking Midfield,AM,-,Racing Club d'Arras,France,?,Out,1992,s,ligue-1
-RC Lens,Franck Toffard,22,France,Defender,Defender,-,,Unknown,?,Out,1992,s,ligue-1
-RC Lens,Nasko Sirakov,31,Bulgaria,Attacking Midfield,AM,-,Levski Sofia,Bulgaria,"End of loanJun 30, 1993",Out,1992,s,ligue-1
-HSC Montpellier,Vincent Guérin,26,France,Central Midfield,CM,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1
-HSC Montpellier,Franck Lucchesi,28,France,Left-Back,LB,-,Nîmes Olympique,France,?,Out,1992,s,ligue-1
-HSC Montpellier,François Lemasson,28,France,Goalkeeper,GK,-,AS Cannes,France,?,Out,1992,s,ligue-1
-HSC Montpellier,Clément Garcia,24,France,Forward,Forward,-,SM Caen,France,Loan,Out,1992,s,ligue-1
-HSC Montpellier,Stéphane Blondeau,24,France,Right-Back,RB,-,FC Martigues,France,Loan,Out,1992,s,ligue-1
-HSC Montpellier,Régis Brouard,25,France,Attacking Midfield,AM,-,FC Bourges,France,?,Out,1992,s,ligue-1
-HSC Montpellier,Nikolay Todorov,27,Bulgaria,Midfielder,Midfielder,-,AS Cannes,France,?,Out,1992,s,ligue-1
-HSC Montpellier,Alain Bonnafous,23,France,Centre-Back,CB,-,FC Chamois Niort,France,?,Out,1992,s,ligue-1
-HSC Montpellier,Laurent Vacher,19,France,Defender,Defender,-,HSC Montpellier B,France,-,Out,1992,s,ligue-1
-FC Nantes,Marcel Desailly,23,France,Centre-Back,CB,-,Olympique Marseille,France,?,Out,1992,s,ligue-1
-FC Nantes,Jean-Jacques Eydelie,26,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1
-FC Nantes,Jorge Burruchaga,29,Argentina,Attacking Midfield,AM,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1
-FC Nantes,Thierno Youm,32,Senegal,Forward,Forward,-,Esperance Tunis,Tunisia,?,Out,1992,s,ligue-1
-FC Nantes,Johnny Mölby,23,Denmark,Central Midfield,CM,-,Borussia Mönchengladbach,Germany,?,Out,1992,s,ligue-1
-FC Nantes,Thierry Bonalair,26,France,Left-Back,LB,-,AJ Auxerre,France,?,Out,1992,s,ligue-1
-FC Nantes,Joël Henry,30,France,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1
-Olympique Lyon,Thomas Pfannkuch,22,Germany,Centre-Back,CB,-,Eintracht Braunschweig,Germany,Free transfer,Out,1992,s,ligue-1
-Olympique Lyon,Ali Bouafia,27,Algeria,Left Winger,LW,-,RC Strasbourg Alsace,France,?,Out,1992,s,ligue-1
-Olympique Lyon,Jean-Marc Knapp,29,France,Centre-Back,CB,-,SC Amiens,France,?,Out,1992,s,ligue-1
-Olympique Lyon,Pierre Chavrondier,20,France,Midfielder,Midfielder,-,FC Martigues,France,Loan,Out,1992,s,ligue-1
-Olympique Lyon,Stéphane Roche,21,France,Central Midfield,CM,-,FC Martigues,France,?,Out,1992,s,ligue-1
-Olympique Lyon,Laurent Lassagne,26,France,Defender,Defender,-,SC Amiens,France,?,Out,1992,s,ligue-1
-Olympique Lyon,Aziz Bouderbala,31,Morocco,Attacking Midfield,AM,-,Estoril Praia,Portugal,?,Out,1992,s,ligue-1
-Olympique Lyon,Milos Bursac,27,Serbia,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1992,s,ligue-1
-Olympique Lyon,Alain Baré,25,France,Forward,Forward,-,,Unknown,?,Out,1992,s,ligue-1
-Olympique Lyon,Alim Ben Mabrouk,32,Algeria,Defensive Midfield,DM,-,,Retired,-,Out,1992,s,ligue-1
-LOSC Lille,Michael Mio-Nielsen,27,Denmark,Right-Back,RB,-,BK Frem,Denmark,?,Out,1992,s,ligue-1
-LOSC Lille,Victor Da Silva,30,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1
-LOSC Lille,Antoine Cervetti,30,France,Left-Back,LB,-,AS Porto Vecchio,France,?,Out,1992,s,ligue-1
-LOSC Lille,Racine Amadou Kané,32,Senegal,Defender,Defender,-,AS Beauvais Oise,France,?,Out,1992,s,ligue-1
-Nîmes Olympique,William Ayache,31,France,Left-Back,LB,-,AS Cannes,France,?,Out,1992,s,ligue-1
-Nîmes Olympique,Vincent Bracigliano,33,France,Midfielder,Midfielder,-,Vendée Luçon Football,France,?,Out,1992,s,ligue-1
-Nîmes Olympique,Fouzi Alidra,20,France,Midfielder,Midfielder,-,Olympique Alès,France,?,Out,1992,s,ligue-1
-Nîmes Olympique,Didier Combe,23,France,Left-Back,LB,-,Olympique Alès,France,Loan,Out,1992,s,ligue-1
-Nîmes Olympique,Frédéric Arpinon,23,France,Attacking Midfield,AM,-,OGC Nice,France,Loan,Out,1992,s,ligue-1
-Nîmes Olympique,Aboubacar Cissé,22,Cote d'Ivoire,Forward,Forward,-,OGC Nice,France,?,Out,1992,s,ligue-1
-SM Caen,Didier Thimothée,22,France,Centre-Forward,CF,-,AS Red Star 93,France,?,Out,1992,s,ligue-1
-SM Caen,Rubens,20,Brazil,Forward,Forward,-,,Unknown,?,Out,1992,s,ligue-1
-SM Caen,Franck Dumas,24,France,Centre-Back,CB,-,AS Monaco,France,?,Out,1992,s,ligue-1
-SM Caen,Fabien Debotté,28,France,Defensive Midfield,DM,-,FC Nantes,France,?,Out,1992,s,ligue-1
-SM Caen,Olivier Pickeu,22,France,Centre-Forward,CF,-,HSC Montpellier,France,?,Out,1992,s,ligue-1
-SM Caen,Michel Rio,29,France,Attacking Midfield,AM,-,AC Le Havre,France,?,Out,1992,s,ligue-1
-SM Caen,Jesper Olsen,31,Denmark,Left Midfield,LM,-,,Retired,-,Out,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Jean-Jacques Allais,23,France,Forward,Forward,-,USL Dunkerque,France,?,Out,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Eugéne Ekéké,32,Cameroon,Forward,Forward,-,US Maubeuge,France,?,Out,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Alain Garraud,30,France,Defender,Defender,-,FC Istres Ville Nouvelle ,France,?,Out,1992,s,ligue-1
-Union Sportive Valenciennes-Anzin Arrondissement,Gérard Buscher,32,France,Centre-Forward,CF,-,OGC Nice,France,?,Out,1992,s,ligue-1
-Olympique Marseille,Igor Dobrovolski,25,Russia,Attacking Midfield,AM,-,Genoa 1893,Italy,?,In,1992,w,ligue-1
-AS Saint-Étienne,Milan Luhovy,30,Slovakia,Centre-Forward,CF,-,Sporting Gijón,Spain,?,In,1992,w,ligue-1
-RC Lens,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,w,ligue-1
-FC Girondins Bordeaux,Arnór Gudjohnsen,31,Iceland,Centre-Forward,CF,-,BK Häcken,Sweden,?,Out,1992,w,ligue-1
-Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,RC Lens,France,?,Out,1992,w,ligue-1
-AJ Auxerre,Kevin Sharp,18,Canada,Left-Back,LB,-,Leeds United,England,£81Th.,Out,1992,w,ligue-1
-FC Metz,Claude Massa,30,France,Defensive Midfield,DM,-,EA Guingamp,France,?,Out,1992,w,ligue-1
-FC Toulouse,Olivier Pédémas,24,France,Goalkeeper,GK,-,Le Mans Union Club 72,France,?,Out,1992,w,ligue-1
-Sporting Club de Toulon et du Var,Jean-Louis Bérenguier,35,France,Right-Back,RB,-,,Retired,-,Out,1992,w,ligue-1
-AC Le Havre,Jean-Roch Testa,28,France,Forward,Forward,-,FC Martigues,France,Loan,Out,1992,w,ligue-1
-RC Lens,Francis Gillot,32,France,Centre-Back,CB,-,FC Mulhouse Sud-Alsace,France,?,Out,1992,w,ligue-1
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+FC Girondins Bordeaux,Zinédine Zidane,20,France,Attacking Midfield,AM,-,AS Cannes,France,£6.30m,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/zinedine-zidane/profil/spieler/3111
+FC Girondins Bordeaux,Márcio Santos,22,Brazil,Centre-Back,CB,-,Botafogo Rio de Janeiro,Brazil,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/marcio-santos/profil/spieler/16326
+FC Girondins Bordeaux,Christophe Vecchioni,23,France,Defender,Defender,-,US Marseille Endoume,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-vecchioni/profil/spieler/481462
+FC Girondins Bordeaux,Philippe Lucas,28,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-lucas/profil/spieler/168580
+FC Girondins Bordeaux,Michel Flos,27,France,Midfielder,Midfielder,-,US Marseille Endoume,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/michel-flos/profil/spieler/481461
+FC Girondins Bordeaux,Valdeir,24,Brazil,Second Striker,SS,-,Botafogo Rio de Janeiro,Brazil,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/valdeir/profil/spieler/229225
+FC Girondins Bordeaux,Laurent Croci,27,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-croci/profil/spieler/168570
+FC Girondins Bordeaux,Jean-Francois Daniel,28,France,Central Midfield,CM,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-francois-daniel/profil/spieler/376703
+FC Girondins Bordeaux,Eric Guérit,27,France,Defensive Midfield,DM,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-guerit/profil/spieler/409172
+AS Monaco,Jürgen Klinsmann,27,Germany,Centre-Forward,CF,-,FC Internazionale,Italy,£6.30m,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jurgen-klinsmann/profil/spieler/16980
+AS Monaco,Sylvain Legwinski,19,France,Left Midfield,LM,-,Racing Club Vichy,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-legwinski/profil/spieler/3815
+AS Monaco,Franck Dumas,24,France,Centre-Back,CB,-,SM Caen,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-dumas/profil/spieler/149391
+AS Monaco,Denis Schaer,29,France,Midfielder,Midfielder,-,Annecy FC,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/denis-schaer/profil/spieler/483176
+AS Monaco,Christian Perez,29,France,Attacking Midfield,AM,-,Paris Saint-Germain,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christian-perez/profil/spieler/101117
+AS Monaco,Luiz Henrique,23,Brazil,Central Midfield,CM,-,Sociedade Esportiva Palmeiras,Brazil,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/luiz-henrique/profil/spieler/227775
+AS Monaco,Stjepan Andrijasevic,25,Croatia,Right Midfield,RM,-,HNK Hajduk Split,Croatia,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stjepan-andrijasevic/profil/spieler/175963
+Olympique Marseille,Rudi Völler,32,Germany,Centre-Forward,CF,-,AS Roma,Italy,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/rudi-voller/profil/spieler/13775
+Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-omam-biyik/profil/spieler/102614
+Olympique Marseille,Jean-Jacques Eydelie,26,France,Defensive Midfield,DM,-,FC Nantes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-eydelie/profil/spieler/173685
+Olympique Marseille,Marcel Desailly,23,France,Centre-Back,CB,-,FC Nantes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/marcel-desailly/profil/spieler/3154
+Olympique Marseille,Jean-Christophe Thomas,27,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-christophe-thomas/profil/spieler/174458
+Olympique Marseille,Fabien Barthez,21,France,Goalkeeper,GK,-,FC Toulouse,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabien-barthez/profil/spieler/3289
+Olympique Marseille,Rafael Martin Vazquez,26,Spain,Attacking Midfield,AM,-,Torino Calcio,Italy,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/rafael-martin-vazquez/profil/spieler/79567
+Olympique Marseille,Jean-Marc Ferreri,29,France,Attacking Midfield,AM,-,AJ Auxerre,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-marc-ferreri/profil/spieler/117491
+Olympique Marseille,Alen Boksic,22,Croatia,Centre-Forward,CF,-,AS Cannes,France,"End of loanJun 30, 1992",In,1992,s,ligue-1,https://www.transfermarkt.co.uk/alen-boksic/profil/spieler/3571
+Olympique Marseille,Dragan Stojkovic,27,Serbia,Attacking Midfield,AM,-,Verona FC,Italy,"End of loanJun 30, 1992",In,1992,s,ligue-1,https://www.transfermarkt.co.uk/dragan-stojkovic/profil/spieler/102704
+AJ Auxerre,Moussa Saïb,23,Algeria,Left Midfield,LM,-,JS Kabylie,Algeria,£34Th.,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+AJ Auxerre,Frank Verlaat,24,Netherlands,Centre-Back,CB,-,FC Lausanne-Sport,Switzerland,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frank-verlaat/profil/spieler/541
+AJ Auxerre,Thierry Bonalair,26,France,Left-Back,LB,-,FC Nantes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-bonalair/profil/spieler/210380
+AJ Auxerre,Lilian Laslandes,20,France,Centre-Forward,CF,-,Association sportive Saint-Seurin,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/lilian-laslandes/profil/spieler/1450
+AJ Auxerre,Jacques-Désiré Périatambée,16,Mauritius,Defensive Midfield,DM,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jacques-desire-periatambee/profil/spieler/6256
+AJ Auxerre,Franck Rabarivony,21,Madagascar,Left-Back,LB,-,AJ Auxerre B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-rabarivony/profil/spieler/173062
+AJ Auxerre,Laurent Ciechelski,21,France,Right-Back,RB,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-ciechelski/profil/spieler/138302
+AJ Auxerre,Bernard Diomède,18,France,Left Winger,LW,-,AJ Auxerre U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-diomede/profil/spieler/3920
+AJ Auxerre,Fabien Cool,19,France,Goalkeeper,GK,-,AJ Auxerre B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabien-cool/profil/spieler/5415
+FC Metz,Anthony Baffoe,27,Ghana,Attacking Midfield,AM,-,Fortuna Düsseldorf,Germany,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/anthony-baffoe/profil/spieler/39162
+FC Metz,Robert Pirès,18,France,Left Midfield,LM,-,Stade Reims B,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/robert-pires/profil/spieler/3185
+FC Metz,Frédéric Hantz,26,France,Midfielder,Midfielder,-,FC Istres Ville Nouvelle ,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-hantz/profil/spieler/480360
+FC Metz,David Zitelli,23,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/david-zitelli/profil/spieler/79572
+FC Metz,Olivier Ichoua,21,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-ichoua/profil/spieler/174487
+FC Metz,Éric Bertrand,28,France,Defender,Defender,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-bertrand/profil/spieler/409176
+FC Metz,Thomas Kokkinis,20,France,Goalkeeper,GK,-,AS Red Star 93,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/thomas-kokkinis/profil/spieler/409175
+FC Metz,Mohamed Chaouch,25,Morocco,Centre-Forward,CF,-,FC Istres Ville Nouvelle ,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/mohamed-chaouch/profil/spieler/101886
+FC Metz,Franck Meyrignac,21,France,Defender,Defender,-,US Orléans 45,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-meyrignac/profil/spieler/358561
+FC Metz,François Darcy,24,France,Goalkeeper,GK,-,Besançon Racing Club ,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-darcy/profil/spieler/481421
+FC Metz,Jean-Phillippe Séchet,24,France,Central Midfield,CM,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-phillippe-sechet/profil/spieler/7257
+FC Metz,Dario Saint-Hilaire,20,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/dario-saint-hilaire/profil/spieler/485496
+FC Metz,David Terrier,18,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/david-terrier/profil/spieler/5735
+FC Metz,Christophe Paul,20,France,Defender,Defender,-,FC Metz B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-paul/profil/spieler/485497
+FC Metz,Didier Lang,21,France,Defensive Midfield,DM,-,FC Metz B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-lang/profil/spieler/152798
+FC Metz,Christophe Boulard,19,France,Midfielder,Midfielder,-,FC Metz B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-boulard/profil/spieler/347355
+FC Toulouse,Dominique Arribagé,21,France,Centre-Back,CB,-,AS Muret,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/dominique-arribage/profil/spieler/5661
+FC Toulouse,Éric Lada,26,France,Forward,Forward,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-lada/profil/spieler/180373
+FC Toulouse,Vaclav Nemecek,25,Czech Republic,Central Midfield,CM,-,AC Sparta Praha,Czech Republic,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/vaclav-nemecek/profil/spieler/103483
+FC Toulouse,Serge Romano,28,France,Midfielder,Midfielder,-,FC Metz,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/serge-romano/profil/spieler/174046
+FC Toulouse,Philippe Lafon,21,France,Goalkeeper,GK,-,Racing 92,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-lafon/profil/spieler/481422
+FC Toulouse,Rémy Loret,19,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/remy-loret/profil/spieler/168514
+FC Toulouse,Alain Casanova,30,France,Goalkeeper,GK,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-casanova/profil/spieler/467947
+FC Toulouse,Olivier Frapolli,20,France,Defender,Defender,-,FC Toulouse B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-frapolli/profil/spieler/149392
+FC Toulouse,Vincent Candela,18,France,Left-Back,LB,-,FC Toulouse B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/vincent-candela/profil/spieler/5939
+FC Toulouse,Olivier Pédémas,23,France,Goalkeeper,GK,-,Rodez AF,France,"End of loanJun 30, 1992",In,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-pedemas/profil/spieler/6269
+Sporting Club de Toulon et du Var,Éric Roy,24,France,Defensive Midfield,DM,-,OGC Nice,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-roy/profil/spieler/13847
+Sporting Club de Toulon et du Var,Frédéric Martin,23,France,Right-Back,RB,-,OGC Nice,France,Loan,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-martin/profil/spieler/168518
+Sporting Club de Toulon et du Var,Patrice Eyraud,24,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-eyraud/profil/spieler/152765
+Sporting Club de Toulon et du Var,Pascal Danieri,16,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-danieri/profil/spieler/174428
+Sporting Club de Toulon et du Var,Daniel Xuereb,32,France,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/daniel-xuereb/profil/spieler/117504
+Sporting Club de Toulon et du Var,Cédric Charlet,19,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/cedric-charlet/profil/spieler/174422
+Sporting Club de Toulon et du Var,Frédéric Brando,18,France,Central Midfield,CM,-,Sporting Club de Toulon U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-brando/profil/spieler/23903
+Paris Saint-Germain,George Weah,25,Liberia,Centre-Forward,CF,-,AS Monaco,France,£5.85m,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/george-weah/profil/spieler/8542
+Paris Saint-Germain,Bernard Lama,29,France,Goalkeeper,GK,-,RC Lens,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-lama/profil/spieler/3736
+Paris Saint-Germain,Vincent Guérin,26,France,Central Midfield,CM,-,HSC Montpellier,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/vincent-guerin/profil/spieler/104064
+Paris Saint-Germain,Alain Roche,24,France,Centre-Back,CB,-,AJ Auxerre,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-roche/profil/spieler/5372
+Paris Saint-Germain,Jean-Luc Sassus,29,France,Right-Back,RB,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-luc-sassus/profil/spieler/173715
+Paris Saint-Germain,Joël Cloarec,26,France,Forward,Forward,-,LB Châteauroux,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/joel-cloarec/profil/spieler/408334
+Paris Saint-Germain,David Ginola,25,France,Left Winger,LW,-,Stade Brest 29,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/david-ginola/profil/spieler/104897
+Paris Saint-Germain,Francois Calderaro,28,France,Centre-Forward,CF,-,FC Metz,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-calderaro/profil/spieler/257753
+Paris Saint-Germain,Djamel Belmadi,16,Algeria,Right Midfield,RM,-,Paris Saint-Germain U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/djamel-belmadi/profil/spieler/3639
+AS Saint-Étienne,Miklos Molnar,22,Denmark,Centre-Forward,CF,-,Standard Liège,Belgium,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/miklos-molnar/profil/spieler/102759
+AS Saint-Étienne,Robin Huc,27,France,Goalkeeper,GK,-,FC Toulouse,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/robin-huc/profil/spieler/173693
+AS Saint-Étienne,Stéphane Santini,19,France,Right Midfield,RM,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-santini/profil/spieler/168519
+AS Saint-Étienne,Gérald Passi,28,France,Attacking Midfield,AM,-,AS Monaco,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/gerald-passi/profil/spieler/108771
+AS Saint-Étienne,Pascal Despeyroux,27,France,Defensive Midfield,DM,-,FC Toulouse,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-despeyroux/profil/spieler/378622
+RC Strasbourg Alsace,Michael Hughes,20,Northern Ireland,Attacking Midfield,AM,-,Manchester City,England,£450Th.,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/michael-hughes/profil/spieler/14026
+RC Strasbourg Alsace,Tomasz Frankowski,17,Poland,Centre-Forward,CF,-,Jagiellonia Bialystok,Poland,£180Th.,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/tomasz-frankowski/profil/spieler/14911
+RC Strasbourg Alsace,Martin Djetou,17,France,Centre-Back,CB,-,US Créteil-Lusitanos B,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/martin-djetou/profil/spieler/3725
+RC Strasbourg Alsace,Pascal Baills,27,France,Right-Back,RB,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-baills/profil/spieler/158081
+RC Strasbourg Alsace,Franck Mary,28,France,Goalkeeper,GK,-,Olympique Saint-Quentin,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-mary/profil/spieler/480366
+RC Strasbourg Alsace,Frank Farina,27,Australia,Forward,Forward,-,AS Bari,Italy,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frank-farina/profil/spieler/129611
+RC Strasbourg Alsace,Ali Bouafia,27,Algeria,Left Winger,LW,-,Olympique Lyon,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/ali-bouafia/profil/spieler/168006
+RC Strasbourg Alsace,Yannick Rott,17,France,Left-Back,LB,-,Racing Strasbourg B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/yannick-rott/profil/spieler/151382
+RC Strasbourg Alsace,Laurent Weber,19,France,Goalkeeper,GK,-,Racing Strasbourg U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-weber/profil/spieler/22400
+RC Strasbourg Alsace,Olivier Dacourt,17,France,Defensive Midfield,DM,-,Racing Strasbourg U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-dacourt/profil/spieler/3572
+AC Le Havre,Gia Guruli,28,Georgia,Centre-Forward,CF,-,GKS Katowice,Poland,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/gia-guruli/profil/spieler/331490
+AC Le Havre,Jean-Roch Testa,27,France,Forward,Forward,-,FC Gueugnon,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-roch-testa/profil/spieler/174047
+AC Le Havre,Didier Angibeaud,17,Cameroon,Forward,Forward,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-angibeaud/profil/spieler/97510
+AC Le Havre,Michel Rio,29,France,Attacking Midfield,AM,-,SM Caen,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/michel-rio/profil/spieler/480320
+AC Le Havre,Christophe Revault,20,France,Goalkeeper,GK,-,AC Le Havre B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-revault/profil/spieler/6805
+FC Sochaux-Montbéliard,Pavlo Yakovenko,27,Ukraine,Defensive Midfield,DM,-,Dynamo Kyiv,Ukraine,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pavlo-yakovenko/profil/spieler/117395
+FC Sochaux-Montbéliard,Benjamin Clément,26,France,Defensive Midfield,DM,-,AS Monaco,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/benjamin-clement/profil/spieler/108758
+FC Sochaux-Montbéliard,André Blanc,25,France,Midfielder,Midfielder,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/andre-blanc/profil/spieler/480630
+FC Sochaux-Montbéliard,Bertrand Piton,21,France,Defender,Defender,-,AS Red Star 93,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/bertrand-piton/profil/spieler/149409
+FC Sochaux-Montbéliard,Frédéric Darras,25,France,Right-Back,RB,-,AJ Auxerre,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-darras/profil/spieler/173813
+FC Sochaux-Montbéliard,Patrice Garande,31,France,Centre-Forward,CF,-,AC Le Havre,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-garande/profil/spieler/128723
+FC Sochaux-Montbéliard,Stéphane Cassard,19,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-cassard/profil/spieler/18664
+FC Sochaux-Montbéliard,Thierry Couppé,21,France,Midfielder,Midfielder,-,FC Sochaux-Montbéliard U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-couppe/profil/spieler/484185
+FC Sochaux-Montbéliard,Jean-Marc Frotey,23,France,Forward,Forward,-,FC Sochaux-Montbéliard B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-marc-frotey/profil/spieler/481997
+RC Lens,Guillaume Warmuz,22,France,Goalkeeper,GK,-,CS Louhans-Cuiseaux 71,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-warmuz/profil/spieler/3552
+RC Lens,Nasko Sirakov,30,Bulgaria,Attacking Midfield,AM,-,Levski Sofia,Bulgaria,Loan,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/nasko-sirakov/profil/spieler/102338
+RC Lens,Franck Raviot,18,France,Goalkeeper,GK,-,INF Clairefontaine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-raviot/profil/spieler/225489
+RC Lens,Emmanuel Hutteau,23,France,Left-Back,LB,-,FC Bourges,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/emmanuel-hutteau/profil/spieler/160041
+RC Lens,Jean-François Péron,26,France,Left Midfield,LM,-,RC Strasbourg Alsace,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-francois-peron/profil/spieler/173710
+RC Lens,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-omam-biyik/profil/spieler/102614
+RC Lens,Didier Dubois,25,France,Centre-Back,CB,-,USL Dunkerque,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-dubois/profil/spieler/174483
+RC Lens,Bernard Héréson,23,Guadeloupe,Right-Back,RB,-,Paris Saint-Germain,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-hereson/profil/spieler/160042
+RC Lens,Ryszard Tarasiewicz,30,Poland,Central Midfield,CM,-,AS Nancy-Lorraine,France,,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/ryszard-tarasiewicz/profil/spieler/117225
+HSC Montpellier,Olivier Pickeu,22,France,Centre-Forward,CF,-,SM Caen,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-pickeu/profil/spieler/151459
+HSC Montpellier,Franck Rizzetto,21,France,Attacking Midfield,AM,-,Olympique Alès,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-rizzetto/profil/spieler/152841
+HSC Montpellier,Pierre-Yves Bricon,28,France,Defender,Defender,-,FC Sochaux-Montbéliard,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pierre-yves-bricon/profil/spieler/481472
+HSC Montpellier,Aljosa Asanovic,26,Croatia,Central Midfield,CM,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/aljosa-asanovic/profil/spieler/103806
+HSC Montpellier,Joël Fréchet,26,France,Midfielder,Midfielder,-,SCO Angers,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/joel-frechet/profil/spieler/174127
+HSC Montpellier,Jérôme Bonnissel,19,France,Left-Back,LB,-,HSC Montpellier B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jerome-bonnissel/profil/spieler/3911
+HSC Montpellier,Christophe Sanchez,19,France,Centre-Forward,CF,-,HSC Montpellier B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-sanchez/profil/spieler/5386
+HSC Montpellier,Alain Bonnafous,23,France,Centre-Back,CB,-,Olympique Alès,France,"End of loanJun 30, 1992",In,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-bonnafous/profil/spieler/525470
+FC Nantes,Fabien Debotté,28,France,Defensive Midfield,DM,-,SM Caen,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabien-debotte/profil/spieler/480444
+FC Nantes,Serge Le Dizet,28,France,Right-Back,RB,-,Stade Rennais FC,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/serge-le-dizet/profil/spieler/173561
+FC Nantes,José Dalmao,22,Uruguay,Forward,Forward,-,ES La Rochelle,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jose-dalmao/profil/spieler/480373
+FC Nantes,Anthony Martins,21,France,Midfielder,Midfielder,-,FC Nantes B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/anthony-martins/profil/spieler/480646
+FC Nantes,Claude Makélélé,19,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/claude-makelele/profil/spieler/4182
+Olympique Lyon,James Debbah,22,Liberia,Centre-Forward,CF,-,AS Monaco,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/james-debbah/profil/spieler/173636
+Olympique Lyon,Samassi Abou,19,France,Centre-Forward,CF,-,FC Martigues,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/samassi-abou/profil/spieler/107822
+Olympique Lyon,Laurent Delamontagne,26,France,Centre-Forward,CF,-,Stade Rennais FC,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-delamontagne/profil/spieler/174022
+Olympique Lyon,Torben Frank,24,Denmark,Centre-Forward,CF,-,Lyngby BK,Denmark,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/torben-frank/profil/spieler/101292
+Olympique Lyon,Patrice Ferri,28,France,Centre-Back,CB,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-ferri/profil/spieler/405713
+Olympique Lyon,Franck Gava,22,France,Left Midfield,LM,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-gava/profil/spieler/158092
+Olympique Lyon,Éric Péan,28,France,Sweeper,SW,-,Sporting Club de Toulon et du Var,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-pean/profil/spieler/216583
+Olympique Lyon,Maxence Flachez,19,France,Centre-Back,CB,-,Olympique Lyon B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/maxence-flachez/profil/spieler/5391
+Olympique Lyon,Alain Colacicco,19,France,Defender,Defender,-,Olympique Lyon B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-colacicco/profil/spieler/481998
+Olympique Lyon,Florian Maurice,18,France,Centre-Forward,CF,-,Olympique Lyon U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/florian-maurice/profil/spieler/5600
+LOSC Lille,Pascal Nouma,20,France,Centre-Forward,CF,-,Paris Saint-Germain,France,Loan,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-nouma/profil/spieler/5333
+LOSC Lille,José Bray,27,France,Midfielder,Midfielder,-,AS Cannes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jose-bray/profil/spieler/173634
+LOSC Lille,Edgar Borges,22,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/edgar-borges/profil/spieler/480371
+LOSC Lille,Samba N'Diaye,19,Senegal,Centre-Forward,CF,-,FC Metz B,France,Loan,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/samba-ndiaye/profil/spieler/152825
+LOSC Lille,Walquir Mota,24,Brazil,Forward,Forward,-,FC Tours,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/walquir-mota/profil/spieler/174143
+LOSC Lille,Carl Tourenne,20,France,Defensive Midfield,DM,-,LOSC Lille B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/carl-tourenne/profil/spieler/33933
+LOSC Lille,Antoine Sibierski,17,France,Attacking Midfield,AM,-,LOSC Lille U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/antoine-sibierski/profil/spieler/5489
+LOSC Lille,Joël Dolignon,19,France,Defender,Defender,-,LOSC Lille B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/joel-dolignon/profil/spieler/486415
+LOSC Lille,Oumar Dieng,19,France,Centre-Back,CB,-,CS Louhans-Cuiseaux 71,France,"End of loanJun 30, 1992",In,1992,s,ligue-1,https://www.transfermarkt.co.uk/oumar-dieng/profil/spieler/6923
+Nîmes Olympique,Laurent Blanc,26,France,Sweeper,SW,-,SSC Napoli,Italy,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-blanc/profil/spieler/3113
+Nîmes Olympique,Stéphan Lerda,21,France,Centre-Back,CB,-,Olympique avignonnais,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephan-lerda/profil/spieler/499763
+Nîmes Olympique,Philippe Mazzuchetti,25,France,Attacking Midfield,AM,-,OGC Nice,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-mazzuchetti/profil/spieler/152816
+Nîmes Olympique,Eric Allibert,16,France,Goalkeeper,GK,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-allibert/profil/spieler/28293
+Nîmes Olympique,Didier Martel,20,France,Forward,Forward,-,AJ Auxerre B,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-martel/profil/spieler/4431
+Nîmes Olympique,Christophe Buffat,22,France,Forward,Forward,-,OGC Nice B,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-buffat/profil/spieler/480638
+Nîmes Olympique,Camille Derramond,18,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/camille-derramond/profil/spieler/482304
+Nîmes Olympique,Dusan Tittel,25,Slovakia,Centre-Back,CB,-,Slovan Bratislava,Slovakia,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/dusan-tittel/profil/spieler/92017
+Nîmes Olympique,Nicolas Marx,18,France,Left Winger,LW,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-marx/profil/spieler/152814
+Nîmes Olympique,Ludovic Gros,19,France,Midfielder,Midfielder,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-gros/profil/spieler/174437
+Nîmes Olympique,Franck Lucchesi,28,France,Left-Back,LB,-,HSC Montpellier,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-lucchesi/profil/spieler/381594
+Nîmes Olympique,Gilles Leclerc,25,France,Centre-Back,CB,-,Perpignan FC,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/gilles-leclerc/profil/spieler/152801
+Nîmes Olympique,Antoine Préget,19,France,Defender,Defender,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/antoine-preget/profil/spieler/168486
+Nîmes Olympique,Didier Monczuk,31,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-monczuk/profil/spieler/466623
+Nîmes Olympique,Yannick Liron,18,France,Defender,Defender,-,Nîmes Olympique U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/yannick-liron/profil/spieler/482305
+Nîmes Olympique,Hassan Kachloul,19,Morocco,Left Midfield,LM,-,Nîmes Olympique B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/hassan-kachloul/profil/spieler/4066
+Nîmes Olympique,Stéphane Flory,21,France,Goalkeeper,GK,-,Nîmes Olympique B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-flory/profil/spieler/481393
+SM Caen,Gabriel Calderón,32,Argentina,Attacking Midfield,AM,-,FC Sion,Switzerland,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/gabriel-calderon/profil/spieler/106973
+SM Caen,Clément Garcia,24,France,Forward,Forward,-,HSC Montpellier,France,Loan,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/clement-garcia/profil/spieler/408390
+SM Caen,Stéphane Dedebant,21,France,Central Midfield,CM,-,,Unknown,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-dedebant/profil/spieler/160101
+SM Caen,Christophe Duboscq,25,France,Midfielder,Midfielder,-,US Avranches,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-duboscq/profil/spieler/482000
+SM Caen,Faouzi Rouissi,21,Tunisia,Centre-Forward,CF,-,Club Africain Tunis,Tunisia,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/faouzi-rouissi/profil/spieler/863
+SM Caen,Stéphane Lièvre,19,France,Left-Back,LB,-,SM Caen U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-lievre/profil/spieler/6975
+SM Caen,Wally Dieng,18,France,Defender,Defender,-,SM Caen B,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/wally-dieng/profil/spieler/481999
+Union Sportive Valenciennes-Anzin Arrondissement,Laurent Dufresne,20,France,Centre-Forward,CF,-,RUFC Calais,France,Free transfer,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-dufresne/profil/spieler/28323
+Union Sportive Valenciennes-Anzin Arrondissement,Arnold Oosterveer,29,Netherlands,Centre-Back,CB,-,Stade Rennais FC,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/arnold-oosterveer/profil/spieler/150758
+Union Sportive Valenciennes-Anzin Arrondissement,Yves Bouger,22,France,Left-Back,LB,-,FC Lorient,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/yves-bouger/profil/spieler/168516
+Union Sportive Valenciennes-Anzin Arrondissement,Dominique Corroyer,27,France,Centre-Forward,CF,-,AS Saint-Étienne,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/dominique-corroyer/profil/spieler/480376
+Union Sportive Valenciennes-Anzin Arrondissement,Jorge Burruchaga,29,Argentina,Attacking Midfield,AM,-,FC Nantes,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/jorge-burruchaga/profil/spieler/106972
+Union Sportive Valenciennes-Anzin Arrondissement,Philippe Gaillot,27,France,Left-Back,LB,-,FC Metz,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-gaillot/profil/spieler/155690
+Union Sportive Valenciennes-Anzin Arrondissement,Thierry Fernier,27,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-fernier/profil/spieler/466610
+Union Sportive Valenciennes-Anzin Arrondissement,Kálmán Kovács,26,Hungary,Centre-Forward,CF,-,Kispest–Honvéd FC,Hungary,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/kalman-kovacs/profil/spieler/117417
+Union Sportive Valenciennes-Anzin Arrondissement,Christophe Robert,28,France,Left Winger,LW,-,AS Monaco,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-robert/profil/spieler/173713
+Union Sportive Valenciennes-Anzin Arrondissement,Sylvain Matrisciano,28,France,Goalkeeper,GK,-,AS Nancy-Lorraine,France,?,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-matrisciano/profil/spieler/480346
+Union Sportive Valenciennes-Anzin Arrondissement,Thierry Cygan,17,France,Centre-Back,CB,-,FC Valenciennes U19,France,-,In,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-cygan/profil/spieler/29284
+FC Girondins Bordeaux,Philippe Raschke,24,France,Right-Back,RB,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-raschke/profil/spieler/5395
+FC Girondins Bordeaux,Philippe Fargeon,28,France,Second Striker,SS,-,FC Chiasso,Switzerland,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-fargeon/profil/spieler/216586
+FC Girondins Bordeaux,Thierry Fernier,27,France,Attacking Midfield,AM,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-fernier/profil/spieler/466610
+FC Girondins Bordeaux,Jean-Michel Lavaud,23,France,Forward,Forward,-,Trélissac FC,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-michel-lavaud/profil/spieler/499778
+FC Girondins Bordeaux,Jean-Pierre Bade,32,France,Left-Back,LB,-,JS Saint-Pierroise,Réunion,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-pierre-bade/profil/spieler/353982
+FC Girondins Bordeaux,Philippe Lalanne,26,France,Midfielder,Midfielder,-,Association sportive d'origine arménienne de Valence,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-lalanne/profil/spieler/499764
+FC Girondins Bordeaux,Rainer Ernst,30,Germany,Midfielder,Midfielder,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/rainer-ernst/profil/spieler/112203
+FC Girondins Bordeaux,Patrice Lestage,30,France,Left-Back,LB,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-lestage/profil/spieler/268440
+FC Girondins Bordeaux,Jean-Marc Ferratge,33,France,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-marc-ferratge/profil/spieler/215107
+FC Girondins Bordeaux,Pascal Monbrun,24,France,Midfielder,Midfielder,-,FC Girondins Bordeaux B,France,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-monbrun/profil/spieler/499779
+AS Monaco,George Weah,25,Liberia,Centre-Forward,CF,-,Paris Saint-Germain,France,£5.85m,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/george-weah/profil/spieler/8542
+AS Monaco,James Debbah,22,Liberia,Centre-Forward,CF,-,Olympique Lyon,France,Free transfer,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/james-debbah/profil/spieler/173636
+AS Monaco,Jimmy Algérino,20,France,Right-Back,RB,-,SAS Epinal,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jimmy-algerino/profil/spieler/149945
+AS Monaco,Roger Mendy,32,Senegal,Sweeper,SW,-,Delfino Pescara 1936,Italy,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/roger-mendy/profil/spieler/108770
+AS Monaco,Benjamin Clément,26,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/benjamin-clement/profil/spieler/108758
+AS Monaco,John Sivebaek,30,Denmark,Right-Back,RB,-,Delfino Pescara 1936,Italy,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/john-sivebaek/profil/spieler/101305
+AS Monaco,Gérald Passi,28,France,Attacking Midfield,AM,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/gerald-passi/profil/spieler/108771
+AS Monaco,Christophe Robert,28,France,Left Winger,LW,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-robert/profil/spieler/173713
+AS Monaco,Cyril Granon,20,France,Midfielder,Midfielder,-,FC Lorient,France,"End of loanJul 1, 1992",Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/cyril-granon/profil/spieler/5727
+AS Monaco,Christophe Métais,24,France,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-metais/profil/spieler/483180
+Olympique Marseille,Jean-Pierre Papin,28,France,Centre-Forward,CF,-,Milan AC,Italy,£10.80m,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-pierre-papin/profil/spieler/17168
+Olympique Marseille,Trevor Steven,28,England,Right Midfield,RM,-,Rangers FC,Scotland,£2.34m,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/trevor-steven/profil/spieler/101328
+Olympique Marseille,Chris Waddle,31,England,Attacking Midfield,AM,-,Sheffield Wednesday,England,£1.35m,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/chris-waddle/profil/spieler/101385
+Olympique Marseille,Marc Libbra,19,France,Centre-Forward,CF,-,FC Istres Ville Nouvelle ,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/marc-libbra/profil/spieler/21321
+Olympique Marseille,Alain Boghossian,21,France,Central Midfield,CM,-,FC Istres Ville Nouvelle ,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-boghossian/profil/spieler/4148
+Olympique Marseille,Pascal Baills,27,France,Right-Back,RB,-,RC Strasbourg Alsace,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-baills/profil/spieler/158081
+Olympique Marseille,Éric Lada,26,France,Forward,Forward,-,FC Toulouse,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-lada/profil/spieler/180373
+Olympique Marseille,Carlos Mozer,31,Brazil,Centre-Back,CB,-,SL Benfica,Portugal,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/carlos-mozer/profil/spieler/126890
+Olympique Marseille,Daniel Xuereb,32,France,Centre-Forward,CF,-,Sporting Club de Toulon et du Var,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/daniel-xuereb/profil/spieler/117504
+Olympique Marseille,Alain Casanova,30,France,Goalkeeper,GK,-,FC Toulouse,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-casanova/profil/spieler/467947
+Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,RC Lens,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-omam-biyik/profil/spieler/102614
+Olympique Marseille,Patrice Eyraud,24,France,Defensive Midfield,DM,-,Sporting Club de Toulon et du Var,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-eyraud/profil/spieler/152765
+AJ Auxerre,Kevin Sharp,18,Canada,Left-Back,LB,-,Leeds United,England,£81Th.,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/kevin-sharp/profil/spieler/45489
+AJ Auxerre,Franco Vignola,25,France,Forward,Forward,-,EA Guingamp,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franco-vignola/profil/spieler/173724
+AJ Auxerre,Jean-Marc Ferreri,29,France,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-marc-ferreri/profil/spieler/117491
+AJ Auxerre,Zbigniew Kaczmarek,30,Poland,Defensive Midfield,DM,-,EA Guingamp,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/zbigniew-kaczmarek/profil/spieler/196902
+AJ Auxerre,Frédéric Darras,25,France,Right-Back,RB,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-darras/profil/spieler/173813
+AJ Auxerre,Alain Roche,24,France,Centre-Back,CB,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-roche/profil/spieler/5372
+FC Metz,Emmanuel Clément,20,France,Defensive Midfield,DM,-,SC Amiens,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/emmanuel-clement/profil/spieler/481947
+FC Metz,Kwame Ayew,18,Ghana,Centre-Forward,CF,-,Al Ahli Sports Club,Qatar,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/kwame-ayew/profil/spieler/46470
+FC Metz,Philippe Gaillot,27,France,Left-Back,LB,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-gaillot/profil/spieler/155690
+FC Metz,David Hodgson,31,England,Centre-Forward,CF,-,Swansea City,Wales,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/david-hodgson/profil/spieler/176211
+FC Metz,Yannick Stopyra,31,France,Centre-Forward,CF,-,FC Mulhouse Sud-Alsace,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/yannick-stopyra/profil/spieler/117499
+FC Metz,Thierry Pauk,26,France,Defender,Defender,-,FC Famalicão,Portugal,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-pauk/profil/spieler/173709
+FC Metz,Francois Calderaro,28,France,Centre-Forward,CF,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-calderaro/profil/spieler/257753
+FC Metz,Serge Romano,28,France,Midfielder,Midfielder,-,FC Toulouse,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/serge-romano/profil/spieler/174046
+FC Metz,François Darcy,25,France,Goalkeeper,GK,-,AS Poissy,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-darcy/profil/spieler/481421
+FC Metz,Didier Casini,29,France,Right-Back,RB,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-casini/profil/spieler/378619
+FC Metz,Philippe Schuth,25,France,Goalkeeper,GK,-,,Without Club,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-schuth/profil/spieler/152852
+FC Metz,Dragoljub Brnovic,28,Montenegro,Midfielder,Midfielder,-,,Without Club,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/dragoljub-brnovic/profil/spieler/102686
+FC Metz,Michel Ettorre,34,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/michel-ettorre/profil/spieler/466614
+FC Metz,Philippe Hinschberger,32,France,Attacking Midfield,AM,-,,Career break,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-hinschberger/profil/spieler/480435
+FC Toulouse,Fabien Barthez,21,France,Goalkeeper,GK,-,Olympique Marseille,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabien-barthez/profil/spieler/3289
+FC Toulouse,Robin Huc,27,France,Goalkeeper,GK,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/robin-huc/profil/spieler/173693
+FC Toulouse,Leonardo Rodríguez,25,Argentina,Attacking Midfield,AM,-,Atalanta BC,Italy,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/leonardo-rodriguez/profil/spieler/102212
+FC Toulouse,Alberto Márcico,32,Argentina,Second Striker,SS,-,Club Atlético Boca Juniors,Argentina,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alberto-marcico/profil/spieler/378632
+FC Toulouse,Viliam Hyravy,29,Slovakia,Attacking Midfield,AM,-,FC Banik Ostrava,Czech Republic,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/viliam-hyravy/profil/spieler/92312
+FC Toulouse,Pascal Despeyroux,27,France,Defensive Midfield,DM,-,AS Saint-Étienne,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-despeyroux/profil/spieler/378622
+FC Toulouse,Frederic Pons,30,France,Defender,Defender,-,Association sportive d'origine arménienne de Valence,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-pons/profil/spieler/481954
+FC Toulouse,Jean-Luc Ruty,32,France,Centre-Back,CB,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-luc-ruty/profil/spieler/378620
+FC Toulouse,Franck Tiriakian,21,France,Forward,Forward,-,FC Toulouse B,France,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-tiriakian/profil/spieler/486437
+FC Toulouse,Norbert Almendoz,22,France,Forward,Forward,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/norbert-almendoz/profil/spieler/481952
+Sporting Club de Toulon et du Var,Jacques Songo'o,28,Cameroon,Goalkeeper,GK,-,Le Mans Union Club 72,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jacques-songoo/profil/spieler/102615
+Sporting Club de Toulon et du Var,Patrice Ferri,28,France,Centre-Back,CB,-,Olympique Lyon,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-ferri/profil/spieler/405713
+Sporting Club de Toulon et du Var,Bernard Rodriguez,28,France,Midfielder,Midfielder,-,,Unknown,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-rodriguez/profil/spieler/485455
+Sporting Club de Toulon et du Var,Dumè Murati,32,France,Goalkeeper,GK,-,CA Bastia,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/dume-murati/profil/spieler/480655
+Sporting Club de Toulon et du Var,Éric Péan,28,France,Sweeper,SW,-,Olympique Lyon,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-pean/profil/spieler/216583
+Sporting Club de Toulon et du Var,André Blanc,25,France,Midfielder,Midfielder,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/andre-blanc/profil/spieler/480630
+Sporting Club de Toulon et du Var,Jean-Paul Péronin,21,France,Defender,Defender,-,FC Martigues,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-paul-peronin/profil/spieler/508429
+Sporting Club de Toulon et du Var,Francois Zahoui,30,Cote d'Ivoire,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-zahoui/profil/spieler/338295
+Paris Saint-Germain,Patrick M'Boma,21,Cameroon,Centre-Forward,CF,-,LB Châteauroux,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrick-mboma/profil/spieler/26415
+Paris Saint-Germain,Pascal Nouma,20,France,Centre-Forward,CF,-,LOSC Lille,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-nouma/profil/spieler/5333
+Paris Saint-Germain,Bernard Héréson,23,Guadeloupe,Right-Back,RB,-,RC Lens,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-hereson/profil/spieler/160042
+Paris Saint-Germain,Liazid Sandjak,25,Algeria,Second Striker,SS,-,OGC Nice,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/liazid-sandjak/profil/spieler/399143
+Paris Saint-Germain,Christian Perez,29,France,Attacking Midfield,AM,-,AS Monaco,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/christian-perez/profil/spieler/101117
+Paris Saint-Germain,Jean-Luc Vasseur,23,France,Right-Back,RB,-,Stade Rennais FC,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-luc-vasseur/profil/spieler/405711
+Paris Saint-Germain,Joël Bats,35,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/joel-bats/profil/spieler/117477
+Paris Saint-Germain,Oumar Sène,32,Senegal,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/oumar-sene/profil/spieler/413192
+Paris Saint-Germain,Dominique Leclercq,34,France,Goalkeeper,GK,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/dominique-leclercq/profil/spieler/480361
+AS Saint-Étienne,Pierre Haon,25,France,Defensive Midfield,DM,-,Perpignan FC,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pierre-haon/profil/spieler/467158
+AS Saint-Étienne,Dominique Corroyer,27,France,Centre-Forward,CF,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/dominique-corroyer/profil/spieler/480376
+AS Saint-Étienne,Franck Solacroup,21,France,Midfielder,Midfielder,-,Toulouse Fontaines Club,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-solacroup/profil/spieler/482556
+AS Saint-Étienne,Gilles Giuliano,21,France,Centre-Back,CB,-,,Unknown,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/gilles-giuliano/profil/spieler/408319
+AS Saint-Étienne,Fabrice Mège,27,France,Attacking Midfield,AM,-,OGC Nice,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-mege/profil/spieler/467162
+AS Saint-Étienne,Gilbert Ceccarelli,29,France,Goalkeeper,GK,-,Olympique Alès,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/gilbert-ceccarelli/profil/spieler/480321
+AS Saint-Étienne,Thierry Courault,27,France,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-courault/profil/spieler/482278
+RC Strasbourg Alsace,Jean-François Péron,26,France,Left Midfield,LM,-,RC Lens,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-francois-peron/profil/spieler/173710
+RC Strasbourg Alsace,Serge Jenner,32,France,Centre-Back,CB,-,FC Haguenau,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/serge-jenner/profil/spieler/484246
+RC Strasbourg Alsace,Cyriaque Didaux,32,France,Midfielder,Midfielder,-,SAS Epinal,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/cyriaque-didaux/profil/spieler/482321
+RC Strasbourg Alsace,Olivier Dall'Oglio,28,France,Right-Back,RB,-,Perpignan FC,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-dalloglio/profil/spieler/408379
+RC Strasbourg Alsace,Didier Monczuk,31,France,Centre-Forward,CF,-,Nîmes Olympique,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-monczuk/profil/spieler/466623
+RC Strasbourg Alsace,José Guerra,27,France,Forward,Forward,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jose-guerra/profil/spieler/509456
+AC Le Havre,Vaclav Danek,31,Czech Republic,Centre-Forward,CF,-,FC Wacker Innsbruck,Austria,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/vaclav-danek/profil/spieler/126928
+AC Le Havre,Patrice Garande,31,France,Centre-Forward,CF,-,FC Sochaux-Montbéliard,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-garande/profil/spieler/128723
+AC Le Havre,Graham Rix,34,England,Left Midfield,LM,-,Dundee FC,Scotland,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/graham-rix/profil/spieler/130306
+AC Le Havre,Hubert Castets,20,France,Centre-Back,CB,-,AC Le Havre B,France,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/hubert-castets/profil/spieler/149261
+FC Sochaux-Montbéliard,Mickaël Madar,24,France,Centre-Forward,CF,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/mickael-madar/profil/spieler/104068
+FC Sochaux-Montbéliard,Christophe Gardié,27,France,Goalkeeper,GK,-,CS Louhans-Cuiseaux 71,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-gardie/profil/spieler/152775
+FC Sochaux-Montbéliard,Philippe Lucas,28,France,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/philippe-lucas/profil/spieler/168580
+FC Sochaux-Montbéliard,Pierre-Yves Bricon,28,France,Defender,Defender,-,HSC Montpellier,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pierre-yves-bricon/profil/spieler/481472
+FC Sochaux-Montbéliard,Laurent Croci,27,France,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-croci/profil/spieler/168570
+FC Sochaux-Montbéliard,Jean-Christophe Thomas,27,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-christophe-thomas/profil/spieler/174458
+FC Sochaux-Montbéliard,Zlatko Vujovic,33,Croatia,Centre-Forward,CF,-,OGC Nice,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/zlatko-vujovic/profil/spieler/102706
+FC Sochaux-Montbéliard,Eric Dufournet,23,France,Centre-Back,CB,-,CS Louhans-Cuiseaux 71,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/eric-dufournet/profil/spieler/168136
+FC Sochaux-Montbéliard,Chérif Oudjani,27,Algeria,Centre-Forward,CF,-,AS Beauvais Oise,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/cherif-oudjani/profil/spieler/173824
+FC Sochaux-Montbéliard,Lobo Carrasco,33,Spain,Right Winger,RW,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/lobo-carrasco/profil/spieler/117599
+RC Lens,Franck Toffard,22,France,Defender,Defender,-,,Unknown,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-toffard/profil/spieler/510863
+RC Lens,Bernard Lama,29,France,Goalkeeper,GK,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/bernard-lama/profil/spieler/3736
+RC Lens,Christophe Baïocco,26,France,Goalkeeper,GK,-,S. O. Châtellerault,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/christophe-baiocco/profil/spieler/480803
+RC Lens,Stéphane Gilet,28,France,Defender,Defender,-,Quimper Cornouaille FC,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-gilet/profil/spieler/510862
+RC Lens,David François,22,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/david-francois/profil/spieler/151436
+RC Lens,Shalom Tikva,27,Israel,Attacking Midfield,AM,-,Boom FC,Belgium,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/shalom-tikva/profil/spieler/179354
+RC Lens,Anicet Saussé,23,France,Defender,Defender,-,FC Martigues,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/anicet-sausse/profil/spieler/510861
+RC Lens,Boban Bozovic,28,Bosnia-Herzegovina,Midfielder,Midfielder,-,FC Istres Ville Nouvelle ,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/boban-bozovic/profil/spieler/500574
+RC Lens,Jules Bocandé,33,Senegal,Centre-Forward,CF,-,KSC Eendracht Aalst,Belgium,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jules-bocande/profil/spieler/141231
+RC Lens,Patrice Zeré,21,Cote d'Ivoire,Left-Back,LB,-,Union sportive Créteil,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/patrice-zere/profil/spieler/13004
+RC Lens,Pascal Peltier,30,France,Attacking Midfield,AM,-,Racing Club d'Arras,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pascal-peltier/profil/spieler/510860
+RC Lens,Nasko Sirakov,31,Bulgaria,Attacking Midfield,AM,-,Levski Sofia,Bulgaria,"End of loanJun 30, 1993",Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/nasko-sirakov/profil/spieler/102338
+HSC Montpellier,Vincent Guérin,26,France,Central Midfield,CM,-,Paris Saint-Germain,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/vincent-guerin/profil/spieler/104064
+HSC Montpellier,Franck Lucchesi,28,France,Left-Back,LB,-,Nîmes Olympique,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-lucchesi/profil/spieler/381594
+HSC Montpellier,François Lemasson,28,France,Goalkeeper,GK,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/francois-lemasson/profil/spieler/160055
+HSC Montpellier,Clément Garcia,24,France,Forward,Forward,-,SM Caen,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/clement-garcia/profil/spieler/408390
+HSC Montpellier,Stéphane Blondeau,24,France,Right-Back,RB,-,FC Martigues,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-blondeau/profil/spieler/381596
+HSC Montpellier,Régis Brouard,25,France,Attacking Midfield,AM,-,FC Bourges,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/regis-brouard/profil/spieler/160100
+HSC Montpellier,Nikolay Todorov,27,Bulgaria,Midfielder,Midfielder,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/nikolay-todorov/profil/spieler/106933
+HSC Montpellier,Alain Bonnafous,23,France,Centre-Back,CB,-,FC Chamois Niort,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-bonnafous/profil/spieler/525470
+HSC Montpellier,Laurent Vacher,19,France,Defender,Defender,-,HSC Montpellier B,France,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-vacher/profil/spieler/510956
+FC Nantes,Marcel Desailly,23,France,Centre-Back,CB,-,Olympique Marseille,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/marcel-desailly/profil/spieler/3154
+FC Nantes,Jean-Jacques Eydelie,26,France,Defensive Midfield,DM,-,Olympique Marseille,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-eydelie/profil/spieler/173685
+FC Nantes,Jorge Burruchaga,29,Argentina,Attacking Midfield,AM,-,Union Sportive Valenciennes-Anzin Arrondissement,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jorge-burruchaga/profil/spieler/106972
+FC Nantes,Thierno Youm,32,Senegal,Forward,Forward,-,Esperance Tunis,Tunisia,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierno-youm/profil/spieler/480319
+FC Nantes,Johnny Mölby,23,Denmark,Central Midfield,CM,-,Borussia Mönchengladbach,Germany,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/johnny-molby/profil/spieler/97262
+FC Nantes,Thierry Bonalair,26,France,Left-Back,LB,-,AJ Auxerre,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thierry-bonalair/profil/spieler/210380
+FC Nantes,Joël Henry,30,France,Attacking Midfield,AM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/joel-henry/profil/spieler/480335
+Olympique Lyon,Thomas Pfannkuch,22,Germany,Centre-Back,CB,-,Eintracht Braunschweig,Germany,Free transfer,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/thomas-pfannkuch/profil/spieler/11854
+Olympique Lyon,Aziz Bouderbala,31,Morocco,Attacking Midfield,AM,-,Estoril Praia,Portugal,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/aziz-bouderbala/profil/spieler/117201
+Olympique Lyon,Milos Bursac,27,Serbia,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/milos-bursac/profil/spieler/215176
+Olympique Lyon,Alain Baré,25,France,Forward,Forward,-,,Unknown,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-bare/profil/spieler/484186
+Olympique Lyon,Ali Bouafia,27,Algeria,Left Winger,LW,-,RC Strasbourg Alsace,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/ali-bouafia/profil/spieler/168006
+Olympique Lyon,Jean-Marc Knapp,29,France,Centre-Back,CB,-,SC Amiens,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-marc-knapp/profil/spieler/205097
+Olympique Lyon,Pierre Chavrondier,20,France,Midfielder,Midfielder,-,FC Martigues,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/pierre-chavrondier/profil/spieler/160022
+Olympique Lyon,Stéphane Roche,21,France,Central Midfield,CM,-,FC Martigues,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/stephane-roche/profil/spieler/168249
+Olympique Lyon,Laurent Lassagne,26,France,Defender,Defender,-,SC Amiens,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/laurent-lassagne/profil/spieler/250026
+Olympique Lyon,Alim Ben Mabrouk,32,Algeria,Defensive Midfield,DM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alim-ben-mabrouk/profil/spieler/117733
+LOSC Lille,Michael Mio-Nielsen,27,Denmark,Right-Back,RB,-,BK Frem,Denmark,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/michael-mio-nielsen/profil/spieler/178777
+LOSC Lille,Victor Da Silva,30,France,Midfielder,Midfielder,-,La Roche Vendée Football,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/victor-da-silva/profil/spieler/508427
+LOSC Lille,Antoine Cervetti,30,France,Left-Back,LB,-,AS Porto Vecchio,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/antoine-cervetti/profil/spieler/486386
+LOSC Lille,Racine Amadou Kané,32,Senegal,Defender,Defender,-,AS Beauvais Oise,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/racine-amadou-kane/profil/spieler/482291
+Nîmes Olympique,William Ayache,31,France,Left-Back,LB,-,AS Cannes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/william-ayache/profil/spieler/117485
+Nîmes Olympique,Vincent Bracigliano,33,France,Midfielder,Midfielder,-,Vendée Luçon Football,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/vincent-bracigliano/profil/spieler/480661
+Nîmes Olympique,Fouzi Alidra,20,France,Midfielder,Midfielder,-,Olympique Alès,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/fouzi-alidra/profil/spieler/173752
+Nîmes Olympique,Didier Combe,23,France,Left-Back,LB,-,Olympique Alès,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-combe/profil/spieler/482306
+Nîmes Olympique,Frédéric Arpinon,23,France,Attacking Midfield,AM,-,OGC Nice,France,Loan,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/frederic-arpinon/profil/spieler/156993
+Nîmes Olympique,Aboubacar Cissé,22,Cote d'Ivoire,Forward,Forward,-,OGC Nice,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/aboubacar-cisse/profil/spieler/482307
+SM Caen,Didier Thimothée,22,France,Centre-Forward,CF,-,AS Red Star 93,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/didier-thimothee/profil/spieler/158121
+SM Caen,Rubens,20,Brazil,Forward,Forward,-,,Unknown,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/rubens/profil/spieler/482282
+SM Caen,Franck Dumas,24,France,Centre-Back,CB,-,AS Monaco,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/franck-dumas/profil/spieler/149391
+SM Caen,Fabien Debotté,28,France,Defensive Midfield,DM,-,FC Nantes,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/fabien-debotte/profil/spieler/480444
+SM Caen,Olivier Pickeu,22,France,Centre-Forward,CF,-,HSC Montpellier,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/olivier-pickeu/profil/spieler/151459
+SM Caen,Michel Rio,29,France,Attacking Midfield,AM,-,AC Le Havre,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/michel-rio/profil/spieler/480320
+SM Caen,Jesper Olsen,31,Denmark,Left Midfield,LM,-,,Retired,-,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jesper-olsen/profil/spieler/116138
+Union Sportive Valenciennes-Anzin Arrondissement,Jean-Jacques Allais,23,France,Forward,Forward,-,USL Dunkerque,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-allais/profil/spieler/173819
+Union Sportive Valenciennes-Anzin Arrondissement,Eugéne Ekéké,32,Cameroon,Forward,Forward,-,US Maubeuge,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/eugene-ekeke/profil/spieler/250977
+Union Sportive Valenciennes-Anzin Arrondissement,Alain Garraud,30,France,Defender,Defender,-,FC Istres Ville Nouvelle ,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/alain-garraud/profil/spieler/499767
+Union Sportive Valenciennes-Anzin Arrondissement,Gérard Buscher,32,France,Centre-Forward,CF,-,OGC Nice,France,?,Out,1992,s,ligue-1,https://www.transfermarkt.co.uk/gerard-buscher/profil/spieler/229687
+Olympique Marseille,Igor Dobrovolski,25,Russia,Attacking Midfield,AM,-,Genoa 1893,Italy,?,In,1992,w,ligue-1,https://www.transfermarkt.co.uk/igor-dobrovolski/profil/spieler/69814
+AS Saint-Étienne,Milan Luhovy,30,Slovakia,Centre-Forward,CF,-,Sporting Gijón,Spain,?,In,1992,w,ligue-1,https://www.transfermarkt.co.uk/milan-luhovy/profil/spieler/106966
+RC Lens,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1992,w,ligue-1,https://www.transfermarkt.co.uk/francois-omam-biyik/profil/spieler/102614
+FC Girondins Bordeaux,Arnór Gudjohnsen,31,Iceland,Centre-Forward,CF,-,BK Häcken,Sweden,?,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/arnor-gudjohnsen/profil/spieler/121942
+Olympique Marseille,François Omam-Biyik,26,Cameroon,Centre-Forward,CF,-,RC Lens,France,?,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/francois-omam-biyik/profil/spieler/102614
+AJ Auxerre,Kevin Sharp,18,Canada,Left-Back,LB,-,Leeds United,England,£81Th.,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/kevin-sharp/profil/spieler/45489
+FC Metz,Claude Massa,30,France,Defensive Midfield,DM,-,EA Guingamp,France,?,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/claude-massa/profil/spieler/481946
+FC Metz,Thomas Kokkinis,21,France,Goalkeeper,GK,-,FC Rouen,France,Loan,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/thomas-kokkinis/profil/spieler/409175
+FC Toulouse,Olivier Pédémas,24,France,Goalkeeper,GK,-,Le Mans Union Club 72,France,?,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/olivier-pedemas/profil/spieler/6269
+Sporting Club de Toulon et du Var,Jean-Louis Bérenguier,35,France,Right-Back,RB,-,,Retired,-,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/jean-louis-berenguier/profil/spieler/480647
+AC Le Havre,Jean-Roch Testa,28,France,Forward,Forward,-,FC Martigues,France,Loan,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/jean-roch-testa/profil/spieler/174047
+RC Lens,Francis Gillot,32,France,Centre-Back,CB,-,FC Mulhouse Sud-Alsace,France,?,Out,1992,w,ligue-1,https://www.transfermarkt.co.uk/francis-gillot/profil/spieler/467156

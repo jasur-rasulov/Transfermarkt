@@ -61,17 +61,18 @@ tidy_transfers <- function(df) {
             club = "Club",
             name = "Name",
             age = "Age",
-            nationality = "Nat.",
+            nationality = "Nationality",
             position = "Position",
             pos = "Pos",
-            market_value = "Market value",
-            club_of_transfer = "Club involved",
-            country_of_transfer = "Country involved",
+            market_value = "MarketValue",
+            club_of_transfer = "ClubInvolved",
+            country_of_transfer = "CountryInvolved",
             fee = "Fee",
             movement = "Movement",
             season = "Season",
             window = "Window",
-            league = "League"
+            league = "League",
+            profile = "Profile"
         ) %>%
         mutate(
             age = as.integer(age),

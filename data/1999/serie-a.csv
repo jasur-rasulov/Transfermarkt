@@ -1,612 +1,610 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Milan AC,Andriy Shevchenko,22,Ukraine,Centre-Forward,CF,-,Dynamo Kyiv,Ukraine,£21.52m,In,1999,s,serie-a
-Milan AC,Serginho,28,Brazil,Left Midfield,LM,-,São Paulo Futebol Clube,Brazil,£8.01m,In,1999,s,serie-a
-Milan AC,Gennaro Gattuso,21,Italy,Central Midfield,CM,-,US Salernitana,Italy,£7.20m,In,1999,s,serie-a
-Milan AC,Fabricio Coloccini,17,Argentina,Centre-Back,CB,-,Club Atlético Boca Juniors,Argentina,£6.75m,In,1999,s,serie-a
-Milan AC,Mattia Graffiedi,19,Italy,Centre-Forward,CF,-,AC Cesena,Italy,?,In,1999,s,serie-a
-Milan AC,Mirco Sadotti,24,Italy,Centre-Back,CB,-,Calcio Monza,Italy,?,In,1999,s,serie-a
-Milan AC,Max Tonetto,24,Italy,Left-Back,LB,-,FC Empoli,Italy,?,In,1999,s,serie-a
-Milan AC,Valerio Fiori,30,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,In,1999,s,serie-a
-Milan AC,Diego De Ascentis,22,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1999,s,serie-a
-Milan AC,Alessandro Budel,18,Italy,Defensive Midfield,DM,-,Milan Primavera,Italy,-,In,1999,s,serie-a
-AS Roma,Vincenzo Montella,25,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,£23.24m,In,1999,s,serie-a
-AS Roma,Sergey Gurenko,26,Belarus,Right-Back,RB,-,Lokomotiv Moscow,Russia,£4.91m,In,1999,s,serie-a
-AS Roma,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,Foggia Calcio,Italy,£495Th.,In,1999,s,serie-a
-AS Roma,Nesat Gülünoglu,20,Turkey,Attacking Midfield,AM,-,VfL Bochum,Germany,?,In,1999,s,serie-a
-AS Roma,Francesco Antonioli,29,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a
-AS Roma,Giuseppe Colucci,18,Italy,Central Midfield,CM,-,Foggia Calcio,Italy,?,In,1999,s,serie-a
-AS Roma,Alessandro Rinaldi,24,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a
-AS Roma,Marcos Assunção,22,Brazil,Central Midfield,CM,-,Clube de Regatas do Flamengo,Brazil,?,In,1999,s,serie-a
-AS Roma,Amedeo Mangone,30,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a
-AS Roma,Cristiano Lupatelli,21,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a
-AS Roma,Cristiano Zanetti,22,Italy,Defensive Midfield,DM,-,Cagliari Calcio,Italy,?,In,1999,s,serie-a
-AS Roma,Ednilson,16,Guinea-Bissau,Defensive Midfield,DM,-,Roma Primavera,Italy,-,In,1999,s,serie-a
-AS Roma,Luca Ferri,19,Italy,Right-Back,RB,-,Roma Primavera,Italy,-,In,1999,s,serie-a
-FC Internazionale,Christian Vieri,25,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£41.83m,In,1999,s,serie-a
-FC Internazionale,Angelo Peruzzi,29,Italy,Goalkeeper,GK,-,Juventus FC,Italy,£17.10m,In,1999,s,serie-a
-FC Internazionale,Christian Panucci,26,Italy,Right-Back,RB,-,Real Madrid,Spain,£8.37m,In,1999,s,serie-a
-FC Internazionale,Michele Serena,29,Italy,Left-Back,LB,-,Atlético Madrid,Spain,£6.75m,In,1999,s,serie-a
-FC Internazionale,Grigoris Georgatos,26,Greece,Left-Back,LB,-,Olympiacos Piraeus,Greece,£6.30m,In,1999,s,serie-a
-FC Internazionale,Cyril Domoraud,27,Cote d'Ivoire,Centre-Back,CB,-,Olympique Marseille,France,£6.30m,In,1999,s,serie-a
-FC Internazionale,Laurent Blanc,33,France,Sweeper,SW,-,Olympique Marseille,France,£5.40m,In,1999,s,serie-a
-FC Internazionale,Vladimir Jugovic,29,Serbia,Left Midfield,LM,-,Atlético Madrid,Spain,£1.80m,In,1999,s,serie-a
-FC Internazionale,Tiago Henrique,17,Brazil,Right Winger,RW,-,Comercial Futebol Clube (SP),Brazil,£180Th.,In,1999,s,serie-a
-FC Internazionale,Edinho,19,Brazil,Left-Back,LB,-,Madureira Esporte Clube (RJ),Brazil,Free transfer,In,1999,s,serie-a
-FC Internazionale,Fabrizio Ferron,33,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,?,In,1999,s,serie-a
-FC Internazionale,Luigi Di Biagio,28,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,In,1999,s,serie-a
-FC Internazionale,Giorgio Frezzolini,23,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,In,1999,s,serie-a
-FC Internazionale,Giuseppe Ticli,20,Italy,Left Midfield,LM,-,Inter Milan Primavera,Italy,-,In,1999,s,serie-a
-AC Parma,Márcio Amoroso,24,Brazil,Centre-Forward,CF,-,Udinese Calcio,Italy,£25.20m,In,1999,s,serie-a
-AC Parma,Ousmane Dabo,22,France,Defensive Midfield,DM,-,FC Internazionale,Italy,£13.94m,In,1999,s,serie-a
-AC Parma,Ariel Ortega,25,Argentina,Attacking Midfield,AM,-,UC Sampdoria,Italy,£3.60m,In,1999,s,serie-a
-AC Parma,Paolo Cannavaro,18,Italy,Centre-Back,CB,-,SSC Napoli,Italy,£900Th.,In,1999,s,serie-a
-AC Parma,Stephen Appiah,18,Ghana,Defensive Midfield,DM,-,Udinese Calcio,Italy,£630Th.,In,1999,s,serie-a
-AC Parma,Johan Walem,27,Belgium,Left Midfield,LM,-,Udinese Calcio,Italy,Loan,In,1999,s,serie-a
-AC Parma,Stefano Torrisi,28,Italy,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1999,s,serie-a
-AC Parma,Roberto Breda,29,Italy,Midfielder,Midfielder,-,US Salernitana,Italy,?,In,1999,s,serie-a
-AC Parma,Fabio Moro,23,Italy,Right-Back,RB,-,Calcio Monza,Italy,?,In,1999,s,serie-a
-AC Parma,Marco Di Vaio,22,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,In,1999,s,serie-a
-AC Parma,Jorge Bolaño,22,Colombia,Central Midfield,CM,-,Junior FC,Colombia,?,In,1999,s,serie-a
-AC Parma,Johnnier Montaño,16,Colombia,Attacking Midfield,AM,-,Quilmes Atlético Club,Argentina,?,In,1999,s,serie-a
-AC Parma,Pietro Strada,29,Italy,Left Midfield,LM,-,AC Perugia,Italy,?,In,1999,s,serie-a
-AC Parma,Davide Zoboli,17,Italy,Centre-Back,CB,-,Parma Primavera,Italy,-,In,1999,s,serie-a
-Hellas Verona,Anthony Seric,20,Croatia,Left-Back,LB,-,HNK Hajduk Split,Croatia,£1.98m,In,1999,s,serie-a
-Hellas Verona,Adaílton,22,Brazil,Second Striker,SS,-,Paris Saint-Germain,France,Free transfer,In,1999,s,serie-a
-Hellas Verona,Sébastien Frey,19,France,Goalkeeper,GK,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a
-Hellas Verona,Luca Mezzano,21,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,1999,s,serie-a
-Hellas Verona,Marco Franceschetti,32,Italy,Midfielder,Midfielder,-,UC Sampdoria,Italy,?,In,1999,s,serie-a
-Hellas Verona,Emiliano Salvetti,25,Italy,Attacking Midfield,AM,-,AC Cesena,Italy,?,In,1999,s,serie-a
-Hellas Verona,Elvis Abbruscato,18,Italy,Centre-Forward,CF,-,AC Reggiana,Italy,?,In,1999,s,serie-a
-Hellas Verona,Aimo Diana,21,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,Loan,In,1999,s,serie-a
-Hellas Verona,Alessandro Pagano,27,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,In,1999,s,serie-a
-Hellas Verona,Luigi Apolloni,32,Italy,Centre-Back,CB,-,AC Parma,Italy,?,In,1999,s,serie-a
-Hellas Verona,Giuseppe Anastasi,25,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1999,s,serie-a
-Hellas Verona,Gianluca Pegolo,18,Italy,Goalkeeper,GK,-,Hellas Verona Primavera,Italy,-,In,1999,s,serie-a
-AS Bari,Simone Perrotta,21,Italy,Attacking Midfield,AM,-,Juventus FC,Italy,£1.66m,In,1999,s,serie-a
-AS Bari,Antonio Chisena,19,Italy,Forward,Forward,-,FC Messina Peloro,Italy,?,In,1999,s,serie-a
-AS Bari,Diego Markic,22,Argentina,Midfielder,Midfielder,-,Asociación Atlética Argentinos Juniors,Argentina,?,In,1999,s,serie-a
-AS Bari,Raphael Chukwu,23,Nigeria,Centre-Forward,CF,-,Mamelodi Sundowns FC,South Africa,?,In,1999,s,serie-a
-AS Bari,Alessio De Stefani,19,Italy,Defender,Defender,-,Varese FC,Italy,?,In,1999,s,serie-a
-AS Bari,Antonio Bellavista,21,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,In,1999,s,serie-a
-AS Bari,Alessandro Del Grosso,26,Italy,Right-Back,RB,-,US Salernitana,Italy,?,In,1999,s,serie-a
-AS Bari,Matteo Ferrari,19,Italy,Centre-Back,CB,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a
-AS Bari,Mattia Collauto,25,Italy,Right Midfield,RM,-,US Cremonese,Italy,?,In,1999,s,serie-a
-AS Bari,Hugo,18,Nigeria,Centre-Forward,CF,-,RWD Molenbeek,Belgium,?,In,1999,s,serie-a
-AS Bari,Moris Carrozzieri,18,Italy,Centre-Back,CB,-,Bari Primavera,Italy,-,In,1999,s,serie-a
-AS Bari,Antonio Cassano,16,Italy,Second Striker,SS,-,Bari Primavera,Italy,-,In,1999,s,serie-a
-AS Bari,Antonio La Fortezza,17,Italy,Defensive Midfield,DM,-,Bari Primavera,Italy,-,In,1999,s,serie-a
-SS Lazio,Juan Sebastián Verón,24,Argentina,Central Midfield,CM,-,AC Parma,Italy,£27.00m,In,1999,s,serie-a
-SS Lazio,Diego Simeone,29,Argentina,Central Midfield,CM,-,FC Internazionale,Italy,£9.81m,In,1999,s,serie-a
-SS Lazio,Néstor Sensini,32,Argentina,Centre-Back,CB,-,AC Parma,Italy,£6.75m,In,1999,s,serie-a
-SS Lazio,Luca Mondini,29,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,Loan,In,1999,s,serie-a
-SS Lazio,Kennet Andersson,31,Sweden,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,In,1999,s,serie-a
-SS Lazio,Simone Inzaghi,23,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,?,In,1999,s,serie-a
-SS Lazio,Emanuele Concetti,21,Italy,Goalkeeper,GK,-,Lazio Primavera,Italy,-,In,1999,s,serie-a
-SS Lazio,Gasperino Cinelli,17,Italy,Centre-Forward,CF,-,Lazio Primavera,Italy,-,In,1999,s,serie-a
-SS Lazio,Marco Pisano,17,Italy,Left-Back,LB,-,Lazio Primavera,Italy,-,In,1999,s,serie-a
-Udinese Calcio,Roberto Muzzi,27,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,£9.00m,In,1999,s,serie-a
-Udinese Calcio,Stefano Fiore,24,Italy,Attacking Midfield,AM,-,AC Parma,Italy,£8.73m,In,1999,s,serie-a
-Udinese Calcio,Warley,21,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,£6.30m,In,1999,s,serie-a
-Udinese Calcio,Jorginho Paulista,19,Brazil,Left-Back,LB,-,PSV Eindhoven,Netherlands,£810Th.,In,1999,s,serie-a
-Udinese Calcio,Antonio Orefice,20,Italy,Right-Back,RB,-,Castrovillari Calcio,Italy,Free transfer,In,1999,s,serie-a
-Udinese Calcio,Édson Di,19,Brazil,Forward,Forward,-,São Paulo Futebol Clube,Brazil,Free transfer,In,1999,s,serie-a
-Udinese Calcio,Thomas Manfredini,19,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Mauro Esposito,20,Italy,Right Winger,RW,-,Delfino Pescara 1936,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Fabio Pittilino,22,Switzerland,Defender,Defender,-,Brescia Calcio,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Alberto Valentim,24,Brazil,Right Midfield,RM,-,Atlético Paranaense,Brazil,?,In,1999,s,serie-a
-Udinese Calcio,Olivier Renard,20,Belgium,Goalkeeper,GK,-,RSC Charleroi,Belgium,?,In,1999,s,serie-a
-Udinese Calcio,Morgan De Sanctis,22,Italy,Goalkeeper,GK,-,Juventus FC,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Massimo Margiotta,21,Venezuela,Second Striker,SS,-,AC Reggiana,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Andrea Sottil,25,Italy,Centre-Back,CB,-,Atalanta BC,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Francesco Pistolesi,18,Italy,Centre-Forward,CF,-,AS Sora Calcio,Italy,Loan,In,1999,s,serie-a
-Udinese Calcio,David Pizarro,19,Chile,Central Midfield,CM,-,Santiago Wanderers,Chile,?,In,1999,s,serie-a
-Udinese Calcio,Marco Zamboni,21,Italy,Centre-Back,CB,-,US Lecce,Italy,?,In,1999,s,serie-a
-Udinese Calcio,Dario Antonini,17,Italy,Midfielder,Midfielder,-,Udinese Primavera,Italy,-,In,1999,s,serie-a
-Udinese Calcio,Alessandro Noselli,18,Italy,Centre-Forward,CF,-,Udinese Primavera,Italy,-,In,1999,s,serie-a
-Torino Calcio,Marcus Lantz,23,Sweden,Central Midfield,CM,-,Helsingborgs IF,Sweden,£900Th.,In,1999,s,serie-a
-Torino Calcio,Francesco Coco,22,Italy,Left-Back,LB,-,Milan AC,Italy,Loan fee:£450Th.,In,1999,s,serie-a
-Torino Calcio,André Pinga,18,Brazil,Attacking Midfield,AM,-,Clube Atlético Juventus (SP),Brazil,Free transfer,In,1999,s,serie-a
-Torino Calcio,Fabio Galante,25,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,1999,s,serie-a
-Torino Calcio,Alejandro Escalona,19,Chile,Left-Back,LB,-,CSD Colo Colo,Chile,?,In,1999,s,serie-a
-Torino Calcio,Gustavo Méndez,28,Uruguay,Right-Back,RB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-Torino Calcio,Djibril Diawara,24,Senegal,Centre-Back,CB,-,AS Monaco,France,?,In,1999,s,serie-a
-Torino Calcio,Alessandro Nista,33,Italy,Goalkeeper,GK,-,AC Parma,Italy,?,In,1999,s,serie-a
-Torino Calcio,Erik Edman,20,Sweden,Left-Back,LB,-,Helsingborgs IF,Sweden,?,In,1999,s,serie-a
-Torino Calcio,Fabio Pecchia,25,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,In,1999,s,serie-a
-Torino Calcio,Luigi Panarelli,23,Italy,Right-Back,RB,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a
-Torino Calcio,Abdullah Fusseini,17,Ghana,Midfielder,Midfielder,-,King Faisal FC,Ghana,?,In,1999,s,serie-a
-Torino Calcio,Ilija Ivic,28,Serbia,Centre-Forward,CF,-,Olympiacos Piraeus,Greece,?,In,1999,s,serie-a
-Torino Calcio,Andrea Silenzi,33,Italy,Centre-Forward,CF,-,Ravenna FC,Italy,?,In,1999,s,serie-a
-Torino Calcio,Emanuele Calaiò,17,Italy,Centre-Forward,CF,-,Torino Primavera,Italy,-,In,1999,s,serie-a
-Torino Calcio,Fabio Quagliarella,16,Italy,Centre-Forward,CF,-,Torino Primavera,Italy,-,In,1999,s,serie-a
-Torino Calcio,Daniele Martinelli,17,Italy,Centre-Back,CB,-,Torino Primavera,Italy,-,In,1999,s,serie-a
-AC Fiorentina,Predrag Mijatović,30,Montenegro,Centre-Forward,CF,-,Real Madrid,Spain,£10.80m,In,1999,s,serie-a
-AC Fiorentina,Enrico Chiesa,28,Italy,Centre-Forward,CF,-,AC Parma,Italy,£9.63m,In,1999,s,serie-a
-AC Fiorentina,Leandro Amaral,21,Brazil,Centre-Forward,CF,-,Associação Portuguesa de Desportos (SP) ,Brazil,£1.80m,In,1999,s,serie-a
-AC Fiorentina,Daniele Adani,24,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,Free transfer,In,1999,s,serie-a
-AC Fiorentina,Abel Balbo,33,Argentina,Centre-Forward,CF,-,AC Parma,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Paul Okon,27,Australia,Defensive Midfield,DM,-,SS Lazio,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Mattia Passarini,18,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Fabio Rossitto,27,Italy,Right Midfield,RM,-,SSC Napoli,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Mauro Bressan,28,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Alessandro Pierini,26,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Angelo Di Livio,32,Italy,Right Midfield,RM,-,Juventus FC,Italy,?,In,1999,s,serie-a
-AC Fiorentina,Giuseppe Taglialatela,30,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,,In,1999,s,serie-a
-Juventus FC,Darko Kovacevic,25,Serbia,Centre-Forward,CF,-,Real Sociedad,Spain,£15.30m,In,1999,s,serie-a
-Juventus FC,Sunday Oliseh,24,Nigeria,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£9.00m,In,1999,s,serie-a
-Juventus FC,Gianluca Zambrotta,22,Italy,Right-Back,RB,-,AS Bari,Italy,£7.20m,In,1999,s,serie-a
-Juventus FC,Igor Tudor,21,Croatia,Centre-Back,CB,-,HNK Hajduk Split,Croatia,£3.33m,In,1999,s,serie-a
-Juventus FC,Edwin van der Sar,28,Netherlands,Goalkeeper,GK,-,Ajax Amsterdam,Netherlands,Free transfer,In,1999,s,serie-a
-Juventus FC,Jonathan Bachini,24,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,In,1999,s,serie-a
-Juventus FC,Ronnie O'Brien,20,Ireland,Midfielder,Midfielder,-,AC Bellinzona,Switzerland,?,In,1999,s,serie-a
-Juventus FC,Luigi Lavecchia,17,Italy,Right Midfield,RM,-,Juventus Primavera,Italy,-,In,1999,s,serie-a
-AC Venezia 1907,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Fiorentina,Italy,£1.80m,In,1999,s,serie-a
-AC Venezia 1907,Dejan Petkovic,26,Serbia,Attacking Midfield,AM,-,Esporte Clube Vitória,Brazil,Free transfer,In,1999,s,serie-a
-AC Venezia 1907,Michael Konsel,37,Austria,Goalkeeper,GK,-,AS Roma,Italy,Free transfer,In,1999,s,serie-a
-AC Venezia 1907,Runar Berg,28,Norway,Central Midfield,CM,-,Rosenborg BK,Norway,?,In,1999,s,serie-a
-AC Venezia 1907,Giampiero Maini,27,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a
-AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,Atletico Catania,Italy,?,In,1999,s,serie-a
-AC Venezia 1907,Fabrizio Casazza,28,Italy,Goalkeeper,GK,-,Torino Calcio,Italy,?,In,1999,s,serie-a
-AC Venezia 1907,Massimo Borgobello,28,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,In,1999,s,serie-a
-AC Venezia 1907,Rubén Maldonado,20,Paraguay,Centre-Back,CB,-,Olimpia Asunción,Paraguay,?,In,1999,s,serie-a
-AC Venezia 1907,Igor Budan,19,Croatia,Centre-Forward,CF,-,HNK Rijeka,Croatia,?,In,1999,s,serie-a
-AC Venezia 1907,Francesco Benussi,17,Italy,Goalkeeper,GK,-,FBC Unione Venezia Berretti,Italy,-,In,1999,s,serie-a
-AC Perugia,Marco Materazzi,25,Italy,Centre-Back,CB,-,Everton FC,England,£3.72m,In,1999,s,serie-a
-AC Perugia,Ibrahim Bá,25,France,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1999,s,serie-a
-AC Perugia,Michele Di Piedi,18,Italy,Centre-Forward,CF,-,Città di Siracusa,Italy,Free transfer,In,1999,s,serie-a
-AC Perugia,Claudio Paris,27,Argentina,Midfielder,Midfielder,-,Club Atlético Newell's Old Boys,Argentina,?,In,1999,s,serie-a
-AC Perugia,Claudio Rivalta,21,Italy,Centre-Back,CB,-,AC Cesena,Italy,?,In,1999,s,serie-a
-AC Perugia,Nicola Amoruso,24,Italy,Centre-Forward,CF,-,Juventus FC,Italy,?,In,1999,s,serie-a
-AC Perugia,Dani,20,Spain,Forward,Forward,-,KSC Eendracht Aalst,Belgium,?,In,1999,s,serie-a
-AC Perugia,Cataldo Montesanto,22,Italy,Defensive Midfield,DM,-,AS Gualdo Casacastalda,Italy,?,In,1999,s,serie-a
-AC Perugia,Mauro Milanese,27,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,In,1999,s,serie-a
-AC Perugia,Marco Capparella,24,Italy,Right Midfield,RM,-,AS Sora Calcio,Italy,?,In,1999,s,serie-a
-AC Perugia,Pierpaolo Bisoli,32,Italy,Right Midfield,RM,-,FC Empoli,Italy,?,In,1999,s,serie-a
-AC Perugia,Stefano Guidoni,27,Italy,Forward,Forward,-,Hellas Verona,Italy,?,In,1999,s,serie-a
-AC Perugia,Daniele Daino,19,Italy,Right-Back,RB,-,Milan AC,Italy,Loan,In,1999,s,serie-a
-AC Perugia,Alessandro Calori,32,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,1999,s,serie-a
-AC Perugia,Massimiliano Esposito,27,Italy,Right Midfield,RM,-,SSC Napoli,Italy,?,In,1999,s,serie-a
-AC Perugia,Fabio Gatti,17,Italy,Defensive Midfield,DM,-,Perugia Primavera,Italy,-,In,1999,s,serie-a
-US Lecce,Jorge Casanova,22,Uruguay,Central Midfield,CM,-,Club Atlético Bella Vista,Uruguay,?,In,1999,s,serie-a
-US Lecce,Ivan Aiardi,28,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a
-US Lecce,Cristiano Lucarelli,23,Italy,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1999,s,serie-a
-US Lecce,Gianluca Colonnello,26,Italy,Left-Back,LB,-,AC Perugia,Italy,?,In,1999,s,serie-a
-US Lecce,Angelo Paradiso,22,Italy,Midfielder,Midfielder,-,SSC Napoli,Italy,?,In,1999,s,serie-a
-US Lecce,Claudio Bonomi,26,Italy,Left Midfield,LM,-,FC Empoli,Italy,?,In,1999,s,serie-a
-US Lecce,Antonio Chimenti,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,In,1999,s,serie-a
-US Lecce,Alberto Savino,26,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,1999,s,serie-a
-US Lecce,Matteo Pivotto,24,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,In,1999,s,serie-a
-US Lecce,Domenico Di Carlo,35,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-US Lecce,Francesco Marino,28,Italy,Second Striker,SS,-,Brescia Calcio,Italy,Loan,In,1999,s,serie-a
-US Lecce,David Balleri,30,Italy,Right-Back,RB,-,UC Sampdoria,Italy,?,In,1999,s,serie-a
-US Lecce,Emiliano Biliotti,24,Italy,Attacking Midfield,AM,-,Ravenna FC,Italy,?,In,1999,s,serie-a
-US Lecce,Alessandro De Poli,29,Italy,Right Winger,RW,-,ACD Treviso,Italy,?,In,1999,s,serie-a
-US Lecce,Axel Konan,16,Cote d'Ivoire,Left Winger,LW,-,Lecce Primavera,Italy,-,In,1999,s,serie-a
-Bologna FC 1909,Zé Elias,22,Brazil,Central Midfield,CM,-,FC Internazionale,Italy,£675Th.,In,1999,s,serie-a
-Bologna FC 1909,Giulio Falcone,25,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,Free transfer,In,1999,s,serie-a
-Bologna FC 1909,Gianluca Pagliuca,32,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,?,In,1999,s,serie-a
-Bologna FC 1909,Andrea Ferrari,22,Italy,Goalkeeper,GK,-,AC Carpi,Italy,?,In,1999,s,serie-a
-Bologna FC 1909,Nicola Ventola,21,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a
-Bologna FC 1909,Pierre Womé,20,Cameroon,Left-Back,LB,-,AS Roma,Italy,?,In,1999,s,serie-a
-Bologna FC 1909,Fausto Ferrari,19,Italy,Centre-Forward,CF,-,AC Carpi,Italy,?,In,1999,s,serie-a
-Bologna FC 1909,Cristian Zaccardo,17,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,1999,s,serie-a
-Bologna FC 1909,Alessandro Gamberini,17,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,1999,s,serie-a
-Reggina Calcio,Gustavo Reggi,26,Argentina,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,Free transfer,In,1999,s,serie-a
-Reggina Calcio,Mohamed Kallon,19,Sierra Leone,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Nenad Pralija,28,Croatia,Defensive Midfield,DM,-,HNK Hajduk Split,Croatia,?,In,1999,s,serie-a
-Reggina Calcio,Andrea Bernini,26,Italy,Right Midfield,RM,-,Aquila 1902 Montevarchi,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Salvatore Vicari,18,Italy,Right Midfield,RM,-,US Palermo,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Giovanni Morabito,20,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Ezio Brevi,29,Italy,Defensive Midfield,DM,-,Ternana Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Roberto Baronio,21,Italy,Defensive Midfield,DM,-,SS Lazio,Italy,Loan,In,1999,s,serie-a
-Reggina Calcio,Vladimiro Sbaglia,20,Italy,Midfielder,Midfielder,-,Frosinone Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Riccardo Marroccolo,20,Italy,Forward,Forward,-,Frosinone Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Jorge Vargas,23,Chile,Centre-Back,CB,-,CD Universidad Católica,Chile,?,In,1999,s,serie-a
-Reggina Calcio,Andrea Pirlo,20,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a
-Reggina Calcio,Lorenzo Stovini,22,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Paolo Foglio,23,Italy,Right-Back,RB,-,Hellas Verona,Italy,?,In,1999,s,serie-a
-Reggina Calcio,Helmut Rahner,28,Germany,Centre-Back,CB,-,1.FC Nuremberg,Germany,?,In,1999,s,serie-a
-Reggina Calcio,Giandomenico Mesto,17,Italy,Right-Back,RB,-,Reggina Primavera,Italy,-,In,1999,s,serie-a
-Reggina Calcio,Stefano Dall'Acqua,17,Italy,Centre-Forward,CF,-,Reggina Primavera,Italy,-,In,1999,s,serie-a
-Cagliari Calcio,Daniele Conti,20,Italy,Defensive Midfield,DM,-,AS Roma,Italy,£585Th.,In,1999,s,serie-a
-Cagliari Calcio,François Modesto,20,France,Centre-Back,CB,-,SC Bastia,France,Free transfer,In,1999,s,serie-a
-Cagliari Calcio,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,Loan,In,1999,s,serie-a
-Cagliari Calcio,Luis Oliveira,30,Belgium,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1999,s,serie-a
-Cagliari Calcio,Nicola Di Liso,24,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-Cagliari Calcio,Giovanni Sulcis,24,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,In,1999,s,serie-a
-Cagliari Calcio,Jason Mayélé,23,DR Congo,Forward,Forward,-,LB Châteauroux,France,?,In,1999,s,serie-a
-Cagliari Calcio,David Suazo,19,Honduras,Centre-Forward,CF,-,CD Olimpia,Honduras,?,In,1999,s,serie-a
-Cagliari Calcio,Nicola Diliso,24,Italy,Defender,Defender,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a
-Cagliari Calcio,Raffaele Ametrano,26,Italy,Right-Back,RB,-,Juventus FC,Italy,Loan,In,1999,s,serie-a
-Piacenza FC,Arturo Di Napoli,25,Italy,Centre-Forward,CF,-,FC Empoli,Italy,£3.38m,In,1999,s,serie-a
-Piacenza FC,Flavio Roma,25,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,In,1999,s,serie-a
-Piacenza FC,Carmine Gautieri,29,Italy,Right Winger,RW,-,AS Roma,Italy,?,In,1999,s,serie-a
-Piacenza FC,Andrea Tagliaferri,20,Italy,Midfielder,Midfielder,-,Pro Patria Gallaratese GB,Italy,?,In,1999,s,serie-a
-Piacenza FC,Davide Bagnacani,19,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,?,In,1999,s,serie-a
-Piacenza FC,Francesco Zitolo,17,Italy,Attacking Midfield,AM,-,US Pro Vercelli,Italy,?,In,1999,s,serie-a
-Piacenza FC,Alberto Gilardino,16,Italy,Centre-Forward,CF,-,Piacenza Juniores,Italy,-,In,1999,s,serie-a
-Milan AC,Christian Ziege,27,Germany,Left Midfield,LM,-,Middlesbrough FC,England,£5.40m,Out,1999,s,serie-a
-Milan AC,Francesco Coco,22,Italy,Left-Back,LB,-,Torino Calcio,Italy,Loan fee:£450Th.,Out,1999,s,serie-a
-Milan AC,Massimo Oddo,23,Italy,Right-Back,RB,-,SSC Napoli,Italy,Loan fee:£135Th.,Out,1999,s,serie-a
-Milan AC,Dida,25,Brazil,Goalkeeper,GK,-,Sport Club Corinthians Paulista,Brazil,Loan,Out,1999,s,serie-a
-Milan AC,Zizi Roberts,20,Liberia,Centre-Forward,CF,-,AC Bellinzona,Switzerland,Loan,Out,1999,s,serie-a
-Milan AC,Ibrahim Bá,25,France,Right Midfield,RM,-,AC Perugia,Italy,Loan,Out,1999,s,serie-a
-Milan AC,Massimo Maccarone,19,Italy,Centre-Forward,CF,-,Varese FC,Italy,Loan,Out,1999,s,serie-a
-Milan AC,Roberto Donadoni,35,Italy,Right Midfield,RM,-,Al-Ittihad Jeddah,Saudi Arabia,Free transfer,Out,1999,s,serie-a
-Milan AC,Daniele Daino,19,Italy,Right-Back,RB,-,AC Perugia,Italy,Loan,Out,1999,s,serie-a
-Milan AC,Giorgio Frezzolini,23,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,?,Out,1999,s,serie-a
-Milan AC,Alessandro Iannuzzi,23,Italy,Forward,Forward,-,AC Reggiana,Italy,?,Out,1999,s,serie-a
-Milan AC,Matteo Contini,19,Italy,Centre-Back,CB,-,AS Livorno,Italy,Loan,Out,1999,s,serie-a
-Milan AC,Luca Vitali,19,Italy,Central Midfield,CM,-,AS Gubbio 1910,Italy,?,Out,1999,s,serie-a
-Milan AC,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AS Roma,Paulo Sérgio,30,Brazil,Left Winger,LW,-,Bayern Munich,Germany,£5.94m,Out,1999,s,serie-a
-AS Roma,Daniele Conti,20,Italy,Defensive Midfield,DM,-,Cagliari Calcio,Italy,£585Th.,Out,1999,s,serie-a
-AS Roma,Omari Tetradze,29,Russia,Right-Back,RB,-,PAOK Thessaloniki,Greece,Free transfer,Out,1999,s,serie-a
-AS Roma,Michael Konsel,37,Austria,Goalkeeper,GK,-,AC Venezia 1907,Italy,Free transfer,Out,1999,s,serie-a
-AS Roma,Fábio Júnior,22,Brazil,Centre-Forward,CF,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,1999,s,serie-a
-AS Roma,Daniele De Vezze,19,Italy,Central Midfield,CM,-,AC Savoia 1908,Italy,Loan,Out,1999,s,serie-a
-AS Roma,Pierre Womé,20,Cameroon,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,s,serie-a
-AS Roma,Filippo Dal Moro,28,Italy,Left-Back,LB,-,AEK Athens,Greece,Loan,Out,1999,s,serie-a
-AS Roma,Giuseppe Colucci,18,Italy,Central Midfield,CM,-,FC Girondins Bordeaux,France,Loan,Out,1999,s,serie-a
-AS Roma,Antonio Chimenti,29,Italy,Goalkeeper,GK,-,US Lecce,Italy,?,Out,1999,s,serie-a
-AS Roma,Luigi Di Biagio,28,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,?,Out,1999,s,serie-a
-AS Roma,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a
-AS Roma,Alessandro Frau,22,Italy,Attacking Midfield,AM,-,US Palermo,Italy,Loan,Out,1999,s,serie-a
-AS Roma,Carmine Gautieri,29,Italy,Right Winger,RW,-,Piacenza FC,Italy,?,Out,1999,s,serie-a
-FC Internazionale,Ousmane Dabo,22,France,Defensive Midfield,DM,-,AC Parma,Italy,£13.94m,Out,1999,s,serie-a
-FC Internazionale,Diego Simeone,29,Argentina,Central Midfield,CM,-,SS Lazio,Italy,£9.81m,Out,1999,s,serie-a
-FC Internazionale,Mikaël Silvestre,22,France,Centre-Back,CB,-,Manchester United,England,£5.13m,Out,1999,s,serie-a
-FC Internazionale,Youri Djorkaeff,31,France,Attacking Midfield,AM,-,1.FC Kaiserslautern,Germany,£1.35m,Out,1999,s,serie-a
-FC Internazionale,Zé Elias,22,Brazil,Central Midfield,CM,-,Bologna FC 1909,Italy,£675Th.,Out,1999,s,serie-a
-FC Internazionale,Aron Winter,32,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£540Th.,Out,1999,s,serie-a
-FC Internazionale,Ivan Rezic,19,Croatia,Central Midfield,CM,-,NK Varteks Varazdin,Croatia,Free transfer,Out,1999,s,serie-a
-FC Internazionale,Sébastien Frey,19,France,Goalkeeper,GK,-,Hellas Verona,Italy,Loan,Out,1999,s,serie-a
-FC Internazionale,Giuseppe Ticli,20,Italy,Left Midfield,LM,-,Calcio Padova,Italy,Loan,Out,1999,s,serie-a
-FC Internazionale,Mauro Milanese,27,Italy,Left-Back,LB,-,AC Perugia,Italy,?,Out,1999,s,serie-a
-FC Internazionale,Andrea Pirlo,20,Italy,Defensive Midfield,DM,-,Reggina Calcio,Italy,Loan,Out,1999,s,serie-a
-FC Internazionale,Gianluca Pagliuca,32,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,?,Out,1999,s,serie-a
-FC Internazionale,Zoumana Camara,20,France,Centre-Back,CB,-,SC Bastia,France,Loan,Out,1999,s,serie-a
-FC Internazionale,Matteo Ferrari,19,Italy,Centre-Back,CB,-,AS Bari,Italy,Loan,Out,1999,s,serie-a
-FC Internazionale,Fabio Galante,25,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,1999,s,serie-a
-FC Internazionale,Nicola Ventola,21,Italy,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,Out,1999,s,serie-a
-FC Internazionale,Gilberto,23,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1999,s,serie-a
-FC Internazionale,Raffaele Nuzzo,26,Italy,Goalkeeper,GK,-,Coventry City,England,?,Out,1999,s,serie-a
-FC Internazionale,Giuseppe Bergomi,35,Italy,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a
-FC Internazionale,Emanuele Barsotti,20,Italy,Midfielder,Midfielder,-,,Retired,-,Out,1999,s,serie-a
-AC Parma,Juan Sebastián Verón,24,Argentina,Central Midfield,CM,-,SS Lazio,Italy,£27.00m,Out,1999,s,serie-a
-AC Parma,Enrico Chiesa,28,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,£9.63m,Out,1999,s,serie-a
-AC Parma,Stefano Fiore,24,Italy,Attacking Midfield,AM,-,Udinese Calcio,Italy,£8.73m,Out,1999,s,serie-a
-AC Parma,Néstor Sensini,32,Argentina,Centre-Back,CB,-,SS Lazio,Italy,£6.75m,Out,1999,s,serie-a
-AC Parma,Mohamed Kader,20,Togo,Centre-Forward,CF,-,FC Lugano,Switzerland,Free transfer,Out,1999,s,serie-a
-AC Parma,Reynald Pedros,27,France,Left Midfield,LM,-,HSC Montpellier,France,Free transfer,Out,1999,s,serie-a
-AC Parma,Luigi Apolloni,32,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,1999,s,serie-a
-AC Parma,Abel Balbo,33,Argentina,Centre-Forward,CF,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a
-AC Parma,Zlatko Zebic,20,Jugoslawien (SFR),Attacking Midfield,AM,-,BSC Young Boys,Switzerland,Loan,Out,1999,s,serie-a
-AC Parma,Simone Barone,21,Italy,Central Midfield,CM,-,Alzano Virescit,Italy,Loan,Out,1999,s,serie-a
-AC Parma,Faustino Asprilla,29,Colombia,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1999,s,serie-a
-AC Parma,Alessandro Nista,33,Italy,Goalkeeper,GK,-,Torino Calcio,Italy,?,Out,1999,s,serie-a
-AC Parma,Roberto Mussi,35,Italy,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a
-Hellas Verona,Eugenio Corini,28,Italy,Defensive Midfield,DM,-,Chievo Verona,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Paolo Foglio,23,Italy,Right-Back,RB,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Settimio Lucci,33,Italy,Defender,Defender,-,Ternana Calcio,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Alessandro Pagano,27,Italy,Midfielder,Midfielder,-,AC Siena,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Daniele Amerini,24,Italy,Central Midfield,CM,-,US Pistoiese 1921,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Claudio Ferrarese,20,Italy,Right Winger,RW,-,US Pistoiese 1921,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Corrado Venturi,19,Italy,Defender,Defender,-,Calcio Lecco 1912,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Gennaro Iezzo,26,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Luca Mezzano,21,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,Out,1999,s,serie-a
-Hellas Verona,Stefano Guidoni,27,Italy,Forward,Forward,-,AC Perugia,Italy,?,Out,1999,s,serie-a
-AS Bari,Gianluca Zambrotta,22,Italy,Right-Back,RB,-,Juventus FC,Italy,£7.20m,Out,1999,s,serie-a
-AS Bari,Mauro Bressan,28,Italy,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a
-AS Bari,Michele Tarallo,18,Italy,Centre-Forward,CF,-,AC Prato,Italy,?,Out,1999,s,serie-a
-AS Bari,Alessio De Stefani,20,Italy,Defender,Defender,-,Atletico Catania,Italy,Loan,Out,1999,s,serie-a
-AS Bari,Diego De Ascentis,22,Italy,Defensive Midfield,DM,-,Milan AC,Italy,?,Out,1999,s,serie-a
-AS Bari,Rocco Roberto Paris,20,Italy,Left-Back,LB,-,Calcio Catania,Italy,?,Out,1999,s,serie-a
-SS Lazio,Christian Vieri,25,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£41.83m,Out,1999,s,serie-a
-SS Lazio,Paul Okon,27,Australia,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a
-SS Lazio,Giorgio Santarelli,18,Italy,Right-Back,RB,-,Calcio Catania,Italy,Loan,Out,1999,s,serie-a
-SS Lazio,Francesco Carbone,19,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,Out,1999,s,serie-a
-SS Lazio,Federico Crovari,24,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,Out,1999,s,serie-a
-SS Lazio,Pasqualino Guido,20,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a
-SS Lazio,Iván De La Peña,23,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,Out,1999,s,serie-a
-SS Lazio,Roberto Baronio,21,Italy,Defensive Midfield,DM,-,Reggina Calcio,Italy,Loan,Out,1999,s,serie-a
-SS Lazio,Valentino Sbaccanti,19,Italy,Midfielder,Midfielder,-,Calcio Catania,Italy,?,Out,1999,s,serie-a
-SS Lazio,Gasperino Cinelli,17,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,Out,1999,s,serie-a
-SS Lazio,Stefano Di Fiordo,19,Italy,Centre-Back,CB,-,Calcio Padova,Italy,,Out,1999,s,serie-a
-Udinese Calcio,Márcio Amoroso,24,Brazil,Centre-Forward,CF,-,AC Parma,Italy,£25.20m,Out,1999,s,serie-a
-Udinese Calcio,Stephen Appiah,18,Ghana,Defensive Midfield,DM,-,AC Parma,Italy,£630Th.,Out,1999,s,serie-a
-Udinese Calcio,Harald Wapenaar,29,Netherlands,Goalkeeper,GK,-,FC Utrecht,Netherlands,£585Th.,Out,1999,s,serie-a
-Udinese Calcio,Johan Walem,27,Belgium,Left Midfield,LM,-,AC Parma,Italy,Loan,Out,1999,s,serie-a
-Udinese Calcio,Mauro Navas,24,Argentina,Right Midfield,RM,-,RCD Espanyol Barcelona,Spain,?,Out,1999,s,serie-a
-Udinese Calcio,Massamasso Tchangai,20,Togo,Centre-Back,CB,-,De Graafschap Doetinchem,Netherlands,?,Out,1999,s,serie-a
-Udinese Calcio,Patrik Fredholm,21,Sweden,Midfielder,Midfielder,-,De Graafschap Doetinchem,Netherlands,?,Out,1999,s,serie-a
-Udinese Calcio,Vito Lasalandra,24,Italy,Right Midfield,RM,-,AC Savoia 1908,Italy,Loan,Out,1999,s,serie-a
-Udinese Calcio,Jonathan Bachini,24,Italy,Right Midfield,RM,-,Juventus FC,Italy,?,Out,1999,s,serie-a
-Udinese Calcio,Delio Toledo,22,Paraguay,Left-Back,LB,-,Club Cerro Porteño,Paraguay,?,Out,1999,s,serie-a
-Udinese Calcio,Daniele Chiarini,20,Italy,Centre-Back,CB,-,Aquila 1902 Montevarchi,Italy,?,Out,1999,s,serie-a
-Udinese Calcio,Ousmane Sanda Sanda,17,Cameroon,Midfielder,Midfielder,-,De Graafschap Doetinchem,Netherlands,Loan,Out,1999,s,serie-a
-Udinese Calcio,Alessandro Pierini,26,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a
-Udinese Calcio,Maurizio Bedin,20,Italy,Central Midfield,CM,-,Calcio Monza,Italy,Loan,Out,1999,s,serie-a
-Udinese Calcio,Alessandro Calori,32,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,Out,1999,s,serie-a
-Udinese Calcio,David Stefani,24,Italy,Central Midfield,CM,-,ASD Castel di Sangro,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Stefano Sorrentino,20,Italy,Goalkeeper,GK,-,AC Juve Stabia,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Franco Semioli,19,Italy,Right Winger,RW,-,US Salernitana,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Fabrizio Casazza,28,Italy,Goalkeeper,GK,-,AC Venezia 1907,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Massimiliano Grotto,19,Italy,Midfielder,Midfielder,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Gianluca Comotto,20,Italy,Right-Back,RB,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Federico Balzaretti,17,Italy,Left-Back,LB,-,Varese FC,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Pietro Parente,27,Italy,Midfielder,Midfielder,-,Genoa CFC,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Domenico Commisso,19,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Riccardo Fissore,19,Italy,Centre-Back,CB,-,AC Juve Stabia,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Simone Tiribocchi,21,Italy,Centre-Forward,CF,-,FC Sporting Benevento,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Giuseppe Scienza,32,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Marco Sanna,29,Italy,Central Midfield,CM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Piero Lo Gatto,20,Italy,Midfielder,Midfielder,-,FC Crotone Calcio,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Stefano Fattori,27,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,Loan,Out,1999,s,serie-a
-Torino Calcio,Giuseppe Guercia,17,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Carlo Sassarini,27,Italy,Left-Back,LB,-,Genoa CFC,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Roberto Bacci,32,Italy,Centre-Back,CB,-,AC Arezzo,Italy,?,Out,1999,s,serie-a
-Torino Calcio,Andrea Citterio,23,Italy,Centre-Back,CB,-,Fermana Calcio 1920,Italy,Loan,Out,1999,s,serie-a
-AC Fiorentina,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Venezia 1907,Italy,£1.80m,Out,1999,s,serie-a
-AC Fiorentina,Giulio Falcone,25,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,Free transfer,Out,1999,s,serie-a
-AC Fiorentina,Fabrizio Ficini,25,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,Cagliari Calcio,Italy,Loan,Out,1999,s,serie-a
-AC Fiorentina,Carmine Esposito,28,Italy,Forward,Forward,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Alessandro Zandonà,23,Italy,Goalkeeper,GK,-,Giorgione Calcio,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Roberto Mirri,20,Italy,Centre-Back,CB,-,FC Empoli,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Edmundo,28,Brazil,Second Striker,SS,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1999,s,serie-a
-AC Fiorentina,Danilo Stefani,20,Italy,Central Midfield,CM,-,Turris Calcio,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Giacomo Dondoli,20,Italy,Goalkeeper,GK,-,Cavese 1919,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Francesco Flachi,24,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Anselmo Robbiati,29,Italy,Left Winger,LW,-,SSC Napoli,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Riccardo Spigoli,19,Italy,Forward,Forward,-,Trapani Calcio,Italy,?,Out,1999,s,serie-a
-AC Fiorentina,Luis Oliveira,30,Belgium,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,Out,1999,s,serie-a
-Juventus FC,Angelo Peruzzi,29,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,£17.10m,Out,1999,s,serie-a
-Juventus FC,Thierry Henry,21,France,Centre-Forward,CF,-,Arsenal FC,England,£14.49m,Out,1999,s,serie-a
-Juventus FC,Didier Deschamps,30,France,Defensive Midfield,DM,-,Chelsea FC,England,£1.80m,Out,1999,s,serie-a
-Juventus FC,Simone Perrotta,21,Italy,Attacking Midfield,AM,-,AS Bari,Italy,£1.66m,Out,1999,s,serie-a
-Juventus FC,Marcelo Zalayeta,20,Uruguay,Centre-Forward,CF,-,Sevilla FC,Spain,Loan,Out,1999,s,serie-a
-Juventus FC,Angelo Di Livio,32,Italy,Right Midfield,RM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a
-Juventus FC,Marco Gorzegno,18,Italy,Centre-Back,CB,-,AC Cuneo 1905,Italy,Loan,Out,1999,s,serie-a
-Juventus FC,Salvatore Aronica,21,Italy,Centre-Back,CB,-,FC Crotone Calcio,Italy,?,Out,1999,s,serie-a
-Juventus FC,Jocelyn Blanchard,27,France,Defensive Midfield,DM,-,RC Lens,France,?,Out,1999,s,serie-a
-Juventus FC,Massimiliano Vieri,20,Australia,Centre-Forward,CF,-,Brescello Calcio,Italy,Loan,Out,1999,s,serie-a
-Juventus FC,Christian Manfredini,24,Cote d'Ivoire,Left Winger,LW,-,Genoa CFC,Italy,?,Out,1999,s,serie-a
-Juventus FC,Luca Pellegrini,20,Italy,Midfielder,Midfielder,-,AS Gualdo Casacastalda,Italy,?,Out,1999,s,serie-a
-Juventus FC,Morgan De Sanctis,22,Italy,Goalkeeper,GK,-,Udinese Calcio,Italy,?,Out,1999,s,serie-a
-Juventus FC,Massimo Paci,21,Italy,Centre-Back,CB,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a
-Juventus FC,Nicola Amoruso,24,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1999,s,serie-a
-Juventus FC,Raffaele Ametrano,26,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,Loan,Out,1999,s,serie-a
-AC Venezia 1907,Tuta,25,Brazil,Centre-Forward,CF,-,Atlético Paranaense,Brazil,Free transfer,Out,1999,s,serie-a
-AC Venezia 1907,Massimo Taibi,29,Italy,Goalkeeper,GK,-,Manchester United,England,Free transfer,Out,1999,s,serie-a
-AC Venezia 1907,Gerhard Poschner,29,Germany,Defensive Midfield,DM,-,Rayo Vallecano,Spain,?,Out,1999,s,serie-a
-AC Venezia 1907,Alessio Bandieri,25,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,?,Out,1999,s,serie-a
-AC Venezia 1907,Marco Fabris,18,Italy,Centre-Back,CB,-,Calcio Sandonà,Italy,Loan,Out,1999,s,serie-a
-AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,US Avellino,Italy,?,Out,1999,s,serie-a
-AC Venezia 1907,Tomislav Rukavina,24,Croatia,Right Midfield,RM,-,GNK Dinamo Zagreb,Croatia,?,Out,1999,s,serie-a
-AC Venezia 1907,Fabiano Ballarin,26,Italy,Left-Back,LB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a
-AC Venezia 1907,Andrea De Cecco,20,Italy,Midfielder,Midfielder,-,Calcio Sandonà,Italy,?,Out,1999,s,serie-a
-AC Venezia 1907,Ivone De Franceschi,25,Italy,Left Winger,LW,-,Sporting CP,Portugal,?,Out,1999,s,serie-a
-AC Venezia 1907,Mauro Zironelli,29,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,Out,1999,s,serie-a
-AC Venezia 1907,Kenneth Zeigbo,22,Nigeria,Centre-Forward,CF,-,Al-Ain FC,United Arab Emirates,?,Out,1999,s,serie-a
-AC Venezia 1907,Roberto Franzese,18,Italy,Central Midfield,CM,£23Th.,,Unknown,?,Out,1999,s,serie-a
-AC Venezia 1907,Alessandro Pistone,23,Italy,Left-Back,LB,-,Newcastle United,England,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AC Venezia 1907,Augustine Ahinful,24,Ghana,Centre-Forward,CF,-,União de Leiria,Portugal,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AC Venezia 1907,Álvaro Recoba,23,Uruguay,Second Striker,SS,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AC Perugia,Iván Kaviedes,21,Ecuador,Centre-Forward,CF,-,Celta de Vigo,Spain,£4.50m,Out,1999,s,serie-a
-AC Perugia,Dejan Stefanovic,24,Serbia,Centre-Back,CB,-,OFK Beograd,Serbia,Free transfer,Out,1999,s,serie-a
-AC Perugia,Paulo da Silva,19,Paraguay,Centre-Back,CB,-,Club Atlético Lanús,Argentina,Free transfer,Out,1999,s,serie-a
-AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,San Jose Earthquakes,United States,?,Out,1999,s,serie-a
-AC Perugia,Mirko Ventura,19,Italy,Midfielder,Midfielder,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a
-AC Perugia,Gianluca Colonnello,26,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1999,s,serie-a
-AC Perugia,Diego Pellegrini,28,Italy,Centre-Back,CB,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a
-AC Perugia,David Giubilato,22,Italy,Centre-Back,CB,-,US Viterbese,Italy,?,Out,1999,s,serie-a
-AC Perugia,Cataldo Montesanto,22,Italy,Defensive Midfield,DM,-,US Viterbese,Italy,Loan,Out,1999,s,serie-a
-AC Perugia,Cristian Bucchi,22,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a
-AC Perugia,Gianluca Ricci,31,Italy,Centre-Back,CB,-,US Città di Fasano,Italy,?,Out,1999,s,serie-a
-AC Perugia,Juan Carlos Docabo,28,Argentina,Goalkeeper,GK,-,US Viterbese,Italy,?,Out,1999,s,serie-a
-AC Perugia,Luca Mezzano,21,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,1999,s,serie-a
-AC Perugia,Salvatore Matrecano,28,Italy,Centre-Back,CB,-,Nottingham Forest,England,?,Out,1999,s,serie-a
-AC Perugia,Mika Lehkosuo,29,Finland,Defensive Midfield,DM,-,HJK Helsinki,Finland,?,Out,1999,s,serie-a
-AC Perugia,Gianluca Petrachi,30,Italy,Midfielder,Midfielder,-,Nottingham Forest,England,?,Out,1999,s,serie-a
-AC Perugia,Davide Tentoni,28,Italy,Midfielder,Midfielder,-,Ravenna FC,Italy,?,Out,1999,s,serie-a
-AC Perugia,Pietro Strada,29,Italy,Left Midfield,LM,-,AC Parma,Italy,?,Out,1999,s,serie-a
-AC Perugia,Andrea Carboni,21,Italy,Midfielder,Midfielder,-,,Unknown,?,Out,1999,s,serie-a
-AC Perugia,Zé Maria,25,Brazil,Right-Back,RB,-,Club de Regatas Vasco da Gama,Brazil,Loan,Out,1999,s,serie-a
-AC Perugia,Stefano Guidoni,28,Italy,Forward,Forward,-,US Salernitana,Italy,?,Out,1999,s,serie-a
-AC Perugia,Alessandro Melli,29,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a
-AC Perugia,Simone Montanari,19,Italy,Goalkeeper,GK,-,US Vigor Senigallia,Italy,?,Out,1999,s,serie-a
-AC Perugia,Luca Bordichini,20,Italy,Midfielder,Midfielder,-,Sanremese Calcio,Italy,-,Out,1999,s,serie-a
-AC Perugia,Martín Rivas,22,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AC Perugia,Armando Pantanelli,28,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-AC Perugia,Marco Roccati,23,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-US Lecce,Sergiy Atelkin,27,Ukraine,Centre-Forward,CF,-,Shakhtar Donetsk,Ukraine,Free transfer,Out,1999,s,serie-a
-US Lecce,Roberto Stellone,21,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1999,s,serie-a
-US Lecce,Marcello Campolonghi,24,Italy,Second Striker,SS,-,AC Cesena,Italy,?,Out,1999,s,serie-a
-US Lecce,Francesco Bellucci,26,Italy,Centre-Back,CB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a
-US Lecce,Vincenzo Marruocco,20,Italy,Goalkeeper,GK,-,FC Messina Peloro,Italy,?,Out,1999,s,serie-a
-US Lecce,Jean-Pierre Cyprien,30,France,Centre-Back,CB,-,US Salernitana,Italy,?,Out,1999,s,serie-a
-US Lecce,Stefano Casale,28,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-US Lecce,Christian Cimarelli,23,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,Out,1999,s,serie-a
-US Lecce,Cosimo Nobile,20,Italy,Centre-Forward,CF,-,Sport Club Marsala 1912,Italy,?,Out,1999,s,serie-a
-US Lecce,Marco Zamboni,21,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,Out,1999,s,serie-a
-US Lecce,Fabrizio Lorieri,35,Italy,Goalkeeper,GK,-,US Salernitana,Italy,?,Out,1999,s,serie-a
-US Lecce,Renato Greco,30,Italy,Centre-Forward,CF,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a
-US Lecce,Giovanni Conversano,20,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,Out,1999,s,serie-a
-US Lecce,Giuseppe Giannini,34,Italy,Attacking Midfield,AM,-,,Retired,-,Out,1999,s,serie-a
-US Lecce,Esquerdinha,19,Brazil,Forward,Forward,-,,Retired,-,Out,1999,s,serie-a
-US Lecce,Matteo Ferrari,19,Italy,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-US Lecce,Manuele Blasi,18,Italy,Central Midfield,CM,-,AS Roma,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-Bologna FC 1909,Christophe Sanchez,27,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,Loan,Out,1999,s,serie-a
-Bologna FC 1909,Igor Simutenkov,26,Russia,Centre-Forward,CF,-,CD Tenerife,Spain,Free transfer,Out,1999,s,serie-a
-Bologna FC 1909,Kennet Andersson,31,Sweden,Centre-Forward,CF,-,SS Lazio,Italy,Loan,Out,1999,s,serie-a
-Bologna FC 1909,Amedeo Mangone,30,Italy,Left-Back,LB,-,AS Roma,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Alex Brunner,25,Italy,Goalkeeper,GK,-,Como Calcio,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Filippo Di Leo,20,Italy,Goalkeeper,GK,-,Faenza Calcio,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Francesco Antonioli,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Alessandro Rinaldi,24,Italy,Right-Back,RB,-,AS Roma,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Giovanni Pompei,18,Italy,Second Striker,SS,-,Ascoli Calcio 1898,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Giampiero Maini,27,Italy,Defensive Midfield,DM,-,AC Venezia 1907,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Jero Shakpoke,19,Nigeria,Centre-Back,CB,-,FC Lugano,Switzerland,?,Out,1999,s,serie-a
-Bologna FC 1909,Oscar Magoni,31,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1999,s,serie-a
-Bologna FC 1909,Massimiliano Cappioli,31,Italy,Attacking Midfield,AM,-,,Without Club,-,Out,1999,s,serie-a
-Bologna FC 1909,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Fiorentina,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-Reggina Calcio,Roberto Cevoli,30,San Marino,Centre-Back,CB,-,AC Cesena,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Stefano Dall'Acqua,17,Italy,Centre-Forward,CF,-,HSL Derthona,Italy,Loan,Out,1999,s,serie-a
-Reggina Calcio,Paolo Ziliani,28,Italy,Sweeper,SW,-,ACD Treviso,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Emanuele Aloe,17,Italy,Defender,Defender,-,,Unknown,?,Out,1999,s,serie-a
-Reggina Calcio,Mauro Briano,24,Italy,Defensive Midfield,DM,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Ugo Napolitano,34,Italy,Centre-Back,CB,-,US Catanzaro,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Vittorio Pinciarelli,27,Italy,Midfielder,Midfielder,-,FC Empoli,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Goran Tomic,22,Croatia,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Tonino Martino,30,Italy,Forward,Forward,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Fabio Di Sole,25,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,1999,s,serie-a
-Reggina Calcio,Paulo Pereira,33,Brazil,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a
-Reggina Calcio,Fabio Firmani,21,Italy,Central Midfield,CM,-,Vicenza Calcio,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-Reggina Calcio,Fabio Artico,25,Italy,Centre-Forward,CF,-,FC Empoli,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-Reggina Calcio,Andrea Sussi,25,Italy,Left-Back,LB,-,AC Perugia,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a
-Cagliari Calcio,Roberto Muzzi,27,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,£9.00m,Out,1999,s,serie-a
-Cagliari Calcio,Andrea Pisanu,17,Italy,Right Midfield,RM,-,AC Siena,Italy,Loan,Out,1999,s,serie-a
-Cagliari Calcio,Eupremio Carruezzo,29,Italy,Centre-Forward,CF,-,AS Livorno,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Vincenzo Esposito,28,Italy,Left-Back,LB,-,Calcio Monza,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Matteo Centurioni,25,Italy,Centre-Back,CB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,David Nyathi,30,South Africa,Left-Back,LB,-,MKE Ankaragücü,Turkey,?,Out,1999,s,serie-a
-Cagliari Calcio,Gaetano Vasari,28,Italy,Right Winger,RW,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Daniele Corsi,21,Italy,Goalkeeper,GK,-,L'Aquila Calcio,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Mohamed Kallon,19,Sierra Leone,Centre-Forward,CF,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Cristiano Zanetti,22,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Francesco Zanoncelli,31,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,Out,1999,s,serie-a
-Cagliari Calcio,Gianluca Picciau,19,Italy,Defender,Defender,-,FC Esperia Viareggio,Italy,-,Out,1999,s,serie-a
-Piacenza FC,Valerio Fiori,30,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Sergio Marcon,28,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Adolfo Daniele Speranza,19,Italy,Central Midfield,CM,-,US Fiorenzuola 1922,Italy,Loan,Out,1999,s,serie-a
-Piacenza FC,Stefano Turi,19,Italy,Left Midfield,LM,-,US Triestina,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Daniele Cozzi,20,Italy,Defender,Defender,-,ASD La Biellese,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Simone Inzaghi,23,Italy,Centre-Forward,CF,-,SS Lazio,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Francesco Varrenti,20,Italy,Midfielder,Midfielder,-,ASD Rondinella Marzocco,Italy,?,Out,1999,s,serie-a
-Piacenza FC,Francesco Zerbini,19,Italy,Centre-Forward,CF,-,AS Lodigiani,Italy,Loan,Out,1999,s,serie-a
-Milan AC,José Mari,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£17.10m,In,1999,w,serie-a
-Milan AC,Roque Júnior,23,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,£7.65m,In,1999,w,serie-a
-Milan AC,José Chamot,30,Argentina,Centre-Back,CB,-,Atlético Madrid,Spain,£2.70m,In,1999,w,serie-a
-Milan AC,Taribo West,25,Nigeria,Left-Back,LB,-,FC Internazionale,Italy,£2.25m,In,1999,w,serie-a
-Milan AC,Dida,25,Brazil,Goalkeeper,GK,-,Cruzeiro Esporte Clube,Brazil,£1.25m,In,1999,w,serie-a
-AS Roma,Hidetoshi Nakata,22,Japan,Attacking Midfield,AM,-,AC Perugia,Italy,£19.52m,In,1999,w,serie-a
-AS Roma,Paolo Poggi,28,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,?,In,1999,w,serie-a
-FC Internazionale,Clarence Seedorf,23,Netherlands,Central Midfield,CM,-,Real Madrid,Spain,£21.61m,In,1999,w,serie-a
-FC Internazionale,Iván Córdoba,23,Colombia,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,£12.60m,In,1999,w,serie-a
-FC Internazionale,Adrian Mutu,20,Romania,Centre-Forward,CF,-,Dinamo Bukarest,Romania,£5.85m,In,1999,w,serie-a
-AC Parma,Júnior,26,Brazil,Left-Back,LB,-,Sociedade Esportiva Palmeiras,Brazil,£4.50m,In,1999,w,serie-a
-AC Parma,Paulo Sousa,29,Portugal,Central Midfield,CM,-,FC Internazionale,Italy,Loan,In,1999,w,serie-a
-AC Parma,Luciano Galletti,19,Argentina,Right Winger,RW,-,SSC Napoli,Italy,?,In,1999,w,serie-a
-Hellas Verona,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,Loan,In,1999,w,serie-a
-Hellas Verona,Michele Cossato,29,Italy,Forward,Forward,-,Atalanta BC,Italy,?,In,1999,w,serie-a
-Hellas Verona,Alessandro Romano,30,Italy,Defensive Midfield,DM,-,AC Cesena,Italy,?,In,1999,w,serie-a
-AS Bari,Jaime Valdés,18,Chile,Central Midfield,CM,-,CD Palestino,Chile,?,In,1999,w,serie-a
-AS Bari,Pasqual De Gregorio,27,Chile,Forward,Forward,-,Coquimbo Unido,Chile,?,In,1999,w,serie-a
-SS Lazio,Fabrizio Ravanelli,31,Italy,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1999,w,serie-a
-Udinese Calcio,Armando Perna,18,Italy,Centre-Back,CB,-,US Palermo,Italy,Loan,In,1999,w,serie-a
-Torino Calcio,André Cruz,31,Brazil,Centre-Back,CB,-,Standard Liège,Belgium,Free transfer,In,1999,w,serie-a
-Torino Calcio,Alessandro Grandoni,22,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,Loan,In,1999,w,serie-a
-Torino Calcio,Krunoslav Jurcic,29,Croatia,Defensive Midfield,DM,-,GNK Dinamo Zagreb,Croatia,?,In,1999,w,serie-a
-Torino Calcio,Gennaro Scarlato,22,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,In,1999,w,serie-a
-Juventus FC,Enzo Maresca,19,Italy,Central Midfield,CM,-,West Bromwich Albion,England,Free transfer,In,1999,w,serie-a
-Juventus FC,Simone Malatesta,17,Italy,Centre-Forward,CF,-,Modena FC,Italy,?,In,1999,w,serie-a
-AC Venezia 1907,Bruno N'Gotty,28,France,Centre-Back,CB,-,Milan AC,Italy,£4.05m,In,1999,w,serie-a
-AC Venezia 1907,Maurizio Ganz,31,Italy,Centre-Forward,CF,-,Milan AC,Italy,Free transfer,In,1999,w,serie-a
-AC Venezia 1907,Ciro Ginestra,20,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,?,In,1999,w,serie-a
-AC Venezia 1907,Robert Ibertsberger,22,Austria,Right-Back,RB,-,SV Wüstenrot Salzburg,Austria,?,In,1999,w,serie-a
-AC Venezia 1907,Tomislav Rukavina,25,Croatia,Right Midfield,RM,-,GNK Dinamo Zagreb,Croatia,?,In,1999,w,serie-a
-AC Venezia 1907,Marco Cento,23,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,In,1999,w,serie-a
-AC Venezia 1907,Pierluigi Orlandini,27,Italy,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1999,w,serie-a
-AC Perugia,Giovanni Proietti,22,Italy,Goalkeeper,GK,-,AS Lodigiani,Italy,Free transfer,In,1999,w,serie-a
-AC Perugia,Jehad Muntasser,21,Libya,Right Midfield,RM,-,FC Empoli,Italy,Free transfer,In,1999,w,serie-a
-AC Perugia,Dmitri Alenichev,27,Russia,Central Midfield,CM,-,AS Roma,Italy,Loan,In,1999,w,serie-a
-AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,Deportivo Táchira,Venezuela,?,In,1999,w,serie-a
-AC Perugia,Giorgio Sterchele,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,In,1999,w,serie-a
-AC Perugia,Héctor Tapia,22,Chile,Centre-Forward,CF,-,CD Universidad Católica,Chile,?,In,1999,w,serie-a
-AC Perugia,Salvatore Monaco,27,Italy,Centre-Back,CB,-,US Salernitana,Italy,?,In,1999,w,serie-a
-AC Perugia,Massimiliano Cappioli,31,Italy,Attacking Midfield,AM,-,,Without Club,-,In,1999,w,serie-a
-US Lecce,Francisco Lima,28,Brazil,Defensive Midfield,DM,-,FC Zürich,Switzerland,Free transfer,In,1999,w,serie-a
-US Lecce,Juarez,26,Brazil,Right-Back,RB,-,Servette FC,Switzerland,Free transfer,In,1999,w,serie-a
-US Lecce,Mirco Sadotti,24,Italy,Centre-Back,CB,-,Milan AC,Italy,?,In,1999,w,serie-a
-US Lecce,Giacomo Cipriani,19,Italy,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,In,1999,w,serie-a
-US Lecce,Francesco Marino,28,Italy,Second Striker,SS,-,Brescia Calcio,Italy,Loan,In,1999,w,serie-a
-Bologna FC 1909,Paolo Orlandoni,27,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,Loan,In,1999,w,serie-a
-Bologna FC 1909,Max Tonetto,25,Italy,Left-Back,LB,-,Milan AC,Italy,?,In,1999,w,serie-a
-Bologna FC 1909,Roberto Goretti,23,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1999,w,serie-a
-Bologna FC 1909,Alessandro Dal Canto,24,Italy,Left-Back,LB,-,AC Venezia 1907,Italy,?,In,1999,w,serie-a
-Bologna FC 1909,Giovanni Piacentini,31,Italy,Defensive Midfield,DM,-,Atalanta BC,Italy,?,In,1999,w,serie-a
-Reggina Calcio,Erjon Bogdani,22,Albania,Centre-Forward,CF,-,NK Zagreb,Croatia,?,In,1999,w,serie-a
-Cagliari Calcio,David Régis,31,United States,Centre-Back,CB,-,FC Metz,France,?,In,1999,w,serie-a
-Cagliari Calcio,Stefano Bianconi,31,Italy,Sweeper,SW,-,FC Empoli,Italy,Loan,In,1999,w,serie-a
-Piacenza FC,Stefano Morrone,21,Italy,Central Midfield,CM,-,FC Empoli,Italy,?,In,1999,w,serie-a
-Milan AC,Bruno N'Gotty,28,France,Centre-Back,CB,-,AC Venezia 1907,Italy,£4.05m,Out,1999,w,serie-a
-Milan AC,Massimo Maccarone,20,Italy,Centre-Forward,CF,-,AC Prato,Italy,Free transfer,Out,1999,w,serie-a
-Milan AC,George Weah,33,Liberia,Centre-Forward,CF,-,Chelsea FC,England,Loan,Out,1999,w,serie-a
-Milan AC,Zizi Roberts,20,Liberia,Centre-Forward,CF,-,Ionikos Nikeas,Greece,Free transfer,Out,1999,w,serie-a
-Milan AC,Maurizio Ganz,31,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,Free transfer,Out,1999,w,serie-a
-Milan AC,Mirco Sadotti,24,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,1999,w,serie-a
-Milan AC,Max Tonetto,25,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,w,serie-a
-Milan AC,Pierluigi Orlandini,27,Italy,Right Midfield,RM,-,AC Venezia 1907,Italy,Loan,Out,1999,w,serie-a
-Milan AC,Matteo Pelatti,21,Italy,Centre-Forward,CF,-,US Sassuolo,Italy,Loan,Out,1999,w,serie-a
-AS Roma,Lampros Choutos,20,Greece,Centre-Forward,CF,-,Olympiacos Piraeus,Greece,£2.70m,Out,1999,w,serie-a
-AS Roma,Nesat Gülünoglu,20,Turkey,Attacking Midfield,AM,-,Sportfreunde Siegen,Germany,Free transfer,Out,1999,w,serie-a
-AS Roma,Luca Ferri,19,Italy,Right-Back,RB,-,Calcio Lecco 1912,Italy,?,Out,1999,w,serie-a
-AS Roma,Dmitri Alenichev,27,Russia,Central Midfield,CM,-,AC Perugia,Italy,Loan,Out,1999,w,serie-a
-AS Roma,Marco Quadrini,20,Italy,Right-Back,RB,-,Genoa CFC,Italy,?,Out,1999,w,serie-a
-AS Roma,Giorgio Sterchele,29,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,1999,w,serie-a
-FC Internazionale,Taribo West,25,Nigeria,Left-Back,LB,-,Milan AC,Italy,£2.25m,Out,1999,w,serie-a
-FC Internazionale,Paulo Sousa,29,Portugal,Central Midfield,CM,-,AC Parma,Italy,Loan,Out,1999,w,serie-a
-AC Parma,Fabio Moro,24,Italy,Right-Back,RB,-,Chievo Verona,Italy,Free transfer,Out,1999,w,serie-a
-AC Parma,Pietro Strada,30,Italy,Left Midfield,LM,-,Genoa CFC,Italy,?,Out,1999,w,serie-a
-Hellas Verona,Ivan Rajcic,18,Croatia,Central Midfield,CM,-,HNK Hajduk Split,Croatia,Loan,Out,1999,w,serie-a
-Hellas Verona,Tonci Zilic,24,Croatia,Centre-Back,CB,-,Fermana Calcio 1920,Italy,?,Out,1999,w,serie-a
-Hellas Verona,Alfredo Aglietti,29,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,?,Out,1999,w,serie-a
-AS Bari,Carlo Cardascio,20,Italy,Right Midfield,RM,-,AS Fidelis Andria,Italy,Loan,Out,1999,w,serie-a
-AS Bari,Miguel Ángel Guerrero,32,Colombia,Second Striker,SS,-,Junior FC,Colombia,?,Out,1999,w,serie-a
-AS Bari,Hany Said,19,Egypt,Defensive Midfield,DM,-,AC Bellinzona,Switzerland,Loan,Out,1999,w,serie-a
-AS Bari,Alessio De Stefani,20,Italy,Defender,Defender,-,Atletico Catania,Italy,Loan,Out,1999,w,serie-a
-AS Bari,Peter Knudsen,26,Denmark,Left Midfield,LM,-,Akademisk Boldklub,Denmark,?,Out,1999,w,serie-a
-AS Bari,Giovanni Indiveri,25,Italy,Goalkeeper,GK,-,ASD Castel di Sangro,Italy,?,Out,1999,w,serie-a
-SS Lazio,Stefano Lombardi,23,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,1999,w,serie-a
-SS Lazio,Marco Pisano,18,Italy,Left-Back,LB,-,Brescia Calcio,Italy,?,Out,1999,w,serie-a
-Udinese Calcio,Jorginho Paulista,19,Brazil,Left-Back,LB,-,Atlético Paranaense,Brazil,£315Th.,Out,1999,w,serie-a
-Udinese Calcio,Paolo Poggi,28,Italy,Centre-Forward,CF,-,AS Roma,Italy,?,Out,1999,w,serie-a
-Udinese Calcio,Mauro Esposito,20,Italy,Right Winger,RW,-,Delfino Pescara 1936,Italy,Loan,Out,1999,w,serie-a
-Torino Calcio,Marcus Lantz,24,Sweden,Central Midfield,CM,-,FC Hansa Rostock,Germany,£900Th.,Out,1999,w,serie-a
-Torino Calcio,André Cruz,31,Brazil,Centre-Back,CB,-,Sporting CP,Portugal,Free transfer,Out,1999,w,serie-a
-Torino Calcio,Mirko Cudini,26,Italy,Centre-Back,CB,-,US Salernitana,Italy,?,Out,1999,w,serie-a
-Torino Calcio,Erik Edman,21,Sweden,Left-Back,LB,-,Karlsruher SC,Germany,?,Out,1999,w,serie-a
-Torino Calcio,Antonino Asta,29,Italy,Right Midfield,RM,-,SSC Napoli,Italy,Loan,Out,1999,w,serie-a
-AC Fiorentina,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,Hellas Verona,Italy,Loan,Out,1999,w,serie-a
-Juventus FC,Ronnie O'Brien,20,Ireland,Midfielder,Midfielder,-,FC Crotone Calcio,Italy,?,Out,1999,w,serie-a
-Juventus FC,Luigi Lavecchia,18,Italy,Right Midfield,RM,-,FC Crotone Calcio,Italy,Loan,Out,1999,w,serie-a
-AC Venezia 1907,Salvatore Miceli,25,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1999,w,serie-a
-AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,US Avellino,Italy,?,Out,1999,w,serie-a
-AC Venezia 1907,Francesco Ciullo,20,Italy,Forward,Forward,-,AC Reggiana,Italy,?,Out,1999,w,serie-a
-AC Venezia 1907,Alessandro Dal Canto,24,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,w,serie-a
-AC Perugia,Hidetoshi Nakata,22,Japan,Attacking Midfield,AM,-,AS Roma,Italy,£19.52m,Out,1999,w,serie-a
-AC Perugia,Jehad Muntasser,21,Libya,Right Midfield,RM,-,US Viterbese,Italy,Free transfer,Out,1999,w,serie-a
-AC Perugia,Andrea Sussi,26,Italy,Left-Back,LB,-,US Salernitana,Italy,?,Out,1999,w,serie-a
-AC Perugia,Zé Maria,26,Brazil,Right-Back,RB,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,1999,w,serie-a
-AC Perugia,Stefano Guidoni,28,Italy,Forward,Forward,-,US Salernitana,Italy,?,Out,1999,w,serie-a
-AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,US Viterbese,Italy,Loan,Out,1999,w,serie-a
-US Lecce,Alessandro Doga,24,Italy,Left Midfield,LM,-,Chievo Verona,Italy,Loan,Out,1999,w,serie-a
-US Lecce,Cristiano Pavone,27,Italy,Left-Back,LB,-,US Salernitana,Italy,?,Out,1999,w,serie-a
-US Lecce,Martino Traversa,25,Italy,Right-Back,RB,-,AC Siena,Italy,?,Out,1999,w,serie-a
-US Lecce,Angelo Paradiso,22,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,?,Out,1999,w,serie-a
-US Lecce,Giampiero Cazzella,23,Italy,Forward,Forward,-,Castrovillari Calcio,Italy,?,Out,1999,w,serie-a
-US Lecce,Alessandro De Poli,30,Italy,Right Winger,RW,-,FC Empoli,Italy,?,Out,1999,w,serie-a
-US Lecce,Pier Giovanni Rutzittu,23,Italy,Midfielder,Midfielder,-,Fermana Calcio 1920,Italy,Loan,Out,1999,w,serie-a
-Bologna FC 1909,Marco Roccati,24,Italy,Goalkeeper,GK,-,US Pistoiese 1921,Italy,Loan,Out,1999,w,serie-a
-Bologna FC 1909,Giacomo Cipriani,19,Italy,Centre-Forward,CF,-,US Lecce,Italy,Loan,Out,1999,w,serie-a
-Bologna FC 1909,Fausto Ferrari,19,Italy,Centre-Forward,CF,-,AC Pisa 1909,Italy,Loan,Out,1999,w,serie-a
-Reggina Calcio,Massimo Campo,24,Italy,Right Winger,RW,-,ASD Castel di Sangro,Italy,?,Out,1999,w,serie-a
-Reggina Calcio,Helmut Rahner,28,Germany,Centre-Back,CB,-,Preußen Münster,Germany,?,Out,1999,w,serie-a
-Reggina Calcio,Paolo Orlandoni,27,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,Loan,Out,1999,w,serie-a
-Reggina Calcio,Maurizio Poli,35,Italy,Defender,Defender,-,AC Savoia 1908,Italy,?,Out,1999,w,serie-a
-Reggina Calcio,Fabio Di Sole,25,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,1999,w,serie-a
-Cagliari Calcio,Alejandro Cichero,22,Venezuela,Centre-Back,CB,-,Deportivo Italchacao,Venezuela,?,Out,1999,w,serie-a
-Piacenza FC,Davide Dionigi,25,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,1999,w,serie-a
-Piacenza FC,Francesco Zerbini,19,Italy,Centre-Forward,CF,-,AS Lodigiani,Italy,Loan,Out,1999,w,serie-a
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Milan AC,Andriy Shevchenko,22,Ukraine,Centre-Forward,CF,-,Dynamo Kyiv,Ukraine,£21.52m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andriy-shevchenko/profil/spieler/3522
+Milan AC,Serginho,28,Brazil,Left Midfield,LM,-,São Paulo Futebol Clube,Brazil,£8.01m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/serginho/profil/spieler/5819
+Milan AC,Gennaro Gattuso,21,Italy,Central Midfield,CM,-,US Salernitana,Italy,£7.20m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gennaro-gattuso/profil/spieler/5813
+Milan AC,Fabricio Coloccini,17,Argentina,Centre-Back,CB,-,Club Atlético Boca Juniors,Argentina,£6.75m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabricio-coloccini/profil/spieler/6150
+Milan AC,Mattia Graffiedi,19,Italy,Centre-Forward,CF,-,AC Cesena,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mattia-graffiedi/profil/spieler/6395
+Milan AC,Mirco Sadotti,24,Italy,Centre-Back,CB,-,Calcio Monza,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mirco-sadotti/profil/spieler/226092
+Milan AC,Max Tonetto,24,Italy,Left-Back,LB,-,FC Empoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/max-tonetto/profil/spieler/6447
+Milan AC,Valerio Fiori,30,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/valerio-fiori/profil/spieler/5799
+Milan AC,Diego De Ascentis,22,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-de-ascentis/profil/spieler/21880
+Milan AC,Alessandro Budel,18,Italy,Defensive Midfield,DM,-,Milan Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-budel/profil/spieler/25314
+AS Roma,Vincenzo Montella,25,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,£23.24m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-montella/profil/spieler/5960
+AS Roma,Sergey Gurenko,26,Belarus,Right-Back,RB,-,Lokomotiv Moscow,Russia,£4.91m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/sergey-gurenko/profil/spieler/9627
+AS Roma,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,Foggia Calcio,Italy,£495Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/joseph-dayo-oshadogan/profil/spieler/16476
+AS Roma,Nesat Gülünoglu,20,Turkey,Attacking Midfield,AM,-,VfL Bochum,Germany,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nesat-gulunoglu/profil/spieler/1543
+AS Roma,Cristiano Lupatelli,21,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cristiano-lupatelli/profil/spieler/5908
+AS Roma,Cristiano Zanetti,22,Italy,Defensive Midfield,DM,-,Cagliari Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cristiano-zanetti/profil/spieler/5783
+AS Roma,Francesco Antonioli,29,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-antonioli/profil/spieler/5935
+AS Roma,Giuseppe Colucci,18,Italy,Central Midfield,CM,-,Foggia Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-colucci/profil/spieler/6717
+AS Roma,Alessandro Rinaldi,24,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-rinaldi/profil/spieler/147455
+AS Roma,Marcos Assunção,22,Brazil,Central Midfield,CM,-,Clube de Regatas do Flamengo,Brazil,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marcos-assuncao/profil/spieler/7654
+AS Roma,Amedeo Mangone,30,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/amedeo-mangone/profil/spieler/21793
+AS Roma,Luca Ferri,19,Italy,Right-Back,RB,-,Roma Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-ferri/profil/spieler/22316
+FC Internazionale,Christian Vieri,25,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£41.83m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-vieri/profil/spieler/5797
+FC Internazionale,Angelo Peruzzi,29,Italy,Goalkeeper,GK,-,Juventus FC,Italy,£17.10m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/angelo-peruzzi/profil/spieler/5826
+FC Internazionale,Christian Panucci,26,Italy,Right-Back,RB,-,Real Madrid,Spain,£8.37m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+FC Internazionale,Michele Serena,29,Italy,Left-Back,LB,-,Atlético Madrid,Spain,£6.75m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/michele-serena/profil/spieler/5777
+FC Internazionale,Grigoris Georgatos,26,Greece,Left-Back,LB,-,Olympiacos Piraeus,Greece,£6.30m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/grigoris-georgatos/profil/spieler/9873
+FC Internazionale,Cyril Domoraud,27,Cote d'Ivoire,Centre-Back,CB,-,Olympique Marseille,France,£6.30m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cyril-domoraud/profil/spieler/6149
+FC Internazionale,Laurent Blanc,33,France,Sweeper,SW,-,Olympique Marseille,France,£5.40m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/laurent-blanc/profil/spieler/3113
+FC Internazionale,Vladimir Jugovic,29,Serbia,Left Midfield,LM,-,Atlético Madrid,Spain,£1.80m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/vladimir-jugovic/profil/spieler/5297
+FC Internazionale,Tiago Henrique,17,Brazil,Right Winger,RW,-,Comercial Futebol Clube (SP),Brazil,£180Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/tiago-henrique/profil/spieler/56546
+FC Internazionale,Edinho,19,Brazil,Left-Back,LB,-,Madureira Esporte Clube (RJ),Brazil,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/edinho/profil/spieler/51751
+FC Internazionale,Fabrizio Ferron,33,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-ferron/profil/spieler/3523
+FC Internazionale,Luigi Di Biagio,28,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-di-biagio/profil/spieler/7927
+FC Internazionale,Giorgio Frezzolini,23,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giorgio-frezzolini/profil/spieler/7102
+FC Internazionale,Giuseppe Ticli,20,Italy,Left Midfield,LM,-,Inter Milan Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-ticli/profil/spieler/268583
+AC Parma,Márcio Amoroso,24,Brazil,Centre-Forward,CF,-,Udinese Calcio,Italy,£25.20m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marcio-amoroso/profil/spieler/1263
+AC Parma,Ousmane Dabo,22,France,Defensive Midfield,DM,-,FC Internazionale,Italy,£13.94m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ousmane-dabo/profil/spieler/3904
+AC Parma,Ariel Ortega,25,Argentina,Attacking Midfield,AM,-,UC Sampdoria,Italy,£3.60m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ariel-ortega/profil/spieler/4147
+AC Parma,Paolo Cannavaro,18,Italy,Centre-Back,CB,-,SSC Napoli,Italy,£900Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/paolo-cannavaro/profil/spieler/5858
+AC Parma,Stephen Appiah,18,Ghana,Defensive Midfield,DM,-,Udinese Calcio,Italy,£630Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stephen-appiah/profil/spieler/5975
+AC Parma,Johan Walem,27,Belgium,Left Midfield,LM,-,Udinese Calcio,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/johan-walem/profil/spieler/6153
+AC Parma,Stefano Torrisi,28,Italy,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-torrisi/profil/spieler/5865
+AC Parma,Roberto Breda,29,Italy,Midfielder,Midfielder,-,US Salernitana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-breda/profil/spieler/21978
+AC Parma,Fabio Moro,23,Italy,Right-Back,RB,-,Calcio Monza,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-moro/profil/spieler/5912
+AC Parma,Marco Di Vaio,22,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+AC Parma,Jorge Bolaño,22,Colombia,Central Midfield,CM,-,Junior FC,Colombia,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jorge-bolano/profil/spieler/16974
+AC Parma,Johnnier Montaño,16,Colombia,Attacking Midfield,AM,-,Quilmes Atlético Club,Argentina,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/johnnier-montano/profil/spieler/84326
+AC Parma,Pietro Strada,29,Italy,Left Midfield,LM,-,AC Perugia,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/pietro-strada/profil/spieler/30660
+AC Parma,Davide Zoboli,17,Italy,Centre-Back,CB,-,Parma Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/davide-zoboli/profil/spieler/21702
+Hellas Verona,Anthony Seric,20,Croatia,Left-Back,LB,-,HNK Hajduk Split,Croatia,£1.98m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/anthony-seric/profil/spieler/5967
+Hellas Verona,Adaílton,22,Brazil,Second Striker,SS,-,Paris Saint-Germain,France,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/adailton/profil/spieler/21853
+Hellas Verona,Sébastien Frey,19,France,Goalkeeper,GK,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/sebastien-frey/profil/spieler/5854
+Hellas Verona,Giuseppe Anastasi,25,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-anastasi/profil/spieler/226055
+Hellas Verona,Luca Mezzano,21,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+Hellas Verona,Marco Franceschetti,32,Italy,Midfielder,Midfielder,-,UC Sampdoria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-franceschetti/profil/spieler/216813
+Hellas Verona,Emiliano Salvetti,25,Italy,Attacking Midfield,AM,-,AC Cesena,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/emiliano-salvetti/profil/spieler/6001
+Hellas Verona,Elvis Abbruscato,18,Italy,Centre-Forward,CF,-,AC Reggiana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/elvis-abbruscato/profil/spieler/23163
+Hellas Verona,Aimo Diana,21,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+Hellas Verona,Alessandro Pagano,27,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-pagano/profil/spieler/297148
+Hellas Verona,Luigi Apolloni,32,Italy,Centre-Back,CB,-,AC Parma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-apolloni/profil/spieler/102472
+Hellas Verona,Gianluca Pegolo,18,Italy,Goalkeeper,GK,-,Hellas Verona Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-pegolo/profil/spieler/21872
+AS Bari,Simone Perrotta,21,Italy,Attacking Midfield,AM,-,Juventus FC,Italy,£1.66m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-perrotta/profil/spieler/5922
+AS Bari,Alessandro Del Grosso,26,Italy,Right-Back,RB,-,US Salernitana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-del-grosso/profil/spieler/88317
+AS Bari,Matteo Ferrari,19,Italy,Centre-Back,CB,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-ferrari/profil/spieler/5860
+AS Bari,Mattia Collauto,25,Italy,Right Midfield,RM,-,US Cremonese,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mattia-collauto/profil/spieler/22105
+AS Bari,Hugo,18,Nigeria,Centre-Forward,CF,-,RWD Molenbeek,Belgium,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/hugo/profil/spieler/24546
+AS Bari,Antonio Chisena,19,Italy,Forward,Forward,-,FC Messina Peloro,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-chisena/profil/spieler/580510
+AS Bari,Diego Markic,22,Argentina,Midfielder,Midfielder,-,Asociación Atlética Argentinos Juniors,Argentina,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-markic/profil/spieler/22117
+AS Bari,Raphael Chukwu,23,Nigeria,Centre-Forward,CF,-,Mamelodi Sundowns FC,South Africa,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/raphael-chukwu/profil/spieler/13935
+AS Bari,Alessio De Stefani,19,Italy,Defender,Defender,-,Varese FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessio-de-stefani/profil/spieler/296806
+AS Bari,Antonio Bellavista,21,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-bellavista/profil/spieler/22101
+AS Bari,Moris Carrozzieri,18,Italy,Centre-Back,CB,-,Bari Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/moris-carrozzieri/profil/spieler/6747
+AS Bari,Antonio Cassano,16,Italy,Second Striker,SS,-,Bari Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-cassano/profil/spieler/5962
+AS Bari,Antonio La Fortezza,17,Italy,Defensive Midfield,DM,-,Bari Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-la-fortezza/profil/spieler/22115
+SS Lazio,Juan Sebastián Verón,24,Argentina,Central Midfield,CM,-,AC Parma,Italy,£27.00m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/juan-sebastian-veron/profil/spieler/3143
+SS Lazio,Diego Simeone,29,Argentina,Central Midfield,CM,-,FC Internazionale,Italy,£9.81m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-simeone/profil/spieler/5841
+SS Lazio,Néstor Sensini,32,Argentina,Centre-Back,CB,-,AC Parma,Italy,£6.75m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nestor-sensini/profil/spieler/5882
+SS Lazio,Luca Mondini,29,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-mondini/profil/spieler/30646
+SS Lazio,Kennet Andersson,31,Sweden,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/kennet-andersson/profil/spieler/3429
+SS Lazio,Simone Inzaghi,23,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-inzaghi/profil/spieler/5849
+SS Lazio,Emanuele Concetti,21,Italy,Goalkeeper,GK,-,Lazio Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/emanuele-concetti/profil/spieler/5828
+SS Lazio,Gasperino Cinelli,17,Italy,Centre-Forward,CF,-,Lazio Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gasperino-cinelli/profil/spieler/482984
+SS Lazio,Marco Pisano,17,Italy,Left-Back,LB,-,Lazio Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-pisano/profil/spieler/16901
+Udinese Calcio,Roberto Muzzi,27,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,£9.00m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-muzzi/profil/spieler/5900
+Udinese Calcio,Stefano Fiore,24,Italy,Attacking Midfield,AM,-,AC Parma,Italy,£8.73m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-fiore/profil/spieler/5842
+Udinese Calcio,Warley,21,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,£6.30m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/warley/profil/spieler/3368
+Udinese Calcio,Jorginho Paulista,19,Brazil,Left-Back,LB,-,PSV Eindhoven,Netherlands,£810Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jorginho-paulista/profil/spieler/3367
+Udinese Calcio,Antonio Orefice,20,Italy,Right-Back,RB,-,Castrovillari Calcio,Italy,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-orefice/profil/spieler/434237
+Udinese Calcio,Édson Di,19,Brazil,Forward,Forward,-,São Paulo Futebol Clube,Brazil,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/edson-di/profil/spieler/56844
+Udinese Calcio,Thomas Manfredini,19,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/thomas-manfredini/profil/spieler/5889
+Udinese Calcio,Mauro Esposito,20,Italy,Right Winger,RW,-,Delfino Pescara 1936,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-esposito/profil/spieler/20735
+Udinese Calcio,Fabio Pittilino,22,Switzerland,Defender,Defender,-,Brescia Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-pittilino/profil/spieler/338974
+Udinese Calcio,Alberto Valentim,24,Brazil,Right Midfield,RM,-,Atlético Paranaense,Brazil,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alberto-valentim/profil/spieler/5883
+Udinese Calcio,Olivier Renard,20,Belgium,Goalkeeper,GK,-,RSC Charleroi,Belgium,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/olivier-renard/profil/spieler/5881
+Udinese Calcio,Morgan De Sanctis,22,Italy,Goalkeeper,GK,-,Juventus FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/morgan-de-sanctis/profil/spieler/5880
+Udinese Calcio,Massimo Margiotta,21,Venezuela,Second Striker,SS,-,AC Reggiana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-margiotta/profil/spieler/22201
+Udinese Calcio,Andrea Sottil,25,Italy,Centre-Back,CB,-,Atalanta BC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-sottil/profil/spieler/5886
+Udinese Calcio,Francesco Pistolesi,18,Italy,Centre-Forward,CF,-,ASD Sora Calcio 1907,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-pistolesi/profil/spieler/638008
+Udinese Calcio,David Pizarro,19,Chile,Central Midfield,CM,-,Santiago Wanderers,Chile,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/david-pizarro/profil/spieler/5896
+Udinese Calcio,Marco Zamboni,21,Italy,Centre-Back,CB,-,US Lecce,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Udinese Calcio,Dario Antonini,17,Italy,Midfielder,Midfielder,-,Udinese Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/dario-antonini/profil/spieler/483321
+Udinese Calcio,Alessandro Noselli,18,Italy,Centre-Forward,CF,-,Udinese Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-noselli/profil/spieler/21944
+Torino Calcio,Marcus Lantz,23,Sweden,Central Midfield,CM,-,Helsingborgs IF,Sweden,£900Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marcus-lantz/profil/spieler/243
+Torino Calcio,Francesco Coco,22,Italy,Left-Back,LB,-,Milan AC,Italy,Loan fee:£450Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-coco/profil/spieler/3508
+Torino Calcio,André Pinga,18,Brazil,Attacking Midfield,AM,-,Clube Atlético Juventus (SP),Brazil,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andre-pinga/profil/spieler/21889
+Torino Calcio,Fabio Galante,25,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-galante/profil/spieler/21886
+Torino Calcio,Alejandro Escalona,19,Chile,Left-Back,LB,-,CSD Colo Colo,Chile,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alejandro-escalona/profil/spieler/54908
+Torino Calcio,Gustavo Méndez,28,Uruguay,Right-Back,RB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gustavo-mendez/profil/spieler/130289
+Torino Calcio,Djibril Diawara,24,Senegal,Centre-Back,CB,-,AS Monaco,France,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/djibril-diawara/profil/spieler/171813
+Torino Calcio,Alessandro Nista,33,Italy,Goalkeeper,GK,-,AC Parma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-nista/profil/spieler/226495
+Torino Calcio,Erik Edman,20,Sweden,Left-Back,LB,-,Helsingborgs IF,Sweden,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/erik-edman/profil/spieler/4394
+Torino Calcio,Fabio Pecchia,25,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-pecchia/profil/spieler/16871
+Torino Calcio,Luigi Panarelli,23,Italy,Right-Back,RB,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-panarelli/profil/spieler/102633
+Torino Calcio,Abdullah Fusseini,17,Ghana,Midfielder,Midfielder,-,King Faisal FC,Ghana,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/abdullah-fusseini/profil/spieler/227420
+Torino Calcio,Ilija Ivic,28,Serbia,Centre-Forward,CF,-,Olympiacos Piraeus,Greece,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ilija-ivic/profil/spieler/9869
+Torino Calcio,Andrea Silenzi,33,Italy,Centre-Forward,CF,-,Ravenna FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-silenzi/profil/spieler/180552
+Torino Calcio,Emanuele Calaiò,17,Italy,Centre-Forward,CF,-,Torino Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/emanuele-calaio/profil/spieler/22268
+Torino Calcio,Fabio Quagliarella,16,Italy,Centre-Forward,CF,-,Torino Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-quagliarella/profil/spieler/22328
+Torino Calcio,Daniele Martinelli,17,Italy,Centre-Back,CB,-,Torino Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-martinelli/profil/spieler/21761
+AC Fiorentina,Predrag Mijatović,30,Montenegro,Centre-Forward,CF,-,Real Madrid,Spain,£10.80m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/predrag-mijatovi%C4%87/profil/spieler/24481
+AC Fiorentina,Enrico Chiesa,28,Italy,Centre-Forward,CF,-,AC Parma,Italy,£9.63m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/enrico-chiesa/profil/spieler/7329
+AC Fiorentina,Leandro Amaral,21,Brazil,Centre-Forward,CF,-,Associação Portuguesa de Desportos (SP) ,Brazil,£1.80m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/leandro-amaral/profil/spieler/17479
+AC Fiorentina,Daniele Adani,24,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-adani/profil/spieler/5774
+AC Fiorentina,Abel Balbo,33,Argentina,Centre-Forward,CF,-,AC Parma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/abel-balbo/profil/spieler/102187
+AC Fiorentina,Paul Okon,27,Australia,Defensive Midfield,DM,-,SS Lazio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/paul-okon/profil/spieler/4092
+AC Fiorentina,Mattia Passarini,18,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mattia-passarini/profil/spieler/41936
+AC Fiorentina,Fabio Rossitto,27,Italy,Right Midfield,RM,-,SSC Napoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-rossitto/profil/spieler/6296
+AC Fiorentina,Mauro Bressan,28,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-bressan/profil/spieler/33326
+AC Fiorentina,Alessandro Pierini,26,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-pierini/profil/spieler/6067
+AC Fiorentina,Angelo Di Livio,32,Italy,Right Midfield,RM,-,Juventus FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/angelo-di-livio/profil/spieler/21148
+AC Fiorentina,Giuseppe Taglialatela,30,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-taglialatela/profil/spieler/6806
+Juventus FC,Darko Kovacevic,25,Serbia,Centre-Forward,CF,-,Real Sociedad,Spain,£15.30m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/darko-kovacevic/profil/spieler/7479
+Juventus FC,Sunday Oliseh,24,Nigeria,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£9.00m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/sunday-oliseh/profil/spieler/127
+Juventus FC,Gianluca Zambrotta,22,Italy,Right-Back,RB,-,AS Bari,Italy,£7.20m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-zambrotta/profil/spieler/5757
+Juventus FC,Igor Tudor,21,Croatia,Centre-Back,CB,-,HNK Hajduk Split,Croatia,£3.33m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/igor-tudor/profil/spieler/5752
+Juventus FC,Edwin van der Sar,28,Netherlands,Goalkeeper,GK,-,Ajax Amsterdam,Netherlands,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/edwin-van-der-sar/profil/spieler/3516
+Juventus FC,Jonathan Bachini,24,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+Juventus FC,Ronnie O'Brien,20,Ireland,Midfielder,Midfielder,-,AC Bellinzona,Switzerland,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ronnie-obrien/profil/spieler/640948
+Juventus FC,Luigi Lavecchia,17,Italy,Right Midfield,RM,-,Juventus Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+AC Venezia 1907,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Fiorentina,Italy,£1.80m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-bettarini/profil/spieler/6746
+AC Venezia 1907,Dejan Petkovic,26,Serbia,Attacking Midfield,AM,-,Esporte Clube Vitória,Brazil,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/dejan-petkovic/profil/spieler/54056
+AC Venezia 1907,Michael Konsel,37,Austria,Goalkeeper,GK,-,AS Roma,Italy,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/michael-konsel/profil/spieler/60794
+AC Venezia 1907,Giampiero Maini,27,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giampiero-maini/profil/spieler/16851
+AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,Atletico Catania,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/rosario-la-marca/profil/spieler/482334
+AC Venezia 1907,Fabrizio Casazza,28,Italy,Goalkeeper,GK,-,Torino Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-casazza/profil/spieler/16855
+AC Venezia 1907,Massimo Borgobello,28,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-borgobello/profil/spieler/21753
+AC Venezia 1907,Rubén Maldonado,20,Paraguay,Centre-Back,CB,-,Olimpia Asunción,Paraguay,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ruben-maldonado/profil/spieler/6152
+AC Venezia 1907,Igor Budan,19,Croatia,Centre-Forward,CF,-,HNK Rijeka,Croatia,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/igor-budan/profil/spieler/19437
+AC Venezia 1907,Runar Berg,28,Norway,Central Midfield,CM,-,Rosenborg BK,Norway,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/runar-berg/profil/spieler/24072
+AC Venezia 1907,Francesco Benussi,17,Italy,Goalkeeper,GK,-,Venezia Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-benussi/profil/spieler/21829
+AC Perugia,Marco Materazzi,25,Italy,Centre-Back,CB,-,Everton FC,England,£3.72m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-materazzi/profil/spieler/5778
+AC Perugia,Michele Di Piedi,18,Italy,Centre-Forward,CF,-,Città di Siracusa,Italy,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/michele-di-piedi/profil/spieler/193010
+AC Perugia,Ibrahim Bá,25,France,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ibrahim-ba/profil/spieler/5815
+AC Perugia,Massimiliano Esposito,27,Italy,Right Midfield,RM,-,SSC Napoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-esposito/profil/spieler/21817
+AC Perugia,Claudio Paris,27,Argentina,Midfielder,Midfielder,-,Club Atlético Newell's Old Boys,Argentina,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/claudio-paris/profil/spieler/192776
+AC Perugia,Claudio Rivalta,21,Italy,Centre-Back,CB,-,AC Cesena,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/claudio-rivalta/profil/spieler/21697
+AC Perugia,Nicola Amoruso,24,Italy,Centre-Forward,CF,-,Juventus FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-amoruso/profil/spieler/4150
+AC Perugia,Dani,20,Spain,Forward,Forward,-,KSC Eendracht Aalst,Belgium,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/dani/profil/spieler/246571
+AC Perugia,Cataldo Montesanto,22,Italy,Defensive Midfield,DM,-,AS Gualdo Casacastalda,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cataldo-montesanto/profil/spieler/30648
+AC Perugia,Mauro Milanese,27,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-milanese/profil/spieler/6086
+AC Perugia,Marco Capparella,24,Italy,Right Midfield,RM,-,ASD Sora Calcio 1907,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-capparella/profil/spieler/28819
+AC Perugia,Pierpaolo Bisoli,32,Italy,Right Midfield,RM,-,FC Empoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/pierpaolo-bisoli/profil/spieler/169715
+AC Perugia,Stefano Guidoni,27,Italy,Forward,Forward,-,Hellas Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-guidoni/profil/spieler/25496
+AC Perugia,Daniele Daino,19,Italy,Right-Back,RB,-,Milan AC,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-daino/profil/spieler/15458
+AC Perugia,Alessandro Calori,32,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-calori/profil/spieler/21831
+AC Perugia,Fabio Gatti,17,Italy,Defensive Midfield,DM,-,Perugia Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-gatti/profil/spieler/22804
+US Lecce,Jorge Casanova,22,Uruguay,Central Midfield,CM,-,Club Atlético Bella Vista,Uruguay,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jorge-casanova/profil/spieler/74407
+US Lecce,Ivan Aiardi,28,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ivan-aiardi/profil/spieler/226051
+US Lecce,Cristiano Lucarelli,23,Italy,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cristiano-lucarelli/profil/spieler/21408
+US Lecce,Gianluca Colonnello,26,Italy,Left-Back,LB,-,AC Perugia,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-colonnello/profil/spieler/6423
+US Lecce,Angelo Paradiso,22,Italy,Midfielder,Midfielder,-,SSC Napoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/angelo-paradiso/profil/spieler/33624
+US Lecce,Claudio Bonomi,26,Italy,Left Midfield,LM,-,FC Empoli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/claudio-bonomi/profil/spieler/226059
+US Lecce,Antonio Chimenti,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-chimenti/profil/spieler/5745
+US Lecce,Alberto Savino,26,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alberto-savino/profil/spieler/21757
+US Lecce,Matteo Pivotto,24,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-pivotto/profil/spieler/17150
+US Lecce,Domenico Di Carlo,35,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/domenico-di-carlo/profil/spieler/169650
+US Lecce,Francesco Marino,28,Italy,Second Striker,SS,-,Brescia Calcio,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-marino/profil/spieler/22991
+US Lecce,David Balleri,30,Italy,Right-Back,RB,-,UC Sampdoria,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/david-balleri/profil/spieler/21182
+US Lecce,Emiliano Biliotti,24,Italy,Attacking Midfield,AM,-,Ravenna FC,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/emiliano-biliotti/profil/spieler/21183
+US Lecce,Alessandro De Poli,29,Italy,Right Winger,RW,-,ACD Treviso,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-de-poli/profil/spieler/32117
+US Lecce,Axel Konan,16,Cote d'Ivoire,Left Winger,LW,-,Lecce Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/axel-konan/profil/spieler/6429
+Bologna FC 1909,Zé Elias,22,Brazil,Central Midfield,CM,-,FC Internazionale,Italy,£675Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ze-elias/profil/spieler/21966
+Bologna FC 1909,Giulio Falcone,25,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giulio-falcone/profil/spieler/5989
+Bologna FC 1909,Gianluca Pagliuca,32,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-pagliuca/profil/spieler/5985
+Bologna FC 1909,Andrea Ferrari,22,Italy,Goalkeeper,GK,-,AC Carpi,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-ferrari/profil/spieler/567024
+Bologna FC 1909,Nicola Ventola,21,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-ventola/profil/spieler/5798
+Bologna FC 1909,Pierre Womé,20,Cameroon,Left-Back,LB,-,AS Roma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/pierre-wome/profil/spieler/3329
+Bologna FC 1909,Fausto Ferrari,19,Italy,Centre-Forward,CF,-,AC Carpi,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/fausto-ferrari/profil/spieler/141803
+Bologna FC 1909,Cristian Zaccardo,17,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/cristian-zaccardo/profil/spieler/5993
+Bologna FC 1909,Alessandro Gamberini,17,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-gamberini/profil/spieler/16868
+Reggina Calcio,Gustavo Reggi,26,Argentina,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/gustavo-reggi/profil/spieler/23302
+Reggina Calcio,Mohamed Kallon,19,Sierra Leone,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/mohamed-kallon/profil/spieler/3509
+Reggina Calcio,Nenad Pralija,28,Croatia,Defensive Midfield,DM,-,HNK Hajduk Split,Croatia,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nenad-pralija/profil/spieler/25769
+Reggina Calcio,Andrea Bernini,26,Italy,Right Midfield,RM,-,Aquila 1902 Montevarchi,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-bernini/profil/spieler/28830
+Reggina Calcio,Salvatore Vicari,18,Italy,Right Midfield,RM,-,US Palermo,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/salvatore-vicari/profil/spieler/24333
+Reggina Calcio,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/joseph-dayo-oshadogan/profil/spieler/16476
+Reggina Calcio,Giovanni Morabito,20,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giovanni-morabito/profil/spieler/6064
+Reggina Calcio,Ezio Brevi,29,Italy,Defensive Midfield,DM,-,Ternana Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/ezio-brevi/profil/spieler/22189
+Reggina Calcio,Roberto Baronio,21,Italy,Defensive Midfield,DM,-,SS Lazio,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-baronio/profil/spieler/6089
+Reggina Calcio,Vladimiro Sbaglia,20,Italy,Midfielder,Midfielder,-,Frosinone Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/vladimiro-sbaglia/profil/spieler/264654
+Reggina Calcio,Riccardo Marroccolo,20,Italy,Forward,Forward,-,Frosinone Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/riccardo-marroccolo/profil/spieler/497598
+Reggina Calcio,Jorge Vargas,23,Chile,Centre-Back,CB,-,CD Universidad Católica,Chile,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jorge-vargas/profil/spieler/6061
+Reggina Calcio,Andrea Pirlo,20,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-pirlo/profil/spieler/5817
+Reggina Calcio,Lorenzo Stovini,22,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/lorenzo-stovini/profil/spieler/6446
+Reggina Calcio,Paolo Foglio,23,Italy,Right-Back,RB,-,Hellas Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/paolo-foglio/profil/spieler/15337
+Reggina Calcio,Helmut Rahner,28,Germany,Centre-Back,CB,-,1.FC Nuremberg,Germany,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/helmut-rahner/profil/spieler/2716
+Reggina Calcio,Giandomenico Mesto,17,Italy,Right-Back,RB,-,Reggina Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giandomenico-mesto/profil/spieler/16744
+Reggina Calcio,Stefano Dall'Acqua,17,Italy,Centre-Forward,CF,-,Reggina Primavera,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Cagliari Calcio,Daniele Conti,20,Italy,Defensive Midfield,DM,-,AS Roma,Italy,£585Th.,In,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-conti/profil/spieler/20730
+Cagliari Calcio,François Modesto,20,France,Centre-Back,CB,-,SC Bastia,France,Free transfer,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francois-modesto/profil/spieler/18542
+Cagliari Calcio,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+Cagliari Calcio,Luis Oliveira,30,Belgium,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/luis-oliveira/profil/spieler/22087
+Cagliari Calcio,Nicola Di Liso,24,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-di-liso/profil/spieler/22081
+Cagliari Calcio,Giovanni Sulcis,24,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/giovanni-sulcis/profil/spieler/151892
+Cagliari Calcio,Jason Mayélé,23,DR Congo,Forward,Forward,-,LB Châteauroux,France,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/jason-mayele/profil/spieler/173652
+Cagliari Calcio,David Suazo,19,Honduras,Centre-Forward,CF,-,CD Olimpia,Honduras,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/david-suazo/profil/spieler/20749
+Cagliari Calcio,Nicola Diliso,24,Italy,Defender,Defender,-,Vicenza Calcio,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-diliso/profil/spieler/102544
+Cagliari Calcio,Raffaele Ametrano,26,Italy,Right-Back,RB,-,Juventus FC,Italy,Loan,In,1999,s,serie-a,https://www.transfermarkt.co.uk/raffaele-ametrano/profil/spieler/20896
+Piacenza FC,Arturo Di Napoli,25,Italy,Centre-Forward,CF,-,FC Empoli,Italy,£3.38m,In,1999,s,serie-a,https://www.transfermarkt.co.uk/arturo-di-napoli/profil/spieler/19123
+Piacenza FC,Flavio Roma,25,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/flavio-roma/profil/spieler/5281
+Piacenza FC,Carmine Gautieri,29,Italy,Right Winger,RW,-,AS Roma,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/carmine-gautieri/profil/spieler/19440
+Piacenza FC,Andrea Tagliaferri,20,Italy,Midfielder,Midfielder,-,Pro Patria Gallaratese GB,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-tagliaferri/profil/spieler/227702
+Piacenza FC,Davide Bagnacani,19,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/davide-bagnacani/profil/spieler/21777
+Piacenza FC,Francesco Zitolo,17,Italy,Attacking Midfield,AM,-,US Pro Vercelli,Italy,?,In,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-zitolo/profil/spieler/227716
+Piacenza FC,Alberto Gilardino,16,Italy,Centre-Forward,CF,-,Piacenza Juniores,Italy,-,In,1999,s,serie-a,https://www.transfermarkt.co.uk/alberto-gilardino/profil/spieler/5878
+Milan AC,Christian Ziege,27,Germany,Left Midfield,LM,-,Middlesbrough FC,England,£5.40m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-ziege/profil/spieler/916
+Milan AC,Francesco Coco,22,Italy,Left-Back,LB,-,Torino Calcio,Italy,Loan fee:£450Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-coco/profil/spieler/3508
+Milan AC,Massimo Oddo,23,Italy,Right-Back,RB,-,SSC Napoli,Italy,Loan fee:£135Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-oddo/profil/spieler/5837
+Milan AC,Dida,25,Brazil,Goalkeeper,GK,-,Sport Club Corinthians Paulista,Brazil,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/dida/profil/spieler/5800
+Milan AC,Zizi Roberts,20,Liberia,Centre-Forward,CF,-,AC Bellinzona,Switzerland,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/zizi-roberts/profil/spieler/27003
+Milan AC,Ibrahim Bá,25,France,Right Midfield,RM,-,AC Perugia,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ibrahim-ba/profil/spieler/5815
+Milan AC,Massimo Maccarone,19,Italy,Centre-Forward,CF,-,Varese FC,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-maccarone/profil/spieler/3713
+Milan AC,Roberto Donadoni,35,Italy,Right Midfield,RM,-,Al-Ittihad Jeddah,Saudi Arabia,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-donadoni/profil/spieler/102474
+Milan AC,Luca Vitali,19,Italy,Central Midfield,CM,-,AS Gubbio 1910,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-vitali/profil/spieler/565068
+Milan AC,Daniele Daino,19,Italy,Right-Back,RB,-,AC Perugia,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-daino/profil/spieler/15458
+Milan AC,Giorgio Frezzolini,23,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giorgio-frezzolini/profil/spieler/7102
+Milan AC,Alessandro Iannuzzi,23,Italy,Forward,Forward,-,AC Reggiana,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-iannuzzi/profil/spieler/22276
+Milan AC,Matteo Contini,19,Italy,Centre-Back,CB,-,AS Livorno,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-contini/profil/spieler/25318
+Milan AC,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+AS Roma,Paulo Sérgio,30,Brazil,Left Winger,LW,-,Bayern Munich,Germany,£5.94m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paulo-sergio/profil/spieler/218
+AS Roma,Daniele Conti,20,Italy,Defensive Midfield,DM,-,Cagliari Calcio,Italy,£585Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-conti/profil/spieler/20730
+AS Roma,Omari Tetradze,29,Russia,Right-Back,RB,-,PAOK Thessaloniki,Greece,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/omari-tetradze/profil/spieler/25043
+AS Roma,Michael Konsel,37,Austria,Goalkeeper,GK,-,AC Venezia 1907,Italy,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/michael-konsel/profil/spieler/60794
+AS Roma,Alessandro Frau,22,Italy,Attacking Midfield,AM,-,US Palermo,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-frau/profil/spieler/241491
+AS Roma,Carmine Gautieri,29,Italy,Right Winger,RW,-,Piacenza FC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/carmine-gautieri/profil/spieler/19440
+AS Roma,Fábio Júnior,22,Brazil,Centre-Forward,CF,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-junior/profil/spieler/37499
+AS Roma,Daniele De Vezze,19,Italy,Central Midfield,CM,-,AC Savoia 1908,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-de-vezze/profil/spieler/21147
+AS Roma,Pierre Womé,20,Cameroon,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/pierre-wome/profil/spieler/3329
+AS Roma,Filippo Dal Moro,28,Italy,Left-Back,LB,-,AEK Athens,Greece,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/filippo-dal-moro/profil/spieler/227738
+AS Roma,Giuseppe Colucci,18,Italy,Central Midfield,CM,-,FC Girondins Bordeaux,France,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-colucci/profil/spieler/6717
+AS Roma,Antonio Chimenti,29,Italy,Goalkeeper,GK,-,US Lecce,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/antonio-chimenti/profil/spieler/5745
+AS Roma,Luigi Di Biagio,28,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-di-biagio/profil/spieler/7927
+AS Roma,Joseph Dayo Oshadogan,23,Italy,Centre-Back,CB,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/joseph-dayo-oshadogan/profil/spieler/16476
+FC Internazionale,Ousmane Dabo,22,France,Defensive Midfield,DM,-,AC Parma,Italy,£13.94m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ousmane-dabo/profil/spieler/3904
+FC Internazionale,Diego Simeone,29,Argentina,Central Midfield,CM,-,SS Lazio,Italy,£9.81m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-simeone/profil/spieler/5841
+FC Internazionale,Mikaël Silvestre,22,France,Centre-Back,CB,-,Manchester United,England,£5.13m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mikael-silvestre/profil/spieler/3393
+FC Internazionale,Youri Djorkaeff,31,France,Attacking Midfield,AM,-,1.FC Kaiserslautern,Germany,£1.35m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/youri-djorkaeff/profil/spieler/4
+FC Internazionale,Zé Elias,22,Brazil,Central Midfield,CM,-,Bologna FC 1909,Italy,£675Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ze-elias/profil/spieler/21966
+FC Internazionale,Aron Winter,32,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£540Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/aron-winter/profil/spieler/4324
+FC Internazionale,Ivan Rezic,19,Croatia,Central Midfield,CM,-,NK Varteks Varazdin,Croatia,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ivan-rezic/profil/spieler/15325
+FC Internazionale,Sébastien Frey,19,France,Goalkeeper,GK,-,Hellas Verona,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/sebastien-frey/profil/spieler/5854
+FC Internazionale,Raffaele Nuzzo,26,Italy,Goalkeeper,GK,-,Coventry City,England,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/raffaele-nuzzo/profil/spieler/228538
+FC Internazionale,Giuseppe Ticli,20,Italy,Left Midfield,LM,-,Calcio Padova,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-ticli/profil/spieler/268583
+FC Internazionale,Mauro Milanese,27,Italy,Left-Back,LB,-,AC Perugia,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-milanese/profil/spieler/6086
+FC Internazionale,Andrea Pirlo,20,Italy,Defensive Midfield,DM,-,Reggina Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-pirlo/profil/spieler/5817
+FC Internazionale,Gianluca Pagliuca,32,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-pagliuca/profil/spieler/5985
+FC Internazionale,Zoumana Camara,20,France,Centre-Back,CB,-,SC Bastia,France,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/zoumana-camara/profil/spieler/5474
+FC Internazionale,Matteo Ferrari,19,Italy,Centre-Back,CB,-,AS Bari,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-ferrari/profil/spieler/5860
+FC Internazionale,Fabio Galante,25,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-galante/profil/spieler/21886
+FC Internazionale,Nicola Ventola,21,Italy,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-ventola/profil/spieler/5798
+FC Internazionale,Gilberto,23,Brazil,Central Midfield,CM,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gilberto/profil/spieler/18734
+FC Internazionale,Giuseppe Bergomi,35,Italy,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-bergomi/profil/spieler/107860
+FC Internazionale,Emanuele Barsotti,20,Italy,Midfielder,Midfielder,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/emanuele-barsotti/profil/spieler/272562
+AC Parma,Juan Sebastián Verón,24,Argentina,Central Midfield,CM,-,SS Lazio,Italy,£27.00m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/juan-sebastian-veron/profil/spieler/3143
+AC Parma,Enrico Chiesa,28,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,£9.63m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/enrico-chiesa/profil/spieler/7329
+AC Parma,Stefano Fiore,24,Italy,Attacking Midfield,AM,-,Udinese Calcio,Italy,£8.73m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-fiore/profil/spieler/5842
+AC Parma,Néstor Sensini,32,Argentina,Centre-Back,CB,-,SS Lazio,Italy,£6.75m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/nestor-sensini/profil/spieler/5882
+AC Parma,Mohamed Kader,20,Togo,Centre-Forward,CF,-,FC Lugano,Switzerland,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mohamed-kader/profil/spieler/4823
+AC Parma,Reynald Pedros,27,France,Left Midfield,LM,-,HSC Montpellier,France,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/reynald-pedros/profil/spieler/5594
+AC Parma,Luigi Apolloni,32,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luigi-apolloni/profil/spieler/102472
+AC Parma,Abel Balbo,33,Argentina,Centre-Forward,CF,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/abel-balbo/profil/spieler/102187
+AC Parma,Zlatko Zebic,20,Jugoslawien (SFR),Attacking Midfield,AM,-,BSC Young Boys,Switzerland,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/zlatko-zebic/profil/spieler/579859
+AC Parma,Simone Barone,21,Italy,Central Midfield,CM,-,Alzano Virescit,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-barone/profil/spieler/5866
+AC Parma,Faustino Asprilla,29,Colombia,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/faustino-asprilla/profil/spieler/102150
+AC Parma,Alessandro Nista,33,Italy,Goalkeeper,GK,-,Torino Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-nista/profil/spieler/226495
+AC Parma,Roberto Mussi,35,Italy,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-mussi/profil/spieler/102482
+Hellas Verona,Eugenio Corini,28,Italy,Defensive Midfield,DM,-,Chievo Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/eugenio-corini/profil/spieler/5921
+Hellas Verona,Paolo Foglio,23,Italy,Right-Back,RB,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paolo-foglio/profil/spieler/15337
+Hellas Verona,Settimio Lucci,33,Italy,Defender,Defender,-,Ternana Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/settimio-lucci/profil/spieler/224571
+Hellas Verona,Alessandro Pagano,27,Italy,Midfielder,Midfielder,-,AC Siena,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-pagano/profil/spieler/297148
+Hellas Verona,Daniele Amerini,24,Italy,Central Midfield,CM,-,US Pistoiese 1921,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-amerini/profil/spieler/22262
+Hellas Verona,Claudio Ferrarese,20,Italy,Right Winger,RW,-,US Pistoiese 1921,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/claudio-ferrarese/profil/spieler/28852
+Hellas Verona,Corrado Venturi,19,Italy,Defender,Defender,-,Calcio Lecco 1912,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/corrado-venturi/profil/spieler/495485
+Hellas Verona,Gennaro Iezzo,26,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gennaro-iezzo/profil/spieler/20738
+Hellas Verona,Luca Mezzano,21,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+Hellas Verona,Stefano Guidoni,27,Italy,Forward,Forward,-,AC Perugia,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-guidoni/profil/spieler/25496
+AS Bari,Gianluca Zambrotta,22,Italy,Right-Back,RB,-,Juventus FC,Italy,£7.20m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-zambrotta/profil/spieler/5757
+AS Bari,Mauro Bressan,28,Italy,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-bressan/profil/spieler/33326
+AS Bari,Michele Tarallo,18,Italy,Centre-Forward,CF,-,AC Prato,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/michele-tarallo/profil/spieler/84978
+AS Bari,Alessio De Stefani,20,Italy,Defender,Defender,-,Atletico Catania,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessio-de-stefani/profil/spieler/296806
+AS Bari,Diego De Ascentis,22,Italy,Defensive Midfield,DM,-,Milan AC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-de-ascentis/profil/spieler/21880
+AS Bari,Rocco Roberto Paris,20,Italy,Left-Back,LB,-,Calcio Catania,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/rocco-roberto-paris/profil/spieler/227817
+SS Lazio,Christian Vieri,25,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£41.83m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-vieri/profil/spieler/5797
+SS Lazio,Gasperino Cinelli,17,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gasperino-cinelli/profil/spieler/482984
+SS Lazio,Paul Okon,27,Australia,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paul-okon/profil/spieler/4092
+SS Lazio,Giorgio Santarelli,18,Italy,Right-Back,RB,-,Calcio Catania,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giorgio-santarelli/profil/spieler/128825
+SS Lazio,Francesco Carbone,19,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-carbone/profil/spieler/7106
+SS Lazio,Federico Crovari,24,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/federico-crovari/profil/spieler/22192
+SS Lazio,Pasqualino Guido,20,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/pasqualino-guido/profil/spieler/675724
+SS Lazio,Iván De La Peña,23,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ivan-de-la-pena/profil/spieler/8037
+SS Lazio,Roberto Baronio,21,Italy,Defensive Midfield,DM,-,Reggina Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-baronio/profil/spieler/6089
+SS Lazio,Valentino Sbaccanti,19,Italy,Midfielder,Midfielder,-,Calcio Catania,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/valentino-sbaccanti/profil/spieler/148894
+SS Lazio,Stefano Di Fiordo,19,Italy,Centre-Back,CB,-,Calcio Padova,Italy,,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-di-fiordo/profil/spieler/30630
+Udinese Calcio,Márcio Amoroso,24,Brazil,Centre-Forward,CF,-,AC Parma,Italy,£25.20m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marcio-amoroso/profil/spieler/1263
+Udinese Calcio,Stephen Appiah,18,Ghana,Defensive Midfield,DM,-,AC Parma,Italy,£630Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stephen-appiah/profil/spieler/5975
+Udinese Calcio,Harald Wapenaar,29,Netherlands,Goalkeeper,GK,-,FC Utrecht,Netherlands,£585Th.,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/harald-wapenaar/profil/spieler/4180
+Udinese Calcio,Johan Walem,27,Belgium,Left Midfield,LM,-,AC Parma,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/johan-walem/profil/spieler/6153
+Udinese Calcio,Alessandro Calori,32,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-calori/profil/spieler/21831
+Udinese Calcio,David Stefani,24,Italy,Central Midfield,CM,-,ASD Castel di Sangro,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/david-stefani/profil/spieler/224540
+Udinese Calcio,Mauro Navas,24,Argentina,Right Midfield,RM,-,RCD Espanyol Barcelona,Spain,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-navas/profil/spieler/30857
+Udinese Calcio,Massamasso Tchangai,20,Togo,Centre-Back,CB,-,De Graafschap Doetinchem,Netherlands,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massamasso-tchangai/profil/spieler/40016
+Udinese Calcio,Patrik Fredholm,21,Sweden,Midfielder,Midfielder,-,De Graafschap Doetinchem,Netherlands,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/patrik-fredholm/profil/spieler/408091
+Udinese Calcio,Vito Lasalandra,24,Italy,Right Midfield,RM,-,AC Savoia 1908,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/vito-lasalandra/profil/spieler/224530
+Udinese Calcio,Jonathan Bachini,24,Italy,Right Midfield,RM,-,Juventus FC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+Udinese Calcio,Delio Toledo,22,Paraguay,Left-Back,LB,-,Club Cerro Porteño,Paraguay,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/delio-toledo/profil/spieler/7969
+Udinese Calcio,Daniele Chiarini,20,Italy,Centre-Back,CB,-,Aquila 1902 Montevarchi,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-chiarini/profil/spieler/12568
+Udinese Calcio,Ousmane Sanda Sanda,17,Cameroon,Midfielder,Midfielder,-,De Graafschap Doetinchem,Netherlands,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ousmane-sanda-sanda/profil/spieler/137394
+Udinese Calcio,Alessandro Pierini,26,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-pierini/profil/spieler/6067
+Udinese Calcio,Maurizio Bedin,20,Italy,Central Midfield,CM,-,Calcio Monza,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/maurizio-bedin/profil/spieler/5898
+Torino Calcio,Stefano Sorrentino,20,Italy,Goalkeeper,GK,-,AC Juve Stabia,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-sorrentino/profil/spieler/21891
+Torino Calcio,Franco Semioli,19,Italy,Right Winger,RW,-,US Salernitana,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/franco-semioli/profil/spieler/6154
+Torino Calcio,Fabrizio Casazza,28,Italy,Goalkeeper,GK,-,AC Venezia 1907,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-casazza/profil/spieler/16855
+Torino Calcio,Massimiliano Grotto,19,Italy,Midfielder,Midfielder,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-grotto/profil/spieler/675953
+Torino Calcio,Gianluca Comotto,20,Italy,Right-Back,RB,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-comotto/profil/spieler/16685
+Torino Calcio,Federico Balzaretti,17,Italy,Left-Back,LB,-,Varese FC,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/federico-balzaretti/profil/spieler/21876
+Torino Calcio,Pietro Parente,27,Italy,Midfielder,Midfielder,-,Genoa CFC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/pietro-parente/profil/spieler/44887
+Torino Calcio,Domenico Commisso,19,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/domenico-commisso/profil/spieler/584046
+Torino Calcio,Riccardo Fissore,19,Italy,Centre-Back,CB,-,AC Juve Stabia,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/riccardo-fissore/profil/spieler/22209
+Torino Calcio,Simone Tiribocchi,21,Italy,Centre-Forward,CF,-,FC Sporting Benevento,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-tiribocchi/profil/spieler/21700
+Torino Calcio,Giuseppe Scienza,32,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-scienza/profil/spieler/227516
+Torino Calcio,Marco Sanna,29,Italy,Central Midfield,CM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-sanna/profil/spieler/105017
+Torino Calcio,Piero Lo Gatto,20,Italy,Midfielder,Midfielder,-,FC Crotone Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/piero-lo-gatto/profil/spieler/287524
+Torino Calcio,Stefano Fattori,27,Italy,Centre-Back,CB,-,Vicenza Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-fattori/profil/spieler/21760
+Torino Calcio,Giuseppe Guercia,17,Italy,Defender,Defender,-,Marsala Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-guercia/profil/spieler/675912
+Torino Calcio,Carlo Sassarini,27,Italy,Left-Back,LB,-,Genoa CFC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/carlo-sassarini/profil/spieler/17960
+Torino Calcio,Roberto Bacci,32,Italy,Centre-Back,CB,-,AC Arezzo,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-bacci/profil/spieler/224927
+Torino Calcio,Andrea Citterio,23,Italy,Centre-Back,CB,-,Fermana Calcio 1920,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-citterio/profil/spieler/300678
+AC Fiorentina,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Venezia 1907,Italy,£1.80m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-bettarini/profil/spieler/6746
+AC Fiorentina,Giulio Falcone,25,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giulio-falcone/profil/spieler/5989
+AC Fiorentina,Riccardo Spigoli,19,Italy,Forward,Forward,-,Trapani Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/riccardo-spigoli/profil/spieler/448691
+AC Fiorentina,Luis Oliveira,30,Belgium,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luis-oliveira/profil/spieler/22087
+AC Fiorentina,Fabrizio Ficini,25,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-ficini/profil/spieler/6023
+AC Fiorentina,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,Cagliari Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+AC Fiorentina,Carmine Esposito,28,Italy,Forward,Forward,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/carmine-esposito/profil/spieler/287385
+AC Fiorentina,Alessandro Zandonà,23,Italy,Goalkeeper,GK,-,Giorgione Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-zandona/profil/spieler/266596
+AC Fiorentina,Roberto Mirri,20,Italy,Centre-Back,CB,-,FC Empoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-mirri/profil/spieler/6013
+AC Fiorentina,Edmundo,28,Brazil,Second Striker,SS,-,Club de Regatas Vasco da Gama,Brazil,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/edmundo/profil/spieler/53219
+AC Fiorentina,Danilo Stefani,20,Italy,Central Midfield,CM,-,Turris Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/danilo-stefani/profil/spieler/254238
+AC Fiorentina,Giacomo Dondoli,20,Italy,Goalkeeper,GK,-,Cavese 1919,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giacomo-dondoli/profil/spieler/309166
+AC Fiorentina,Francesco Flachi,24,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-flachi/profil/spieler/6781
+AC Fiorentina,Anselmo Robbiati,29,Italy,Left Winger,LW,-,SSC Napoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/anselmo-robbiati/profil/spieler/6816
+Juventus FC,Angelo Peruzzi,29,Italy,Goalkeeper,GK,-,FC Internazionale,Italy,£17.10m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/angelo-peruzzi/profil/spieler/5826
+Juventus FC,Thierry Henry,21,France,Centre-Forward,CF,-,Arsenal FC,England,£14.49m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/thierry-henry/profil/spieler/3207
+Juventus FC,Didier Deschamps,30,France,Defensive Midfield,DM,-,Chelsea FC,England,£1.80m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/didier-deschamps/profil/spieler/75553
+Juventus FC,Simone Perrotta,21,Italy,Attacking Midfield,AM,-,AS Bari,Italy,£1.66m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-perrotta/profil/spieler/5922
+Juventus FC,Marcelo Zalayeta,20,Uruguay,Centre-Forward,CF,-,Sevilla FC,Spain,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marcelo-zalayeta/profil/spieler/5767
+Juventus FC,Angelo Di Livio,32,Italy,Right Midfield,RM,-,AC Fiorentina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/angelo-di-livio/profil/spieler/21148
+Juventus FC,Marco Gorzegno,18,Italy,Centre-Back,CB,-,AC Cuneo 1905,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-gorzegno/profil/spieler/22243
+Juventus FC,Salvatore Aronica,21,Italy,Centre-Back,CB,-,FC Crotone Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/salvatore-aronica/profil/spieler/19182
+Juventus FC,Jocelyn Blanchard,27,France,Defensive Midfield,DM,-,RC Lens,France,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/jocelyn-blanchard/profil/spieler/5483
+Juventus FC,Massimiliano Vieri,20,Australia,Centre-Forward,CF,-,Brescello Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-vieri/profil/spieler/6148
+Juventus FC,Christian Manfredini,24,Cote d'Ivoire,Left Winger,LW,-,Genoa CFC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-manfredini/profil/spieler/5850
+Juventus FC,Luca Pellegrini,20,Italy,Midfielder,Midfielder,-,AS Gualdo Casacastalda,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-pellegrini/profil/spieler/369435
+Juventus FC,Morgan De Sanctis,22,Italy,Goalkeeper,GK,-,Udinese Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/morgan-de-sanctis/profil/spieler/5880
+Juventus FC,Massimo Paci,21,Italy,Centre-Back,CB,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-paci/profil/spieler/28026
+Juventus FC,Nicola Amoruso,24,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/nicola-amoruso/profil/spieler/4150
+Juventus FC,Raffaele Ametrano,26,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/raffaele-ametrano/profil/spieler/20896
+AC Venezia 1907,Tuta,25,Brazil,Centre-Forward,CF,-,Atlético Paranaense,Brazil,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/tuta/profil/spieler/29673
+AC Venezia 1907,Massimo Taibi,29,Italy,Goalkeeper,GK,-,Manchester United,England,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimo-taibi/profil/spieler/3527
+AC Venezia 1907,Gerhard Poschner,29,Germany,Defensive Midfield,DM,-,Rayo Vallecano,Spain,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gerhard-poschner/profil/spieler/1521
+AC Venezia 1907,Alessio Bandieri,25,Italy,Goalkeeper,GK,-,SSC Napoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessio-bandieri/profil/spieler/228806
+AC Venezia 1907,Marco Fabris,18,Italy,Centre-Back,CB,-,Calcio Sandonà,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-fabris/profil/spieler/32086
+AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,US Avellino,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/rosario-la-marca/profil/spieler/482334
+AC Venezia 1907,Tomislav Rukavina,24,Croatia,Right Midfield,RM,-,GNK Dinamo Zagreb,Croatia,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/tomislav-rukavina/profil/spieler/25772
+AC Venezia 1907,Fabiano Ballarin,26,Italy,Left-Back,LB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabiano-ballarin/profil/spieler/228805
+AC Venezia 1907,Andrea De Cecco,20,Italy,Midfielder,Midfielder,-,Calcio Sandonà,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-de-cecco/profil/spieler/270892
+AC Venezia 1907,Ivone De Franceschi,25,Italy,Left Winger,LW,-,Sporting CP,Portugal,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ivone-de-franceschi/profil/spieler/5924
+AC Venezia 1907,Mauro Zironelli,29,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-zironelli/profil/spieler/314705
+AC Venezia 1907,Kenneth Zeigbo,22,Nigeria,Centre-Forward,CF,-,Al-Ain FC,United Arab Emirates,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/kenneth-zeigbo/profil/spieler/228810
+AC Venezia 1907,Roberto Franzese,18,Italy,Central Midfield,CM,£23Th.,,Unknown,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-franzese/profil/spieler/343160
+AC Venezia 1907,Alessandro Pistone,23,Italy,Left-Back,LB,-,Newcastle United,England,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-pistone/profil/spieler/3588
+AC Venezia 1907,Augustine Ahinful,24,Ghana,Centre-Forward,CF,-,União de Leiria,Portugal,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/augustine-ahinful/profil/spieler/6987
+AC Venezia 1907,Álvaro Recoba,23,Uruguay,Second Striker,SS,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alvaro-recoba/profil/spieler/5796
+AC Perugia,Iván Kaviedes,21,Ecuador,Centre-Forward,CF,-,Celta de Vigo,Spain,£4.50m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ivan-kaviedes/profil/spieler/7561
+AC Perugia,Dejan Stefanovic,24,Serbia,Centre-Back,CB,-,OFK Beograd,Serbia,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/dejan-stefanovic/profil/spieler/4308
+AC Perugia,Paulo da Silva,19,Paraguay,Centre-Back,CB,-,Club Atlético Lanús,Argentina,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paulo-da-silva/profil/spieler/38800
+AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,San Jose Earthquakes,United States,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giovanni-savarese/profil/spieler/252143
+AC Perugia,Pietro Strada,29,Italy,Left Midfield,LM,-,AC Parma,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/pietro-strada/profil/spieler/30660
+AC Perugia,Gianluca Colonnello,26,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-colonnello/profil/spieler/6423
+AC Perugia,Andrea Carboni,21,Italy,Midfielder,Midfielder,-,,Unknown,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-carboni/profil/spieler/523245
+AC Perugia,David Giubilato,22,Italy,Centre-Back,CB,-,US Viterbese,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/david-giubilato/profil/spieler/21832
+AC Perugia,Stefano Guidoni,28,Italy,Forward,Forward,-,US Salernitana,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-guidoni/profil/spieler/25496
+AC Perugia,Alessandro Melli,29,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-melli/profil/spieler/169663
+AC Perugia,Simone Montanari,19,Italy,Goalkeeper,GK,-,US Vigor Senigallia,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-montanari/profil/spieler/92791
+AC Perugia,Mirko Ventura,19,Italy,Midfielder,Midfielder,-,Ancona Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mirko-ventura/profil/spieler/299950
+AC Perugia,Diego Pellegrini,28,Italy,Centre-Back,CB,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/diego-pellegrini/profil/spieler/32120
+AC Perugia,Luca Mezzano,21,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+AC Perugia,Cataldo Montesanto,22,Italy,Defensive Midfield,DM,-,US Viterbese,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/cataldo-montesanto/profil/spieler/30648
+AC Perugia,Cristian Bucchi,22,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/cristian-bucchi/profil/spieler/16846
+AC Perugia,Gianluca Ricci,31,Italy,Centre-Back,CB,-,US Città di Fasano,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-ricci/profil/spieler/228242
+AC Perugia,Juan Carlos Docabo,28,Argentina,Goalkeeper,GK,-,US Viterbese,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/juan-carlos-docabo/profil/spieler/20126
+AC Perugia,Salvatore Matrecano,28,Italy,Centre-Back,CB,-,Nottingham Forest,England,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/salvatore-matrecano/profil/spieler/224531
+AC Perugia,Zé Maria,25,Brazil,Right-Back,RB,-,Club de Regatas Vasco da Gama,Brazil,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ze-maria/profil/spieler/6081
+AC Perugia,Gianluca Petrachi,30,Italy,Midfielder,Midfielder,-,Nottingham Forest,England,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-petrachi/profil/spieler/227503
+AC Perugia,Davide Tentoni,28,Italy,Midfielder,Midfielder,-,Ravenna FC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/davide-tentoni/profil/spieler/228320
+AC Perugia,Luca Bordichini,20,Italy,Midfielder,Midfielder,-,Sanremese Calcio,Italy,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/luca-bordichini/profil/spieler/445282
+AC Perugia,Martín Rivas,22,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/martin-rivas/profil/spieler/76526
+AC Perugia,Armando Pantanelli,28,Italy,Goalkeeper,GK,-,AC Reggiana,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/armando-pantanelli/profil/spieler/20745
+AC Perugia,Marco Roccati,23,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-roccati/profil/spieler/6817
+US Lecce,Sergiy Atelkin,27,Ukraine,Centre-Forward,CF,-,Shakhtar Donetsk,Ukraine,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/sergiy-atelkin/profil/spieler/59956
+US Lecce,Roberto Stellone,21,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-stellone/profil/spieler/16745
+US Lecce,Marcello Campolonghi,24,Italy,Second Striker,SS,-,AC Cesena,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marcello-campolonghi/profil/spieler/30623
+US Lecce,Francesco Bellucci,26,Italy,Centre-Back,CB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-bellucci/profil/spieler/223334
+US Lecce,Vincenzo Marruocco,20,Italy,Goalkeeper,GK,-,FC Messina Peloro,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-marruocco/profil/spieler/55799
+US Lecce,Jean-Pierre Cyprien,30,France,Centre-Back,CB,-,US Salernitana,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/jean-pierre-cyprien/profil/spieler/158230
+US Lecce,Stefano Casale,28,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-casale/profil/spieler/226061
+US Lecce,Christian Cimarelli,23,Italy,Midfielder,Midfielder,-,Chievo Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/christian-cimarelli/profil/spieler/56899
+US Lecce,Cosimo Nobile,20,Italy,Centre-Forward,CF,-,Sport Club Marsala 1912,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/cosimo-nobile/profil/spieler/322391
+US Lecce,Marco Zamboni,21,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+US Lecce,Fabrizio Lorieri,35,Italy,Goalkeeper,GK,-,US Salernitana,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-lorieri/profil/spieler/226081
+US Lecce,Renato Greco,30,Italy,Centre-Forward,CF,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/renato-greco/profil/spieler/30641
+US Lecce,Giovanni Conversano,20,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giovanni-conversano/profil/spieler/495161
+US Lecce,Giuseppe Giannini,34,Italy,Attacking Midfield,AM,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-giannini/profil/spieler/118254
+US Lecce,Esquerdinha,19,Brazil,Forward,Forward,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/esquerdinha/profil/spieler/483014
+US Lecce,Matteo Ferrari,19,Italy,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-ferrari/profil/spieler/5860
+US Lecce,Manuele Blasi,18,Italy,Central Midfield,CM,-,AS Roma,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+Bologna FC 1909,Christophe Sanchez,27,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/christophe-sanchez/profil/spieler/5386
+Bologna FC 1909,Igor Simutenkov,26,Russia,Centre-Forward,CF,-,CD Tenerife,Spain,Free transfer,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/igor-simutenkov/profil/spieler/26851
+Bologna FC 1909,Oscar Magoni,31,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/oscar-magoni/profil/spieler/216814
+Bologna FC 1909,Kennet Andersson,31,Sweden,Centre-Forward,CF,-,SS Lazio,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/kennet-andersson/profil/spieler/3429
+Bologna FC 1909,Amedeo Mangone,30,Italy,Left-Back,LB,-,AS Roma,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/amedeo-mangone/profil/spieler/21793
+Bologna FC 1909,Alex Brunner,25,Italy,Goalkeeper,GK,-,Como Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alex-brunner/profil/spieler/102530
+Bologna FC 1909,Filippo Di Leo,20,Italy,Goalkeeper,GK,-,Faenza Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/filippo-di-leo/profil/spieler/358860
+Bologna FC 1909,Francesco Antonioli,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-antonioli/profil/spieler/5935
+Bologna FC 1909,Alessandro Rinaldi,24,Italy,Right-Back,RB,-,AS Roma,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/alessandro-rinaldi/profil/spieler/147455
+Bologna FC 1909,Giovanni Pompei,18,Italy,Second Striker,SS,-,Ascoli Calcio 1898,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giovanni-pompei/profil/spieler/296964
+Bologna FC 1909,Giampiero Maini,27,Italy,Defensive Midfield,DM,-,AC Venezia 1907,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/giampiero-maini/profil/spieler/16851
+Bologna FC 1909,Jero Shakpoke,19,Nigeria,Centre-Back,CB,-,FC Lugano,Switzerland,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/jero-shakpoke/profil/spieler/125160
+Bologna FC 1909,Massimiliano Cappioli,31,Italy,Attacking Midfield,AM,-,,Without Club,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappioli/profil/spieler/160859
+Bologna FC 1909,Stefano Bettarini,27,Italy,Left-Back,LB,-,AC Fiorentina,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-bettarini/profil/spieler/6746
+Reggina Calcio,Fabio Di Sole,25,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-di-sole/profil/spieler/39677
+Reggina Calcio,Roberto Cevoli,30,San Marino,Centre-Back,CB,-,AC Cesena,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-cevoli/profil/spieler/6040
+Reggina Calcio,Stefano Dall'Acqua,17,Italy,Centre-Forward,CF,-,HSL Derthona,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Reggina Calcio,Paolo Ziliani,28,Italy,Sweeper,SW,-,ACD Treviso,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paolo-ziliani/profil/spieler/228303
+Reggina Calcio,Emanuele Aloe,17,Italy,Defender,Defender,-,,Unknown,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/emanuele-aloe/profil/spieler/347239
+Reggina Calcio,Mauro Briano,24,Italy,Defensive Midfield,DM,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mauro-briano/profil/spieler/24298
+Reggina Calcio,Ugo Napolitano,34,Italy,Centre-Back,CB,-,US Catanzaro,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/ugo-napolitano/profil/spieler/322794
+Reggina Calcio,Vittorio Pinciarelli,27,Italy,Midfielder,Midfielder,-,FC Empoli,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/vittorio-pinciarelli/profil/spieler/229160
+Reggina Calcio,Goran Tomic,22,Croatia,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/goran-tomic/profil/spieler/2982
+Reggina Calcio,Tonino Martino,30,Italy,Forward,Forward,-,AC Savoia 1908,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/tonino-martino/profil/spieler/227306
+Reggina Calcio,Paulo Pereira,33,Brazil,Right-Back,RB,-,,Retired,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/paulo-pereira/profil/spieler/177948
+Reggina Calcio,Fabio Firmani,21,Italy,Central Midfield,CM,-,Vicenza Calcio,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-firmani/profil/spieler/22083
+Reggina Calcio,Fabio Artico,25,Italy,Centre-Forward,CF,-,FC Empoli,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/fabio-artico/profil/spieler/139294
+Reggina Calcio,Andrea Sussi,25,Italy,Left-Back,LB,-,AC Perugia,Italy,"End of loanJun 30, 1999",Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-sussi/profil/spieler/12565
+Cagliari Calcio,Roberto Muzzi,27,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,£9.00m,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/roberto-muzzi/profil/spieler/5900
+Cagliari Calcio,Andrea Pisanu,17,Italy,Right Midfield,RM,-,AC Siena,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/andrea-pisanu/profil/spieler/25323
+Cagliari Calcio,Eupremio Carruezzo,29,Italy,Centre-Forward,CF,-,AS Livorno,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/eupremio-carruezzo/profil/spieler/223337
+Cagliari Calcio,Vincenzo Esposito,28,Italy,Left-Back,LB,-,Calcio Monza,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-esposito/profil/spieler/287697
+Cagliari Calcio,Matteo Centurioni,25,Italy,Centre-Back,CB,-,ACD Treviso,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/matteo-centurioni/profil/spieler/22104
+Cagliari Calcio,David Nyathi,30,South Africa,Left-Back,LB,-,MKE Ankaragücü,Turkey,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/david-nyathi/profil/spieler/103468
+Cagliari Calcio,Gaetano Vasari,28,Italy,Right Winger,RW,-,UC Sampdoria,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gaetano-vasari/profil/spieler/223362
+Cagliari Calcio,Daniele Corsi,21,Italy,Goalkeeper,GK,-,L'Aquila Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-corsi/profil/spieler/431896
+Cagliari Calcio,Mohamed Kallon,19,Sierra Leone,Centre-Forward,CF,-,Reggina Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/mohamed-kallon/profil/spieler/3509
+Cagliari Calcio,Cristiano Zanetti,22,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/cristiano-zanetti/profil/spieler/5783
+Cagliari Calcio,Francesco Zanoncelli,31,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-zanoncelli/profil/spieler/223022
+Cagliari Calcio,Gianluca Picciau,19,Italy,Defender,Defender,-,FC Esperia Viareggio,Italy,-,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/gianluca-picciau/profil/spieler/444842
+Piacenza FC,Valerio Fiori,30,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/valerio-fiori/profil/spieler/5799
+Piacenza FC,Sergio Marcon,28,Italy,Goalkeeper,GK,-,Chievo Verona,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/sergio-marcon/profil/spieler/16852
+Piacenza FC,Adolfo Daniele Speranza,19,Italy,Central Midfield,CM,-,US Fiorenzuola 1922,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/adolfo-daniele-speranza/profil/spieler/22321
+Piacenza FC,Stefano Turi,19,Italy,Left Midfield,LM,-,US Triestina,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/stefano-turi/profil/spieler/174293
+Piacenza FC,Daniele Cozzi,20,Italy,Defender,Defender,-,ASD La Biellese,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/daniele-cozzi/profil/spieler/262051
+Piacenza FC,Simone Inzaghi,23,Italy,Centre-Forward,CF,-,SS Lazio,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/simone-inzaghi/profil/spieler/5849
+Piacenza FC,Francesco Varrenti,20,Italy,Midfielder,Midfielder,-,ASD Rondinella Marzocco,Italy,?,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-varrenti/profil/spieler/434855
+Piacenza FC,Francesco Zerbini,19,Italy,Centre-Forward,CF,-,AS Lodigiani,Italy,Loan,Out,1999,s,serie-a,https://www.transfermarkt.co.uk/francesco-zerbini/profil/spieler/21899
+Milan AC,José Mari,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£17.10m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/6194
+Milan AC,Roque Júnior,23,Brazil,Centre-Back,CB,-,Sociedade Esportiva Palmeiras,Brazil,£7.65m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/roque-junior/profil/spieler/5807
+Milan AC,José Chamot,30,Argentina,Centre-Back,CB,-,Atlético Madrid,Spain,£2.70m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/jose-chamot/profil/spieler/5805
+Milan AC,Taribo West,25,Nigeria,Left-Back,LB,-,FC Internazionale,Italy,£2.25m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/taribo-west/profil/spieler/1403
+Milan AC,Dida,25,Brazil,Goalkeeper,GK,-,Cruzeiro Esporte Clube,Brazil,£1.25m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/dida/profil/spieler/5800
+AS Roma,Hidetoshi Nakata,22,Japan,Attacking Midfield,AM,-,AC Perugia,Italy,£19.52m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/hidetoshi-nakata/profil/spieler/5875
+AS Roma,Paolo Poggi,28,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/paolo-poggi/profil/spieler/7432
+FC Internazionale,Clarence Seedorf,23,Netherlands,Central Midfield,CM,-,Real Madrid,Spain,£21.61m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/clarence-seedorf/profil/spieler/4168
+FC Internazionale,Iván Córdoba,23,Colombia,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,£12.60m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/ivan-cordoba/profil/spieler/5772
+FC Internazionale,Adrian Mutu,20,Romania,Centre-Forward,CF,-,FC Dinamo Bucharest,Romania,£5.85m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/adrian-mutu/profil/spieler/5879
+AC Parma,Júnior,26,Brazil,Left-Back,LB,-,Sociedade Esportiva Palmeiras,Brazil,£4.50m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/junior/profil/spieler/5861
+AC Parma,Paulo Sousa,29,Portugal,Central Midfield,CM,-,FC Internazionale,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/paulo-sousa/profil/spieler/1536
+AC Parma,Luciano Galletti,19,Argentina,Right Winger,RW,-,SSC Napoli,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/luciano-galletti/profil/spieler/7978
+Hellas Verona,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,AC Fiorentina,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+Hellas Verona,Michele Cossato,29,Italy,Forward,Forward,-,Atalanta BC,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/michele-cossato/profil/spieler/192717
+Hellas Verona,Alessandro Romano,30,Italy,Defensive Midfield,DM,-,AC Cesena,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-romano/profil/spieler/224945
+AS Bari,Jaime Valdés,18,Chile,Central Midfield,CM,-,CD Palestino,Chile,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/jaime-valdes/profil/spieler/22131
+AS Bari,Pasqual De Gregorio,27,Chile,Forward,Forward,-,Coquimbo Unido,Chile,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/pasqual-de-gregorio/profil/spieler/227802
+SS Lazio,Fabrizio Ravanelli,31,Italy,Centre-Forward,CF,-,Olympique Marseille,France,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/fabrizio-ravanelli/profil/spieler/4226
+Udinese Calcio,Armando Perna,18,Italy,Centre-Back,CB,-,US Palermo,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/armando-perna/profil/spieler/21188
+Torino Calcio,André Cruz,31,Brazil,Centre-Back,CB,-,Standard Liège,Belgium,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/andre-cruz/profil/spieler/17558
+Torino Calcio,Alessandro Grandoni,22,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-grandoni/profil/spieler/6751
+Torino Calcio,Krunoslav Jurcic,29,Croatia,Defensive Midfield,DM,-,GNK Dinamo Zagreb,Croatia,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/krunoslav-jurcic/profil/spieler/133839
+Torino Calcio,Gennaro Scarlato,22,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/gennaro-scarlato/profil/spieler/21758
+Juventus FC,Enzo Maresca,19,Italy,Central Midfield,CM,-,West Bromwich Albion,England,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/enzo-maresca/profil/spieler/16651
+Juventus FC,Simone Malatesta,17,Italy,Centre-Forward,CF,-,Modena FC,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/simone-malatesta/profil/spieler/85883
+AC Venezia 1907,Bruno N'Gotty,28,France,Centre-Back,CB,-,Milan AC,Italy,£4.05m,In,1999,w,serie-a,https://www.transfermarkt.co.uk/bruno-ngotty/profil/spieler/3964
+AC Venezia 1907,Maurizio Ganz,31,Italy,Centre-Forward,CF,-,Milan AC,Italy,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/maurizio-ganz/profil/spieler/15272
+AC Venezia 1907,Ciro Ginestra,20,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/ciro-ginestra/profil/spieler/21848
+AC Venezia 1907,Robert Ibertsberger,22,Austria,Right-Back,RB,-,SV Wüstenrot Salzburg,Austria,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/robert-ibertsberger/profil/spieler/16482
+AC Venezia 1907,Tomislav Rukavina,25,Croatia,Right Midfield,RM,-,GNK Dinamo Zagreb,Croatia,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/tomislav-rukavina/profil/spieler/25772
+AC Venezia 1907,Marco Cento,23,Italy,Midfielder,Midfielder,-,ASD Castel di Sangro,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/marco-cento/profil/spieler/300677
+AC Venezia 1907,Pierluigi Orlandini,27,Italy,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/pierluigi-orlandini/profil/spieler/160215
+AC Perugia,Giovanni Proietti,22,Italy,Goalkeeper,GK,-,AS Lodigiani,Italy,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/giovanni-proietti/profil/spieler/23294
+AC Perugia,Jehad Muntasser,21,Libya,Right Midfield,RM,-,FC Empoli,Italy,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/jehad-muntasser/profil/spieler/21943
+AC Perugia,Dmitri Alenichev,27,Russia,Central Midfield,CM,-,AS Roma,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/dmitri-alenichev/profil/spieler/9804
+AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,Deportivo Táchira,Venezuela,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/giovanni-savarese/profil/spieler/252143
+AC Perugia,Giorgio Sterchele,29,Italy,Goalkeeper,GK,-,AS Roma,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/giorgio-sterchele/profil/spieler/22214
+AC Perugia,Héctor Tapia,22,Chile,Centre-Forward,CF,-,CD Universidad Católica,Chile,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/hector-tapia/profil/spieler/5657
+AC Perugia,Salvatore Monaco,27,Italy,Centre-Back,CB,-,US Salernitana,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/salvatore-monaco/profil/spieler/22086
+AC Perugia,Massimiliano Cappioli,31,Italy,Attacking Midfield,AM,-,,Without Club,-,In,1999,w,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappioli/profil/spieler/160859
+US Lecce,Francisco Lima,28,Brazil,Defensive Midfield,DM,-,FC Zürich,Switzerland,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/francisco-lima/profil/spieler/5953
+US Lecce,Juarez,26,Brazil,Right-Back,RB,-,Servette FC,Switzerland,Free transfer,In,1999,w,serie-a,https://www.transfermarkt.co.uk/juarez/profil/spieler/28012
+US Lecce,Mirco Sadotti,24,Italy,Centre-Back,CB,-,Milan AC,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/mirco-sadotti/profil/spieler/226092
+US Lecce,Giacomo Cipriani,19,Italy,Centre-Forward,CF,-,Bologna FC 1909,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/giacomo-cipriani/profil/spieler/6007
+US Lecce,Francesco Marino,28,Italy,Second Striker,SS,-,Brescia Calcio,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/francesco-marino/profil/spieler/22991
+Bologna FC 1909,Paolo Orlandoni,27,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/paolo-orlandoni/profil/spieler/21797
+Bologna FC 1909,Max Tonetto,25,Italy,Left-Back,LB,-,Milan AC,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/max-tonetto/profil/spieler/6447
+Bologna FC 1909,Roberto Goretti,23,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/roberto-goretti/profil/spieler/6002
+Bologna FC 1909,Alessandro Dal Canto,24,Italy,Left-Back,LB,-,AC Venezia 1907,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-dal-canto/profil/spieler/24320
+Bologna FC 1909,Giovanni Piacentini,31,Italy,Defensive Midfield,DM,-,Atalanta BC,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/giovanni-piacentini/profil/spieler/211850
+Reggina Calcio,Erjon Bogdani,22,Albania,Centre-Forward,CF,-,NK Zagreb,Croatia,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/erjon-bogdani/profil/spieler/6075
+Cagliari Calcio,David Régis,31,United States,Centre-Back,CB,-,FC Metz,France,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/david-regis/profil/spieler/81292
+Cagliari Calcio,Stefano Bianconi,31,Italy,Sweeper,SW,-,FC Empoli,Italy,Loan,In,1999,w,serie-a,https://www.transfermarkt.co.uk/stefano-bianconi/profil/spieler/22147
+Piacenza FC,Stefano Morrone,21,Italy,Central Midfield,CM,-,FC Empoli,Italy,?,In,1999,w,serie-a,https://www.transfermarkt.co.uk/stefano-morrone/profil/spieler/6722
+Milan AC,Bruno N'Gotty,28,France,Centre-Back,CB,-,AC Venezia 1907,Italy,£4.05m,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/bruno-ngotty/profil/spieler/3964
+Milan AC,Maurizio Ganz,31,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/maurizio-ganz/profil/spieler/15272
+Milan AC,Massimo Maccarone,20,Italy,Centre-Forward,CF,-,AC Prato,Italy,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/massimo-maccarone/profil/spieler/3713
+Milan AC,George Weah,33,Liberia,Centre-Forward,CF,-,Chelsea FC,England,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/george-weah/profil/spieler/8542
+Milan AC,Zizi Roberts,20,Liberia,Centre-Forward,CF,-,Ionikos Nikeas,Greece,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/zizi-roberts/profil/spieler/27003
+Milan AC,Pierluigi Orlandini,27,Italy,Right Midfield,RM,-,AC Venezia 1907,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/pierluigi-orlandini/profil/spieler/160215
+Milan AC,Matteo Pelatti,21,Italy,Centre-Forward,CF,-,US Sassuolo,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/matteo-pelatti/profil/spieler/42121
+Milan AC,Mirco Sadotti,24,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/mirco-sadotti/profil/spieler/226092
+Milan AC,Max Tonetto,25,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/max-tonetto/profil/spieler/6447
+AS Roma,Lampros Choutos,20,Greece,Centre-Forward,CF,-,Olympiacos Piraeus,Greece,£2.70m,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/lampros-choutos/profil/spieler/9682
+AS Roma,Nesat Gülünoglu,20,Turkey,Attacking Midfield,AM,-,Sportfreunde Siegen,Germany,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/nesat-gulunoglu/profil/spieler/1543
+AS Roma,Luca Ferri,19,Italy,Right-Back,RB,-,Calcio Lecco 1912,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/luca-ferri/profil/spieler/22316
+AS Roma,Dmitri Alenichev,27,Russia,Central Midfield,CM,-,AC Perugia,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/dmitri-alenichev/profil/spieler/9804
+AS Roma,Marco Quadrini,20,Italy,Right-Back,RB,-,Genoa CFC,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/marco-quadrini/profil/spieler/227780
+AS Roma,Giorgio Sterchele,29,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/giorgio-sterchele/profil/spieler/22214
+FC Internazionale,Taribo West,25,Nigeria,Left-Back,LB,-,Milan AC,Italy,£2.25m,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/taribo-west/profil/spieler/1403
+FC Internazionale,Paulo Sousa,29,Portugal,Central Midfield,CM,-,AC Parma,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/paulo-sousa/profil/spieler/1536
+AC Parma,Fabio Moro,24,Italy,Right-Back,RB,-,Chievo Verona,Italy,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/fabio-moro/profil/spieler/5912
+AC Parma,Pietro Strada,30,Italy,Left Midfield,LM,-,Genoa CFC,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/pietro-strada/profil/spieler/30660
+Hellas Verona,Tonci Zilic,24,Croatia,Centre-Back,CB,-,Fermana Calcio 1920,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/tonci-zilic/profil/spieler/25781
+Hellas Verona,Alfredo Aglietti,29,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alfredo-aglietti/profil/spieler/166879
+Hellas Verona,Ivan Rajcic,18,Croatia,Central Midfield,CM,-,HNK Hajduk Split,Croatia,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/ivan-rajcic/profil/spieler/29566
+AS Bari,Carlo Cardascio,20,Italy,Right Midfield,RM,-,AS Fidelis Andria,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/carlo-cardascio/profil/spieler/15719
+AS Bari,Miguel Ángel Guerrero,32,Colombia,Second Striker,SS,-,Junior FC,Colombia,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/miguel-angel-guerrero/profil/spieler/106948
+AS Bari,Hany Said,19,Egypt,Defensive Midfield,DM,-,AC Bellinzona,Switzerland,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/hany-said/profil/spieler/20662
+AS Bari,Alessio De Stefani,20,Italy,Defender,Defender,-,Atletico Catania,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alessio-de-stefani/profil/spieler/296806
+AS Bari,Peter Knudsen,26,Denmark,Left Midfield,LM,-,Akademisk Boldklub,Denmark,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/peter-knudsen/profil/spieler/23485
+AS Bari,Giovanni Indiveri,25,Italy,Goalkeeper,GK,-,ASD Castel di Sangro,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/giovanni-indiveri/profil/spieler/24310
+SS Lazio,Stefano Lombardi,23,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/stefano-lombardi/profil/spieler/15462
+SS Lazio,Marco Pisano,18,Italy,Left-Back,LB,-,Brescia Calcio,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/marco-pisano/profil/spieler/16901
+Udinese Calcio,Jorginho Paulista,19,Brazil,Left-Back,LB,-,Atlético Paranaense,Brazil,£315Th.,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/jorginho-paulista/profil/spieler/3367
+Udinese Calcio,Paolo Poggi,28,Italy,Centre-Forward,CF,-,AS Roma,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/paolo-poggi/profil/spieler/7432
+Udinese Calcio,Mauro Esposito,20,Italy,Right Winger,RW,-,Delfino Pescara 1936,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/mauro-esposito/profil/spieler/20735
+Torino Calcio,Marcus Lantz,24,Sweden,Central Midfield,CM,-,FC Hansa Rostock,Germany,£900Th.,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/marcus-lantz/profil/spieler/243
+Torino Calcio,André Cruz,31,Brazil,Centre-Back,CB,-,Sporting CP,Portugal,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/andre-cruz/profil/spieler/17558
+Torino Calcio,Mirko Cudini,26,Italy,Centre-Back,CB,-,US Salernitana,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/mirko-cudini/profil/spieler/8551
+Torino Calcio,Erik Edman,21,Sweden,Left-Back,LB,-,Karlsruher SC,Germany,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/erik-edman/profil/spieler/4394
+Torino Calcio,Antonino Asta,29,Italy,Right Midfield,RM,-,SSC Napoli,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/antonino-asta/profil/spieler/192381
+AC Fiorentina,Domenico Morfeo,23,Italy,Attacking Midfield,AM,-,Hellas Verona,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+Juventus FC,Luigi Lavecchia,18,Italy,Right Midfield,RM,-,FC Crotone Calcio,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+Juventus FC,Ronnie O'Brien,20,Ireland,Midfielder,Midfielder,-,FC Crotone Calcio,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/ronnie-obrien/profil/spieler/640948
+AC Venezia 1907,Salvatore Miceli,25,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/salvatore-miceli/profil/spieler/21795
+AC Venezia 1907,Rosario La Marca,19,Italy,Midfielder,Midfielder,-,US Avellino,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/rosario-la-marca/profil/spieler/482334
+AC Venezia 1907,Francesco Ciullo,20,Italy,Forward,Forward,-,AC Reggiana,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/francesco-ciullo/profil/spieler/228808
+AC Venezia 1907,Alessandro Dal Canto,24,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-dal-canto/profil/spieler/24320
+AC Perugia,Hidetoshi Nakata,22,Japan,Attacking Midfield,AM,-,AS Roma,Italy,£19.52m,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/hidetoshi-nakata/profil/spieler/5875
+AC Perugia,Jehad Muntasser,21,Libya,Right Midfield,RM,-,US Viterbese,Italy,Free transfer,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/jehad-muntasser/profil/spieler/21943
+AC Perugia,Zé Maria,26,Brazil,Right-Back,RB,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/ze-maria/profil/spieler/6081
+AC Perugia,Stefano Guidoni,28,Italy,Forward,Forward,-,US Salernitana,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/stefano-guidoni/profil/spieler/25496
+AC Perugia,Giovanni Savarese,29,Venezuela,Centre-Forward,CF,-,US Viterbese,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/giovanni-savarese/profil/spieler/252143
+AC Perugia,Andrea Sussi,26,Italy,Left-Back,LB,-,US Salernitana,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/andrea-sussi/profil/spieler/12565
+US Lecce,Alessandro Doga,24,Italy,Left Midfield,LM,-,Chievo Verona,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-doga/profil/spieler/21232
+US Lecce,Cristiano Pavone,27,Italy,Left-Back,LB,-,US Salernitana,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/cristiano-pavone/profil/spieler/199923
+US Lecce,Martino Traversa,25,Italy,Right-Back,RB,-,AC Siena,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/martino-traversa/profil/spieler/222786
+US Lecce,Angelo Paradiso,22,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/angelo-paradiso/profil/spieler/33624
+US Lecce,Giampiero Cazzella,23,Italy,Forward,Forward,-,Castrovillari Calcio,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/giampiero-cazzella/profil/spieler/226106
+US Lecce,Alessandro De Poli,30,Italy,Right Winger,RW,-,FC Empoli,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alessandro-de-poli/profil/spieler/32117
+US Lecce,Pier Giovanni Rutzittu,23,Italy,Midfielder,Midfielder,-,Fermana Calcio 1920,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/pier-giovanni-rutzittu/profil/spieler/226091
+Bologna FC 1909,Giacomo Cipriani,19,Italy,Centre-Forward,CF,-,US Lecce,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/giacomo-cipriani/profil/spieler/6007
+Bologna FC 1909,Fausto Ferrari,19,Italy,Centre-Forward,CF,-,AC Pisa 1909,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/fausto-ferrari/profil/spieler/141803
+Bologna FC 1909,Marco Roccati,24,Italy,Goalkeeper,GK,-,US Pistoiese 1921,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/marco-roccati/profil/spieler/6817
+Reggina Calcio,Paolo Orlandoni,27,Italy,Goalkeeper,GK,-,Bologna FC 1909,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/paolo-orlandoni/profil/spieler/21797
+Reggina Calcio,Maurizio Poli,35,Italy,Defender,Defender,-,AC Savoia 1908,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/maurizio-poli/profil/spieler/244023
+Reggina Calcio,Fabio Di Sole,25,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/fabio-di-sole/profil/spieler/39677
+Reggina Calcio,Massimo Campo,24,Italy,Right Winger,RW,-,ASD Castel di Sangro,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/massimo-campo/profil/spieler/244001
+Reggina Calcio,Helmut Rahner,28,Germany,Centre-Back,CB,-,Preußen Münster,Germany,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/helmut-rahner/profil/spieler/2716
+Cagliari Calcio,Alejandro Cichero,22,Venezuela,Centre-Back,CB,-,Deportivo Italchacao,Venezuela,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/alejandro-cichero/profil/spieler/34498
+Piacenza FC,Davide Dionigi,25,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+Piacenza FC,Francesco Zerbini,19,Italy,Centre-Forward,CF,-,AS Lodigiani,Italy,Loan,Out,1999,w,serie-a,https://www.transfermarkt.co.uk/francesco-zerbini/profil/spieler/21899

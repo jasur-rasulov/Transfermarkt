@@ -19,17 +19,18 @@ Each league's records are saved in season subdirectories of `data`. The Python s
 | `Club`             | Club involved in the transfer, i.e. the buyer/seller                                                  |
 | `Name`             | Player's name                                                                                         |
 | `Age`              | Player's age at the date of the transfer                                                              |
-| `Nat.`             | Player's nationality, per FIFA international eligibility                                              |
+| `Nationality`      | Player's nationality, per FIFA international eligibility                                              |
 | `Position`         | Player's position                                                                                     |
 | `Pos`              | Abbreviated `Position`, e.g. _CF_ for centre-forward                                                  |
-| `Market value`     | Transfermarkt's estimated market value of the player                                                  |
-| `Club involved`    | Other club involved in the transfer, i.e. the seller/buyer                                            |
-| `Country involved` | Country in which the other `Club involved` competes                                                   |
+| `MarketValue`      | Transfermarkt's estimated market value of the player                                                  |
+| `ClubInvolved`     | Other club involved in the transfer, i.e. the seller/buyer                                            |
+| `CountryInvolved`  | Country in which the other `Club involved` competes                                                   |
 | `Fee`              | Transfer fee in nominal GBP                                                                           |
 | `Movement`         | _In_ if the `Club` is buying this player, _Out_ if they're selling                                    |
 | `Season`           | First year of the season in which the transfer takes place, e.g. _2018_ for the 2018-19 season        |
 | `Window`           | Window in which the transfer takes place, i.e. summer or winter                                       |
 | `League`           | `Club`'s league                                                                                       |
+| `Profile`          | URL of the player's Transfermarkt profile page                                                        |
 
 ### Cleaning
 
@@ -47,3 +48,14 @@ Example R scripts to tidy and analyze the data are included in `src`. The result
 ## Source
 
 All data are scraped from [Transfermarkt](https://www.transfermarkt.co.uk/) according to their [terms of use](https://www.transfermarkt.co.uk/intern/anb).
+
+## Changelog
+
+6/19
+
+* Added links to player profiles under the `Profile` label.
+* Renamed labels for nationality, market value, and club and country involved.
+
+5/12
+
+* Added transfer records from 1992/93 to 2019/20 for the German, Spanish, Italian, and French leagues.

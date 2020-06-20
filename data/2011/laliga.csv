@@ -1,619 +1,619 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Atlético Madrid,Falcao,25,Colombia,Centre-Forward,CF,£22.50m,FC Porto,Portugal,£36.00m,In,2011,s,laliga
-Atlético Madrid,Arda Turan,24,Turkey,Left Winger,LW,£13.95m,Galatasaray SK,Turkey,£11.70m,In,2011,s,laliga
-Atlético Madrid,Sílvio,23,Portugal,Right-Back,RB,£6.75m,SC Braga,Portugal,£7.20m,In,2011,s,laliga
-Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,FC Porto,Portugal,£4.50m,In,2011,s,laliga
-Atlético Madrid,Gabi,27,Spain,Defensive Midfield,DM,£2.70m,Real Zaragoza,Spain,£2.70m,In,2011,s,laliga
-Atlético Madrid,Pizzi,21,Portugal,Right Midfield,RM,£4.14m,SC Braga,Portugal,Loan fee:£1.35m,In,2011,s,laliga
-Atlético Madrid,Thibaut Courtois,19,Belgium,Goalkeeper,GK,£3.60m,Chelsea FC,England,Loan fee:£1.08m,In,2011,s,laliga
-Atlético Madrid,Adrián López,23,Spain,Centre-Forward,CF,£3.15m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga
-Atlético Madrid,Diego,26,Brazil,Attacking Midfield,AM,£10.80m,VfL Wolfsburg,Germany,Loan,In,2011,s,laliga
-Atlético Madrid,Tiago,30,Portugal,Central Midfield,CM,£7.20m,Juventus FC,Italy,Free transfer,In,2011,s,laliga
-Atlético Madrid,Miranda,26,Brazil,Centre-Back,CB,£5.85m,São Paulo Futebol Clube,Brazil,Free transfer,In,2011,s,laliga
-Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Liverpool FC,England,Loan,In,2011,s,laliga
-Atlético Madrid,Borja Bastón,18,Spain,Centre-Forward,CF,-,Atlético Madrid B,Spain,-,In,2011,s,laliga
-Atlético Madrid,Jorge Pulido,20,Spain,Centre-Back,CB,-,Atlético Madrid B,Spain,-,In,2011,s,laliga
-Atlético Madrid,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Atlético Madrid,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Atlético Madrid,Eduardo Salvio,20,Argentina,Right Winger,RW,£9.00m,SL Benfica,Portugal,"End of loanJun 30, 2011",In,2011,s,laliga
-Atlético Madrid,Leandro Cabrera,20,Uruguay,Centre-Back,CB,£720Th.,Recreativo Huelva,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Atlético Madrid,Sergio Asenjo,22,Spain,Goalkeeper,GK,£4.50m,Málaga CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Cesc Fàbregas,24,Spain,Central Midfield,CM,£48.60m,Arsenal FC,England,£30.60m,In,2011,s,laliga
-FC Barcelona,Alexis Sánchez,22,Chile,Left Winger,LW,£22.50m,Udinese Calcio,Italy,£23.40m,In,2011,s,laliga
-FC Barcelona,Thiago,20,Spain,Central Midfield,CM,£4.50m,FC Barcelona B,Spain,-,In,2011,s,laliga
-FC Barcelona,Henrique,24,Brazil,Centre-Back,CB,£4.50m,Racing Santander,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Sevilla FC,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,Getafe CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£4.50m,Birmingham City,England,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Keirrison,22,Brazil,Centre-Forward,CF,£1.80m,Santos FC,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga
-FC Barcelona,Zlatan Ibrahimovic,29,Sweden,Centre-Forward,CF,£31.50m,AC Milan,Italy,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Zaragoza,Roberto,25,Spain,Goalkeeper,GK,£5.04m,SL Benfica,Portugal,£7.74m,In,2011,s,laliga
-Real Zaragoza,Hélder Postiga,29,Portugal,Centre-Forward,CF,£6.03m,Sporting CP,Portugal,£1.17m,In,2011,s,laliga
-Real Zaragoza,Luis García,30,Spain,Central Midfield,CM,£4.50m,RCD Espanyol Barcelona,Spain,£900Th.,In,2011,s,laliga
-Real Zaragoza,Franco Zuculini,20,Argentina,Central Midfield,CM,£2.70m,TSG 1899 Hoffenheim,Germany,Loan fee:£360Th.,In,2011,s,laliga
-Real Zaragoza,David Mateos,24,Spain,Centre-Back,CB,£450Th.,Real Madrid Castilla,Spain,Loan fee:£180Th.,In,2011,s,laliga
-Real Zaragoza,Abraham Minero,25,Spain,Left-Back,LB,£630Th.,FC Barcelona B,Spain,Free transfer,In,2011,s,laliga
-Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,£1.80m,Zenit St. Petersburg,Russia,Free transfer,In,2011,s,laliga
-Real Zaragoza,Antonio Tomás,26,Spain,Central Midfield,CM,£1.80m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga
-Real Zaragoza,Edu Oriol,24,Spain,Left Winger,LW,£360Th.,FC Barcelona B,Spain,Free transfer,In,2011,s,laliga
-Real Zaragoza,Efraín Juárez,23,Mexico,Right-Back,RB,£2.25m,Celtic FC,Scotland,Loan,In,2011,s,laliga
-Real Zaragoza,Juankar,21,Spain,Left-Back,LB,-,SC Braga,Portugal,Loan,In,2011,s,laliga
-Real Zaragoza,Pablo Barrera,24,Mexico,Right Winger,RW,£3.15m,West Ham United,England,Loan,In,2011,s,laliga
-Real Zaragoza,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,Atlético Madrid,Spain,Loan,In,2011,s,laliga
-Real Zaragoza,Pablo,22,Brazil,Right Midfield,RM,£675Th.,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Zaragoza,Raúl Goni,22,Spain,Centre-Back,CB,-,Real Madrid Castilla,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Betis Balompié,Roque Santa Cruz,30,Paraguay,Centre-Forward,CF,£3.60m,Manchester City,England,Loan fee:£1.35m,In,2011,s,laliga
-Real Betis Balompié,Javier Matilla,22,Spain,Central Midfield,CM,£1.35m,Villarreal CF,Spain,£1.22m,In,2011,s,laliga
-Real Betis Balompié,Dusko Tosic,26,Serbia,Centre-Back,CB,£900Th.,Red Star Belgrade,Serbia,Loan fee:£270Th.,In,2011,s,laliga
-Real Betis Balompié,Antonio Amaya,28,Spain,Centre-Back,CB,£720Th.,Wigan Athletic,England,£257Th.,In,2011,s,laliga
-Real Betis Balompié,Javi Chica,26,Spain,Right-Back,RB,£1.80m,RCD Espanyol Barcelona,Spain,Free transfer,In,2011,s,laliga
-Real Betis Balompié,Fabri,23,Spain,Goalkeeper,GK,£450Th.,Real Valladolid CF,Spain,Free transfer,In,2011,s,laliga
-Real Betis Balompié,Mario Álvarez,29,Spain,Centre-Back,CB,£1.35m,Getafe CF,Spain,Free transfer,In,2011,s,laliga
-Real Betis Balompié,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Villarreal CF,Spain,Loan,In,2011,s,laliga
-Real Betis Balompié,Ustaritz,28,Spain,Centre-Back,CB,£1.62m,Athletic Bilbao,Spain,Loan,In,2011,s,laliga
-Real Betis Balompié,Mariano Pavone,29,Argentina,Centre-Forward,CF,£1.08m,Club Atlético River Plate,Argentina,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Betis Balompié,Rodri,25,Spain,Right Midfield,RM,£540Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Betis Balompié,Juande,24,Spain,Defensive Midfield,DM,£810Th.,Granada CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Betis Balompié,Nélson,28,Portugal,Right-Back,RB,£2.70m,CA Osasuna,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,£2.16m,In,2011,s,laliga
-RCD Mallorca,Alejandro Alfaro,24,Spain,Left Winger,LW,£2.70m,Sevilla FC,Spain,£540Th.,In,2011,s,laliga
-RCD Mallorca,Pablo Cáceres,26,Uruguay,Left-Back,LB,£270Th.,Club Atlético Tigre,Argentina,£360Th.,In,2011,s,laliga
-RCD Mallorca,Chico,24,Spain,Centre-Back,CB,£2.70m,Genoa CFC,Italy,Loan fee:£180Th.,In,2011,s,laliga
-RCD Mallorca,Gianni Zuiverloon,24,Netherlands,Centre-Back,CB,£3.60m,West Bromwich Albion,England,Free transfer,In,2011,s,laliga
-RCD Mallorca,Juan Calatayud,31,Spain,Goalkeeper,GK,£2.25m,Hércules CF,Spain,Free transfer,In,2011,s,laliga
-RCD Mallorca,Tomer Hemed,24,Israel,Centre-Forward,CF,£450Th.,Maccabi Haifa,Israel,Free transfer,In,2011,s,laliga
-RCD Mallorca,Fernando Tissone,25,Argentina,Central Midfield,CM,£2.16m,UC Sampdoria,Italy,Loan,In,2011,s,laliga
-RCD Mallorca,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,Rayo Vallecano,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Mallorca,Edson Ratinho,25,Brazil,Right-Back,RB,£900Th.,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Mallorca,Tuni,29,Spain,Right Winger,RW,£810Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-CA Osasuna,Roland Lamah,23,Belgium,Left Winger,LW,£900Th.,FC Le Mans,France,£1.35m,In,2011,s,laliga
-CA Osasuna,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,Atlético Madrid,Spain,£900Th.,In,2011,s,laliga
-CA Osasuna,Jukka Raitala,22,Finland,Left-Back,LB,£675Th.,TSG 1899 Hoffenheim,Germany,Loan fee:£90Th.,In,2011,s,laliga
-CA Osasuna,Marc Bertrán,29,Spain,Right-Back,RB,£1.62m,CD Tenerife,Spain,Free transfer,In,2011,s,laliga
-CA Osasuna,Rubén González,29,Spain,Centre-Back,CB,£1.08m,RCD Mallorca,Spain,Free transfer,In,2011,s,laliga
-CA Osasuna,Nino,31,Spain,Centre-Forward,CF,£2.25m,CD Tenerife,Spain,?,In,2011,s,laliga
-CA Osasuna,Raúl García,25,Spain,Attacking Midfield,AM,£3.60m,Atlético Madrid,Spain,Loan,In,2011,s,laliga
-CA Osasuna,Xavier Annunziata,23,Spain,Left Winger,LW,-,CA Osasuna Promesas,Spain,-,In,2011,s,laliga
-CA Osasuna,David Timor,21,Spain,Defensive Midfield,DM,-,CA Osasuna Promesas,Spain,-,In,2011,s,laliga
-CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-CA Osasuna,Rovérsio,27,Brazil,Centre-Back,CB,£900Th.,Real Betis Balompié,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-CA Osasuna,Andrés Fernández,24,Spain,Goalkeeper,GK,£540Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-CA Osasuna,Jokin Esparza,23,Spain,Left Winger,LW,£270Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-CA Osasuna,Jon Echaide,23,Spain,Centre-Back,CB,£540Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Rayo Vallecano,Pedro Botelho,21,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,Loan fee:£306Th.,In,2011,s,laliga
-Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,£900Th.,Houston Dynamo,United States,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Michu,25,Spain,Second Striker,SS,£900Th.,Celta de Vigo,Spain,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Roberto Trashorras,30,Spain,Central Midfield,CM,£1.80m,Celta de Vigo,Spain,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Raúl Tamudo,33,Spain,Centre-Forward,CF,£2.70m,Real Sociedad,Spain,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Sueliton,24,Brazil,Right-Back,RB,-,AAD Vitória das Tabocas (PE),Brazil,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Raúl Bravo,30,Spain,Centre-Back,CB,£1.35m,Olympiacos Piraeus,Greece,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Mikel Labaka,30,Spain,Centre-Back,CB,£1.44m,Real Sociedad,Spain,Free transfer,In,2011,s,laliga
-Rayo Vallecano,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Atlético Madrid,Spain,Loan,In,2011,s,laliga
-Rayo Vallecano,Jordi Figueras,24,Spain,Centre-Back,CB,£900Th.,Rubin Kazan,Russia,Loan,In,2011,s,laliga
-Rayo Vallecano,Lass Bangoura,19,Guinea,Right Winger,RW,-,Rayo Vallecano B,Spain,-,In,2011,s,laliga
-Rayo Vallecano,Juan Quero,26,Spain,Left Winger,LW,£630Th.,UD Las Palmas,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,Manu del Moral,27,Spain,Centre-Forward,CF,£4.95m,Getafe CF,Spain,£4.05m,In,2011,s,laliga
-Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,FC Barcelona,Spain,£2.70m,In,2011,s,laliga
-Sevilla FC,Emir Spahic,30,Bosnia-Herzegovina,Centre-Back,CB,£4.05m,HSC Montpellier,France,£1.80m,In,2011,s,laliga
-Sevilla FC,Coke,24,Spain,Right-Back,RB,£2.25m,Rayo Vallecano,Spain,£1.62m,In,2011,s,laliga
-Sevilla FC,Piotr Trochowski,27,Germany,Attacking Midfield,AM,£4.50m,Hamburger SV,Germany,Free transfer,In,2011,s,laliga
-Sevilla FC,Bernardo Espinosa,21,Colombia,Centre-Back,CB,-,Sevilla Atlético,Spain,-,In,2011,s,laliga
-Sevilla FC,José Campaña,18,Spain,Central Midfield,CM,-,Sevilla Atlético,Spain,-,In,2011,s,laliga
-Sevilla FC,Luis Alberto,18,Spain,Attacking Midfield,AM,-,Sevilla Atlético,Spain,-,In,2011,s,laliga
-Sevilla FC,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.25m,Rayo Vallecano,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,Juan Cala,21,Spain,Centre-Back,CB,£1.35m,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,Tom De Mul,25,Belgium,Right Midfield,RM,£900Th.,Standard Liège,Belgium,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,José Carlos,23,Spain,Attacking Midfield,AM,£900Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,David Prieto,28,Spain,Centre-Back,CB,£1.35m,CD Tenerife,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sevilla FC,Antonio Luna,20,Spain,Left-Back,LB,£450Th.,UD Almería,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Madrid,Fábio Coentrão,23,Portugal,Left-Back,LB,£21.60m,SL Benfica,Portugal,£27.00m,In,2011,s,laliga
-Real Madrid,Nuri Sahin,22,Turkey,Defensive Midfield,DM,£18.00m,Borussia Dortmund,Germany,£9.00m,In,2011,s,laliga
-Real Madrid,Raphaël Varane,18,France,Centre-Back,CB,£3.60m,RC Lens,France,£9.00m,In,2011,s,laliga
-Real Madrid,José Callejón,24,Spain,Right Winger,RW,£5.85m,RCD Espanyol Barcelona,Spain,£4.50m,In,2011,s,laliga
-Real Madrid,Hamit Altintop,28,Turkey,Right Midfield,RM,£5.40m,Bayern Munich,Germany,Free transfer,In,2011,s,laliga
-Real Madrid,Royston Drenthe,24,Netherlands,Left Midfield,LM,£4.05m,Hércules CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£1.89m,AC Siena,Italy,Free transfer,In,2011,s,laliga
-Racing Santander,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,£2.25m,Reggina Calcio,Italy,Loan,In,2011,s,laliga
-Racing Santander,Lautaro Acosta,23,Argentina,Left Winger,LW,£900Th.,Sevilla FC,Spain,Loan,In,2011,s,laliga
-Racing Santander,Bernardo Espinosa,22,Colombia,Centre-Back,CB,£270Th.,Sevilla FC,Spain,Loan,In,2011,s,laliga
-Racing Santander,Jairo Samperio,17,Spain,Left Winger,LW,-,Racing Santander U19,Spain,-,In,2011,s,laliga
-Racing Santander,Julián Luque,19,Spain,Attacking Midfield,AM,-,Racing de Santander B,Spain,-,In,2011,s,laliga
-Racing Santander,Álvaro González,21,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2011,s,laliga
-Racing Santander,César de la Hoz,19,Spain,Defensive Midfield,DM,-,Racing de Santander B,Spain,-,In,2011,s,laliga
-Racing Santander,Brian Sarmiento,21,Argentina,Attacking Midfield,AM,£630Th.,UD Salamanca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Racing Santander,Edu Bedia,22,Spain,Central Midfield,CM,£450Th.,UD Salamanca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Racing Santander,José Picón,23,Spain,Centre-Back,CB,-,Pontevedra CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Real Sociedad,McDonald Mariga,24,Kenya,Defensive Midfield,DM,£6.30m,FC Internazionale,Italy,Loan fee:£1.35m,In,2011,s,laliga
-Real Sociedad,Carlos Vela,22,Mexico,Right Winger,RW,£4.05m,Arsenal FC,England,Loan,In,2011,s,laliga
-Real Sociedad,Liassine Cadamuro,23,Algeria,Centre-Back,CB,-,Real Sociedad B,Spain,-,In,2011,s,laliga
-Real Sociedad,Iñigo Martínez,20,Spain,Centre-Back,CB,-,Real Sociedad B,Spain,-,In,2011,s,laliga
-Real Sociedad,Iñigo Sarasola,24,Spain,Left-Back,LB,-,Real Unión Club,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Juan Albín,24,Uruguay,Attacking Midfield,AM,£2.25m,Getafe CF,Spain,£2.70m,In,2011,s,laliga
-RCD Espanyol Barcelona,Héctor Moreno,23,Mexico,Centre-Back,CB,£4.05m,AZ Alkmaar,Netherlands,£2.25m,In,2011,s,laliga
-RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£248Th.,Defensor Sporting Club,Uruguay,£900Th.,In,2011,s,laliga
-RCD Espanyol Barcelona,Dídac Vilà,22,Spain,Left-Back,LB,£2.70m,AC Milan,Italy,Loan,In,2011,s,laliga
-RCD Espanyol Barcelona,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,Free transfer,In,2011,s,laliga
-RCD Espanyol Barcelona,Rui Fonte,21,Portugal,Centre-Forward,CF,-,Sporting CP,Portugal,Free transfer,In,2011,s,laliga
-RCD Espanyol Barcelona,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,£3.60m,Sevilla FC,Spain,Loan,In,2011,s,laliga
-RCD Espanyol Barcelona,Vladimir Weiss,21,Slovakia,Left Winger,LW,£2.70m,Manchester City,England,Loan,In,2011,s,laliga
-RCD Espanyol Barcelona,Thievy Bifouma,19,Congo,Right Winger,RW,-,Espanyol Barcelona U19,Spain,-,In,2011,s,laliga
-RCD Espanyol Barcelona,Milan Smiljanic,24,Serbia,Defensive Midfield,DM,£1.44m,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Ángel Martínez,25,Spain,Central Midfield,CM,£630Th.,Girona FC,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Román Martínez,28,Argentina,Central Midfield,CM,£900Th.,Club Atlético Tigre,Argentina,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Coro,28,Spain,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Ben Sahar,21,Israel,Centre-Forward,CF,£1.35m,Hapoel Tel Aviv,Israel,"End of loanJun 30, 2011",In,2011,s,laliga
-RCD Espanyol Barcelona,Kiko Casilla,24,Spain,Goalkeeper,GK,£720Th.,FC Cartagena,Spain,"End of loanJun 1, 2011",In,2011,s,laliga
-Valencia CF,Víctor Ruiz,22,Spain,Centre-Back,CB,£7.20m,SSC Napoli,Italy,£7.20m,In,2011,s,laliga
-Valencia CF,Pablo Piatti,22,Argentina,Left Winger,LW,£8.10m,UD Almería,Spain,£6.75m,In,2011,s,laliga
-Valencia CF,Adil Rami,25,France,Centre-Back,CB,£10.80m,LOSC Lille,France,£5.40m,In,2011,s,laliga
-Valencia CF,Dani Parejo,22,Spain,Central Midfield,CM,£7.20m,Getafe CF,Spain,£5.40m,In,2011,s,laliga
-Valencia CF,Diego Alves,26,Brazil,Goalkeeper,GK,£10.80m,UD Almería,Spain,£2.70m,In,2011,s,laliga
-Valencia CF,Sergio Canales,20,Spain,Attacking Midfield,AM,£5.40m,Real Madrid,Spain,Loan fee:£1.80m,In,2011,s,laliga
-Valencia CF,Antonio Barragán,24,Spain,Right-Back,RB,£540Th.,Real Valladolid CF,Spain,£1.35m,In,2011,s,laliga
-Valencia CF,Cristiano Figueiredo,20,Portugal,Goalkeeper,GK,£270Th.,SC Braga,Portugal,Loan,In,2011,s,laliga
-Valencia CF,Paco Alcácer,17,Spain,Centre-Forward,CF,-,Valencia Mestalla,Spain,-,In,2011,s,laliga
-Valencia CF,Sofiane Feghouli,21,Algeria,Right Winger,RW,£2.70m,UD Almería,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Míchel,22,Spain,Central Midfield,CM,£1.35m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Sunny,22,Nigeria,Defensive Midfield,DM,£900Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Aarón Ñíguez,22,Spain,Right Winger,RW,£540Th.,Recreativo Huelva,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Manuel Fernandes,25,Portugal,Attacking Midfield,AM,£7.20m,Besiktas JK,Turkey,"End of loanJun 30, 2011",In,2011,s,laliga
-Valencia CF,Renan,26,Brazil,Goalkeeper,GK,£1.80m,Sport Club Internacional,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga
-Villarreal CF,Cristián Zapata,24,Colombia,Centre-Back,CB,£8.10m,Udinese Calcio,Italy,£8.10m,In,2011,s,laliga
-Villarreal CF,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,£4.50m,RCD Mallorca,Spain,£7.20m,In,2011,s,laliga
-Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,£10.80m,West Bromwich Albion,England,£5.40m,In,2011,s,laliga
-Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Real Zaragoza,Spain,£4.50m,In,2011,s,laliga
-Villarreal CF,Javier Camuñas,30,Spain,Right Winger,RW,£2.52m,CA Osasuna,Spain,£2.07m,In,2011,s,laliga
-Villarreal CF,Florian Lejeune,20,France,Centre-Back,CB,£900Th.,FC Istres Ouest Provence ,France,£900Th.,In,2011,s,laliga
-Villarreal CF,César Sánchez,39,Spain,Goalkeeper,GK,£900Th.,Valencia CF,Spain,Free transfer,In,2011,s,laliga
-Villarreal CF,Gerard Bordas,29,Spain,Centre-Forward,CF,£630Th.,Villarreal CF B,Spain,-,In,2011,s,laliga
-Villarreal CF,Hernán Pérez,22,Paraguay,Right Winger,RW,£900Th.,Villarreal CF B,Spain,-,In,2011,s,laliga
-Villarreal CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Getafe CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Villarreal CF,Cristóbal Márquez,27,Spain,Attacking Midfield,AM,£1.08m,Elche CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Villarreal CF,Jozy Altidore,21,United States,Centre-Forward,CF,£1.98m,Bursaspor,Turkey,"End of loanJun 30, 2011",In,2011,s,laliga
-Villarreal CF,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,Santi Cazorla,26,Spain,Central Midfield,CM,£16.20m,Villarreal CF,Spain,£20.70m,In,2011,s,laliga
-Málaga CF,Jérémy Toulalan,27,France,Defensive Midfield,DM,£16.20m,Olympique Lyon,France,£9.90m,In,2011,s,laliga
-Málaga CF,Nacho Monreal,25,Spain,Left-Back,LB,£6.30m,CA Osasuna,Spain,£5.40m,In,2011,s,laliga
-Málaga CF,Isco,19,Spain,Attacking Midfield,AM,-,Valencia Mestalla,Spain,£5.40m,In,2011,s,laliga
-Málaga CF,Diego Buonanotte,23,Argentina,Attacking Midfield,AM,£2.43m,Club Atlético River Plate,Argentina,£4.05m,In,2011,s,laliga
-Málaga CF,Joaquín,29,Spain,Right Winger,RW,£9.00m,Valencia CF,Spain,£3.78m,In,2011,s,laliga
-Málaga CF,Sergio Sánchez,25,Spain,Centre-Back,CB,£3.60m,Sevilla FC,Spain,£2.52m,In,2011,s,laliga
-Málaga CF,Joris Mathijsen,31,Netherlands,Centre-Back,CB,£4.50m,Hamburger SV,Germany,£1.58m,In,2011,s,laliga
-Málaga CF,Ruud van Nistelrooy,35,Netherlands,Centre-Forward,CF,£5.40m,Hamburger SV,Germany,Free transfer,In,2011,s,laliga
-Málaga CF,Javi López,23,Spain,Right Winger,RW,£360Th.,SD Ponferradina,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,Edu Ramos,19,Spain,Central Midfield,CM,-,CD Leganés,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,Daniel Toribio,22,Spain,Defensive Midfield,DM,£810Th.,SD Ponferradina,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,David González,21,Spain,Central Midfield,CM,£90Th.,Real Oviedo Vetusta,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,Jordi Pablo,21,Spain,Right Midfield,RM,£630Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Málaga CF,Edinho,28,Portugal,Centre-Forward,CF,£1.35m,CS Marítimo,Portugal,"End of loanJun 30, 2011",In,2011,s,laliga
-Sporting Gijón,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,RCD Mallorca,Spain,£900Th.,In,2011,s,laliga
-Sporting Gijón,Damián Suárez,23,Uruguay,Right-Back,RB,£405Th.,Defensor Sporting Club,Uruguay,£450Th.,In,2011,s,laliga
-Sporting Gijón,Ricardo León,28,Spain,Central Midfield,CM,£1.26m,CD Tenerife,Spain,Free transfer,In,2011,s,laliga
-Sporting Gijón,Marcos Landeira,24,Spain,Central Midfield,CM,-,Real Unión Club,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Sporting Gijón,Jorge García,27,Spain,Centre-Back,CB,£720Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Manchester City,England,£900Th.,In,2011,s,laliga
-Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Getafe CF,Spain,£180Th.,In,2011,s,laliga
-Levante UD,Pedro López,27,Spain,Right-Back,RB,£1.80m,Real Valladolid CF,Spain,£180Th.,In,2011,s,laliga
-Levante UD,Keylor Navas,24,Costa Rica,Goalkeeper,GK,£540Th.,Albacete Balompié,Spain,Loan fee:£135Th.,In,2011,s,laliga
-Levante UD,José Javier Barkero,32,Spain,Attacking Midfield,AM,£1.80m,CD Numancia,Spain,Free transfer,In,2011,s,laliga
-Levante UD,Francisco Farinós,33,Spain,Defensive Midfield,DM,£900Th.,Hércules CF,Spain,Free transfer,In,2011,s,laliga
-Levante UD,Carlos Aranda,30,Spain,Centre-Forward,CF,£2.25m,CA Osasuna,Spain,Free transfer,In,2011,s,laliga
-Levante UD,Nabil El Zhar,24,Morocco,Right Winger,RW,£1.35m,Liverpool FC,England,Free transfer,In,2011,s,laliga
-Levante UD,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Valencia CF,Spain,Free transfer,In,2011,s,laliga
-Levante UD,Gustavo Cabral,25,Argentina,Centre-Back,CB,£900Th.,Arsenal Fútbol Club,Argentina,Loan,In,2011,s,laliga
-Levante UD,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,£1.80m,Sevilla FC,Spain,Loan,In,2011,s,laliga
-Levante UD,Marc Mateu,21,Spain,Attacking Midfield,AM,-,CD Badajoz,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Getafe CF,Pablo Sarabia,19,Spain,Right Winger,RW,-,Real Madrid Castilla,Spain,£2.70m,In,2011,s,laliga
-Getafe CF,Tsepo Masilela,26,South Africa,Left-Back,LB,£900Th.,Maccabi Haifa,Israel,Loan fee:£270Th.,In,2011,s,laliga
-Getafe CF,Diego Castro,28,Spain,Left Winger,LW,£5.40m,Sporting Gijón,Spain,Free transfer,In,2011,s,laliga
-Getafe CF,Alberto Lopo,31,Spain,Centre-Back,CB,£3.60m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga
-Getafe CF,Pedro León,24,Spain,Right Winger,RW,£5.40m,Real Madrid,Spain,Loan,In,2011,s,laliga
-Getafe CF,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,£2.70m,Racing Santander,Spain,Free transfer,In,2011,s,laliga
-Getafe CF,Míchel,25,Spain,Central Midfield,CM,£2.25m,Birmingham City,England,Free transfer,In,2011,s,laliga
-Getafe CF,Dani Güiza,30,Spain,Centre-Forward,CF,£3.60m,Fenerbahce SK,Turkey,Free transfer,In,2011,s,laliga
-Getafe CF,Juan Rodríguez,29,Spain,Defensive Midfield,DM,£3.15m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga
-Getafe CF,Juan Valera,26,Spain,Right-Back,RB,£1.35m,Atlético Madrid,Spain,?,In,2011,s,laliga
-Getafe CF,Michelangelo Albertazzi,20,Italy,Left-Back,LB,£360Th.,Milan Primavera,Italy,Loan,In,2011,s,laliga
-Getafe CF,Miguel Ángel Moyà,27,Spain,Goalkeeper,GK,£900Th.,Valencia CF,Spain,Loan,In,2011,s,laliga
-Getafe CF,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Atlético Madrid,Spain,Loan,In,2011,s,laliga
-Getafe CF,Abdelaziz Barrada,22,Morocco,Attacking Midfield,AM,-,Getafe CF B,Spain,-,In,2011,s,laliga
-Getafe CF,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Getafe CF,Ibrahim Kas,23,Turkey,Centre-Back,CB,£810Th.,Besiktas JK,Turkey,"End of loanJun 30, 2010",In,2011,s,laliga
-Granada CF,Pape Diakhaté,27,Senegal,Centre-Back,CB,£3.38m,Dynamo Kyiv,Ukraine,£4.05m,In,2011,s,laliga
-Granada CF,Fran Rico,23,Spain,Central Midfield,CM,-,Real Madrid Castilla,Spain,£900Th.,In,2011,s,laliga
-Granada CF,Yohan Mollo,22,France,Left Winger,LW,£1.62m,AS Monaco,France,£450Th.,In,2011,s,laliga
-Granada CF,Franco Jara,23,Argentina,Centre-Forward,CF,£4.95m,SL Benfica,Portugal,Loan fee:£360Th.,In,2011,s,laliga
-Granada CF,Toti,23,Spain,Attacking Midfield,AM,£450Th.,UD Salamanca,Spain,£180Th.,In,2011,s,laliga
-Granada CF,Juanjo,25,Spain,Centre-Forward,CF,-,CD Guadalajara,Spain,£81Th.,In,2011,s,laliga
-Granada CF,Toño,32,Spain,Goalkeeper,GK,£3.15m,Racing Santander,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Jaime Romero,20,Spain,Right Winger,RW,£675Th.,Udinese Calcio,Italy,Loan,In,2011,s,laliga
-Granada CF,Hassan Yebda,27,Algeria,Central Midfield,CM,£4.05m,SL Benfica,Portugal,Free transfer,In,2011,s,laliga
-Granada CF,Moisés Hurtado,30,Spain,Defensive Midfield,DM,£2.70m,Olympiacos Piraeus,Greece,Free transfer,In,2011,s,laliga
-Granada CF,Noé Pamarot,32,France,Centre-Back,CB,£1.80m,Hércules CF,Spain,Free transfer,In,2011,s,laliga
-Granada CF,David de Coz,31,Spain,Right-Back,RB,£450Th.,Córdoba CF,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,-,Celta Vigo B,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,£540Th.,UD Salamanca,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,-,Getafe CF B,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,£540Th.,Udinese Calcio,Italy,Free transfer,In,2011,s,laliga
-Granada CF,Jorge Ribeiro,29,Portugal,Left Midfield,LM,£900Th.,SL Benfica,Portugal,Free transfer,In,2011,s,laliga
-Granada CF,David Cortés,31,Spain,Right-Back,RB,£2.25m,Hércules CF,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Villarreal CF,Spain,Loan,In,2011,s,laliga
-Granada CF,David Ferreiro,23,Spain,Right Winger,RW,-,Zamora CF,Spain,Free transfer,In,2011,s,laliga
-Granada CF,Carlos Martins,29,Portugal,Attacking Midfield,AM,£5.58m,SL Benfica,Portugal,Loan,In,2011,s,laliga
-Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,-,UD Salamanca,Spain,?,In,2011,s,laliga
-Granada CF,Júlio César,24,Brazil,Goalkeeper,GK,£1.53m,SL Benfica,Portugal,Loan,In,2011,s,laliga
-Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,£630Th.,UD Salamanca,Spain,?,In,2011,s,laliga
-Granada CF,Jonathan Rosales,21,Spain,Centre-Back,CB,-,CD Guijuelo,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Granada CF,Matías Alonso,26,Uruguay,Centre-Forward,CF,£158Th.,Club Atlético Cerro,Uruguay,"End of loanJun 30, 2011",In,2011,s,laliga
-Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,UD Logroñés,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Athletic Bilbao,Ander Herrera,21,Spain,Central Midfield,CM,£6.75m,Real Zaragoza,Spain,£6.75m,In,2011,s,laliga
-Athletic Bilbao,Ibai Gómez,21,Spain,Right Winger,RW,-,Bilbao Athletic,Spain,-,In,2011,s,laliga
-Athletic Bilbao,Galder Cerrajería,22,Spain,Central Midfield,CM,-,Bilbao Athletic,Spain,-,In,2011,s,laliga
-Athletic Bilbao,Iban Zubiaurre,28,Spain,Right-Back,RB,£540Th.,Albacete Balompié,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Athletic Bilbao,Iñigo Pérez,23,Spain,Central Midfield,CM,£450Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Athletic Bilbao,Ion Vélez,26,Spain,Centre-Forward,CF,£720Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga
-Atlético Madrid,Sergio Agüero,23,Argentina,Centre-Forward,CF,£32.40m,Manchester City,England,£36.00m,Out,2011,s,laliga
-Atlético Madrid,David de Gea,20,Spain,Goalkeeper,GK,£10.80m,Manchester United,England,£22.50m,Out,2011,s,laliga
-Atlético Madrid,Elias,26,Brazil,Central Midfield,CM,£6.30m,Sporting CP,Portugal,£7.97m,Out,2011,s,laliga
-Atlético Madrid,Diego Forlán,32,Uruguay,Centre-Forward,CF,£9.00m,FC Internazionale,Italy,£4.50m,Out,2011,s,laliga
-Atlético Madrid,Tomás Ujfalusi,33,Czech Republic,Centre-Back,CB,£2.70m,Galatasaray SK,Turkey,£1.80m,Out,2011,s,laliga
-Atlético Madrid,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,CA Osasuna,Spain,£900Th.,Out,2011,s,laliga
-Atlético Madrid,Borja Bastón,18,Spain,Centre-Forward,CF,-,Real Murcia CF,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,Real Zaragoza,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Leandro Cabrera,20,Uruguay,Centre-Back,CB,£540Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Raúl García,25,Spain,Attacking Midfield,AM,£3.60m,CA Osasuna,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Fran Mérida,21,Spain,Central Midfield,CM,£2.70m,SC Braga,Portugal,Loan,Out,2011,s,laliga
-Atlético Madrid,Juan Valera,26,Spain,Right-Back,RB,£1.35m,Getafe CF,Spain,?,Out,2011,s,laliga
-Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Rayo Vallecano,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Getafe CF,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Tiago,30,Portugal,Central Midfield,CM,£7.20m,Juventus FC,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-FC Barcelona,Zlatan Ibrahimovic,29,Sweden,Centre-Forward,CF,£31.50m,AC Milan,Italy,£21.60m,Out,2011,s,laliga
-FC Barcelona,Bojan Krkic,20,Spain,Second Striker,SS,£13.50m,AS Roma,Italy,£10.80m,Out,2011,s,laliga
-FC Barcelona,Jeffren,23,Venezuela,Right Winger,RW,£4.50m,Sporting CP,Portugal,£3.38m,Out,2011,s,laliga
-FC Barcelona,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Sevilla FC,Spain,£2.70m,Out,2011,s,laliga
-FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,VfL Wolfsburg,Germany,Loan fee:£630Th.,Out,2011,s,laliga
-FC Barcelona,Keirrison,23,Brazil,Centre-Forward,CF,£1.35m,Coritiba Foot Ball Club,Brazil,Loan,Out,2011,s,laliga
-FC Barcelona,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2011,s,laliga
-FC Barcelona,Keirrison,22,Brazil,Centre-Forward,CF,£1.80m,Cruzeiro Esporte Clube,Brazil,Loan,Out,2011,s,laliga
-FC Barcelona,Henrique,24,Brazil,Centre-Back,CB,£4.50m,Sociedade Esportiva Palmeiras,Brazil,Loan,Out,2011,s,laliga
-FC Barcelona,Gabriel Milito,30,Argentina,Centre-Back,CB,£5.40m,Club Atlético Independiente,Argentina,Free transfer,Out,2011,s,laliga
-Real Zaragoza,Ander Herrera,21,Spain,Central Midfield,CM,£6.75m,Athletic Bilbao,Spain,£6.75m,Out,2011,s,laliga
-Real Zaragoza,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Villarreal CF,Spain,£4.50m,Out,2011,s,laliga
-Real Zaragoza,Gabi,27,Spain,Defensive Midfield,DM,£2.70m,Atlético Madrid,Spain,£2.70m,Out,2011,s,laliga
-Real Zaragoza,Matteo Contini,31,Italy,Centre-Back,CB,£2.52m,AC Siena,Italy,Loan fee:£270Th.,Out,2011,s,laliga
-Real Zaragoza,Toni Doblas,30,Spain,Goalkeeper,GK,£450Th.,Xerez CD,Spain,Loan,Out,2011,s,laliga
-Real Zaragoza,Saïd Boutahar,28,Netherlands,Attacking Midfield,AM,£1.35m,Al Wakrah Sports Club,Qatar,Free transfer,Out,2011,s,laliga
-Real Zaragoza,Jorge López,32,Spain,Right Winger,RW,£1.80m,OFI Crete,Greece,Free transfer,Out,2011,s,laliga
-Real Zaragoza,Edmílson,34,Brazil,Defensive Midfield,DM,£720Th.,Ceará Sporting Club,Brazil,Free transfer,Out,2011,s,laliga
-Real Zaragoza,Jiri Jarosik,33,Czech Republic,Centre-Back,CB,£1.62m,AC Sparta Praha,Czech Republic,Free transfer,Out,2011,s,laliga
-Real Zaragoza,Raúl Goni,22,Spain,Centre-Back,CB,-,FC Cartagena,Spain,Loan,Out,2011,s,laliga
-Real Zaragoza,Pablo,22,Brazil,Right Midfield,RM,£675Th.,Figueirense Futebol Clube,Brazil,Loan,Out,2011,s,laliga
-Real Zaragoza,Víctor Laguardia,21,Spain,Centre-Back,CB,£450Th.,UD Las Palmas,Spain,Loan,Out,2011,s,laliga
-Real Zaragoza,Carlos Diogo,27,Uruguay,Right-Back,RB,£2.25m,,Without Club,-,Out,2011,s,laliga
-Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,£1.08m,,Without Club,-,Out,2011,s,laliga
-Real Zaragoza,D. K.,-,N/A,Midfielder,Midfielder,-,,Career break,-,Out,2011,s,laliga
-Real Zaragoza,Marco Pérez,20,Colombia,Centre-Forward,CF,£1.80m,Boyacá Chicó FC,Colombia,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Zaragoza,Guirane N'Daw,27,Senegal,Defensive Midfield,DM,£2.25m,AS Saint-Étienne,France,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Zaragoza,Florent Sinama-Pongolle,26,France,Second Striker,SS,£3.15m,Sporting CP,Portugal,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Zaragoza,Nicolás Bertolo,25,Argentina,Left Winger,LW,£2.70m,US Palermo,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Betis Balompié,Achille Emaná,29,Cameroon,Attacking Midfield,AM,£6.30m,Al-Hilal Riyadh,Saudi Arabia,£4.05m,Out,2011,s,laliga
-Real Betis Balompié,Mariano Pavone,29,Argentina,Centre-Forward,CF,£1.08m,Club Atlético Lanús,Argentina,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,Arzu,30,Spain,Defensive Midfield,DM,£1.80m,Gimnàstic de Tarragona,Spain,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,Brimah Razak,24,Ghana,Goalkeeper,GK,£90Th.,CD Tenerife,Spain,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,Juande,24,Spain,Defensive Midfield,DM,£810Th.,KVC Westerlo,Belgium,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,Israel Bascón,24,Spain,Right Midfield,RM,£630Th.,Xerez CD,Spain,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,Rodri,25,Spain,Right Midfield,RM,£540Th.,CD Guadalajara,Spain,Free transfer,Out,2011,s,laliga
-Real Betis Balompié,David Odonkor,27,Germany,Right Winger,RW,£630Th.,,Without Club,-,Out,2011,s,laliga
-Real Betis Balompié,Fernando Vega,27,Spain,Left-Back,LB,£1.44m,,Without Club,-,Out,2011,s,laliga
-Real Betis Balompié,David Belenguer,38,Spain,Centre-Back,CB,-,,Retired,-,Out,2011,s,laliga
-Real Betis Balompié,Rovérsio,27,Brazil,Centre-Back,CB,£900Th.,CA Osasuna,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Betis Balompié,Miguel Lopes,24,Portugal,Right-Back,RB,£2.25m,FC Porto,Portugal,"End of loanJun 30, 2011",Out,2011,s,laliga
-RCD Mallorca,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,£4.50m,Villarreal CF,Spain,£7.20m,Out,2011,s,laliga
-RCD Mallorca,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,Sporting Gijón,Spain,£900Th.,Out,2011,s,laliga
-RCD Mallorca,Pierre Webó,29,Cameroon,Centre-Forward,CF,£3.60m,Istanbul Büyüksehir Belediyespor,Turkey,£675Th.,Out,2011,s,laliga
-RCD Mallorca,Rubén González,29,Spain,Centre-Back,CB,£1.08m,CA Osasuna,Spain,Free transfer,Out,2011,s,laliga
-RCD Mallorca,Sergi Enrich,21,Spain,Centre-Forward,CF,£360Th.,Recreativo Huelva,Spain,Loan,Out,2011,s,laliga
-RCD Mallorca,Enrique Corrales,29,Spain,Left-Back,LB,£900Th.,UD Las Palmas,Spain,Free transfer,Out,2011,s,laliga
-RCD Mallorca,Ayoze Díaz,29,Spain,Left-Back,LB,£1.62m,Deportivo de La Coruña,Spain,Free transfer,Out,2011,s,laliga
-RCD Mallorca,Tuni,29,Spain,Right Winger,RW,£810Th.,Gimnàstic de Tarragona,Spain,Free transfer,Out,2011,s,laliga
-RCD Mallorca,Germán Lux,28,Argentina,Goalkeeper,GK,£900Th.,Deportivo de La Coruña,Spain,Free transfer,Out,2011,s,laliga
-RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,Loan,Out,2011,s,laliga
-CA Osasuna,Nacho Monreal,25,Spain,Left-Back,LB,£6.30m,Málaga CF,Spain,£5.40m,Out,2011,s,laliga
-CA Osasuna,Javier Camuñas,30,Spain,Right Winger,RW,£2.52m,Villarreal CF,Spain,£2.07m,Out,2011,s,laliga
-CA Osasuna,Josetxo,34,Spain,Centre-Back,CB,£630Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga
-CA Osasuna,Fernando Soriano,31,Spain,Attacking Midfield,AM,£2.70m,UD Almería,Spain,Free transfer,Out,2011,s,laliga
-CA Osasuna,Jokin Esparza,23,Spain,Left Winger,LW,£270Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga
-CA Osasuna,Carlos Aranda,30,Spain,Centre-Forward,CF,£2.25m,Levante UD,Spain,Free transfer,Out,2011,s,laliga
-CA Osasuna,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,£1.35m,RCD Espanyol Barcelona,Spain,Free transfer,Out,2011,s,laliga
-CA Osasuna,Krisztián Vadócz,26,Hungary,Central Midfield,CM,£1.35m,NEC Nijmegen,Netherlands,Free transfer,Out,2011,s,laliga
-CA Osasuna,Oier,25,Spain,Defensive Midfield,DM,£360Th.,Celta de Vigo,Spain,Loan,Out,2011,s,laliga
-CA Osasuna,Nacho Zabal,24,Spain,Goalkeeper,GK,£90Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga
-CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Kilmarnock FC,Scotland,Loan,Out,2011,s,laliga
-CA Osasuna,Rúper,24,Spain,Central Midfield,CM,£1.80m,Elche CF,Spain,Loan,Out,2011,s,laliga
-CA Osasuna,Nélson,28,Portugal,Right-Back,RB,£2.70m,Real Betis Balompié,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-CA Osasuna,Coro,28,Spain,Centre-Forward,CF,£1.35m,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Rayo Vallecano,Coke,24,Spain,Right-Back,RB,£2.25m,Sevilla FC,Spain,£1.62m,Out,2011,s,laliga
-Rayo Vallecano,Brayan Angulo,21,Colombia,Left-Back,LB,£450Th.,Atlético Baleares,Spain,Free transfer,Out,2011,s,laliga
-Rayo Vallecano,David Aganzo,30,Spain,Centre-Forward,CF,£1.35m,Hércules CF,Spain,Free transfer,Out,2011,s,laliga
-Rayo Vallecano,Borja García,20,Spain,Attacking Midfield,AM,£540Th.,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga
-Rayo Vallecano,Juan Quero,26,Spain,Left Winger,LW,£630Th.,Córdoba CF,Spain,Loan,Out,2011,s,laliga
-Rayo Vallecano,Juan Carlos,23,Spain,Goalkeeper,GK,-,Hércules CF,Spain,?,Out,2011,s,laliga
-Rayo Vallecano,Yuma,25,Spain,Central Midfield,CM,£180Th.,UD Salamanca,Spain,?,Out,2011,s,laliga
-Rayo Vallecano,Juli,29,Spain,Second Striker,SS,£810Th.,Asteras Tripolis,Greece,Loan,Out,2011,s,laliga
-Rayo Vallecano,Salva,30,Spain,Centre-Back,CB,£360Th.,,Retired,-,Out,2011,s,laliga
-Rayo Vallecano,Carlos de la Vega,31,Spain,Right-Back,RB,£270Th.,,Without Club,-,Out,2011,s,laliga
-Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.25m,Sevilla FC,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Rayo Vallecano,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,RCD Mallorca,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Rayo Vallecano,Antonio Amaya,28,Spain,Centre-Back,CB,£720Th.,Wigan Athletic,England,"End of loanJun 30, 2011",Out,2011,s,laliga
-Sevilla FC,Didier Zokora,30,Cote d'Ivoire,Defensive Midfield,DM,£9.00m,Trabzonspor,Turkey,£4.50m,Out,2011,s,laliga
-Sevilla FC,Diego Capel,23,Spain,Left Winger,LW,£7.20m,Sporting CP,Portugal,£3.15m,Out,2011,s,laliga
-Sevilla FC,Sergio Sánchez,25,Spain,Centre-Back,CB,£3.60m,Málaga CF,Spain,£2.52m,Out,2011,s,laliga
-Sevilla FC,Rodri,21,Spain,Centre-Forward,CF,£450Th.,FC Barcelona B,Spain,£1.35m,Out,2011,s,laliga
-Sevilla FC,Mouhamadou Dabo,24,France,Right-Back,RB,£4.50m,Olympique Lyon,France,£720Th.,Out,2011,s,laliga
-Sevilla FC,Alejandro Alfaro,24,Spain,Left Winger,LW,£2.70m,RCD Mallorca,Spain,£540Th.,Out,2011,s,laliga
-Sevilla FC,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,£1.80m,Levante UD,Spain,Loan,Out,2011,s,laliga
-Sevilla FC,Juan Cala,21,Spain,Centre-Back,CB,£1.35m,AEK Athens,Greece,Loan,Out,2011,s,laliga
-Sevilla FC,David Prieto,28,Spain,Centre-Back,CB,£1.35m,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga
-Sevilla FC,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,£3.60m,RCD Espanyol Barcelona,Spain,Loan,Out,2011,s,laliga
-Sevilla FC,José Carlos,23,Spain,Attacking Midfield,AM,£900Th.,AEK Athens,Greece,Free transfer,Out,2011,s,laliga
-Sevilla FC,Bernardo Espinosa,22,Colombia,Centre-Back,CB,£270Th.,Racing Santander,Spain,Loan,Out,2011,s,laliga
-Sevilla FC,Lautaro Acosta,23,Argentina,Left Winger,LW,£900Th.,Racing Santander,Spain,Loan,Out,2011,s,laliga
-Sevilla FC,Ivica Dragutinovic,35,Serbia,Centre-Back,CB,£540Th.,,Retired,-,Out,2011,s,laliga
-Sevilla FC,Luca Cigarini,25,Italy,Defensive Midfield,DM,£4.05m,SSC Napoli,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Madrid,Ezequiel Garay,24,Argentina,Centre-Back,CB,£9.00m,SL Benfica,Portugal,£4.95m,Out,2011,s,laliga
-Real Madrid,Sergio Canales,20,Spain,Attacking Midfield,AM,£5.40m,Valencia CF,Spain,Loan fee:£1.80m,Out,2011,s,laliga
-Real Madrid,Fernando Gago,25,Argentina,Defensive Midfield,DM,£6.30m,AS Roma,Italy,Loan fee:£450Th.,Out,2011,s,laliga
-Real Madrid,Pedro León,24,Spain,Right Winger,RW,£5.40m,Getafe CF,Spain,Loan,Out,2011,s,laliga
-Real Madrid,Royston Drenthe,24,Netherlands,Left Midfield,LM,£3.15m,Everton FC,England,Loan,Out,2011,s,laliga
-Real Madrid,Jerzy Dudek,38,Poland,Goalkeeper,GK,-,,Retired,-,Out,2011,s,laliga
-Real Madrid,Emmanuel Adebayor,27,Togo,Centre-Forward,CF,£15.30m,Manchester City,England,"End of loanJun 30, 2011",Out,2011,s,laliga
-Racing Santander,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,£2.70m,Getafe CF,Spain,Free transfer,Out,2011,s,laliga
-Racing Santander,Fabio Coltorti,30,Switzerland,Goalkeeper,GK,£900Th.,FC Lausanne-Sport,Switzerland,Free transfer,Out,2011,s,laliga
-Racing Santander,Toño,32,Spain,Goalkeeper,GK,£3.15m,Granada CF,Spain,Free transfer,Out,2011,s,laliga
-Racing Santander,Brian Sarmiento,21,Argentina,Attacking Midfield,AM,£630Th.,Racing Club,Argentina,?,Out,2011,s,laliga
-Racing Santander,Iván Bolado,21,Equatorial Guinea,Centre-Forward,CF,£1.35m,FC Cartagena,Spain,?,Out,2011,s,laliga
-Racing Santander,Khouma Babacar,19,Senegal,Centre-Forward,CF,£1.62m,ACF Fiorentina,Italy,"End of loanMay 9, 2012",Out,2011,s,laliga
-Racing Santander,Pablo Pinillos,36,Spain,Right-Back,RB,£360Th.,,Retired,-,Out,2011,s,laliga
-Racing Santander,Henrique,24,Brazil,Centre-Back,CB,£4.50m,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Racing Santander,Giovani dos Santos,22,Mexico,Second Striker,SS,£4.50m,Tottenham Hotspur,England,"End of loanJun 30, 2011",Out,2011,s,laliga
-Racing Santander,Markus Rosenberg,28,Sweden,Centre-Forward,CF,£2.70m,SV Werder Bremen,Germany,"End of loanJun 30, 2011",Out,2011,s,laliga
-Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£2.34m,AC Siena,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Real Sociedad,Diego Rivas,31,Spain,Central Midfield,CM,£2.70m,Hércules CF,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Toño,25,Spain,Goalkeeper,GK,£180Th.,CD Guadalajara,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Mikel Labaka,30,Spain,Centre-Back,CB,£1.44m,Rayo Vallecano,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Iñigo Sarasola,24,Spain,Left-Back,LB,-,SD Beasain,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Paco Sutil,26,Spain,Attacking Midfield,AM,£900Th.,Real Murcia CF,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Iosu Esnaola,24,Spain,Centre-Back,CB,-,SD Noja,Spain,Free transfer,Out,2011,s,laliga
-Real Sociedad,Raúl Tamudo,33,Spain,Centre-Forward,CF,£2.70m,Rayo Vallecano,Spain,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Daniel Osvaldo,25,Italy,Centre-Forward,CF,£9.00m,AS Roma,Italy,£14.40m,Out,2011,s,laliga
-RCD Espanyol Barcelona,José Callejón,24,Spain,Right Winger,RW,£5.85m,Real Madrid,Spain,£4.50m,Out,2011,s,laliga
-RCD Espanyol Barcelona,Luis García,30,Spain,Central Midfield,CM,£4.50m,Real Zaragoza,Spain,£900Th.,Out,2011,s,laliga
-RCD Espanyol Barcelona,Iván Alonso,32,Uruguay,Centre-Forward,CF,£1.80m,Deportivo Toluca,Mexico,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Ángel Martínez,25,Spain,Central Midfield,CM,£630Th.,Blackpool FC,England,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,David García,30,Spain,Left-Back,LB,£1.80m,Girona FC,Spain,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Javi Chica,26,Spain,Right-Back,RB,£1.80m,Real Betis Balompié,Spain,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Manu Molina,19,Spain,Attacking Midfield,AM,£270Th.,SD Huesca,Spain,Loan,Out,2011,s,laliga
-RCD Espanyol Barcelona,Aldo Duscher,32,Argentina,Defensive Midfield,DM,£900Th.,Barcelona SC Guayaquil,Ecuador,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Coro,28,Spain,Centre-Forward,CF,£1.08m,Girona FC,Spain,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Román Martínez,28,Argentina,Central Midfield,CM,£900Th.,Club Atlético Tigre,Argentina,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Milan Smiljanic,24,Serbia,Defensive Midfield,DM,£1.44m,FK Partizan Belgrade,Serbia,Free transfer,Out,2011,s,laliga
-RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,Gimnàstic de Tarragona,Spain,Loan,Out,2011,s,laliga
-RCD Espanyol Barcelona,Ben Sahar,21,Israel,Centre-Forward,CF,£1.35m,AJ Auxerre,France,Loan,Out,2011,s,laliga
-RCD Espanyol Barcelona,Iván De La Peña,35,Spain,Attacking Midfield,AM,-,,Retired,-,Out,2011,s,laliga
-Valencia CF,Juan Mata,23,Spain,Attacking Midfield,AM,£23.40m,Chelsea FC,England,£24.03m,Out,2011,s,laliga
-Valencia CF,Joaquín,29,Spain,Right Winger,RW,£9.00m,Málaga CF,Spain,£3.78m,Out,2011,s,laliga
-Valencia CF,Manuel Fernandes,25,Portugal,Attacking Midfield,AM,£7.65m,Besiktas JK,Turkey,£1.80m,Out,2011,s,laliga
-Valencia CF,César Sánchez,39,Spain,Goalkeeper,GK,£900Th.,Villarreal CF,Spain,Free transfer,Out,2011,s,laliga
-Valencia CF,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Levante UD,Spain,Free transfer,Out,2011,s,laliga
-Valencia CF,Sunny,22,Nigeria,Defensive Midfield,DM,£900Th.,CD Numancia,Spain,Free transfer,Out,2011,s,laliga
-Valencia CF,Renan,26,Brazil,Goalkeeper,GK,£1.80m,Sport Club Internacional,Brazil,Free transfer,Out,2011,s,laliga
-Valencia CF,Ignacio González,29,Uruguay,Attacking Midfield,AM,£540Th.,Standard Liège,Belgium,Free transfer,Out,2011,s,laliga
-Valencia CF,David Navarro,31,Spain,Centre-Back,CB,£3.60m,Neuchâtel Xamax,Switzerland,Free transfer,Out,2011,s,laliga
-Valencia CF,Aarón Ñíguez,22,Spain,Right Winger,RW,£540Th.,UD Almería,Spain,Free transfer,Out,2011,s,laliga
-Valencia CF,Alejandro Domínguez,30,Argentina,Attacking Midfield,AM,£4.95m,Club Atlético River Plate,Argentina,Loan,Out,2011,s,laliga
-Valencia CF,Míchel,22,Spain,Central Midfield,CM,£1.35m,Hércules CF,Spain,Loan,Out,2011,s,laliga
-Valencia CF,Miguel Ángel Moyà,27,Spain,Goalkeeper,GK,£900Th.,Getafe CF,Spain,Loan,Out,2011,s,laliga
-Valencia CF,Vicente,29,Spain,Left Winger,LW,£4.50m,,Without Club,-,Out,2011,s,laliga
-Valencia CF,Marius Stankevicius,29,Lithuania,Centre-Back,CB,£2.25m,UC Sampdoria,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Villarreal CF,Santi Cazorla,26,Spain,Central Midfield,CM,£16.20m,Málaga CF,Spain,£20.70m,Out,2011,s,laliga
-Villarreal CF,Jozy Altidore,21,United States,Centre-Forward,CF,£1.98m,AZ Alkmaar,Netherlands,£1.35m,Out,2011,s,laliga
-Villarreal CF,Javier Matilla,22,Spain,Central Midfield,CM,£1.35m,Real Betis Balompié,Spain,£1.22m,Out,2011,s,laliga
-Villarreal CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Olympiacos Piraeus,Greece,Loan fee:£900Th.,Out,2011,s,laliga
-Villarreal CF,Nicki Bille Nielsen,23,Denmark,Centre-Forward,CF,£1.62m,Elche CF,Spain,Loan,Out,2011,s,laliga
-Villarreal CF,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Real Betis Balompié,Spain,Loan,Out,2011,s,laliga
-Villarreal CF,Cristóbal Márquez,27,Spain,Attacking Midfield,AM,£1.08m,Karpaty Lviv,Ukraine,Free transfer,Out,2011,s,laliga
-Villarreal CF,Joan Capdevila,33,Spain,Left-Back,LB,£6.30m,SL Benfica,Portugal,Free transfer,Out,2011,s,laliga
-Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Granada CF,Spain,Loan,Out,2011,s,laliga
-Villarreal CF,Juan Carlos,23,Spain,Goalkeeper,GK,£900Th.,Elche CF,Spain,Loan,Out,2011,s,laliga
-Villarreal CF,Xavier Oliva,35,Spain,Goalkeeper,GK,£360Th.,,Retired,-,Out,2011,s,laliga
-Villarreal CF,Cicinho,31,Brazil,Right-Back,RB,£1.35m,AS Roma,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,£10.80m,West Bromwich Albion,England,"End of loanJun 30, 2011",Out,2011,s,laliga
-Málaga CF,Javi López,23,Spain,Right Winger,RW,£360Th.,Real Jaén CF,Spain,Loan,Out,2011,s,laliga
-Málaga CF,David González,21,Spain,Central Midfield,CM,£90Th.,Real Oviedo Vetusta,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Jordi Pablo,21,Spain,Right Midfield,RM,£360Th.,Villarreal CF B,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Manolo Gaspar,30,Spain,Right-Back,RB,£720Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Daniel Toribio,22,Spain,Defensive Midfield,DM,£810Th.,Villarreal CF B,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Manu Torres,21,Spain,Centre-Back,CB,£900Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Edu Ramos,19,Spain,Central Midfield,CM,-,FC Villarreal C,Spain,Free transfer,Out,2011,s,laliga
-Málaga CF,Patrick Mtiliga,30,Denmark,Left-Back,LB,£1.35m,FC Nordsjaelland,Denmark,Free transfer,Out,2011,s,laliga
-Málaga CF,Sandro Silva,27,Brazil,Defensive Midfield,DM,£1.80m,Sport Club Internacional,Brazil,Loan,Out,2011,s,laliga
-Málaga CF,Francesc Arnau,36,Spain,Goalkeeper,GK,-,,Retired,-,Out,2011,s,laliga
-Málaga CF,Fernando,32,Spain,Attacking Midfield,AM,£900Th.,,Without Club,-,Out,2011,s,laliga
-Málaga CF,Quincy Owusu-Abeyie,25,Ghana,Left Winger,LW,£1.80m,Al Sadd Sports Club,Qatar,"End of loanJun 30, 2011",Out,2011,s,laliga
-Málaga CF,Sergio Asenjo,22,Spain,Goalkeeper,GK,£4.50m,Atlético Madrid,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Sporting Gijón,José Ángel,21,Spain,Left-Back,LB,£2.70m,AS Roma,Italy,£4.05m,Out,2011,s,laliga
-Sporting Gijón,Diego Castro,28,Spain,Left Winger,LW,£5.40m,Getafe CF,Spain,Free transfer,Out,2011,s,laliga
-Sporting Gijón,Jorge García,27,Spain,Centre-Back,CB,£720Th.,Real Murcia CF,Spain,Free transfer,Out,2011,s,laliga
-Sporting Gijón,Rafael Sastre,35,Spain,Right-Back,RB,£450Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga
-Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Lokomotiv Moscow,Russia,£6.75m,Out,2011,s,laliga
-Levante UD,Manolo Reina,26,Spain,Goalkeeper,GK,£1.80m,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga
-Levante UD,Gorka Larrea,27,Spain,Central Midfield,CM,£540Th.,CD Numancia,Spain,Free transfer,Out,2011,s,laliga
-Levante UD,David Cerra,27,Spain,Right-Back,RB,£540Th.,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga
-Levante UD,Xisco Nadal,25,Spain,Right Winger,RW,£900Th.,,Unknown,Free transfer,Out,2011,s,laliga
-Levante UD,Xisco,30,Spain,Second Striker,SS,£900Th.,Dinamo Tbilisi,Georgia,Free transfer,Out,2011,s,laliga
-Levante UD,Miquel Robusté,26,Spain,Centre-Back,CB,£630Th.,Xerez CD,Spain,Free transfer,Out,2011,s,laliga
-Levante UD,Sergio,34,Spain,Central Midfield,CM,£900Th.,,Retired,-,Out,2011,s,laliga
-Levante UD,Miguel Pérez,31,Spain,Right Midfield,RM,£540Th.,,Retired,-,Out,2011,s,laliga
-Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Getafe CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Manchester City,England,"End of loanJun 30, 2011",Out,2011,s,laliga
-Levante UD,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,£2.25m,Reggina Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Levante UD,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Valencia CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Levante UD,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Villarreal CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Getafe CF,Dani Parejo,22,Spain,Central Midfield,CM,£7.20m,Valencia CF,Spain,£5.40m,Out,2011,s,laliga
-Getafe CF,Derek Boateng,28,Ghana,Defensive Midfield,DM,£2.25m,Dnipro Dnipropetrovsk,Ukraine,£4.39m,Out,2011,s,laliga
-Getafe CF,Manu del Moral,27,Spain,Centre-Forward,CF,£4.95m,Sevilla FC,Spain,£4.05m,Out,2011,s,laliga
-Getafe CF,Juan Albín,24,Uruguay,Attacking Midfield,AM,£2.25m,RCD Espanyol Barcelona,Spain,£2.70m,Out,2011,s,laliga
-Getafe CF,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Levante UD,Spain,£180Th.,Out,2011,s,laliga
-Getafe CF,Ibrahim Kas,24,Turkey,Centre-Back,CB,£810Th.,Bursaspor,Turkey,Free transfer,Out,2011,s,laliga
-Getafe CF,Mario Álvarez,29,Spain,Centre-Back,CB,£1.35m,Real Betis Balompié,Spain,Free transfer,Out,2011,s,laliga
-Getafe CF,Borja Fernández,30,Spain,Defensive Midfield,DM,£1.62m,Deportivo de La Coruña,Spain,Loan,Out,2011,s,laliga
-Getafe CF,Adrián Sardinero,20,Spain,Right Winger,RW,£270Th.,Hércules CF,Spain,Loan,Out,2011,s,laliga
-Getafe CF,Javier Arizmendi,27,Spain,Centre-Forward,CF,£2.70m,Neuchâtel Xamax,Switzerland,Loan,Out,2011,s,laliga
-Getafe CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Villarreal CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Getafe CF,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Granada CF,Granada,31,Spain,Attacking Midfield,AM,£180Th.,UD Melilla,Spain,Free transfer,Out,2011,s,laliga
-Granada CF,Juan José Collantes,28,Spain,Right Winger,RW,£360Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga
-Granada CF,David Ferreiro,23,Spain,Right Winger,RW,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Óscar Pérez,29,Spain,Central Midfield,CM,£540Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Toti,23,Spain,Attacking Midfield,AM,£450Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Matías Alonso,26,Uruguay,Centre-Forward,CF,£270Th.,Zamora CF,Spain,?,Out,2011,s,laliga
-Granada CF,Juanjo,25,Spain,Centre-Forward,CF,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Rafa Martínez,24,Spain,Goalkeeper,GK,-,Montañeros CF,Spain,?,Out,2011,s,laliga
-Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Jeison Murillo,19,Colombia,Centre-Back,CB,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Fabián Orellana,25,Chile,Right Winger,RW,£1.62m,Celta de Vigo,Spain,Loan,Out,2011,s,laliga
-Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,£630Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,£540Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Álex Cruz,21,Spain,Right Winger,RW,£720Th.,CE Sabadell,Spain,Loan,Out,2011,s,laliga
-Granada CF,Jonathan Rosales,21,Spain,Centre-Back,CB,-,UD Maracena,Spain,?,Out,2011,s,laliga
-Granada CF,David de Coz,31,Spain,Right-Back,RB,£450Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga
-Granada CF,Henrique Almeida,21,Brazil,Centre-Forward,CF,£1.80m,São Paulo Futebol Clube,Brazil,"End of loanMay 31, 2012",Out,2011,s,laliga
-Granada CF,Jonathan Mensah,20,Ghana,Centre-Back,CB,£630Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Granada CF,Carlos Calvo,25,Spain,Attacking Midfield,AM,£810Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,£540Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Granada CF,Rubén Párraga,26,Spain,Left-Back,LB,£450Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga
-Granada CF,Juande,24,Spain,Defensive Midfield,DM,£810Th.,Real Betis Balompié,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga
-Athletic Bilbao,Ion Vélez,26,Spain,Centre-Forward,CF,£720Th.,Girona FC,Spain,Free transfer,Out,2011,s,laliga
-Athletic Bilbao,Urko Vera,24,Spain,Centre-Forward,CF,£360Th.,Hércules CF,Spain,Free transfer,Out,2011,s,laliga
-Athletic Bilbao,Mikel Balenziaga,23,Spain,Left-Back,LB,£720Th.,Real Valladolid CF,Spain,Free transfer,Out,2011,s,laliga
-Athletic Bilbao,Ustaritz,28,Spain,Centre-Back,CB,£1.62m,Real Betis Balompié,Spain,Loan,Out,2011,s,laliga
-Athletic Bilbao,Pablo Orbaiz,32,Spain,Defensive Midfield,DM,£2.25m,Olympiacos Piraeus,Greece,Loan,Out,2011,s,laliga
-Athletic Bilbao,Iñigo Díaz de Cerio,27,Spain,Centre-Forward,CF,£900Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga
-Athletic Bilbao,Galder Cerrajería,22,Spain,Central Midfield,CM,£270Th.,Real Murcia CF,Spain,Loan,Out,2011,s,laliga
-Atlético Madrid,Pizzi,22,Portugal,Right Midfield,RM,£6.75m,SC Braga,Portugal,£12.15m,In,2011,w,laliga
-Atlético Madrid,Fran Mérida,21,Spain,Central Midfield,CM,£2.70m,SC Braga,Portugal,"End of loanDec 1, 2011",In,2011,w,laliga
-FC Barcelona,Isaac Cuenca,20,Spain,Left Midfield,LM,£90Th.,FC Barcelona B,Spain,-,In,2011,w,laliga
-FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,VfL Wolfsburg,Germany,"End of loanDec 31, 2011",In,2011,w,laliga
-FC Barcelona,Keirrison,23,Brazil,Centre-Forward,CF,£1.35m,Cruzeiro Esporte Clube,Brazil,"End of loanMar 31, 2012",In,2011,w,laliga
-Real Zaragoza,Apoño,27,Spain,Central Midfield,CM,£3.60m,Málaga CF,Spain,Loan,In,2011,w,laliga
-Real Zaragoza,Carlos Aranda,31,Spain,Centre-Forward,CF,£2.25m,Levante UD,Spain,Free transfer,In,2011,w,laliga
-Real Zaragoza,Tomislav Dujmovic,30,Croatia,Central Midfield,CM,£1.80m,Dinamo Moscow,Russia,Loan,In,2011,w,laliga
-Real Zaragoza,Pablo Álvarez,27,Argentina,Right-Back,RB,£1.17m,Calcio Catania,Italy,Loan,In,2011,w,laliga
-Real Betis Balompié,Paulão,29,Brazil,Centre-Back,CB,£2.25m,AS Saint-Étienne,France,Loan,In,2011,w,laliga
-RCD Mallorca,Marvin Ogunjimi,24,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,"End of loanDec 1, 2011",In,2011,w,laliga
-CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Kilmarnock FC,Scotland,"End of loanDec 1, 2011",In,2011,w,laliga
-Rayo Vallecano,Diego Costa,23,Spain,Centre-Forward,CF,£4.50m,Atlético Madrid,Spain,Loan,In,2011,w,laliga
-Rayo Vallecano,Joel Robles,21,Spain,Goalkeeper,GK,£1.80m,Atlético Madrid,Spain,Loan,In,2011,w,laliga
-Rayo Vallecano,Jorge Pulido,20,Spain,Centre-Back,CB,£450Th.,Atlético Madrid,Spain,Loan,In,2011,w,laliga
-Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.70m,Sevilla FC,Spain,Loan,In,2011,w,laliga
-Sevilla FC,José Antonio Reyes,28,Spain,Right Winger,RW,£13.50m,Atlético Madrid,Spain,£3.15m,In,2011,w,laliga
-Sevilla FC,Baba Diawara,24,Senegal,Centre-Forward,CF,£2.70m,CS Marítimo,Portugal,£2.70m,In,2011,w,laliga
-Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,£270Th.,Córdoba CF,Spain,£1.08m,In,2011,w,laliga
-Sevilla FC,Juan Cala,22,Spain,Centre-Back,CB,£1.35m,AEK Athens,Greece,"End of loanDec 31, 2011",In,2011,w,laliga
-Racing Santander,Khouma Babacar,18,Senegal,Centre-Forward,CF,£1.80m,ACF Fiorentina,Italy,Loan fee:£315Th.,In,2011,w,laliga
-Racing Santander,Marcos Gullón,22,Spain,Central Midfield,CM,£1.35m,Villarreal CF B,Spain,?,In,2011,w,laliga
-Racing Santander,Damián Ísmodes,22,Peru,Attacking Midfield,AM,£360Th.,Universitario de Deportes,Peru,"End of loanDec 31, 2011",In,2011,w,laliga
-Real Sociedad,Rubén Pardo,19,Spain,Central Midfield,CM,-,Real Sociedad B,Spain,-,In,2011,w,laliga
-Real Sociedad,Borja Viguera,24,Spain,Centre-Forward,CF,£270Th.,Gimnàstic de Tarragona,Spain,"End of loanDec 1, 2011",In,2011,w,laliga
-RCD Espanyol Barcelona,Víctor Sánchez,24,Spain,Central Midfield,CM,£900Th.,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga
-RCD Espanyol Barcelona,Kalu Uche,29,Nigeria,Centre-Forward,CF,£3.15m,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga
-RCD Espanyol Barcelona,Philippe Coutinho,19,Brazil,Attacking Midfield,AM,£7.20m,FC Internazionale,Italy,Loan,In,2011,w,laliga
-RCD Espanyol Barcelona,Raúl Rodríguez,23,Spain,Centre-Back,CB,-,RCD Espanyol B,Spain,-,In,2011,w,laliga
-RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,Gimnàstic de Tarragona,Spain,"End of loanDec 31, 2011",In,2011,w,laliga
-Villarreal CF,Alejandro Martinuccio,24,Argentina,Centre-Forward,CF,£1.80m,Fluminense Football Club,Brazil,Loan,In,2011,w,laliga
-Villarreal CF,Joselu,20,Spain,Centre-Forward,CF,£180Th.,Villarreal CF B,Spain,-,In,2011,w,laliga
-Villarreal CF,Gonzalo Castellani,24,Argentina,Attacking Midfield,AM,£360Th.,Villarreal CF B,Spain,-,In,2011,w,laliga
-Málaga CF,Carlos Kameni,27,Cameroon,Goalkeeper,GK,£1.80m,RCD Espanyol Barcelona,Spain,Free transfer,In,2011,w,laliga
-Sporting Gijón,Adrián Colunga,27,Spain,Centre-Forward,CF,£3.60m,Getafe CF,Spain,Loan,In,2011,w,laliga
-Sporting Gijón,Raúl Domínguez,25,Spain,Goalkeeper,GK,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga
-Sporting Gijón,Formose Mendy,22,Guinea-Bissau,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga
-Sporting Gijón,Alejandro Gálvez,22,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga
-Sporting Gijón,Pedro Orfila,23,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga
-Levante UD,Pedro Botelho,22,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,Loan,In,2011,w,laliga
-Levante UD,David Navarro,31,Spain,Centre-Back,CB,£1.17m,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga
-Levante UD,Abdelkader Ghezzal,27,Algeria,Centre-Forward,CF,£2.70m,AS Bari,Italy,Loan,In,2011,w,laliga
-Levante UD,Óscar Serrano,30,Spain,Left Midfield,LM,£1.80m,Racing Santander,Spain,Free transfer,In,2011,w,laliga
-Getafe CF,Alexis Ruano,26,Spain,Centre-Back,CB,£2.25m,Sevilla FC,Spain,Loan,In,2011,w,laliga
-Getafe CF,Javier Arizmendi,27,Spain,Centre-Forward,CF,£1.80m,Neuchâtel Xamax,Switzerland,"End of loanDec 31, 2011",In,2011,w,laliga
-Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,£2.25m,Sociedade Esportiva Palmeiras,Brazil,£3.60m,In,2011,w,laliga
-Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,£1.62m,KRC Genk,Belgium,£900Th.,In,2011,w,laliga
-Granada CF,Henrique Almeida,20,Brazil,Centre-Forward,CF,£1.08m,São Paulo Futebol Clube,Brazil,Loan fee:£450Th.,In,2011,w,laliga
-Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,-,Orihuela CF,Spain,Free transfer,In,2011,w,laliga
-Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,£1.17m,Audax Italiano,Chile,Free transfer,In,2011,w,laliga
-Granada CF,Borja Gómez,23,Spain,Centre-Back,CB,£450Th.,Karpaty Lviv,Ukraine,Loan,In,2011,w,laliga
-Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,"End of loanDec 31, 2011",In,2011,w,laliga
-Atlético Madrid,José Antonio Reyes,28,Spain,Right Winger,RW,£13.50m,Sevilla FC,Spain,£3.15m,Out,2011,w,laliga
-Atlético Madrid,Joel Robles,21,Spain,Goalkeeper,GK,£1.80m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga
-Atlético Madrid,Jorge Pulido,20,Spain,Centre-Back,CB,£450Th.,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga
-Atlético Madrid,Diego Costa,23,Spain,Centre-Forward,CF,£4.50m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga
-Atlético Madrid,Pizzi,22,Portugal,Right Midfield,RM,£6.75m,SC Braga,Portugal,"End of loanDec 31, 2011",Out,2011,w,laliga
-FC Barcelona,Maxwell,30,Brazil,Left-Back,LB,£6.30m,Paris Saint-Germain,France,£3.15m,Out,2011,w,laliga
-FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,Krylya Sovetov Samara,Russia,Free transfer,Out,2011,w,laliga
-Real Zaragoza,Leonardo Ponzio,29,Argentina,Defensive Midfield,DM,£2.70m,Club Atlético River Plate,Argentina,Free transfer,Out,2011,w,laliga
-Real Zaragoza,Antonio Tomás,27,Spain,Central Midfield,CM,£1.35m,CSKA Sofia,Bulgaria,Free transfer,Out,2011,w,laliga
-Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,£1.08m,,Without Club,-,Out,2011,w,laliga
-Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,£1.80m,,Retired,-,Out,2011,w,laliga
-Real Zaragoza,Efraín Juárez,23,Mexico,Right-Back,RB,£1.35m,Celtic FC,Scotland,"End of loanDec 31, 2011",Out,2011,w,laliga
-Real Betis Balompié,Ezequiel Calvente,21,Spain,Right Winger,RW,£1.35m,CE Sabadell,Spain,Loan,Out,2011,w,laliga
-Real Betis Balompié,Momo,29,Spain,Left Winger,LW,£1.62m,UD Las Palmas,Spain,Free transfer,Out,2011,w,laliga
-Real Betis Balompié,Dusko Tosic,26,Serbia,Centre-Back,CB,£1.35m,Red Star Belgrade,Serbia,"End of loanDec 31, 2011",Out,2011,w,laliga
-RCD Mallorca,Edson Ratinho,25,Brazil,Right-Back,RB,£900Th.,Mogi Mirim Esporte Clube (SP),Brazil,Free transfer,Out,2011,w,laliga
-RCD Mallorca,Akihiro Ienaga,25,Japan,Attacking Midfield,AM,£900Th.,Ulsan Hyundai,"Korea, South",Loan,Out,2011,w,laliga
-CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Real Unión Club,Spain,Loan,Out,2011,w,laliga
-Rayo Vallecano,Néstor Susaeta,27,Spain,Right Winger,RW,£540Th.,FC Lausanne-Sport,Switzerland,Free transfer,Out,2011,w,laliga
-Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,£900Th.,FK Baku,Azerbaijan,Free transfer,Out,2011,w,laliga
-Rayo Vallecano,Rafa García,25,Spain,Central Midfield,CM,£450Th.,Xerez CD,Spain,Loan,Out,2011,w,laliga
-Rayo Vallecano,Pedro Botelho,22,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,"End of loanJan 19, 2012",Out,2011,w,laliga
-Rayo Vallecano,Jordi Figueras,24,Spain,Centre-Back,CB,£1.35m,Rubin Kazan,Russia,"End of loanJan 19, 2012",Out,2011,w,laliga
-Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Juventus FC,Italy,Loan fee:£1.35m,Out,2011,w,laliga
-Sevilla FC,Alexis Ruano,26,Spain,Centre-Back,CB,£2.25m,Getafe CF,Spain,Loan,Out,2011,w,laliga
-Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,£270Th.,Córdoba CF,Spain,Loan,Out,2011,w,laliga
-Sevilla FC,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.70m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga
-Racing Santander,Ariel Nahuelpán,24,Argentina,Centre-Forward,CF,£1.35m,LDU Quito,Ecuador,£1.71m,Out,2011,w,laliga
-Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£1.80m,AS Monaco,France,£180Th.,Out,2011,w,laliga
-Racing Santander,Óscar Serrano,30,Spain,Left Midfield,LM,£1.80m,Levante UD,Spain,Free transfer,Out,2011,w,laliga
-Racing Santander,Damián Ísmodes,22,Peru,Attacking Midfield,AM,£360Th.,Club Cienciano,Peru,?,Out,2011,w,laliga
-Real Sociedad,Borja Viguera,24,Spain,Centre-Forward,CF,£270Th.,Albacete Balompié,Spain,Loan,Out,2011,w,laliga
-Real Sociedad,Jeffrey Sarpong,23,Netherlands,Left Winger,LW,£900Th.,NAC Breda,Netherlands,Loan,Out,2011,w,laliga
-Real Sociedad,McDonald Mariga,24,Kenya,Defensive Midfield,DM,£6.30m,FC Internazionale,Italy,"End of loanDec 1, 2011",Out,2011,w,laliga
-RCD Espanyol Barcelona,Jesús Dátolo,27,Argentina,Attacking Midfield,AM,£2.70m,Sport Club Internacional,Brazil,£2.70m,Out,2011,w,laliga
-RCD Espanyol Barcelona,Carlos Kameni,27,Cameroon,Goalkeeper,GK,£1.80m,Málaga CF,Spain,Free transfer,Out,2011,w,laliga
-RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,CE Sabadell,Spain,Loan,Out,2011,w,laliga
-Villarreal CF,Gerard Bordas,30,Spain,Centre-Forward,CF,£720Th.,Villarreal CF B,Spain,-,Out,2011,w,laliga
-Málaga CF,Apoño,27,Spain,Central Midfield,CM,£3.60m,Real Zaragoza,Spain,Loan,Out,2011,w,laliga
-Málaga CF,Kris Stadsgaard,26,Denmark,Centre-Back,CB,£1.35m,FC Copenhagen,Denmark,Free transfer,Out,2011,w,laliga
-Málaga CF,Edinho,29,Portugal,Centre-Forward,CF,£900Th.,Académica Coimbra,Portugal,Loan,Out,2011,w,laliga
-Sporting Gijón,Luis Morán,24,Spain,Centre-Forward,CF,£1.62m,AEK Larnaca,Cyprus,Loan,Out,2011,w,laliga
-Sporting Gijón,Nacho Novo,32,Spain,Right Winger,RW,£1.62m,Legia Warszawa,Poland,Free transfer,Out,2011,w,laliga
-Levante UD,Nano,31,Spain,Centre-Back,CB,£1.35m,Guizhou Renhe,China,£450Th.,Out,2011,w,laliga
-Levante UD,Carlos Aranda,31,Spain,Centre-Forward,CF,£2.25m,Real Zaragoza,Spain,Free transfer,Out,2011,w,laliga
-Levante UD,Marc Mateu,21,Spain,Attacking Midfield,AM,£180Th.,Real Zaragoza B,Spain,Loan,Out,2011,w,laliga
-Levante UD,Héctor Rodas,23,Spain,Centre-Back,CB,£450Th.,Elche CF,Spain,Loan,Out,2011,w,laliga
-Levante UD,Rafa Jordá,28,Spain,Centre-Forward,CF,£810Th.,Guizhou Renhe,China,Free transfer,Out,2011,w,laliga
-Levante UD,Wellington Silva,18,Brazil,Right Winger,RW,£630Th.,Arsenal FC,England,"End of loanDec 31, 2011",Out,2011,w,laliga
-Getafe CF,Pedro Mosquera,23,Spain,Central Midfield,CM,£630Th.,Real Madrid Castilla,Spain,Loan,Out,2011,w,laliga
-Getafe CF,Adrián Colunga,27,Spain,Centre-Forward,CF,£3.60m,Sporting Gijón,Spain,Loan,Out,2011,w,laliga
-Getafe CF,Pablo Pintos,24,Uruguay,Right-Back,RB,£1.08m,Defensor Sporting Club,Uruguay,Loan,Out,2011,w,laliga
-Getafe CF,Michelangelo Albertazzi,20,Italy,Left-Back,LB,£360Th.,AC Milan,Italy,"End of loanDec 1, 2011",Out,2011,w,laliga
-Granada CF,Yohan Mollo,22,France,Left Winger,LW,£1.80m,AS Nancy-Lorraine,France,Loan fee:£135Th.,Out,2011,w,laliga
-Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,£1.17m,CD Universidad Católica,Chile,Loan,Out,2011,w,laliga
-Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,Loan,Out,2011,w,laliga
-Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,£2.25m,Novara Calcio 1908,Italy,Loan,Out,2011,w,laliga
-Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,CF La Unión,Spain,Loan,Out,2011,w,laliga
-Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,£1.98m,AC Cesena,Italy,Loan,Out,2011,w,laliga
-Granada CF,Jorge Ribeiro,30,Portugal,Left Midfield,LM,£900Th.,,Without Club,-,Out,2011,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Atlético Madrid,Falcao,25,Colombia,Centre-Forward,CF,£22.50m,FC Porto,Portugal,£36.00m,In,2011,s,laliga,https://www.transfermarkt.co.uk/falcao/profil/spieler/39152
+Atlético Madrid,Arda Turan,24,Turkey,Left Winger,LW,£13.95m,Galatasaray SK,Turkey,£11.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/arda-turan/profil/spieler/21369
+Atlético Madrid,Sílvio,23,Portugal,Right-Back,RB,£6.75m,SC Braga,Portugal,£7.20m,In,2011,s,laliga,https://www.transfermarkt.co.uk/silvio/profil/spieler/84511
+Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,FC Porto,Portugal,£4.50m,In,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-micael/profil/spieler/84491
+Atlético Madrid,Gabi,27,Spain,Defensive Midfield,DM,£2.70m,Real Zaragoza,Spain,£2.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/gabi/profil/spieler/22969
+Atlético Madrid,Pizzi,21,Portugal,Right Midfield,RM,£4.14m,SC Braga,Portugal,Loan fee:£1.35m,In,2011,s,laliga,https://www.transfermarkt.co.uk/pizzi/profil/spieler/64339
+Atlético Madrid,Thibaut Courtois,19,Belgium,Goalkeeper,GK,£3.60m,Chelsea FC,England,Loan fee:£1.08m,In,2011,s,laliga,https://www.transfermarkt.co.uk/thibaut-courtois/profil/spieler/108390
+Atlético Madrid,Adrián López,23,Spain,Centre-Forward,CF,£3.15m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/adrian-lopez/profil/spieler/45383
+Atlético Madrid,Diego,26,Brazil,Attacking Midfield,AM,£10.80m,VfL Wolfsburg,Germany,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/diego/profil/spieler/4248
+Atlético Madrid,Tiago,30,Portugal,Central Midfield,CM,£7.20m,Juventus FC,Italy,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/tiago/profil/spieler/8538
+Atlético Madrid,Miranda,26,Brazil,Centre-Back,CB,£5.85m,São Paulo Futebol Clube,Brazil,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/miranda/profil/spieler/33357
+Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Liverpool FC,England,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/dani-pacheco/profil/spieler/28285
+Atlético Madrid,Borja Bastón,18,Spain,Centre-Forward,CF,-,Atlético Madrid B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/borja-baston/profil/spieler/85324
+Atlético Madrid,Jorge Pulido,20,Spain,Centre-Back,CB,-,Atlético Madrid B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-pulido/profil/spieler/67546
+Atlético Madrid,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-perez/profil/spieler/113045
+Atlético Madrid,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/ibrahima-balde/profil/spieler/134497
+Atlético Madrid,Eduardo Salvio,20,Argentina,Right Winger,RW,£9.00m,SL Benfica,Portugal,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/eduardo-salvio/profil/spieler/84535
+Atlético Madrid,Leandro Cabrera,20,Uruguay,Centre-Back,CB,£720Th.,Recreativo Huelva,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/leandro-cabrera/profil/spieler/102423
+Atlético Madrid,Sergio Asenjo,22,Spain,Goalkeeper,GK,£4.50m,Málaga CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-asenjo/profil/spieler/51710
+FC Barcelona,Cesc Fàbregas,24,Spain,Central Midfield,CM,£48.60m,Arsenal FC,England,£30.60m,In,2011,s,laliga,https://www.transfermarkt.co.uk/cesc-fabregas/profil/spieler/8806
+FC Barcelona,Alexis Sánchez,22,Chile,Left Winger,LW,£22.50m,Udinese Calcio,Italy,£23.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/alexis-sanchez/profil/spieler/40433
+FC Barcelona,Thiago,20,Spain,Central Midfield,CM,£4.50m,FC Barcelona B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/thiago/profil/spieler/60444
+FC Barcelona,Zlatan Ibrahimovic,29,Sweden,Centre-Forward,CF,£31.50m,AC Milan,Italy,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+FC Barcelona,Henrique,24,Brazil,Centre-Back,CB,£4.50m,Racing Santander,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/henrique/profil/spieler/52513
+FC Barcelona,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Sevilla FC,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+FC Barcelona,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,Getafe CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/victor-sanchez/profil/spieler/63290
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£4.50m,Birmingham City,England,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/aleksandr-hleb/profil/spieler/597
+FC Barcelona,Keirrison,22,Brazil,Centre-Forward,CF,£1.80m,Santos FC,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/keirrison/profil/spieler/68821
+Real Zaragoza,Roberto,25,Spain,Goalkeeper,GK,£5.04m,SL Benfica,Portugal,£7.74m,In,2011,s,laliga,https://www.transfermarkt.co.uk/roberto/profil/spieler/37403
+Real Zaragoza,Hélder Postiga,29,Portugal,Centre-Forward,CF,£6.03m,Sporting CP,Portugal,£1.17m,In,2011,s,laliga,https://www.transfermarkt.co.uk/helder-postiga/profil/spieler/5169
+Real Zaragoza,Luis García,30,Spain,Central Midfield,CM,£4.50m,RCD Espanyol Barcelona,Spain,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/8006
+Real Zaragoza,Franco Zuculini,20,Argentina,Central Midfield,CM,£2.70m,TSG 1899 Hoffenheim,Germany,Loan fee:£360Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/franco-zuculini/profil/spieler/73083
+Real Zaragoza,David Mateos,24,Spain,Centre-Back,CB,£450Th.,Real Madrid Castilla,Spain,Loan fee:£180Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/david-mateos/profil/spieler/45304
+Real Zaragoza,Abraham Minero,25,Spain,Left-Back,LB,£630Th.,FC Barcelona B,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/abraham-minero/profil/spieler/95483
+Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,£1.80m,Zenit St. Petersburg,Russia,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/fernando-meira/profil/spieler/1432
+Real Zaragoza,Antonio Tomás,26,Spain,Central Midfield,CM,£1.80m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/antonio-tomas/profil/spieler/37340
+Real Zaragoza,Edu Oriol,24,Spain,Left Winger,LW,£360Th.,FC Barcelona B,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/edu-oriol/profil/spieler/95488
+Real Zaragoza,Efraín Juárez,23,Mexico,Right-Back,RB,£2.25m,Celtic FC,Scotland,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/efrain-juarez/profil/spieler/66130
+Real Zaragoza,Juankar,21,Spain,Left-Back,LB,-,SC Braga,Portugal,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/juankar/profil/spieler/126625
+Real Zaragoza,Pablo Barrera,24,Mexico,Right Winger,RW,£3.15m,West Ham United,England,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-barrera/profil/spieler/51079
+Real Zaragoza,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,Atlético Madrid,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-micael/profil/spieler/84491
+Real Zaragoza,Pablo,22,Brazil,Right Midfield,RM,£675Th.,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/pablo/profil/spieler/74753
+Real Zaragoza,Raúl Goni,22,Spain,Centre-Back,CB,-,Real Madrid Castilla,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/raul-goni/profil/spieler/61869
+Real Betis Balompié,Roque Santa Cruz,30,Paraguay,Centre-Forward,CF,£3.60m,Manchester City,England,Loan fee:£1.35m,In,2011,s,laliga,https://www.transfermarkt.co.uk/roque-santa-cruz/profil/spieler/215
+Real Betis Balompié,Javier Matilla,22,Spain,Central Midfield,CM,£1.35m,Villarreal CF,Spain,£1.22m,In,2011,s,laliga,https://www.transfermarkt.co.uk/javier-matilla/profil/spieler/73269
+Real Betis Balompié,Dusko Tosic,26,Serbia,Centre-Back,CB,£900Th.,Red Star Belgrade,Serbia,Loan fee:£270Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/dusko-tosic/profil/spieler/17184
+Real Betis Balompié,Antonio Amaya,28,Spain,Centre-Back,CB,£720Th.,Wigan Athletic,England,£257Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/antonio-amaya/profil/spieler/71904
+Real Betis Balompié,Javi Chica,26,Spain,Right-Back,RB,£1.80m,RCD Espanyol Barcelona,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/javi-chica/profil/spieler/44860
+Real Betis Balompié,Fabri,23,Spain,Goalkeeper,GK,£450Th.,Real Valladolid CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/fabri/profil/spieler/45882
+Real Betis Balompié,Mario Álvarez,29,Spain,Centre-Back,CB,£1.35m,Getafe CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/mario-alvarez/profil/spieler/7803
+Real Betis Balompié,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Villarreal CF,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Real Betis Balompié,Ustaritz,28,Spain,Centre-Back,CB,£1.62m,Athletic Bilbao,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/ustaritz/profil/spieler/35554
+Real Betis Balompié,Mariano Pavone,29,Argentina,Centre-Forward,CF,£1.08m,Club Atlético River Plate,Argentina,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/mariano-pavone/profil/spieler/27462
+Real Betis Balompié,Rodri,25,Spain,Right Midfield,RM,£540Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/rodri/profil/spieler/63725
+Real Betis Balompié,Juande,24,Spain,Defensive Midfield,DM,£810Th.,Granada CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/juande/profil/spieler/36355
+Real Betis Balompié,Nélson,28,Portugal,Right-Back,RB,£2.70m,CA Osasuna,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/nelson/profil/spieler/17555
+RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,£2.16m,In,2011,s,laliga,https://www.transfermarkt.co.uk/marvin-ogunjimi/profil/spieler/33870
+RCD Mallorca,Alejandro Alfaro,24,Spain,Left Winger,LW,£2.70m,Sevilla FC,Spain,£540Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/alejandro-alfaro/profil/spieler/39783
+RCD Mallorca,Pablo Cáceres,26,Uruguay,Left-Back,LB,£270Th.,Club Atlético Tigre,Argentina,£360Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-caceres/profil/spieler/40790
+RCD Mallorca,Chico,24,Spain,Centre-Back,CB,£2.70m,Genoa CFC,Italy,Loan fee:£180Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/chico/profil/spieler/51681
+RCD Mallorca,Gianni Zuiverloon,24,Netherlands,Centre-Back,CB,£3.60m,West Bromwich Albion,England,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/gianni-zuiverloon/profil/spieler/27304
+RCD Mallorca,Juan Calatayud,31,Spain,Goalkeeper,GK,£2.25m,Hércules CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-calatayud/profil/spieler/15980
+RCD Mallorca,Tomer Hemed,24,Israel,Centre-Forward,CF,£450Th.,Maccabi Haifa,Israel,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/tomer-hemed/profil/spieler/112668
+RCD Mallorca,Fernando Tissone,25,Argentina,Central Midfield,CM,£2.16m,UC Sampdoria,Italy,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/fernando-tissone/profil/spieler/35871
+RCD Mallorca,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,Rayo Vallecano,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/oscar-trejo/profil/spieler/30321
+RCD Mallorca,Edson Ratinho,25,Brazil,Right-Back,RB,£900Th.,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/edson-ratinho/profil/spieler/50778
+RCD Mallorca,Tuni,29,Spain,Right Winger,RW,£810Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/tuni/profil/spieler/26062
+CA Osasuna,Roland Lamah,23,Belgium,Left Winger,LW,£900Th.,FC Le Mans,France,£1.35m,In,2011,s,laliga,https://www.transfermarkt.co.uk/roland-lamah/profil/spieler/35035
+CA Osasuna,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,Atlético Madrid,Spain,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/ibrahima-balde/profil/spieler/134497
+CA Osasuna,Jukka Raitala,22,Finland,Left-Back,LB,£675Th.,TSG 1899 Hoffenheim,Germany,Loan fee:£90Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/jukka-raitala/profil/spieler/47785
+CA Osasuna,Marc Bertrán,29,Spain,Right-Back,RB,£1.62m,CD Tenerife,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/marc-bertran/profil/spieler/15761
+CA Osasuna,Rubén González,29,Spain,Centre-Back,CB,£1.08m,RCD Mallorca,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-gonzalez/profil/spieler/7519
+CA Osasuna,Nino,31,Spain,Centre-Forward,CF,£2.25m,CD Tenerife,Spain,?,In,2011,s,laliga,https://www.transfermarkt.co.uk/nino/profil/spieler/29178
+CA Osasuna,Raúl García,25,Spain,Attacking Midfield,AM,£3.60m,Atlético Madrid,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/raul-garcia/profil/spieler/34601
+CA Osasuna,Xavier Annunziata,23,Spain,Left Winger,LW,-,CA Osasuna Promesas,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/xavier-annunziata/profil/spieler/94910
+CA Osasuna,David Timor,21,Spain,Defensive Midfield,DM,-,CA Osasuna Promesas,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/david-timor/profil/spieler/158795
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-galan/profil/spieler/62990
+CA Osasuna,Rovérsio,27,Brazil,Centre-Back,CB,£900Th.,Real Betis Balompié,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/roversio/profil/spieler/25110
+CA Osasuna,Andrés Fernández,24,Spain,Goalkeeper,GK,£540Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/andres-fernandez/profil/spieler/57522
+CA Osasuna,Jokin Esparza,23,Spain,Left Winger,LW,£270Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jokin-esparza/profil/spieler/62966
+CA Osasuna,Jon Echaide,23,Spain,Centre-Back,CB,£540Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jon-echaide/profil/spieler/59527
+Rayo Vallecano,Pedro Botelho,21,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,Loan fee:£306Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-botelho/profil/spieler/26239
+Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,£900Th.,Houston Dynamo,United States,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/koke/profil/spieler/16132
+Rayo Vallecano,Michu,25,Spain,Second Striker,SS,£900Th.,Celta de Vigo,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/michu/profil/spieler/70789
+Rayo Vallecano,Roberto Trashorras,30,Spain,Central Midfield,CM,£1.80m,Celta de Vigo,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/roberto-trashorras/profil/spieler/7923
+Rayo Vallecano,Raúl Tamudo,33,Spain,Centre-Forward,CF,£2.70m,Real Sociedad,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/raul-tamudo/profil/spieler/7899
+Rayo Vallecano,Sueliton,24,Brazil,Right-Back,RB,-,AAD Vitória das Tabocas (PE),Brazil,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/sueliton/profil/spieler/195604
+Rayo Vallecano,Raúl Bravo,30,Spain,Centre-Back,CB,£1.35m,Olympiacos Piraeus,Greece,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/raul-bravo/profil/spieler/3771
+Rayo Vallecano,Mikel Labaka,30,Spain,Centre-Back,CB,£1.44m,Real Sociedad,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/mikel-labaka/profil/spieler/23247
+Rayo Vallecano,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Atlético Madrid,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/dani-pacheco/profil/spieler/28285
+Rayo Vallecano,Jordi Figueras,24,Spain,Centre-Back,CB,£900Th.,Rubin Kazan,Russia,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/jordi-figueras/profil/spieler/62941
+Rayo Vallecano,Lass Bangoura,19,Guinea,Right Winger,RW,-,Rayo Vallecano B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/lass-bangoura/profil/spieler/182963
+Rayo Vallecano,Juan Quero,26,Spain,Left Winger,LW,£630Th.,UD Las Palmas,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-quero/profil/spieler/51476
+Sevilla FC,Manu del Moral,27,Spain,Centre-Forward,CF,£4.95m,Getafe CF,Spain,£4.05m,In,2011,s,laliga,https://www.transfermarkt.co.uk/manu-del-moral/profil/spieler/37399
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,FC Barcelona,Spain,£2.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+Sevilla FC,Emir Spahic,30,Bosnia-Herzegovina,Centre-Back,CB,£4.05m,HSC Montpellier,France,£1.80m,In,2011,s,laliga,https://www.transfermarkt.co.uk/emir-spahic/profil/spieler/25812
+Sevilla FC,Coke,24,Spain,Right-Back,RB,£2.25m,Rayo Vallecano,Spain,£1.62m,In,2011,s,laliga,https://www.transfermarkt.co.uk/coke/profil/spieler/71905
+Sevilla FC,Piotr Trochowski,27,Germany,Attacking Midfield,AM,£4.50m,Hamburger SV,Germany,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/piotr-trochowski/profil/spieler/2623
+Sevilla FC,Bernardo Espinosa,21,Colombia,Centre-Back,CB,-,Sevilla Atlético,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/bernardo-espinosa/profil/spieler/64598
+Sevilla FC,José Campaña,18,Spain,Central Midfield,CM,-,Sevilla Atlético,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/jose-campana/profil/spieler/120095
+Sevilla FC,Luis Alberto,18,Spain,Attacking Midfield,AM,-,Sevilla Atlético,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/luis-alberto/profil/spieler/128220
+Sevilla FC,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.25m,Rayo Vallecano,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/emiliano-armenteros/profil/spieler/30747
+Sevilla FC,Juan Cala,21,Spain,Centre-Back,CB,£1.35m,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-cala/profil/spieler/67089
+Sevilla FC,Tom De Mul,25,Belgium,Right Midfield,RM,£900Th.,Standard Liège,Belgium,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/tom-de-mul/profil/spieler/15893
+Sevilla FC,José Carlos,23,Spain,Attacking Midfield,AM,£900Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jose-carlos/profil/spieler/73244
+Sevilla FC,David Prieto,28,Spain,Centre-Back,CB,£1.35m,CD Tenerife,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/david-prieto/profil/spieler/35569
+Sevilla FC,Antonio Luna,20,Spain,Left-Back,LB,£450Th.,UD Almería,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/antonio-luna/profil/spieler/126516
+Real Madrid,Fábio Coentrão,23,Portugal,Left-Back,LB,£21.60m,SL Benfica,Portugal,£27.00m,In,2011,s,laliga,https://www.transfermarkt.co.uk/fabio-coentrao/profil/spieler/33648
+Real Madrid,Nuri Sahin,22,Turkey,Defensive Midfield,DM,£18.00m,Borussia Dortmund,Germany,£9.00m,In,2011,s,laliga,https://www.transfermarkt.co.uk/nuri-sahin/profil/spieler/31095
+Real Madrid,Raphaël Varane,18,France,Centre-Back,CB,£3.60m,RC Lens,France,£9.00m,In,2011,s,laliga,https://www.transfermarkt.co.uk/raphael-varane/profil/spieler/164770
+Real Madrid,José Callejón,24,Spain,Right Winger,RW,£5.85m,RCD Espanyol Barcelona,Spain,£4.50m,In,2011,s,laliga,https://www.transfermarkt.co.uk/jose-callejon/profil/spieler/61253
+Real Madrid,Hamit Altintop,28,Turkey,Right Midfield,RM,£5.40m,Bayern Munich,Germany,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/hamit-altintop/profil/spieler/1792
+Real Madrid,Royston Drenthe,24,Netherlands,Left Midfield,LM,£4.05m,Hércules CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/royston-drenthe/profil/spieler/35631
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£1.89m,AC Siena,Italy,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/alexandros-tziolis/profil/spieler/12883
+Racing Santander,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,£2.25m,Reggina Calcio,Italy,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/cristhian-stuani/profil/spieler/59323
+Racing Santander,Lautaro Acosta,23,Argentina,Left Winger,LW,£900Th.,Sevilla FC,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/lautaro-acosta/profil/spieler/45307
+Racing Santander,Bernardo Espinosa,22,Colombia,Centre-Back,CB,£270Th.,Sevilla FC,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/bernardo-espinosa/profil/spieler/64598
+Racing Santander,Jairo Samperio,17,Spain,Left Winger,LW,-,Racing Santander U19,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/jairo-samperio/profil/spieler/171167
+Racing Santander,Julián Luque,19,Spain,Attacking Midfield,AM,-,Racing de Santander B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/julian-luque/profil/spieler/99349
+Racing Santander,Álvaro González,21,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/alvaro-gonzalez/profil/spieler/183647
+Racing Santander,César de la Hoz,19,Spain,Defensive Midfield,DM,-,Racing de Santander B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/cesar-de-la-hoz/profil/spieler/226261
+Racing Santander,José Picón,23,Spain,Centre-Back,CB,-,Pontevedra CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jose-picon/profil/spieler/89379
+Racing Santander,Brian Sarmiento,21,Argentina,Attacking Midfield,AM,£630Th.,UD Salamanca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/brian-sarmiento/profil/spieler/58319
+Racing Santander,Edu Bedia,22,Spain,Central Midfield,CM,£450Th.,UD Salamanca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/edu-bedia/profil/spieler/74764
+Real Sociedad,McDonald Mariga,24,Kenya,Defensive Midfield,DM,£6.30m,FC Internazionale,Italy,Loan fee:£1.35m,In,2011,s,laliga,https://www.transfermarkt.co.uk/mcdonald-mariga/profil/spieler/37124
+Real Sociedad,Carlos Vela,22,Mexico,Right Winger,RW,£4.05m,Arsenal FC,England,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-vela/profil/spieler/35773
+Real Sociedad,Liassine Cadamuro,23,Algeria,Centre-Back,CB,-,Real Sociedad B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/liassine-cadamuro/profil/spieler/89325
+Real Sociedad,Iñigo Martínez,20,Spain,Centre-Back,CB,-,Real Sociedad B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/inigo-martinez/profil/spieler/158863
+Real Sociedad,Iñigo Sarasola,24,Spain,Left-Back,LB,-,Real Unión Club,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/inigo-sarasola/profil/spieler/61079
+RCD Espanyol Barcelona,Juan Albín,24,Uruguay,Attacking Midfield,AM,£2.25m,Getafe CF,Spain,£2.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-albin/profil/spieler/44139
+RCD Espanyol Barcelona,Héctor Moreno,23,Mexico,Centre-Back,CB,£4.05m,AZ Alkmaar,Netherlands,£2.25m,In,2011,s,laliga,https://www.transfermarkt.co.uk/hector-moreno/profil/spieler/51046
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£248Th.,Defensor Sporting Club,Uruguay,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/adrian-luna/profil/spieler/131113
+RCD Espanyol Barcelona,Dídac Vilà,22,Spain,Left-Back,LB,£2.70m,AC Milan,Italy,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/didac-vila/profil/spieler/67090
+RCD Espanyol Barcelona,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/walter-pandiani/profil/spieler/7691
+RCD Espanyol Barcelona,Rui Fonte,21,Portugal,Centre-Forward,CF,-,Sporting CP,Portugal,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/rui-fonte/profil/spieler/9335
+RCD Espanyol Barcelona,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,£3.60m,Sevilla FC,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/romaric/profil/spieler/15808
+RCD Espanyol Barcelona,Vladimir Weiss,21,Slovakia,Left Winger,LW,£2.70m,Manchester City,England,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/vladimir-weiss/profil/spieler/92701
+RCD Espanyol Barcelona,Thievy Bifouma,19,Congo,Right Winger,RW,-,Espanyol Barcelona U19,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/thievy-bifouma/profil/spieler/181477
+RCD Espanyol Barcelona,Milan Smiljanic,24,Serbia,Defensive Midfield,DM,£1.44m,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/milan-smiljanic/profil/spieler/34412
+RCD Espanyol Barcelona,Ángel Martínez,25,Spain,Central Midfield,CM,£630Th.,Girona FC,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/angel-martinez/profil/spieler/45652
+RCD Espanyol Barcelona,Román Martínez,28,Argentina,Central Midfield,CM,£900Th.,Club Atlético Tigre,Argentina,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/roman-martinez/profil/spieler/53134
+RCD Espanyol Barcelona,Coro,28,Spain,Centre-Forward,CF,£1.35m,CA Osasuna,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/coro/profil/spieler/15790
+RCD Espanyol Barcelona,Ben Sahar,21,Israel,Centre-Forward,CF,£1.35m,Hapoel Tel Aviv,Israel,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/ben-sahar/profil/spieler/40436
+RCD Espanyol Barcelona,Kiko Casilla,24,Spain,Goalkeeper,GK,£720Th.,FC Cartagena,Spain,"End of loanJun 1, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/kiko-casilla/profil/spieler/27486
+Valencia CF,Víctor Ruiz,22,Spain,Centre-Back,CB,£7.20m,SSC Napoli,Italy,£7.20m,In,2011,s,laliga,https://www.transfermarkt.co.uk/victor-ruiz/profil/spieler/62920
+Valencia CF,Pablo Piatti,22,Argentina,Left Winger,LW,£8.10m,UD Almería,Spain,£6.75m,In,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-piatti/profil/spieler/56067
+Valencia CF,Adil Rami,25,France,Centre-Back,CB,£10.80m,LOSC Lille,France,£5.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/adil-rami/profil/spieler/51118
+Valencia CF,Dani Parejo,22,Spain,Central Midfield,CM,£7.20m,Getafe CF,Spain,£5.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/dani-parejo/profil/spieler/59561
+Valencia CF,Diego Alves,26,Brazil,Goalkeeper,GK,£10.80m,UD Almería,Spain,£2.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/diego-alves/profil/spieler/42373
+Valencia CF,Sergio Canales,20,Spain,Attacking Midfield,AM,£5.40m,Real Madrid,Spain,Loan fee:£1.80m,In,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-canales/profil/spieler/66106
+Valencia CF,Antonio Barragán,24,Spain,Right-Back,RB,£540Th.,Real Valladolid CF,Spain,£1.35m,In,2011,s,laliga,https://www.transfermarkt.co.uk/antonio-barragan/profil/spieler/32522
+Valencia CF,Cristiano Figueiredo,20,Portugal,Goalkeeper,GK,£270Th.,SC Braga,Portugal,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/cristiano-figueiredo/profil/spieler/100127
+Valencia CF,Paco Alcácer,17,Spain,Centre-Forward,CF,-,Valencia Mestalla,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/paco-alcacer/profil/spieler/126716
+Valencia CF,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/asier-del-horno/profil/spieler/7617
+Valencia CF,Aarón Ñíguez,22,Spain,Right Winger,RW,£540Th.,Recreativo Huelva,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/aaron-niguez/profil/spieler/57943
+Valencia CF,Manuel Fernandes,25,Portugal,Attacking Midfield,AM,£7.20m,Besiktas JK,Turkey,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/manuel-fernandes/profil/spieler/16791
+Valencia CF,Renan,26,Brazil,Goalkeeper,GK,£1.80m,Sport Club Internacional,Brazil,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/renan/profil/spieler/27364
+Valencia CF,Sofiane Feghouli,21,Algeria,Right Winger,RW,£2.70m,UD Almería,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/sofiane-feghouli/profil/spieler/57162
+Valencia CF,Míchel,22,Spain,Central Midfield,CM,£1.35m,Deportivo de La Coruña,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/michel/profil/spieler/65331
+Valencia CF,Sunny,22,Nigeria,Defensive Midfield,DM,£900Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/sunny/profil/spieler/51479
+Villarreal CF,Cristián Zapata,24,Colombia,Centre-Back,CB,£8.10m,Udinese Calcio,Italy,£8.10m,In,2011,s,laliga,https://www.transfermarkt.co.uk/cristian-zapata/profil/spieler/34344
+Villarreal CF,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,£4.50m,RCD Mallorca,Spain,£7.20m,In,2011,s,laliga,https://www.transfermarkt.co.uk/jonathan-de-guzman/profil/spieler/31067
+Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,£10.80m,West Bromwich Albion,England,£5.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/borja-valero/profil/spieler/40372
+Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Real Zaragoza,Spain,£4.50m,In,2011,s,laliga,https://www.transfermarkt.co.uk/ikechukwu-uche/profil/spieler/44027
+Villarreal CF,Javier Camuñas,30,Spain,Right Winger,RW,£2.52m,CA Osasuna,Spain,£2.07m,In,2011,s,laliga,https://www.transfermarkt.co.uk/javier-camunas/profil/spieler/29170
+Villarreal CF,Florian Lejeune,20,France,Centre-Back,CB,£900Th.,FC Istres Ouest Provence ,France,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/florian-lejeune/profil/spieler/127108
+Villarreal CF,César Sánchez,39,Spain,Goalkeeper,GK,£900Th.,Valencia CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/cesar-sanchez/profil/spieler/7510
+Villarreal CF,Gerard Bordas,29,Spain,Centre-Forward,CF,£630Th.,Villarreal CF B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/gerard-bordas/profil/spieler/73204
+Villarreal CF,Hernán Pérez,22,Paraguay,Right Winger,RW,£900Th.,Villarreal CF B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/hernan-perez/profil/spieler/73636
+Villarreal CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Getafe CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-marcano/profil/spieler/57723
+Villarreal CF,Cristóbal Márquez,27,Spain,Attacking Midfield,AM,£1.08m,Elche CF,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/cristobal-marquez/profil/spieler/72281
+Villarreal CF,Jozy Altidore,21,United States,Centre-Forward,CF,£1.98m,Bursaspor,Turkey,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jozy-altidore/profil/spieler/39378
+Villarreal CF,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Málaga CF,Santi Cazorla,26,Spain,Central Midfield,CM,£16.20m,Villarreal CF,Spain,£20.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/santi-cazorla/profil/spieler/15799
+Málaga CF,Jérémy Toulalan,27,France,Defensive Midfield,DM,£16.20m,Olympique Lyon,France,£9.90m,In,2011,s,laliga,https://www.transfermarkt.co.uk/jeremy-toulalan/profil/spieler/5513
+Málaga CF,Nacho Monreal,25,Spain,Left-Back,LB,£6.30m,CA Osasuna,Spain,£5.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/nacho-monreal/profil/spieler/43003
+Málaga CF,Isco,19,Spain,Attacking Midfield,AM,-,Valencia Mestalla,Spain,£5.40m,In,2011,s,laliga,https://www.transfermarkt.co.uk/isco/profil/spieler/85288
+Málaga CF,Diego Buonanotte,23,Argentina,Attacking Midfield,AM,£2.43m,Club Atlético River Plate,Argentina,£4.05m,In,2011,s,laliga,https://www.transfermarkt.co.uk/diego-buonanotte/profil/spieler/45646
+Málaga CF,Joaquín,29,Spain,Right Winger,RW,£9.00m,Valencia CF,Spain,£3.78m,In,2011,s,laliga,https://www.transfermarkt.co.uk/joaquin/profil/spieler/7663
+Málaga CF,Sergio Sánchez,25,Spain,Centre-Back,CB,£3.60m,Sevilla FC,Spain,£2.52m,In,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-sanchez/profil/spieler/38270
+Málaga CF,Joris Mathijsen,31,Netherlands,Centre-Back,CB,£4.50m,Hamburger SV,Germany,£1.58m,In,2011,s,laliga,https://www.transfermarkt.co.uk/joris-mathijsen/profil/spieler/4563
+Málaga CF,Ruud van Nistelrooy,35,Netherlands,Centre-Forward,CF,£5.40m,Hamburger SV,Germany,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/ruud-van-nistelrooy/profil/spieler/3407
+Málaga CF,Javi López,23,Spain,Right Winger,RW,£360Th.,SD Ponferradina,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/javi-lopez/profil/spieler/129653
+Málaga CF,Edu Ramos,19,Spain,Central Midfield,CM,-,CD Leganés,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/edu-ramos/profil/spieler/85365
+Málaga CF,Daniel Toribio,22,Spain,Defensive Midfield,DM,£810Th.,SD Ponferradina,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/daniel-toribio/profil/spieler/65303
+Málaga CF,David González,21,Spain,Central Midfield,CM,£90Th.,Real Oviedo Vetusta,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/david-gonzalez/profil/spieler/58887
+Málaga CF,Jordi Pablo,21,Spain,Right Midfield,RM,£630Th.,FC Cartagena,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jordi-pablo/profil/spieler/59360
+Málaga CF,Edinho,28,Portugal,Centre-Forward,CF,£1.35m,CS Marítimo,Portugal,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/edinho/profil/spieler/29366
+Sporting Gijón,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,RCD Mallorca,Spain,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/oscar-trejo/profil/spieler/30321
+Sporting Gijón,Damián Suárez,23,Uruguay,Right-Back,RB,£405Th.,Defensor Sporting Club,Uruguay,£450Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/damian-suarez/profil/spieler/76746
+Sporting Gijón,Ricardo León,28,Spain,Central Midfield,CM,£1.26m,CD Tenerife,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/ricardo-leon/profil/spieler/51516
+Sporting Gijón,Marcos Landeira,24,Spain,Central Midfield,CM,-,Real Unión Club,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/marcos-landeira/profil/spieler/57812
+Sporting Gijón,Jorge García,27,Spain,Centre-Back,CB,£720Th.,Gimnàstic de Tarragona,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-garcia/profil/spieler/57804
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Manchester City,England,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/felipe-caicedo/profil/spieler/37834
+Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Getafe CF,Spain,£180Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-pallardo/profil/spieler/36756
+Levante UD,Pedro López,27,Spain,Right-Back,RB,£1.80m,Real Valladolid CF,Spain,£180Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/25412
+Levante UD,Keylor Navas,24,Costa Rica,Goalkeeper,GK,£540Th.,Albacete Balompié,Spain,Loan fee:£135Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/keylor-navas/profil/spieler/79422
+Levante UD,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,£1.80m,Sevilla FC,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/arouna-kone/profil/spieler/8552
+Levante UD,José Javier Barkero,32,Spain,Attacking Midfield,AM,£1.80m,CD Numancia,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/jose-javier-barkero/profil/spieler/7468
+Levante UD,Francisco Farinós,33,Spain,Defensive Midfield,DM,£900Th.,Hércules CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/francisco-farinos/profil/spieler/5785
+Levante UD,Carlos Aranda,30,Spain,Centre-Forward,CF,£2.25m,CA Osasuna,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+Levante UD,Nabil El Zhar,24,Morocco,Right Winger,RW,£1.35m,Liverpool FC,England,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/nabil-el-zhar/profil/spieler/37917
+Levante UD,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Valencia CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/asier-del-horno/profil/spieler/7617
+Levante UD,Gustavo Cabral,25,Argentina,Centre-Back,CB,£900Th.,Arsenal Fútbol Club,Argentina,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/gustavo-cabral/profil/spieler/30677
+Levante UD,Marc Mateu,21,Spain,Attacking Midfield,AM,-,CD Badajoz,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/marc-mateu/profil/spieler/96539
+Getafe CF,Pablo Sarabia,19,Spain,Right Winger,RW,-,Real Madrid Castilla,Spain,£2.70m,In,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-sarabia/profil/spieler/74230
+Getafe CF,Tsepo Masilela,26,South Africa,Left-Back,LB,£900Th.,Maccabi Haifa,Israel,Loan fee:£270Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/tsepo-masilela/profil/spieler/63287
+Getafe CF,Diego Castro,28,Spain,Left Winger,LW,£5.40m,Sporting Gijón,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/diego-castro/profil/spieler/57791
+Getafe CF,Alberto Lopo,31,Spain,Centre-Back,CB,£3.60m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/alberto-lopo/profil/spieler/7881
+Getafe CF,Pedro León,24,Spain,Right Winger,RW,£5.40m,Real Madrid,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-leon/profil/spieler/51587
+Getafe CF,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,£2.70m,Racing Santander,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/mehdi-lacen/profil/spieler/35539
+Getafe CF,Míchel,25,Spain,Central Midfield,CM,£2.25m,Birmingham City,England,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/michel/profil/spieler/57818
+Getafe CF,Dani Güiza,30,Spain,Centre-Forward,CF,£3.60m,Fenerbahce SK,Turkey,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/dani-guiza/profil/spieler/8186
+Getafe CF,Juan Rodríguez,29,Spain,Defensive Midfield,DM,£3.15m,Deportivo de La Coruña,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-rodriguez/profil/spieler/15983
+Getafe CF,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Atlético Madrid,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-perez/profil/spieler/113045
+Getafe CF,Juan Valera,26,Spain,Right-Back,RB,£1.35m,Atlético Madrid,Spain,?,In,2011,s,laliga,https://www.transfermarkt.co.uk/juan-valera/profil/spieler/16595
+Getafe CF,Michelangelo Albertazzi,20,Italy,Left-Back,LB,£360Th.,Milan Primavera,Italy,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/michelangelo-albertazzi/profil/spieler/56841
+Getafe CF,Miguel Ángel Moyà,27,Spain,Goalkeeper,GK,£900Th.,Valencia CF,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-moya/profil/spieler/26065
+Getafe CF,Abdelaziz Barrada,22,Morocco,Attacking Midfield,AM,-,Getafe CF B,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/abdelaziz-barrada/profil/spieler/93664
+Getafe CF,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Levante UD,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-pallardo/profil/spieler/36756
+Getafe CF,Ibrahim Kas,23,Turkey,Centre-Back,CB,£810Th.,Besiktas JK,Turkey,"End of loanJun 30, 2010",In,2011,s,laliga,https://www.transfermarkt.co.uk/ibrahim-kas/profil/spieler/35029
+Granada CF,Pape Diakhaté,27,Senegal,Centre-Back,CB,£3.38m,Dynamo Kyiv,Ukraine,£4.05m,In,2011,s,laliga,https://www.transfermarkt.co.uk/pape-diakhate/profil/spieler/28318
+Granada CF,Fran Rico,23,Spain,Central Midfield,CM,-,Real Madrid Castilla,Spain,£900Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/fran-rico/profil/spieler/63689
+Granada CF,Yohan Mollo,22,France,Left Winger,LW,£1.62m,AS Monaco,France,£450Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/yohan-mollo/profil/spieler/60570
+Granada CF,Franco Jara,23,Argentina,Centre-Forward,CF,£4.95m,SL Benfica,Portugal,Loan fee:£360Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/franco-jara/profil/spieler/75035
+Granada CF,Toti,23,Spain,Attacking Midfield,AM,£450Th.,UD Salamanca,Spain,£180Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/toti/profil/spieler/57930
+Granada CF,Juanjo,25,Spain,Centre-Forward,CF,-,CD Guadalajara,Spain,£81Th.,In,2011,s,laliga,https://www.transfermarkt.co.uk/juanjo/profil/spieler/71140
+Granada CF,Toño,32,Spain,Goalkeeper,GK,£3.15m,Racing Santander,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/tono/profil/spieler/35536
+Granada CF,Jaime Romero,20,Spain,Right Winger,RW,£675Th.,Udinese Calcio,Italy,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/jaime-romero/profil/spieler/81998
+Granada CF,Hassan Yebda,27,Algeria,Central Midfield,CM,£4.05m,SL Benfica,Portugal,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/hassan-yebda/profil/spieler/12351
+Granada CF,Moisés Hurtado,30,Spain,Defensive Midfield,DM,£2.70m,Olympiacos Piraeus,Greece,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/moises-hurtado/profil/spieler/15764
+Granada CF,Noé Pamarot,32,France,Centre-Back,CB,£1.80m,Hércules CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/noe-pamarot/profil/spieler/5531
+Granada CF,David de Coz,31,Spain,Right-Back,RB,£450Th.,Córdoba CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/david-de-coz/profil/spieler/51555
+Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,-,Celta Vigo B,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/ikechi-anya/profil/spieler/107427
+Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,£540Th.,UD Salamanca,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/hector-yuste/profil/spieler/94414
+Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,-,Getafe CF B,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/gonzalo/profil/spieler/62944
+Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,£540Th.,Udinese Calcio,Italy,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/guilherme-siqueira/profil/spieler/44373
+Granada CF,Jorge Ribeiro,29,Portugal,Left Midfield,LM,£900Th.,SL Benfica,Portugal,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-ribeiro/profil/spieler/17286
+Granada CF,David Cortés,31,Spain,Right-Back,RB,£2.25m,Hércules CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/david-cortes/profil/spieler/7671
+Granada CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Villarreal CF,Spain,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/ikechukwu-uche/profil/spieler/44027
+Granada CF,David Ferreiro,23,Spain,Right Winger,RW,-,Zamora CF,Spain,Free transfer,In,2011,s,laliga,https://www.transfermarkt.co.uk/david-ferreiro/profil/spieler/71918
+Granada CF,Carlos Martins,29,Portugal,Attacking Midfield,AM,£5.58m,SL Benfica,Portugal,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-martins/profil/spieler/14511
+Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,-,UD Salamanca,Spain,?,In,2011,s,laliga,https://www.transfermarkt.co.uk/kabiru-akinsola/profil/spieler/97213
+Granada CF,Júlio César,24,Brazil,Goalkeeper,GK,£1.53m,SL Benfica,Portugal,Loan,In,2011,s,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/52647
+Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,£630Th.,UD Salamanca,Spain,?,In,2011,s,laliga,https://www.transfermarkt.co.uk/alex-goikoetxea/profil/spieler/71631
+Granada CF,Jonathan Rosales,21,Spain,Centre-Back,CB,-,CD Guijuelo,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/jonathan-rosales/profil/spieler/97671
+Granada CF,Matías Alonso,26,Uruguay,Centre-Forward,CF,£158Th.,Club Atlético Cerro,Uruguay,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/matias-alonso/profil/spieler/73113
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,UD Logroñés,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-barrancos/profil/spieler/93933
+Athletic Bilbao,Ander Herrera,21,Spain,Central Midfield,CM,£6.75m,Real Zaragoza,Spain,£6.75m,In,2011,s,laliga,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Athletic Bilbao,Ibai Gómez,21,Spain,Right Winger,RW,-,Bilbao Athletic,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/ibai-gomez/profil/spieler/127837
+Athletic Bilbao,Galder Cerrajería,22,Spain,Central Midfield,CM,-,Bilbao Athletic,Spain,-,In,2011,s,laliga,https://www.transfermarkt.co.uk/galder-cerrajeria/profil/spieler/128452
+Athletic Bilbao,Iban Zubiaurre,28,Spain,Right-Back,RB,£540Th.,Albacete Balompié,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/iban-zubiaurre/profil/spieler/47666
+Athletic Bilbao,Iñigo Pérez,23,Spain,Central Midfield,CM,£450Th.,SD Huesca,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/inigo-perez/profil/spieler/71579
+Athletic Bilbao,Ion Vélez,26,Spain,Centre-Forward,CF,£720Th.,CD Numancia,Spain,"End of loanJun 30, 2011",In,2011,s,laliga,https://www.transfermarkt.co.uk/ion-velez/profil/spieler/54789
+Atlético Madrid,Sergio Agüero,23,Argentina,Centre-Forward,CF,£32.40m,Manchester City,England,£36.00m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-aguero/profil/spieler/26399
+Atlético Madrid,David de Gea,20,Spain,Goalkeeper,GK,£10.80m,Manchester United,England,£22.50m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-de-gea/profil/spieler/59377
+Atlético Madrid,Elias,26,Brazil,Central Midfield,CM,£6.30m,Sporting CP,Portugal,£7.97m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/elias/profil/spieler/74600
+Atlético Madrid,Diego Forlán,32,Uruguay,Centre-Forward,CF,£9.00m,FC Internazionale,Italy,£4.50m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/diego-forlan/profil/spieler/3408
+Atlético Madrid,Tomás Ujfalusi,33,Czech Republic,Centre-Back,CB,£2.70m,Galatasaray SK,Turkey,£1.80m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/tomas-ujfalusi/profil/spieler/325
+Atlético Madrid,Ibrahima Baldé,22,Senegal,Centre-Forward,CF,£900Th.,CA Osasuna,Spain,£900Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ibrahima-balde/profil/spieler/134497
+Atlético Madrid,Borja Bastón,18,Spain,Centre-Forward,CF,-,Real Murcia CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/borja-baston/profil/spieler/85324
+Atlético Madrid,Rúben Micael,24,Portugal,Central Midfield,CM,£4.41m,Real Zaragoza,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-micael/profil/spieler/84491
+Atlético Madrid,Leandro Cabrera,20,Uruguay,Centre-Back,CB,£540Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/leandro-cabrera/profil/spieler/102423
+Atlético Madrid,Raúl García,25,Spain,Attacking Midfield,AM,£3.60m,CA Osasuna,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/raul-garcia/profil/spieler/34601
+Atlético Madrid,Fran Mérida,21,Spain,Central Midfield,CM,£2.70m,SC Braga,Portugal,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fran-merida/profil/spieler/42920
+Atlético Madrid,Juan Valera,26,Spain,Right-Back,RB,£1.35m,Getafe CF,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-valera/profil/spieler/16595
+Atlético Madrid,Dani Pacheco,20,Spain,Left Winger,LW,£90Th.,Rayo Vallecano,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/dani-pacheco/profil/spieler/28285
+Atlético Madrid,Rubén Pérez,22,Spain,Defensive Midfield,DM,£2.25m,Getafe CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-perez/profil/spieler/113045
+Atlético Madrid,Tiago,30,Portugal,Central Midfield,CM,£7.20m,Juventus FC,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/tiago/profil/spieler/8538
+FC Barcelona,Zlatan Ibrahimovic,29,Sweden,Centre-Forward,CF,£31.50m,AC Milan,Italy,£21.60m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/zlatan-ibrahimovic/profil/spieler/3455
+FC Barcelona,Bojan Krkic,20,Spain,Second Striker,SS,£13.50m,AS Roma,Italy,£10.80m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/bojan-krkic/profil/spieler/44675
+FC Barcelona,Jeffren,23,Venezuela,Right Winger,RW,£4.50m,Sporting CP,Portugal,£3.38m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jeffren/profil/spieler/53309
+FC Barcelona,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Sevilla FC,Spain,£2.70m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,VfL Wolfsburg,Germany,Loan fee:£630Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/aleksandr-hleb/profil/spieler/597
+FC Barcelona,Keirrison,23,Brazil,Centre-Forward,CF,£1.35m,Coritiba Foot Ball Club,Brazil,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/keirrison/profil/spieler/68821
+FC Barcelona,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/victor-sanchez/profil/spieler/63290
+FC Barcelona,Keirrison,22,Brazil,Centre-Forward,CF,£1.80m,Cruzeiro Esporte Clube,Brazil,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/keirrison/profil/spieler/68821
+FC Barcelona,Henrique,24,Brazil,Centre-Back,CB,£4.50m,Sociedade Esportiva Palmeiras,Brazil,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/henrique/profil/spieler/52513
+FC Barcelona,Gabriel Milito,30,Argentina,Centre-Back,CB,£5.40m,Club Atlético Independiente,Argentina,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/gabriel-milito/profil/spieler/7968
+Real Zaragoza,Ander Herrera,21,Spain,Central Midfield,CM,£6.75m,Athletic Bilbao,Spain,£6.75m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ander-herrera/profil/spieler/99343
+Real Zaragoza,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Villarreal CF,Spain,£4.50m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ikechukwu-uche/profil/spieler/44027
+Real Zaragoza,Gabi,27,Spain,Defensive Midfield,DM,£2.70m,Atlético Madrid,Spain,£2.70m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/gabi/profil/spieler/22969
+Real Zaragoza,Matteo Contini,31,Italy,Centre-Back,CB,£2.52m,AC Siena,Italy,Loan fee:£270Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/matteo-contini/profil/spieler/25318
+Real Zaragoza,Toni Doblas,30,Spain,Goalkeeper,GK,£450Th.,Xerez CD,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/toni-doblas/profil/spieler/7642
+Real Zaragoza,Saïd Boutahar,28,Netherlands,Attacking Midfield,AM,£1.35m,Al Wakrah Sports Club,Qatar,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/said-boutahar/profil/spieler/17993
+Real Zaragoza,Jorge López,32,Spain,Right Winger,RW,£1.80m,OFI Crete,Greece,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-lopez/profil/spieler/7844
+Real Zaragoza,Edmílson,34,Brazil,Defensive Midfield,DM,£720Th.,Ceará Sporting Club,Brazil,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/edmilson/profil/spieler/5343
+Real Zaragoza,Jiri Jarosik,33,Czech Republic,Centre-Back,CB,£1.62m,AC Sparta Praha,Czech Republic,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jiri-jarosik/profil/spieler/15581
+Real Zaragoza,Raúl Goni,22,Spain,Centre-Back,CB,-,FC Cartagena,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/raul-goni/profil/spieler/61869
+Real Zaragoza,Pablo,22,Brazil,Right Midfield,RM,£675Th.,Figueirense Futebol Clube,Brazil,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pablo/profil/spieler/74753
+Real Zaragoza,Víctor Laguardia,21,Spain,Centre-Back,CB,£450Th.,UD Las Palmas,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/victor-laguardia/profil/spieler/67080
+Real Zaragoza,Carlos Diogo,27,Uruguay,Right-Back,RB,£2.25m,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-diogo/profil/spieler/32233
+Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,£1.08m,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/braulio-nobrega/profil/spieler/27488
+Real Zaragoza,D. K.,-,N/A,Midfielder,Midfielder,-,,Career break,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/d-k-/profil/spieler/89662
+Real Zaragoza,Nicolás Bertolo,25,Argentina,Left Winger,LW,£2.70m,US Palermo,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/nicolas-bertolo/profil/spieler/52903
+Real Zaragoza,Marco Pérez,20,Colombia,Centre-Forward,CF,£1.80m,Boyacá Chicó FC,Colombia,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/marco-perez/profil/spieler/76648
+Real Zaragoza,Guirane N'Daw,27,Senegal,Defensive Midfield,DM,£2.25m,AS Saint-Étienne,France,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/guirane-ndaw/profil/spieler/12515
+Real Zaragoza,Florent Sinama-Pongolle,26,France,Second Striker,SS,£3.15m,Sporting CP,Portugal,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/florent-sinama-pongolle/profil/spieler/4216
+Real Betis Balompié,Achille Emaná,29,Cameroon,Attacking Midfield,AM,£6.30m,Al-Hilal Riyadh,Saudi Arabia,£4.05m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/achille-emana/profil/spieler/7020
+Real Betis Balompié,Brimah Razak,24,Ghana,Goalkeeper,GK,£90Th.,CD Tenerife,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/brimah-razak/profil/spieler/107354
+Real Betis Balompié,Juande,24,Spain,Defensive Midfield,DM,£810Th.,KVC Westerlo,Belgium,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juande/profil/spieler/36355
+Real Betis Balompié,Israel Bascón,24,Spain,Right Midfield,RM,£630Th.,Xerez CD,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/israel-bascon/profil/spieler/35519
+Real Betis Balompié,Rodri,25,Spain,Right Midfield,RM,£540Th.,CD Guadalajara,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/rodri/profil/spieler/63725
+Real Betis Balompié,Mariano Pavone,29,Argentina,Centre-Forward,CF,£1.08m,Club Atlético Lanús,Argentina,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mariano-pavone/profil/spieler/27462
+Real Betis Balompié,Arzu,30,Spain,Defensive Midfield,DM,£1.80m,Gimnàstic de Tarragona,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/arzu/profil/spieler/7653
+Real Betis Balompié,David Odonkor,27,Germany,Right Winger,RW,£630Th.,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-odonkor/profil/spieler/1716
+Real Betis Balompié,Fernando Vega,27,Spain,Left-Back,LB,£1.44m,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fernando-vega/profil/spieler/43976
+Real Betis Balompié,David Belenguer,38,Spain,Centre-Back,CB,-,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-belenguer/profil/spieler/22967
+Real Betis Balompié,Rovérsio,27,Brazil,Centre-Back,CB,£900Th.,CA Osasuna,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/roversio/profil/spieler/25110
+Real Betis Balompié,Miguel Lopes,24,Portugal,Right-Back,RB,£2.25m,FC Porto,Portugal,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-lopes/profil/spieler/59248
+RCD Mallorca,Jonathan de Guzmán,23,Netherlands,Central Midfield,CM,£4.50m,Villarreal CF,Spain,£7.20m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jonathan-de-guzman/profil/spieler/31067
+RCD Mallorca,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,Sporting Gijón,Spain,£900Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/oscar-trejo/profil/spieler/30321
+RCD Mallorca,Pierre Webó,29,Cameroon,Centre-Forward,CF,£3.60m,Istanbul Büyüksehir Belediyespor,Turkey,£675Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pierre-webo/profil/spieler/16589
+RCD Mallorca,Rubén González,29,Spain,Centre-Back,CB,£1.08m,CA Osasuna,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-gonzalez/profil/spieler/7519
+RCD Mallorca,Sergi Enrich,21,Spain,Centre-Forward,CF,£360Th.,Recreativo Huelva,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergi-enrich/profil/spieler/81988
+RCD Mallorca,Enrique Corrales,29,Spain,Left-Back,LB,£900Th.,UD Las Palmas,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/enrique-corrales/profil/spieler/25460
+RCD Mallorca,Ayoze Díaz,29,Spain,Left-Back,LB,£1.62m,Deportivo de La Coruña,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ayoze-diaz/profil/spieler/16124
+RCD Mallorca,Tuni,29,Spain,Right Winger,RW,£810Th.,Gimnàstic de Tarragona,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/tuni/profil/spieler/26062
+RCD Mallorca,Germán Lux,28,Argentina,Goalkeeper,GK,£900Th.,Deportivo de La Coruña,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/german-lux/profil/spieler/19979
+RCD Mallorca,Marvin Ogunjimi,23,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/marvin-ogunjimi/profil/spieler/33870
+CA Osasuna,Nacho Monreal,25,Spain,Left-Back,LB,£6.30m,Málaga CF,Spain,£5.40m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/nacho-monreal/profil/spieler/43003
+CA Osasuna,Javier Camuñas,30,Spain,Right Winger,RW,£2.52m,Villarreal CF,Spain,£2.07m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/javier-camunas/profil/spieler/29170
+CA Osasuna,Josetxo,34,Spain,Centre-Back,CB,£630Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/josetxo/profil/spieler/7726
+CA Osasuna,Fernando Soriano,31,Spain,Attacking Midfield,AM,£2.70m,UD Almería,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fernando-soriano/profil/spieler/7989
+CA Osasuna,Jokin Esparza,23,Spain,Left Winger,LW,£270Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jokin-esparza/profil/spieler/62966
+CA Osasuna,Carlos Aranda,30,Spain,Centre-Forward,CF,£2.25m,Levante UD,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+CA Osasuna,Wálter Pandiani,35,Uruguay,Centre-Forward,CF,£1.35m,RCD Espanyol Barcelona,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/walter-pandiani/profil/spieler/7691
+CA Osasuna,Krisztián Vadócz,26,Hungary,Central Midfield,CM,£1.35m,NEC Nijmegen,Netherlands,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/krisztian-vadocz/profil/spieler/34116
+CA Osasuna,Oier,25,Spain,Defensive Midfield,DM,£360Th.,Celta de Vigo,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/oier/profil/spieler/63040
+CA Osasuna,Nacho Zabal,24,Spain,Goalkeeper,GK,£90Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/nacho-zabal/profil/spieler/63062
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Kilmarnock FC,Scotland,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-galan/profil/spieler/62990
+CA Osasuna,Rúper,24,Spain,Central Midfield,CM,£1.80m,Elche CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ruper/profil/spieler/63012
+CA Osasuna,Nélson,28,Portugal,Right-Back,RB,£2.70m,Real Betis Balompié,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/nelson/profil/spieler/17555
+CA Osasuna,Coro,28,Spain,Centre-Forward,CF,£1.35m,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/coro/profil/spieler/15790
+Rayo Vallecano,Coke,24,Spain,Right-Back,RB,£2.25m,Sevilla FC,Spain,£1.62m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/coke/profil/spieler/71905
+Rayo Vallecano,Brayan Angulo,21,Colombia,Left-Back,LB,£450Th.,Atlético Baleares,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/brayan-angulo/profil/spieler/67866
+Rayo Vallecano,David Aganzo,30,Spain,Centre-Forward,CF,£1.35m,Hércules CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Rayo Vallecano,Borja García,20,Spain,Attacking Midfield,AM,£540Th.,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/borja-garcia/profil/spieler/67808
+Rayo Vallecano,Juan Quero,26,Spain,Left Winger,LW,£630Th.,Córdoba CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-quero/profil/spieler/51476
+Rayo Vallecano,Juan Carlos,23,Spain,Goalkeeper,GK,-,Hércules CF,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/120705
+Rayo Vallecano,Yuma,25,Spain,Central Midfield,CM,£180Th.,UD Salamanca,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/yuma/profil/spieler/72212
+Rayo Vallecano,Juli,29,Spain,Second Striker,SS,£810Th.,Asteras Tripolis,Greece,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juli/profil/spieler/57792
+Rayo Vallecano,Salva,30,Spain,Centre-Back,CB,£360Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/salva/profil/spieler/71919
+Rayo Vallecano,Carlos de la Vega,31,Spain,Right-Back,RB,£270Th.,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-de-la-vega/profil/spieler/71966
+Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.25m,Sevilla FC,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/emiliano-armenteros/profil/spieler/30747
+Rayo Vallecano,Óscar Trejo,23,Argentina,Attacking Midfield,AM,£1.35m,RCD Mallorca,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/oscar-trejo/profil/spieler/30321
+Rayo Vallecano,Antonio Amaya,28,Spain,Centre-Back,CB,£720Th.,Wigan Athletic,England,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/antonio-amaya/profil/spieler/71904
+Sevilla FC,Didier Zokora,30,Cote d'Ivoire,Defensive Midfield,DM,£9.00m,Trabzonspor,Turkey,£4.50m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/didier-zokora/profil/spieler/13389
+Sevilla FC,Diego Capel,23,Spain,Left Winger,LW,£7.20m,Sporting CP,Portugal,£3.15m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/diego-capel/profil/spieler/27471
+Sevilla FC,Sergio Sánchez,25,Spain,Centre-Back,CB,£3.60m,Málaga CF,Spain,£2.52m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-sanchez/profil/spieler/38270
+Sevilla FC,Rodri,21,Spain,Centre-Forward,CF,£450Th.,FC Barcelona B,Spain,£1.35m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/rodri/profil/spieler/117549
+Sevilla FC,Mouhamadou Dabo,24,France,Right-Back,RB,£4.50m,Olympique Lyon,France,£720Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mouhamadou-dabo/profil/spieler/33914
+Sevilla FC,Alejandro Alfaro,24,Spain,Left Winger,LW,£2.70m,RCD Mallorca,Spain,£540Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/alejandro-alfaro/profil/spieler/39783
+Sevilla FC,Arouna Koné,27,Cote d'Ivoire,Centre-Forward,CF,£1.80m,Levante UD,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/arouna-kone/profil/spieler/8552
+Sevilla FC,Juan Cala,21,Spain,Centre-Back,CB,£1.35m,AEK Athens,Greece,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-cala/profil/spieler/67089
+Sevilla FC,David Prieto,28,Spain,Centre-Back,CB,£1.35m,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-prieto/profil/spieler/35569
+Sevilla FC,Romaric,28,Cote d'Ivoire,Defensive Midfield,DM,£3.60m,RCD Espanyol Barcelona,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/romaric/profil/spieler/15808
+Sevilla FC,José Carlos,23,Spain,Attacking Midfield,AM,£900Th.,AEK Athens,Greece,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jose-carlos/profil/spieler/73244
+Sevilla FC,Bernardo Espinosa,22,Colombia,Centre-Back,CB,£270Th.,Racing Santander,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/bernardo-espinosa/profil/spieler/64598
+Sevilla FC,Lautaro Acosta,23,Argentina,Left Winger,LW,£900Th.,Racing Santander,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/lautaro-acosta/profil/spieler/45307
+Sevilla FC,Ivica Dragutinovic,35,Serbia,Centre-Back,CB,£540Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivica-dragutinovic/profil/spieler/13453
+Sevilla FC,Luca Cigarini,25,Italy,Defensive Midfield,DM,£4.05m,SSC Napoli,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/luca-cigarini/profil/spieler/33218
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+Real Madrid,Ezequiel Garay,24,Argentina,Centre-Back,CB,£9.00m,SL Benfica,Portugal,£4.95m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ezequiel-garay/profil/spieler/35939
+Real Madrid,Sergio Canales,20,Spain,Attacking Midfield,AM,£5.40m,Valencia CF,Spain,Loan fee:£1.80m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-canales/profil/spieler/66106
+Real Madrid,Fernando Gago,25,Argentina,Defensive Midfield,DM,£6.30m,AS Roma,Italy,Loan fee:£450Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fernando-gago/profil/spieler/38954
+Real Madrid,Pedro León,24,Spain,Right Winger,RW,£5.40m,Getafe CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-leon/profil/spieler/51587
+Real Madrid,Royston Drenthe,24,Netherlands,Left Midfield,LM,£3.15m,Everton FC,England,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/royston-drenthe/profil/spieler/35631
+Real Madrid,Jerzy Dudek,38,Poland,Goalkeeper,GK,-,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jerzy-dudek/profil/spieler/3209
+Real Madrid,Emmanuel Adebayor,27,Togo,Centre-Forward,CF,£15.30m,Manchester City,England,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/emmanuel-adebayor/profil/spieler/8883
+Racing Santander,Mehdi Lacen,27,Algeria,Defensive Midfield,DM,£2.70m,Getafe CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mehdi-lacen/profil/spieler/35539
+Racing Santander,Fabio Coltorti,30,Switzerland,Goalkeeper,GK,£900Th.,FC Lausanne-Sport,Switzerland,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fabio-coltorti/profil/spieler/10250
+Racing Santander,Toño,32,Spain,Goalkeeper,GK,£3.15m,Granada CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/tono/profil/spieler/35536
+Racing Santander,Brian Sarmiento,21,Argentina,Attacking Midfield,AM,£630Th.,Racing Club,Argentina,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/brian-sarmiento/profil/spieler/58319
+Racing Santander,Iván Bolado,21,Equatorial Guinea,Centre-Forward,CF,£1.35m,FC Cartagena,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-bolado/profil/spieler/57675
+Racing Santander,Khouma Babacar,19,Senegal,Centre-Forward,CF,£1.62m,ACF Fiorentina,Italy,"End of loanMay 9, 2012",Out,2011,s,laliga,https://www.transfermarkt.co.uk/khouma-babacar/profil/spieler/124902
+Racing Santander,Pablo Pinillos,36,Spain,Right-Back,RB,£360Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-pinillos/profil/spieler/23290
+Racing Santander,Henrique,24,Brazil,Centre-Back,CB,£4.50m,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/henrique/profil/spieler/52513
+Racing Santander,Giovani dos Santos,22,Mexico,Second Striker,SS,£4.50m,Tottenham Hotspur,England,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/giovani-dos-santos/profil/spieler/44674
+Racing Santander,Markus Rosenberg,28,Sweden,Centre-Forward,CF,£2.70m,SV Werder Bremen,Germany,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/markus-rosenberg/profil/spieler/27505
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£2.34m,AC Siena,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/alexandros-tziolis/profil/spieler/12883
+Real Sociedad,Diego Rivas,31,Spain,Central Midfield,CM,£2.70m,Hércules CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/diego-rivas/profil/spieler/9991
+Real Sociedad,Toño,25,Spain,Goalkeeper,GK,£180Th.,CD Guadalajara,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/tono/profil/spieler/76285
+Real Sociedad,Mikel Labaka,30,Spain,Centre-Back,CB,£1.44m,Rayo Vallecano,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mikel-labaka/profil/spieler/23247
+Real Sociedad,Iñigo Sarasola,24,Spain,Left-Back,LB,-,SD Beasain,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/inigo-sarasola/profil/spieler/61079
+Real Sociedad,Paco Sutil,26,Spain,Attacking Midfield,AM,£900Th.,Real Murcia CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/paco-sutil/profil/spieler/71211
+Real Sociedad,Iosu Esnaola,24,Spain,Centre-Back,CB,-,SD Noja,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/iosu-esnaola/profil/spieler/76270
+Real Sociedad,Raúl Tamudo,33,Spain,Centre-Forward,CF,£2.70m,Rayo Vallecano,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/raul-tamudo/profil/spieler/7899
+RCD Espanyol Barcelona,Daniel Osvaldo,25,Italy,Centre-Forward,CF,£9.00m,AS Roma,Italy,£14.40m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/daniel-osvaldo/profil/spieler/37389
+RCD Espanyol Barcelona,José Callejón,24,Spain,Right Winger,RW,£5.85m,Real Madrid,Spain,£4.50m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jose-callejon/profil/spieler/61253
+RCD Espanyol Barcelona,Luis García,30,Spain,Central Midfield,CM,£4.50m,Real Zaragoza,Spain,£900Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/8006
+RCD Espanyol Barcelona,Román Martínez,28,Argentina,Central Midfield,CM,£900Th.,Club Atlético Tigre,Argentina,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/roman-martinez/profil/spieler/53134
+RCD Espanyol Barcelona,Milan Smiljanic,24,Serbia,Defensive Midfield,DM,£1.44m,FK Partizan Belgrade,Serbia,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/milan-smiljanic/profil/spieler/34412
+RCD Espanyol Barcelona,Iván Alonso,32,Uruguay,Centre-Forward,CF,£1.80m,Deportivo Toluca,Mexico,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-alonso/profil/spieler/51583
+RCD Espanyol Barcelona,Ángel Martínez,25,Spain,Central Midfield,CM,£630Th.,Blackpool FC,England,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/angel-martinez/profil/spieler/45652
+RCD Espanyol Barcelona,David García,30,Spain,Left-Back,LB,£1.80m,Girona FC,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-garcia/profil/spieler/7878
+RCD Espanyol Barcelona,Javi Chica,26,Spain,Right-Back,RB,£1.80m,Real Betis Balompié,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/javi-chica/profil/spieler/44860
+RCD Espanyol Barcelona,Manu Molina,19,Spain,Attacking Midfield,AM,£270Th.,SD Huesca,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manu-molina/profil/spieler/160671
+RCD Espanyol Barcelona,Aldo Duscher,32,Argentina,Defensive Midfield,DM,£900Th.,Barcelona SC Guayaquil,Ecuador,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/aldo-duscher/profil/spieler/3954
+RCD Espanyol Barcelona,Coro,28,Spain,Centre-Forward,CF,£1.08m,Girona FC,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/coro/profil/spieler/15790
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,Gimnàstic de Tarragona,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/adrian-luna/profil/spieler/131113
+RCD Espanyol Barcelona,Ben Sahar,21,Israel,Centre-Forward,CF,£1.35m,AJ Auxerre,France,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ben-sahar/profil/spieler/40436
+RCD Espanyol Barcelona,Iván De La Peña,35,Spain,Attacking Midfield,AM,-,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-de-la-pena/profil/spieler/8037
+Valencia CF,Juan Mata,23,Spain,Attacking Midfield,AM,£23.40m,Chelsea FC,England,£24.03m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-mata/profil/spieler/44068
+Valencia CF,Joaquín,29,Spain,Right Winger,RW,£9.00m,Málaga CF,Spain,£3.78m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/joaquin/profil/spieler/7663
+Valencia CF,Manuel Fernandes,25,Portugal,Attacking Midfield,AM,£7.65m,Besiktas JK,Turkey,£1.80m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manuel-fernandes/profil/spieler/16791
+Valencia CF,Alejandro Domínguez,30,Argentina,Attacking Midfield,AM,£4.95m,Club Atlético River Plate,Argentina,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/alejandro-dominguez/profil/spieler/18958
+Valencia CF,César Sánchez,39,Spain,Goalkeeper,GK,£900Th.,Villarreal CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/cesar-sanchez/profil/spieler/7510
+Valencia CF,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Levante UD,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/asier-del-horno/profil/spieler/7617
+Valencia CF,Sunny,22,Nigeria,Defensive Midfield,DM,£900Th.,CD Numancia,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sunny/profil/spieler/51479
+Valencia CF,Renan,26,Brazil,Goalkeeper,GK,£1.80m,Sport Club Internacional,Brazil,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/renan/profil/spieler/27364
+Valencia CF,Ignacio González,29,Uruguay,Attacking Midfield,AM,£540Th.,Standard Liège,Belgium,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ignacio-gonzalez/profil/spieler/67648
+Valencia CF,David Navarro,31,Spain,Centre-Back,CB,£3.60m,Neuchâtel Xamax,Switzerland,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-navarro/profil/spieler/7568
+Valencia CF,Aarón Ñíguez,22,Spain,Right Winger,RW,£540Th.,UD Almería,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/aaron-niguez/profil/spieler/57943
+Valencia CF,Míchel,22,Spain,Central Midfield,CM,£1.35m,Hércules CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/michel/profil/spieler/65331
+Valencia CF,Miguel Ángel Moyà,27,Spain,Goalkeeper,GK,£900Th.,Getafe CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-moya/profil/spieler/26065
+Valencia CF,Vicente,29,Spain,Left Winger,LW,£4.50m,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/vicente/profil/spieler/7582
+Valencia CF,Marius Stankevicius,29,Lithuania,Centre-Back,CB,£2.25m,UC Sampdoria,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/marius-stankevicius/profil/spieler/5966
+Villarreal CF,Santi Cazorla,26,Spain,Central Midfield,CM,£16.20m,Málaga CF,Spain,£20.70m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/santi-cazorla/profil/spieler/15799
+Villarreal CF,Jozy Altidore,21,United States,Centre-Forward,CF,£1.98m,AZ Alkmaar,Netherlands,£1.35m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jozy-altidore/profil/spieler/39378
+Villarreal CF,Javier Matilla,22,Spain,Central Midfield,CM,£1.35m,Real Betis Balompié,Spain,£1.22m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/javier-matilla/profil/spieler/73269
+Villarreal CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Olympiacos Piraeus,Greece,Loan fee:£900Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-marcano/profil/spieler/57723
+Villarreal CF,Nicki Bille Nielsen,23,Denmark,Centre-Forward,CF,£1.62m,Elche CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/nicki-bille-nielsen/profil/spieler/46006
+Villarreal CF,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Real Betis Balompié,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Villarreal CF,Cristóbal Márquez,27,Spain,Attacking Midfield,AM,£1.08m,Karpaty Lviv,Ukraine,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/cristobal-marquez/profil/spieler/72281
+Villarreal CF,Joan Capdevila,33,Spain,Left-Back,LB,£6.30m,SL Benfica,Portugal,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/joan-capdevila/profil/spieler/7486
+Villarreal CF,Ikechukwu Uche,27,Nigeria,Centre-Forward,CF,£3.60m,Granada CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ikechukwu-uche/profil/spieler/44027
+Villarreal CF,Juan Carlos,23,Spain,Goalkeeper,GK,£900Th.,Elche CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/39004
+Villarreal CF,Xavier Oliva,35,Spain,Goalkeeper,GK,£360Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/xavier-oliva/profil/spieler/51406
+Villarreal CF,Cicinho,31,Brazil,Right-Back,RB,£1.35m,AS Roma,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/cicinho/profil/spieler/26101
+Villarreal CF,Borja Valero,26,Spain,Central Midfield,CM,£10.80m,West Bromwich Albion,England,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/borja-valero/profil/spieler/40372
+Málaga CF,Javi López,23,Spain,Right Winger,RW,£360Th.,Real Jaén CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/javi-lopez/profil/spieler/129653
+Málaga CF,David González,21,Spain,Central Midfield,CM,£90Th.,Real Oviedo Vetusta,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-gonzalez/profil/spieler/58887
+Málaga CF,Jordi Pablo,21,Spain,Right Midfield,RM,£360Th.,Villarreal CF B,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jordi-pablo/profil/spieler/59360
+Málaga CF,Manolo Gaspar,30,Spain,Right-Back,RB,£720Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manolo-gaspar/profil/spieler/44037
+Málaga CF,Daniel Toribio,22,Spain,Defensive Midfield,DM,£810Th.,Villarreal CF B,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/daniel-toribio/profil/spieler/65303
+Málaga CF,Manu Torres,21,Spain,Centre-Back,CB,£900Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manu-torres/profil/spieler/99727
+Málaga CF,Edu Ramos,19,Spain,Central Midfield,CM,-,FC Villarreal C,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/edu-ramos/profil/spieler/85365
+Málaga CF,Patrick Mtiliga,30,Denmark,Left-Back,LB,£1.35m,FC Nordsjaelland,Denmark,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/patrick-mtiliga/profil/spieler/19058
+Málaga CF,Sandro Silva,27,Brazil,Defensive Midfield,DM,£1.80m,Sport Club Internacional,Brazil,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sandro-silva/profil/spieler/74536
+Málaga CF,Fernando,32,Spain,Attacking Midfield,AM,£900Th.,,Without Club,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/15721
+Málaga CF,Francesc Arnau,36,Spain,Goalkeeper,GK,-,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/francesc-arnau/profil/spieler/7770
+Málaga CF,Sergio Asenjo,22,Spain,Goalkeeper,GK,£4.50m,Atlético Madrid,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergio-asenjo/profil/spieler/51710
+Málaga CF,Quincy Owusu-Abeyie,25,Ghana,Left Winger,LW,£1.80m,Al Sadd Sports Club,Qatar,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/quincy-owusu-abeyie/profil/spieler/14551
+Sporting Gijón,José Ángel,21,Spain,Left-Back,LB,£2.70m,AS Roma,Italy,£4.05m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jose-angel/profil/spieler/87469
+Sporting Gijón,Diego Castro,28,Spain,Left Winger,LW,£5.40m,Getafe CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/diego-castro/profil/spieler/57791
+Sporting Gijón,Jorge García,27,Spain,Centre-Back,CB,£720Th.,Real Murcia CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jorge-garcia/profil/spieler/57804
+Sporting Gijón,Rafael Sastre,35,Spain,Right-Back,RB,£450Th.,SD Huesca,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/rafael-sastre/profil/spieler/57841
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Lokomotiv Moscow,Russia,£6.75m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/felipe-caicedo/profil/spieler/37834
+Levante UD,Manolo Reina,26,Spain,Goalkeeper,GK,£1.80m,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manolo-reina/profil/spieler/29051
+Levante UD,Gorka Larrea,27,Spain,Central Midfield,CM,£540Th.,CD Numancia,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/gorka-larrea/profil/spieler/35563
+Levante UD,David Cerra,27,Spain,Right-Back,RB,£540Th.,Córdoba CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-cerra/profil/spieler/25041
+Levante UD,Xisco Nadal,25,Spain,Right Winger,RW,£900Th.,,Unknown,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/xisco-nadal/profil/spieler/15800
+Levante UD,Xisco,30,Spain,Second Striker,SS,£900Th.,Dinamo Tbilisi,Georgia,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/xisco/profil/spieler/15465
+Levante UD,Miquel Robusté,26,Spain,Centre-Back,CB,£630Th.,Xerez CD,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/miquel-robuste/profil/spieler/51477
+Levante UD,Sergio,34,Spain,Central Midfield,CM,£900Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/sergio/profil/spieler/7500
+Levante UD,Miguel Pérez,31,Spain,Right Midfield,RM,£540Th.,,Retired,-,Out,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-perez/profil/spieler/22578
+Levante UD,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Getafe CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-pallardo/profil/spieler/36756
+Levante UD,Felipe Caicedo,22,Ecuador,Centre-Forward,CF,£4.50m,Manchester City,England,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/felipe-caicedo/profil/spieler/37834
+Levante UD,Cristhian Stuani,24,Uruguay,Centre-Forward,CF,£2.25m,Reggina Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/cristhian-stuani/profil/spieler/59323
+Levante UD,Asier del Horno,30,Spain,Left-Back,LB,£900Th.,Valencia CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/asier-del-horno/profil/spieler/7617
+Levante UD,Jefferson Montero,21,Ecuador,Left Winger,LW,£2.70m,Villarreal CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/jefferson-montero/profil/spieler/77932
+Getafe CF,Dani Parejo,22,Spain,Central Midfield,CM,£7.20m,Valencia CF,Spain,£5.40m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/dani-parejo/profil/spieler/59561
+Getafe CF,Derek Boateng,28,Ghana,Defensive Midfield,DM,£2.25m,Dnipro Dnipropetrovsk,Ukraine,£4.39m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/derek-boateng/profil/spieler/18091
+Getafe CF,Manu del Moral,27,Spain,Centre-Forward,CF,£4.95m,Sevilla FC,Spain,£4.05m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/manu-del-moral/profil/spieler/37399
+Getafe CF,Juan Albín,24,Uruguay,Attacking Midfield,AM,£2.25m,RCD Espanyol Barcelona,Spain,£2.70m,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-albin/profil/spieler/44139
+Getafe CF,Miguel Pallardó,24,Spain,Central Midfield,CM,£1.80m,Levante UD,Spain,£180Th.,Out,2011,s,laliga,https://www.transfermarkt.co.uk/miguel-pallardo/profil/spieler/36756
+Getafe CF,Ibrahim Kas,24,Turkey,Centre-Back,CB,£810Th.,Bursaspor,Turkey,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ibrahim-kas/profil/spieler/35029
+Getafe CF,Mario Álvarez,29,Spain,Centre-Back,CB,£1.35m,Real Betis Balompié,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mario-alvarez/profil/spieler/7803
+Getafe CF,Borja Fernández,30,Spain,Defensive Midfield,DM,£1.62m,Deportivo de La Coruña,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/borja-fernandez/profil/spieler/7512
+Getafe CF,Adrián Sardinero,20,Spain,Right Winger,RW,£270Th.,Hércules CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/adrian-sardinero/profil/spieler/125870
+Getafe CF,Javier Arizmendi,27,Spain,Centre-Forward,CF,£2.70m,Neuchâtel Xamax,Switzerland,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/javier-arizmendi/profil/spieler/25411
+Getafe CF,Iván Marcano,24,Spain,Centre-Back,CB,£3.60m,Villarreal CF,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/ivan-marcano/profil/spieler/57723
+Getafe CF,Víctor Sánchez,23,Spain,Central Midfield,CM,£900Th.,FC Barcelona,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/victor-sanchez/profil/spieler/63290
+Granada CF,Granada,31,Spain,Attacking Midfield,AM,£180Th.,UD Melilla,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/granada/profil/spieler/71031
+Granada CF,Juan José Collantes,28,Spain,Right Winger,RW,£360Th.,FC Cartagena,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juan-jose-collantes/profil/spieler/72194
+Granada CF,David Ferreiro,23,Spain,Right Winger,RW,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-ferreiro/profil/spieler/71918
+Granada CF,Óscar Pérez,29,Spain,Central Midfield,CM,£540Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/oscar-perez/profil/spieler/51520
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pedro-barrancos/profil/spieler/93933
+Granada CF,Toti,23,Spain,Attacking Midfield,AM,£450Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/toti/profil/spieler/57930
+Granada CF,Jonathan Rosales,21,Spain,Centre-Back,CB,-,UD Maracena,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jonathan-rosales/profil/spieler/97671
+Granada CF,David de Coz,31,Spain,Right-Back,RB,£450Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/david-de-coz/profil/spieler/51555
+Granada CF,Matías Alonso,26,Uruguay,Centre-Forward,CF,£270Th.,Zamora CF,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/matias-alonso/profil/spieler/73113
+Granada CF,Juanjo,25,Spain,Centre-Forward,CF,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/juanjo/profil/spieler/71140
+Granada CF,Gonzalo,23,Spain,Goalkeeper,GK,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/gonzalo/profil/spieler/62944
+Granada CF,Rafa Martínez,24,Spain,Goalkeeper,GK,-,Montañeros CF,Spain,?,Out,2011,s,laliga,https://www.transfermarkt.co.uk/rafa-martinez/profil/spieler/75294
+Granada CF,Kabiru Akinsola,20,Nigeria,Centre-Forward,CF,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/kabiru-akinsola/profil/spieler/97213
+Granada CF,Jeison Murillo,19,Colombia,Centre-Back,CB,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/jeison-murillo/profil/spieler/131102
+Granada CF,Fabián Orellana,25,Chile,Right Winger,RW,£1.62m,Celta de Vigo,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/fabian-orellana/profil/spieler/60890
+Granada CF,Álex Goikoetxea,28,Spain,Centre-Back,CB,£630Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/alex-goikoetxea/profil/spieler/71631
+Granada CF,Ikechi Anya,23,Scotland,Left Midfield,LM,-,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ikechi-anya/profil/spieler/107427
+Granada CF,Héctor Yuste,23,Spain,Centre-Back,CB,£540Th.,Cádiz CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/hector-yuste/profil/spieler/94414
+Granada CF,Álex Cruz,21,Spain,Right Winger,RW,£720Th.,CE Sabadell,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/alex-cruz/profil/spieler/92939
+Granada CF,Henrique Almeida,21,Brazil,Centre-Forward,CF,£1.80m,São Paulo Futebol Clube,Brazil,"End of loanMay 31, 2012",Out,2011,s,laliga,https://www.transfermarkt.co.uk/henrique-almeida/profil/spieler/103743
+Granada CF,Jonathan Mensah,20,Ghana,Centre-Back,CB,£630Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/jonathan-mensah/profil/spieler/110622
+Granada CF,Carlos Calvo,25,Spain,Attacking Midfield,AM,£810Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/carlos-calvo/profil/spieler/57924
+Granada CF,Guilherme Siqueira,25,Brazil,Left-Back,LB,£540Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/guilherme-siqueira/profil/spieler/44373
+Granada CF,Rubén Párraga,26,Spain,Left-Back,LB,£450Th.,Udinese Calcio,Italy,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/ruben-parraga/profil/spieler/29058
+Granada CF,Juande,24,Spain,Defensive Midfield,DM,£810Th.,Real Betis Balompié,Spain,"End of loanJun 30, 2011",Out,2011,s,laliga,https://www.transfermarkt.co.uk/juande/profil/spieler/36355
+Athletic Bilbao,Ion Vélez,26,Spain,Centre-Forward,CF,£720Th.,Girona FC,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ion-velez/profil/spieler/54789
+Athletic Bilbao,Urko Vera,24,Spain,Centre-Forward,CF,£360Th.,Hércules CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/urko-vera/profil/spieler/92975
+Athletic Bilbao,Mikel Balenziaga,23,Spain,Left-Back,LB,£720Th.,Real Valladolid CF,Spain,Free transfer,Out,2011,s,laliga,https://www.transfermarkt.co.uk/mikel-balenziaga/profil/spieler/85258
+Athletic Bilbao,Ustaritz,28,Spain,Centre-Back,CB,£1.62m,Real Betis Balompié,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/ustaritz/profil/spieler/35554
+Athletic Bilbao,Pablo Orbaiz,32,Spain,Defensive Midfield,DM,£2.25m,Olympiacos Piraeus,Greece,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/pablo-orbaiz/profil/spieler/7633
+Athletic Bilbao,Iñigo Díaz de Cerio,27,Spain,Centre-Forward,CF,£900Th.,CD Numancia,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/inigo-diaz-de-cerio/profil/spieler/38193
+Athletic Bilbao,Galder Cerrajería,22,Spain,Central Midfield,CM,£270Th.,Real Murcia CF,Spain,Loan,Out,2011,s,laliga,https://www.transfermarkt.co.uk/galder-cerrajeria/profil/spieler/128452
+Atlético Madrid,Pizzi,22,Portugal,Right Midfield,RM,£6.75m,SC Braga,Portugal,£12.15m,In,2011,w,laliga,https://www.transfermarkt.co.uk/pizzi/profil/spieler/64339
+Atlético Madrid,Fran Mérida,21,Spain,Central Midfield,CM,£2.70m,SC Braga,Portugal,"End of loanDec 1, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/fran-merida/profil/spieler/42920
+FC Barcelona,Isaac Cuenca,20,Spain,Left Midfield,LM,£90Th.,FC Barcelona B,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/isaac-cuenca/profil/spieler/176285
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,VfL Wolfsburg,Germany,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/aleksandr-hleb/profil/spieler/597
+FC Barcelona,Keirrison,23,Brazil,Centre-Forward,CF,£1.35m,Cruzeiro Esporte Clube,Brazil,"End of loanMar 31, 2012",In,2011,w,laliga,https://www.transfermarkt.co.uk/keirrison/profil/spieler/68821
+Real Zaragoza,Apoño,27,Spain,Central Midfield,CM,£3.60m,Málaga CF,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/apono/profil/spieler/58013
+Real Zaragoza,Carlos Aranda,31,Spain,Centre-Forward,CF,£2.25m,Levante UD,Spain,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+Real Zaragoza,Tomislav Dujmovic,30,Croatia,Central Midfield,CM,£1.80m,Dynamo Moscow,Russia,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/tomislav-dujmovic/profil/spieler/27986
+Real Zaragoza,Pablo Álvarez,27,Argentina,Right-Back,RB,£1.17m,Calcio Catania,Italy,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/pablo-alvarez/profil/spieler/55993
+Real Betis Balompié,Paulão,29,Brazil,Centre-Back,CB,£2.25m,AS Saint-Étienne,France,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/paulao/profil/spieler/44700
+RCD Mallorca,Marvin Ogunjimi,24,Belgium,Centre-Forward,CF,£3.15m,KRC Genk,Belgium,"End of loanDec 1, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/marvin-ogunjimi/profil/spieler/33870
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Kilmarnock FC,Scotland,"End of loanDec 1, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/jorge-galan/profil/spieler/62990
+Rayo Vallecano,Diego Costa,23,Spain,Centre-Forward,CF,£4.50m,Atlético Madrid,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/diego-costa/profil/spieler/44779
+Rayo Vallecano,Joel Robles,21,Spain,Goalkeeper,GK,£1.80m,Atlético Madrid,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/joel-robles/profil/spieler/101118
+Rayo Vallecano,Jorge Pulido,20,Spain,Centre-Back,CB,£450Th.,Atlético Madrid,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/jorge-pulido/profil/spieler/67546
+Rayo Vallecano,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.70m,Sevilla FC,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/emiliano-armenteros/profil/spieler/30747
+Sevilla FC,José Antonio Reyes,28,Spain,Right Winger,RW,£13.50m,Atlético Madrid,Spain,£3.15m,In,2011,w,laliga,https://www.transfermarkt.co.uk/jose-antonio-reyes/profil/spieler/7717
+Sevilla FC,Baba Diawara,24,Senegal,Centre-Forward,CF,£2.70m,CS Marítimo,Portugal,£2.70m,In,2011,w,laliga,https://www.transfermarkt.co.uk/baba-diawara/profil/spieler/69819
+Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,£270Th.,Córdoba CF,Spain,£1.08m,In,2011,w,laliga,https://www.transfermarkt.co.uk/javi-hervas/profil/spieler/184218
+Sevilla FC,Juan Cala,22,Spain,Centre-Back,CB,£1.35m,AEK Athens,Greece,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/juan-cala/profil/spieler/67089
+Racing Santander,Khouma Babacar,18,Senegal,Centre-Forward,CF,£1.80m,ACF Fiorentina,Italy,Loan fee:£315Th.,In,2011,w,laliga,https://www.transfermarkt.co.uk/khouma-babacar/profil/spieler/124902
+Racing Santander,Marcos Gullón,22,Spain,Central Midfield,CM,£1.35m,Villarreal CF B,Spain,?,In,2011,w,laliga,https://www.transfermarkt.co.uk/marcos-gullon/profil/spieler/73254
+Racing Santander,Damián Ísmodes,22,Peru,Attacking Midfield,AM,£360Th.,Universitario de Deportes,Peru,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/damian-ismodes/profil/spieler/63451
+Real Sociedad,Rubén Pardo,19,Spain,Central Midfield,CM,-,Real Sociedad B,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/ruben-pardo/profil/spieler/99352
+Real Sociedad,Borja Viguera,24,Spain,Centre-Forward,CF,£270Th.,Gimnàstic de Tarragona,Spain,"End of loanDec 1, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/borja-viguera/profil/spieler/61344
+RCD Espanyol Barcelona,Víctor Sánchez,24,Spain,Central Midfield,CM,£900Th.,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/victor-sanchez/profil/spieler/63290
+RCD Espanyol Barcelona,Kalu Uche,29,Nigeria,Centre-Forward,CF,£3.15m,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/kalu-uche/profil/spieler/6585
+RCD Espanyol Barcelona,Philippe Coutinho,19,Brazil,Attacking Midfield,AM,£7.20m,FC Internazionale,Italy,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/philippe-coutinho/profil/spieler/80444
+RCD Espanyol Barcelona,Raúl Rodríguez,23,Spain,Centre-Back,CB,-,RCD Espanyol B,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/raul-rodriguez/profil/spieler/72935
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,Gimnàstic de Tarragona,Spain,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/adrian-luna/profil/spieler/131113
+Villarreal CF,Alejandro Martinuccio,24,Argentina,Centre-Forward,CF,£1.80m,Fluminense Football Club,Brazil,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/alejandro-martinuccio/profil/spieler/68558
+Villarreal CF,Joselu,20,Spain,Centre-Forward,CF,£180Th.,Villarreal CF B,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/joselu/profil/spieler/143044
+Villarreal CF,Gonzalo Castellani,24,Argentina,Attacking Midfield,AM,£360Th.,Villarreal CF B,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/gonzalo-castellani/profil/spieler/87840
+Málaga CF,Carlos Kameni,27,Cameroon,Goalkeeper,GK,£1.80m,RCD Espanyol Barcelona,Spain,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/carlos-kameni/profil/spieler/7914
+Sporting Gijón,Adrián Colunga,27,Spain,Centre-Forward,CF,£3.60m,Getafe CF,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/adrian-colunga/profil/spieler/57866
+Sporting Gijón,Raúl Domínguez,25,Spain,Goalkeeper,GK,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/raul-dominguez/profil/spieler/89477
+Sporting Gijón,Formose Mendy,22,Guinea-Bissau,Right Midfield,RM,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/formose-mendy/profil/spieler/98313
+Sporting Gijón,Alejandro Gálvez,22,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/alejandro-galvez/profil/spieler/128488
+Sporting Gijón,Pedro Orfila,23,Spain,Centre-Back,CB,-,Sporting de Gijón B ,Spain,-,In,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-orfila/profil/spieler/89508
+Levante UD,Pedro Botelho,22,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-botelho/profil/spieler/26239
+Levante UD,David Navarro,31,Spain,Centre-Back,CB,£1.17m,Neuchâtel Xamax,Switzerland,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/david-navarro/profil/spieler/7568
+Levante UD,Abdelkader Ghezzal,27,Algeria,Centre-Forward,CF,£2.70m,AS Bari,Italy,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/abdelkader-ghezzal/profil/spieler/76406
+Levante UD,Óscar Serrano,30,Spain,Left Midfield,LM,£1.80m,Racing Santander,Spain,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/oscar-serrano/profil/spieler/26373
+Getafe CF,Alexis Ruano,26,Spain,Centre-Back,CB,£2.25m,Sevilla FC,Spain,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/alexis-ruano/profil/spieler/7781
+Getafe CF,Javier Arizmendi,27,Spain,Centre-Forward,CF,£1.80m,Neuchâtel Xamax,Switzerland,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/javier-arizmendi/profil/spieler/25411
+Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,£2.25m,Sociedade Esportiva Palmeiras,Brazil,£3.60m,In,2011,w,laliga,https://www.transfermarkt.co.uk/gabriel-silva/profil/spieler/114340
+Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,£1.62m,KRC Genk,Belgium,£900Th.,In,2011,w,laliga,https://www.transfermarkt.co.uk/daniel-pudil/profil/spieler/35583
+Granada CF,Henrique Almeida,20,Brazil,Centre-Forward,CF,£1.08m,São Paulo Futebol Clube,Brazil,Loan fee:£450Th.,In,2011,w,laliga,https://www.transfermarkt.co.uk/henrique-almeida/profil/spieler/103743
+Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,-,Orihuela CF,Spain,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/jose-maria-cases/profil/spieler/73070
+Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,£1.17m,Audax Italiano,Chile,Free transfer,In,2011,w,laliga,https://www.transfermarkt.co.uk/matias-campos-toro/profil/spieler/73408
+Granada CF,Borja Gómez,23,Spain,Centre-Back,CB,£450Th.,Karpaty Lviv,Ukraine,Loan,In,2011,w,laliga,https://www.transfermarkt.co.uk/borja-gomez/profil/spieler/65060
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,"End of loanDec 31, 2011",In,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-barrancos/profil/spieler/93933
+Atlético Madrid,José Antonio Reyes,28,Spain,Right Winger,RW,£13.50m,Sevilla FC,Spain,£3.15m,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jose-antonio-reyes/profil/spieler/7717
+Atlético Madrid,Joel Robles,21,Spain,Goalkeeper,GK,£1.80m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/joel-robles/profil/spieler/101118
+Atlético Madrid,Jorge Pulido,20,Spain,Centre-Back,CB,£450Th.,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jorge-pulido/profil/spieler/67546
+Atlético Madrid,Diego Costa,23,Spain,Centre-Forward,CF,£4.50m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/diego-costa/profil/spieler/44779
+Atlético Madrid,Pizzi,22,Portugal,Right Midfield,RM,£6.75m,SC Braga,Portugal,"End of loanDec 31, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/pizzi/profil/spieler/64339
+FC Barcelona,Maxwell,30,Brazil,Left-Back,LB,£6.30m,Paris Saint-Germain,France,£3.15m,Out,2011,w,laliga,https://www.transfermarkt.co.uk/maxwell/profil/spieler/4317
+FC Barcelona,Aleksandr Hleb,30,Belarus,Attacking Midfield,AM,£3.15m,Krylya Sovetov Samara,Russia,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/aleksandr-hleb/profil/spieler/597
+Real Zaragoza,Leonardo Ponzio,29,Argentina,Defensive Midfield,DM,£2.70m,Club Atlético River Plate,Argentina,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/leonardo-ponzio/profil/spieler/7987
+Real Zaragoza,Antonio Tomás,27,Spain,Central Midfield,CM,£1.35m,CSKA Sofia,Bulgaria,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/antonio-tomas/profil/spieler/37340
+Real Zaragoza,Braulio Nóbrega,26,Spain,Centre-Forward,CF,£1.08m,,Without Club,-,Out,2011,w,laliga,https://www.transfermarkt.co.uk/braulio-nobrega/profil/spieler/27488
+Real Zaragoza,Fernando Meira,33,Portugal,Centre-Back,CB,£1.80m,,Retired,-,Out,2011,w,laliga,https://www.transfermarkt.co.uk/fernando-meira/profil/spieler/1432
+Real Zaragoza,Efraín Juárez,23,Mexico,Right-Back,RB,£1.35m,Celtic FC,Scotland,"End of loanDec 31, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/efrain-juarez/profil/spieler/66130
+Real Betis Balompié,Ezequiel Calvente,21,Spain,Right Winger,RW,£1.35m,CE Sabadell,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/ezequiel-calvente/profil/spieler/153739
+Real Betis Balompié,Momo,29,Spain,Left Winger,LW,£1.62m,UD Las Palmas,Spain,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/momo/profil/spieler/25319
+Real Betis Balompié,Dusko Tosic,26,Serbia,Centre-Back,CB,£1.35m,Red Star Belgrade,Serbia,"End of loanDec 31, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/dusko-tosic/profil/spieler/17184
+RCD Mallorca,Edson Ratinho,25,Brazil,Right-Back,RB,£900Th.,Mogi Mirim Esporte Clube (SP),Brazil,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/edson-ratinho/profil/spieler/50778
+RCD Mallorca,Akihiro Ienaga,25,Japan,Attacking Midfield,AM,£900Th.,Ulsan Hyundai,"Korea, South",Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/akihiro-ienaga/profil/spieler/86167
+CA Osasuna,Jorge Galán,22,Spain,Centre-Forward,CF,£270Th.,Real Unión Club,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jorge-galan/profil/spieler/62990
+Rayo Vallecano,Néstor Susaeta,27,Spain,Right Winger,RW,£540Th.,FC Lausanne-Sport,Switzerland,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/nestor-susaeta/profil/spieler/51488
+Rayo Vallecano,Koke,28,Spain,Centre-Forward,CF,£900Th.,FK Baku,Azerbaijan,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/koke/profil/spieler/16132
+Rayo Vallecano,Rafa García,25,Spain,Central Midfield,CM,£450Th.,Xerez CD,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/rafa-garcia/profil/spieler/126015
+Rayo Vallecano,Pedro Botelho,22,Brazil,Left-Back,LB,£1.35m,Arsenal FC,England,"End of loanJan 19, 2012",Out,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-botelho/profil/spieler/26239
+Rayo Vallecano,Jordi Figueras,24,Spain,Centre-Back,CB,£1.35m,Rubin Kazan,Russia,"End of loanJan 19, 2012",Out,2011,w,laliga,https://www.transfermarkt.co.uk/jordi-figueras/profil/spieler/62941
+Sevilla FC,Martín Cáceres,24,Uruguay,Centre-Back,CB,£6.30m,Juventus FC,Italy,Loan fee:£1.35m,Out,2011,w,laliga,https://www.transfermarkt.co.uk/martin-caceres/profil/spieler/54935
+Sevilla FC,Alexis Ruano,26,Spain,Centre-Back,CB,£2.25m,Getafe CF,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/alexis-ruano/profil/spieler/7781
+Sevilla FC,Javi Hervás,22,Spain,Central Midfield,CM,£270Th.,Córdoba CF,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/javi-hervas/profil/spieler/184218
+Sevilla FC,Emiliano Armenteros,25,Argentina,Left Winger,LW,£2.70m,Rayo Vallecano,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/emiliano-armenteros/profil/spieler/30747
+Racing Santander,Ariel Nahuelpán,24,Argentina,Centre-Forward,CF,£1.35m,LDU Quito,Ecuador,£1.71m,Out,2011,w,laliga,https://www.transfermarkt.co.uk/ariel-nahuelpan/profil/spieler/68562
+Racing Santander,Alexandros Tziolis,26,Greece,Defensive Midfield,DM,£1.80m,AS Monaco,France,£180Th.,Out,2011,w,laliga,https://www.transfermarkt.co.uk/alexandros-tziolis/profil/spieler/12883
+Racing Santander,Óscar Serrano,30,Spain,Left Midfield,LM,£1.80m,Levante UD,Spain,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/oscar-serrano/profil/spieler/26373
+Racing Santander,Damián Ísmodes,22,Peru,Attacking Midfield,AM,£360Th.,Club Cienciano,Peru,?,Out,2011,w,laliga,https://www.transfermarkt.co.uk/damian-ismodes/profil/spieler/63451
+Real Sociedad,Borja Viguera,24,Spain,Centre-Forward,CF,£270Th.,Albacete Balompié,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/borja-viguera/profil/spieler/61344
+Real Sociedad,Jeffrey Sarpong,23,Netherlands,Left Winger,LW,£900Th.,NAC Breda,Netherlands,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jeffrey-sarpong/profil/spieler/35529
+Real Sociedad,McDonald Mariga,24,Kenya,Defensive Midfield,DM,£6.30m,FC Internazionale,Italy,"End of loanDec 1, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/mcdonald-mariga/profil/spieler/37124
+RCD Espanyol Barcelona,Jesús Dátolo,27,Argentina,Attacking Midfield,AM,£2.70m,Sport Club Internacional,Brazil,£2.70m,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jesus-datolo/profil/spieler/30759
+RCD Espanyol Barcelona,Carlos Kameni,27,Cameroon,Goalkeeper,GK,£1.80m,Málaga CF,Spain,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/carlos-kameni/profil/spieler/7914
+RCD Espanyol Barcelona,Adrián Luna,19,Uruguay,Right Winger,RW,£900Th.,CE Sabadell,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/adrian-luna/profil/spieler/131113
+Villarreal CF,Gerard Bordas,30,Spain,Centre-Forward,CF,£720Th.,Villarreal CF B,Spain,-,Out,2011,w,laliga,https://www.transfermarkt.co.uk/gerard-bordas/profil/spieler/73204
+Málaga CF,Apoño,27,Spain,Central Midfield,CM,£3.60m,Real Zaragoza,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/apono/profil/spieler/58013
+Málaga CF,Kris Stadsgaard,26,Denmark,Centre-Back,CB,£1.35m,FC Copenhagen,Denmark,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/kris-stadsgaard/profil/spieler/22931
+Málaga CF,Edinho,29,Portugal,Centre-Forward,CF,£900Th.,Académica Coimbra,Portugal,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/edinho/profil/spieler/29366
+Sporting Gijón,Luis Morán,24,Spain,Centre-Forward,CF,£1.62m,AEK Larnaca,Cyprus,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/luis-moran/profil/spieler/57826
+Sporting Gijón,Nacho Novo,32,Spain,Right Winger,RW,£1.62m,Legia Warszawa,Poland,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/nacho-novo/profil/spieler/12844
+Levante UD,Nano,31,Spain,Centre-Back,CB,£1.35m,Guizhou Renhe,China,£450Th.,Out,2011,w,laliga,https://www.transfermarkt.co.uk/nano/profil/spieler/22974
+Levante UD,Carlos Aranda,31,Spain,Centre-Forward,CF,£2.25m,Real Zaragoza,Spain,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+Levante UD,Marc Mateu,21,Spain,Attacking Midfield,AM,£180Th.,Real Zaragoza B,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/marc-mateu/profil/spieler/96539
+Levante UD,Héctor Rodas,23,Spain,Centre-Back,CB,£450Th.,Elche CF,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/hector-rodas/profil/spieler/72286
+Levante UD,Rafa Jordá,28,Spain,Centre-Forward,CF,£810Th.,Guizhou Renhe,China,Free transfer,Out,2011,w,laliga,https://www.transfermarkt.co.uk/rafa-jorda/profil/spieler/51578
+Levante UD,Wellington Silva,18,Brazil,Right Winger,RW,£630Th.,Arsenal FC,England,"End of loanDec 31, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/wellington-silva/profil/spieler/121990
+Getafe CF,Pedro Mosquera,23,Spain,Central Midfield,CM,£630Th.,Real Madrid Castilla,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-mosquera/profil/spieler/44069
+Getafe CF,Adrián Colunga,27,Spain,Centre-Forward,CF,£3.60m,Sporting Gijón,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/adrian-colunga/profil/spieler/57866
+Getafe CF,Pablo Pintos,24,Uruguay,Right-Back,RB,£1.08m,Defensor Sporting Club,Uruguay,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/pablo-pintos/profil/spieler/76728
+Getafe CF,Michelangelo Albertazzi,20,Italy,Left-Back,LB,£360Th.,AC Milan,Italy,"End of loanDec 1, 2011",Out,2011,w,laliga,https://www.transfermarkt.co.uk/michelangelo-albertazzi/profil/spieler/56841
+Granada CF,Yohan Mollo,22,France,Left Winger,LW,£1.80m,AS Nancy-Lorraine,France,Loan fee:£135Th.,Out,2011,w,laliga,https://www.transfermarkt.co.uk/yohan-mollo/profil/spieler/60570
+Granada CF,Matías Campos Toro,22,Chile,Left-Back,LB,£1.17m,CD Universidad Católica,Chile,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/matias-campos-toro/profil/spieler/73408
+Granada CF,José María Cases,25,Spain,Attacking Midfield,AM,-,Cádiz CF,Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jose-maria-cases/profil/spieler/73070
+Granada CF,Gabriel Silva,20,Brazil,Left-Back,LB,£2.25m,Novara Calcio 1908,Italy,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/gabriel-silva/profil/spieler/114340
+Granada CF,Pedro Barrancos,23,Spain,Attacking Midfield,AM,-,CF La Unión (liq.),Spain,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/pedro-barrancos/profil/spieler/93933
+Granada CF,Daniel Pudil,26,Czech Republic,Left-Back,LB,£1.98m,AC Cesena,Italy,Loan,Out,2011,w,laliga,https://www.transfermarkt.co.uk/daniel-pudil/profil/spieler/35583
+Granada CF,Jorge Ribeiro,30,Portugal,Left Midfield,LM,£900Th.,,Without Club,-,Out,2011,w,laliga,https://www.transfermarkt.co.uk/jorge-ribeiro/profil/spieler/17286

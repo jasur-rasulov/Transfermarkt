@@ -1,423 +1,424 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Milan AC,Jean-Pierre Papin,28,France,Centre-Forward,CF,-,Olympique Marseille,France,£10.80m,In,1992,s,serie-a
-Milan AC,Gianluigi Lentini,23,Italy,Right Winger,RW,-,Torino Calcio,Italy,£8.60m,In,1992,s,serie-a
-Milan AC,Dejan Savicevic,25,Montenegro,Attacking Midfield,AM,-,Red Star Belgrade,Serbia,£4.14m,In,1992,s,serie-a
-Milan AC,Fernando De Napoli,28,Italy,Central Midfield,CM,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Milan AC,Guido Bistazzoni,32,Italy,Goalkeeper,GK,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a
-Milan AC,Martino Traversa,18,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a
-Milan AC,Davide Dionigi,18,Italy,Centre-Forward,CF,-,Modena FC,Italy,?,In,1992,s,serie-a
-Milan AC,Stefano Eranio,25,Italy,Right Midfield,RM,-,Genoa 1893,Italy,?,In,1992,s,serie-a
-Milan AC,Carlo Cudicini,18,Italy,Goalkeeper,GK,-,Milan Primavera,Italy,-,In,1992,s,serie-a
-Milan AC,Giuseppe Cardone,18,Italy,Right-Back,RB,-,Milan Primavera,Italy,-,In,1992,s,serie-a
-Milan AC,Costantino Borneo,19,Italy,Centre-Forward,CF,-,Milan Primavera,Italy,-,In,1992,s,serie-a
-Milan AC,Giuseppe Zappella,19,Italy,Right-Back,RB,-,Milan Primavera,Italy,-,In,1992,s,serie-a
-AS Roma,Sinisa Mihajlovic,23,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,£4.05m,In,1992,s,serie-a
-AS Roma,Fabio Petruzzi,21,Italy,Centre-Back,CB,-,US Casertana,Italy,?,In,1992,s,serie-a
-AS Roma,Dario Rossi,19,Italy,Defender,Defender,-,PC Ternana,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Gheorghe Hagi,27,Romania,Attacking Midfield,AM,-,Real Madrid,Spain,£1.80m,In,1992,s,serie-a
-Brescia Calcio,Ovidiu Sabau,24,Romania,Central Midfield,CM,-,Feyenoord Rotterdam,Netherlands,£1.43m,In,1992,s,serie-a
-Brescia Calcio,Gabriele Pelati,18,Italy,Defender,Defender,-,,Unknown,?,In,1992,s,serie-a
-Brescia Calcio,Fabio Gallo,21,Italy,Defensive Midfield,DM,-,AC Spezia,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Massimo Paganin,21,Italy,Centre-Back,CB,-,AC Reggiana,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Nicola Marangon,21,Italy,Right-Back,RB,-,CPR Ospitaletto,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Paolo Negro,20,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Marco Landucci,28,Italy,Goalkeeper,GK,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Luca Brunetti,27,Italy,Defender,Defender,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Massimo Giannelli,22,Italy,Attacking Midfield,AM,-,CPR Ospitaletto,Italy,?,In,1992,s,serie-a
-Brescia Calcio,Marco Piovanelli,18,Italy,Midfielder,Midfielder,-,Brescia Primavera,Italy,-,In,1992,s,serie-a
-FC Internazionale,Igor Shalimov,23,Russia,Attacking Midfield,AM,-,Foggia Calcio,Italy,£10.80m,In,1992,s,serie-a
-FC Internazionale,Darko Pancev,26,North Macedonia,Centre-Forward,CF,-,Red Star Belgrade,Serbia,£10.80m,In,1992,s,serie-a
-FC Internazionale,Rubén Sosa,26,Uruguay,Centre-Forward,CF,-,SS Lazio,Italy,£5.40m,In,1992,s,serie-a
-FC Internazionale,Matthias Sammer,24,Germany,Defensive Midfield,DM,-,VfB Stuttgart,Germany,£5.40m,In,1992,s,serie-a
-FC Internazionale,Salvatore Schillaci,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£990Th.,In,1992,s,serie-a
-FC Internazionale,Luigi De Agostini,31,Italy,Left-Back,LB,-,Juventus FC,Italy,?,In,1992,s,serie-a
-FC Internazionale,Giuseppe Marino,23,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a
-FC Internazionale,Paolo Tramezzani,21,Italy,Left-Back,LB,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a
-FC Internazionale,Antonio Manicone,25,Italy,Defensive Midfield,DM,-,Udinese Calcio,Italy,?,In,1992,s,serie-a
-FC Internazionale,Stefano Rossini,21,Italy,Left-Back,LB,-,Udinese Calcio,Italy,?,In,1992,s,serie-a
-FC Internazionale,Stefano Vecchi,20,Italy,Midfielder,Midfielder,-,AC Spezia,Italy,?,In,1992,s,serie-a
-FC Internazionale,Renzo Tasso,19,Italy,Defensive Midfield,DM,-,Inter Milan Primavera,Italy,-,In,1992,s,serie-a
-FC Internazionale,Simone Veronese,17,Italy,Right-Back,RB,-,Inter Milan Primavera,Italy,-,In,1992,s,serie-a
-AC Parma,Sergio Berti,23,Argentina,Left Midfield,LM,-,Club Atlético River Plate,Argentina,?,In,1992,s,serie-a
-AC Parma,Fausto Pizzi,24,Italy,Attacking Midfield,AM,-,FC Internazionale,Italy,?,In,1992,s,serie-a
-AC Parma,Giovanni Sorce,22,Italy,Forward,Forward,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a
-AC Parma,Gianluca Hervatin,18,Italy,Forward,Forward,-,SEF Tempio Pausania,Italy,?,In,1992,s,serie-a
-AC Parma,Faustino Asprilla,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,?,In,1992,s,serie-a
-AC Parma,Marco Ferrari,25,Italy,Goalkeeper,GK,-,US Avellino,Italy,?,In,1992,s,serie-a
-AC Parma,Antonio Sconziano,20,Italy,Right-Back,RB,-,USD 1913 Seregno Calcio,Italy,?,In,1992,s,serie-a
-AC Parma,Gabriele Pin,30,Italy,Central Midfield,CM,-,SS Lazio,Italy,?,In,1992,s,serie-a
-AC Parma,Salvatore Matrecano,21,Italy,Centre-Back,CB,-,Foggia Calcio,Italy,?,In,1992,s,serie-a
-AC Parma,Gianluca Franchini,19,Italy,Defensive Midfield,DM,-,US Avellino,Italy,?,In,1992,s,serie-a
-AC Parma,Marco Ferrante,21,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Genoa 1893,Michele Padovano,25,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Genoa 1893,Stefano Tacconi,35,Italy,Goalkeeper,GK,-,Juventus FC,Italy,?,In,1992,s,serie-a
-Genoa 1893,Gianpaolo Spagnulo,27,Italy,Goalkeeper,GK,-,AC Pisa 1909,Italy,?,In,1992,s,serie-a
-Genoa 1893,John van 't Schip,28,Netherlands,Centre-Forward,CF,-,Ajax Amsterdam,Netherlands,?,In,1992,s,serie-a
-Genoa 1893,Andrea Fortunato,20,Italy,Left-Back,LB,-,AC Pisa 1909,Italy,?,In,1992,s,serie-a
-Genoa 1893,Fabio Rossi,21,Italy,Defender,Defender,-,US Massese 1919,Italy,?,In,1992,s,serie-a
-Genoa 1893,Christian Panucci,19,Italy,Right-Back,RB,-,Genoa Primavera,Italy,-,In,1992,s,serie-a
-Genoa 1893,Davide Nicola,19,Italy,Right-Back,RB,-,Genoa Primavera,Italy,-,In,1992,s,serie-a
-Genoa 1893,Luca Cavallo,19,Italy,Right Midfield,RM,-,Genoa Primavera,Italy,-,In,1992,s,serie-a
-SS Lazio,Paul Gascoigne,25,England,Attacking Midfield,AM,-,Tottenham Hotspur,England,£6.66m,In,1992,s,serie-a
-SS Lazio,Giuseppe Favalli,20,Italy,Left-Back,LB,-,US Cremonese,Italy,£2.32m,In,1992,s,serie-a
-SS Lazio,Diego Fuser,23,Italy,Right Midfield,RM,-,Milan AC,Italy,£1.80m,In,1992,s,serie-a
-SS Lazio,Aron Winter,25,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£1.17m,In,1992,s,serie-a
-SS Lazio,Luca Luzardi,22,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,1992,s,serie-a
-SS Lazio,Giuseppe Signori,24,Italy,Centre-Forward,CF,-,Foggia Calcio,Italy,?,In,1992,s,serie-a
-SS Lazio,Mauro Bonomi,19,Italy,Centre-Back,CB,-,US Cremonese,Italy,?,In,1992,s,serie-a
-SS Lazio,Dario Marcolin,20,Italy,Defensive Midfield,DM,-,US Cremonese,Italy,?,In,1992,s,serie-a
-SS Lazio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,PC Ternana,Italy,?,In,1992,s,serie-a
-SS Lazio,Giacomo Galli,20,Italy,Forward,Forward,-,US Palermo,Italy,?,In,1992,s,serie-a
-SS Lazio,Roberto Cravero,28,Italy,Sweeper,SW,-,Torino Calcio,Italy,,In,1992,s,serie-a
-Udinese Calcio,Marco Delvecchio,19,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,Loan fee:£135Th.,In,1992,s,serie-a
-Udinese Calcio,Marek Koźmiński,21,Poland,Left-Back,LB,-,Hutnik Krakow,Poland,Free transfer,In,1992,s,serie-a
-Udinese Calcio,Massimo Mariotto,26,Italy,Midfielder,Midfielder,-,Reggina Calcio,Italy,Loan,In,1992,s,serie-a
-Udinese Calcio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,SS Lazio,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Alessandro Orlando,22,Italy,Left-Back,LB,-,UC Sampdoria,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Stefano Desideri,27,Italy,Right Midfield,RM,-,FC Internazionale,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Alessandro Testaferrata,18,Italy,Goalkeeper,GK,-,Bozzano,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Marco Branca,27,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Jonathan Bachini,17,Italy,Right Midfield,RM,-,Alessandria Youth,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Stefano Pellegrini,24,Italy,Right-Back,RB,-,AS Roma,Italy,?,In,1992,s,serie-a
-Udinese Calcio,Piotr Czachowski,25,Poland,Centre-Back,CB,-,Zaglebie Lubin,Poland,?,In,1992,s,serie-a
-Torino Calcio,Carlos Aguilera,27,Uruguay,Centre-Forward,CF,-,Genoa 1893,Italy,?,In,1992,s,serie-a
-Torino Calcio,Daniele Fortunato,29,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1992,s,serie-a
-Torino Calcio,Antonio Aloisi,23,Italy,Defender,Defender,-,Ascoli Calcio 1898,Italy,?,In,1992,s,serie-a
-Torino Calcio,Domenico Doardo,17,Italy,Goalkeeper,GK,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a
-Torino Calcio,Marcelo Saralegui,21,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,In,1992,s,serie-a
-Torino Calcio,Maurizio Ferrarese,25,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a
-Torino Calcio,Andrea Silenzi,26,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Torino Calcio,Mohammed Gargo,17,Ghana,Centre-Back,CB,-,Real Tamale United,Ghana,?,In,1992,s,serie-a
-Torino Calcio,Raffaele Sergio,25,Italy,Left-Back,LB,-,SS Lazio,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Brian Laudrup,23,Denmark,Right Winger,RW,-,Bayern Munich,Germany,£4.50m,In,1992,s,serie-a
-AC Fiorentina,Stefan Effenberg,23,Germany,Central Midfield,CM,-,Bayern Munich,Germany,£3.38m,In,1992,s,serie-a
-AC Fiorentina,Francesco Baiano,24,Italy,Right Winger,RW,-,Foggia Calcio,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Fabrizio Di Mauro,27,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Gianluca Luppi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Diego Latorre,22,Argentina,Second Striker,SS,-,Club Atlético Boca Juniors,Argentina,?,In,1992,s,serie-a
-AC Fiorentina,Daniele Carnasciali,25,Italy,Right-Back,RB,-,Brescia Calcio,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Andrea Vascotto,20,Italy,Midfielder,Midfielder,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a
-AC Fiorentina,Francesco Flachi,17,Italy,Centre-Forward,CF,-,Fiorentina Youth,Italy,-,In,1992,s,serie-a
-Juventus FC,Gianluca Vialli,27,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,£14.85m,In,1992,s,serie-a
-Juventus FC,David Platt,26,England,Attacking Midfield,AM,-,AS Bari,Italy,£8.78m,In,1992,s,serie-a
-Juventus FC,Andreas Möller,24,Germany,Attacking Midfield,AM,-,Eintracht Frankfurt,Germany,Free transfer,In,1992,s,serie-a
-Juventus FC,Daniel Terrera,18,Italy,Defender,Defender,-,ACD Sammargheritese,Italy,?,In,1992,s,serie-a
-Juventus FC,Fabrizio Ravanelli,23,Italy,Centre-Forward,CF,-,AC Reggiana,Italy,?,In,1992,s,serie-a
-Juventus FC,Moreno Torricelli,22,Italy,Right-Back,RB,-,US Folgore Caratese,Italy,?,In,1992,s,serie-a
-Juventus FC,Massimiliano Giacobbo,17,Italy,Central Midfield,CM,-,Juventus Primavera,Italy,-,In,1992,s,serie-a
-Juventus FC,Lorenzo Squizzi,18,Italy,Goalkeeper,GK,-,Juventus Primavera,Italy,-,In,1992,s,serie-a
-Juventus FC,Luigi Sartor,17,Italy,Right-Back,RB,-,Juventus Primavera,Italy,-,In,1992,s,serie-a
-Foggia Calcio,Luigi Di Biagio,21,Italy,Defensive Midfield,DM,-,Calcio Monza,Italy,Free transfer,In,1992,s,serie-a
-Foggia Calcio,Gianluca Grassadonia,20,Italy,Centre-Back,CB,-,US Salernitana,Italy,Free transfer,In,1992,s,serie-a
-Foggia Calcio,Pier Luigi Nicoli,26,Italy,Centre-Back,CB,-,Calcio Catania,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Pierpaolo Bresciani,21,Italy,Right Winger,RW,-,US Palermo,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Pasquale De Vincenzo,24,Italy,Left Midfield,LM,-,Reggina Calcio,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Giordano Caini,23,Italy,Left-Back,LB,-,Calcio Catania,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Giuseppe Fornaciari,24,Italy,Centre-Back,CB,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Donatello Gasparini,20,Italy,Defender,Defender,-,AC Pro Sesto,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Hernán Medford,24,Costa Rica,Centre-Forward,CF,-,Rayo Vallecano,Spain,?,In,1992,s,serie-a
-Foggia Calcio,Oberdan Biagioni,22,Italy,Attacking Midfield,AM,-,AS Cosenza Calcio,Italy,?,In,1992,s,serie-a
-Foggia Calcio,David Bianchini,20,Italy,Defender,Defender,-,AS Lodigiani,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Paolo Mandelli,24,Italy,Left Winger,LW,-,Calcio Monza,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Nicoló Sciacca,23,Italy,Central Midfield,CM,-,Trapani Calcio,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Andrea Seno,26,Italy,Central Midfield,CM,-,Como Calcio,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Mauro Bacchin,22,Italy,Goalkeeper,GK,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Giovanni Pisano,23,Italy,Centre-Forward,CF,-,Leonzio Calcio,Italy,?,In,1992,s,serie-a
-Foggia Calcio,Giuseppe Di Bari,22,Italy,Defender,Defender,-,AS Bisceglie 1913,Italy,?,In,1992,s,serie-a
-Atalanta BC,Maurizio Ganz,23,Italy,Centre-Forward,CF,-,Brescia Calcio,Italy,£108Th.,In,1992,s,serie-a
-Atalanta BC,Roberto Rambaudi,26,Italy,Right Winger,RW,-,Foggia Calcio,Italy,?,In,1992,s,serie-a
-Atalanta BC,Maurizio Codispoti,28,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1992,s,serie-a
-Atalanta BC,Leonardo Rodríguez,25,Argentina,Attacking Midfield,AM,-,FC Toulouse,France,?,In,1992,s,serie-a
-Atalanta BC,Davide Pinato,28,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,In,1992,s,serie-a
-Atalanta BC,Marco Ambrosio,19,Italy,Goalkeeper,GK,-,AC Lumezzane Berretti,Italy,?,In,1992,s,serie-a
-Atalanta BC,Claudio Mascheretti,22,Italy,Defender,Defender,-,AC Palazzolo,Italy,?,In,1992,s,serie-a
-Atalanta BC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,In,1992,s,serie-a
-Atalanta BC,Alemão,30,Brazil,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Atalanta BC,Stefano De Agostini,27,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Atalanta BC,Oscar Magoni,24,Italy,Defensive Midfield,DM,-,Società Calcio Leffe,Italy,?,In,1992,s,serie-a
-Atalanta BC,Paolo Montero,20,Uruguay,Centre-Back,CB,-,CA Peñarol,Uruguay,?,In,1992,s,serie-a
-Atalanta BC,Iván Valenciano,20,Colombia,Centre-Forward,CF,-,Junior FC,Colombia,?,In,1992,s,serie-a
-Atalanta BC,Simone Pavan,18,Italy,Centre-Back,CB,-,Atalanta Primavera,Italy,-,In,1992,s,serie-a
-UC Sampdoria,Des Walker,26,England,Centre-Back,CB,-,Nottingham Forest,England,£1.53m,In,1992,s,serie-a
-UC Sampdoria,Enrico Chiesa,21,Italy,Centre-Forward,CF,-,Chieti Calcio,Italy,Free transfer,In,1992,s,serie-a
-UC Sampdoria,Stefano Sacchetti,19,Italy,Centre-Back,CB,-,Modena FC,Italy,?,In,1992,s,serie-a
-UC Sampdoria,Michele Serena,22,Italy,Left-Back,LB,-,Verona FC,Italy,?,In,1992,s,serie-a
-UC Sampdoria,Eugenio Corini,21,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,?,In,1992,s,serie-a
-UC Sampdoria,Vladimir Jugovic,22,Serbia,Left Midfield,LM,-,Red Star Belgrade,Serbia,?,In,1992,s,serie-a
-UC Sampdoria,Nicola Zanini,18,Italy,Attacking Midfield,AM,-,Juventus FC,Italy,?,In,1992,s,serie-a
-UC Sampdoria,Mauro Bertarelli,21,Italy,Forward,Forward,-,Ancona Calcio,Italy,?,In,1992,s,serie-a
-UC Sampdoria,Roberto Bucchioni,19,Italy,Defender,Defender,-,Sampdoria Primavera,Italy,-,In,1992,s,serie-a
-Ancona Calcio,Sergio Zárate,23,Argentina,Centre-Forward,CF,-,1.FC Nuremberg,Germany,Loan fee:£315Th.,In,1992,s,serie-a
-Ancona Calcio,Nicola Caccia,22,Italy,Centre-Forward,CF,-,Modena FC,Italy,Free transfer,In,1992,s,serie-a
-Ancona Calcio,Felice Centofanti,23,Italy,Left-Back,LB,-,US Palermo,Italy,?,In,1992,s,serie-a
-Ancona Calcio,Luca Bertarelli,18,Italy,Forward,Forward,-,Riccione,Italy,?,In,1992,s,serie-a
-Ancona Calcio,Massimo Agostini,28,Italy,Centre-Forward,CF,-,AC Parma,Italy,?,In,1992,s,serie-a
-Ancona Calcio,Paolo Cangini,24,Italy,Midfielder,Midfielder,-,Rimini FC,Italy,?,In,1992,s,serie-a
-Ancona Calcio,Lajos Détári,29,Hungary,Attacking Midfield,AM,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a
-Ancona Calcio,Oscar Ruggeri,30,Argentina,Centre-Back,CB,-,Club Atlético Vélez Sarsfield,Argentina,?,In,1992,s,serie-a
-Cagliari Calcio,Luis Oliveira,23,Belgium,Centre-Forward,CF,-,RSC Anderlecht,Belgium,£2.70m,In,1992,s,serie-a
-Cagliari Calcio,Giuseppe Pancaro,20,Italy,Right-Back,RB,-,Avezzano Calcio,Italy,?,In,1992,s,serie-a
-Cagliari Calcio,Francesco Moriero,23,Italy,Right Winger,RW,-,US Lecce,Italy,?,In,1992,s,serie-a
-Cagliari Calcio,Marco Sanna,22,Italy,Central Midfield,CM,-,SEF Tempio Pausania,Italy,?,In,1992,s,serie-a
-Cagliari Calcio,Marcelo Tejera,18,Uruguay,Defensive Midfield,DM,-,Defensor Sporting Club,Uruguay,?,In,1992,s,serie-a
-Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Torino Calcio,Italy,?,In,1992,s,serie-a
-Cagliari Calcio,Vittorio Pusceddu,28,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,In,1992,s,serie-a
-Cagliari Calcio,Guido Nanni,24,Italy,Goalkeeper,GK,-,AS Ischia Isolaverde,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Ottavio Palladini,20,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,Free transfer,In,1992,s,serie-a
-Delfino Pescara 1936,Roger Mendy,32,Senegal,Sweeper,SW,-,AS Monaco,France,?,In,1992,s,serie-a
-Delfino Pescara 1936,Blaz Sliskovic,33,Bosnia-Herzegovina,Central Midfield,CM,-,Stade Rennais FC,France,?,In,1992,s,serie-a
-Delfino Pescara 1936,Vincenzo Aureli,19,Italy,Forward,Forward,-,Fucense,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,John Sivebaek,30,Denmark,Right-Back,RB,-,AS Monaco,France,?,In,1992,s,serie-a
-Delfino Pescara 1936,Mauro Zironelli,22,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Vittorio Pinciarelli,20,Italy,Midfielder,Midfielder,-,Real Giulianova SSD,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Dunga,28,Brazil,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Stefano Borgonovo,28,Italy,Forward,Forward,-,AC Fiorentina,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Giuseppe Compagno,24,Italy,Right Winger,RW,-,AS Cosenza Calcio,Italy,?,In,1992,s,serie-a
-Delfino Pescara 1936,Roberto Gnoli,21,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,In,1992,s,serie-a
-SSC Napoli,Jonas Thern,25,Sweden,Central Midfield,CM,-,SL Benfica,Portugal,?,In,1992,s,serie-a
-SSC Napoli,Angelo Carbone,24,Italy,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1992,s,serie-a
-SSC Napoli,Carlo Cornacchia,27,Italy,Right-Back,RB,-,Atalanta BC,Italy,?,In,1992,s,serie-a
-SSC Napoli,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,s,serie-a
-SSC Napoli,Daniel Fonseca,22,Uruguay,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,s,serie-a
-SSC Napoli,Luca Altomare,20,Italy,Central Midfield,CM,-,AC Reggiana,Italy,?,In,1992,s,serie-a
-SSC Napoli,Paolo Ziliani,21,Italy,Sweeper,SW,-,Brescia Calcio,Italy,?,In,1992,s,serie-a
-SSC Napoli,Fausto Pari,29,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,In,1992,s,serie-a
-SSC Napoli,Roberto Policano,28,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,In,1992,s,serie-a
-SSC Napoli,Fabio Cannavaro,18,Italy,Centre-Back,CB,-,Napoli Primavera ,Italy,-,In,1992,s,serie-a
-Milan AC,Diego Fuser,23,Italy,Right Midfield,RM,-,SS Lazio,Italy,£1.80m,Out,1992,s,serie-a
-Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,Loan,Out,1992,s,serie-a
-Milan AC,Angelo Carbone,24,Italy,Right Midfield,RM,-,SSC Napoli,Italy,Loan,Out,1992,s,serie-a
-Milan AC,Davide Corti,19,Italy,Defender,Defender,-,FC Empoli,Italy,?,Out,1992,s,serie-a
-Milan AC,Roberto Bandirali,20,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,Out,1992,s,serie-a
-Milan AC,Giovanni Cornacchini,26,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1992,s,serie-a
-Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Loan,Out,1992,s,serie-a
-Milan AC,Carlo Ancelotti,33,Italy,Central Midfield,CM,-,,Retired,-,Out,1992,s,serie-a
-AS Roma,Rudi Völler,32,Germany,Centre-Forward,CF,-,Olympique Marseille,France,?,Out,1992,s,serie-a
-AS Roma,Fabrizio Di Mauro,27,Italy,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a
-AS Roma,Andrea Orocini,20,Italy,Midfielder,Midfielder,-,USC Baracca Lugo 1909,Italy,?,Out,1992,s,serie-a
-AS Roma,Ferro Tontini,22,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,?,Out,1992,s,serie-a
-AS Roma,Alessio Scarchilli,19,Italy,Attacking Midfield,AM,-,US Lecce,Italy,?,Out,1992,s,serie-a
-AS Roma,Stefano Pellegrini,24,Italy,Right-Back,RB,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a
-AS Roma,Gabriele Grossi,20,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1992,s,serie-a
-AS Roma,Marco De Marchi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,"End of loanJun 30, 1992",Out,1992,s,serie-a
-Brescia Calcio,Maurizio Ganz,23,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,£108Th.,Out,1992,s,serie-a
-Brescia Calcio,Paolo Ziliani,21,Italy,Sweeper,SW,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Paolo Bonfadini,20,Italy,Defender,Defender,-,AC Spezia,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Fabio Gallo,22,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,1992,s,serie-a
-Brescia Calcio,Daniele Carnasciali,25,Italy,Right-Back,RB,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Marco Merlo,24,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Stefano Preti,21,Italy,Midfielder,Midfielder,-,AC Palazzolo,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Riccardo Masia,19,Italy,Defender,Defender,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Emanuele Filippini,18,Italy,Central Midfield,CM,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Luca Luzardi,22,Italy,Centre-Back,CB,-,SS Lazio,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Daniele Cerretti,18,Italy,Goalkeeper,GK,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Corrado Cortesi,25,Italy,Forward,Forward,-,AC Palazzolo,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Francesco Passiatore,21,Italy,Forward,Forward,-,Casarano Calcio,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Antonio Filippini,18,Italy,Right Midfield,RM,-,CPR Ospitaletto,Italy,Loan,Out,1992,s,serie-a
-Brescia Calcio,Filippo Citterio,36,Italy,Left-Back,LB,-,USD 1913 Seregno Calcio,Italy,?,Out,1992,s,serie-a
-Brescia Calcio,Filippo Masolini,22,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,"End of loanJun 1, 1992",Out,1992,s,serie-a
-FC Internazionale,Jürgen Klinsmann,27,Germany,Centre-Forward,CF,-,AS Monaco,France,£6.30m,Out,1992,s,serie-a
-FC Internazionale,Lothar Matthäus,31,Germany,Defensive Midfield,DM,-,Bayern Munich,Germany,£1.80m,Out,1992,s,serie-a
-FC Internazionale,Marco Delvecchio,19,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,Loan fee:£135Th.,Out,1992,s,serie-a
-FC Internazionale,Andreas Brehme,31,Germany,Left-Back,LB,-,Real Zaragoza,Spain,?,Out,1992,s,serie-a
-FC Internazionale,Massimo Ciocci,24,Italy,Centre-Forward,CF,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Raffaele Nuzzo,19,Italy,Goalkeeper,GK,-,US Pergolettese 1932,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Marco Grossi,19,Italy,Midfielder,Midfielder,-,Ascoli Calcio 1898,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Giuseppe Baresi,34,Italy,Defensive Midfield,DM,-,Modena FC,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Stefano Desideri,27,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Davide Belotti,20,Italy,Centre-Back,CB,-,SS Nola 1925,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Paolo Orlandoni,19,Italy,Goalkeeper,GK,-,Società Calcio Leffe,Italy,Loan,Out,1992,s,serie-a
-FC Internazionale,Massimiliano Caniato,24,Italy,Goalkeeper,GK,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Fausto Pizzi,24,Italy,Attacking Midfield,AM,-,AC Parma,Italy,?,Out,1992,s,serie-a
-FC Internazionale,Luca Mondini,22,Italy,Goalkeeper,GK,-,Como Calcio,Italy,?,Out,1992,s,serie-a
-AC Parma,Giovanni Bia,23,Italy,Centre-Back,CB,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a
-AC Parma,Antonio Sconziano,20,Italy,Right-Back,RB,-,US Avellino,Italy,?,Out,1992,s,serie-a
-AC Parma,Tarcisio Catanese,24,Italy,Midfielder,Midfielder,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a
-AC Parma,Massimo Agostini,28,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,1992,s,serie-a
-AC Parma,Aldo Monza,22,Italy,Midfielder,Midfielder,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a
-AC Parma,Stefano Nava,23,Italy,Centre-Back,CB,-,Milan AC,Italy,"End of loanJun 30, 1992",Out,1992,s,serie-a
-Genoa 1893,Gianluca Berti,25,Italy,Goalkeeper,GK,-,AC Pisa 1909,Italy,Loan,Out,1992,s,serie-a
-Genoa 1893,Carlos Aguilera,27,Uruguay,Centre-Forward,CF,-,Torino Calcio,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Stefano Eranio,25,Italy,Right Midfield,RM,-,Milan AC,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Fabio Visca,22,Italy,Midfielder,Midfielder,-,AS Casale,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Marco Pacione,28,Italy,Left Winger,LW,-,AC Reggiana,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Simone Braglia,29,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Manuel Ghizzardi,19,Italy,Goalkeeper,GK,-,Carrarese Calcio 1908,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Paolo Ponzo,20,Italy,Defensive Midfield,DM,-,Aquila 1902 Montevarchi,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Andrea Bianchi,23,Italy,Midfielder,Midfielder,-,AS Lucchese Libertas,Italy,?,Out,1992,s,serie-a
-Genoa 1893,Massimiliano Corrado,20,Italy,Right-Back,RB,-,AC Reggiana,Italy,?,Out,1992,s,serie-a
-SS Lazio,Rubén Sosa,26,Uruguay,Centre-Forward,CF,-,FC Internazionale,Italy,£5.40m,Out,1992,s,serie-a
-SS Lazio,Claudio Vertova,32,Italy,Defender,Defender,-,Calcio Lecco 1912,Italy,?,Out,1992,s,serie-a
-SS Lazio,Alessandro Manetti,20,Italy,Midfielder,Midfielder,-,ASD Acireale Calcio,Italy,?,Out,1992,s,serie-a
-SS Lazio,Gabriele Pin,30,Italy,Central Midfield,CM,-,AC Parma,Italy,?,Out,1992,s,serie-a
-SS Lazio,Stefano Melchiori,26,Italy,Midfielder,Midfielder,-,US Lecce,Italy,?,Out,1992,s,serie-a
-SS Lazio,Roberto Soldà,33,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,s,serie-a
-SS Lazio,Berardino Capocchiano,26,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,1992,s,serie-a
-SS Lazio,Raffaele Sergio,25,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,Out,1992,s,serie-a
-SS Lazio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Stefano Rossini,21,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Willi Pittana,20,Italy,Midfielder,Midfielder,-,Calcio Catania,Italy,Loan,Out,1992,s,serie-a
-Udinese Calcio,Marco Nappi,26,Italy,Second Striker,SS,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Manuel Marcuz,20,Italy,Right-Back,RB,-,Calcio Catania,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Rodolfo Vanoli,29,Italy,Midfielder,Midfielder,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Antonino Gazzè,17,Italy,Defender,Defender,-,Parma Primavera,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Antonio Manicone,25,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Massimo Susic,25,Italy,Centre-Back,CB,-,AC Pisa 1909,Italy,?,Out,1992,s,serie-a
-Udinese Calcio,Simone Cadamuro,19,Italy,Forward,Forward,-,Formia Calcio,Italy,-,Out,1992,s,serie-a
-Udinese Calcio,Massimiliano Buzzinelli,19,Italy,Midfielder,Midfielder,-,Avezzano Calcio,Italy,-,Out,1992,s,serie-a
-Torino Calcio,Gianluigi Lentini,23,Italy,Right Winger,RW,-,Milan AC,Italy,£8.60m,Out,1992,s,serie-a
-Torino Calcio,Christian Vieri,18,Italy,Centre-Forward,CF,-,AC Pisa 1909,Italy,Loan,Out,1992,s,serie-a
-Torino Calcio,Benny Carbone,20,Italy,Second Striker,SS,-,Ascoli Calcio 1898,Italy,Loan,Out,1992,s,serie-a
-Torino Calcio,Marco Bertelli,20,Italy,Forward,Forward,-,US Massese 1919,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Roberto Policano,28,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Ivanoe Lanzara,19,Italy,Left-Back,LB,-,Società Calcio Leffe,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Rafael Martin Vazquez,26,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,s,serie-a
-Torino Calcio,Luca Pastine,21,Italy,Goalkeeper,GK,-,US Casertana,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Massimiliano Manni,20,Italy,Left-Back,LB,-,Avezzano Calcio,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Carmelo Puglisi,20,Italy,Midfielder,Midfielder,-,AC Riunite Messina,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Massimiliano Ferina,20,Italy,Defender,Defender,-,FC Pavia 1911,Italy,?,Out,1992,s,serie-a
-Torino Calcio,Roberto Cravero,28,Italy,Sweeper,SW,-,SS Lazio,Italy,,Out,1992,s,serie-a
-AC Fiorentina,Dunga,28,Brazil,Defensive Midfield,DM,-,Delfino Pescara 1936,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Marco Branca,27,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Stefano Carobbi,28,Italy,Right-Back,RB,-,US Lecce,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Giacomo Banchelli,19,Italy,Centre-Forward,CF,-,US Alessandria Calcio,Italy,Loan,Out,1992,s,serie-a
-AC Fiorentina,Vincenzo Matrone,20,Italy,Defender,Defender,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Mazinho,26,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1992,s,serie-a
-AC Fiorentina,Stefano Borgonovo,28,Italy,Forward,Forward,-,Delfino Pescara 1936,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Emiliano Biliotti,17,Italy,Attacking Midfield,AM,-,AC Siena,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Massimiliano Fiondella,23,Italy,Defender,Defender,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Celeste Pin,31,Italy,Defender,Defender,-,Verona FC,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Stefano Salvatori,24,Italy,Midfielder,Midfielder,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Rufo Emiliano Verga,22,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Pietro Maiellaro,28,Italy,Midfielder,Midfielder,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a
-AC Fiorentina,Ramon Aiana,19,Italy,Forward,Forward,-,,Unknown,?,Out,1992,s,serie-a
-Juventus FC,Stefan Reuter,25,Germany,Right Midfield,RM,-,Borussia Dortmund,Germany,£1.89m,Out,1992,s,serie-a
-Juventus FC,Salvatore Schillaci,27,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£990Th.,Out,1992,s,serie-a
-Juventus FC,Nicola Zanini,18,Italy,Attacking Midfield,AM,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a
-Juventus FC,Stefano Tacconi,35,Italy,Goalkeeper,GK,-,Genoa 1893,Italy,?,Out,1992,s,serie-a
-Juventus FC,Roberto Ricca,19,Italy,Defender,Defender,-,US Pro Vercelli,Italy,?,Out,1992,s,serie-a
-Juventus FC,Eugenio Corini,21,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a
-Juventus FC,Luigi De Agostini,31,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,Out,1992,s,serie-a
-Juventus FC,Angelo Alessio,27,Italy,Right Winger,RW,-,AS Bari,Italy,?,Out,1992,s,serie-a
-Juventus FC,Gianluca Luppi,25,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a
-Juventus FC,Rubens Pasino,20,Italy,Attacking Midfield,AM,-,Calcio Lecco 1912,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Igor Shalimov,23,Russia,Attacking Midfield,AM,-,FC Internazionale,Italy,£10.80m,Out,1992,s,serie-a
-Foggia Calcio,Mauro Picasso,26,Italy,Midfielder,Midfielder,-,AC Reggiana,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Giuseppe Lo Polito,19,Italy,Midfielder,Midfielder,-,US Salernitana,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Giuseppe Signori,24,Italy,Centre-Forward,CF,-,SS Lazio,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Salvatore Matrecano,21,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Tommaso Napoli,24,Italy,Centre-Back,CB,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Alessandro Porro,25,Italy,Midfielder,Midfielder,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Maurizio Codispoti,28,Italy,Defender,Defender,-,Atalanta BC,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Francesco Baiano,24,Italy,Right Winger,RW,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Roberto Rambaudi,26,Italy,Right Winger,RW,-,Atalanta BC,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Angelo Consagra,28,Italy,Defender,Defender,-,AS Bari,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Gianluca Musumeci,22,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Pasquale Padalino,20,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Onofrio Barone,27,Italy,Central Midfield,CM,-,AS Bari,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Mauro Rosin,27,Italy,Goalkeeper,GK,-,PC Ternana,Italy,?,Out,1992,s,serie-a
-Foggia Calcio,Mauro Biolghini,19,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a
-Atalanta BC,Pierluigi Orlandini,19,Italy,Right Midfield,RM,-,US Lecce,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Carlos Bianchezi,27,Brazil,Centre-Forward,CF,-,CF Monterrey,Mexico,?,Out,1992,s,serie-a
-Atalanta BC,Carlo Cornacchia,27,Italy,Right-Back,RB,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Tiziano Ramon,21,Italy,Goalkeeper,GK,-,Casarano Calcio,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Riccardo Bracaloni,22,Italy,Central Midfield,CM,-,Chievo Verona,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Lamberto Piovanelli,28,Italy,Centre-Forward,CF,-,Verona FC,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Stefano Sottili,22,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Eligio Nicolini,31,Italy,Right Winger,RW,-,US Cremonese,Italy,?,Out,1992,s,serie-a
-Atalanta BC,Astutillo Malgioglio,34,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a
-Atalanta BC,Pier Angelo Brianza,18,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a
-Atalanta BC,Glenn Strömberg,32,Sweden,Central Midfield,CM,-,,Retired,-,Out,1992,s,serie-a
-UC Sampdoria,Gianluca Vialli,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£14.85m,Out,1992,s,serie-a
-UC Sampdoria,Silas,26,Brazil,Central Midfield,CM,-,Sport Club Internacional,Brazil,?,Out,1992,s,serie-a
-UC Sampdoria,Alessandro Orlando,22,Italy,Left-Back,LB,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a
-UC Sampdoria,Giorgio Zanutta,18,Italy,Defender,Defender,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-UC Sampdoria,Dario Bonetti,30,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a
-UC Sampdoria,Fausto Pari,29,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-UC Sampdoria,Giovanni Dall'Igna,19,Italy,Right-Back,RB,-,SP Ars et Labor,Italy,Loan,Out,1992,s,serie-a
-UC Sampdoria,Sergio Porcù,20,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a
-Ancona Calcio,Mauro Bertarelli,21,Italy,Forward,Forward,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a
-Ancona Calcio,Sandro Tovalieri,27,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,1992,s,serie-a
-Ancona Calcio,Paolo Cangini,25,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,Loan,Out,1992,s,serie-a
-Ancona Calcio,Gianluca De Angelis,24,Italy,Midfielder,Midfielder,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a
-Ancona Calcio,Paolo Siroti,22,Italy,Defender,Defender,-,US Alessandria Calcio,Italy,?,Out,1992,s,serie-a
-Ancona Calcio,Eupremio Carruezzo,22,Italy,Centre-Forward,CF,-,Calcio Monza,Italy,?,Out,1992,s,serie-a
-Ancona Calcio,Aureliano Modesti,18,Italy,Midfielder,Midfielder,-,Alma Juventus Fano 1906,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Daniel Fonseca,22,Uruguay,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Flavio Chiti,22,Italy,Right-Back,RB,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Alfonso Greco,23,Italy,Central Midfield,CM,-,Calcio Catania,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Andrea Pistella,26,Italy,Centre-Forward,CF,-,AS Lucchese Libertas,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Emilio Budruni,22,Italy,Forward,Forward,-,AS Ischia Isolaverde,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Pierluigi Corellas,20,Italy,Forward,Forward,-,Centese Calcio 1913,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Stefano Mobili,23,Italy,Attacking Midfield,AM,-,Modena FC,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,James Walter Wilson,20,Italy,Defensive Midfield,DM,-,Avezzano Calcio,Italy,?,Out,1992,s,serie-a
-Cagliari Calcio,Luigi Pili,20,Italy,Midfielder,Midfielder,-,,Unknown,-,Out,1992,s,serie-a
-Delfino Pescara 1936,Michele Gelsi,23,Italy,Central Midfield,CM,-,AC Perugia,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Alberto Torresin,32,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Fabrizio Fioretti,26,Italy,Defensive Midfield,DM,-,Piacenza FC,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Andrea Camplone,25,Italy,Defender,Defender,-,AC Perugia,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Orazio Sorbello,32,Italy,Right Winger,RW,-,ASD Acireale Calcio,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Massimo Nunziato,18,Italy,Midfielder,Midfielder,-,ASD Ovidiana Sulmona Calcio,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Stefano Impallomeni,24,Italy,Midfielder,Midfielder,-,US Casertana,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Rocco Pagano,28,Italy,Right Midfield,RM,-,AC Perugia,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Paolo Monelli,29,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Nicolino Rosati,29,Italy,Midfielder,Midfielder,-,US Sambenedettese,Italy,?,Out,1992,s,serie-a
-Delfino Pescara 1936,Augusto Mantini,19,Italy,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,serie-a
-Delfino Pescara 1936,Fausto Chiacchiaretta,19,Italy,Defender,Defender,-,,Retired,-,Out,1992,s,serie-a
-SSC Napoli,Fernando De Napoli,28,Italy,Central Midfield,CM,-,Milan AC,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Andrea Silenzi,26,Italy,Centre-Forward,CF,-,Torino Calcio,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Vittorio Pusceddu,28,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Marco Ferrante,21,Italy,Centre-Forward,CF,-,AC Parma,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Michele Padovano,25,Italy,Centre-Forward,CF,-,Genoa 1893,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Gianfranco Germoni,19,Italy,Defender,Defender,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Laurent Blanc,26,France,Sweeper,SW,-,Nîmes Olympique,France,?,Out,1992,s,serie-a
-SSC Napoli,Alemão,30,Brazil,Defensive Midfield,DM,-,Atalanta BC,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Claudio Bonomi,19,Italy,Left Midfield,LM,-,ASD Castel di Sangro,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Stefano De Agostini,27,Italy,Defensive Midfield,DM,-,Atalanta BC,Italy,?,Out,1992,s,serie-a
-SSC Napoli,Ernesto Gallo,19,Italy,Midfielder,Midfielder,-,,Retired,?,Out,1992,s,serie-a
-SSC Napoli,Massimo Filardi,25,Italy,Left-Back,LB,-,,Unknown,-,Out,1992,s,serie-a
-Milan AC,Rufo Emiliano Verga,23,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,In,1992,w,serie-a
-AS Roma,Francesco Totti,16,Italy,Second Striker,SS,-,Roma Primavera,Italy,-,In,1992,w,serie-a
-Brescia Calcio,Dorin Mateut,27,Romania,Attacking Midfield,AM,-,Real Zaragoza,Spain,?,In,1992,w,serie-a
-Brescia Calcio,Paolo Ziliani,21,Italy,Sweeper,SW,-,SSC Napoli,Italy,?,In,1992,w,serie-a
-FC Internazionale,Mirko Taccola,22,Italy,Centre-Back,CB,-,AC Pisa 1909,Italy,?,In,1992,w,serie-a
-Udinese Calcio,Michele Gelsi,25,Italy,Central Midfield,CM,-,AC Perugia,Italy,Loan,In,1992,w,serie-a
-Udinese Calcio,Emiliano Bernardini,18,Italy,Defender,Defender,-,AS Roma,Italy,?,In,1992,w,serie-a
-AC Fiorentina,Lorenzo D'Anna,20,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,In,1992,w,serie-a
-Foggia Calcio,Bryan Roy,22,Netherlands,Right Winger,RW,-,Ajax Amsterdam,Netherlands,?,In,1992,w,serie-a
-Atalanta BC,Maurizio Codispoti,28,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1992,w,serie-a
-Atalanta BC,Alessio Tacchinardi,17,Italy,Defensive Midfield,DM,-,Atalanta Primavera,Italy,-,In,1992,w,serie-a
-Ancona Calcio,Milos Glonek,24,Slovakia,Centre-Back,CB,-,Slovan Bratislava,Slovakia,?,In,1992,w,serie-a
-Cagliari Calcio,Francesco Bellucci,19,Italy,Centre-Back,CB,-,AS Bari,Italy,?,In,1992,w,serie-a
-SSC Napoli,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,w,serie-a
-SSC Napoli,Sebastiano Nela,31,Italy,Left-Back,LB,-,AS Roma,Italy,?,In,1992,w,serie-a
-SSC Napoli,Fabrizio Carli,17,Italy,Forward,Forward,-,AS Roma,Italy,?,In,1992,w,serie-a
-Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Loan,Out,1992,w,serie-a
-Milan AC,Costantino Borneo,20,Italy,Centre-Forward,CF,-,Olbia Calcio,Italy,?,Out,1992,w,serie-a
-AS Roma,Emiliano Bernardini,18,Italy,Defender,Defender,-,Udinese Calcio,Italy,?,Out,1992,w,serie-a
-AS Roma,Sebastiano Nela,31,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,Out,1992,w,serie-a
-AS Roma,Fabrizio Carli,17,Italy,Forward,Forward,-,SSC Napoli,Italy,?,Out,1992,w,serie-a
-Brescia Calcio,Fabio Gallo,22,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,1992,w,serie-a
-Brescia Calcio,Francesco Passiatore,21,Italy,Forward,Forward,-,Casarano Calcio,Italy,?,Out,1992,w,serie-a
-FC Internazionale,Matthias Sammer,25,Germany,Defensive Midfield,DM,-,Borussia Dortmund,Germany,£3.83m,Out,1992,w,serie-a
-FC Internazionale,Giuseppe Marino,23,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,1992,w,serie-a
-FC Internazionale,Marcello Montanari,27,Italy,Sweeper,SW,-,AS Bari,Italy,?,Out,1992,w,serie-a
-FC Internazionale,Marco Barollo,20,Italy,Midfielder,Midfielder,-,PC Ternana,Italy,Loan,Out,1992,w,serie-a
-AC Parma,Giovanni Sorce,23,Italy,Forward,Forward,-,AC Riunite Messina,Italy,?,Out,1992,w,serie-a
-AC Parma,Mario Lemme,19,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,Out,1992,w,serie-a
-Genoa 1893,Igor Dobrovolski,25,Russia,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,w,serie-a
-SS Lazio,Roberto Soldà,33,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,w,serie-a
-SS Lazio,Giacomo Galli,21,Italy,Forward,Forward,-,Formia Calcio,Italy,?,Out,1992,w,serie-a
-Udinese Calcio,Piotr Czachowski,26,Poland,Centre-Back,CB,-,Legia Warszawa,Poland,?,Out,1992,w,serie-a
-Torino Calcio,Marco Sinigaglia,24,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,w,serie-a
-Torino Calcio,Maurizio Ferrarese,25,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,Out,1992,w,serie-a
-AC Fiorentina,Diego Latorre,23,Argentina,Second Striker,SS,-,CD Tenerife,Spain,?,Out,1992,w,serie-a
-Foggia Calcio,Maurizio Codispoti,28,Italy,Defender,Defender,-,Atalanta BC,Italy,?,Out,1992,w,serie-a
-Foggia Calcio,Giovanni Pisano,24,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,Out,1992,w,serie-a
-UC Sampdoria,Toninho Cerezo,37,Brazil,Defensive Midfield,DM,-,São Paulo Futebol Clube,Brazil,?,Out,1992,w,serie-a
-Ancona Calcio,Giovanni Deogratias,32,Italy,Centre-Back,CB,-,AC Riunite Messina,Italy,?,Out,1992,w,serie-a
-Ancona Calcio,Paolo Cangini,25,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,Loan,Out,1992,w,serie-a
-Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,w,serie-a
-SSC Napoli,Paolo Ziliani,21,Italy,Sweeper,SW,-,Brescia Calcio,Italy,?,Out,1992,w,serie-a
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Milan AC,Jean-Pierre Papin,28,France,Centre-Forward,CF,-,Olympique Marseille,France,£10.80m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/jean-pierre-papin/profil/spieler/17168
+Milan AC,Gianluigi Lentini,23,Italy,Right Winger,RW,-,Torino Calcio,Italy,£8.60m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluigi-lentini/profil/spieler/171685
+Milan AC,Dejan Savicevic,25,Montenegro,Attacking Midfield,AM,-,Red Star Belgrade,Serbia,£4.14m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/dejan-savicevic/profil/spieler/35894
+Milan AC,Stefano Eranio,25,Italy,Right Midfield,RM,-,Genoa 1893,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-eranio/profil/spieler/4227
+Milan AC,Fernando De Napoli,28,Italy,Central Midfield,CM,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fernando-de-napoli/profil/spieler/116755
+Milan AC,Guido Bistazzoni,32,Italy,Goalkeeper,GK,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/guido-bistazzoni/profil/spieler/169648
+Milan AC,Martino Traversa,18,Italy,Right-Back,RB,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/martino-traversa/profil/spieler/222786
+Milan AC,Davide Dionigi,18,Italy,Centre-Forward,CF,-,Modena FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+Milan AC,Carlo Cudicini,18,Italy,Goalkeeper,GK,-,Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/carlo-cudicini/profil/spieler/3151
+Milan AC,Giuseppe Cardone,18,Italy,Right-Back,RB,-,Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-cardone/profil/spieler/16811
+Milan AC,Costantino Borneo,19,Italy,Centre-Forward,CF,-,Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/costantino-borneo/profil/spieler/433133
+Milan AC,Giuseppe Zappella,19,Italy,Right-Back,RB,-,Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-zappella/profil/spieler/335880
+AS Roma,Sinisa Mihajlovic,23,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,£4.05m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/sinisa-mihajlovic/profil/spieler/5834
+AS Roma,Fabio Petruzzi,21,Italy,Centre-Back,CB,-,US Casertana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-petruzzi/profil/spieler/5968
+AS Roma,Dario Rossi,19,Italy,Defender,Defender,-,PC Ternana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/dario-rossi/profil/spieler/227785
+Brescia Calcio,Gheorghe Hagi,27,Romania,Attacking Midfield,AM,-,Real Madrid,Spain,£1.80m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gheorghe-hagi/profil/spieler/7939
+Brescia Calcio,Ovidiu Sabau,24,Romania,Central Midfield,CM,-,Feyenoord Rotterdam,Netherlands,£1.43m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/ovidiu-sabau/profil/spieler/104071
+Brescia Calcio,Massimo Giannelli,22,Italy,Attacking Midfield,AM,-,CPR Ospitaletto,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-giannelli/profil/spieler/222790
+Brescia Calcio,Gabriele Pelati,18,Italy,Defender,Defender,-,,Unknown,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gabriele-pelati/profil/spieler/255640
+Brescia Calcio,Fabio Gallo,21,Italy,Defensive Midfield,DM,-,AC Spezia,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-gallo/profil/spieler/23358
+Brescia Calcio,Massimo Paganin,21,Italy,Centre-Back,CB,-,AC Reggiana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-paganin/profil/spieler/22207
+Brescia Calcio,Nicola Marangon,21,Italy,Right-Back,RB,-,CPR Ospitaletto,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/nicola-marangon/profil/spieler/222792
+Brescia Calcio,Paolo Negro,20,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-negro/profil/spieler/5835
+Brescia Calcio,Marco Landucci,28,Italy,Goalkeeper,GK,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-landucci/profil/spieler/120404
+Brescia Calcio,Luca Brunetti,27,Italy,Defender,Defender,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-brunetti/profil/spieler/224926
+Brescia Calcio,Marco Piovanelli,18,Italy,Midfielder,Midfielder,-,Brescia Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-piovanelli/profil/spieler/224943
+FC Internazionale,Darko Pancev,26,North Macedonia,Centre-Forward,CF,-,Red Star Belgrade,Serbia,£10.80m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/darko-pancev/profil/spieler/100098
+FC Internazionale,Igor Shalimov,23,Russia,Attacking Midfield,AM,-,Foggia Calcio,Italy,£6.08m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/igor-shalimov/profil/spieler/88150
+FC Internazionale,Rubén Sosa,26,Uruguay,Centre-Forward,CF,-,SS Lazio,Italy,£5.40m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/ruben-sosa/profil/spieler/22455
+FC Internazionale,Matthias Sammer,24,Germany,Defensive Midfield,DM,-,VfB Stuttgart,Germany,£5.40m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/matthias-sammer/profil/spieler/77010
+FC Internazionale,Salvatore Schillaci,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£990Th.,In,1992,s,serie-a,https://www.transfermarkt.co.uk/salvatore-schillaci/profil/spieler/90513
+FC Internazionale,Luigi De Agostini,31,Italy,Left-Back,LB,-,Juventus FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luigi-de-agostini/profil/spieler/118258
+FC Internazionale,Giuseppe Marino,23,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-marino/profil/spieler/228540
+FC Internazionale,Paolo Tramezzani,21,Italy,Left-Back,LB,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-tramezzani/profil/spieler/6406
+FC Internazionale,Antonio Manicone,25,Italy,Defensive Midfield,DM,-,Udinese Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-manicone/profil/spieler/223471
+FC Internazionale,Stefano Rossini,21,Italy,Left-Back,LB,-,Udinese Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-rossini/profil/spieler/30656
+FC Internazionale,Stefano Vecchi,20,Italy,Midfielder,Midfielder,-,AC Spezia,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-vecchi/profil/spieler/253329
+FC Internazionale,Renzo Tasso,19,Italy,Defensive Midfield,DM,-,Inter Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/renzo-tasso/profil/spieler/30663
+FC Internazionale,Simone Veronese,17,Italy,Right-Back,RB,-,Inter Milan Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/simone-veronese/profil/spieler/223363
+AC Parma,Marco Ferrante,21,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-ferrante/profil/spieler/21883
+AC Parma,Sergio Berti,23,Argentina,Left Midfield,LM,-,Club Atlético River Plate,Argentina,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/sergio-berti/profil/spieler/106421
+AC Parma,Fausto Pizzi,24,Italy,Attacking Midfield,AM,-,FC Internazionale,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fausto-pizzi/profil/spieler/224590
+AC Parma,Giovanni Sorce,22,Italy,Forward,Forward,-,AS Lucchese Libertas,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giovanni-sorce/profil/spieler/229212
+AC Parma,Gianluca Hervatin,18,Italy,Forward,Forward,-,SEF Tempio Pausania,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-hervatin/profil/spieler/229207
+AC Parma,Faustino Asprilla,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/faustino-asprilla/profil/spieler/102150
+AC Parma,Marco Ferrari,25,Italy,Goalkeeper,GK,-,US Avellino,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-ferrari/profil/spieler/229206
+AC Parma,Antonio Sconziano,20,Italy,Right-Back,RB,-,USD 1913 Seregno Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-sconziano/profil/spieler/228318
+AC Parma,Gabriele Pin,30,Italy,Central Midfield,CM,-,SS Lazio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gabriele-pin/profil/spieler/120410
+AC Parma,Salvatore Matrecano,21,Italy,Centre-Back,CB,-,Foggia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/salvatore-matrecano/profil/spieler/224531
+AC Parma,Gianluca Franchini,19,Italy,Defensive Midfield,DM,-,US Avellino,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-franchini/profil/spieler/227653
+Genoa 1893,Michele Padovano,25,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/michele-padovano/profil/spieler/158112
+Genoa 1893,Stefano Tacconi,35,Italy,Goalkeeper,GK,-,Juventus FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-tacconi/profil/spieler/118257
+Genoa 1893,Gianpaolo Spagnulo,27,Italy,Goalkeeper,GK,-,AC Pisa 1909,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianpaolo-spagnulo/profil/spieler/223490
+Genoa 1893,John van 't Schip,28,Netherlands,Right Winger,RW,-,Ajax Amsterdam,Netherlands,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/john-van-t-schip/profil/spieler/101043
+Genoa 1893,Andrea Fortunato,20,Italy,Left-Back,LB,-,AC Pisa 1909,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-fortunato/profil/spieler/223463
+Genoa 1893,Fabio Rossi,21,Italy,Defender,Defender,-,US Massese 1919,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-rossi/profil/spieler/248332
+Genoa 1893,Christian Panucci,19,Italy,Right-Back,RB,-,Genoa Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+Genoa 1893,Davide Nicola,19,Italy,Right-Back,RB,-,Genoa Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/davide-nicola/profil/spieler/21826
+Genoa 1893,Luca Cavallo,19,Italy,Right Midfield,RM,-,Genoa Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-cavallo/profil/spieler/21916
+SS Lazio,Paul Gascoigne,25,England,Attacking Midfield,AM,-,Tottenham Hotspur,England,£6.66m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paul-gascoigne/profil/spieler/3830
+SS Lazio,Giuseppe Favalli,20,Italy,Left-Back,LB,-,US Cremonese,Italy,£2.32m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-favalli/profil/spieler/5832
+SS Lazio,Diego Fuser,23,Italy,Right Midfield,RM,-,Milan AC,Italy,£1.80m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/diego-fuser/profil/spieler/5952
+SS Lazio,Aron Winter,25,Netherlands,Defensive Midfield,DM,-,Ajax Amsterdam,Netherlands,£1.17m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/aron-winter/profil/spieler/4324
+SS Lazio,Luca Luzardi,22,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-luzardi/profil/spieler/224935
+SS Lazio,Giuseppe Signori,24,Italy,Centre-Forward,CF,-,Foggia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-signori/profil/spieler/3526
+SS Lazio,Mauro Bonomi,19,Italy,Centre-Back,CB,-,US Cremonese,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-bonomi/profil/spieler/24296
+SS Lazio,Dario Marcolin,20,Italy,Defensive Midfield,DM,-,US Cremonese,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/dario-marcolin/profil/spieler/3510
+SS Lazio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,PC Ternana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-di-sarno/profil/spieler/224556
+SS Lazio,Giacomo Galli,20,Italy,Forward,Forward,-,US Palermo,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giacomo-galli/profil/spieler/338857
+SS Lazio,Roberto Cravero,28,Italy,Sweeper,SW,-,Torino Calcio,Italy,,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-cravero/profil/spieler/118250
+Udinese Calcio,Marco Delvecchio,19,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,Loan fee:£135Th.,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-delvecchio/profil/spieler/5961
+Udinese Calcio,Marek Koźmiński,21,Poland,Left-Back,LB,-,Hutnik Krakow,Poland,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marek-ko%C5%BAmi%C5%84ski/profil/spieler/18072
+Udinese Calcio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,SS Lazio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-di-sarno/profil/spieler/224556
+Udinese Calcio,Alessandro Orlando,22,Italy,Left-Back,LB,-,UC Sampdoria,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/alessandro-orlando/profil/spieler/177685
+Udinese Calcio,Stefano Desideri,27,Italy,Right Midfield,RM,-,FC Internazionale,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-desideri/profil/spieler/224529
+Udinese Calcio,Alessandro Testaferrata,18,Italy,Goalkeeper,GK,-,Bozzano,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/alessandro-testaferrata/profil/spieler/224599
+Udinese Calcio,Marco Branca,27,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-branca/profil/spieler/169692
+Udinese Calcio,Jonathan Bachini,17,Italy,Right Midfield,RM,-,Alessandria Youth,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+Udinese Calcio,Stefano Pellegrini,24,Italy,Right-Back,RB,-,AS Roma,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-pellegrini/profil/spieler/224536
+Udinese Calcio,Piotr Czachowski,25,Poland,Centre-Back,CB,-,Zaglebie Lubin,Poland,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/piotr-czachowski/profil/spieler/183590
+Udinese Calcio,Massimo Mariotto,26,Italy,Midfielder,Midfielder,-,Reggina Calcio,Italy,Loan,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-mariotto/profil/spieler/224575
+Torino Calcio,Carlos Aguilera,27,Uruguay,Centre-Forward,CF,-,Genoa 1893,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/carlos-aguilera/profil/spieler/116069
+Torino Calcio,Daniele Fortunato,29,Italy,Defensive Midfield,DM,-,AS Bari,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/daniele-fortunato/profil/spieler/223002
+Torino Calcio,Antonio Aloisi,23,Italy,Defender,Defender,-,Ascoli Calcio 1898,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-aloisi/profil/spieler/223331
+Torino Calcio,Domenico Doardo,17,Italy,Goalkeeper,GK,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/domenico-doardo/profil/spieler/21862
+Torino Calcio,Marcelo Saralegui,21,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marcelo-saralegui/profil/spieler/227724
+Torino Calcio,Maurizio Ferrarese,25,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/maurizio-ferrarese/profil/spieler/448236
+Torino Calcio,Andrea Silenzi,26,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-silenzi/profil/spieler/180552
+Torino Calcio,Mohammed Gargo,17,Ghana,Centre-Back,CB,-,Real Tamale United,Ghana,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/mohammed-gargo/profil/spieler/5887
+Torino Calcio,Raffaele Sergio,25,Italy,Left-Back,LB,-,SS Lazio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/raffaele-sergio/profil/spieler/224538
+AC Fiorentina,Brian Laudrup,23,Denmark,Right Winger,RW,-,Bayern Munich,Germany,£4.50m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/brian-laudrup/profil/spieler/39667
+AC Fiorentina,Stefan Effenberg,23,Germany,Central Midfield,CM,-,Bayern Munich,Germany,£3.38m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefan-effenberg/profil/spieler/197
+AC Fiorentina,Francesco Baiano,24,Italy,Right Winger,RW,-,Foggia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/francesco-baiano/profil/spieler/107802
+AC Fiorentina,Fabrizio Di Mauro,27,Italy,Defensive Midfield,DM,-,AS Roma,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-di-mauro/profil/spieler/224932
+AC Fiorentina,Gianluca Luppi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-luppi/profil/spieler/222791
+AC Fiorentina,Diego Latorre,22,Argentina,Second Striker,SS,-,Club Atlético Boca Juniors,Argentina,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/diego-latorre/profil/spieler/227278
+AC Fiorentina,Daniele Carnasciali,25,Italy,Right-Back,RB,-,Brescia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/daniele-carnasciali/profil/spieler/146676
+AC Fiorentina,Andrea Vascotto,20,Italy,Midfielder,Midfielder,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-vascotto/profil/spieler/227286
+AC Fiorentina,Francesco Flachi,17,Italy,Centre-Forward,CF,-,Fiorentina Youth,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/francesco-flachi/profil/spieler/6781
+Juventus FC,Gianluca Vialli,27,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,£14.85m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-vialli/profil/spieler/16036
+Juventus FC,David Platt,26,England,Attacking Midfield,AM,-,AS Bari,Italy,£8.78m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/david-platt/profil/spieler/101318
+Juventus FC,Andreas Möller,24,Germany,Attacking Midfield,AM,-,Eintracht Frankfurt,Germany,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/andreas-moller/profil/spieler/124
+Juventus FC,Daniel Terrera,18,Italy,Defender,Defender,-,ACD Sammargheritese,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/daniel-terrera/profil/spieler/337207
+Juventus FC,Fabrizio Ravanelli,23,Italy,Centre-Forward,CF,-,AC Reggiana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-ravanelli/profil/spieler/4226
+Juventus FC,Moreno Torricelli,22,Italy,Right-Back,RB,-,US Folgore Caratese,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/moreno-torricelli/profil/spieler/15769
+Juventus FC,Massimiliano Giacobbo,17,Italy,Central Midfield,CM,-,Juventus Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-giacobbo/profil/spieler/16850
+Juventus FC,Lorenzo Squizzi,18,Italy,Goalkeeper,GK,-,Juventus Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/lorenzo-squizzi/profil/spieler/22092
+Juventus FC,Luigi Sartor,17,Italy,Right-Back,RB,-,Juventus Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luigi-sartor/profil/spieler/5941
+Foggia Calcio,Luigi Di Biagio,21,Italy,Defensive Midfield,DM,-,Calcio Monza,Italy,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luigi-di-biagio/profil/spieler/7927
+Foggia Calcio,Gianluca Grassadonia,20,Italy,Centre-Back,CB,-,US Salernitana,Italy,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-grassadonia/profil/spieler/21833
+Foggia Calcio,Pier Luigi Nicoli,26,Italy,Right-Back,RB,-,Calcio Catania,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/pier-luigi-nicoli/profil/spieler/224534
+Foggia Calcio,Pierpaolo Bresciani,21,Italy,Right Winger,RW,-,US Palermo,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/pierpaolo-bresciani/profil/spieler/167856
+Foggia Calcio,Pasquale De Vincenzo,24,Italy,Central Midfield,CM,-,Reggina Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/pasquale-de-vincenzo/profil/spieler/226434
+Foggia Calcio,Giordano Caini,23,Italy,Left-Back,LB,-,Calcio Catania,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giordano-caini/profil/spieler/226413
+Foggia Calcio,Giuseppe Fornaciari,24,Italy,Centre-Back,CB,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-fornaciari/profil/spieler/226449
+Foggia Calcio,Donatello Gasparini,20,Italy,Defender,Defender,-,AC Pro Sesto,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/donatello-gasparini/profil/spieler/226451
+Foggia Calcio,Hernán Medford,24,Costa Rica,Centre-Forward,CF,-,Rayo Vallecano,Spain,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/hernan-medford/profil/spieler/45387
+Foggia Calcio,Oberdan Biagioni,22,Italy,Attacking Midfield,AM,-,AS Cosenza Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/oberdan-biagioni/profil/spieler/224545
+Foggia Calcio,David Bianchini,20,Italy,Centre-Back,CB,-,AS Lodigiani,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/david-bianchini/profil/spieler/226405
+Foggia Calcio,Paolo Mandelli,24,Italy,Left Winger,LW,-,Calcio Monza,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-mandelli/profil/spieler/226479
+Foggia Calcio,Nicoló Sciacca,23,Italy,Central Midfield,CM,-,Trapani Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/nicolo-sciacca/profil/spieler/226518
+Foggia Calcio,Andrea Seno,26,Italy,Central Midfield,CM,-,Como Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-seno/profil/spieler/199794
+Foggia Calcio,Mauro Bacchin,22,Italy,Goalkeeper,GK,-,Barletta Calcio Sport,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-bacchin/profil/spieler/226400
+Foggia Calcio,Giovanni Pisano,23,Italy,Centre-Forward,CF,-,Leonzio Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giovanni-pisano/profil/spieler/226503
+Foggia Calcio,Giuseppe Di Bari,22,Italy,Centre-Back,CB,-,AS Bisceglie 1913,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-di-bari/profil/spieler/226436
+Atalanta BC,Maurizio Ganz,23,Italy,Centre-Forward,CF,-,Brescia Calcio,Italy,£108Th.,In,1992,s,serie-a,https://www.transfermarkt.co.uk/maurizio-ganz/profil/spieler/15272
+Atalanta BC,Leonardo Rodríguez,25,Argentina,Attacking Midfield,AM,-,FC Toulouse,France,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/leonardo-rodriguez/profil/spieler/102212
+Atalanta BC,Davide Pinato,28,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/davide-pinato/profil/spieler/120533
+Atalanta BC,Marco Ambrosio,19,Italy,Goalkeeper,GK,-,AC Lumezzane Berretti,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-ambrosio/profil/spieler/4294
+Atalanta BC,Claudio Mascheretti,22,Italy,Defender,Defender,-,AC Palazzolo,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/claudio-mascheretti/profil/spieler/223108
+Atalanta BC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappellini/profil/spieler/6030
+Atalanta BC,Alemão,30,Brazil,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/alemao/profil/spieler/117634
+Atalanta BC,Stefano De Agostini,27,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-de-agostini/profil/spieler/223104
+Atalanta BC,Oscar Magoni,24,Italy,Defensive Midfield,DM,-,Società Calcio Leffe,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/oscar-magoni/profil/spieler/216814
+Atalanta BC,Paolo Montero,20,Uruguay,Centre-Back,CB,-,CA Peñarol,Uruguay,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-montero/profil/spieler/5747
+Atalanta BC,Iván Valenciano,20,Colombia,Centre-Forward,CF,-,Junior FC,Colombia,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/ivan-valenciano/profil/spieler/102182
+Atalanta BC,Roberto Rambaudi,26,Italy,Right Winger,RW,-,Foggia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-rambaudi/profil/spieler/223111
+Atalanta BC,Maurizio Codispoti,28,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/maurizio-codispoti/profil/spieler/223103
+Atalanta BC,Simone Pavan,18,Italy,Centre-Back,CB,-,Atalanta Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/simone-pavan/profil/spieler/17149
+UC Sampdoria,Des Walker,26,England,Centre-Back,CB,-,Nottingham Forest,England,£1.53m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/des-walker/profil/spieler/10000
+UC Sampdoria,Enrico Chiesa,21,Italy,Centre-Forward,CF,-,Chieti Calcio,Italy,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/enrico-chiesa/profil/spieler/7329
+UC Sampdoria,Michele Serena,22,Italy,Left-Back,LB,-,Verona FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/michele-serena/profil/spieler/5777
+UC Sampdoria,Eugenio Corini,21,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/eugenio-corini/profil/spieler/5921
+UC Sampdoria,Vladimir Jugovic,22,Serbia,Left Midfield,LM,-,Red Star Belgrade,Serbia,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/vladimir-jugovic/profil/spieler/5297
+UC Sampdoria,Nicola Zanini,18,Italy,Attacking Midfield,AM,-,Juventus FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/nicola-zanini/profil/spieler/22218
+UC Sampdoria,Mauro Bertarelli,21,Italy,Forward,Forward,-,Ancona Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-bertarelli/profil/spieler/229085
+UC Sampdoria,Stefano Sacchetti,19,Italy,Centre-Back,CB,-,Modena FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-sacchetti/profil/spieler/6753
+UC Sampdoria,Roberto Bucchioni,19,Italy,Defender,Defender,-,Sampdoria Primavera,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-bucchioni/profil/spieler/229090
+Ancona Calcio,Sergio Zárate,23,Argentina,Centre-Forward,CF,-,1.FC Nuremberg,Germany,Loan fee:£315Th.,In,1992,s,serie-a,https://www.transfermarkt.co.uk/sergio-zarate/profil/spieler/17984
+Ancona Calcio,Nicola Caccia,22,Italy,Centre-Forward,CF,-,Modena FC,Italy,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/nicola-caccia/profil/spieler/21912
+Ancona Calcio,Massimo Agostini,28,Italy,Centre-Forward,CF,-,AC Parma,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-agostini/profil/spieler/180478
+Ancona Calcio,Paolo Cangini,24,Italy,Midfielder,Midfielder,-,Rimini FC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-cangini/profil/spieler/249022
+Ancona Calcio,Lajos Détári,29,Hungary,Attacking Midfield,AM,-,Bologna FC 1909,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/lajos-detari/profil/spieler/97894
+Ancona Calcio,Oscar Ruggeri,30,Argentina,Centre-Back,CB,-,Club Atlético Vélez Sarsfield,Argentina,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/oscar-ruggeri/profil/spieler/102214
+Ancona Calcio,Felice Centofanti,23,Italy,Left-Back,LB,-,US Palermo,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/felice-centofanti/profil/spieler/227800
+Ancona Calcio,Luca Bertarelli,18,Italy,Forward,Forward,-,Riccione,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-bertarelli/profil/spieler/253295
+Cagliari Calcio,Luis Oliveira,23,Belgium,Centre-Forward,CF,-,RSC Anderlecht,Belgium,£2.70m,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luis-oliveira/profil/spieler/22087
+Cagliari Calcio,Vittorio Pusceddu,28,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/vittorio-pusceddu/profil/spieler/223354
+Cagliari Calcio,Guido Nanni,24,Italy,Goalkeeper,GK,-,AS Ischia Isolaverde,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/guido-nanni/profil/spieler/249045
+Cagliari Calcio,Giuseppe Pancaro,20,Italy,Right-Back,RB,-,Avezzano Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-pancaro/profil/spieler/5833
+Cagliari Calcio,Francesco Moriero,23,Italy,Right Winger,RW,-,US Lecce,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/francesco-moriero/profil/spieler/108638
+Cagliari Calcio,Marco Sanna,22,Italy,Central Midfield,CM,-,SEF Tempio Pausania,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-sanna/profil/spieler/105017
+Cagliari Calcio,Marcelo Tejera,18,Uruguay,Defensive Midfield,DM,-,Defensor Sporting Club,Uruguay,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/marcelo-tejera/profil/spieler/35417
+Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Torino Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+Delfino Pescara 1936,Ottavio Palladini,20,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,Free transfer,In,1992,s,serie-a,https://www.transfermarkt.co.uk/ottavio-palladini/profil/spieler/22283
+Delfino Pescara 1936,Roberto Gnoli,21,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-gnoli/profil/spieler/255314
+Delfino Pescara 1936,Roger Mendy,32,Senegal,Sweeper,SW,-,AS Monaco,France,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roger-mendy/profil/spieler/108770
+Delfino Pescara 1936,Blaz Sliskovic,33,Bosnia-Herzegovina,Central Midfield,CM,-,Stade Rennais FC,France,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/blaz-sliskovic/profil/spieler/229181
+Delfino Pescara 1936,Vincenzo Aureli,19,Italy,Forward,Forward,-,Fucense,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-aureli/profil/spieler/253293
+Delfino Pescara 1936,John Sivebaek,30,Denmark,Right-Back,RB,-,AS Monaco,France,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/john-sivebaek/profil/spieler/101305
+Delfino Pescara 1936,Mauro Zironelli,22,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-zironelli/profil/spieler/314705
+Delfino Pescara 1936,Vittorio Pinciarelli,20,Italy,Midfielder,Midfielder,-,Real Giulianova SSD,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/vittorio-pinciarelli/profil/spieler/229160
+Delfino Pescara 1936,Dunga,28,Brazil,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/dunga/profil/spieler/96342
+Delfino Pescara 1936,Stefano Borgonovo,28,Italy,Centre-Forward,CF,-,AC Fiorentina,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-borgonovo/profil/spieler/192594
+Delfino Pescara 1936,Giuseppe Compagno,24,Italy,Right Winger,RW,-,AS Cosenza Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-compagno/profil/spieler/222974
+SSC Napoli,Jonas Thern,25,Sweden,Central Midfield,CM,-,SL Benfica,Portugal,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/jonas-thern/profil/spieler/34025
+SSC Napoli,Angelo Carbone,24,Italy,Right Midfield,RM,-,Milan AC,Italy,Loan,In,1992,s,serie-a,https://www.transfermarkt.co.uk/angelo-carbone/profil/spieler/177667
+SSC Napoli,Carlo Cornacchia,27,Italy,Right-Back,RB,-,Atalanta BC,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/carlo-cornacchia/profil/spieler/223009
+SSC Napoli,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+SSC Napoli,Daniel Fonseca,22,Uruguay,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/daniel-fonseca/profil/spieler/151825
+SSC Napoli,Luca Altomare,20,Italy,Central Midfield,CM,-,AC Reggiana,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-altomare/profil/spieler/228559
+SSC Napoli,Paolo Ziliani,21,Italy,Sweeper,SW,-,Brescia Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-ziliani/profil/spieler/228303
+SSC Napoli,Fausto Pari,29,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fausto-pari/profil/spieler/181052
+SSC Napoli,Roberto Policano,28,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,In,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-policano/profil/spieler/222760
+SSC Napoli,Fabio Cannavaro,18,Italy,Centre-Back,CB,-,Napoli Primavera ,Italy,-,In,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-cannavaro/profil/spieler/5775
+Milan AC,Diego Fuser,23,Italy,Right Midfield,RM,-,SS Lazio,Italy,£1.80m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/diego-fuser/profil/spieler/5952
+Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappellini/profil/spieler/6030
+Milan AC,Angelo Carbone,24,Italy,Right Midfield,RM,-,SSC Napoli,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/angelo-carbone/profil/spieler/177667
+Milan AC,Davide Corti,19,Italy,Defender,Defender,-,FC Empoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/davide-corti/profil/spieler/246380
+Milan AC,Roberto Bandirali,20,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-bandirali/profil/spieler/248990
+Milan AC,Giovanni Cornacchini,26,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giovanni-cornacchini/profil/spieler/168196
+Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappellini/profil/spieler/6030
+Milan AC,Carlo Ancelotti,33,Italy,Central Midfield,CM,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/carlo-ancelotti/profil/spieler/116679
+AS Roma,Rudi Völler,32,Germany,Centre-Forward,CF,-,Olympique Marseille,France,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rudi-voller/profil/spieler/13775
+AS Roma,Fabrizio Di Mauro,27,Italy,Defensive Midfield,DM,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-di-mauro/profil/spieler/224932
+AS Roma,Andrea Orocini,20,Italy,Midfielder,Midfielder,-,USC Baracca Lugo 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-orocini/profil/spieler/336898
+AS Roma,Ferro Tontini,22,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/ferro-tontini/profil/spieler/247321
+AS Roma,Alessio Scarchilli,19,Italy,Attacking Midfield,AM,-,US Lecce,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alessio-scarchilli/profil/spieler/16572
+AS Roma,Stefano Pellegrini,24,Italy,Right-Back,RB,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-pellegrini/profil/spieler/224536
+AS Roma,Gabriele Grossi,20,Italy,Left-Back,LB,-,US Lecce,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gabriele-grossi/profil/spieler/227658
+AS Roma,Marco De Marchi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,"End of loanJun 30, 1992",Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-de-marchi/profil/spieler/186334
+Brescia Calcio,Maurizio Ganz,23,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,£108Th.,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/maurizio-ganz/profil/spieler/15272
+Brescia Calcio,Paolo Bonfadini,20,Italy,Defender,Defender,-,AC Spezia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-bonfadini/profil/spieler/478248
+Brescia Calcio,Fabio Gallo,22,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-gallo/profil/spieler/23358
+Brescia Calcio,Daniele Carnasciali,25,Italy,Right-Back,RB,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/daniele-carnasciali/profil/spieler/146676
+Brescia Calcio,Marco Merlo,24,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-merlo/profil/spieler/227675
+Brescia Calcio,Stefano Preti,21,Italy,Midfielder,Midfielder,-,AC Palazzolo,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-preti/profil/spieler/478275
+Brescia Calcio,Riccardo Masia,19,Italy,Defender,Defender,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/riccardo-masia/profil/spieler/478247
+Brescia Calcio,Emanuele Filippini,18,Italy,Central Midfield,CM,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/emanuele-filippini/profil/spieler/5871
+Brescia Calcio,Luca Luzardi,22,Italy,Centre-Back,CB,-,SS Lazio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-luzardi/profil/spieler/224935
+Brescia Calcio,Daniele Cerretti,18,Italy,Goalkeeper,GK,-,CPR Ospitaletto,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/daniele-cerretti/profil/spieler/338940
+Brescia Calcio,Corrado Cortesi,25,Italy,Forward,Forward,-,AC Palazzolo,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/corrado-cortesi/profil/spieler/478276
+Brescia Calcio,Francesco Passiatore,21,Italy,Forward,Forward,-,Casarano Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/francesco-passiatore/profil/spieler/228233
+Brescia Calcio,Antonio Filippini,18,Italy,Right Midfield,RM,-,CPR Ospitaletto,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-filippini/profil/spieler/5973
+Brescia Calcio,Filippo Citterio,36,Italy,Left-Back,LB,-,USD 1913 Seregno Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/filippo-citterio/profil/spieler/243800
+Brescia Calcio,Paolo Ziliani,21,Italy,Sweeper,SW,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-ziliani/profil/spieler/228303
+Brescia Calcio,Filippo Masolini,22,Italy,Midfielder,Midfielder,-,AC Cesena,Italy,"End of loanJun 1, 1992",Out,1992,s,serie-a,https://www.transfermarkt.co.uk/filippo-masolini/profil/spieler/226483
+FC Internazionale,Jürgen Klinsmann,27,Germany,Centre-Forward,CF,-,AS Monaco,France,£6.30m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/jurgen-klinsmann/profil/spieler/16980
+FC Internazionale,Lothar Matthäus,31,Germany,Defensive Midfield,DM,-,Bayern Munich,Germany,£1.80m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/lothar-matthaus/profil/spieler/1527
+FC Internazionale,Marco Delvecchio,19,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,Loan fee:£135Th.,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-delvecchio/profil/spieler/5961
+FC Internazionale,Andreas Brehme,31,Germany,Left-Back,LB,-,Real Zaragoza,Spain,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andreas-brehme/profil/spieler/16056
+FC Internazionale,Massimo Ciocci,24,Italy,Centre-Forward,CF,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-ciocci/profil/spieler/223457
+FC Internazionale,Raffaele Nuzzo,19,Italy,Goalkeeper,GK,-,US Pergolettese 1932,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/raffaele-nuzzo/profil/spieler/228538
+FC Internazionale,Marco Grossi,19,Italy,Midfielder,Midfielder,-,Ascoli Calcio 1898,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-grossi/profil/spieler/254370
+FC Internazionale,Giuseppe Baresi,34,Italy,Defensive Midfield,DM,-,Modena FC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-baresi/profil/spieler/116683
+FC Internazionale,Stefano Desideri,27,Italy,Right Midfield,RM,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-desideri/profil/spieler/224529
+FC Internazionale,Davide Belotti,20,Italy,Centre-Back,CB,-,SS Nola 1925,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/davide-belotti/profil/spieler/23597
+FC Internazionale,Paolo Orlandoni,19,Italy,Goalkeeper,GK,-,Società Calcio Leffe,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-orlandoni/profil/spieler/21797
+FC Internazionale,Massimiliano Caniato,24,Italy,Goalkeeper,GK,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-caniato/profil/spieler/224527
+FC Internazionale,Fausto Pizzi,24,Italy,Attacking Midfield,AM,-,AC Parma,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fausto-pizzi/profil/spieler/224590
+FC Internazionale,Luca Mondini,22,Italy,Goalkeeper,GK,-,Como Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-mondini/profil/spieler/30646
+AC Parma,Giovanni Bia,23,Italy,Centre-Back,CB,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giovanni-bia/profil/spieler/152724
+AC Parma,Antonio Sconziano,20,Italy,Right-Back,RB,-,US Avellino,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-sconziano/profil/spieler/228318
+AC Parma,Tarcisio Catanese,24,Italy,Midfielder,Midfielder,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/tarcisio-catanese/profil/spieler/227642
+AC Parma,Massimo Agostini,28,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-agostini/profil/spieler/180478
+AC Parma,Aldo Monza,22,Italy,Midfielder,Midfielder,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/aldo-monza/profil/spieler/229210
+AC Parma,Stefano Nava,23,Italy,Centre-Back,CB,-,Milan AC,Italy,"End of loanJun 30, 1992",Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-nava/profil/spieler/91795
+Genoa 1893,Gianluca Berti,25,Italy,Goalkeeper,GK,-,AC Pisa 1909,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-berti/profil/spieler/6010
+Genoa 1893,Carlos Aguilera,27,Uruguay,Centre-Forward,CF,-,Torino Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/carlos-aguilera/profil/spieler/116069
+Genoa 1893,Stefano Eranio,25,Italy,Right Midfield,RM,-,Milan AC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-eranio/profil/spieler/4227
+Genoa 1893,Fabio Visca,22,Italy,Midfielder,Midfielder,-,AS Casale,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fabio-visca/profil/spieler/243636
+Genoa 1893,Marco Pacione,28,Italy,Left Winger,LW,-,AC Reggiana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-pacione/profil/spieler/135339
+Genoa 1893,Simone Braglia,29,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/simone-braglia/profil/spieler/223453
+Genoa 1893,Manuel Ghizzardi,19,Italy,Goalkeeper,GK,-,Carrarese Calcio 1908,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/manuel-ghizzardi/profil/spieler/243609
+Genoa 1893,Paolo Ponzo,20,Italy,Defensive Midfield,DM,-,Aquila 1902 Montevarchi,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-ponzo/profil/spieler/6047
+Genoa 1893,Andrea Bianchi,23,Italy,Midfielder,Midfielder,-,AS Lucchese Libertas,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-bianchi/profil/spieler/223452
+Genoa 1893,Massimiliano Corrado,20,Italy,Right-Back,RB,-,AC Reggiana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-corrado/profil/spieler/223460
+SS Lazio,Rubén Sosa,26,Uruguay,Centre-Forward,CF,-,FC Internazionale,Italy,£5.40m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/ruben-sosa/profil/spieler/22455
+SS Lazio,Claudio Vertova,32,Italy,Defender,Defender,-,Calcio Lecco 1912,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/claudio-vertova/profil/spieler/223001
+SS Lazio,Alessandro Manetti,20,Italy,Midfielder,Midfielder,-,ASD Acireale Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alessandro-manetti/profil/spieler/21846
+SS Lazio,Gabriele Pin,30,Italy,Central Midfield,CM,-,AC Parma,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gabriele-pin/profil/spieler/120410
+SS Lazio,Stefano Melchiori,26,Italy,Midfielder,Midfielder,-,US Lecce,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-melchiori/profil/spieler/224938
+SS Lazio,Roberto Soldà,33,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-solda/profil/spieler/121101
+SS Lazio,Berardino Capocchiano,26,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/berardino-capocchiano/profil/spieler/78847
+SS Lazio,Raffaele Sergio,25,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/raffaele-sergio/profil/spieler/224538
+SS Lazio,Paolo Di Sarno,24,Italy,Goalkeeper,GK,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-di-sarno/profil/spieler/224556
+Udinese Calcio,Stefano Rossini,21,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-rossini/profil/spieler/30656
+Udinese Calcio,Willi Pittana,20,Italy,Midfielder,Midfielder,-,Calcio Catania,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/willi-pittana/profil/spieler/224589
+Udinese Calcio,Marco Nappi,26,Italy,Second Striker,SS,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-nappi/profil/spieler/120420
+Udinese Calcio,Manuel Marcuz,20,Italy,Right-Back,RB,-,Calcio Catania,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/manuel-marcuz/profil/spieler/224574
+Udinese Calcio,Rodolfo Vanoli,29,Italy,Midfielder,Midfielder,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rodolfo-vanoli/profil/spieler/224605
+Udinese Calcio,Antonino Gazzè,17,Italy,Defender,Defender,-,Parma Primavera,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/antonino-gazze/profil/spieler/727095
+Udinese Calcio,Antonio Manicone,25,Italy,Defensive Midfield,DM,-,FC Internazionale,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/antonio-manicone/profil/spieler/223471
+Udinese Calcio,Massimo Susic,25,Italy,Centre-Back,CB,-,AC Pisa 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-susic/profil/spieler/224597
+Udinese Calcio,Simone Cadamuro,19,Italy,Forward,Forward,-,Formia Calcio,Italy,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/simone-cadamuro/profil/spieler/478337
+Udinese Calcio,Massimiliano Buzzinelli,19,Italy,Midfielder,Midfielder,-,Avezzano Calcio,Italy,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-buzzinelli/profil/spieler/478336
+Torino Calcio,Gianluigi Lentini,23,Italy,Right Winger,RW,-,Milan AC,Italy,£8.60m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluigi-lentini/profil/spieler/171685
+Torino Calcio,Christian Vieri,18,Italy,Centre-Forward,CF,-,AC Pisa 1909,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/christian-vieri/profil/spieler/5797
+Torino Calcio,Massimiliano Manni,20,Italy,Left-Back,LB,-,Avezzano Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-manni/profil/spieler/253646
+Torino Calcio,Carmelo Puglisi,20,Italy,Midfielder,Midfielder,-,AC Riunite Messina,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/carmelo-puglisi/profil/spieler/254113
+Torino Calcio,Massimiliano Ferina,20,Italy,Defender,Defender,-,FC Pavia 1911,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-ferina/profil/spieler/254082
+Torino Calcio,Benny Carbone,20,Italy,Second Striker,SS,-,Ascoli Calcio 1898,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/benny-carbone/profil/spieler/3389
+Torino Calcio,Marco Bertelli,20,Italy,Forward,Forward,-,US Massese 1919,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-bertelli/profil/spieler/246546
+Torino Calcio,Roberto Policano,28,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-policano/profil/spieler/222760
+Torino Calcio,Ivanoe Lanzara,19,Italy,Left-Back,LB,-,Società Calcio Leffe,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/ivanoe-lanzara/profil/spieler/32091
+Torino Calcio,Rafael Martin Vazquez,26,Spain,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rafael-martin-vazquez/profil/spieler/79567
+Torino Calcio,Luca Pastine,21,Italy,Goalkeeper,GK,-,US Casertana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/luca-pastine/profil/spieler/227499
+Torino Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+Torino Calcio,Roberto Cravero,28,Italy,Sweeper,SW,-,SS Lazio,Italy,,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-cravero/profil/spieler/118250
+AC Fiorentina,Pietro Maiellaro,28,Italy,Midfielder,Midfielder,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/pietro-maiellaro/profil/spieler/227279
+AC Fiorentina,Ramon Aiana,19,Italy,Forward,Forward,-,,Unknown,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/ramon-aiana/profil/spieler/227269
+AC Fiorentina,Dunga,28,Brazil,Defensive Midfield,DM,-,Delfino Pescara 1936,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/dunga/profil/spieler/96342
+AC Fiorentina,Marco Branca,27,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-branca/profil/spieler/169692
+AC Fiorentina,Stefano Carobbi,28,Italy,Right-Back,RB,-,US Lecce,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-carobbi/profil/spieler/214766
+AC Fiorentina,Giacomo Banchelli,19,Italy,Centre-Forward,CF,-,US Alessandria Calcio,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giacomo-banchelli/profil/spieler/223333
+AC Fiorentina,Vincenzo Matrone,20,Italy,Defender,Defender,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-matrone/profil/spieler/248885
+AC Fiorentina,Mazinho,26,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mazinho/profil/spieler/102588
+AC Fiorentina,Stefano Borgonovo,28,Italy,Centre-Forward,CF,-,Delfino Pescara 1936,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-borgonovo/profil/spieler/192594
+AC Fiorentina,Emiliano Biliotti,17,Italy,Attacking Midfield,AM,-,AC Siena,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/emiliano-biliotti/profil/spieler/21183
+AC Fiorentina,Massimiliano Fiondella,23,Italy,Defender,Defender,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-fiondella/profil/spieler/227275
+AC Fiorentina,Celeste Pin,31,Italy,Defender,Defender,-,Verona FC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/celeste-pin/profil/spieler/120428
+AC Fiorentina,Stefano Salvatori,24,Italy,Defensive Midfield,DM,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-salvatori/profil/spieler/169010
+AC Fiorentina,Rufo Emiliano Verga,22,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rufo-emiliano-verga/profil/spieler/222788
+Juventus FC,Stefan Reuter,25,Germany,Right Midfield,RM,-,Borussia Dortmund,Germany,£1.89m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefan-reuter/profil/spieler/130
+Juventus FC,Salvatore Schillaci,27,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£990Th.,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/salvatore-schillaci/profil/spieler/90513
+Juventus FC,Gianluca Luppi,25,Italy,Centre-Back,CB,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-luppi/profil/spieler/222791
+Juventus FC,Rubens Pasino,20,Italy,Attacking Midfield,AM,-,Calcio Lecco 1912,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rubens-pasino/profil/spieler/6054
+Juventus FC,Nicola Zanini,18,Italy,Attacking Midfield,AM,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/nicola-zanini/profil/spieler/22218
+Juventus FC,Stefano Tacconi,35,Italy,Goalkeeper,GK,-,Genoa 1893,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-tacconi/profil/spieler/118257
+Juventus FC,Roberto Ricca,19,Italy,Defender,Defender,-,US Pro Vercelli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-ricca/profil/spieler/294973
+Juventus FC,Eugenio Corini,21,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/eugenio-corini/profil/spieler/5921
+Juventus FC,Luigi De Agostini,31,Italy,Left-Back,LB,-,FC Internazionale,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/luigi-de-agostini/profil/spieler/118258
+Juventus FC,Angelo Alessio,27,Italy,Right Winger,RW,-,AS Bari,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/angelo-alessio/profil/spieler/222798
+Foggia Calcio,Igor Shalimov,23,Russia,Attacking Midfield,AM,-,FC Internazionale,Italy,£6.08m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/igor-shalimov/profil/spieler/88150
+Foggia Calcio,Angelo Consagra,28,Italy,Defender,Defender,-,AS Bari,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/angelo-consagra/profil/spieler/226427
+Foggia Calcio,Gianluca Musumeci,22,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-musumeci/profil/spieler/226490
+Foggia Calcio,Giuseppe Signori,24,Italy,Centre-Forward,CF,-,SS Lazio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-signori/profil/spieler/3526
+Foggia Calcio,Pasquale Padalino,20,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/pasquale-padalino/profil/spieler/151799
+Foggia Calcio,Roberto Rambaudi,26,Italy,Right Winger,RW,-,Atalanta BC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/roberto-rambaudi/profil/spieler/223111
+Foggia Calcio,Mauro Rosin,27,Italy,Goalkeeper,GK,-,PC Ternana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-rosin/profil/spieler/226513
+Foggia Calcio,Mauro Picasso,26,Italy,Midfielder,Midfielder,-,AC Reggiana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-picasso/profil/spieler/226500
+Foggia Calcio,Giuseppe Lo Polito,19,Italy,Midfielder,Midfielder,-,US Salernitana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-lo-polito/profil/spieler/226474
+Foggia Calcio,Francesco Baiano,24,Italy,Right Winger,RW,-,AC Fiorentina,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/francesco-baiano/profil/spieler/107802
+Foggia Calcio,Onofrio Barone,27,Italy,Central Midfield,CM,-,AS Bari,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/onofrio-barone/profil/spieler/226403
+Foggia Calcio,Maurizio Codispoti,28,Italy,Defender,Defender,-,Atalanta BC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/maurizio-codispoti/profil/spieler/223103
+Foggia Calcio,Alessandro Porro,25,Italy,Midfielder,Midfielder,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alessandro-porro/profil/spieler/226505
+Foggia Calcio,Salvatore Matrecano,21,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/salvatore-matrecano/profil/spieler/224531
+Foggia Calcio,Tommaso Napoli,24,Italy,Centre-Back,CB,-,AS Cosenza Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/tommaso-napoli/profil/spieler/226491
+Foggia Calcio,Mauro Biolghini,19,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-biolghini/profil/spieler/254334
+Atalanta BC,Pierluigi Orlandini,19,Italy,Right Midfield,RM,-,US Lecce,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/pierluigi-orlandini/profil/spieler/160215
+Atalanta BC,Carlos Bianchezi,27,Brazil,Centre-Forward,CF,-,CF Monterrey,Mexico,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/carlos-bianchezi/profil/spieler/223003
+Atalanta BC,Carlo Cornacchia,27,Italy,Right-Back,RB,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/carlo-cornacchia/profil/spieler/223009
+Atalanta BC,Tiziano Ramon,21,Italy,Goalkeeper,GK,-,Casarano Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/tiziano-ramon/profil/spieler/6196
+Atalanta BC,Riccardo Bracaloni,22,Italy,Central Midfield,CM,-,Chievo Verona,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/riccardo-bracaloni/profil/spieler/222971
+Atalanta BC,Lamberto Piovanelli,28,Italy,Centre-Forward,CF,-,Verona FC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/lamberto-piovanelli/profil/spieler/222987
+Atalanta BC,Stefano Sottili,22,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-sottili/profil/spieler/223020
+Atalanta BC,Eligio Nicolini,31,Italy,Right Winger,RW,-,US Cremonese,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/eligio-nicolini/profil/spieler/222998
+Atalanta BC,Astutillo Malgioglio,34,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/astutillo-malgioglio/profil/spieler/223011
+Atalanta BC,Pier Angelo Brianza,18,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/pier-angelo-brianza/profil/spieler/254946
+Atalanta BC,Glenn Strömberg,32,Sweden,Central Midfield,CM,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/glenn-stromberg/profil/spieler/222990
+UC Sampdoria,Gianluca Vialli,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£14.85m,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-vialli/profil/spieler/16036
+UC Sampdoria,Silas,26,Brazil,Central Midfield,CM,-,Sport Club Internacional,Brazil,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/silas/profil/spieler/117636
+UC Sampdoria,Alessandro Orlando,22,Italy,Left-Back,LB,-,Udinese Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alessandro-orlando/profil/spieler/177685
+UC Sampdoria,Giorgio Zanutta,18,Italy,Defender,Defender,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giorgio-zanutta/profil/spieler/246623
+UC Sampdoria,Dario Bonetti,30,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/dario-bonetti/profil/spieler/121088
+UC Sampdoria,Fausto Pari,29,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fausto-pari/profil/spieler/181052
+UC Sampdoria,Giovanni Dall'Igna,19,Italy,Right-Back,RB,-,SP Ars et Labor,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giovanni-dalligna/profil/spieler/30628
+UC Sampdoria,Sergio Porcù,20,Italy,Goalkeeper,GK,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/sergio-porcu/profil/spieler/304268
+Ancona Calcio,Sandro Tovalieri,27,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/sandro-tovalieri/profil/spieler/223115
+Ancona Calcio,Paolo Cangini,25,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,Loan,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-cangini/profil/spieler/249022
+Ancona Calcio,Gianluca De Angelis,24,Italy,Midfielder,Midfielder,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianluca-de-angelis/profil/spieler/336671
+Ancona Calcio,Paolo Siroti,22,Italy,Defender,Defender,-,US Alessandria Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-siroti/profil/spieler/255896
+Ancona Calcio,Eupremio Carruezzo,22,Italy,Centre-Forward,CF,-,Calcio Monza,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/eupremio-carruezzo/profil/spieler/223337
+Ancona Calcio,Aureliano Modesti,18,Italy,Midfielder,Midfielder,-,Alma Juventus Fano 1906,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/aureliano-modesti/profil/spieler/255710
+Ancona Calcio,Mauro Bertarelli,21,Italy,Forward,Forward,-,UC Sampdoria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-bertarelli/profil/spieler/229085
+Cagliari Calcio,Daniel Fonseca,22,Uruguay,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/daniel-fonseca/profil/spieler/151825
+Cagliari Calcio,Mauro Nardini,28,Italy,Right Winger,RW,-,AS Fidelis Andria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/mauro-nardini/profil/spieler/223473
+Cagliari Calcio,Andrea Pistella,26,Italy,Centre-Forward,CF,-,AS Lucchese Libertas,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-pistella/profil/spieler/223477
+Cagliari Calcio,Emilio Budruni,22,Italy,Forward,Forward,-,AS Ischia Isolaverde,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/emilio-budruni/profil/spieler/223454
+Cagliari Calcio,Alfonso Greco,23,Italy,Central Midfield,CM,-,Calcio Catania,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alfonso-greco/profil/spieler/223466
+Cagliari Calcio,Stefano Mobili,23,Italy,Attacking Midfield,AM,-,Modena FC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-mobili/profil/spieler/223472
+Cagliari Calcio,James Walter Wilson,20,Italy,Defensive Midfield,DM,-,Avezzano Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/james-walter-wilson/profil/spieler/223494
+Cagliari Calcio,Pierluigi Corellas,20,Italy,Forward,Forward,-,Centese Calcio 1913,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/pierluigi-corellas/profil/spieler/244907
+Cagliari Calcio,Flavio Chiti,22,Italy,Right-Back,RB,-,AC Venezia 1907,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/flavio-chiti/profil/spieler/223456
+Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+Cagliari Calcio,Luigi Pili,20,Italy,Midfielder,Midfielder,-,,Unknown,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/luigi-pili/profil/spieler/294781
+Delfino Pescara 1936,Michele Gelsi,23,Italy,Central Midfield,CM,-,AC Perugia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/michele-gelsi/profil/spieler/32118
+Delfino Pescara 1936,Alberto Torresin,32,Italy,Goalkeeper,GK,-,AS Fidelis Andria,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alberto-torresin/profil/spieler/368010
+Delfino Pescara 1936,Fabrizio Fioretti,26,Italy,Defensive Midfield,DM,-,Piacenza FC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-fioretti/profil/spieler/228139
+Delfino Pescara 1936,Andrea Camplone,25,Italy,Defender,Defender,-,AC Perugia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-camplone/profil/spieler/229093
+Delfino Pescara 1936,Orazio Sorbello,32,Italy,Right Winger,RW,-,ASD Acireale Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/orazio-sorbello/profil/spieler/389885
+Delfino Pescara 1936,Massimo Nunziato,18,Italy,Midfielder,Midfielder,-,ASD Ovidiana Sulmona Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-nunziato/profil/spieler/335831
+Delfino Pescara 1936,Stefano Impallomeni,24,Italy,Midfielder,Midfielder,-,US Casertana,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-impallomeni/profil/spieler/227756
+Delfino Pescara 1936,Rocco Pagano,28,Italy,Right Midfield,RM,-,AC Perugia,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/rocco-pagano/profil/spieler/228373
+Delfino Pescara 1936,Paolo Monelli,29,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/paolo-monelli/profil/spieler/227281
+Delfino Pescara 1936,Nicolino Rosati,29,Italy,Midfielder,Midfielder,-,US Sambenedettese,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/nicolino-rosati/profil/spieler/407488
+Delfino Pescara 1936,Augusto Mantini,19,Italy,Midfielder,Midfielder,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/augusto-mantini/profil/spieler/478327
+Delfino Pescara 1936,Fausto Chiacchiaretta,19,Italy,Defender,Defender,-,,Retired,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fausto-chiacchiaretta/profil/spieler/478324
+SSC Napoli,Ernesto Gallo,19,Italy,Midfielder,Midfielder,-,,Retired,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/ernesto-gallo/profil/spieler/300454
+SSC Napoli,Fernando De Napoli,28,Italy,Central Midfield,CM,-,Milan AC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/fernando-de-napoli/profil/spieler/116755
+SSC Napoli,Andrea Silenzi,26,Italy,Centre-Forward,CF,-,Torino Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/andrea-silenzi/profil/spieler/180552
+SSC Napoli,Vittorio Pusceddu,28,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/vittorio-pusceddu/profil/spieler/223354
+SSC Napoli,Marco Ferrante,21,Italy,Centre-Forward,CF,-,AC Parma,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/marco-ferrante/profil/spieler/21883
+SSC Napoli,Michele Padovano,25,Italy,Centre-Forward,CF,-,Genoa 1893,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/michele-padovano/profil/spieler/158112
+SSC Napoli,Gianfranco Germoni,19,Italy,Defender,Defender,-,Barletta Calcio Sport,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/gianfranco-germoni/profil/spieler/254988
+SSC Napoli,Laurent Blanc,26,France,Sweeper,SW,-,Nîmes Olympique,France,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/laurent-blanc/profil/spieler/3113
+SSC Napoli,Alemão,30,Brazil,Defensive Midfield,DM,-,Atalanta BC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/alemao/profil/spieler/117634
+SSC Napoli,Claudio Bonomi,19,Italy,Left Midfield,LM,-,ASD Castel di Sangro,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/claudio-bonomi/profil/spieler/226059
+SSC Napoli,Stefano De Agostini,27,Italy,Defensive Midfield,DM,-,Atalanta BC,Italy,?,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/stefano-de-agostini/profil/spieler/223104
+SSC Napoli,Massimo Filardi,25,Italy,Left-Back,LB,-,,Unknown,-,Out,1992,s,serie-a,https://www.transfermarkt.co.uk/massimo-filardi/profil/spieler/228856
+Milan AC,Rufo Emiliano Verga,23,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/rufo-emiliano-verga/profil/spieler/222788
+AS Roma,Francesco Totti,16,Italy,Second Striker,SS,-,Roma Primavera,Italy,-,In,1992,w,serie-a,https://www.transfermarkt.co.uk/francesco-totti/profil/spieler/5958
+Brescia Calcio,Dorin Mateut,27,Romania,Attacking Midfield,AM,-,Real Zaragoza,Spain,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/dorin-mateut/profil/spieler/180676
+Brescia Calcio,Paolo Ziliani,21,Italy,Sweeper,SW,-,SSC Napoli,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/paolo-ziliani/profil/spieler/228303
+FC Internazionale,Mirko Taccola,22,Italy,Centre-Back,CB,-,AC Pisa 1909,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/mirko-taccola/profil/spieler/102646
+Udinese Calcio,Michele Gelsi,25,Italy,Central Midfield,CM,-,AC Perugia,Italy,Loan,In,1992,w,serie-a,https://www.transfermarkt.co.uk/michele-gelsi/profil/spieler/32118
+Udinese Calcio,Emiliano Bernardini,18,Italy,Defender,Defender,-,AS Roma,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/emiliano-bernardini/profil/spieler/253294
+AC Fiorentina,Lorenzo D'Anna,20,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/lorenzo-danna/profil/spieler/5913
+Foggia Calcio,Bryan Roy,22,Netherlands,Left Winger,LW,-,Ajax Amsterdam,Netherlands,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/bryan-roy/profil/spieler/351
+Atalanta BC,Maurizio Codispoti,28,Italy,Defender,Defender,-,Foggia Calcio,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/maurizio-codispoti/profil/spieler/223103
+Atalanta BC,Alessio Tacchinardi,17,Italy,Defensive Midfield,DM,-,Atalanta Primavera,Italy,-,In,1992,w,serie-a,https://www.transfermarkt.co.uk/alessio-tacchinardi/profil/spieler/5748
+Ancona Calcio,Milos Glonek,24,Slovakia,Centre-Back,CB,-,Slovan Bratislava,Slovakia,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/milos-glonek/profil/spieler/92359
+Cagliari Calcio,Francesco Bellucci,19,Italy,Centre-Back,CB,-,AS Bari,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/francesco-bellucci/profil/spieler/223334
+SSC Napoli,Fabrizio Carli,17,Italy,Forward,Forward,-,AS Roma,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/fabrizio-carli/profil/spieler/253296
+SSC Napoli,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,Cagliari Calcio,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+SSC Napoli,Sebastiano Nela,31,Italy,Left-Back,LB,-,AS Roma,Italy,?,In,1992,w,serie-a,https://www.transfermarkt.co.uk/sebastiano-nela/profil/spieler/116729
+Milan AC,Massimiliano Cappellini,21,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Loan,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/massimiliano-cappellini/profil/spieler/6030
+Milan AC,Costantino Borneo,20,Italy,Centre-Forward,CF,-,Olbia Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/costantino-borneo/profil/spieler/433133
+AS Roma,Emiliano Bernardini,18,Italy,Defender,Defender,-,Udinese Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/emiliano-bernardini/profil/spieler/253294
+AS Roma,Sebastiano Nela,31,Italy,Left-Back,LB,-,SSC Napoli,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/sebastiano-nela/profil/spieler/116729
+AS Roma,Fabrizio Carli,17,Italy,Forward,Forward,-,SSC Napoli,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/fabrizio-carli/profil/spieler/253296
+Brescia Calcio,Fabio Gallo,22,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/fabio-gallo/profil/spieler/23358
+Brescia Calcio,Francesco Passiatore,21,Italy,Forward,Forward,-,Casarano Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/francesco-passiatore/profil/spieler/228233
+FC Internazionale,Matthias Sammer,25,Germany,Defensive Midfield,DM,-,Borussia Dortmund,Germany,£3.83m,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/matthias-sammer/profil/spieler/77010
+FC Internazionale,Giuseppe Marino,23,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giuseppe-marino/profil/spieler/228540
+FC Internazionale,Marcello Montanari,27,Italy,Sweeper,SW,-,AS Bari,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/marcello-montanari/profil/spieler/228216
+FC Internazionale,Marco Barollo,20,Italy,Midfielder,Midfielder,-,PC Ternana,Italy,Loan,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/marco-barollo/profil/spieler/6024
+AC Parma,Giovanni Sorce,23,Italy,Forward,Forward,-,AC Riunite Messina,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giovanni-sorce/profil/spieler/229212
+AC Parma,Mario Lemme,19,Italy,Midfielder,Midfielder,-,Vicenza Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/mario-lemme/profil/spieler/256651
+Genoa 1893,Igor Dobrovolski,25,Russia,Attacking Midfield,AM,-,Olympique Marseille,France,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/igor-dobrovolski/profil/spieler/69814
+SS Lazio,Roberto Soldà,33,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/roberto-solda/profil/spieler/121101
+SS Lazio,Giacomo Galli,21,Italy,Forward,Forward,-,Formia Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giacomo-galli/profil/spieler/338857
+Udinese Calcio,Piotr Czachowski,26,Poland,Centre-Back,CB,-,Legia Warszawa,Poland,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/piotr-czachowski/profil/spieler/183590
+Torino Calcio,Marco Sinigaglia,24,Italy,Midfielder,Midfielder,-,Calcio Monza,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/marco-sinigaglia/profil/spieler/226520
+Torino Calcio,Maurizio Ferrarese,25,Italy,Left-Back,LB,-,Vicenza Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/maurizio-ferrarese/profil/spieler/448236
+AC Fiorentina,Diego Latorre,23,Argentina,Second Striker,SS,-,CD Tenerife,Spain,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/diego-latorre/profil/spieler/227278
+Foggia Calcio,Maurizio Codispoti,28,Italy,Defender,Defender,-,Atalanta BC,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/maurizio-codispoti/profil/spieler/223103
+Foggia Calcio,Giovanni Pisano,24,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giovanni-pisano/profil/spieler/226503
+UC Sampdoria,Toninho Cerezo,37,Brazil,Defensive Midfield,DM,-,São Paulo Futebol Clube,Brazil,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/toninho-cerezo/profil/spieler/134974
+Ancona Calcio,Giovanni Deogratias,32,Italy,Centre-Back,CB,-,AC Riunite Messina,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giovanni-deogratias/profil/spieler/227803
+Ancona Calcio,Paolo Cangini,25,Italy,Midfielder,Midfielder,-,AS Fidelis Andria,Italy,Loan,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/paolo-cangini/profil/spieler/249022
+Cagliari Calcio,Giorgio Bresciani,23,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/giorgio-bresciani/profil/spieler/222747
+SSC Napoli,Paolo Ziliani,21,Italy,Sweeper,SW,-,Brescia Calcio,Italy,?,Out,1992,w,serie-a,https://www.transfermarkt.co.uk/paolo-ziliani/profil/spieler/228303

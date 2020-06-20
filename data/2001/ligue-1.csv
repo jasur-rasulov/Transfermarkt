@@ -1,519 +1,522 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Olympique Lyon,Éric Carrière,28,France,Attacking Midfield,AM,-,FC Nantes,France,£10.80m,In,2001,s,ligue-1
-Olympique Lyon,Péguy Luyindula,22,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,£7.92m,In,2001,s,ligue-1
-Olympique Lyon,Frédéric Née,26,France,Centre-Forward,CF,-,SC Bastia,France,£6.75m,In,2001,s,ligue-1
-Olympique Lyon,Caçapa,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,£5.58m,In,2001,s,ligue-1
-Olympique Lyon,Yohann Gomez,19,France,Defensive Midfield,DM,-,Olympique Lyon B,France,-,In,2001,s,ligue-1
-Olympique Lyon,Bryan Bergougnoux,18,France,Attacking Midfield,AM,-,Olympique Lyon U19,France,-,In,2001,s,ligue-1
-Olympique Lyon,Roland Vieira,21,France,Centre-Forward,CF,-,SCO Angers,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Lyon,Frédéric Fouret,26,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-RC Lens,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,Stade Rennais FC,France,£4.81m,In,2001,s,ligue-1
-RC Lens,Pape Sarr,23,Senegal,Attacking Midfield,AM,-,AS Saint-Étienne,France,£675Th.,In,2001,s,ligue-1
-RC Lens,Charles Itandje,18,Cameroon,Goalkeeper,GK,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1
-RC Lens,Djimi Traoré,21,Mali,Centre-Back,CB,-,Liverpool FC,England,Loan,In,2001,s,ligue-1
-RC Lens,Stéphane Pédron,30,France,Left Midfield,LM,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1
-RC Lens,Bob Cousin,19,France,Central Midfield,CM,-,LOSC Lille,France,?,In,2001,s,ligue-1
-RC Lens,Jean-Guy Wallemme,33,France,Centre-Back,CB,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1
-RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,"End of loanMay 1, 2002",In,2001,s,ligue-1
-RC Lens,Daouda Jabi,20,Guinea,Right-Back,RB,-,RC Lens B,France,-,In,2001,s,ligue-1
-RC Lens,Nadir Belhadj,19,Algeria,Left-Back,LB,-,RC Lens B,France,-,In,2001,s,ligue-1
-RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanOct 17, 2001",In,2001,s,ligue-1
-RC Lens,Bouabid Bouden,19,Morocco,Centre-Forward,CF,-,RC Lens B,France,-,In,2001,s,ligue-1
-RC Lens,Cyril Rool,26,France,Left-Back,LB,-,Olympique Marseille,France,"End of loanAug 30, 2001",In,2001,s,ligue-1
-RC Lens,Valérien Ismaël,25,France,Centre-Back,CB,-,RC Strasbourg Alsace,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-RC Lens,Xavier Méride,26,France,Centre-Back,CB,-,Union sportive Créteil,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-RC Lens,Sébastien Chabbert,23,France,Goalkeeper,GK,-,FC Metz,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-RC Lens,Yoann Lachor,25,France,Centre-Back,CB,-,Servette FC,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1
-RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,EA Guingamp,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-AJ Auxerre,Yann Lachuer,28,France,Attacking Midfield,AM,-,SC Bastia,France,£1.80m,In,2001,s,ligue-1
-AJ Auxerre,Lassina Diabaté,26,Cote d'Ivoire,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,Free transfer,In,2001,s,ligue-1
-AJ Auxerre,Helder Esteves,24,Portugal,Centre-Forward,CF,-,US Lusitanos Saint-Maur,France,Free transfer,In,2001,s,ligue-1
-AJ Auxerre,Pawel Hajduczek,19,Poland,Defensive Midfield,DM,-,UKS SMS Lodz U19,Poland,Free transfer,In,2001,s,ligue-1
-AJ Auxerre,Nikola Jozic,18,Serbia,Centre-Back,CB,-,Eintracht Frankfurt II,Germany,?,In,2001,s,ligue-1
-AJ Auxerre,Piotr Wlodarczyk,24,Poland,Centre-Forward,CF,-,Slask Wroclaw,Poland,?,In,2001,s,ligue-1
-AJ Auxerre,Lionel Mathis,19,France,Defensive Midfield,DM,-,AJ Auxerre B,France,-,In,2001,s,ligue-1
-AJ Auxerre,Pedro Kamatà,19,DR Congo,Left Winger,LW,-,AJ Auxerre U19,France,-,In,2001,s,ligue-1
-AJ Auxerre,Arnaud Gonzalez,23,France,Centre-Forward,CF,-,AS Beauvais Oise,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Paris Saint-Germain,Hugo Leal,21,Portugal,Central Midfield,CM,-,Atlético Madrid,Spain,£8.55m,In,2001,s,ligue-1
-Paris Saint-Germain,Ronaldinho,21,Brazil,Attacking Midfield,AM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,£4.50m,In,2001,s,ligue-1
-Paris Saint-Germain,Gabriel Heinze,23,Argentina,Centre-Back,CB,-,Real Valladolid CF,Spain,£3.15m,In,2001,s,ligue-1
-Paris Saint-Germain,Aloisio Chulapa,26,Brazil,Centre-Forward,CF,-,AS Saint-Étienne,France,£900Th.,In,2001,s,ligue-1
-Paris Saint-Germain,Alex Dias,29,Brazil,Centre-Forward,CF,-,AS Saint-Étienne,France,Loan fee:£450Th.,In,2001,s,ligue-1
-Paris Saint-Germain,Jérôme Alonzo,28,France,Goalkeeper,GK,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1
-Paris Saint-Germain,Mohamed Bachtobji,21,France,Centre-Back,CB,-,FC 08 Homburg,Germany,Free transfer,In,2001,s,ligue-1
-Paris Saint-Germain,Stéphane Gillet,23,Luxembourg,Goalkeeper,GK,-,SV 07 Elversberg,Germany,Free transfer,In,2001,s,ligue-1
-Paris Saint-Germain,Lionel Potillon,27,France,Left-Back,LB,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1
-Paris Saint-Germain,Bartholomew Ogbeche,16,Nigeria,Centre-Forward,CF,-,Lobi Stars FC,Nigeria,?,In,2001,s,ligue-1
-Paris Saint-Germain,Cristóbal Parralo,33,Spain,Right-Back,RB,-,RCD Espanyol Barcelona,Spain,?,In,2001,s,ligue-1
-Paris Saint-Germain,Francis Llacer,29,France,Left-Back,LB,-,HSC Montpellier,France,?,In,2001,s,ligue-1
-Paris Saint-Germain,Samuel Piètre,17,France,Right Winger,RW,-,FC Paris Saint-Germain B,France,-,In,2001,s,ligue-1
-Paris Saint-Germain,Selim Benachour,19,Tunisia,Attacking Midfield,AM,-,FC Paris Saint-Germain B,France,-,In,2001,s,ligue-1
-Paris Saint-Germain,Younes Bengelloun,18,France,Centre-Back,CB,-,Paris Saint-Germain U19,France,-,In,2001,s,ligue-1
-Paris Saint-Germain,Talal El Karkouri,24,Morocco,Centre-Back,CB,-,Aris Thessaloniki,Greece,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Paris Saint-Germain,Fabrice Abriel,21,France,Central Midfield,CM,-,Servette FC,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1
-LOSC Lille,Adékambi Olufadé,21,Togo,Right Winger,RW,-,KSC Lokeren,Belgium,£1.62m,In,2001,s,ligue-1
-LOSC Lille,Grégory Tafforeau,24,France,Left-Back,LB,-,SM Caen,France,Free transfer,In,2001,s,ligue-1
-LOSC Lille,Rafael,20,Brazil,Centre-Back,CB,-,J.Malucelli Futebol,Brazil,Free transfer,In,2001,s,ligue-1
-LOSC Lille,Grégory Malicki,27,France,Goalkeeper,GK,-,Stade Rennais FC,France,Loan,In,2001,s,ligue-1
-LOSC Lille,Salaheddine Bassir,28,Morocco,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,?,In,2001,s,ligue-1
-LOSC Lille,Laurent Pichon,20,France,Goalkeeper,GK,-,LOSC Lille B,France,-,In,2001,s,ligue-1
-LOSC Lille,Riad Hammadou,24,Algeria,Defender,Defender,-,AS Beauvais Oise,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Girondins Bordeaux,Eduardo Costa,18,Brazil,Defensive Midfield,DM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,£4.50m,In,2001,s,ligue-1
-FC Girondins Bordeaux,Bruno Basto,23,Portugal,Left-Back,LB,-,SL Benfica,Portugal,£2.05m,In,2001,s,ligue-1
-FC Girondins Bordeaux,Christophe Sanchez,28,France,Centre-Forward,CF,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1
-FC Girondins Bordeaux,Paulo Miranda,27,Brazil,Defensive Midfield,DM,-,Club de Regatas Vasco da Gama,Brazil,?,In,2001,s,ligue-1
-FC Girondins Bordeaux,Vikash Dhorasoo,27,France,Central Midfield,CM,-,Olympique Lyon,France,Loan,In,2001,s,ligue-1
-FC Girondins Bordeaux,Christian,26,Brazil,Centre-Forward,CF,-,Paris Saint-Germain,France,?,In,2001,s,ligue-1
-FC Girondins Bordeaux,Abdoulaye Barry,16,Guinea,Centre-Back,CB,-,FC Girondins Bordeaux U19,France,-,In,2001,s,ligue-1
-FC Girondins Bordeaux,Olivier Auriac,17,France,Defensive Midfield,DM,-,FC Girondins Bordeaux B,France,-,In,2001,s,ligue-1
-FC Girondins Bordeaux,Patrick Leugueun,20,France,Centre-Back,CB,-,FC Girondins Bordeaux B,France,-,In,2001,s,ligue-1
-FC Girondins Bordeaux,Hervé Alicarte,26,France,Sweeper,SW,-,FC Toulouse,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Girondins Bordeaux,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Girondins Bordeaux,Bruno Da Rocha,23,France,Midfielder,Midfielder,-,SC Campomaiorense,Portugal,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Girondins Bordeaux,Teddy Richert,26,France,Goalkeeper,GK,-,LOSC Lille,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-ES Troyes AC,Gharib Amzine,28,Morocco,Left Midfield,LM,-,RC Strasbourg Alsace,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Mehdi Leroy,23,France,Midfielder,Midfielder,-,FC Nantes,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Marc Pfertzel,20,France,Right-Back,RB,-,FC Mulhouse 2000,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Olivier Thomas,26,France,Left-Back,LB,-,AS Nancy-Lorraine,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Michael Svensson,25,Sweden,Centre-Back,CB,-,Halmstads BK,Sweden,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Stéphane Cassard,28,France,Goalkeeper,GK,-,Union sportive Créteil,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Patrice Loko,31,France,Centre-Forward,CF,-,Olympique Lyon,France,Free transfer,In,2001,s,ligue-1
-ES Troyes AC,Frédéric Danjou,26,France,Centre-Back,CB,-,Real Oviedo,Spain,?,In,2001,s,ligue-1
-ES Troyes AC,Karim Ziani,18,Algeria,Attacking Midfield,AM,-,ES Troyes AC B,France,-,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Fabien Boudarène,22,France,Defensive Midfield,DM,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Jaouad Zairi,19,Morocco,Right Midfield,RM,-,FC Gueugnon,France,Free transfer,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Jean-Jacques Domoraud,20,Cote d'Ivoire,Right-Back,RB,-,Besançon Racing Club ,France,Free transfer,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Teddy Richert,26,France,Goalkeeper,GK,-,FC Girondins Bordeaux,France,Loan,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Marcelo Luis Trapasso,25,Argentina,Attacking Midfield,AM,-,FC Gueugnon,France,?,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Kamel Chafni,19,Morocco,Attacking Midfield,AM,-,FC Libourne-Saint-Seurin,France,?,In,2001,s,ligue-1
-FC Sochaux-Montbéliard,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,In,2001,s,ligue-1
-Olympique Marseille,Daniel Van Buyten,23,Belgium,Centre-Back,CB,-,Standard Liège,Belgium,£10.35m,In,2001,s,ligue-1
-Olympique Marseille,Delfim,24,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,£4.50m,In,2001,s,ligue-1
-Olympique Marseille,Brahim Hemdani,23,Algeria,Defensive Midfield,DM,-,RC Strasbourg Alsace,France,£3.60m,In,2001,s,ligue-1
-Olympique Marseille,Pascal Nouma,29,France,Centre-Forward,CF,-,Besiktas JK,Turkey,£2.25m,In,2001,s,ligue-1
-Olympique Marseille,Frank Leboeuf,33,France,Centre-Back,CB,-,Chelsea FC,England,£1.62m,In,2001,s,ligue-1
-Olympique Marseille,Vedran Runje,25,Croatia,Goalkeeper,GK,-,Standard Liège,Belgium,Free transfer,In,2001,s,ligue-1
-Olympique Marseille,Jurgen Cavens,23,Belgium,Centre-Forward,CF,-,Standard Liège,Belgium,Loan,In,2001,s,ligue-1
-Olympique Marseille,Piotr Swierczewski,29,Poland,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,In,2001,s,ligue-1
-Olympique Marseille,Claude Gentile,21,Switzerland,Goalkeeper,GK,-,FC Lausanne-Sport,Switzerland,Free transfer,In,2001,s,ligue-1
-Olympique Marseille,Ibrahim Bá,27,France,Right Midfield,RM,-,Milan AC,Italy,Loan,In,2001,s,ligue-1
-Olympique Marseille,Franck Jurietti,26,France,Left-Back,LB,-,AS Monaco,France,Loan,In,2001,s,ligue-1
-Olympique Marseille,Philippe Brunel,28,France,Left Midfield,LM,-,RC Lens,France,Free transfer,In,2001,s,ligue-1
-Olympique Marseille,Fabrice Fernandes,21,France,Left Winger,LW,-,Stade Rennais FC,France,Loan,In,2001,s,ligue-1
-Olympique Marseille,Joseph Yobo,20,Nigeria,Centre-Back,CB,-,Standard Liège,Belgium,?,In,2001,s,ligue-1
-Olympique Marseille,André Luiz,26,Brazil,Attacking Midfield,AM,-,CD Tenerife,Spain,Loan,In,2001,s,ligue-1
-Olympique Marseille,Alberto Rivera,23,Spain,Central Midfield,CM,-,Real Madrid,Spain,Loan,In,2001,s,ligue-1
-Olympique Marseille,Salomon Olembé,20,Cameroon,Left Midfield,LM,-,FC Nantes,France,Loan,In,2001,s,ligue-1
-Olympique Marseille,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,?,In,2001,s,ligue-1
-Olympique Marseille,Alen Skoro,20,Bosnia-Herzegovina,Centre-Forward,CF,-,NK Olimpija Ljubljana,Slovenia,?,In,2001,s,ligue-1
-Olympique Marseille,Vincent Gastine,19,France,Defensive Midfield,DM,-,Olympique Marseille U19,France,-,In,2001,s,ligue-1
-Olympique Marseille,Laurent Merlin,16,France,Attacking Midfield,AM,-,Olympique Marseille U19,France,-,In,2001,s,ligue-1
-Olympique Marseille,Cédric Carrasso,19,France,Goalkeeper,GK,-,Olympique de Marseille B,France,-,In,2001,s,ligue-1
-Olympique Marseille,Loris Reina,21,France,Left-Back,LB,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Marseille,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Marseille,Klas Ingesson,32,Sweden,Defensive Midfield,DM,-,US Lecce,Italy,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,Real Zaragoza,Spain,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Marseille,Pierre Issa,25,South Africa,Centre-Back,CB,-,Chelsea FC,England,"End of loanJun 1, 2001",In,2001,s,ligue-1
-Olympique Marseille,Richard Martini,22,France,Centre-Back,CB,-,FC Martigues,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Marseille,Cyrille Pouget,28,France,Centre-Forward,CF,-,AC Bellinzona,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Nantes,Pierre-Yves André,27,France,Centre-Forward,CF,-,SC Bastia,France,Free transfer,In,2001,s,ligue-1
-FC Nantes,Olivier Quint,29,France,Left Midfield,LM,-,CS Sedan-Ardennes,France,?,In,2001,s,ligue-1
-FC Nantes,Víctor Bonilla,30,Colombia,Centre-Forward,CF,-,FC Toulouse,France,?,In,2001,s,ligue-1
-FC Nantes,Eric Djemba Djemba,20,Cameroon,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2001,s,ligue-1
-FC Nantes,Grégory Pujol,21,France,Centre-Forward,CF,-,FC Nantes B,France,-,In,2001,s,ligue-1
-FC Nantes,Furtado,18,Brazil,Defensive Midfield,DM,-,FC Nantes U19,France,-,In,2001,s,ligue-1
-FC Nantes,Loïc Pailleres,21,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2001,s,ligue-1
-FC Nantes,Shiva N'Zigou,17,Gabon,Left Winger,LW,-,FC Nantes B,France,-,In,2001,s,ligue-1
-FC Nantes,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,SC Bastia,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Nantes,Charles Devineau,21,France,Defensive Midfield,DM,-,Stade Lavallois,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-SC Bastia,Bernard Lambourde,30,France,Centre-Back,CB,-,Chelsea FC,England,£333Th.,In,2001,s,ligue-1
-SC Bastia,Anthar Yahia,19,Algeria,Centre-Back,CB,-,Inter Milan Primavera,Italy,Loan,In,2001,s,ligue-1
-SC Bastia,Price Jolibois,20,France,Left-Back,LB,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1
-SC Bastia,Cyril Jeunechamp,25,France,Defensive Midfield,DM,-,AJ Auxerre,France,Free transfer,In,2001,s,ligue-1
-SC Bastia,Reynald Pedros,29,France,Left Midfield,LM,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1
-SC Bastia,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,FC Nantes,France,Free transfer,In,2001,s,ligue-1
-SC Bastia,Nicolas Dieuze,22,France,Central Midfield,CM,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1
-SC Bastia,Tony Vairelles,28,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,?,In,2001,s,ligue-1
-SC Bastia,Fabien Audard,23,France,Goalkeeper,GK,-,FC Toulouse,France,Loan,In,2001,s,ligue-1
-SC Bastia,Fabrice Jau,22,France,Right Midfield,RM,-,FC Toulouse,France,?,In,2001,s,ligue-1
-SC Bastia,Pierre Deblock,28,France,Right Midfield,RM,-,AJ Auxerre,France,Loan,In,2001,s,ligue-1
-SC Bastia,Damián Manso,22,Argentina,Left Winger,LW,-,Club Atlético Newell's Old Boys,Argentina,Loan,In,2001,s,ligue-1
-SC Bastia,Patrick Beneforti,20,France,Attacking Midfield,AM,-,SC Bastia B,France,-,In,2001,s,ligue-1
-Stade Rennais FC,Mario Turdó,22,Argentina,Centre-Forward,CF,-,Celta de Vigo,Spain,£9.74m,In,2001,s,ligue-1
-Stade Rennais FC,Olivier Monterrubio,24,France,Left Midfield,LM,-,FC Nantes,France,£2.70m,In,2001,s,ligue-1
-Stade Rennais FC,Jure Primorac,19,Croatia,Left-Back,LB,-,AS Cannes,France,Free transfer,In,2001,s,ligue-1
-Stade Rennais FC,Eric Durand,35,France,Goalkeeper,GK,-,SC Bastia,France,?,In,2001,s,ligue-1
-Stade Rennais FC,Frédéric Piquionne,22,Martinique,Centre-Forward,CF,-,Nîmes Olympique,France,?,In,2001,s,ligue-1
-Stade Rennais FC,Christophe Revel,22,France,Goalkeeper,GK,-,FC Stade Rennes B,France,-,In,2001,s,ligue-1
-Stade Rennais FC,Étienne Didot,17,France,Central Midfield,CM,-,FC Stade Rennes B,France,-,In,2001,s,ligue-1
-Stade Rennais FC,Fabrice Fernandes,21,France,Left Winger,LW,-,Olympique Marseille,France,"End of loanSep 1, 2001",In,2001,s,ligue-1
-Stade Rennais FC,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Stade Rennais FC,Luís Fabiano,20,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Stade Rennais FC,Grégory Malicki,27,France,Goalkeeper,GK,-,LB Châteauroux,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-HSC Montpellier,Bruno Carotti,28,France,Centre-Back,CB,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1
-HSC Montpellier,Sébastien Michalowski,22,France,Left-Back,LB,-,LOSC Lille,France,Free transfer,In,2001,s,ligue-1
-HSC Montpellier,Serge Blanc,28,France,Left-Back,LB,-,Olympique Lyon,France,Free transfer,In,2001,s,ligue-1
-HSC Montpellier,Abdoulaye Cissé,17,Burkina Faso,Centre-Forward,CF,-,Grenoble Foot 38 B,France,Free transfer,In,2001,s,ligue-1
-HSC Montpellier,Mickael Llorente,18,France,Midfielder,Midfielder,-,Perpignan Football Catalan,France,Free transfer,In,2001,s,ligue-1
-HSC Montpellier,Assis,30,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,?,In,2001,s,ligue-1
-HSC Montpellier,Jean-Christophe Rouviere,26,France,Defensive Midfield,DM,-,FC Toulouse,France,?,In,2001,s,ligue-1
-HSC Montpellier,Aliou Cissé,25,Senegal,Defensive Midfield,DM,-,Paris Saint-Germain,France,Loan,In,2001,s,ligue-1
-HSC Montpellier,Habib Bamogo,19,Burkina Faso,Second Striker,SS,-,HSC Montpellier B,France,-,In,2001,s,ligue-1
-HSC Montpellier,Bertrand Robert,17,Réunion,Left Winger,LW,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1
-HSC Montpellier,David Bret,17,France,Goalkeeper,GK,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1
-HSC Montpellier,Thierry Gathuessi,19,Cameroon,Right-Back,RB,-,HSC Montpellier B,France,-,In,2001,s,ligue-1
-HSC Montpellier,Valéry Mézague,17,Cameroon,Attacking Midfield,AM,-,HSC Montpellier B,France,-,In,2001,s,ligue-1
-HSC Montpellier,Mansour Assoumani,18,Mali,Centre-Back,CB,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1
-HSC Montpellier,Fodé Mansare,19,Guinea,Left Winger,LW,-,HSC Montpellier B,France,-,In,2001,s,ligue-1
-HSC Montpellier,Guillaume Moullec,20,France,Right-Back,RB,-,HSC Montpellier B,France,-,In,2001,s,ligue-1
-CS Sedan-Ardennes,Henri Camara,24,Senegal,Centre-Forward,CF,-,Grasshopper Club Zurich,Switzerland,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,David di Tommaso,21,France,Centre-Back,CB,-,AS Monaco,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Richard Jezierski,30,France,Defender,Defender,-,ES Troyes AC,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Ludovic Asuar,24,France,Defensive Midfield,DM,-,FC Metz,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Stéphane Leoni,25,France,Left-Back,LB,-,Dundee United FC,Scotland,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Stéphane Noro,21,France,Attacking Midfield,AM,-,Stade Reims,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Dusko Djurisic,23,Montenegro,Centre-Back,CB,-,FC Sion,Switzerland,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Thomas Levaux,21,France,Goalkeeper,GK,-,Paris Saint-Germain,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Frédéric Brando,27,France,Central Midfield,CM,-,Olympique Marseille,France,Free transfer,In,2001,s,ligue-1
-CS Sedan-Ardennes,Laurent Peyrelade,31,France,Forward,Forward,-,LOSC Lille,France,?,In,2001,s,ligue-1
-CS Sedan-Ardennes,Freddy Bourgeois,24,France,Defensive Midfield,DM,-,AS Cannes,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-AS Monaco,Lucas Bernardi,23,Argentina,Central Midfield,CM,-,Olympique Marseille,France,£8.10m,In,2001,s,ligue-1
-AS Monaco,Flavio Roma,27,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,£7.65m,In,2001,s,ligue-1
-AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,FC Internazionale,Italy,£6.04m,In,2001,s,ligue-1
-AS Monaco,Oliver Bierhoff,33,Germany,Centre-Forward,CF,-,Milan AC,Italy,Free transfer,In,2001,s,ligue-1
-AS Monaco,José-Karl Pierre-Fanfan,25,Martinique,Centre-Back,CB,-,RC Lens,France,Free transfer,In,2001,s,ligue-1
-AS Monaco,Vladimir Jugovic,31,Serbia,Left Midfield,LM,-,FC Internazionale,Italy,Free transfer,In,2001,s,ligue-1
-AS Monaco,Diego Ramiro Quintero,23,Argentina,Centre-Forward,CF,-,US Salernitana,Italy,?,In,2001,s,ligue-1
-AS Monaco,Cyril Domoraud,30,Cote d'Ivoire,Centre-Back,CB,-,Milan AC,Italy,Loan,In,2001,s,ligue-1
-AS Monaco,Éric Cubilier,21,France,Right-Back,RB,-,OGC Nice,France,?,In,2001,s,ligue-1
-AS Monaco,Moussa Saïb,32,Algeria,Left Midfield,LM,-,AJ Auxerre,France,?,In,2001,s,ligue-1
-AS Monaco,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,Loan,In,2001,s,ligue-1
-AS Monaco,Djibril Sidibé,19,Mali,Defensive Midfield,DM,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1
-AS Monaco,Gaël Givet,19,France,Centre-Back,CB,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1
-AS Monaco,Hassan El Fakiri,24,Norway,Left-Back,LB,-,FK Lyn,Norway,"End of loanJul 31, 2001",In,2001,s,ligue-1
-AS Monaco,Souleymane Camara,18,Senegal,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1
-AS Monaco,Tony Sylva,26,Senegal,Goalkeeper,GK,-,AC Ajaccio,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-AS Monaco,Pablo Contreras,22,Chile,Centre-Back,CB,-,Racing Club,Argentina,"End of loanJun 30, 2001",In,2001,s,ligue-1
-AS Monaco,Fabien Lefèvre,28,France,Left Midfield,LM,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2000",In,2001,s,ligue-1
-EA Guingamp,Cédric Bardon,24,France,Central Midfield,CM,-,Stade Rennais FC,France,Free transfer,In,2001,s,ligue-1
-EA Guingamp,Hakim Saci,24,France,Centre-Forward,CF,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1
-EA Guingamp,Stéphane Guivarc'h,30,France,Centre-Forward,CF,-,AJ Auxerre,France,?,In,2001,s,ligue-1
-EA Guingamp,Kemal Bourhani,19,Comoros,Centre-Forward,CF,-,EA Guingamp B,France,-,In,2001,s,ligue-1
-FC Metz,Jacques Songo'o,37,Cameroon,Goalkeeper,GK,-,Deportivo de La Coruña,Spain,£5.85m,In,2001,s,ligue-1
-FC Metz,Johan Liébus,22,France,Goalkeeper,GK,-,Le Mans Union Club 72,France,Free transfer,In,2001,s,ligue-1
-FC Metz,Patrick Moreau,27,France,Defender,Defender,-,SC Bastia,France,?,In,2001,s,ligue-1
-FC Metz,Igor Jovicevic,27,Croatia,Forward,Forward,-,NK Zagreb,Croatia,?,In,2001,s,ligue-1
-FC Metz,Oumar Sané,25,Senegal,Right Winger,RW,-,CS Louhans-Cuiseaux 71,France,?,In,2001,s,ligue-1
-FC Metz,Emmanuel Adebayor,17,Togo,Centre-Forward,CF,-,FC Metz B,France,-,In,2001,s,ligue-1
-FC Metz,Franck Béria,18,France,Right-Back,RB,-,FC Metz B,France,-,In,2001,s,ligue-1
-FC Metz,Ludovic Butelle,18,France,Goalkeeper,GK,-,FC Metz B,France,-,In,2001,s,ligue-1
-FC Metz,Franck Signorino,19,France,Left-Back,LB,-,FC Metz B,France,-,In,2001,s,ligue-1
-FC Metz,Alexandre Frutos,19,France,Left Winger,LW,-,FC Metz B,France,-,In,2001,s,ligue-1
-FC Metz,Julien François,21,France,Defensive Midfield,DM,-,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Metz,Sergiy Skachenko,28,Ukraine,Centre-Forward,CF,-,Sanfrecce Hiroshima,Japan,"End of loanJun 30, 2001",In,2001,s,ligue-1
-FC Lorient,Guillaume Norbert,20,France,Right Midfield,RM,-,Arsenal FC U18,England,Free transfer,In,2001,s,ligue-1
-FC Lorient,Guillaume Gauclin,20,France,Goalkeeper,GK,-,EA Guingamp,France,Loan,In,2001,s,ligue-1
-FC Lorient,Sébastien Hamel,25,France,Goalkeeper,GK,-,RC Lens,France,Free transfer,In,2001,s,ligue-1
-FC Lorient,Nicolas Esceth-N'Zi,24,France,Right Winger,RW,-,SM Caen,France,Free transfer,In,2001,s,ligue-1
-FC Lorient,Jacques Abardonado,23,France,Centre-Back,CB,-,Olympique Marseille,France,Free transfer,In,2001,s,ligue-1
-FC Lorient,Joris Marveaux,18,Martinique,Defensive Midfield,DM,-,FC Nantes B,France,Free transfer,In,2001,s,ligue-1
-FC Lorient,Pascal Feindouno,20,Guinea,Right Winger,RW,-,FC Girondins Bordeaux,France,Loan,In,2001,s,ligue-1
-FC Lorient,Cédric Chabert,27,France,Midfielder,Midfielder,-,Le Mans Union Club 72,France,?,In,2001,s,ligue-1
-FC Lorient,Tchiressoua Guel,25,Cote d'Ivoire,Central Midfield,CM,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1
-FC Lorient,Hernan Medina,26,Argentina,Midfielder,Midfielder,-,AEK Athens,Greece,?,In,2001,s,ligue-1
-FC Lorient,Ludwig Norbert,17,France,Attacking Midfield,AM,-,,Unknown,?,In,2001,s,ligue-1
-FC Lorient,François Guégan,21,France,Defender,Defender,-,,Unknown,?,In,2001,s,ligue-1
-FC Lorient,Jean-Marie Eveno,25,France,Centre-Forward,CF,-,FC Lorient U19,France,-,In,2001,s,ligue-1
-FC Lorient,Eben Dorkutso Dugbatey,27,Ghana,Midfielder,Midfielder,-,AA La Louviere,Belgium,"End of loanJun 30, 2001",In,2001,s,ligue-1
-Olympique Lyon,Steve Marlet,27,France,Centre-Forward,CF,-,Fulham FC,England,£15.84m,Out,2001,s,ligue-1
-Olympique Lyon,Steed Malbranque,21,France,Central Midfield,CM,-,Fulham FC,England,£5.94m,Out,2001,s,ligue-1
-Olympique Lyon,Serge Blanc,28,France,Left-Back,LB,-,HSC Montpellier,France,Free transfer,Out,2001,s,ligue-1
-Olympique Lyon,Patrice Loko,31,France,Centre-Forward,CF,-,ES Troyes AC,France,Free transfer,Out,2001,s,ligue-1
-Olympique Lyon,Vikash Dhorasoo,27,France,Central Midfield,CM,-,FC Girondins Bordeaux,France,Loan,Out,2001,s,ligue-1
-Olympique Lyon,Caçapa,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-RC Lens,Philippe Brunel,28,France,Left Midfield,LM,-,Olympique Marseille,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,Sébastien Hamel,25,France,Goalkeeper,GK,-,FC Lorient,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,José-Karl Pierre-Fanfan,25,Martinique,Centre-Back,CB,-,AS Monaco,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,Loan,Out,2001,s,ligue-1
-RC Lens,Nenad Grozdic,27,Serbia,Central Midfield,CM,-,Racing Ferrol,Spain,Free transfer,Out,2001,s,ligue-1
-RC Lens,Franck Chaussidière,22,France,Central Midfield,CM,-,FC Istres Ville Nouvelle ,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,Franck Dumas,33,France,Centre-Back,CB,-,SM Caen,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,Yazid Kaïssi,20,Morocco,Central Midfield,CM,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1
-RC Lens,Xavier Méride,26,France,Centre-Back,CB,-,ES Wasquehal,France,Free transfer,Out,2001,s,ligue-1
-RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,Loan,Out,2001,s,ligue-1
-RC Lens,Ludovic Delporte,21,France,Left Winger,LW,-,Racing Ferrol,Spain,Loan,Out,2001,s,ligue-1
-RC Lens,Cyril Rool,26,France,Left-Back,LB,-,AS Monaco,France,Loan,Out,2001,s,ligue-1
-RC Lens,Cyril Rool,26,France,Left-Back,LB,-,Olympique Marseille,France,?,Out,2001,s,ligue-1
-RC Lens,Esteban Fuertes,28,Argentina,Centre-Forward,CF,-,CD Tenerife,Spain,Loan,Out,2001,s,ligue-1
-RC Lens,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,Olympique Marseille,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-RC Lens,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,Stade Rennais FC,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-AJ Auxerre,Cyril Jeunechamp,25,France,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,Out,2001,s,ligue-1
-AJ Auxerre,Alexandre Comisetti,27,Switzerland,Left Midfield,LM,-,Servette FC,Switzerland,Free transfer,Out,2001,s,ligue-1
-AJ Auxerre,David Recorbet,24,France,Centre-Back,CB,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1
-AJ Auxerre,Stéphane Guivarc'h,30,France,Centre-Forward,CF,-,EA Guingamp,France,?,Out,2001,s,ligue-1
-AJ Auxerre,Christophe Virlogeux,19,France,Left-Back,LB,-,Besançon Racing Club ,France,?,Out,2001,s,ligue-1
-AJ Auxerre,Pierre Deblock,28,France,Right Midfield,RM,-,SC Bastia,France,Loan,Out,2001,s,ligue-1
-AJ Auxerre,Moussa Saïb,32,Algeria,Left Midfield,LM,-,AS Monaco,France,?,Out,2001,s,ligue-1
-AJ Auxerre,Christian Henna,29,France,Defensive Midfield,DM,-,,Retired,-,Out,2001,s,ligue-1
-Paris Saint-Germain,Laurent Robert,26,France,Left Winger,LW,-,Newcastle United,England,£12.89m,Out,2001,s,ligue-1
-Paris Saint-Germain,Sylvain Distin,23,France,Centre-Back,CB,-,Newcastle United,England,Loan fee:£675Th.,Out,2001,s,ligue-1
-Paris Saint-Germain,Éric Rabésandratana,28,Madagascar,Defensive Midfield,DM,-,AEK Athens,Greece,£675Th.,Out,2001,s,ligue-1
-Paris Saint-Germain,Fabrice Abriel,22,France,Central Midfield,CM,-,SC Amiens,France,Loan,Out,2001,s,ligue-1
-Paris Saint-Germain,Jimmy Algérino,29,France,Right-Back,RB,-,AC Venezia 1907,Italy,Free transfer,Out,2001,s,ligue-1
-Paris Saint-Germain,Mathias Doumbé,21,France,Right-Back,RB,-,Hibernian FC,Scotland,Free transfer,Out,2001,s,ligue-1
-Paris Saint-Germain,Thomas Levaux,21,France,Goalkeeper,GK,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1
-Paris Saint-Germain,Mickaël Madar,33,France,Centre-Forward,CF,-,Union sportive Créteil,France,Free transfer,Out,2001,s,ligue-1
-Paris Saint-Germain,Stéphane Brando,17,France,Goalkeeper,GK,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Selim Benachour,19,Tunisia,Attacking Midfield,AM,-,FC Martigues,France,Loan,Out,2001,s,ligue-1
-Paris Saint-Germain,Godwin Okpara,28,Nigeria,Centre-Back,CB,-,Standard Liège,Belgium,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Pierre Ducrocq,24,France,Defensive Midfield,DM,-,Derby County,England,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Igor Yanovski,26,Russia,Defensive Midfield,DM,-,CSKA Moscow,Russia,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Kaba Diawara,25,Guinea,Centre-Forward,CF,-,Racing Ferrol,Spain,Loan,Out,2001,s,ligue-1
-Paris Saint-Germain,Vampeta,27,Brazil,Central Midfield,CM,-,Clube de Regatas do Flamengo,Brazil,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Dominique Casagrande,30,France,Goalkeeper,GK,-,AS Saint-Étienne,France,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Peter Luccin,22,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Aliou Cissé,25,Senegal,Defensive Midfield,DM,-,HSC Montpellier,France,Loan,Out,2001,s,ligue-1
-Paris Saint-Germain,Christian,26,Brazil,Centre-Forward,CF,-,FC Girondins Bordeaux,France,?,Out,2001,s,ligue-1
-Paris Saint-Germain,Mikel Arteta,20,Spain,Central Midfield,CM,-,FC Barcelona,Spain,"End of loanMay 1, 2002",Out,2001,s,ligue-1
-Paris Saint-Germain,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-LOSC Lille,Jean-Louis Valois,27,France,Right Winger,RW,-,Luton Town,England,Free transfer,Out,2001,s,ligue-1
-LOSC Lille,Sébastien Michalowski,22,France,Left-Back,LB,-,HSC Montpellier,France,Free transfer,Out,2001,s,ligue-1
-LOSC Lille,Geoffrey Dernis,20,France,Left Winger,LW,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1
-LOSC Lille,Laurent Peyrelade,31,France,Forward,Forward,-,CS Sedan-Ardennes,France,?,Out,2001,s,ligue-1
-LOSC Lille,Bob Cousin,19,France,Central Midfield,CM,-,RC Lens,France,?,Out,2001,s,ligue-1
-LOSC Lille,Didier Santini,32,France,Left-Back,LB,-,,Without Club,-,Out,2001,s,ligue-1
-LOSC Lille,Teddy Richert,26,France,Goalkeeper,GK,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-FC Girondins Bordeaux,Lilian Laslandes,29,France,Centre-Forward,CF,-,Sunderland AFC,England,£5.40m,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Sylvain Legwinski,28,France,Left Midfield,LM,-,Fulham FC,England,£4.73m,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Marc Wilmots,32,Belgium,Attacking Midfield,AM,-,FC Schalke 04,Germany,£1.80m,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Mathieu Beda,19,France,Centre-Back,CB,-,AS Nancy-Lorraine,France,Loan,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Hervé Bugnet,19,France,Right Winger,RW,-,FC Martigues,France,Loan,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Jérémy Stinat,22,France,Right-Back,RB,-,Association sportive d'origine arménienne de Valence,France,Free transfer,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Lassina Diabaté,26,Cote d'Ivoire,Defensive Midfield,DM,-,AJ Auxerre,France,Free transfer,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Pascal Feindouno,20,Guinea,Right Winger,RW,-,FC Lorient,France,Loan,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FC Sochaux-Montbéliard,France,?,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Tony Vairelles,28,France,Centre-Forward,CF,-,SC Bastia,France,?,Out,2001,s,ligue-1
-FC Girondins Bordeaux,Teddy Richert,26,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard,France,Loan,Out,2001,s,ligue-1
-ES Troyes AC,Samuel Boutal,31,France,Centre-Forward,CF,-,Kilmarnock FC,Scotland,Free transfer,Out,2001,s,ligue-1
-ES Troyes AC,Richard Jezierski,30,France,Defender,Defender,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1
-ES Troyes AC,Éric Roy,33,France,Defensive Midfield,DM,-,Rayo Vallecano,Spain,Free transfer,Out,2001,s,ligue-1
-ES Troyes AC,Raphaël Nadé,20,France,Centre-Forward,CF,-,Hampton & Richmond Borough,England,Free transfer,Out,2001,s,ligue-1
-ES Troyes AC,Luciano Zavagno,23,Argentina,Left-Back,LB,-,Derby County,England,?,Out,2001,s,ligue-1
-ES Troyes AC,Samba Diawara,23,Mali,Centre-Back,CB,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1
-ES Troyes AC,Farid Ghazi,27,Algeria,Centre-Forward,CF,-,FC Baniyas,United Arab Emirates,Loan,Out,2001,s,ligue-1
-ES Troyes AC,Benoît Croissant,20,France,Centre-Back,CB,-,Sheffield United,England,?,Out,2001,s,ligue-1
-ES Troyes AC,Jérôme Monier,29,France,Midfielder,Midfielder,-,Stade Lavallois,France,?,Out,2001,s,ligue-1
-ES Troyes AC,Frédéric Arpinon,32,France,Attacking Midfield,AM,-,Hibernian FC,Scotland,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Cédric Faivre,20,France,Defensive Midfield,DM,-,Besançon Racing Club ,France,Free transfer,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Jérémie Rodrigues,20,France,Right-Back,RB,-,Besançon Racing Club ,France,Free transfer,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Vincent Boulanger,27,France,Midfielder,Midfielder,-,Clermont Foot 63,France,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Gilles Leclerc,34,France,Centre-Back,CB,-,ES Wasquehal,France,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Patrick Guillou,31,France,Left-Back,LB,-,AS Saint-Étienne,France,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Franck Durix,35,France,Right Midfield,RM,-,AS Cannes,France,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Stéphane Dedebant,30,France,Central Midfield,CM,-,Heart of Midlothian FC,Scotland,?,Out,2001,s,ligue-1
-FC Sochaux-Montbéliard,Anto Drobnjak,32,Montenegro,Centre-Forward,CF,-,FC Martigues,France,?,Out,2001,s,ligue-1
-Olympique Marseille,William Gallas,23,France,Centre-Back,CB,-,Chelsea FC,England,£8.37m,Out,2001,s,ligue-1
-Olympique Marseille,Lucas Bernardi,23,Argentina,Central Midfield,CM,-,AS Monaco,France,£8.10m,Out,2001,s,ligue-1
-Olympique Marseille,Bruno N'Gotty,30,France,Centre-Back,CB,-,Bolton Wanderers,England,£675Th.,Out,2001,s,ligue-1
-Olympique Marseille,Florian Maurice,27,France,Centre-Forward,CF,-,Celta de Vigo,Spain,Loan,Out,2001,s,ligue-1
-Olympique Marseille,Dramane Coulibaly,22,Mali,Centre-Forward,CF,-,Stade Lavallois,France,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Jean-Christophe Marquet,27,France,Left-Back,LB,-,GS Consolat Marseille,France,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,George Weah,34,Liberia,Centre-Forward,CF,-,Al-Jazira (Abu Dhabi),United Arab Emirates,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Pierre Issa,25,South Africa,Centre-Back,CB,-,Watford FC,England,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Jacques Abardonado,23,France,Centre-Back,CB,-,FC Lorient,France,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Patrick Blondeau,33,France,Right-Back,RB,-,Watford FC,England,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Frédéric Brando,27,France,Central Midfield,CM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1
-Olympique Marseille,Loris Reina,21,France,Left-Back,LB,-,Servette FC,Switzerland,Loan,Out,2001,s,ligue-1
-Olympique Marseille,Stéphane Trévisan,27,France,Goalkeeper,GK,-,AC Ajaccio,France,?,Out,2001,s,ligue-1
-Olympique Marseille,Cédric Mouret,23,France,Attacking Midfield,AM,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1
-Olympique Marseille,Klas Ingesson,32,Sweden,Defensive Midfield,DM,-,US Lecce,Italy,?,Out,2001,s,ligue-1
-Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,CA Osasuna,Spain,Loan,Out,2001,s,ligue-1
-Olympique Marseille,Sébastien Pérez,27,France,Right-Back,RB,-,Galatasaray SK,Turkey,Loan,Out,2001,s,ligue-1
-Olympique Marseille,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,Málaga CF,Spain,Loan,Out,2001,s,ligue-1
-Olympique Marseille,Fabrice Fernandes,21,France,Left Winger,LW,-,Stade Rennais FC,France,"End of loanSep 1, 2001",Out,2001,s,ligue-1
-Olympique Marseille,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,"End of loanAug 30, 2001",Out,2001,s,ligue-1
-Olympique Marseille,Adriano Gabirú,23,Brazil,Attacking Midfield,AM,-,Atlético Paranaense,Brazil,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-FC Nantes,Éric Carrière,28,France,Attacking Midfield,AM,-,Olympique Lyon,France,£10.80m,Out,2001,s,ligue-1
-FC Nantes,Olivier Monterrubio,24,France,Left Midfield,LM,-,Stade Rennais FC,France,£2.70m,Out,2001,s,ligue-1
-FC Nantes,Mehdi Leroy,23,France,Midfielder,Midfielder,-,ES Troyes AC,France,Free transfer,Out,2001,s,ligue-1
-FC Nantes,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,Out,2001,s,ligue-1
-FC Nantes,Salomon Olembé,20,Cameroon,Left Midfield,LM,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1
-FC Nantes,Mário Silva,24,Portugal,Left-Back,LB,-,FC Porto,Portugal,?,Out,2001,s,ligue-1
-SC Bastia,Frédéric Née,26,France,Centre-Forward,CF,-,Olympique Lyon,France,£6.75m,Out,2001,s,ligue-1
-SC Bastia,Yann Lachuer,28,France,Attacking Midfield,AM,-,AJ Auxerre,France,£1.80m,Out,2001,s,ligue-1
-SC Bastia,Pierre-Yves André,27,France,Centre-Forward,CF,-,FC Nantes,France,Free transfer,Out,2001,s,ligue-1
-SC Bastia,Pascal Berenguer,20,France,Defensive Midfield,DM,-,FC Istres Ville Nouvelle ,France,Free transfer,Out,2001,s,ligue-1
-SC Bastia,Paul Essola,19,Cameroon,Defensive Midfield,DM,-,Union sportive Créteil,France,Loan,Out,2001,s,ligue-1
-SC Bastia,Patrick Valéry,31,France,Right-Back,RB,-,Aris Thessaloniki,Greece,Free transfer,Out,2001,s,ligue-1
-SC Bastia,Piotr Swierczewski,29,Poland,Defensive Midfield,DM,-,Olympique Marseille,France,Free transfer,Out,2001,s,ligue-1
-SC Bastia,Pierre Laurent,30,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,s,ligue-1
-SC Bastia,Eric Durand,35,France,Goalkeeper,GK,-,Stade Rennais FC,France,?,Out,2001,s,ligue-1
-SC Bastia,David Faderne,30,France,Centre-Forward,CF,-,SM Caen,France,?,Out,2001,s,ligue-1
-SC Bastia,Patrick Moreau,27,France,Defender,Defender,-,FC Metz,France,?,Out,2001,s,ligue-1
-SC Bastia,Jean-Pierre Antonetti,21,France,Defender,Defender,-,AO Egaleo,Greece,?,Out,2001,s,ligue-1
-SC Bastia,Laurent Casanova,29,France,Defensive Midfield,DM,-,,Retired,-,Out,2001,s,ligue-1
-SC Bastia,Dan Petersen,29,Denmark,Centre-Forward,CF,-,SC Bastia B,France,-,Out,2001,s,ligue-1
-SC Bastia,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,FC Nantes,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-SC Bastia,Cyril Domoraud,29,Cote d'Ivoire,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-Stade Rennais FC,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,RC Lens,France,£4.81m,Out,2001,s,ligue-1
-Stade Rennais FC,Cédric Bardon,24,France,Central Midfield,CM,-,EA Guingamp,France,Free transfer,Out,2001,s,ligue-1
-Stade Rennais FC,Fabrice Fernandes,21,France,Left Winger,LW,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1
-Stade Rennais FC,Christian Bassila,23,France,Centre-Back,CB,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,s,ligue-1
-Stade Rennais FC,Grégory Malicki,27,France,Goalkeeper,GK,-,LOSC Lille,France,Loan,Out,2001,s,ligue-1
-Stade Rennais FC,Bernard Lama,38,France,Goalkeeper,GK,-,,Retired,-,Out,2001,s,ligue-1
-HSC Montpellier,Ahmed Madouni,20,Algeria,Centre-Back,CB,-,Borussia Dortmund,Germany,Free transfer,Out,2001,s,ligue-1
-HSC Montpellier,Michel Rodríguez,22,France,Centre-Back,CB,-,SC Amiens,France,Free transfer,Out,2001,s,ligue-1
-HSC Montpellier,Cyril Ramond,21,France,Left-Back,LB,-,AS Nancy-Lorraine,France,Loan,Out,2001,s,ligue-1
-HSC Montpellier,Nicolas Ouédec,29,France,Centre-Forward,CF,-,AA La Louviere,Belgium,Free transfer,Out,2001,s,ligue-1
-HSC Montpellier,Ricardo Nascimento,27,Portugal,Attacking Midfield,AM,-,Gil Vicente FC,Portugal,?,Out,2001,s,ligue-1
-HSC Montpellier,Francis Llacer,29,France,Left-Back,LB,-,Paris Saint-Germain,France,?,Out,2001,s,ligue-1
-HSC Montpellier,Nabil Baha,19,Morocco,Centre-Forward,CF,-,Naval 1º de Maio,Portugal,?,Out,2001,s,ligue-1
-HSC Montpellier,Salim Djefaflia,22,France,Forward,Forward,-,RCO Agde,France,?,Out,2001,s,ligue-1
-HSC Montpellier,Éric Decroix,32,France,Centre-Back,CB,-,,Without Club,-,Out,2001,s,ligue-1
-CS Sedan-Ardennes,Lehit Zeghdane,23,France,Left-Back,LB,-,F91 Dudelange,Luxembourg,Free transfer,Out,2001,s,ligue-1
-CS Sedan-Ardennes,Xavier Bécas,22,France,Forward,Forward,-,AC Ajaccio,France,Free transfer,Out,2001,s,ligue-1
-CS Sedan-Ardennes,Mathieu Verschuère,29,France,Defensive Midfield,DM,-,KAA Gent,Belgium,Free transfer,Out,2001,s,ligue-1
-CS Sedan-Ardennes,Olivier Quint,29,France,Left Midfield,LM,-,FC Nantes,France,?,Out,2001,s,ligue-1
-CS Sedan-Ardennes,Christophe Jouault,26,France,Defender,Defender,-,AS Cagnes-Le Cros Football,France,?,Out,2001,s,ligue-1
-AS Monaco,Philippe Christanval,22,France,Centre-Back,CB,-,FC Barcelona,Spain,£15.30m,Out,2001,s,ligue-1
-AS Monaco,Martin Djetou,26,France,Centre-Back,CB,-,AC Parma,Italy,£8.78m,Out,2001,s,ligue-1
-AS Monaco,John Arne Riise,20,Norway,Left-Back,LB,-,Liverpool FC,England,£5.73m,Out,2001,s,ligue-1
-AS Monaco,Pablo Contreras,22,Chile,Centre-Back,CB,-,Celta de Vigo,Spain,£3.78m,Out,2001,s,ligue-1
-AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,AS Roma,Italy,Loan fee:£1.39m,Out,2001,s,ligue-1
-AS Monaco,David di Tommaso,21,France,Centre-Back,CB,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1
-AS Monaco,Franck Jurietti,26,France,Left-Back,LB,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1
-AS Monaco,Patrice Luzi,20,France,Goalkeeper,GK,-,AC Ajaccio,France,Free transfer,Out,2001,s,ligue-1
-AS Monaco,Jean-Marie Aubry,32,France,Goalkeeper,GK,-,SM Caen,France,?,Out,2001,s,ligue-1
-AS Monaco,Uliano Courville,22,France,Midfielder,Midfielder,-,Portsmouth FC,England,Loan,Out,2001,s,ligue-1
-AS Monaco,Hassan El Fakiri,24,Norway,Left-Back,LB,-,Rosenborg BK,Norway,Loan,Out,2001,s,ligue-1
-AS Monaco,Marco Simone,32,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,Out,2001,s,ligue-1
-AS Monaco,Costinha,26,Portugal,Defensive Midfield,DM,-,FC Porto,Portugal,?,Out,2001,s,ligue-1
-AS Monaco,Xavier Gravelaine,32,France,Centre-Forward,CF,-,SM Caen,France,?,Out,2001,s,ligue-1
-AS Monaco,Nicolas Bonnal,24,France,Left Midfield,LM,-,,Without Club,-,Out,2001,s,ligue-1
-AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,FC Internazionale,Italy,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-EA Guingamp,Guillaume Gauclin,20,France,Goalkeeper,GK,-,FC Lorient,France,Loan,Out,2001,s,ligue-1
-EA Guingamp,Jérôme Foulon,30,France,Right-Back,RB,-,FC Chamois Niort,France,Free transfer,Out,2001,s,ligue-1
-EA Guingamp,Edwin van Ankeren,32,Netherlands,Centre-Forward,CF,-,US Viterbese,Italy,?,Out,2001,s,ligue-1
-EA Guingamp,Marek Jozwiak,34,Poland,Centre-Back,CB,-,Shenyang Ginde,China,?,Out,2001,s,ligue-1
-EA Guingamp,Samuel Michel,30,France,Centre-Forward,CF,-,FC Chamois Niort,France,?,Out,2001,s,ligue-1
-EA Guingamp,Sylvain Deplace,29,France,Defensive Midfield,DM,-,FC Martigues,France,?,Out,2001,s,ligue-1
-EA Guingamp,Ronald Thomas,27,France,Goalkeeper,GK,-,FC Martigues,France,?,Out,2001,s,ligue-1
-EA Guingamp,Bruno Rodriguez,28,France,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-FC Metz,Faryd Mondragón,30,Colombia,Goalkeeper,GK,-,Galatasaray SK,Turkey,Loan fee:£450Th.,Out,2001,s,ligue-1
-FC Metz,Ensar Arifovic,20,Bosnia-Herzegovina,Centre-Forward,CF,-,Neuchâtel Xamax,Switzerland,Free transfer,Out,2001,s,ligue-1
-FC Metz,Ludovic Asuar,24,France,Defensive Midfield,DM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1
-FC Metz,David Klein,27,France,Goalkeeper,GK,-,FC Martigues,France,Free transfer,Out,2001,s,ligue-1
-FC Metz,Daniel Gomez,22,France,Centre-Forward,CF,-,Royal Excelsior Virton,Belgium,?,Out,2001,s,ligue-1
-FC Metz,Didier Lang,30,France,Defensive Midfield,DM,-,Le Mans Union Club 72,France,?,Out,2001,s,ligue-1
-FC Metz,Stéphane Borbiconi,22,France,Centre-Back,CB,-,FC Martigues,France,Loan,Out,2001,s,ligue-1
-FC Metz,Djima Oyawolé,24,Togo,Centre-Forward,CF,-,KAA Gent,Belgium,?,Out,2001,s,ligue-1
-FC Metz,Patricio D'Amico,26,Argentina,Midfielder,Midfielder,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1
-FC Metz,Sylvain Kastendeuch,37,France,Sweeper,SW,-,,Retired,-,Out,2001,s,ligue-1
-FC Metz,Sébastien Chabbert,23,France,Goalkeeper,GK,-,RC Lens,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1
-FC Lorient,Stéphane Lestin,25,France,Forward,Forward,-,Tours FC,France,Free transfer,Out,2001,s,ligue-1
-FC Lorient,Pierre Chavrondier,29,France,Midfielder,Midfielder,-,Clermont Foot 63,France,Free transfer,Out,2001,s,ligue-1
-FC Lorient,Ludwig Norbert,17,France,Attacking Midfield,AM,-,Rangers FC,Scotland,Loan,Out,2001,s,ligue-1
-FC Lorient,Xavier Dablemont,26,France,Forward,Forward,-,Grenoble Foot 38,France,?,Out,2001,s,ligue-1
-FC Lorient,Laurent Bourmaud,26,France,Midfielder,Midfielder,-,AS Angoulême Charente 92,France,?,Out,2001,s,ligue-1
-FC Lorient,Manfa Camara,24,France,Forward,Forward,-,,Retired,-,Out,2001,s,ligue-1
-FC Lorient,Frédéric Petereyns,31,France,Goalkeeper,GK,-,,Retired,-,Out,2001,s,ligue-1
-RC Lens,Jacek Bak,28,Poland,Centre-Back,CB,-,Olympique Lyon,France,£3.87m,In,2001,w,ligue-1
-RC Lens,Papa Bouba Diop,23,Senegal,Defensive Midfield,DM,-,Grasshopper Club Zurich,Switzerland,£1.62m,In,2001,w,ligue-1
-RC Lens,Zoumana Camara,22,France,Centre-Back,CB,-,Olympique Marseille,France,Free transfer,In,2001,w,ligue-1
-RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanOct 17, 2001",In,2001,w,ligue-1
-Paris Saint-Germain,Agostinho,26,Portugal,Left Winger,LW,-,Málaga CF,Spain,?,In,2001,w,ligue-1
-Paris Saint-Germain,Jérôme Leroy,27,France,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,In,2001,w,ligue-1
-Paris Saint-Germain,Fabrice Fiorèse,26,France,Right Winger,RW,-,EA Guingamp,France,?,In,2001,w,ligue-1
-LOSC Lille,Philippe Brunel,28,France,Left Midfield,LM,-,Olympique Marseille,France,Loan,In,2001,w,ligue-1
-FC Girondins Bordeaux,Camel Meriem,22,France,Attacking Midfield,AM,-,FC Sochaux-Montbéliard,France,£6.30m,In,2001,w,ligue-1
-FC Girondins Bordeaux,Yksel Osmanovski,24,Sweden,Left Midfield,LM,-,Torino Calcio,Italy,Loan,In,2001,w,ligue-1
-ES Troyes AC,Ibrahima Bangoura,19,Guinea,Right Winger,RW,-,FC Istres Ville Nouvelle ,France,Free transfer,In,2001,w,ligue-1
-ES Troyes AC,Benjamin Nivet,25,France,Attacking Midfield,AM,-,LB Châteauroux,France,?,In,2001,w,ligue-1
-ES Troyes AC,Nicolas Bonnal,25,France,Left Midfield,LM,-,,Without Club,-,In,2001,w,ligue-1
-FC Sochaux-Montbéliard,Jimmy Algérino,30,France,Right-Back,RB,-,AC Venezia 1907,Italy,Free transfer,In,2001,w,ligue-1
-FC Sochaux-Montbéliard,William Quevedo,30,France,Left-Back,LB,-,Boavista Porto FC,Portugal,?,In,2001,w,ligue-1
-Olympique Marseille,Lamine Sakho,24,Senegal,Left Winger,LW,-,RC Lens,France,£1.35m,In,2001,w,ligue-1
-Olympique Marseille,Wilfried Dalmat,19,Saint-Martin,Right Winger,RW,-,FC Nantes,France,Loan,In,2001,w,ligue-1
-Olympique Marseille,Cyril Chapuis,22,France,Centre-Forward,CF,-,Stade Rennais FC,France,Free transfer,In,2001,w,ligue-1
-Olympique Marseille,Alfonso,29,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,Loan,In,2001,w,ligue-1
-Olympique Marseille,Stefano Torrisi,30,Italy,Centre-Back,CB,-,AC Parma,Italy,Loan,In,2001,w,ligue-1
-Olympique Marseille,Eduardo Tuzzio,27,Argentina,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,?,In,2001,w,ligue-1
-Olympique Marseille,Dimas,32,Portugal,Left-Back,LB,-,Sporting CP,Portugal,Loan,In,2001,w,ligue-1
-Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,CA Osasuna,Spain,"End of loanJan 24, 2002",In,2001,w,ligue-1
-FC Nantes,Mario Yepes,25,Colombia,Centre-Back,CB,-,Club Atlético River Plate,Argentina,£3.42m,In,2001,w,ligue-1
-FC Nantes,Mauro Cetto,19,Argentina,Centre-Back,CB,-,Club Atlético Rosario Central,Argentina,Free transfer,In,2001,w,ligue-1
-SC Bastia,Ishmael Addo,19,Ghana,Centre-Forward,CF,-,Hearts of Oak,Ghana,Loan,In,2001,w,ligue-1
-Stade Rennais FC,Toifilou Maoulida,22,France,Centre-Forward,CF,-,HSC Montpellier,France,£3.42m,In,2001,w,ligue-1
-Stade Rennais FC,Olivier Sorlin,22,France,Defensive Midfield,DM,-,HSC Montpellier,France,£2.70m,In,2001,w,ligue-1
-Stade Rennais FC,Laurent Batlles,26,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,Free transfer,In,2001,w,ligue-1
-CS Sedan-Ardennes,Ludovic Asuar,24,France,Defensive Midfield,DM,-,FC Metz,France,Free transfer,In,2001,w,ligue-1
-CS Sedan-Ardennes,Julien Poueys,22,France,Centre-Forward,CF,-,FC Sion,Switzerland,?,In,2001,w,ligue-1
-AS Monaco,Jérôme Rothen,23,France,Left Midfield,LM,-,ES Troyes AC,France,£4.05m,In,2001,w,ligue-1
-AS Monaco,Alex Nyarko,28,Ghana,Centre-Back,CB,-,Everton FC,England,Loan,In,2001,w,ligue-1
-AS Monaco,Sébastien Carole,19,Martinique,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2001,w,ligue-1
-EA Guingamp,Didier Drogba,23,Cote d'Ivoire,Centre-Forward,CF,-,Le Mans Union Club 72,France,£90Th.,In,2001,w,ligue-1
-EA Guingamp,Alaeddine Yahia,20,Tunisia,Centre-Back,CB,-,CS Louhans-Cuiseaux B,France,Free transfer,In,2001,w,ligue-1
-EA Guingamp,Farid Talhaoui,19,Morocco,Forward,Forward,-,EA Guingamp B,France,-,In,2001,w,ligue-1
-FC Metz,Kossi Agassa,23,Togo,Goalkeeper,GK,-,Africa Sports,Cote d'Ivoire,Free transfer,In,2001,w,ligue-1
-FC Metz,Joseph-Désiré Job,-1978,Cameroon,Centre-Forward,CF,-,Middlesbrough FC,England,Loan,In,2001,w,ligue-1
-FC Lorient,Pape Malick Diop,-1975,Senegal,Centre-Back,CB,-,Neuchâtel Xamax,Switzerland,£630Th.,In,2001,w,ligue-1
-FC Lorient,Johan Cavalli,20,France,Attacking Midfield,AM,-,FC Nantes B,France,Free transfer,In,2001,w,ligue-1
-FC Lorient,Moussa Saïb,-1970,Algeria,Left Midfield,LM,-,AS Monaco,France,?,In,2001,w,ligue-1
-FC Lorient,Pascal Delhommeau,-1979,France,Centre-Back,CB,-,FC Nantes,France,Loan,In,2001,w,ligue-1
-FC Lorient,Richard Martini,-1979,France,Centre-Back,CB,-,Olympique Marseille,France,?,In,2001,w,ligue-1
-FC Lorient,Yohan Bouzin,-1975,France,Left-Back,LB,-,FC Gueugnon,France,?,In,2001,w,ligue-1
-Olympique Lyon,Jacek Bak,28,Poland,Centre-Back,CB,-,RC Lens,France,£3.87m,Out,2001,w,ligue-1
-Olympique Lyon,Frédéric Fouret,27,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,£252Th.,Out,2001,w,ligue-1
-Olympique Lyon,Guillaume Lacour,21,France,Right-Back,RB,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,w,ligue-1
-RC Lens,Lamine Sakho,24,Senegal,Left Winger,LW,-,Olympique Marseille,France,£1.35m,Out,2001,w,ligue-1
-RC Lens,Ludovic Delporte,21,France,Left Winger,LW,-,Racing Ferrol,Spain,Loan,Out,2001,w,ligue-1
-RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,Loan,Out,2001,w,ligue-1
-RC Lens,Mickaël Debève,31,France,Right Midfield,RM,-,Middlesbrough FC,England,Free transfer,Out,2001,w,ligue-1
-Paris Saint-Germain,Nicolas Anelka,22,France,Centre-Forward,CF,-,Liverpool FC,England,Loan fee:£1.26m,Out,2001,w,ligue-1
-Paris Saint-Germain,Mathias Doumbé,21,France,Right-Back,RB,-,Hibernian FC,Scotland,Free transfer,Out,2001,w,ligue-1
-Paris Saint-Germain,Ali Benarbia,33,Algeria,Attacking Midfield,AM,-,Manchester City,England,Free transfer,Out,2001,w,ligue-1
-Paris Saint-Germain,Pierre Ducrocq,24,France,Defensive Midfield,DM,-,Derby County,England,?,Out,2001,w,ligue-1
-LOSC Lille,Mikkel Beck,-1974,Denmark,Centre-Forward,CF,-,Aalborg BK,Denmark,Loan,Out,2001,w,ligue-1
-LOSC Lille,Ted Agasson,-1974,France,Attacking Midfield,AM,-,AS Saint-Étienne,France,?,Out,2001,w,ligue-1
-LOSC Lille,Patrick Collot,35,France,Central Midfield,CM,-,,Retired,-,Out,2001,w,ligue-1
-FC Girondins Bordeaux,François Grenet,26,France,Right-Back,RB,-,Derby County,England,£3.77m,Out,2001,w,ligue-1
-FC Girondins Bordeaux,Laurent Batlles,26,France,Attacking Midfield,AM,-,Stade Rennais FC,France,Free transfer,Out,2001,w,ligue-1
-FC Girondins Bordeaux,Nicolas Sahnoun,21,France,Defensive Midfield,DM,-,AC Ajaccio,France,Loan,Out,2001,w,ligue-1
-FC Girondins Bordeaux,Christian,26,Brazil,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,Loan,Out,2001,w,ligue-1
-ES Troyes AC,Jérôme Rothen,23,France,Left Midfield,LM,-,AS Monaco,France,£4.05m,Out,2001,w,ligue-1
-ES Troyes AC,Alexandre Jeannin,24,France,Left-Back,LB,-,Darlington FC (liq.),England,£59Th.,Out,2001,w,ligue-1
-ES Troyes AC,Sladjan Djukic,35,Serbia,Second Striker,SS,-,Nîmes Olympique,France,Free transfer,Out,2001,w,ligue-1
-ES Troyes AC,Nordin Jbari,26,Belgium,Centre-Forward,CF,-,Aris Thessaloniki,Greece,Loan,Out,2001,w,ligue-1
-FC Sochaux-Montbéliard,Camel Meriem,22,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,£6.30m,Out,2001,w,ligue-1
-Olympique Marseille,Philippe Brunel,28,France,Left Midfield,LM,-,LOSC Lille,France,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Mickaël Marsiglia,25,France,Central Midfield,CM,-,Racing Ferrol,Spain,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Cédric Carrasso,20,France,Goalkeeper,GK,-,Crystal Palace,England,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Cyrille Pouget,28,France,Centre-Forward,CF,-,AS Saint-Étienne,France,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Zoumana Camara,22,France,Centre-Back,CB,-,RC Lens,France,Free transfer,Out,2001,w,ligue-1
-Olympique Marseille,Jérôme Leroy,27,France,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,Club Atlético Huracán,Argentina,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Alen Skoro,20,Bosnia-Herzegovina,Centre-Forward,CF,-,Servette FC,Switzerland,Loan,Out,2001,w,ligue-1
-Olympique Marseille,Richard Martini,23,France,Centre-Back,CB,-,FC Lorient,France,?,Out,2001,w,ligue-1
-Olympique Marseille,Stefano Torrisi,31,Italy,Centre-Back,CB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2001,w,ligue-1
-Olympique Marseille,Dill,27,Brazil,Right Winger,RW,-,São Paulo Futebol Clube,Brazil,"End of loanDec 1, 2001",Out,2001,w,ligue-1
-Olympique Marseille,Jurgen Cavens,23,Belgium,Centre-Forward,CF,-,Standard Liège,Belgium,"End of loanDec 26, 2001",Out,2001,w,ligue-1
-FC Nantes,Alioune Touré,23,France,Right Winger,RW,-,Manchester City,England,Free transfer,Out,2001,w,ligue-1
-FC Nantes,Wilfried Dalmat,19,Saint-Martin,Right Winger,RW,-,Olympique Marseille,France,Loan,Out,2001,w,ligue-1
-FC Nantes,Pascal Delhommeau,23,France,Centre-Back,CB,-,FC Lorient,France,Loan,Out,2001,w,ligue-1
-Stade Rennais FC,Fabrice Fernandes,22,France,Left Winger,LW,-,Southampton FC,England,£1.49m,Out,2001,w,ligue-1
-Stade Rennais FC,Cyril Chapuis,22,France,Centre-Forward,CF,-,Olympique Marseille,France,Free transfer,Out,2001,w,ligue-1
-Stade Rennais FC,Jure Primorac,20,Croatia,Left-Back,LB,-,Union sportive Créteil,France,Loan,Out,2001,w,ligue-1
-Stade Rennais FC,Christophe Revel,22,France,Goalkeeper,GK,-,KSK Beveren,Belgium,Loan,Out,2001,w,ligue-1
-Stade Rennais FC,Vânder,27,Brazil,Midfielder,Midfielder,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,2001,w,ligue-1
-HSC Montpellier,Toifilou Maoulida,22,France,Centre-Forward,CF,-,Stade Rennais FC,France,£3.42m,Out,2001,w,ligue-1
-HSC Montpellier,Olivier Sorlin,22,France,Defensive Midfield,DM,-,Stade Rennais FC,France,£2.70m,Out,2001,w,ligue-1
-HSC Montpellier,Benoît Angbwa,20,Cameroon,Right-Back,RB,-,Club Nacional,Uruguay,?,Out,2001,w,ligue-1
-CS Sedan-Ardennes,Pascal Gourville,26,Mauritania,Centre-Back,CB,-,FC Gueugnon,France,Free transfer,Out,2001,w,ligue-1
-CS Sedan-Ardennes,Eduardo Oliveira,29,France,Centre-Back,CB,-,AS Saint-Étienne,France,?,Out,2001,w,ligue-1
-AS Monaco,Moussa Saïb,32,Algeria,Left Midfield,LM,-,FC Lorient,France,?,Out,2001,w,ligue-1
-EA Guingamp,Fabrice Fiorèse,26,France,Right Winger,RW,-,Paris Saint-Germain,France,?,Out,2001,w,ligue-1
-FC Metz,Ludovic Asuar,24,France,Defensive Midfield,DM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,w,ligue-1
-FC Metz,Tressor Moreno,22,Colombia,Centre-Forward,CF,-,CD América de Cali,Colombia,Loan,Out,2001,w,ligue-1
-FC Metz,Mario Espartero,24,France,Defensive Midfield,DM,-,Bolton Wanderers,England,Loan,Out,2001,w,ligue-1
-FC Lorient,Ulrich Le Pen,27,France,Left Midfield,LM,-,Ipswich Town,England,£1.76m,Out,2001,w,ligue-1
-FC Lorient,Koffi Fiawoo,32,Togo,Centre-Forward,CF,-,Union sportive Créteil,France,Free transfer,Out,2001,w,ligue-1
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Olympique Lyon,Éric Carrière,28,France,Attacking Midfield,AM,-,FC Nantes,France,£10.80m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-carriere/profil/spieler/5349
+Olympique Lyon,Péguy Luyindula,22,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,£7.92m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/peguy-luyindula/profil/spieler/3916
+Olympique Lyon,Frédéric Née,26,France,Centre-Forward,CF,-,SC Bastia,France,£6.75m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-nee/profil/spieler/5359
+Olympique Lyon,Caçapa,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,£5.58m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cacapa/profil/spieler/5340
+Olympique Lyon,Yohann Gomez,19,France,Defensive Midfield,DM,-,Olympique Lyon B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/yohann-gomez/profil/spieler/5344
+Olympique Lyon,Bryan Bergougnoux,18,France,Attacking Midfield,AM,-,Olympique Lyon U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bryan-bergougnoux/profil/spieler/12132
+Olympique Lyon,Roland Vieira,21,France,Centre-Forward,CF,-,SCO Angers,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/roland-vieira/profil/spieler/45123
+Olympique Lyon,Frédéric Fouret,26,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-fouret/profil/spieler/57523
+RC Lens,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,Stade Rennais FC,France,£4.81m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/el-hadji-diouf/profil/spieler/3604
+RC Lens,Pape Sarr,23,Senegal,Attacking Midfield,AM,-,AS Saint-Étienne,France,£675Th.,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pape-sarr/profil/spieler/3906
+RC Lens,Charles Itandje,18,Cameroon,Goalkeeper,GK,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/charles-itandje/profil/spieler/5470
+RC Lens,Djimi Traoré,21,Mali,Centre-Back,CB,-,Liverpool FC,England,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/djimi-traore/profil/spieler/3598
+RC Lens,Stéphane Pédron,30,France,Left Midfield,LM,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-pedron/profil/spieler/5487
+RC Lens,Bob Cousin,19,France,Central Midfield,CM,-,LOSC Lille,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bob-cousin/profil/spieler/18115
+RC Lens,Jean-Guy Wallemme,33,France,Centre-Back,CB,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-guy-wallemme/profil/spieler/155753
+RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,"End of loanMay 1, 2002",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-queudrue/profil/spieler/3711
+RC Lens,Daouda Jabi,20,Guinea,Right-Back,RB,-,RC Lens B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/daouda-jabi/profil/spieler/5478
+RC Lens,Nadir Belhadj,19,Algeria,Left-Back,LB,-,RC Lens B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/nadir-belhadj/profil/spieler/23892
+RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanOct 17, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-rodriguez/profil/spieler/5742
+RC Lens,Bouabid Bouden,19,Morocco,Centre-Forward,CF,-,RC Lens B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bouabid-bouden/profil/spieler/12357
+RC Lens,Cyril Rool,26,France,Left-Back,LB,-,Olympique Marseille,France,"End of loanAug 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+RC Lens,Valérien Ismaël,25,France,Centre-Back,CB,-,RC Strasbourg Alsace,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/valerien-ismael/profil/spieler/3574
+RC Lens,Xavier Méride,26,France,Centre-Back,CB,-,Union sportive Créteil,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/xavier-meride/profil/spieler/151412
+RC Lens,Sébastien Chabbert,23,France,Goalkeeper,GK,-,FC Metz,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-chabbert/profil/spieler/5469
+RC Lens,Yoann Lachor,25,France,Centre-Back,CB,-,Servette FC,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/yoann-lachor/profil/spieler/5479
+RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,EA Guingamp,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-rodriguez/profil/spieler/5742
+AJ Auxerre,Yann Lachuer,28,France,Attacking Midfield,AM,-,SC Bastia,France,£1.80m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/yann-lachuer/profil/spieler/5429
+AJ Auxerre,Lassina Diabaté,26,Cote d'Ivoire,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/lassina-diabate/profil/spieler/5499
+AJ Auxerre,Helder Esteves,24,Portugal,Centre-Forward,CF,-,US Lusitanos Saint-Maur,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/helder-esteves/profil/spieler/5435
+AJ Auxerre,Pawel Hajduczek,19,Poland,Defensive Midfield,DM,-,UKS SMS Lodz U19,Poland,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pawel-hajduczek/profil/spieler/61196
+AJ Auxerre,Nikola Jozic,18,Serbia,Centre-Back,CB,-,Eintracht Frankfurt II,Germany,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/nikola-jozic/profil/spieler/35780
+AJ Auxerre,Piotr Wlodarczyk,24,Poland,Centre-Forward,CF,-,Slask Wroclaw,Poland,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/piotr-wlodarczyk/profil/spieler/5441
+AJ Auxerre,Lionel Mathis,19,France,Defensive Midfield,DM,-,AJ Auxerre B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/lionel-mathis/profil/spieler/5430
+AJ Auxerre,Pedro Kamatà,19,DR Congo,Left Winger,LW,-,AJ Auxerre U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pedro-kamata/profil/spieler/4648
+AJ Auxerre,Arnaud Gonzalez,23,France,Centre-Forward,CF,-,AS Beauvais Oise,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-gonzalez/profil/spieler/5437
+Paris Saint-Germain,Hugo Leal,21,Portugal,Central Midfield,CM,-,Atlético Madrid,Spain,£8.55m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/hugo-leal/profil/spieler/5562
+Paris Saint-Germain,Ronaldinho,21,Brazil,Attacking Midfield,AM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,£4.50m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ronaldinho/profil/spieler/3373
+Paris Saint-Germain,Gabriel Heinze,23,Argentina,Centre-Back,CB,-,Real Valladolid CF,Spain,£3.15m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gabriel-heinze/profil/spieler/5555
+Paris Saint-Germain,Aloisio Chulapa,26,Brazil,Centre-Forward,CF,-,AS Saint-Étienne,France,£900Th.,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/aloisio-chulapa/profil/spieler/5569
+Paris Saint-Germain,Alex Dias,29,Brazil,Centre-Forward,CF,-,AS Saint-Étienne,France,Loan fee:£450Th.,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/alex-dias/profil/spieler/53310
+Paris Saint-Germain,Jérôme Alonzo,28,France,Goalkeeper,GK,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jerome-alonzo/profil/spieler/5548
+Paris Saint-Germain,Mohamed Bachtobji,21,France,Centre-Back,CB,-,FC 08 Homburg,Germany,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/mohamed-bachtobji/profil/spieler/30001
+Paris Saint-Germain,Stéphane Gillet,23,Luxembourg,Goalkeeper,GK,-,SV 07 Elversberg,Germany,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-gillet/profil/spieler/5549
+Paris Saint-Germain,Lionel Potillon,27,France,Left-Back,LB,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/lionel-potillon/profil/spieler/5559
+Paris Saint-Germain,Francis Llacer,29,France,Left-Back,LB,-,HSC Montpellier,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/francis-llacer/profil/spieler/5556
+Paris Saint-Germain,Bartholomew Ogbeche,16,Nigeria,Centre-Forward,CF,-,Lobi Stars FC,Nigeria,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bartholomew-ogbeche/profil/spieler/5574
+Paris Saint-Germain,Cristóbal Parralo,33,Spain,Right-Back,RB,-,RCD Espanyol Barcelona,Spain,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cristobal-parralo/profil/spieler/5551
+Paris Saint-Germain,Samuel Piètre,17,France,Right Winger,RW,-,FC Paris Saint-Germain B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/samuel-pietre/profil/spieler/5565
+Paris Saint-Germain,Selim Benachour,19,Tunisia,Attacking Midfield,AM,-,FC Paris Saint-Germain B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/selim-benachour/profil/spieler/12148
+Paris Saint-Germain,Younes Bengelloun,18,France,Centre-Back,CB,-,Paris Saint-Germain U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/younes-bengelloun/profil/spieler/17883
+Paris Saint-Germain,Talal El Karkouri,24,Morocco,Centre-Back,CB,-,Aris Thessaloniki,Greece,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/talal-el-karkouri/profil/spieler/4130
+Paris Saint-Germain,Fabrice Abriel,21,France,Central Midfield,CM,-,Servette FC,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-abriel/profil/spieler/40688
+LOSC Lille,Adékambi Olufadé,21,Togo,Right Winger,RW,-,KSC Lokeren,Belgium,£1.62m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/adekambi-olufade/profil/spieler/5655
+LOSC Lille,Grégory Tafforeau,24,France,Left-Back,LB,-,SM Caen,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gregory-tafforeau/profil/spieler/5641
+LOSC Lille,Rafael,20,Brazil,Centre-Back,CB,-,J.Malucelli Futebol,Brazil,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/rafael/profil/spieler/5640
+LOSC Lille,Grégory Malicki,27,France,Goalkeeper,GK,-,Stade Rennais FC,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gregory-malicki/profil/spieler/5632
+LOSC Lille,Salaheddine Bassir,28,Morocco,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/salaheddine-bassir/profil/spieler/103655
+LOSC Lille,Laurent Pichon,20,France,Goalkeeper,GK,-,LOSC Lille B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-pichon/profil/spieler/5633
+LOSC Lille,Riad Hammadou,24,Algeria,Defender,Defender,-,AS Beauvais Oise,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/riad-hammadou/profil/spieler/155746
+FC Girondins Bordeaux,Eduardo Costa,18,Brazil,Defensive Midfield,DM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,£4.50m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eduardo-costa/profil/spieler/5374
+FC Girondins Bordeaux,Bruno Basto,23,Portugal,Left-Back,LB,-,SL Benfica,Portugal,£2.05m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-basto/profil/spieler/5368
+FC Girondins Bordeaux,Christophe Sanchez,28,France,Centre-Forward,CF,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/christophe-sanchez/profil/spieler/5386
+FC Girondins Bordeaux,Paulo Miranda,27,Brazil,Defensive Midfield,DM,-,Club de Regatas Vasco da Gama,Brazil,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/paulo-miranda/profil/spieler/5377
+FC Girondins Bordeaux,Vikash Dhorasoo,27,France,Central Midfield,CM,-,Olympique Lyon,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/vikash-dhorasoo/profil/spieler/5351
+FC Girondins Bordeaux,Christian,26,Brazil,Centre-Forward,CF,-,Paris Saint-Germain,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian/profil/spieler/3371
+FC Girondins Bordeaux,Abdoulaye Barry,16,Guinea,Centre-Back,CB,-,FC Girondins Bordeaux U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-barry/profil/spieler/14891
+FC Girondins Bordeaux,Olivier Auriac,17,France,Defensive Midfield,DM,-,FC Girondins Bordeaux B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-auriac/profil/spieler/18298
+FC Girondins Bordeaux,Patrick Leugueun,20,France,Centre-Back,CB,-,FC Girondins Bordeaux B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-leugueun/profil/spieler/5371
+FC Girondins Bordeaux,Hervé Alicarte,26,France,Sweeper,SW,-,FC Toulouse,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/herve-alicarte/profil/spieler/5718
+FC Girondins Bordeaux,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FK Partizan Belgrade,Serbia,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ni-scaron-a-savelji%C4%87/profil/spieler/5396
+FC Girondins Bordeaux,Bruno Da Rocha,23,France,Midfielder,Midfielder,-,SC Campomaiorense,Portugal,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-da-rocha/profil/spieler/149269
+FC Girondins Bordeaux,Teddy Richert,26,France,Goalkeeper,GK,-,LOSC Lille,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/teddy-richert/profil/spieler/5388
+ES Troyes AC,Gharib Amzine,28,Morocco,Left Midfield,LM,-,RC Strasbourg Alsace,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gharib-amzine/profil/spieler/33909
+ES Troyes AC,Mehdi Leroy,23,France,Midfielder,Midfielder,-,FC Nantes,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/mehdi-leroy/profil/spieler/80168
+ES Troyes AC,Marc Pfertzel,20,France,Right-Back,RB,-,FC Mulhouse 2000,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/marc-pfertzel/profil/spieler/21189
+ES Troyes AC,Olivier Thomas,26,France,Left-Back,LB,-,AS Nancy-Lorraine,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-thomas/profil/spieler/6279
+ES Troyes AC,Michael Svensson,25,Sweden,Centre-Back,CB,-,Halmstads BK,Sweden,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/michael-svensson/profil/spieler/3680
+ES Troyes AC,Stéphane Cassard,28,France,Goalkeeper,GK,-,Union sportive Créteil,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-cassard/profil/spieler/18664
+ES Troyes AC,Patrice Loko,31,France,Centre-Forward,CF,-,Olympique Lyon,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrice-loko/profil/spieler/15787
+ES Troyes AC,Frédéric Danjou,26,France,Centre-Back,CB,-,Real Oviedo,Spain,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-danjou/profil/spieler/13768
+ES Troyes AC,Karim Ziani,18,Algeria,Attacking Midfield,AM,-,ES Troyes AC B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/karim-ziani/profil/spieler/25976
+FC Sochaux-Montbéliard,Fabien Boudarène,22,France,Defensive Midfield,DM,-,AS Saint-Étienne,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabien-boudarene/profil/spieler/5398
+FC Sochaux-Montbéliard,Jaouad Zairi,19,Morocco,Right Midfield,RM,-,FC Gueugnon,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jaouad-zairi/profil/spieler/5413
+FC Sochaux-Montbéliard,Jean-Jacques Domoraud,20,Cote d'Ivoire,Right-Back,RB,-,Besançon Racing Club ,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-domoraud/profil/spieler/5390
+FC Sochaux-Montbéliard,Teddy Richert,26,France,Goalkeeper,GK,-,FC Girondins Bordeaux,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/teddy-richert/profil/spieler/5388
+FC Sochaux-Montbéliard,Marcelo Luis Trapasso,25,Argentina,Attacking Midfield,AM,-,FC Gueugnon,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/marcelo-luis-trapasso/profil/spieler/5408
+FC Sochaux-Montbéliard,Kamel Chafni,19,Morocco,Attacking Midfield,AM,-,FC Libourne-Saint-Seurin,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/kamel-chafni/profil/spieler/5399
+FC Sochaux-Montbéliard,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ni-scaron-a-savelji%C4%87/profil/spieler/5396
+Olympique Marseille,Daniel Van Buyten,23,Belgium,Centre-Back,CB,-,Standard Liège,Belgium,£10.35m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/daniel-van-buyten/profil/spieler/4740
+Olympique Marseille,Delfim,24,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,£4.50m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/delfim/profil/spieler/5322
+Olympique Marseille,Brahim Hemdani,23,Algeria,Defensive Midfield,DM,-,RC Strasbourg Alsace,France,£3.60m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/brahim-hemdani/profil/spieler/5324
+Olympique Marseille,Pascal Nouma,29,France,Centre-Forward,CF,-,Besiktas JK,Turkey,£2.25m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pascal-nouma/profil/spieler/5333
+Olympique Marseille,Frank Leboeuf,33,France,Centre-Back,CB,-,Chelsea FC,England,£1.62m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frank-leboeuf/profil/spieler/5314
+Olympique Marseille,Jurgen Cavens,23,Belgium,Centre-Forward,CF,-,Standard Liège,Belgium,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jurgen-cavens/profil/spieler/13445
+Olympique Marseille,Piotr Swierczewski,29,Poland,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/piotr-swierczewski/profil/spieler/3694
+Olympique Marseille,Claude Gentile,21,Switzerland,Goalkeeper,GK,-,FC Lausanne-Sport,Switzerland,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/claude-gentile/profil/spieler/19221
+Olympique Marseille,Ibrahim Bá,27,France,Right Midfield,RM,-,Milan AC,Italy,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ibrahim-ba/profil/spieler/5815
+Olympique Marseille,Franck Jurietti,26,France,Left-Back,LB,-,AS Monaco,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-jurietti/profil/spieler/5288
+Olympique Marseille,Philippe Brunel,28,France,Left Midfield,LM,-,RC Lens,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+Olympique Marseille,Fabrice Fernandes,21,France,Left Winger,LW,-,Stade Rennais FC,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-fernandes/profil/spieler/4116
+Olympique Marseille,Vedran Runje,25,Croatia,Goalkeeper,GK,-,Standard Liège,Belgium,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/vedran-runje/profil/spieler/5310
+Olympique Marseille,André Luiz,26,Brazil,Attacking Midfield,AM,-,CD Tenerife,Spain,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/andre-luiz/profil/spieler/14855
+Olympique Marseille,Alberto Rivera,23,Spain,Central Midfield,CM,-,Real Madrid,Spain,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/alberto-rivera/profil/spieler/23306
+Olympique Marseille,Salomon Olembé,20,Cameroon,Left Midfield,LM,-,FC Nantes,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/salomon-olembe/profil/spieler/5326
+Olympique Marseille,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+Olympique Marseille,Alen Skoro,20,Bosnia-Herzegovina,Centre-Forward,CF,-,NK Olimpija Ljubljana,Slovenia,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/alen-skoro/profil/spieler/5335
+Olympique Marseille,Joseph Yobo,20,Nigeria,Centre-Back,CB,-,Standard Liège,Belgium,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/joseph-yobo/profil/spieler/3270
+Olympique Marseille,Vincent Gastine,19,France,Defensive Midfield,DM,-,Olympique Marseille U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/vincent-gastine/profil/spieler/38477
+Olympique Marseille,Laurent Merlin,16,France,Attacking Midfield,AM,-,Olympique Marseille U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+Olympique Marseille,Cédric Carrasso,19,France,Goalkeeper,GK,-,Olympique de Marseille B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-carrasso/profil/spieler/5308
+Olympique Marseille,Loris Reina,21,France,Left-Back,LB,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/loris-reina/profil/spieler/5317
+Olympique Marseille,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pablo-calandria/profil/spieler/60883
+Olympique Marseille,Klas Ingesson,32,Sweden,Defensive Midfield,DM,-,US Lecce,Italy,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/klas-ingesson/profil/spieler/101095
+Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,Real Zaragoza,Spain,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/daniel-montenegro/profil/spieler/25020
+Olympique Marseille,Pierre Issa,25,South Africa,Centre-Back,CB,-,Chelsea FC,England,"End of loanJun 1, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-issa/profil/spieler/28950
+Olympique Marseille,Richard Martini,22,France,Centre-Back,CB,-,FC Martigues,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/richard-martini/profil/spieler/23953
+Olympique Marseille,Cyrille Pouget,28,France,Centre-Forward,CF,-,AC Bellinzona,Switzerland,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyrille-pouget/profil/spieler/152462
+FC Nantes,Pierre-Yves André,27,France,Centre-Forward,CF,-,SC Bastia,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-yves-andre/profil/spieler/3116
+FC Nantes,Olivier Quint,29,France,Left Midfield,LM,-,CS Sedan-Ardennes,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-quint/profil/spieler/5511
+FC Nantes,Víctor Bonilla,30,Colombia,Centre-Forward,CF,-,FC Toulouse,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/victor-bonilla/profil/spieler/5708
+FC Nantes,Eric Djemba Djemba,20,Cameroon,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-djemba-djemba/profil/spieler/5509
+FC Nantes,Grégory Pujol,21,France,Centre-Forward,CF,-,FC Nantes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gregory-pujol/profil/spieler/5521
+FC Nantes,Furtado,18,Brazil,Defensive Midfield,DM,-,FC Nantes U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/furtado/profil/spieler/12356
+FC Nantes,Loïc Pailleres,21,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/loic-pailleres/profil/spieler/5510
+FC Nantes,Shiva N'Zigou,17,Gabon,Left Winger,LW,-,FC Nantes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/shiva-nzigou/profil/spieler/5520
+FC Nantes,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,SC Bastia,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-piocelle/profil/spieler/3925
+FC Nantes,Charles Devineau,21,France,Defensive Midfield,DM,-,Stade Lavallois,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/charles-devineau/profil/spieler/144945
+SC Bastia,Bernard Lambourde,30,France,Centre-Back,CB,-,Chelsea FC,England,£333Th.,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bernard-lambourde/profil/spieler/5580
+SC Bastia,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,FC Nantes,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-piocelle/profil/spieler/3925
+SC Bastia,Nicolas Dieuze,22,France,Central Midfield,CM,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-dieuze/profil/spieler/5598
+SC Bastia,Anthar Yahia,19,Algeria,Centre-Back,CB,-,Inter Milan Primavera,Italy,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/anthar-yahia/profil/spieler/5586
+SC Bastia,Price Jolibois,20,France,Left-Back,LB,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/price-jolibois/profil/spieler/24425
+SC Bastia,Cyril Jeunechamp,25,France,Defensive Midfield,DM,-,AJ Auxerre,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-jeunechamp/profil/spieler/5592
+SC Bastia,Reynald Pedros,29,France,Left Midfield,LM,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/reynald-pedros/profil/spieler/5594
+SC Bastia,Tony Vairelles,28,France,Centre-Forward,CF,-,FC Girondins Bordeaux,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/tony-vairelles/profil/spieler/5360
+SC Bastia,Fabien Audard,23,France,Goalkeeper,GK,-,FC Toulouse,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabien-audard/profil/spieler/5576
+SC Bastia,Fabrice Jau,22,France,Right Midfield,RM,-,FC Toulouse,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-jau/profil/spieler/5591
+SC Bastia,Pierre Deblock,28,France,Right Midfield,RM,-,AJ Auxerre,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-deblock/profil/spieler/5427
+SC Bastia,Damián Manso,22,Argentina,Left Winger,LW,-,Club Atlético Newell's Old Boys,Argentina,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/damian-manso/profil/spieler/37533
+SC Bastia,Patrick Beneforti,20,France,Attacking Midfield,AM,-,SC Bastia B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-beneforti/profil/spieler/5903
+Stade Rennais FC,Mario Turdó,22,Argentina,Centre-Forward,CF,-,Celta de Vigo,Spain,£9.74m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/mario-turdo/profil/spieler/5684
+Stade Rennais FC,Olivier Monterrubio,24,France,Left Midfield,LM,-,FC Nantes,France,£2.70m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-monterrubio/profil/spieler/5681
+Stade Rennais FC,Jure Primorac,19,Croatia,Left-Back,LB,-,AS Cannes,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jure-primorac/profil/spieler/8525
+Stade Rennais FC,Eric Durand,35,France,Goalkeeper,GK,-,SC Bastia,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-durand/profil/spieler/5660
+Stade Rennais FC,Frédéric Piquionne,22,Martinique,Centre-Forward,CF,-,Nîmes Olympique,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-piquionne/profil/spieler/5683
+Stade Rennais FC,Cyril Yapi,21,France,Centre-Forward,CF,-,FA Laval,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-yapi/profil/spieler/5685
+Stade Rennais FC,Christophe Revel,22,France,Goalkeeper,GK,-,FC Stade Rennes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/christophe-revel/profil/spieler/80171
+Stade Rennais FC,Fabrice Fernandes,21,France,Left Winger,LW,-,Olympique Marseille,France,"End of loanSep 1, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-fernandes/profil/spieler/4116
+Stade Rennais FC,Étienne Didot,17,France,Central Midfield,CM,-,FC Stade Rennes B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/etienne-didot/profil/spieler/5672
+Stade Rennais FC,Grégory Malicki,27,France,Goalkeeper,GK,-,LB Châteauroux,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gregory-malicki/profil/spieler/5632
+Stade Rennais FC,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/el-hadji-diouf/profil/spieler/3604
+Stade Rennais FC,Luís Fabiano,20,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/luis-fabiano/profil/spieler/19082
+HSC Montpellier,Bruno Carotti,28,France,Centre-Back,CB,-,FC Toulouse,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-carotti/profil/spieler/5691
+HSC Montpellier,Sébastien Michalowski,22,France,Left-Back,LB,-,LOSC Lille,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-michalowski/profil/spieler/5704
+HSC Montpellier,Serge Blanc,28,France,Left-Back,LB,-,Olympique Lyon,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/serge-blanc/profil/spieler/5690
+HSC Montpellier,Abdoulaye Cissé,17,Burkina Faso,Centre-Forward,CF,-,Grenoble Foot 38 B,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-cisse/profil/spieler/5709
+HSC Montpellier,Mickael Llorente,18,France,Midfielder,Midfielder,-,Perpignan Football Catalan,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/mickael-llorente/profil/spieler/5702
+HSC Montpellier,Assis,30,Brazil,Attacking Midfield,AM,-,Sport Club Corinthians Paulista,Brazil,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/assis/profil/spieler/155735
+HSC Montpellier,Jean-Christophe Rouviere,26,France,Defensive Midfield,DM,-,FC Toulouse,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-christophe-rouviere/profil/spieler/5706
+HSC Montpellier,Aliou Cissé,25,Senegal,Defensive Midfield,DM,-,Paris Saint-Germain,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/aliou-cisse/profil/spieler/3796
+HSC Montpellier,Habib Bamogo,19,Burkina Faso,Second Striker,SS,-,HSC Montpellier B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/habib-bamogo/profil/spieler/3912
+HSC Montpellier,Bertrand Robert,17,Réunion,Left Winger,LW,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/bertrand-robert/profil/spieler/5712
+HSC Montpellier,David Bret,17,France,Goalkeeper,GK,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-bret/profil/spieler/6011
+HSC Montpellier,Thierry Gathuessi,19,Cameroon,Right-Back,RB,-,HSC Montpellier B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/thierry-gathuessi/profil/spieler/5695
+HSC Montpellier,Valéry Mézague,17,Cameroon,Attacking Midfield,AM,-,HSC Montpellier B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/valery-mezague/profil/spieler/5703
+HSC Montpellier,Mansour Assoumani,18,Mali,Centre-Back,CB,-,HSC Montpellier U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/mansour-assoumani/profil/spieler/5689
+HSC Montpellier,Fodé Mansare,19,Guinea,Left Winger,LW,-,HSC Montpellier B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fode-mansare/profil/spieler/5710
+HSC Montpellier,Guillaume Moullec,20,France,Right-Back,RB,-,HSC Montpellier B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-moullec/profil/spieler/5705
+CS Sedan-Ardennes,Henri Camara,24,Senegal,Centre-Forward,CF,-,Grasshopper Club Zurich,Switzerland,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/henri-camara/profil/spieler/3900
+CS Sedan-Ardennes,David di Tommaso,21,France,Centre-Back,CB,-,AS Monaco,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-di-tommaso/profil/spieler/17997
+CS Sedan-Ardennes,Richard Jezierski,30,France,Defender,Defender,-,ES Troyes AC,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/richard-jezierski/profil/spieler/23937
+CS Sedan-Ardennes,Ludovic Asuar,24,France,Defensive Midfield,DM,-,FC Metz,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-asuar/profil/spieler/31054
+CS Sedan-Ardennes,Stéphane Leoni,25,France,Left-Back,LB,-,Dundee United FC,Scotland,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-leoni/profil/spieler/16208
+CS Sedan-Ardennes,Stéphane Noro,21,France,Attacking Midfield,AM,-,Stade Reims,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-noro/profil/spieler/15988
+CS Sedan-Ardennes,Dusko Djurisic,23,Montenegro,Centre-Back,CB,-,FC Sion,Switzerland,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/dusko-djurisic/profil/spieler/15518
+CS Sedan-Ardennes,Thomas Levaux,21,France,Goalkeeper,GK,-,Paris Saint-Germain,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/thomas-levaux/profil/spieler/25903
+CS Sedan-Ardennes,Frédéric Brando,27,France,Central Midfield,CM,-,Olympique Marseille,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-brando/profil/spieler/23903
+CS Sedan-Ardennes,Laurent Peyrelade,31,France,Forward,Forward,-,LOSC Lille,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-peyrelade/profil/spieler/23968
+CS Sedan-Ardennes,Freddy Bourgeois,24,France,Defensive Midfield,DM,-,AS Cannes,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/freddy-bourgeois/profil/spieler/43935
+AS Monaco,Lucas Bernardi,23,Argentina,Central Midfield,CM,-,Olympique Marseille,France,£8.10m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/lucas-bernardi/profil/spieler/5294
+AS Monaco,Flavio Roma,27,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,£7.65m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/flavio-roma/profil/spieler/5281
+AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,FC Internazionale,Italy,£6.04m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+AS Monaco,Oliver Bierhoff,33,Germany,Centre-Forward,CF,-,Milan AC,Italy,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/oliver-bierhoff/profil/spieler/56
+AS Monaco,José-Karl Pierre-Fanfan,25,Martinique,Centre-Back,CB,-,RC Lens,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jose-karl-pierre-fanfan/profil/spieler/3440
+AS Monaco,Vladimir Jugovic,31,Serbia,Left Midfield,LM,-,FC Internazionale,Italy,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/vladimir-jugovic/profil/spieler/5297
+AS Monaco,Diego Ramiro Quintero,23,Argentina,Centre-Forward,CF,-,US Salernitana,Italy,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/diego-ramiro-quintero/profil/spieler/5306
+AS Monaco,Cyril Domoraud,30,Cote d'Ivoire,Centre-Back,CB,-,Milan AC,Italy,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-domoraud/profil/spieler/6149
+AS Monaco,Éric Cubilier,21,France,Right-Back,RB,-,OGC Nice,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-cubilier/profil/spieler/5284
+AS Monaco,Moussa Saïb,32,Algeria,Left Midfield,LM,-,AJ Auxerre,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+AS Monaco,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+AS Monaco,Djibril Sidibé,19,Mali,Defensive Midfield,DM,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/djibril-sidibe/profil/spieler/5301
+AS Monaco,Gaël Givet,19,France,Centre-Back,CB,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/gael-givet/profil/spieler/5286
+AS Monaco,Hassan El Fakiri,24,Norway,Left-Back,LB,-,FK Lyn,Norway,"End of loanJul 31, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/hassan-el-fakiri/profil/spieler/8884
+AS Monaco,Souleymane Camara,18,Senegal,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/souleymane-camara/profil/spieler/5303
+AS Monaco,Tony Sylva,26,Senegal,Goalkeeper,GK,-,AC Ajaccio,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/tony-sylva/profil/spieler/5282
+AS Monaco,Pablo Contreras,22,Chile,Centre-Back,CB,-,Racing Club,Argentina,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pablo-contreras/profil/spieler/14520
+AS Monaco,Fabien Lefèvre,28,France,Left Midfield,LM,-,AS Nancy-Lorraine,France,"End of loanJun 30, 2000",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabien-lefevre/profil/spieler/5701
+EA Guingamp,Cédric Bardon,24,France,Central Midfield,CM,-,Stade Rennais FC,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-bardon/profil/spieler/5464
+EA Guingamp,Hakim Saci,24,France,Centre-Forward,CF,-,AS Red Star 93,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/hakim-saci/profil/spieler/5463
+EA Guingamp,Stéphane Guivarc'h,30,France,Centre-Forward,CF,-,AJ Auxerre,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-guivarch/profil/spieler/102753
+EA Guingamp,Kemal Bourhani,19,Comoros,Centre-Forward,CF,-,EA Guingamp B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/kemal-bourhani/profil/spieler/5465
+FC Metz,Jacques Songo'o,37,Cameroon,Goalkeeper,GK,-,Deportivo de La Coruña,Spain,£5.85m,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jacques-songoo/profil/spieler/102615
+FC Metz,Johan Liébus,22,France,Goalkeeper,GK,-,Le Mans Union Club 72,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/johan-liebus/profil/spieler/12033
+FC Metz,Patrick Moreau,27,France,Defender,Defender,-,SC Bastia,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-moreau/profil/spieler/28343
+FC Metz,Igor Jovicevic,27,Croatia,Forward,Forward,-,NK Zagreb,Croatia,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/igor-jovicevic/profil/spieler/312797
+FC Metz,Oumar Sané,25,Senegal,Right Winger,RW,-,CS Louhans-Cuiseaux 71,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/oumar-sane/profil/spieler/14205
+FC Metz,Emmanuel Adebayor,17,Togo,Centre-Forward,CF,-,FC Metz B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/emmanuel-adebayor/profil/spieler/8883
+FC Metz,Franck Béria,18,France,Right-Back,RB,-,FC Metz B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-beria/profil/spieler/12096
+FC Metz,Ludovic Butelle,18,France,Goalkeeper,GK,-,FC Metz B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-butelle/profil/spieler/12029
+FC Metz,Franck Signorino,19,France,Left-Back,LB,-,FC Metz B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-signorino/profil/spieler/12101
+FC Metz,Alexandre Frutos,19,France,Left Winger,LW,-,FC Metz B,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-frutos/profil/spieler/12104
+FC Metz,Julien François,21,France,Defensive Midfield,DM,-,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/julien-francois/profil/spieler/44605
+FC Metz,Sergiy Skachenko,28,Ukraine,Centre-Forward,CF,-,Sanfrecce Hiroshima,Japan,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sergiy-skachenko/profil/spieler/4912
+FC Lorient,Guillaume Norbert,20,France,Right Midfield,RM,-,Arsenal FC U18,England,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-norbert/profil/spieler/29310
+FC Lorient,Guillaume Gauclin,20,France,Goalkeeper,GK,-,EA Guingamp,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-gauclin/profil/spieler/5443
+FC Lorient,Sébastien Hamel,25,France,Goalkeeper,GK,-,RC Lens,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-hamel/profil/spieler/5416
+FC Lorient,Nicolas Esceth-N'Zi,24,France,Right Winger,RW,-,SM Caen,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-esceth-nzi/profil/spieler/129839
+FC Lorient,Jacques Abardonado,23,France,Centre-Back,CB,-,Olympique Marseille,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jacques-abardonado/profil/spieler/5320
+FC Lorient,Joris Marveaux,18,Martinique,Defensive Midfield,DM,-,FC Nantes B,France,Free transfer,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/joris-marveaux/profil/spieler/23955
+FC Lorient,François Guégan,21,France,Defender,Defender,-,,Unknown,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/francois-guegan/profil/spieler/161439
+FC Lorient,Pascal Feindouno,20,Guinea,Right Winger,RW,-,FC Girondins Bordeaux,France,Loan,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+FC Lorient,Cédric Chabert,27,France,Midfielder,Midfielder,-,Le Mans Union Club 72,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-chabert/profil/spieler/148615
+FC Lorient,Tchiressoua Guel,25,Cote d'Ivoire,Central Midfield,CM,-,AS Saint-Étienne,France,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/tchiressoua-guel/profil/spieler/26013
+FC Lorient,Hernan Medina,26,Argentina,Midfielder,Midfielder,-,AEK Athens,Greece,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/hernan-medina/profil/spieler/155692
+FC Lorient,Ludwig Norbert,17,France,Attacking Midfield,AM,-,,Unknown,?,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludwig-norbert/profil/spieler/29309
+FC Lorient,Jean-Marie Eveno,25,France,Centre-Forward,CF,-,FC Lorient U19,France,-,In,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-marie-eveno/profil/spieler/126916
+FC Lorient,Eben Dorkutso Dugbatey,27,Ghana,Midfielder,Midfielder,-,AA La Louviere,Belgium,"End of loanJun 30, 2001",In,2001,s,ligue-1,https://www.transfermarkt.co.uk/eben-dorkutso-dugbatey/profil/spieler/91656
+Olympique Lyon,Steve Marlet,27,France,Centre-Forward,CF,-,Fulham FC,England,£15.84m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/steve-marlet/profil/spieler/3240
+Olympique Lyon,Steed Malbranque,21,France,Central Midfield,CM,-,Fulham FC,England,£5.94m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/steed-malbranque/profil/spieler/3569
+Olympique Lyon,Serge Blanc,28,France,Left-Back,LB,-,HSC Montpellier,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/serge-blanc/profil/spieler/5690
+Olympique Lyon,Patrice Loko,31,France,Centre-Forward,CF,-,ES Troyes AC,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrice-loko/profil/spieler/15787
+Olympique Lyon,Vikash Dhorasoo,27,France,Central Midfield,CM,-,FC Girondins Bordeaux,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/vikash-dhorasoo/profil/spieler/5351
+Olympique Lyon,Caçapa,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cacapa/profil/spieler/5340
+RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-rodriguez/profil/spieler/5742
+RC Lens,Ludovic Delporte,21,France,Left Winger,LW,-,Racing Ferrol,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-delporte/profil/spieler/5492
+RC Lens,Philippe Brunel,28,France,Left Midfield,LM,-,Olympique Marseille,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+RC Lens,Sébastien Hamel,25,France,Goalkeeper,GK,-,FC Lorient,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-hamel/profil/spieler/5416
+RC Lens,José-Karl Pierre-Fanfan,25,Martinique,Centre-Back,CB,-,AS Monaco,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jose-karl-pierre-fanfan/profil/spieler/3440
+RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-queudrue/profil/spieler/3711
+RC Lens,Nenad Grozdic,27,Serbia,Central Midfield,CM,-,Racing Ferrol,Spain,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/nenad-grozdic/profil/spieler/16066
+RC Lens,Franck Chaussidière,22,France,Central Midfield,CM,-,FC Istres Ville Nouvelle ,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-chaussidiere/profil/spieler/22402
+RC Lens,Franck Dumas,33,France,Centre-Back,CB,-,SM Caen,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-dumas/profil/spieler/149391
+RC Lens,Yazid Kaïssi,20,Morocco,Central Midfield,CM,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/yazid-kaissi/profil/spieler/6108
+RC Lens,Xavier Méride,26,France,Centre-Back,CB,-,ES Wasquehal,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/xavier-meride/profil/spieler/151412
+RC Lens,Cyril Rool,26,France,Left-Back,LB,-,AS Monaco,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+RC Lens,Cyril Rool,26,France,Left-Back,LB,-,Olympique Marseille,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+RC Lens,Esteban Fuertes,28,Argentina,Centre-Forward,CF,-,CD Tenerife,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/esteban-fuertes/profil/spieler/5493
+RC Lens,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,Olympique Marseille,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pablo-calandria/profil/spieler/60883
+RC Lens,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,Stade Rennais FC,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/el-hadji-diouf/profil/spieler/3604
+AJ Auxerre,Alexandre Comisetti,27,Switzerland,Left Midfield,LM,-,Servette FC,Switzerland,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-comisetti/profil/spieler/4817
+AJ Auxerre,Cyril Jeunechamp,25,France,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-jeunechamp/profil/spieler/5592
+AJ Auxerre,Pierre Deblock,28,France,Right Midfield,RM,-,SC Bastia,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-deblock/profil/spieler/5427
+AJ Auxerre,Moussa Saïb,32,Algeria,Left Midfield,LM,-,AS Monaco,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+AJ Auxerre,David Recorbet,24,France,Centre-Back,CB,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-recorbet/profil/spieler/5425
+AJ Auxerre,Stéphane Guivarc'h,30,France,Centre-Forward,CF,-,EA Guingamp,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-guivarch/profil/spieler/102753
+AJ Auxerre,Christophe Virlogeux,19,France,Left-Back,LB,-,Besançon Racing Club ,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christophe-virlogeux/profil/spieler/19890
+AJ Auxerre,Christian Henna,29,France,Defensive Midfield,DM,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian-henna/profil/spieler/173063
+Paris Saint-Germain,Laurent Robert,26,France,Left Winger,LW,-,Newcastle United,England,£12.89m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-robert/profil/spieler/3316
+Paris Saint-Germain,Sylvain Distin,23,France,Centre-Back,CB,-,Newcastle United,England,Loan fee:£675Th.,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-distin/profil/spieler/3356
+Paris Saint-Germain,Éric Rabésandratana,28,Madagascar,Defensive Midfield,DM,-,AEK Athens,Greece,£675Th.,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-rabesandratana/profil/spieler/8527
+Paris Saint-Germain,Fabrice Abriel,22,France,Central Midfield,CM,-,SC Amiens,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-abriel/profil/spieler/40688
+Paris Saint-Germain,Jimmy Algérino,29,France,Right-Back,RB,-,AC Venezia 1907,Italy,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jimmy-algerino/profil/spieler/149945
+Paris Saint-Germain,Mathias Doumbé,21,France,Right-Back,RB,-,Hibernian FC,Scotland,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mathias-doumbe/profil/spieler/20963
+Paris Saint-Germain,Thomas Levaux,21,France,Goalkeeper,GK,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/thomas-levaux/profil/spieler/25903
+Paris Saint-Germain,Mickaël Madar,33,France,Centre-Forward,CF,-,Union sportive Créteil,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mickael-madar/profil/spieler/104068
+Paris Saint-Germain,Stéphane Brando,17,France,Goalkeeper,GK,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-brando/profil/spieler/154868
+Paris Saint-Germain,Selim Benachour,19,Tunisia,Attacking Midfield,AM,-,FC Martigues,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/selim-benachour/profil/spieler/12148
+Paris Saint-Germain,Godwin Okpara,28,Nigeria,Centre-Back,CB,-,Standard Liège,Belgium,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/godwin-okpara/profil/spieler/13481
+Paris Saint-Germain,Pierre Ducrocq,24,France,Defensive Midfield,DM,-,Derby County,England,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-ducrocq/profil/spieler/23919
+Paris Saint-Germain,Igor Yanovski,26,Russia,Defensive Midfield,DM,-,CSKA Moscow,Russia,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/igor-yanovski/profil/spieler/15377
+Paris Saint-Germain,Kaba Diawara,25,Guinea,Centre-Forward,CF,-,Racing Ferrol,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/kaba-diawara/profil/spieler/5571
+Paris Saint-Germain,Vampeta,27,Brazil,Central Midfield,CM,-,Clube de Regatas do Flamengo,Brazil,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/vampeta/profil/spieler/26542
+Paris Saint-Germain,Dominique Casagrande,30,France,Goalkeeper,GK,-,AS Saint-Étienne,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/dominique-casagrande/profil/spieler/148105
+Paris Saint-Germain,Peter Luccin,22,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/peter-luccin/profil/spieler/7555
+Paris Saint-Germain,Aliou Cissé,25,Senegal,Defensive Midfield,DM,-,HSC Montpellier,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/aliou-cisse/profil/spieler/3796
+Paris Saint-Germain,Christian,26,Brazil,Centre-Forward,CF,-,FC Girondins Bordeaux,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian/profil/spieler/3371
+Paris Saint-Germain,Mikel Arteta,20,Spain,Central Midfield,CM,-,FC Barcelona,Spain,"End of loanMay 1, 2002",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+Paris Saint-Germain,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/enrique-de-lucas/profil/spieler/3172
+LOSC Lille,Sébastien Michalowski,22,France,Left-Back,LB,-,HSC Montpellier,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-michalowski/profil/spieler/5704
+LOSC Lille,Geoffrey Dernis,20,France,Left Winger,LW,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/geoffrey-dernis/profil/spieler/15275
+LOSC Lille,Jean-Louis Valois,27,France,Right Winger,RW,-,Luton Town,England,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-louis-valois/profil/spieler/12608
+LOSC Lille,Bob Cousin,19,France,Central Midfield,CM,-,RC Lens,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/bob-cousin/profil/spieler/18115
+LOSC Lille,Laurent Peyrelade,31,France,Forward,Forward,-,CS Sedan-Ardennes,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-peyrelade/profil/spieler/23968
+LOSC Lille,Didier Santini,32,France,Left-Back,LB,-,,Without Club,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/didier-santini/profil/spieler/156979
+LOSC Lille,Teddy Richert,26,France,Goalkeeper,GK,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/teddy-richert/profil/spieler/5388
+FC Girondins Bordeaux,Lilian Laslandes,29,France,Centre-Forward,CF,-,Sunderland AFC,England,£5.40m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/lilian-laslandes/profil/spieler/1450
+FC Girondins Bordeaux,Sylvain Legwinski,28,France,Left Midfield,LM,-,Fulham FC,England,£4.73m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-legwinski/profil/spieler/3815
+FC Girondins Bordeaux,Marc Wilmots,32,Belgium,Attacking Midfield,AM,-,FC Schalke 04,Germany,£1.80m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/marc-wilmots/profil/spieler/286
+FC Girondins Bordeaux,Mathieu Beda,19,France,Centre-Back,CB,-,AS Nancy-Lorraine,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-beda/profil/spieler/5367
+FC Girondins Bordeaux,Hervé Bugnet,19,France,Right Winger,RW,-,FC Martigues,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/herve-bugnet/profil/spieler/14950
+FC Girondins Bordeaux,Jérémy Stinat,22,France,Right-Back,RB,-,Association sportive d'origine arménienne de Valence,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-stinat/profil/spieler/22226
+FC Girondins Bordeaux,Lassina Diabaté,26,Cote d'Ivoire,Defensive Midfield,DM,-,AJ Auxerre,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/lassina-diabate/profil/spieler/5499
+FC Girondins Bordeaux,Pascal Feindouno,20,Guinea,Right Winger,RW,-,FC Lorient,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+FC Girondins Bordeaux,Niša Saveljić,31,Montenegro,Centre-Back,CB,-,FC Sochaux-Montbéliard,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ni-scaron-a-savelji%C4%87/profil/spieler/5396
+FC Girondins Bordeaux,Tony Vairelles,28,France,Centre-Forward,CF,-,SC Bastia,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/tony-vairelles/profil/spieler/5360
+FC Girondins Bordeaux,Teddy Richert,26,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/teddy-richert/profil/spieler/5388
+ES Troyes AC,Samuel Boutal,31,France,Centre-Forward,CF,-,Kilmarnock FC,Scotland,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/samuel-boutal/profil/spieler/29282
+ES Troyes AC,Richard Jezierski,30,France,Defender,Defender,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/richard-jezierski/profil/spieler/23937
+ES Troyes AC,Éric Roy,33,France,Defensive Midfield,DM,-,Rayo Vallecano,Spain,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-roy/profil/spieler/13847
+ES Troyes AC,Raphaël Nadé,20,France,Centre-Forward,CF,-,Hampton & Richmond Borough,England,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/raphael-nade/profil/spieler/47308
+ES Troyes AC,Luciano Zavagno,23,Argentina,Left-Back,LB,-,Derby County,England,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/luciano-zavagno/profil/spieler/13502
+ES Troyes AC,Samba Diawara,23,Mali,Centre-Back,CB,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/samba-diawara/profil/spieler/26189
+ES Troyes AC,Farid Ghazi,27,Algeria,Centre-Forward,CF,-,FC Baniyas,United Arab Emirates,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/farid-ghazi/profil/spieler/47774
+ES Troyes AC,Benoît Croissant,20,France,Centre-Back,CB,-,Sheffield United,England,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/benoit-croissant/profil/spieler/21583
+ES Troyes AC,Jérôme Monier,29,France,Midfielder,Midfielder,-,Stade Lavallois,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jerome-monier/profil/spieler/151411
+ES Troyes AC,Frédéric Arpinon,32,France,Attacking Midfield,AM,-,Hibernian FC,Scotland,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-arpinon/profil/spieler/156993
+FC Sochaux-Montbéliard,Cédric Faivre,20,France,Defensive Midfield,DM,-,Besançon Racing Club ,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-faivre/profil/spieler/33917
+FC Sochaux-Montbéliard,Jérémie Rodrigues,20,France,Right-Back,RB,-,Besançon Racing Club ,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jeremie-rodrigues/profil/spieler/45099
+FC Sochaux-Montbéliard,Vincent Boulanger,27,France,Midfielder,Midfielder,-,Clermont Foot 63,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/vincent-boulanger/profil/spieler/129836
+FC Sochaux-Montbéliard,Gilles Leclerc,34,France,Centre-Back,CB,-,ES Wasquehal,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/gilles-leclerc/profil/spieler/152801
+FC Sochaux-Montbéliard,Patrick Guillou,31,France,Left-Back,LB,-,AS Saint-Étienne,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-guillou/profil/spieler/84022
+FC Sochaux-Montbéliard,Franck Durix,35,France,Right Midfield,RM,-,AS Cannes,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-durix/profil/spieler/160102
+FC Sochaux-Montbéliard,Stéphane Dedebant,30,France,Central Midfield,CM,-,Heart of Midlothian FC,Scotland,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-dedebant/profil/spieler/160101
+FC Sochaux-Montbéliard,Anto Drobnjak,32,Montenegro,Centre-Forward,CF,-,FC Martigues,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/anto-drobnjak/profil/spieler/152759
+Olympique Marseille,William Gallas,23,France,Centre-Back,CB,-,Chelsea FC,England,£8.37m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/william-gallas/profil/spieler/3156
+Olympique Marseille,Lucas Bernardi,23,Argentina,Central Midfield,CM,-,AS Monaco,France,£8.10m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/lucas-bernardi/profil/spieler/5294
+Olympique Marseille,Bruno N'Gotty,30,France,Centre-Back,CB,-,Bolton Wanderers,England,£675Th.,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-ngotty/profil/spieler/3964
+Olympique Marseille,Frédéric Brando,27,France,Central Midfield,CM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-brando/profil/spieler/23903
+Olympique Marseille,Florian Maurice,27,France,Centre-Forward,CF,-,Celta de Vigo,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/florian-maurice/profil/spieler/5600
+Olympique Marseille,Dramane Coulibaly,22,Mali,Centre-Forward,CF,-,Stade Lavallois,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/dramane-coulibaly/profil/spieler/76266
+Olympique Marseille,Jean-Christophe Marquet,27,France,Left-Back,LB,-,GS Consolat Marseille,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-christophe-marquet/profil/spieler/156975
+Olympique Marseille,George Weah,34,Liberia,Centre-Forward,CF,-,Al-Jazira (Abu Dhabi),United Arab Emirates,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/george-weah/profil/spieler/8542
+Olympique Marseille,Pierre Issa,25,South Africa,Centre-Back,CB,-,Watford FC,England,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-issa/profil/spieler/28950
+Olympique Marseille,Jacques Abardonado,23,France,Centre-Back,CB,-,FC Lorient,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jacques-abardonado/profil/spieler/5320
+Olympique Marseille,Patrick Blondeau,33,France,Right-Back,RB,-,Watford FC,England,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-blondeau/profil/spieler/25883
+Olympique Marseille,Pablo Calandria,19,Argentina,Centre-Forward,CF,-,Málaga CF,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pablo-calandria/profil/spieler/60883
+Olympique Marseille,Loris Reina,21,France,Left-Back,LB,-,Servette FC,Switzerland,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/loris-reina/profil/spieler/5317
+Olympique Marseille,Stéphane Trévisan,27,France,Goalkeeper,GK,-,AC Ajaccio,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-trevisan/profil/spieler/5716
+Olympique Marseille,Cédric Mouret,23,France,Attacking Midfield,AM,-,FC Istres Ville Nouvelle ,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-mouret/profil/spieler/106855
+Olympique Marseille,Klas Ingesson,32,Sweden,Defensive Midfield,DM,-,US Lecce,Italy,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/klas-ingesson/profil/spieler/101095
+Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,CA Osasuna,Spain,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/daniel-montenegro/profil/spieler/25020
+Olympique Marseille,Sébastien Pérez,27,France,Right-Back,RB,-,Galatasaray SK,Turkey,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-perez/profil/spieler/5316
+Olympique Marseille,Fabrice Fernandes,21,France,Left Winger,LW,-,Stade Rennais FC,France,"End of loanSep 1, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-fernandes/profil/spieler/4116
+Olympique Marseille,Cyril Rool,26,France,Left-Back,LB,-,RC Lens,France,"End of loanAug 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+Olympique Marseille,Adriano Gabirú,23,Brazil,Attacking Midfield,AM,-,Atlético Paranaense,Brazil,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/adriano-gabiru/profil/spieler/20403
+FC Nantes,Éric Carrière,28,France,Attacking Midfield,AM,-,Olympique Lyon,France,£10.80m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-carriere/profil/spieler/5349
+FC Nantes,Olivier Monterrubio,24,France,Left Midfield,LM,-,Stade Rennais FC,France,£2.70m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-monterrubio/profil/spieler/5681
+FC Nantes,Mehdi Leroy,23,France,Midfielder,Midfielder,-,ES Troyes AC,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mehdi-leroy/profil/spieler/80168
+FC Nantes,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-piocelle/profil/spieler/3925
+FC Nantes,Salomon Olembé,20,Cameroon,Left Midfield,LM,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/salomon-olembe/profil/spieler/5326
+FC Nantes,Mário Silva,24,Portugal,Left-Back,LB,-,FC Porto,Portugal,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mario-silva/profil/spieler/9818
+SC Bastia,Frédéric Née,26,France,Centre-Forward,CF,-,Olympique Lyon,France,£6.75m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-nee/profil/spieler/5359
+SC Bastia,Yann Lachuer,28,France,Attacking Midfield,AM,-,AJ Auxerre,France,£1.80m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/yann-lachuer/profil/spieler/5429
+SC Bastia,Pierre-Yves André,27,France,Centre-Forward,CF,-,FC Nantes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-yves-andre/profil/spieler/3116
+SC Bastia,Pascal Berenguer,20,France,Defensive Midfield,DM,-,FC Istres Ville Nouvelle ,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pascal-berenguer/profil/spieler/28301
+SC Bastia,Paul Essola,19,Cameroon,Defensive Midfield,DM,-,Union sportive Créteil,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/paul-essola/profil/spieler/5589
+SC Bastia,Patrick Valéry,31,France,Right-Back,RB,-,Aris Thessaloniki,Greece,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-valery/profil/spieler/107238
+SC Bastia,Pierre Laurent,30,France,Centre-Forward,CF,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-laurent/profil/spieler/5629
+SC Bastia,Piotr Swierczewski,29,Poland,Defensive Midfield,DM,-,Olympique Marseille,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/piotr-swierczewski/profil/spieler/3694
+SC Bastia,Eric Durand,35,France,Goalkeeper,GK,-,Stade Rennais FC,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-durand/profil/spieler/5660
+SC Bastia,David Faderne,30,France,Centre-Forward,CF,-,SM Caen,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-faderne/profil/spieler/5738
+SC Bastia,Patrick Moreau,27,France,Defender,Defender,-,FC Metz,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrick-moreau/profil/spieler/28343
+SC Bastia,Jean-Pierre Antonetti,21,France,Defender,Defender,-,AO Egaleo,Greece,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-pierre-antonetti/profil/spieler/213400
+SC Bastia,Vincent Taua,22,Neukaledonien,Forward,Forward,-,Cavese 1919,Italy,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/vincent-taua/profil/spieler/194250
+SC Bastia,Laurent Casanova,29,France,Defensive Midfield,DM,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-casanova/profil/spieler/157169
+SC Bastia,Dan Petersen,29,Denmark,Centre-Forward,CF,-,SC Bastia B,France,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/dan-petersen/profil/spieler/5601
+SC Bastia,Sébastien Piocelle,22,France,Defensive Midfield,DM,-,FC Nantes,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-piocelle/profil/spieler/3925
+SC Bastia,Cyril Domoraud,29,Cote d'Ivoire,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-domoraud/profil/spieler/6149
+Stade Rennais FC,El-Hadji Diouf,20,Senegal,Centre-Forward,CF,-,RC Lens,France,£4.81m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/el-hadji-diouf/profil/spieler/3604
+Stade Rennais FC,Cédric Bardon,24,France,Central Midfield,CM,-,EA Guingamp,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cedric-bardon/profil/spieler/5464
+Stade Rennais FC,Fabrice Fernandes,21,France,Left Winger,LW,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-fernandes/profil/spieler/4116
+Stade Rennais FC,Christian Bassila,23,France,Centre-Back,CB,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian-bassila/profil/spieler/3922
+Stade Rennais FC,Grégory Malicki,27,France,Goalkeeper,GK,-,LOSC Lille,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/gregory-malicki/profil/spieler/5632
+Stade Rennais FC,Bernard Lama,38,France,Goalkeeper,GK,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/bernard-lama/profil/spieler/3736
+HSC Montpellier,Ahmed Madouni,20,Algeria,Centre-Back,CB,-,Borussia Dortmund,Germany,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ahmed-madouni/profil/spieler/1254
+HSC Montpellier,Michel Rodríguez,22,France,Centre-Back,CB,-,SC Amiens,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/michel-rodriguez/profil/spieler/28115
+HSC Montpellier,Cyril Ramond,21,France,Left-Back,LB,-,AS Nancy-Lorraine,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/cyril-ramond/profil/spieler/14957
+HSC Montpellier,Nicolas Ouédec,29,France,Centre-Forward,CF,-,AA La Louviere,Belgium,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-ouedec/profil/spieler/133930
+HSC Montpellier,Ricardo Nascimento,27,Portugal,Attacking Midfield,AM,-,Gil Vicente FC,Portugal,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ricardo-nascimento/profil/spieler/24961
+HSC Montpellier,Francis Llacer,29,France,Left-Back,LB,-,Paris Saint-Germain,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/francis-llacer/profil/spieler/5556
+HSC Montpellier,Nabil Baha,19,Morocco,Centre-Forward,CF,-,Naval 1º de Maio,Portugal,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/nabil-baha/profil/spieler/19503
+HSC Montpellier,Salim Djefaflia,22,France,Forward,Forward,-,RCO Agde,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/salim-djefaflia/profil/spieler/8736
+HSC Montpellier,Éric Decroix,32,France,Centre-Back,CB,-,,Without Club,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/eric-decroix/profil/spieler/134024
+CS Sedan-Ardennes,Lehit Zeghdane,23,France,Left-Back,LB,-,F91 Dudelange,Luxembourg,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/lehit-zeghdane/profil/spieler/79929
+CS Sedan-Ardennes,Xavier Bécas,22,France,Forward,Forward,-,AC Ajaccio,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/xavier-becas/profil/spieler/34230
+CS Sedan-Ardennes,Mathieu Verschuère,29,France,Defensive Midfield,DM,-,KAA Gent,Belgium,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-verschuere/profil/spieler/13757
+CS Sedan-Ardennes,Olivier Quint,29,France,Left Midfield,LM,-,FC Nantes,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/olivier-quint/profil/spieler/5511
+CS Sedan-Ardennes,Christophe Jouault,26,France,Defender,Defender,-,AS Cagnes-Le Cros Football,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christophe-jouault/profil/spieler/156996
+AS Monaco,Philippe Christanval,22,France,Centre-Back,CB,-,FC Barcelona,Spain,£15.30m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/philippe-christanval/profil/spieler/6741
+AS Monaco,Martin Djetou,26,France,Centre-Back,CB,-,AC Parma,Italy,£8.78m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/martin-djetou/profil/spieler/3725
+AS Monaco,John Arne Riise,20,Norway,Left-Back,LB,-,Liverpool FC,England,£5.73m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/john-arne-riise/profil/spieler/3220
+AS Monaco,Pablo Contreras,22,Chile,Centre-Back,CB,-,Celta de Vigo,Spain,£3.78m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pablo-contreras/profil/spieler/14520
+AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,AS Roma,Italy,Loan fee:£1.39m,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+AS Monaco,David di Tommaso,21,France,Centre-Back,CB,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-di-tommaso/profil/spieler/17997
+AS Monaco,Franck Jurietti,26,France,Left-Back,LB,-,Olympique Marseille,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/franck-jurietti/profil/spieler/5288
+AS Monaco,Patrice Luzi,20,France,Goalkeeper,GK,-,AC Ajaccio,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patrice-luzi/profil/spieler/3595
+AS Monaco,Jean-Marie Aubry,32,France,Goalkeeper,GK,-,SM Caen,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jean-marie-aubry/profil/spieler/151301
+AS Monaco,Uliano Courville,22,France,Midfielder,Midfielder,-,Portsmouth FC,England,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/uliano-courville/profil/spieler/4387
+AS Monaco,Hassan El Fakiri,24,Norway,Left-Back,LB,-,Rosenborg BK,Norway,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/hassan-el-fakiri/profil/spieler/8884
+AS Monaco,Marco Simone,32,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/marco-simone/profil/spieler/3524
+AS Monaco,Costinha,26,Portugal,Defensive Midfield,DM,-,FC Porto,Portugal,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/costinha/profil/spieler/9826
+AS Monaco,Xavier Gravelaine,32,France,Centre-Forward,CF,-,SM Caen,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/xavier-gravelaine/profil/spieler/20083
+AS Monaco,Nicolas Bonnal,24,France,Left Midfield,LM,-,,Without Club,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-bonnal/profil/spieler/5642
+AS Monaco,Christian Panucci,28,Italy,Right-Back,RB,-,FC Internazionale,Italy,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+EA Guingamp,Guillaume Gauclin,20,France,Goalkeeper,GK,-,FC Lorient,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-gauclin/profil/spieler/5443
+EA Guingamp,Jérôme Foulon,30,France,Right-Back,RB,-,FC Chamois Niort,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/jerome-foulon/profil/spieler/28329
+EA Guingamp,Edwin van Ankeren,32,Netherlands,Centre-Forward,CF,-,US Viterbese,Italy,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/edwin-van-ankeren/profil/spieler/32202
+EA Guingamp,Marek Jozwiak,34,Poland,Centre-Back,CB,-,Shenyang Ginde,China,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/marek-jozwiak/profil/spieler/15226
+EA Guingamp,Samuel Michel,30,France,Centre-Forward,CF,-,FC Chamois Niort,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/samuel-michel/profil/spieler/28342
+EA Guingamp,Sylvain Deplace,29,France,Defensive Midfield,DM,-,FC Martigues,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-deplace/profil/spieler/154058
+EA Guingamp,Ronald Thomas,27,France,Goalkeeper,GK,-,FC Martigues,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ronald-thomas/profil/spieler/152866
+EA Guingamp,Bruno Rodriguez,28,France,Centre-Forward,CF,-,RC Lens,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/bruno-rodriguez/profil/spieler/5742
+FC Metz,Faryd Mondragón,30,Colombia,Goalkeeper,GK,-,Galatasaray SK,Turkey,Loan fee:£450Th.,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/faryd-mondragon/profil/spieler/6100
+FC Metz,Ensar Arifovic,20,Bosnia-Herzegovina,Centre-Forward,CF,-,Neuchâtel Xamax,Switzerland,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ensar-arifovic/profil/spieler/33159
+FC Metz,Ludovic Asuar,24,France,Defensive Midfield,DM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-asuar/profil/spieler/31054
+FC Metz,David Klein,27,France,Goalkeeper,GK,-,FC Martigues,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/david-klein/profil/spieler/45105
+FC Metz,Daniel Gomez,22,France,Centre-Forward,CF,-,Royal Excelsior Virton,Belgium,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/daniel-gomez/profil/spieler/4009
+FC Metz,Didier Lang,30,France,Defensive Midfield,DM,-,Le Mans Union Club 72,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/didier-lang/profil/spieler/152798
+FC Metz,Stéphane Borbiconi,22,France,Centre-Back,CB,-,FC Martigues,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-borbiconi/profil/spieler/12097
+FC Metz,Djima Oyawolé,24,Togo,Centre-Forward,CF,-,KAA Gent,Belgium,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/djima-oyawole/profil/spieler/45654
+FC Metz,Patricio D'Amico,26,Argentina,Midfielder,Midfielder,-,ES Wasquehal,France,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/patricio-damico/profil/spieler/148128
+FC Metz,Sylvain Kastendeuch,37,France,Sweeper,SW,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-kastendeuch/profil/spieler/157096
+FC Metz,Sébastien Chabbert,23,France,Goalkeeper,GK,-,RC Lens,France,"End of loanJun 30, 2001",Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-chabbert/profil/spieler/5469
+FC Lorient,Stéphane Lestin,25,France,Forward,Forward,-,Tours FC,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/stephane-lestin/profil/spieler/160058
+FC Lorient,Pierre Chavrondier,29,France,Midfielder,Midfielder,-,Clermont Foot 63,France,Free transfer,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/pierre-chavrondier/profil/spieler/160022
+FC Lorient,Ludwig Norbert,17,France,Attacking Midfield,AM,-,Rangers FC,Scotland,Loan,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/ludwig-norbert/profil/spieler/29309
+FC Lorient,Xavier Dablemont,26,France,Forward,Forward,-,Grenoble Foot 38,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/xavier-dablemont/profil/spieler/152746
+FC Lorient,Laurent Bourmaud,26,France,Midfielder,Midfielder,-,AS Angoulême Charente 92,France,?,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/laurent-bourmaud/profil/spieler/160018
+FC Lorient,Manfa Camara,24,France,Forward,Forward,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/manfa-camara/profil/spieler/160020
+FC Lorient,Frédéric Petereyns,31,France,Goalkeeper,GK,-,,Retired,-,Out,2001,s,ligue-1,https://www.transfermarkt.co.uk/frederic-petereyns/profil/spieler/160076
+RC Lens,Jacek Bak,28,Poland,Centre-Back,CB,-,Olympique Lyon,France,£3.87m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/jacek-bak/profil/spieler/5472
+RC Lens,Papa Bouba Diop,23,Senegal,Defensive Midfield,DM,-,Grasshopper Club Zurich,Switzerland,£1.62m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/papa-bouba-diop/profil/spieler/5485
+RC Lens,Zoumana Camara,22,France,Centre-Back,CB,-,Olympique Marseille,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/zoumana-camara/profil/spieler/5474
+RC Lens,Bruno Rodriguez,28,France,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanOct 17, 2001",In,2001,w,ligue-1,https://www.transfermarkt.co.uk/bruno-rodriguez/profil/spieler/5742
+Paris Saint-Germain,Agostinho,26,Portugal,Left Winger,LW,-,Málaga CF,Spain,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/agostinho/profil/spieler/3622
+Paris Saint-Germain,Jérôme Leroy,27,France,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/jerome-leroy/profil/spieler/5563
+Paris Saint-Germain,Fabrice Fiorèse,26,France,Right Winger,RW,-,EA Guingamp,France,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/fabrice-fiorese/profil/spieler/5572
+LOSC Lille,Philippe Brunel,28,France,Left Midfield,LM,-,Olympique Marseille,France,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+FC Girondins Bordeaux,Camel Meriem,22,France,Attacking Midfield,AM,-,FC Sochaux-Montbéliard,France,£6.30m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/camel-meriem/profil/spieler/5376
+FC Girondins Bordeaux,Yksel Osmanovski,24,Sweden,Left Midfield,LM,-,Torino Calcio,Italy,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/yksel-osmanovski/profil/spieler/3457
+ES Troyes AC,Ibrahima Bangoura,19,Guinea,Right Winger,RW,-,FC Istres Ville Nouvelle ,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/ibrahima-bangoura/profil/spieler/33910
+ES Troyes AC,Benjamin Nivet,25,France,Attacking Midfield,AM,-,LB Châteauroux,France,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/benjamin-nivet/profil/spieler/33927
+ES Troyes AC,Nicolas Bonnal,25,France,Left Midfield,LM,-,,Without Club,-,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/nicolas-bonnal/profil/spieler/5642
+FC Sochaux-Montbéliard,Jimmy Algérino,30,France,Right-Back,RB,-,AC Venezia 1907,Italy,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/jimmy-algerino/profil/spieler/149945
+FC Sochaux-Montbéliard,William Quevedo,30,France,Left-Back,LB,-,Boavista Porto FC,Portugal,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/william-quevedo/profil/spieler/5394
+Olympique Marseille,Lamine Sakho,24,Senegal,Left Winger,LW,-,RC Lens,France,£1.35m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/lamine-sakho/profil/spieler/8318
+Olympique Marseille,Wilfried Dalmat,19,Saint-Martin,Right Winger,RW,-,FC Nantes,France,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/wilfried-dalmat/profil/spieler/5516
+Olympique Marseille,Cyril Chapuis,22,France,Centre-Forward,CF,-,Stade Rennais FC,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/cyril-chapuis/profil/spieler/5329
+Olympique Marseille,Alfonso,29,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/alfonso/profil/spieler/7933
+Olympique Marseille,Stefano Torrisi,30,Italy,Centre-Back,CB,-,AC Parma,Italy,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/stefano-torrisi/profil/spieler/5865
+Olympique Marseille,Eduardo Tuzzio,27,Argentina,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/eduardo-tuzzio/profil/spieler/5318
+Olympique Marseille,Dimas,32,Portugal,Left-Back,LB,-,Sporting CP,Portugal,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/dimas/profil/spieler/17563
+Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,CA Osasuna,Spain,"End of loanJan 24, 2002",In,2001,w,ligue-1,https://www.transfermarkt.co.uk/daniel-montenegro/profil/spieler/25020
+FC Nantes,Mario Yepes,25,Colombia,Centre-Back,CB,-,Club Atlético River Plate,Argentina,£3.42m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/mario-yepes/profil/spieler/5507
+FC Nantes,Mauro Cetto,19,Argentina,Centre-Back,CB,-,Club Atlético Rosario Central,Argentina,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/mauro-cetto/profil/spieler/5501
+SC Bastia,Ishmael Addo,19,Ghana,Centre-Forward,CF,-,Hearts of Oak,Ghana,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/ishmael-addo/profil/spieler/22562
+Stade Rennais FC,Toifilou Maoulida,22,France,Centre-Forward,CF,-,HSC Montpellier,France,£3.42m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+Stade Rennais FC,Olivier Sorlin,22,France,Defensive Midfield,DM,-,HSC Montpellier,France,£2.70m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+Stade Rennais FC,Laurent Batlles,26,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/laurent-batlles/profil/spieler/5669
+CS Sedan-Ardennes,Ludovic Asuar,24,France,Defensive Midfield,DM,-,FC Metz,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/ludovic-asuar/profil/spieler/31054
+CS Sedan-Ardennes,Julien Poueys,22,France,Centre-Forward,CF,-,FC Sion,Switzerland,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/julien-poueys/profil/spieler/110146
+AS Monaco,Jérôme Rothen,23,France,Left Midfield,LM,-,ES Troyes AC,France,£4.05m,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/jerome-rothen/profil/spieler/5300
+AS Monaco,Alex Nyarko,28,Ghana,Centre-Back,CB,-,Everton FC,England,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/alex-nyarko/profil/spieler/3727
+AS Monaco,Sébastien Carole,19,Martinique,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/sebastien-carole/profil/spieler/5295
+EA Guingamp,Didier Drogba,23,Cote d'Ivoire,Centre-Forward,CF,-,Le Mans Union Club 72,France,£90Th.,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/didier-drogba/profil/spieler/3924
+EA Guingamp,Alaeddine Yahia,20,Tunisia,Centre-Back,CB,-,CS Louhans-Cuiseaux B,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/alaeddine-yahia/profil/spieler/5451
+EA Guingamp,Farid Talhaoui,19,Morocco,Forward,Forward,-,EA Guingamp B,France,-,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/farid-talhaoui/profil/spieler/5468
+FC Metz,Kossi Agassa,23,Togo,Goalkeeper,GK,-,Africa Sports,Cote d'Ivoire,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/kossi-agassa/profil/spieler/12028
+FC Metz,Joseph-Désiré Job,24,Cameroon,Centre-Forward,CF,-,Middlesbrough FC,England,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/joseph-desire-job/profil/spieler/3650
+FC Lorient,Pape Malick Diop,27,Senegal,Centre-Back,CB,-,Neuchâtel Xamax,Switzerland,£630Th.,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/pape-malick-diop/profil/spieler/23915
+FC Lorient,Johan Cavalli,20,France,Attacking Midfield,AM,-,FC Nantes B,France,Free transfer,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/johan-cavalli/profil/spieler/44687
+FC Lorient,Moussa Saïb,32,Algeria,Left Midfield,LM,-,AS Monaco,France,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+FC Lorient,Pascal Delhommeau,23,France,Centre-Back,CB,-,FC Nantes,France,Loan,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/pascal-delhommeau/profil/spieler/5502
+FC Lorient,Richard Martini,23,France,Centre-Back,CB,-,Olympique Marseille,France,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/richard-martini/profil/spieler/23953
+FC Lorient,Yohan Bouzin,27,France,Left-Back,LB,-,FC Gueugnon,France,?,In,2001,w,ligue-1,https://www.transfermarkt.co.uk/yohan-bouzin/profil/spieler/148227
+Olympique Lyon,Jacek Bak,28,Poland,Centre-Back,CB,-,RC Lens,France,£3.87m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/jacek-bak/profil/spieler/5472
+Olympique Lyon,Frédéric Fouret,27,France,Centre-Forward,CF,-,AS Nancy-Lorraine,France,£252Th.,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/frederic-fouret/profil/spieler/57523
+Olympique Lyon,Guillaume Lacour,21,France,Right-Back,RB,-,RC Strasbourg Alsace,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/guillaume-lacour/profil/spieler/5622
+RC Lens,Lamine Sakho,24,Senegal,Left Winger,LW,-,Olympique Marseille,France,£1.35m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/lamine-sakho/profil/spieler/8318
+RC Lens,Ludovic Delporte,21,France,Left Winger,LW,-,Racing Ferrol,Spain,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ludovic-delporte/profil/spieler/5492
+RC Lens,Franck Queudrue,23,France,Left-Back,LB,-,Middlesbrough FC,England,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/franck-queudrue/profil/spieler/3711
+RC Lens,Mickaël Debève,31,France,Right Midfield,RM,-,Middlesbrough FC,England,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/mickael-debeve/profil/spieler/149389
+Paris Saint-Germain,Nicolas Anelka,22,France,Centre-Forward,CF,-,Liverpool FC,England,Loan fee:£1.26m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/nicolas-anelka/profil/spieler/3226
+Paris Saint-Germain,Mathias Doumbé,21,France,Right-Back,RB,-,Hibernian FC,Scotland,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/mathias-doumbe/profil/spieler/20963
+Paris Saint-Germain,Ali Benarbia,33,Algeria,Attacking Midfield,AM,-,Manchester City,England,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ali-benarbia/profil/spieler/3300
+Paris Saint-Germain,Pierre Ducrocq,24,France,Defensive Midfield,DM,-,Derby County,England,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/pierre-ducrocq/profil/spieler/23919
+LOSC Lille,Mikkel Beck,28,Denmark,Centre-Forward,CF,-,Aalborg BK,Denmark,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/mikkel-beck/profil/spieler/5650
+LOSC Lille,Ted Agasson,28,France,Attacking Midfield,AM,-,AS Saint-Étienne,France,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ted-agasson/profil/spieler/152703
+LOSC Lille,Patrick Collot,35,France,Central Midfield,CM,-,,Retired,-,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/patrick-collot/profil/spieler/151204
+FC Girondins Bordeaux,François Grenet,26,France,Right-Back,RB,-,Derby County,England,£3.77m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/francois-grenet/profil/spieler/8506
+FC Girondins Bordeaux,Laurent Batlles,26,France,Attacking Midfield,AM,-,Stade Rennais FC,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/laurent-batlles/profil/spieler/5669
+FC Girondins Bordeaux,Nicolas Sahnoun,21,France,Defensive Midfield,DM,-,AC Ajaccio,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/nicolas-sahnoun/profil/spieler/5378
+FC Girondins Bordeaux,Christian,26,Brazil,Centre-Forward,CF,-,Sociedade Esportiva Palmeiras,Brazil,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/christian/profil/spieler/3371
+ES Troyes AC,Jérôme Rothen,23,France,Left Midfield,LM,-,AS Monaco,France,£4.05m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/jerome-rothen/profil/spieler/5300
+ES Troyes AC,Alexandre Jeannin,24,France,Left-Back,LB,-,Darlington FC (liq.),England,£59Th.,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/alexandre-jeannin/profil/spieler/47904
+ES Troyes AC,Sladjan Djukic,35,Serbia,Second Striker,SS,-,Nîmes Olympique,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/sladjan-djukic/profil/spieler/152756
+ES Troyes AC,Nordin Jbari,26,Belgium,Centre-Forward,CF,-,Aris Thessaloniki,Greece,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/nordin-jbari/profil/spieler/13064
+FC Sochaux-Montbéliard,Camel Meriem,22,France,Attacking Midfield,AM,-,FC Girondins Bordeaux,France,£6.30m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/camel-meriem/profil/spieler/5376
+Olympique Marseille,Philippe Brunel,28,France,Left Midfield,LM,-,LOSC Lille,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+Olympique Marseille,Mickaël Marsiglia,25,France,Central Midfield,CM,-,Racing Ferrol,Spain,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/mickael-marsiglia/profil/spieler/5325
+Olympique Marseille,Cyrille Pouget,28,France,Centre-Forward,CF,-,AS Saint-Étienne,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/cyrille-pouget/profil/spieler/152462
+Olympique Marseille,Cédric Carrasso,20,France,Goalkeeper,GK,-,Crystal Palace,England,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/cedric-carrasso/profil/spieler/5308
+Olympique Marseille,Zoumana Camara,22,France,Centre-Back,CB,-,RC Lens,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/zoumana-camara/profil/spieler/5474
+Olympique Marseille,Daniel Montenegro,22,Argentina,Attacking Midfield,AM,-,Club Atlético Huracán,Argentina,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/daniel-montenegro/profil/spieler/25020
+Olympique Marseille,Richard Martini,23,France,Centre-Back,CB,-,FC Lorient,France,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/richard-martini/profil/spieler/23953
+Olympique Marseille,Alen Skoro,20,Bosnia-Herzegovina,Centre-Forward,CF,-,Servette FC,Switzerland,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/alen-skoro/profil/spieler/5335
+Olympique Marseille,Jérôme Leroy,27,France,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/jerome-leroy/profil/spieler/5563
+Olympique Marseille,Dill,27,Brazil,Right Winger,RW,-,São Paulo Futebol Clube,Brazil,"End of loanDec 1, 2001",Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/dill/profil/spieler/13809
+Olympique Marseille,Jurgen Cavens,23,Belgium,Centre-Forward,CF,-,Standard Liège,Belgium,"End of loanDec 26, 2001",Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/jurgen-cavens/profil/spieler/13445
+Olympique Marseille,Ibrahim Bá,28,France,Right Midfield,RM,-,Milan AC,Italy,"End of loanJan 31, 2002",Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ibrahim-ba/profil/spieler/5815
+Olympique Marseille,Stefano Torrisi,31,Italy,Centre-Back,CB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/stefano-torrisi/profil/spieler/5865
+FC Nantes,Alioune Touré,23,France,Right Winger,RW,-,Manchester City,England,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/alioune-toure/profil/spieler/5575
+FC Nantes,Wilfried Dalmat,19,Saint-Martin,Right Winger,RW,-,Olympique Marseille,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/wilfried-dalmat/profil/spieler/5516
+FC Nantes,Pascal Delhommeau,23,France,Centre-Back,CB,-,FC Lorient,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/pascal-delhommeau/profil/spieler/5502
+Stade Rennais FC,Fabrice Fernandes,22,France,Left Winger,LW,-,Southampton FC,England,£1.49m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/fabrice-fernandes/profil/spieler/4116
+Stade Rennais FC,Cyril Chapuis,22,France,Centre-Forward,CF,-,Olympique Marseille,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/cyril-chapuis/profil/spieler/5329
+Stade Rennais FC,Jure Primorac,20,Croatia,Left-Back,LB,-,Union sportive Créteil,France,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/jure-primorac/profil/spieler/8525
+Stade Rennais FC,Christophe Revel,22,France,Goalkeeper,GK,-,KSK Beveren,Belgium,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/christophe-revel/profil/spieler/80171
+Stade Rennais FC,Vânder,27,Brazil,Midfielder,Midfielder,-,Cruzeiro Esporte Clube,Brazil,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/vander/profil/spieler/155717
+HSC Montpellier,Toifilou Maoulida,22,France,Centre-Forward,CF,-,Stade Rennais FC,France,£3.42m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+HSC Montpellier,Olivier Sorlin,22,France,Defensive Midfield,DM,-,Stade Rennais FC,France,£2.70m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+HSC Montpellier,Benoît Angbwa,20,Cameroon,Right-Back,RB,-,Club Nacional,Uruguay,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/benoit-angbwa/profil/spieler/20232
+CS Sedan-Ardennes,Pascal Gourville,26,Mauritania,Centre-Back,CB,-,FC Gueugnon,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/pascal-gourville/profil/spieler/15416
+CS Sedan-Ardennes,Eduardo Oliveira,29,France,Centre-Back,CB,-,AS Saint-Étienne,France,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/eduardo-oliveira/profil/spieler/14109
+AS Monaco,Moussa Saïb,32,Algeria,Left Midfield,LM,-,FC Lorient,France,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/moussa-saib/profil/spieler/109496
+EA Guingamp,Fabrice Fiorèse,26,France,Right Winger,RW,-,Paris Saint-Germain,France,?,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/fabrice-fiorese/profil/spieler/5572
+FC Metz,Ludovic Asuar,24,France,Defensive Midfield,DM,-,CS Sedan-Ardennes,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ludovic-asuar/profil/spieler/31054
+FC Metz,Tressor Moreno,22,Colombia,Centre-Forward,CF,-,CD América de Cali,Colombia,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/tressor-moreno/profil/spieler/12035
+FC Metz,Mario Espartero,24,France,Defensive Midfield,DM,-,Bolton Wanderers,England,Loan,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/mario-espartero/profil/spieler/12103
+FC Lorient,Ulrich Le Pen,27,France,Left Midfield,LM,-,Ipswich Town,England,£1.76m,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/ulrich-le-pen/profil/spieler/13244
+FC Lorient,Koffi Fiawoo,32,Togo,Centre-Forward,CF,-,Union sportive Créteil,France,Free transfer,Out,2001,w,ligue-1,https://www.transfermarkt.co.uk/koffi-fiawoo/profil/spieler/152767

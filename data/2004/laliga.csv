@@ -1,531 +1,531 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Atlético Madrid,Peter Luccin,25,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,£4.50m,In,2004,s,laliga
-Atlético Madrid,Luis Perea,25,Colombia,Centre-Back,CB,-,Club Atlético Boca Juniors,Argentina,£2.97m,In,2004,s,laliga
-Atlético Madrid,Pablo Ibáñez,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,£2.70m,In,2004,s,laliga
-Atlético Madrid,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Valencia CF,Spain,Loan,In,2004,s,laliga
-Atlético Madrid,Marcelo Sosa,26,Uruguay,Defensive Midfield,DM,-,Spartak Moscow,Russia,Free transfer,In,2004,s,laliga
-Atlético Madrid,Leo Franco,27,Argentina,Goalkeeper,GK,-,RCD Mallorca,Spain,Free transfer,In,2004,s,laliga
-Atlético Madrid,Antonio López,22,Spain,Left-Back,LB,-,CA Osasuna,Spain,Free transfer,In,2004,s,laliga
-Atlético Madrid,Juan Velasco,27,Spain,Right-Back,RB,-,Celta de Vigo,Spain,?,In,2004,s,laliga
-Atlético Madrid,Gonzalo Colsa,25,Spain,Defensive Midfield,DM,-,RCD Mallorca,Spain,?,In,2004,s,laliga
-Atlético Madrid,Francisco Molinero,18,Spain,Right-Back,RB,-,Atlético Madrid B,Spain,-,In,2004,s,laliga
-Atlético Madrid,José Ignacio Zahinos,26,Spain,Defensive Midfield,DM,-,Atlético Madrid B,Spain,-,In,2004,s,laliga
-Atlético Madrid,Iván Cuéllar,20,Spain,Goalkeeper,GK,-,Atlético Madrid B,Spain,-,In,2004,s,laliga
-Atlético Madrid,Braulio Nóbrega,18,Spain,Centre-Forward,CF,-,Atlético Madrid B,Spain,-,In,2004,s,laliga
-Atlético Madrid,Javi Moreno,29,Spain,Centre-Forward,CF,-,Bolton Wanderers,England,"End of loanJun 30, 2004",In,2004,s,laliga
-Atlético Madrid,Pinda,28,Spain,Goalkeeper,GK,-,Royal Antwerp FC,Belgium,"End of loanJun 30, 2004",In,2004,s,laliga
-Atlético Madrid,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Atlético Madrid,José María Movilla,29,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-FC Barcelona,Samuel Eto'o,23,Cameroon,Centre-Forward,CF,-,RCD Mallorca,Spain,£24.30m,In,2004,s,laliga
-FC Barcelona,Deco,26,Portugal,Attacking Midfield,AM,-,FC Porto,Portugal,£18.90m,In,2004,s,laliga
-FC Barcelona,Ludovic Giuly,27,France,Right Winger,RW,-,AS Monaco,France,£7.65m,In,2004,s,laliga
-FC Barcelona,Edmílson,27,Brazil,Defensive Midfield,DM,-,Olympique Lyon,France,£7.20m,In,2004,s,laliga
-FC Barcelona,Juliano Belletti,28,Brazil,Right-Back,RB,-,Villarreal CF,Spain,£5.40m,In,2004,s,laliga
-FC Barcelona,Sylvinho,30,Brazil,Left-Back,LB,-,Celta de Vigo,Spain,£1.35m,In,2004,s,laliga
-FC Barcelona,Giovanni van Bronckhorst,29,Netherlands,Left-Back,LB,-,Arsenal FC,England,Free transfer,In,2004,s,laliga
-FC Barcelona,Henrik Larsson,32,Sweden,Centre-Forward,CF,-,Celtic FC,Scotland,Free transfer,In,2004,s,laliga
-FC Barcelona,Rodri,19,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,-,In,2004,s,laliga
-FC Barcelona,Robert Enke,26,Germany,Goalkeeper,GK,-,CD Tenerife,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-FC Barcelona,Fernando Navarro,22,Spain,Left-Back,LB,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Zaragoza,Agustín Aranzabal,31,Spain,Left-Back,LB,-,Real Sociedad,Spain,£720Th.,In,2004,s,laliga
-Real Zaragoza,García Granero,23,Spain,Left Midfield,LM,-,Elche CF,Spain,Free transfer,In,2004,s,laliga
-Real Zaragoza,José María Movilla,29,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga
-Real Zaragoza,Luis García,25,Spain,Goalkeeper,GK,-,CD Numancia,Spain,Free transfer,In,2004,s,laliga
-Real Zaragoza,Jorge Zaparaín,20,Spain,Goalkeeper,GK,-,Universidad Saragossa,Spain,?,In,2004,s,laliga
-Real Zaragoza,Óscar González,21,Spain,Attacking Midfield,AM,-,Real Valladolid CF,Spain,?,In,2004,s,laliga
-Real Zaragoza,Alberto Zapater,19,Spain,Defensive Midfield,DM,-,Real Zaragoza B,Spain,-,In,2004,s,laliga
-Real Zaragoza,Rubén Falcón,26,Spain,Goalkeeper,GK,-,Real Zaragoza B,Spain,-,In,2004,s,laliga
-Real Zaragoza,Mate Bilic,23,Croatia,Centre-Forward,CF,-,Sporting Gijón,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Zaragoza,César Jiménez,26,Spain,Centre-Back,CB,-,UD Almería,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,Edú,25,Brazil,Second Striker,SS,-,Celta de Vigo,Spain,£4.95m,In,2004,s,laliga
-Real Betis Balompié,Ricardo Oliveira,24,Brazil,Centre-Forward,CF,-,Valencia CF,Spain,£3.60m,In,2004,s,laliga
-Real Betis Balompié,Paolo Castellini,25,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,In,2004,s,laliga
-Real Betis Balompié,Pablo Niño,26,Spain,Midfielder,Midfielder,-,RBC Roosendaal,Netherlands,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,Toni Doblas,23,Spain,Goalkeeper,GK,-,Xerez CD,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,Gastón Casas,26,Argentina,Centre-Forward,CF,-,Racing Club,Argentina,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Deportivo Alavés,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,João Tomás,29,Portugal,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Betis Balompié,Martín Palermo,30,Argentina,Centre-Forward,CF,-,Deportivo Alavés,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-RCD Mallorca,Francisco Farinós,26,Spain,Defensive Midfield,DM,-,FC Internazionale,Italy,Loan fee:£2.25m,In,2004,s,laliga
-RCD Mallorca,Patrick Müller,27,Switzerland,Centre-Back,CB,-,Olympique Lyon,France,Free transfer,In,2004,s,laliga
-RCD Mallorca,Sander Westerveld,29,Netherlands,Goalkeeper,GK,-,Real Sociedad,Spain,Loan,In,2004,s,laliga
-RCD Mallorca,Juan Arango,24,Venezuela,Left Midfield,LM,-,Puebla FC,Mexico,Free transfer,In,2004,s,laliga
-RCD Mallorca,Sergio Ballesteros,28,Spain,Centre-Back,CB,-,Villarreal CF,Spain,?,In,2004,s,laliga
-RCD Mallorca,Luis García,23,Spain,Central Midfield,CM,-,Real Murcia CF,Spain,?,In,2004,s,laliga
-RCD Mallorca,Marcos Vales,29,Spain,Right Midfield,RM,-,Sevilla FC,Spain,?,In,2004,s,laliga
-RCD Mallorca,Jorge López,25,Spain,Right Winger,RW,-,Valencia CF,Spain,?,In,2004,s,laliga
-RCD Mallorca,Víctor Casadesús,19,Spain,Centre-Forward,CF,-,RCD Mallorca B,Spain,-,In,2004,s,laliga
-RCD Mallorca,Miguel Ángel Moyà,20,Spain,Goalkeeper,GK,-,RCD Mallorca B,Spain,-,In,2004,s,laliga
-RCD Mallorca,Alberto Cifuentes,25,Spain,Goalkeeper,GK,-,Ciudad Murcia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-RCD Mallorca,Tuni,21,Spain,Right Winger,RW,-,UD Salamanca,Spain,"End of loanJun 1, 2004",In,2004,s,laliga
-CA Osasuna,Rafael Clavero,27,Spain,Left-Back,LB,-,Real Murcia CF,Spain,Free transfer,In,2004,s,laliga
-CA Osasuna,Sérvulo,25,Spain,Forward,Forward,-,Levante UD,Spain,Free transfer,In,2004,s,laliga
-CA Osasuna,Juanma Ortiz,22,Spain,Right-Back,RB,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga
-CA Osasuna,Enrique Corrales,22,Spain,Left-Back,LB,-,Real Madrid B,Spain,Free transfer,In,2004,s,laliga
-CA Osasuna,Savo Milosevic,30,Serbia,Centre-Forward,CF,-,Parma FC,Italy,Free transfer,In,2004,s,laliga
-CA Osasuna,Ludovic Delporte,24,France,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,In,2004,s,laliga
-CA Osasuna,Miguel Flaño,19,Spain,Centre-Back,CB,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga
-CA Osasuna,David López,21,Spain,Central Midfield,CM,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga
-CA Osasuna,Raúl García,17,Spain,Attacking Midfield,AM,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga
-Sevilla FC,Ariza Makukula,23,Portugal,Centre-Forward,CF,-,FC Nantes,France,£3.15m,In,2004,s,laliga
-Sevilla FC,Fernando Sales,26,Spain,Right Winger,RW,-,Real Valladolid CF,Spain,£1.08m,In,2004,s,laliga
-Sevilla FC,Carlos Aranda,23,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,£653Th.,In,2004,s,laliga
-Sevilla FC,Renato,25,Brazil,Central Midfield,CM,-,Santos FC,Brazil,Free transfer,In,2004,s,laliga
-Sevilla FC,Jordi López,23,Spain,Central Midfield,CM,-,Real Madrid,Spain,Free transfer,In,2004,s,laliga
-Sevilla FC,Jesuli,26,Spain,Attacking Midfield,AM,-,Celta de Vigo,Spain,?,In,2004,s,laliga
-Sevilla FC,Jesús Navas,17,Spain,Right-Back,RB,-,Sevilla FC B,Spain,-,In,2004,s,laliga
-Sevilla FC,Marco Navas,21,Spain,Right Winger,RW,-,Sevilla FC B,Spain,-,In,2004,s,laliga
-Sevilla FC,Antonio Puerta,19,Spain,Left-Back,LB,-,Sevilla FC C,Spain,-,In,2004,s,laliga
-Sevilla FC,Pablo Ruiz,23,Spain,Centre-Back,CB,-,Sevilla FC B,Spain,-,In,2004,s,laliga
-Sevilla FC,Fredi,30,Spain,Left Midfield,LM,-,Real Murcia CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Madrid,Wálter Samuel,26,Argentina,Centre-Back,CB,-,AS Roma,Italy,£22.50m,In,2004,s,laliga
-Real Madrid,Jonathan Woodgate,24,England,Centre-Back,CB,-,Newcastle United,England,£16.47m,In,2004,s,laliga
-Real Madrid,Michael Owen,24,England,Centre-Forward,CF,-,Liverpool FC,England,£10.80m,In,2004,s,laliga
-Real Madrid,Flávio Conceição,30,Brazil,Central Midfield,CM,-,Borussia Dortmund,Germany,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Madrid,Fernando Morientes,28,Spain,Centre-Forward,CF,-,AS Monaco,France,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Madrid,Rubén González,22,Spain,Centre-Back,CB,-,Borussia Mönchengladbach,Germany,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Madrid,Albert Celades,28,Spain,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Madrid,David Aganzo,23,Spain,Centre-Forward,CF,-,Levante UD,Spain,"End of loanJun 1, 2004",In,2004,s,laliga
-Athletic Bilbao,Gorka Azkorra,21,Spain,Right Winger,RW,-,CD Basconia,Spain,-,In,2004,s,laliga
-Athletic Bilbao,Andoitz Galdós,19,Spain,Central Midfield,CM,-,CD Basconia,Spain,-,In,2004,s,laliga
-Athletic Bilbao,Aritz Solabarrieta,20,Spain,Right Midfield,RM,-,Bilbao Athletic,Spain,-,In,2004,s,laliga
-Athletic Bilbao,Roberto Pampín,20,Spain,Goalkeeper,GK,-,Bilbao Athletic,Spain,-,In,2004,s,laliga
-Athletic Bilbao,Javi Casas,22,Spain,Left-Back,LB,-,Bilbao Athletic,Spain,-,In,2004,s,laliga
-Athletic Bilbao,Fernando Llorente,19,Spain,Centre-Forward,CF,-,CD Basconia,Spain,-,In,2004,s,laliga
-Racing Santander,Fernando Marqués,19,Spain,Right Winger,RW,-,Rayo Vallecano,Spain,Free transfer,In,2004,s,laliga
-Racing Santander,David Aganzo,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,In,2004,s,laliga
-Racing Santander,Javier Arizmendi,20,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga
-Racing Santander,Walid Regragui,28,Morocco,Right-Back,RB,-,AC Ajaccio,France,Free transfer,In,2004,s,laliga
-Racing Santander,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,Loan,In,2004,s,laliga
-Racing Santander,Alessandro Pierini,31,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,2004,s,laliga
-Racing Santander,Icham Mouissi,21,Algeria,Right Winger,RW,-,Racing Ferrol,Spain,?,In,2004,s,laliga
-Racing Santander,Pedro López,20,Spain,Right-Back,RB,-,Valencia CF,Spain,Loan,In,2004,s,laliga
-Racing Santander,Mauricio Nanni,24,Uruguay,Goalkeeper,GK,-,Montevideo Wanderers,Uruguay,Loan,In,2004,s,laliga
-Racing Santander,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Birmingham City,England,"End of loanMay 16, 2005",In,2004,s,laliga
-Racing Santander,Oriol Lozano,23,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2004,s,laliga
-Racing Santander,Antonio Tomás,19,Spain,Central Midfield,CM,-,Racing de Santander B,Spain,-,In,2004,s,laliga
-Real Sociedad,Mikel Arteta,22,Spain,Central Midfield,CM,-,Rangers FC,Scotland,£3.60m,In,2004,s,laliga
-Real Sociedad,Jérémie Bréchet,24,France,Centre-Back,CB,-,FC Internazionale,Italy,£1.35m,In,2004,s,laliga
-Real Sociedad,Fabiano Rossato,26,Brazil,Left-Back,LB,-,FC Porto,Portugal,£900Th.,In,2004,s,laliga
-Real Sociedad,Gari Uranga,24,Spain,Attacking Midfield,AM,-,Getafe CF,Spain,Free transfer,In,2004,s,laliga
-Real Sociedad,Mikel Labaka,23,Spain,Centre-Back,CB,-,Ciudad Murcia,Spain,Loan,In,2004,s,laliga
-Real Sociedad,Mikel Arteta,23,Spain,Central Midfield,CM,£7.20m,Everton FC,England,"End of loanMay 16, 2005",In,2004,s,laliga
-Real Sociedad,Javier Garrido,19,Spain,Left-Back,LB,-,Real Sociedad B,Spain,-,In,2004,s,laliga
-Real Sociedad,Oskitz Estefanía,17,Spain,Left Winger,LW,-,Real Sociedad U19,Spain,-,In,2004,s,laliga
-Real Sociedad,Juan Domínguez,20,Spain,Attacking Midfield,AM,-,Real Sociedad U19,Spain,-,In,2004,s,laliga
-Real Sociedad,Mikel Alonso,24,Spain,Central Midfield,CM,-,CD Numancia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,SD Eibar,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,SD Eibar,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Real Sociedad,José Javier Barkero,25,Spain,Attacking Midfield,AM,-,Club Polideportivo Ejido,Spain,"End of loanJun 1, 2004",In,2004,s,laliga
-RCD Espanyol Barcelona,Didier Domi,26,France,Left-Back,LB,-,Paris Saint-Germain,France,£1.35m,In,2004,s,laliga
-RCD Espanyol Barcelona,José Amavisca,33,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,£900Th.,In,2004,s,laliga
-RCD Espanyol Barcelona,Carlos Kameni,20,Cameroon,Goalkeeper,GK,-,AC Le Havre,France,£495Th.,In,2004,s,laliga
-RCD Espanyol Barcelona,Óscar Serrano,22,Spain,Left Midfield,LM,-,UE Castelldefels,Spain,Free transfer,In,2004,s,laliga
-RCD Espanyol Barcelona,Óscar Miñambres,23,Spain,Right-Back,RB,-,Real Madrid,Spain,Loan,In,2004,s,laliga
-RCD Espanyol Barcelona,Dani García,29,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,Free transfer,In,2004,s,laliga
-RCD Espanyol Barcelona,Hugo Ibarra,30,Argentina,Right-Back,RB,-,FC Porto,Portugal,?,In,2004,s,laliga
-RCD Espanyol Barcelona,Mauricio Pochettino,32,Argentina,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,In,2004,s,laliga
-RCD Espanyol Barcelona,Ito,29,Spain,Central Midfield,CM,-,Real Betis Balompié,Spain,Loan,In,2004,s,laliga
-RCD Espanyol Barcelona,Martín Posse,28,Argentina,Right Winger,RW,-,CD Tenerife,Spain,?,In,2004,s,laliga
-RCD Espanyol Barcelona,Biel Ribas,18,Spain,Goalkeeper,GK,-,Espanyol Barcelona U19,Spain,-,In,2004,s,laliga
-RCD Espanyol Barcelona,Jonathan Soriano,18,Spain,Centre-Forward,CF,-,RCD Espanyol B,Spain,-,In,2004,s,laliga
-RCD Espanyol Barcelona,Gorka Iraizoz,23,Spain,Goalkeeper,GK,-,RCD Espanyol B,Spain,-,In,2004,s,laliga
-RCD Espanyol Barcelona,Manel,30,Spain,Centre-Forward,CF,-,Derby County,England,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Rubén Castro,23,Spain,Centre-Forward,CF,-,UD Las Palmas,Spain,Free transfer,In,2004,s,laliga
-Deportivo de La Coruña,Momo,21,Spain,Left Winger,LW,-,UD Las Palmas,Spain,Free transfer,In,2004,s,laliga
-Deportivo de La Coruña,Xisco,18,Spain,Centre-Forward,CF,-,RC Deportivo B,Spain,-,In,2004,s,laliga
-Deportivo de La Coruña,Changui,27,Spain,Centre-Forward,CF,-,UD Las Palmas,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Fernando,32,Spain,Left Midfield,LM,-,Córdoba CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Goran Djorovic,32,Serbia,Centre-Back,CB,-,Elche CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Sebastián Abreu,27,Uruguay,Centre-Forward,CF,-,Tecos de la UAG,Mexico,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Jaime,31,Spain,Defensive Midfield,DM,-,Hannover 96,Germany,"End of loanJun 30, 2004",In,2004,s,laliga
-Deportivo de La Coruña,Dani Mallo,25,Spain,Goalkeeper,GK,-,Elche CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,Stefano Fiore,29,Italy,Attacking Midfield,AM,-,SS Lazio,Italy,£15.30m,In,2004,s,laliga
-Valencia CF,Marco Di Vaio,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£9.90m,In,2004,s,laliga
-Valencia CF,Bernardo Corradi,28,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£9.00m,In,2004,s,laliga
-Valencia CF,Marco Caneira,25,Portugal,Centre-Back,CB,-,FC Girondins Bordeaux,France,£1.80m,In,2004,s,laliga
-Valencia CF,Emiliano Moretti,23,Italy,Centre-Back,CB,-,Parma FC,Italy,Free transfer,In,2004,s,laliga
-Valencia CF,Ludovic Butelle,21,France,Goalkeeper,GK,-,FC Metz,France,Free transfer,In,2004,s,laliga
-Valencia CF,Jaime Gavilán,19,Spain,Left Winger,LW,-,Valencia Mestalla,Spain,-,In,2004,s,laliga
-Valencia CF,Pedro López,20,Spain,Right-Back,RB,-,Valencia Mestalla,Spain,-,In,2004,s,laliga
-Valencia CF,David Silva,18,Spain,Attacking Midfield,AM,-,Valencia Mestalla,Spain,-,In,2004,s,laliga
-Valencia CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Valencia Mestalla,Spain,-,In,2004,s,laliga
-Valencia CF,Miguel Albiol,22,Spain,Right Midfield,RM,-,Recreativo Huelva,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Málaga CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,John Carew,24,Norway,Centre-Forward,CF,-,AS Roma,Italy,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,Gonzalo de los Santos,27,Uruguay,Defensive Midfield,DM,-,Atlético Madrid,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Valencia CF,Joaquín Enguix,26,Spain,Right Midfield,RM,-,Recreativo Huelva,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Villarreal CF,Diego Forlán,25,Uruguay,Centre-Forward,CF,-,Manchester United,England,£2.88m,In,2004,s,laliga
-Villarreal CF,Armando Sá,28,Mozambique,Right-Back,RB,-,SL Benfica,Portugal,£900Th.,In,2004,s,laliga
-Villarreal CF,Juan Manuel Peña,31,Bolivia,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,2004,s,laliga
-Villarreal CF,Gonzalo Rodríguez,20,Argentina,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,?,In,2004,s,laliga
-Villarreal CF,Santi Cazorla,19,Spain,Central Midfield,CM,-,Villarreal CF B,Spain,-,In,2004,s,laliga
-Villarreal CF,Xisco Nadal,18,Spain,Right Winger,RW,-,CD Numancia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Villarreal CF,Héctor Font,20,Spain,Central Midfield,CM,-,Ciudad Murcia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Málaga CF,Míchel,28,Spain,Attacking Midfield,AM,-,Real Murcia CF,Spain,Loan,In,2004,s,laliga
-Málaga CF,Márcio Amoroso,29,Brazil,Centre-Forward,CF,-,,Without Club,-,In,2004,s,laliga
-Málaga CF,César Navas,24,Spain,Centre-Back,CB,-,Málaga CF B,Spain,-,In,2004,s,laliga
-Málaga CF,Koke,21,Spain,Centre-Forward,CF,-,Olympique Marseille,France,"End of loanJun 30, 2004",In,2004,s,laliga
-Albacete Balompié,Jordi Ferrón,25,Spain,Right-Back,RB,-,Real Zaragoza,Spain,Free transfer,In,2004,s,laliga
-Albacete Balompié,Mark González,19,Chile,Left Winger,LW,-,CD Universidad Católica,Chile,Free transfer,In,2004,s,laliga
-Albacete Balompié,Martín Camaño,19,Spain,Centre-Back,CB,-,,Unknown,Free transfer,In,2004,s,laliga
-Albacete Balompié,Momo,22,Spain,Left Winger,LW,-,Deportivo de La Coruña,Spain,Loan,In,2004,s,laliga
-Albacete Balompié,Alberto Cano,20,Spain,Central Midfield,CM,-,RCD Mallorca B,Spain,Free transfer,In,2004,s,laliga
-Albacete Balompié,Rubén Castro,23,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,2004,s,laliga
-Albacete Balompié,Luismi,20,Spain,Second Striker,SS,-,RCD Espanyol Barcelona,Spain,Free transfer,In,2004,s,laliga
-Albacete Balompié,Jaime,31,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,Free transfer,In,2004,s,laliga
-Albacete Balompié,Francisco Rodríguez,25,Spain,Centre-Forward,CF,-,UD Almería,Spain,?,In,2004,s,laliga
-Albacete Balompié,Mingo,27,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,In,2004,s,laliga
-Albacete Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Real Betis Balompié,Spain,?,In,2004,s,laliga
-Albacete Balompié,Javi Jiménez,28,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,?,In,2004,s,laliga
-Albacete Balompié,Rubén González,22,Spain,Centre-Back,CB,-,Real Madrid,Spain,Loan,In,2004,s,laliga
-Albacete Balompié,Raúl Valbuena,29,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Albacete Balompié,Cacá,25,Brazil,Centre-Forward,CF,-,Académica Coimbra,Portugal,"End of loanJun 30, 2004",In,2004,s,laliga
-CD Numancia,Aldo Osorio,30,Argentina,Centre-Forward,CF,-,US Lecce,Italy,£450Th.,In,2004,s,laliga
-CD Numancia,Konstantinos Kiassos,28,Greece,Central Midfield,CM,-,Iraklis Thessaloniki,Greece,Free transfer,In,2004,s,laliga
-CD Numancia,Ros,23,Spain,Defensive Midfield,DM,-,FC Barcelona,Spain,Loan,In,2004,s,laliga
-CD Numancia,Stéphane Pignol,27,France,Right-Back,RB,-,UD Almería,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,Juanlu,24,Spain,Left Midfield,LM,-,Hércules CF,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,Toché,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga
-CD Numancia,Juanma Barrero,24,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,Juan Ochoa,25,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,César Palacios,29,Spain,Central Midfield,CM,-,CA Osasuna,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,Chun-soo Lee,22,"Korea, South",Second Striker,SS,-,Real Sociedad,Spain,Loan,In,2004,s,laliga
-CD Numancia,Miguel Ángel López,26,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,Free transfer,In,2004,s,laliga
-CD Numancia,Juanpa,25,Spain,Right-Back,RB,-,UD Salamanca,Spain,?,In,2004,s,laliga
-CD Numancia,Luis Tevenet,30,Spain,Centre-Forward,CF,-,Algeciras CF,Spain,?,In,2004,s,laliga
-CD Numancia,Pablo Sanz,30,Spain,Defensive Midfield,DM,-,Rayo Vallecano,Spain,?,In,2004,s,laliga
-CD Numancia,Francisco Tarantino,20,Spain,Centre-Back,CB,-,Bilbao Athletic,Spain,Loan,In,2004,s,laliga
-CD Numancia,Patricio Graff,28,Argentina,Left-Back,LB,-,Rayo Vallecano,Spain,?,In,2004,s,laliga
-CD Numancia,Julio Pineda,31,Spain,Centre-Forward,CF,-,Xerez CD,Spain,?,In,2004,s,laliga
-CD Numancia,Rafa Jordá,20,Spain,Centre-Forward,CF,-,CD Numancia B,Spain,-,In,2004,s,laliga
-Levante UD,Vladimir Manchev,26,Bulgaria,Centre-Forward,CF,-,LOSC Lille,France,£1.98m,In,2004,s,laliga
-Levante UD,Diego Camacho,27,Spain,Defensive Midfield,DM,-,Recreativo Huelva,Spain,£540Th.,In,2004,s,laliga
-Levante UD,Juanma,23,Spain,Right Winger,RW,-,Málaga CF B,Spain,£540Th.,In,2004,s,laliga
-Levante UD,Ian Harte,26,Ireland,Left-Back,LB,-,Leeds United,England,Free transfer,In,2004,s,laliga
-Levante UD,Sergio García,21,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,Loan,In,2004,s,laliga
-Levante UD,Nacho,24,Spain,Left-Back,LB,-,Málaga CF B,Spain,Free transfer,In,2004,s,laliga
-Levante UD,Fabio Celestini,28,Switzerland,Defensive Midfield,DM,-,Olympique Marseille,France,Loan,In,2004,s,laliga
-Levante UD,Johan Mjällby,33,Sweden,Centre-Back,CB,-,Celtic FC,Scotland,Free transfer,In,2004,s,laliga
-Levante UD,José Antonio Culebras,25,Spain,Centre-Back,CB,-,CD Numancia,Spain,?,In,2004,s,laliga
-Levante UD,Javi Peña,31,Spain,Centre-Forward,CF,-,SD Ponferradina,Spain,"End of loanJun 30, 2004",In,2004,s,laliga
-Getafe CF,Javier Sanchez Broto,32,Spain,Goalkeeper,GK,-,Real Murcia CF,Spain,Free transfer,In,2004,s,laliga
-Getafe CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Valencia CF,Spain,Loan,In,2004,s,laliga
-Getafe CF,David Belenguer,31,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,Free transfer,In,2004,s,laliga
-Getafe CF,Riki,23,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,Free transfer,In,2004,s,laliga
-Getafe CF,Diego Rivas,24,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga
-Getafe CF,Rubén Pulido,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,Free transfer,In,2004,s,laliga
-Getafe CF,Gabi,20,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga
-Getafe CF,Mariano Pernía,27,Spain,Left-Back,LB,-,Club Atlético Independiente,Argentina,Free transfer,In,2004,s,laliga
-Getafe CF,Sergio Sánchez,27,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,?,In,2004,s,laliga
-Getafe CF,Daniel Komé,24,Cameroon,Right Winger,RW,-,CD Numancia,Spain,?,In,2004,s,laliga
-Getafe CF,Daniel Kone,29,Cameroon,Midfielder,Midfielder,-,CD Numancia,Spain,?,In,2004,s,laliga
-Getafe CF,Yordi,29,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,In,2004,s,laliga
-Getafe CF,Paco Gallardo,24,Spain,Right Midfield,RM,-,Sevilla FC,Spain,Loan,In,2004,s,laliga
-Getafe CF,Martín Ariel Vitali,28,Argentina,Right-Back,RB,-,CD Leganés,Spain,?,In,2004,s,laliga
-Atlético Madrid,Matías Lequi,23,Argentina,Centre-Back,CB,-,SS Lazio,Italy,Free transfer,Out,2004,s,laliga
-Atlético Madrid,José María Movilla,29,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Toché,21,Spain,Centre-Forward,CF,-,CD Numancia,Spain,Loan,Out,2004,s,laliga
-Atlético Madrid,Javier Arizmendi,20,Spain,Centre-Forward,CF,-,Racing Santander,Spain,Loan,Out,2004,s,laliga
-Atlético Madrid,Juanma Barrero,24,Spain,Goalkeeper,GK,-,CD Numancia,Spain,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Gaspar Gálvez,24,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Gabi,20,Spain,Defensive Midfield,DM,-,Getafe CF,Spain,Loan,Out,2004,s,laliga
-Atlético Madrid,Cosmin Contra,28,Romania,Right-Back,RB,-,West Bromwich Albion,England,Loan,Out,2004,s,laliga
-Atlético Madrid,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Real Murcia CF,Spain,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Juanma Ortiz,22,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,2004,s,laliga
-Atlético Madrid,Diego Rivas,24,Spain,Central Midfield,CM,-,Getafe CF,Spain,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Rodrigo Fabri,28,Brazil,Central Midfield,CM,-,Clube Atlético Mineiro,Brazil,Free transfer,Out,2004,s,laliga
-Atlético Madrid,Sergio Sánchez,27,Spain,Goalkeeper,GK,-,Getafe CF,Spain,?,Out,2004,s,laliga
-Atlético Madrid,Iván Romero,23,Spain,Left-Back,LB,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga
-Atlético Madrid,Demis Nikolaidis,30,Greece,Centre-Forward,CF,-,,Retired,-,Out,2004,s,laliga
-Atlético Madrid,Gonzalo de los Santos,27,Uruguay,Defensive Midfield,DM,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Atlético Madrid,Rubén Olivera,21,Uruguay,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga
-FC Barcelona,Luis García,26,Spain,Right Winger,RW,-,Liverpool FC,England,£7.88m,Out,2004,s,laliga
-FC Barcelona,Ricardo Quaresma,20,Portugal,Right Winger,RW,-,FC Porto,Portugal,£5.40m,Out,2004,s,laliga
-FC Barcelona,Phillip Cocu,33,Netherlands,Defensive Midfield,DM,-,PSV Eindhoven,Netherlands,Free transfer,Out,2004,s,laliga
-FC Barcelona,Sergio Santamaría,23,Spain,Right Winger,RW,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga
-FC Barcelona,Patrick Kluivert,28,Netherlands,Centre-Forward,CF,-,Newcastle United,England,Free transfer,Out,2004,s,laliga
-FC Barcelona,Sergio García,21,Spain,Centre-Forward,CF,-,Levante UD,Spain,Loan,Out,2004,s,laliga
-FC Barcelona,Javier Saviola,22,Argentina,Second Striker,SS,-,AS Monaco,France,Loan,Out,2004,s,laliga
-FC Barcelona,Robert Enke,26,Germany,Goalkeeper,GK,-,Hannover 96,Germany,Free transfer,Out,2004,s,laliga
-FC Barcelona,Michael Reiziger,31,Netherlands,Right-Back,RB,-,Middlesbrough FC,England,Free transfer,Out,2004,s,laliga
-FC Barcelona,Ros,23,Spain,Defensive Midfield,DM,-,CD Numancia,Spain,Loan,Out,2004,s,laliga
-FC Barcelona,Rüstü Recber,31,Turkey,Goalkeeper,GK,-,Fenerbahce SK,Turkey,Loan,Out,2004,s,laliga
-FC Barcelona,Sergio Santamaría,23,Spain,Right Winger,RW,-,Deportivo Alavés,Spain,?,Out,2004,s,laliga
-FC Barcelona,Óscar López,24,Spain,Right-Back,RB,-,SS Lazio,Italy,Loan,Out,2004,s,laliga
-FC Barcelona,Marc Overmars,31,Netherlands,Left Winger,LW,-,,Career break,-,Out,2004,s,laliga
-FC Barcelona,Luis Enrique,34,Spain,Right Midfield,RM,-,,Retired,-,Out,2004,s,laliga
-FC Barcelona,Edgar Davids,31,Netherlands,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga
-FC Barcelona,Mario Álvarez,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-FC Barcelona,Giovanni van Bronckhorst,29,Netherlands,Left-Back,LB,-,Arsenal FC,England,"End of loanJun 30, 2004",Out,2004,s,laliga
-Real Zaragoza,Mate Bilic,23,Croatia,Centre-Forward,CF,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Jordi Ferrón,25,Spain,Right-Back,RB,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Miguel Rebosio,27,Peru,Centre-Back,CB,-,UD Almería,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Dani García,29,Spain,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Iñaki Hurtado,32,Spain,Midfielder,Midfielder,-,Real Valladolid CF,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Martín Vellisca,32,Spain,Left Midfield,LM,-,UD Almería,Spain,Free transfer,Out,2004,s,laliga
-Real Zaragoza,Paco Jémez,34,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,2004,s,laliga
-Real Zaragoza,Yordi,29,Spain,Centre-Forward,CF,-,Getafe CF,Spain,?,Out,2004,s,laliga
-Real Zaragoza,Corona,23,Spain,Central Midfield,CM,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga
-Real Zaragoza,Miguel García,24,Spain,Central Midfield,CM,-,SD Ponferradina,Spain,?,Out,2004,s,laliga
-Real Zaragoza,Pablo Díaz,32,Spain,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga
-Real Zaragoza,José María Movilla,29,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Real Zaragoza,Raúl Valbuena,29,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Real Betis Balompié,Joey Gudjónsson,24,Iceland,Central Midfield,CM,-,Leicester City,England,Free transfer,Out,2004,s,laliga
-Real Betis Balompié,Ismael López,26,Spain,Midfielder,Midfielder,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga
-Real Betis Balompié,Martín Palermo,30,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,Free transfer,Out,2004,s,laliga
-Real Betis Balompié,David Belenguer,31,Spain,Centre-Back,CB,-,Getafe CF,Spain,Free transfer,Out,2004,s,laliga
-Real Betis Balompié,Francisco Maldonado,23,Spain,Attacking Midfield,AM,-,AD Ceuta,Spain,Loan,Out,2004,s,laliga
-Real Betis Balompié,Ito,29,Spain,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,Loan,Out,2004,s,laliga
-Real Betis Balompié,Gastón Casas,26,Argentina,Centre-Forward,CF,-,Asociación Atlética Argentinos Juniors,Argentina,?,Out,2004,s,laliga
-Real Betis Balompié,Mingo,27,Spain,Left-Back,LB,-,Albacete Balompié,Spain,?,Out,2004,s,laliga
-Real Betis Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Albacete Balompié,Spain,?,Out,2004,s,laliga
-Real Betis Balompié,João Tomás,29,Portugal,Centre-Forward,CF,-,SC Braga,Portugal,Loan,Out,2004,s,laliga
-RCD Mallorca,Samuel Eto'o,23,Cameroon,Centre-Forward,CF,-,FC Barcelona,Spain,£24.30m,Out,2004,s,laliga
-RCD Mallorca,Jovan Stankovic,33,Serbia,Left Midfield,LM,-,Unió Esportiva Lleida,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Miki,28,Spain,Goalkeeper,GK,-,Ciudad Murcia,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Arnold Bruggink,26,Netherlands,Attacking Midfield,AM,-,SC Heerenveen,Netherlands,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Martín Ligüera,23,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Vicente,28,Spain,Defensive Midfield,DM,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Toni González,22,Spain,Left Midfield,LM,-,Ciudad Murcia,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Txomin Nagore,29,Spain,Central Midfield,CM,-,Celta de Vigo,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Federico Lussenhoff,30,Argentina,Centre-Back,CB,-,CD Cruz Azul,Mexico,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Leo Franco,27,Argentina,Goalkeeper,GK,-,Atlético Madrid,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Daniel Hansen,20,Norway,Centre-Forward,CF,-,Enköpings SK,Sweden,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Raúl Martín,24,Spain,Right Midfield,RM,-,CD Tenerife,Spain,Free transfer,Out,2004,s,laliga
-RCD Mallorca,Gonzalo Colsa,25,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,?,Out,2004,s,laliga
-RCD Mallorca,Javier Olaizola,34,Spain,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga
-RCD Mallorca,Finidi George,33,Nigeria,Right Winger,RW,-,,Retired,-,Out,2004,s,laliga
-RCD Mallorca,Paco Soler,34,Spain,Central Midfield,CM,-,,Retired,-,Out,2004,s,laliga
-RCD Mallorca,Nenê,22,Brazil,Attacking Midfield,AM,-,Santos FC,Brazil,"End of loanJun 30, 2004",Out,2004,s,laliga
-CA Osasuna,Antonio López,22,Spain,Left-Back,LB,-,Atlético Madrid,Spain,Free transfer,Out,2004,s,laliga
-CA Osasuna,Sérvulo,25,Spain,Forward,Forward,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga
-CA Osasuna,César Palacios,29,Spain,Central Midfield,CM,-,CD Numancia,Spain,Free transfer,Out,2004,s,laliga
-CA Osasuna,Gorka García,29,Spain,Left-Back,LB,-,Córdoba CF,Spain,?,Out,2004,s,laliga
-CA Osasuna,José Mateo,29,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga
-CA Osasuna,Alfredo,31,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2004,s,laliga
-CA Osasuna,Gerardo Rivero,29,Argentina,Right Midfield,RM,-,Ciudad Murcia,Spain,?,Out,2004,s,laliga
-CA Osasuna,Francisco Jusué,24,Spain,Centre-Back,CB,-,Recreativo Huelva,Spain,Loan,Out,2004,s,laliga
-Sevilla FC,Alejandro Marañón,24,Spain,Left-Back,LB,-,Real Murcia CF,Spain,Free transfer,Out,2004,s,laliga
-Sevilla FC,Javi Muñoz,22,Spain,Goalkeeper,GK,-,Málaga CF B,Spain,Free transfer,Out,2004,s,laliga
-Sevilla FC,Inti Podestá,26,Uruguay,Defensive Midfield,DM,-,Danubio FC,Uruguay,Free transfer,Out,2004,s,laliga
-Sevilla FC,Germán Hornos,21,Uruguay,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga
-Sevilla FC,Paco Gallardo,24,Spain,Right Midfield,RM,-,Getafe CF,Spain,Loan,Out,2004,s,laliga
-Sevilla FC,Víctor Salas,24,Spain,Central Midfield,CM,-,Club Polideportivo Ejido,Spain,?,Out,2004,s,laliga
-Sevilla FC,Fredi,30,Spain,Left Midfield,LM,-,Cádiz CF,Spain,?,Out,2004,s,laliga
-Sevilla FC,Marcos Vales,29,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,?,Out,2004,s,laliga
-Sevilla FC,Óscar Rodríguez,24,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,Loan,Out,2004,s,laliga
-Sevilla FC,Luis Gil,28,Spain,Centre-Forward,CF,-,Elche CF,Spain,?,Out,2004,s,laliga
-Sevilla FC,Zoran Njegus,31,Serbia,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga
-Sevilla FC,Federico Magallanes,27,Uruguay,Centre-Forward,CF,-,,Career break,-,Out,2004,s,laliga
-Real Madrid,Flávio Conceição,30,Brazil,Central Midfield,CM,-,Galatasaray SK,Turkey,Free transfer,Out,2004,s,laliga
-Real Madrid,Javier Portillo,22,Spain,Centre-Forward,CF,-,ACF Fiorentina,Italy,Loan,Out,2004,s,laliga
-Real Madrid,Óscar Miñambres,23,Spain,Right-Back,RB,-,RCD Espanyol Barcelona,Spain,Loan,Out,2004,s,laliga
-Real Madrid,David Aganzo,23,Spain,Centre-Forward,CF,-,Racing Santander,Spain,Free transfer,Out,2004,s,laliga
-Real Madrid,Antonio Núñez,25,Spain,Right Winger,RW,-,Liverpool FC,England,Free transfer,Out,2004,s,laliga
-Real Madrid,Esteban Cambiasso,23,Argentina,Defensive Midfield,DM,-,FC Internazionale,Italy,Free transfer,Out,2004,s,laliga
-Real Madrid,Carlos Sánchez,26,Spain,Goalkeeper,GK,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga
-Real Madrid,Jordi López,23,Spain,Central Midfield,CM,-,Sevilla FC,Spain,Free transfer,Out,2004,s,laliga
-Real Madrid,Rubén González,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga
-Real Madrid,Chupe,24,Equatorial Guinea,Centre-Forward,CF,-,UD Las Palmas,Spain,?,Out,2004,s,laliga
-Athletic Bilbao,Aitor Larrazabal,33,Spain,Left-Back,LB,-,,Retired,-,Out,2004,s,laliga
-Racing Santander,Rodolfo Bodipo,26,Equatorial Guinea,Centre-Forward,CF,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga
-Racing Santander,Omri Afek,25,Israel,Attacking Midfield,AM,-,UD Salamanca,Spain,Loan,Out,2004,s,laliga
-Racing Santander,Arthuro,21,Brazil,Centre-Forward,CF,-,Sporting Gijón,Spain,Free transfer,Out,2004,s,laliga
-Racing Santander,David Coromina,29,Spain,Right-Back,RB,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga
-Racing Santander,Cristian Álvarez,26,Argentina,Right-Back,RB,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga
-Racing Santander,Neru,30,Spain,Left-Back,LB,-,Sporting Gijón,Spain,Loan,Out,2004,s,laliga
-Racing Santander,Borja,26,Spain,Goalkeeper,GK,-,Oviedo Astur CF,Spain,?,Out,2004,s,laliga
-Racing Santander,Pablo Lago,29,Spain,Central Midfield,CM,-,Sporting Gijón,Spain,?,Out,2004,s,laliga
-Racing Santander,Raúl Martín,21,Spain,Right Midfield,RM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga
-Racing Santander,Ricardo,32,Spain,Goalkeeper,GK,-,Manchester United,England,"End of loanJun 30, 2004",Out,2004,s,laliga
-Real Sociedad,Xabi Alonso,22,Spain,Defensive Midfield,DM,-,Liverpool FC,England,£14.40m,Out,2004,s,laliga
-Real Sociedad,Agustín Aranzabal,31,Spain,Left-Back,LB,-,Real Zaragoza,Spain,£720Th.,Out,2004,s,laliga
-Real Sociedad,Bjørn Tore Kvarme,32,Norway,Centre-Back,CB,-,SC Bastia,France,Free transfer,Out,2004,s,laliga
-Real Sociedad,Zuhaitz Gurrutxaga,23,Spain,Centre-Back,CB,-,Algeciras CF,Spain,Free transfer,Out,2004,s,laliga
-Real Sociedad,Sander Westerveld,29,Netherlands,Goalkeeper,GK,-,RCD Mallorca,Spain,Loan,Out,2004,s,laliga
-Real Sociedad,Gabriel Schürrer,32,Argentina,Centre-Back,CB,-,Olympiacos Piraeus,Greece,Free transfer,Out,2004,s,laliga
-Real Sociedad,Javi de Pedro,30,Spain,Left Midfield,LM,-,Blackburn Rovers,England,Free transfer,Out,2004,s,laliga
-Real Sociedad,Chun-soo Lee,22,"Korea, South",Second Striker,SS,-,CD Numancia,Spain,Loan,Out,2004,s,laliga
-Real Sociedad,Sergio Boris,24,Spain,Centre-Back,CB,-,Córdoba CF,Spain,?,Out,2004,s,laliga
-Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,Club de Gimnasia y Esgrima La Plata,Argentina,Loan,Out,2004,s,laliga
-Real Sociedad,Lionel Potillon,30,France,Left-Back,LB,-,Paris Saint-Germain,France,"End of loanJun 30, 2004",Out,2004,s,laliga
-RCD Espanyol Barcelona,Claudiu Raducanu,27,Romania,Centre-Forward,CF,-,Arminia Bielefeld,Germany,Loan fee:£171Th.,Out,2004,s,laliga
-RCD Espanyol Barcelona,Luismi,20,Spain,Second Striker,SS,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Cyril Domoraud,32,Cote d'Ivoire,Centre-Back,CB,-,Konyaspor,Turkey,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Carlos García,20,Spain,Centre-Back,CB,-,Club Polideportivo Ejido,Spain,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Raúl Molina,27,Spain,Centre-Forward,CF,-,Xerez CD,Spain,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Pierre Womé,25,Cameroon,Left-Back,LB,-,Brescia Calcio,Italy,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Jordi Cruyff,30,Netherlands,Attacking Midfield,AM,-,ASC De Volewijckers,Netherlands,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Tayfun Korkut,30,Turkey,Right Midfield,RM,-,Besiktas JK,Turkey,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Óscar García,31,Spain,Attacking Midfield,AM,-,Unió Esportiva Lleida,Spain,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Gorka Iraizoz,23,Spain,Goalkeeper,GK,-,SD Eibar,Spain,Loan,Out,2004,s,laliga
-RCD Espanyol Barcelona,Moreno Torricelli,34,Italy,Right-Back,RB,-,AC Arezzo,Italy,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Mustapha Hadji,32,Morocco,Attacking Midfield,AM,-,Al-Ain FC,United Arab Emirates,Free transfer,Out,2004,s,laliga
-RCD Espanyol Barcelona,Kevin Bobson,23,Netherlands,Left Winger,LW,-,Willem II Tilburg,Netherlands,?,Out,2004,s,laliga
-RCD Espanyol Barcelona,Moisés Hurtado,23,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga
-RCD Espanyol Barcelona,Sergio Postigo,23,Spain,Centre-Forward,CF,-,Girona FC,Spain,?,Out,2004,s,laliga
-RCD Espanyol Barcelona,Toni Jiménez,33,Spain,Goalkeeper,GK,-,,Retired,-,Out,2004,s,laliga
-RCD Espanyol Barcelona,Mauricio Pochettino,32,Argentina,Centre-Back,CB,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2004",Out,2004,s,laliga
-Deportivo de La Coruña,José Amavisca,33,Spain,Left Midfield,LM,-,RCD Espanyol Barcelona,Spain,£900Th.,Out,2004,s,laliga
-Deportivo de La Coruña,Noureddine Naybet,34,Morocco,Centre-Back,CB,-,Tottenham Hotspur,England,£900Th.,Out,2004,s,laliga
-Deportivo de La Coruña,Sebastián Abreu,27,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,£180Th.,Out,2004,s,laliga
-Deportivo de La Coruña,Roberto Acuña,32,Paraguay,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2004,s,laliga
-Deportivo de La Coruña,Momo,22,Spain,Left Winger,LW,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga
-Deportivo de La Coruña,Jaime,31,Spain,Defensive Midfield,DM,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga
-Deportivo de La Coruña,Rubén Castro,23,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga
-Deportivo de La Coruña,Djalminha,33,Brazil,Central Midfield,CM,-,CF América,Mexico,Free transfer,Out,2004,s,laliga
-Deportivo de La Coruña,Iván Pérez,28,Spain,Centre-Forward,CF,-,Girona FC,Spain,?,Out,2004,s,laliga
-Deportivo de La Coruña,Jesús Muñoz,28,Spain,Central Midfield,CM,-,Terrassa FC,Spain,Loan,Out,2004,s,laliga
-Deportivo de La Coruña,Fernando,32,Spain,Left Midfield,LM,-,,Retired,-,Out,2004,s,laliga
-Deportivo de La Coruña,Goran Djorovic,32,Serbia,Centre-Back,CB,-,,Retired,-,Out,2004,s,laliga
-Deportivo de La Coruña,Jacques Songo'o,40,Cameroon,Goalkeeper,GK,-,,Retired,-,Out,2004,s,laliga
-Valencia CF,Ricardo Oliveira,24,Brazil,Centre-Forward,CF,-,Real Betis Balompié,Spain,£3.60m,Out,2004,s,laliga
-Valencia CF,John Carew,24,Norway,Centre-Forward,CF,-,Besiktas JK,Turkey,£3.15m,Out,2004,s,laliga
-Valencia CF,Juan Sánchez,32,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,Free transfer,Out,2004,s,laliga
-Valencia CF,Fabián Canobbio,24,Uruguay,Attacking Midfield,AM,-,Celta de Vigo,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,Out,2004,s,laliga
-Valencia CF,David Silva,18,Spain,Attacking Midfield,AM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga
-Valencia CF,David Rangel,24,Spain,Goalkeeper,GK,-,Unió Esportiva Lleida,Spain,Free transfer,Out,2004,s,laliga
-Valencia CF,Miguel Albiol,22,Spain,Right Midfield,RM,-,Rayo Vallecano,Spain,Free transfer,Out,2004,s,laliga
-Valencia CF,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Racing Santander,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Jaime Gavilán,19,Spain,Left Winger,LW,-,CD Tenerife,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Getafe CF,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Joaquín Enguix,26,Spain,Right Midfield,RM,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Jorge López,25,Spain,Right Winger,RW,-,RCD Mallorca,Spain,?,Out,2004,s,laliga
-Valencia CF,Javier Garrido,25,Spain,Right-Back,RB,-,AS Saint-Étienne,France,Loan,Out,2004,s,laliga
-Valencia CF,Pedro López,20,Spain,Right-Back,RB,-,Racing Santander,Spain,Loan,Out,2004,s,laliga
-Valencia CF,Jean Félix Dorothée,22,France,Right Midfield,RM,-,Valencia Mestalla,Spain,-,Out,2004,s,laliga
-Villarreal CF,Juliano Belletti,28,Brazil,Right-Back,RB,-,FC Barcelona,Spain,£5.40m,Out,2004,s,laliga
-Villarreal CF,Sonny Anderson,34,Brazil,Centre-Forward,CF,£3.60m,Al Rayyan Sports Club,Qatar,£1.80m,Out,2004,s,laliga
-Villarreal CF,Víctor,30,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga
-Villarreal CF,Sergio Ballesteros,28,Spain,Centre-Back,CB,-,RCD Mallorca,Spain,?,Out,2004,s,laliga
-Villarreal CF,Verza,17,Spain,Central Midfield,CM,-,Recreativo Huelva,Spain,Loan,Out,2004,s,laliga
-Villarreal CF,Pere Martí,22,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2004,s,laliga
-Villarreal CF,Fabricio Coloccini,22,Argentina,Centre-Back,CB,-,Milan AC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga
-Málaga CF,Josemi,24,Spain,Centre-Back,CB,-,Liverpool FC,England,£2.70m,Out,2004,s,laliga
-Málaga CF,Koke,21,Spain,Centre-Forward,CF,-,Olympique Marseille,France,£630Th.,Out,2004,s,laliga
-Málaga CF,Roberto Rojas,29,Spain,Right-Back,RB,-,Rayo Vallecano,Spain,Free transfer,Out,2004,s,laliga
-Málaga CF,Manuel Canabal,29,Spain,Centre-Forward,CF,-,Pontevedra CF,Spain,Free transfer,Out,2004,s,laliga
-Málaga CF,Diego Alonso,29,Uruguay,Centre-Forward,CF,-,UNAM Pumas,Mexico,?,Out,2004,s,laliga
-Málaga CF,Federico Insúa,24,Argentina,Attacking Midfield,AM,-,Club Atlético Independiente,Argentina,"End of loanJun 30, 2004",Out,2004,s,laliga
-Málaga CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Albacete Balompié,Pablo Ibáñez,22,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,£2.70m,Out,2004,s,laliga
-Albacete Balompié,Carlos Aranda,23,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,£653Th.,Out,2004,s,laliga
-Albacete Balompié,Unai Vergara,27,Spain,Centre-Back,CB,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga
-Albacete Balompié,Joaquín Moso,25,Spain,Goalkeeper,GK,-,Pontevedra CF,Spain,Free transfer,Out,2004,s,laliga
-Albacete Balompié,Ludovic Delporte,24,France,Left Winger,LW,-,CA Osasuna,Spain,Free transfer,Out,2004,s,laliga
-Albacete Balompié,Cacá,25,Brazil,Centre-Forward,CF,-,UD Las Palmas,Spain,Free transfer,Out,2004,s,laliga
-Albacete Balompié,Basti,30,Spain,Centre-Forward,CF,-,Xerez CD,Spain,Free transfer,Out,2004,s,laliga
-Albacete Balompié,Lawal,23,Nigeria,Right Midfield,RM,-,Xerez CD,Spain,?,Out,2004,s,laliga
-Albacete Balompié,Pedro,25,Spain,Right-Back,RB,-,Ciudad Murcia,Spain,?,Out,2004,s,laliga
-Albacete Balompié,Carlos Roa,34,Argentina,Goalkeeper,GK,-,,Career break,-,Out,2004,s,laliga
-Albacete Balompié,Fernando Navarro,22,Spain,Left-Back,LB,-,FC Barcelona,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Albacete Balompié,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Albacete Balompié,Manuel Almunia,27,Spain,Goalkeeper,GK,-,Celta de Vigo,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Albacete Balompié,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Atlético Madrid,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-CD Numancia,Nelson San Martín,24,Chile,Central Midfield,CM,-,Unión San Felipe,Chile,Free transfer,Out,2004,s,laliga
-CD Numancia,Luis García,25,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,Free transfer,Out,2004,s,laliga
-CD Numancia,Laurentiu Rosu,28,Romania,Forward,Forward,£900Th.,Recreativo Huelva,Spain,Free transfer,Out,2004,s,laliga
-CD Numancia,Daniel Komé,24,Cameroon,Right Winger,RW,-,Getafe CF,Spain,?,Out,2004,s,laliga
-CD Numancia,Daniel Kone,29,Cameroon,Midfielder,Midfielder,-,Getafe CF,Spain,?,Out,2004,s,laliga
-CD Numancia,Daniel Fernando Fagiani,30,Argentina,Left-Back,LB,-,CD Tenerife,Spain,?,Out,2004,s,laliga
-CD Numancia,Juan Pedro,28,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,Out,2004,s,laliga
-CD Numancia,José Antonio Culebras,25,Spain,Centre-Back,CB,-,Levante UD,Spain,?,Out,2004,s,laliga
-CD Numancia,Pacheta,36,Spain,Midfielder,Midfielder,-,,Retired,-,Out,2004,s,laliga
-CD Numancia,Octavio,33,Spain,Defender,Defender,-,,Retired,-,Out,2004,s,laliga
-CD Numancia,Xisco Nadal,18,Spain,Right Winger,RW,-,Villarreal CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-CD Numancia,Mikel Alonso,24,Spain,Central Midfield,CM,-,Real Sociedad,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Levante UD,Tito,32,Spain,Defensive Midfield,DM,-,Alicante CF,Spain,Free transfer,Out,2004,s,laliga
-Levante UD,David Limones,25,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,Loan,Out,2004,s,laliga
-Levante UD,Sérvulo,25,Spain,Forward,Forward,-,CA Osasuna,Spain,Free transfer,Out,2004,s,laliga
-Levante UD,Emilio Rentería,19,Venezuela,Centre-Forward,CF,-,Deportivo Italchacao,Venezuela,Free transfer,Out,2004,s,laliga
-Levante UD,Santiago Carpintero,27,Spain,Central Midfield,CM,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga
-Levante UD,Javi Peña,31,Spain,Centre-Forward,CF,-,,Unknown,Free transfer,Out,2004,s,laliga
-Levante UD,Juanra,24,Spain,Right-Back,RB,-,Levante UD B,Spain,-,Out,2004,s,laliga
-Levante UD,Tomás Olías,35,Spain,Centre-Back,CB,-,,Retired,-,Out,2004,s,laliga
-Levante UD,Ángel Lekunberri,34,Spain,Midfielder,Midfielder,-,,Retired,-,Out,2004,s,laliga
-Levante UD,David Aganzo,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 1, 2004",Out,2004,s,laliga
-Levante UD,Manolo Hidalgo,24,Spain,Midfielder,Midfielder,-,Atlético Madrid B,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga
-Getafe CF,Gari Uranga,24,Spain,Attacking Midfield,AM,-,Real Sociedad,Spain,Free transfer,Out,2004,s,laliga
-Getafe CF,Nacho Triguero,30,Spain,Goalkeeper,GK,-,CD Móstoles URJC,Spain,Free transfer,Out,2004,s,laliga
-Getafe CF,Txema,33,Spain,Centre-Back,CB,-,Unió Esportiva Lleida,Spain,?,Out,2004,s,laliga
-Getafe CF,Marc Bernaus,27,Andorra,Left-Back,LB,-,Elche CF,Spain,?,Out,2004,s,laliga
-Getafe CF,Jean Blaise Bouli,23,Cameroon,Right Winger,RW,-,Dinamo Bryansk,Russia,?,Out,2004,s,laliga
-Getafe CF,Noé Calleja,24,Spain,Goalkeeper,GK,-,Algeciras CF,Spain,?,Out,2004,s,laliga
-Getafe CF,Rubén Reyes,25,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,Out,2004,s,laliga
-Getafe CF,Miguel Ángel,34,Spain,Forward,Forward,-,AD Alcorcón,Spain,?,Out,2004,s,laliga
-Atlético Madrid,Jesper Grönkjaer,27,Denmark,Left Winger,LW,£5.85m,Birmingham City,England,£1.80m,In,2004,w,laliga
-Atlético Madrid,Richard Núñez,28,Uruguay,Attacking Midfield,AM,£2.79m,Grasshopper Club Zurich,Switzerland,Free transfer,In,2004,w,laliga
-Atlético Madrid,Sergio Aragoneses,27,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,In,2004,w,laliga
-Atlético Madrid,Raúl Medina,21,Spain,Central Midfield,CM,-,Atlético Madrid B,Spain,-,In,2004,w,laliga
-Atlético Madrid,Cosmin Contra,29,Romania,Right-Back,RB,-,West Bromwich Albion,England,"End of loanDec 27, 2004",In,2004,w,laliga
-FC Barcelona,Maxi López,20,Argentina,Centre-Forward,CF,-,Club Atlético River Plate,Argentina,£5.85m,In,2004,w,laliga
-FC Barcelona,Demetrio Albertini,33,Italy,Defensive Midfield,DM,£720Th.,Atalanta BC,Italy,Free transfer,In,2004,w,laliga
-FC Barcelona,Damià,22,Spain,Right-Back,RB,£1.80m,FC Barcelona B,Spain,-,In,2004,w,laliga
-RCD Mallorca,Bernardo Romeo,27,Argentina,Centre-Forward,CF,£6.30m,Hamburger SV,Germany,Loan fee:£360Th.,In,2004,w,laliga
-RCD Mallorca,Yoshito Okubo,22,Japan,Centre-Forward,CF,£1.35m,Cerezo Osaka,Japan,Loan,In,2004,w,laliga
-RCD Mallorca,Felipe Melo,21,Brazil,Defensive Midfield,DM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,?,In,2004,w,laliga
-RCD Mallorca,Mark Iuliano,31,Italy,Centre-Back,CB,£1.80m,Juventus FC,Italy,?,In,2004,w,laliga
-CA Osasuna,Francisco Jusué,25,Spain,Centre-Back,CB,£270Th.,Recreativo Huelva,Spain,?,In,2004,w,laliga
-Sevilla FC,Adriano,20,Brazil,Left-Back,LB,-,Coritiba Foot Ball Club,Brazil,£1.89m,In,2004,w,laliga
-Sevilla FC,Óscar Rodríguez,24,Spain,Centre-Back,CB,£45Th.,Real Valladolid CF,Spain,"End of loanJan 1, 2005",In,2004,w,laliga
-Real Madrid,Thomas Gravesen,28,Denmark,Defensive Midfield,DM,£5.40m,Everton FC,England,£3.06m,In,2004,w,laliga
-Real Madrid,Javier Portillo,22,Spain,Centre-Forward,CF,£4.50m,ACF Fiorentina,Italy,"End of loanDec 31, 2004",In,2004,w,laliga
-Racing Santander,Toño,25,Spain,Goalkeeper,GK,-,Recreativo Huelva,Spain,£1.03m,In,2004,w,laliga
-Racing Santander,Argel Fucks,30,Brazil,Centre-Back,CB,£4.50m,SL Benfica,Portugal,Free transfer,In,2004,w,laliga
-Racing Santander,Gerardo Torrado,25,Mexico,Defensive Midfield,DM,£2.25m,Sevilla FC,Spain,Free transfer,In,2004,w,laliga
-Racing Santander,Raúl Martín,22,Spain,Right Midfield,RM,£45Th.,SD Eibar,Spain,"End of loanDec 1, 2004",In,2004,w,laliga
-Real Sociedad,Dragan Mladenovic,28,Serbia,Defensive Midfield,DM,-,Rangers FC,Scotland,Loan fee:£225Th.,In,2004,w,laliga
-Real Sociedad,Asier Riesgo,21,Spain,Goalkeeper,GK,£1.80m,SD Eibar,Spain,"End of loanDec 31, 2004",In,2004,w,laliga
-RCD Espanyol Barcelona,Adrián Bastía,25,Argentina,Defensive Midfield,DM,£45Th.,Saturn Ramenskoe,Russia,?,In,2004,w,laliga
-Deportivo de La Coruña,Fabricio Coloccini,23,Argentina,Centre-Back,CB,£7.20m,AC Milan,Italy,£4.50m,In,2004,w,laliga
-Deportivo de La Coruña,Changui,28,Spain,Centre-Forward,CF,£1.71m,Pontevedra CF,Spain,"End of loanJun 30, 2005",In,2004,w,laliga
-Villarreal CF,Luciano Figueroa,23,Argentina,Centre-Forward,CF,£2.93m,CD Cruz Azul,Mexico,£5.58m,In,2004,w,laliga
-Villarreal CF,Juan Pablo Sorín,28,Argentina,Left-Back,LB,£3.60m,Cruzeiro Esporte Clube,Brazil,£1.35m,In,2004,w,laliga
-Málaga CF,Paulo Wanchope,28,Costa Rica,Centre-Forward,CF,£4.05m,Manchester City,England,£675Th.,In,2004,w,laliga
-Málaga CF,Fernando Baiano,25,Brazil,Centre-Forward,CF,£5.40m,AD São Caetano (SP),Brazil,?,In,2004,w,laliga
-Málaga CF,Tote,26,Spain,Attacking Midfield,AM,£3.15m,Real Betis Balompié,Spain,Loan,In,2004,w,laliga
-Albacete Balompié,Pinda,28,Spain,Goalkeeper,GK,£360Th.,Atlético Madrid,Spain,Free transfer,In,2004,w,laliga
-Albacete Balompié,Nicolás Olivera,26,Uruguay,Second Striker,SS,-,Defensor Sporting Club,Uruguay,Loan,In,2004,w,laliga
-Albacete Balompié,Horacio Peralta,22,Uruguay,Centre-Forward,CF,£540Th.,Cagliari Calcio,Italy,?,In,2004,w,laliga
-CD Numancia,Nelson San Martín,23,Chile,Central Midfield,CM,-,Club Universidad de Chile,Chile,£198Th.,In,2004,w,laliga
-CD Numancia,Silvio González,24,Argentina,Centre-Forward,CF,-,Córdoba CF,Spain,Free transfer,In,2004,w,laliga
-Levante UD,Pablo Cavallero,30,Argentina,Goalkeeper,GK,£4.50m,Celta de Vigo,Spain,Free transfer,In,2004,w,laliga
-Getafe CF,Sergio Aragoneses,28,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,Loan,In,2004,w,laliga
-Getafe CF,Jaime Asen,26,Spain,Centre-Forward,CF,-,AD Alcorcón,Spain,?,In,2004,w,laliga
-Atlético Madrid,Pinda,28,Spain,Goalkeeper,GK,£360Th.,Albacete Balompié,Spain,Free transfer,Out,2004,w,laliga
-Atlético Madrid,Kiki Musampa,27,Netherlands,Left Winger,LW,£3.15m,Manchester City,England,Loan,Out,2004,w,laliga
-Atlético Madrid,Veljko Paunovic,27,Serbia,Centre-Forward,CF,£1.80m,Hannover 96,Germany,Loan,Out,2004,w,laliga
-Atlético Madrid,Sergio Aragoneses,28,Spain,Goalkeeper,GK,-,Getafe CF,Spain,Loan,Out,2004,w,laliga
-Atlético Madrid,Diego Simeone,34,Argentina,Central Midfield,CM,£1.35m,Racing Club,Argentina,Free transfer,Out,2004,w,laliga
-Atlético Madrid,Cosmin Contra,29,Romania,Right-Back,RB,-,Poli AEK,Romania,Loan,Out,2004,w,laliga
-Real Betis Balompié,Tote,26,Spain,Attacking Midfield,AM,£3.15m,Málaga CF,Spain,Loan,Out,2004,w,laliga
-RCD Mallorca,Patrick Müller,28,Switzerland,Centre-Back,CB,£3.60m,FC Basel 1893,Switzerland,Free transfer,Out,2004,w,laliga
-RCD Mallorca,Rogério Cannellini,25,Brazil,Defensive Midfield,DM,-,Skoda Xanthi,Greece,Free transfer,Out,2004,w,laliga
-RCD Mallorca,Andrija Delibasic,23,Montenegro,Centre-Forward,CF,£1.98m,SL Benfica,Portugal,Loan,Out,2004,w,laliga
-RCD Mallorca,Miguel Ángel Nadal,38,Spain,Centre-Back,CB,£450Th.,,Retired,-,Out,2004,w,laliga
-CA Osasuna,Ibrahima Bakayoko,28,Cote d'Ivoire,Centre-Forward,CF,£6.30m,FC Istres Ouest Provence ,France,Free transfer,Out,2004,w,laliga
-CA Osasuna,Francisco Jusué,25,Spain,Centre-Back,CB,£270Th.,Cultural Leonesa,Spain,Loan,Out,2004,w,laliga
-Sevilla FC,Gerardo Torrado,25,Mexico,Defensive Midfield,DM,£2.25m,Racing Santander,Spain,Free transfer,Out,2004,w,laliga
-Real Madrid,Fernando Morientes,28,Spain,Centre-Forward,CF,£13.50m,Liverpool FC,England,£8.33m,Out,2004,w,laliga
-Racing Santander,Argel Fucks,30,Brazil,Centre-Back,CB,£4.50m,Cruzeiro Esporte Clube,Brazil,Free transfer,Out,2004,w,laliga
-Racing Santander,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Birmingham City,England,Loan,Out,2004,w,laliga
-Racing Santander,Raúl Martín,22,Spain,Right Midfield,RM,£45Th.,Gimnástica Torrelavega,Spain,Loan,Out,2004,w,laliga
-Racing Santander,Mauricio Nanni,25,Uruguay,Goalkeeper,GK,£180Th.,Montevideo Wanderers,Uruguay,"End of loanDec 1, 2004",Out,2004,w,laliga
-Real Sociedad,Mikel Arteta,22,Spain,Central Midfield,CM,£7.20m,Everton FC,England,Loan,Out,2004,w,laliga
-RCD Espanyol Barcelona,Adrián Bastía,26,Argentina,Defensive Midfield,DM,£45Th.,Club Estudiantes de La Plata,Argentina,?,Out,2004,w,laliga
-RCD Espanyol Barcelona,Manel,31,Spain,Centre-Forward,CF,-,CF Badalona,Spain,?,Out,2004,w,laliga
-Deportivo de La Coruña,Changui,27,Spain,Centre-Forward,CF,£1.71m,Pontevedra CF,Spain,Loan,Out,2004,w,laliga
-Deportivo de La Coruña,Wálter Pandiani,28,Uruguay,Centre-Forward,CF,£9.00m,Birmingham City,England,Loan,Out,2004,w,laliga
-Valencia CF,Mauricio Pellegrino,33,Argentina,Centre-Back,CB,£2.03m,Liverpool FC,England,Free transfer,Out,2004,w,laliga
-Valencia CF,Ludovic Butelle,21,France,Goalkeeper,GK,£1.58m,Hércules CF,Spain,Loan,Out,2004,w,laliga
-Villarreal CF,Sonny Anderson,34,Brazil,Centre-Forward,CF,£3.60m,Al Rayyan Sports Club,Qatar,£1.80m,Out,2004,w,laliga
-Málaga CF,Ivan Leko,26,Croatia,Attacking Midfield,AM,£2.25m,HNK Hajduk Split,Croatia,Free transfer,Out,2004,w,laliga
-Albacete Balompié,Gustavo Siviero,35,Argentina,Centre-Back,CB,£90Th.,Club Atlético Colón,Argentina,Free transfer,Out,2004,w,laliga
-Albacete Balompié,David Sánchez,22,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,"End of loanMar 31, 2005",Out,2004,w,laliga
-CD Numancia,Konstantinos Kiassos,29,Greece,Central Midfield,CM,£675Th.,Panionios Athens,Greece,Free transfer,Out,2004,w,laliga
-CD Numancia,Aldo Osorio,30,Argentina,Centre-Forward,CF,£900Th.,Quilmes Atlético Club,Argentina,Free transfer,Out,2004,w,laliga
-Levante UD,Johan Mjällby,33,Sweden,Centre-Back,CB,£2.25m,,Without Club,-,Out,2004,w,laliga
-Getafe CF,Martín Ariel Vitali,29,Argentina,Right-Back,RB,£900Th.,Racing Club,Argentina,?,Out,2004,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Atlético Madrid,Peter Luccin,25,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,£4.50m,In,2004,s,laliga,https://www.transfermarkt.co.uk/peter-luccin/profil/spieler/7555
+Atlético Madrid,Luis Perea,25,Colombia,Centre-Back,CB,-,Club Atlético Boca Juniors,Argentina,£2.97m,In,2004,s,laliga,https://www.transfermarkt.co.uk/luis-perea/profil/spieler/27489
+Atlético Madrid,Pablo Ibáñez,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,£2.70m,In,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-ibanez/profil/spieler/8116
+Atlético Madrid,Leo Franco,27,Argentina,Goalkeeper,GK,-,RCD Mallorca,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/leo-franco/profil/spieler/7669
+Atlético Madrid,Antonio López,22,Spain,Left-Back,LB,-,CA Osasuna,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/antonio-lopez/profil/spieler/7723
+Atlético Madrid,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Valencia CF,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Atlético Madrid,Marcelo Sosa,26,Uruguay,Defensive Midfield,DM,-,Spartak Moscow,Russia,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/marcelo-sosa/profil/spieler/16654
+Atlético Madrid,Juan Velasco,27,Spain,Right-Back,RB,-,Celta de Vigo,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/juan-velasco/profil/spieler/7546
+Atlético Madrid,Gonzalo Colsa,25,Spain,Defensive Midfield,DM,-,RCD Mallorca,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/gonzalo-colsa/profil/spieler/7813
+Atlético Madrid,José Ignacio Zahinos,26,Spain,Defensive Midfield,DM,-,Atlético Madrid B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-ignacio-zahinos/profil/spieler/35523
+Atlético Madrid,Iván Cuéllar,20,Spain,Goalkeeper,GK,-,Atlético Madrid B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/ivan-cuellar/profil/spieler/27493
+Atlético Madrid,Braulio Nóbrega,18,Spain,Centre-Forward,CF,-,Atlético Madrid B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/braulio-nobrega/profil/spieler/27488
+Atlético Madrid,Francisco Molinero,18,Spain,Right-Back,RB,-,Atlético Madrid B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-molinero/profil/spieler/27487
+Atlético Madrid,Javi Moreno,29,Spain,Centre-Forward,CF,-,Bolton Wanderers,England,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/javi-moreno/profil/spieler/7768
+Atlético Madrid,Pinda,28,Spain,Goalkeeper,GK,-,Royal Antwerp FC,Belgium,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/pinda/profil/spieler/16011
+Atlético Madrid,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/catalin-munteanu/profil/spieler/16615
+Atlético Madrid,José María Movilla,29,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-maria-movilla/profil/spieler/7763
+FC Barcelona,Samuel Eto'o,23,Cameroon,Centre-Forward,CF,-,RCD Mallorca,Spain,£24.30m,In,2004,s,laliga,https://www.transfermarkt.co.uk/samuel-etoo/profil/spieler/4257
+FC Barcelona,Deco,26,Portugal,Attacking Midfield,AM,-,FC Porto,Portugal,£18.90m,In,2004,s,laliga,https://www.transfermarkt.co.uk/deco/profil/spieler/8564
+FC Barcelona,Ludovic Giuly,27,France,Right Winger,RW,-,AS Monaco,France,£7.65m,In,2004,s,laliga,https://www.transfermarkt.co.uk/ludovic-giuly/profil/spieler/5299
+FC Barcelona,Edmílson,27,Brazil,Defensive Midfield,DM,-,Olympique Lyon,France,£7.20m,In,2004,s,laliga,https://www.transfermarkt.co.uk/edmilson/profil/spieler/5343
+FC Barcelona,Juliano Belletti,28,Brazil,Right-Back,RB,-,Villarreal CF,Spain,£5.40m,In,2004,s,laliga,https://www.transfermarkt.co.uk/juliano-belletti/profil/spieler/7829
+FC Barcelona,Sylvinho,30,Brazil,Left-Back,LB,-,Celta de Vigo,Spain,£1.35m,In,2004,s,laliga,https://www.transfermarkt.co.uk/sylvinho/profil/spieler/3359
+FC Barcelona,Giovanni van Bronckhorst,29,Netherlands,Left-Back,LB,-,Arsenal FC,England,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/giovanni-van-bronckhorst/profil/spieler/3191
+FC Barcelona,Henrik Larsson,32,Sweden,Centre-Forward,CF,-,Celtic FC,Scotland,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/henrik-larsson/profil/spieler/3514
+FC Barcelona,Rodri,19,Spain,Centre-Back,CB,-,FC Barcelona B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/rodri/profil/spieler/8163
+FC Barcelona,Robert Enke,26,Germany,Goalkeeper,GK,-,CD Tenerife,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/robert-enke/profil/spieler/2995
+FC Barcelona,Fernando Navarro,22,Spain,Left-Back,LB,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-navarro/profil/spieler/7593
+Real Zaragoza,Agustín Aranzabal,31,Spain,Left-Back,LB,-,Real Sociedad,Spain,£720Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/agustin-aranzabal/profil/spieler/7460
+Real Zaragoza,García Granero,23,Spain,Left Midfield,LM,-,Elche CF,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/garcia-granero/profil/spieler/26150
+Real Zaragoza,José María Movilla,29,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-maria-movilla/profil/spieler/7763
+Real Zaragoza,Luis García,25,Spain,Goalkeeper,GK,-,CD Numancia,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/26149
+Real Zaragoza,Jorge Zaparaín,20,Spain,Goalkeeper,GK,-,Universidad Saragossa,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/jorge-zaparain/profil/spieler/26152
+Real Zaragoza,Óscar González,21,Spain,Attacking Midfield,AM,-,Real Valladolid CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-gonzalez/profil/spieler/7818
+Real Zaragoza,Alberto Zapater,19,Spain,Defensive Midfield,DM,-,Real Zaragoza B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/alberto-zapater/profil/spieler/26153
+Real Zaragoza,Rubén Falcón,26,Spain,Goalkeeper,GK,-,Real Zaragoza B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-falcon/profil/spieler/71917
+Real Zaragoza,Mate Bilic,23,Croatia,Centre-Forward,CF,-,Sporting Gijón,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/mate-bilic/profil/spieler/7977
+Real Zaragoza,César Jiménez,26,Spain,Centre-Back,CB,-,UD Almería,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/cesar-jimenez/profil/spieler/26151
+Real Betis Balompié,Edú,25,Brazil,Second Striker,SS,-,Celta de Vigo,Spain,£4.95m,In,2004,s,laliga,https://www.transfermarkt.co.uk/edutm/profil/spieler/7550
+Real Betis Balompié,Ricardo Oliveira,24,Brazil,Centre-Forward,CF,-,Valencia CF,Spain,£3.60m,In,2004,s,laliga,https://www.transfermarkt.co.uk/ricardo-oliveira/profil/spieler/15468
+Real Betis Balompié,Paolo Castellini,25,Italy,Left-Back,LB,-,Torino Calcio,Italy,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/paolo-castellini/profil/spieler/16891
+Real Betis Balompié,Pablo Niño,26,Spain,Midfielder,Midfielder,-,RBC Roosendaal,Netherlands,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-nino/profil/spieler/12086
+Real Betis Balompié,Toni Doblas,23,Spain,Goalkeeper,GK,-,Xerez CD,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/toni-doblas/profil/spieler/7642
+Real Betis Balompié,Gastón Casas,26,Argentina,Centre-Forward,CF,-,Racing Club,Argentina,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/gaston-casas/profil/spieler/7666
+Real Betis Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Deportivo Alavés,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/ronny-gaspercic/profil/spieler/25321
+Real Betis Balompié,João Tomás,29,Portugal,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/joao-tomas/profil/spieler/13150
+Real Betis Balompié,Martín Palermo,30,Argentina,Centre-Forward,CF,-,Deportivo Alavés,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/martin-palermo/profil/spieler/3412
+RCD Mallorca,Francisco Farinós,26,Spain,Defensive Midfield,DM,-,FC Internazionale,Italy,Loan fee:£2.25m,In,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-farinos/profil/spieler/5785
+RCD Mallorca,Patrick Müller,27,Switzerland,Centre-Back,CB,-,Olympique Lyon,France,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/patrick-muller/profil/spieler/5347
+RCD Mallorca,Sander Westerveld,29,Netherlands,Goalkeeper,GK,-,Real Sociedad,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/sander-westerveld/profil/spieler/3427
+RCD Mallorca,Juan Arango,24,Venezuela,Left Midfield,LM,-,Puebla FC,Mexico,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/juan-arango/profil/spieler/26063
+RCD Mallorca,Sergio Ballesteros,28,Spain,Centre-Back,CB,-,Villarreal CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-ballesteros/profil/spieler/7828
+RCD Mallorca,Luis García,23,Spain,Central Midfield,CM,-,Real Murcia CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/8006
+RCD Mallorca,Marcos Vales,29,Spain,Right Midfield,RM,-,Sevilla FC,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+RCD Mallorca,Jorge López,25,Spain,Right Winger,RW,-,Valencia CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/jorge-lopez/profil/spieler/7844
+RCD Mallorca,Víctor Casadesús,19,Spain,Centre-Forward,CF,-,RCD Mallorca B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/victor-casadesus/profil/spieler/35540
+RCD Mallorca,Miguel Ángel Moyà,20,Spain,Goalkeeper,GK,-,RCD Mallorca B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-moya/profil/spieler/26065
+RCD Mallorca,Alberto Cifuentes,25,Spain,Goalkeeper,GK,-,Ciudad Murcia (liq.),Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/alberto-cifuentes/profil/spieler/7668
+RCD Mallorca,Tuni,21,Spain,Right Winger,RW,-,UD Salamanca,Spain,"End of loanJun 1, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/tuni/profil/spieler/26062
+CA Osasuna,Rafael Clavero,27,Spain,Left-Back,LB,-,Real Murcia CF,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/rafael-clavero/profil/spieler/8000
+CA Osasuna,Sérvulo,25,Spain,Forward,Forward,-,Levante UD,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/servulo/profil/spieler/23271
+CA Osasuna,Juanma Ortiz,22,Spain,Right-Back,RB,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/juanma-ortiz/profil/spieler/7353
+CA Osasuna,Enrique Corrales,22,Spain,Left-Back,LB,-,Real Madrid B,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/enrique-corrales/profil/spieler/25460
+CA Osasuna,Savo Milosevic,30,Serbia,Centre-Forward,CF,-,Parma FC,Italy,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/savo-milosevic/profil/spieler/7896
+CA Osasuna,Ludovic Delporte,24,France,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/ludovic-delporte/profil/spieler/5492
+CA Osasuna,Miguel Flaño,19,Spain,Centre-Back,CB,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-flano/profil/spieler/35600
+CA Osasuna,David López,21,Spain,Central Midfield,CM,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/david-lopez/profil/spieler/25462
+CA Osasuna,Raúl García,17,Spain,Attacking Midfield,AM,-,CA Osasuna Promesas,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/raul-garcia/profil/spieler/34601
+Sevilla FC,Ariza Makukula,23,Portugal,Centre-Forward,CF,-,FC Nantes,France,£3.15m,In,2004,s,laliga,https://www.transfermarkt.co.uk/ariza-makukula/profil/spieler/5518
+Sevilla FC,Fernando Sales,26,Spain,Right Winger,RW,-,Real Valladolid CF,Spain,£1.08m,In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-sales/profil/spieler/7814
+Sevilla FC,Carlos Aranda,23,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,£653Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+Sevilla FC,Renato,25,Brazil,Central Midfield,CM,-,Santos FC,Brazil,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/renato/profil/spieler/15445
+Sevilla FC,Jordi López,23,Spain,Central Midfield,CM,-,Real Madrid,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/jordi-lopez/profil/spieler/15463
+Sevilla FC,Jesuli,26,Spain,Attacking Midfield,AM,-,Celta de Vigo,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/jesuli/profil/spieler/7560
+Sevilla FC,Jesús Navas,17,Spain,Right-Back,RB,-,Sevilla FC B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/jesus-navas/profil/spieler/15956
+Sevilla FC,Marco Navas,21,Spain,Right Winger,RW,-,Sevilla FC B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/marco-navas/profil/spieler/57942
+Sevilla FC,Antonio Puerta,19,Spain,Left-Back,LB,-,Sevilla FC C,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/antonio-puerta/profil/spieler/23295
+Sevilla FC,Pablo Ruiz,23,Spain,Centre-Back,CB,-,Sevilla FC B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-ruiz/profil/spieler/23312
+Sevilla FC,Fredi,30,Spain,Left Midfield,LM,-,Real Murcia CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/fredi/profil/spieler/7707
+Real Madrid,Wálter Samuel,26,Argentina,Centre-Back,CB,-,AS Roma,Italy,£22.50m,In,2004,s,laliga,https://www.transfermarkt.co.uk/walter-samuel/profil/spieler/5938
+Real Madrid,Jonathan Woodgate,24,England,Centre-Back,CB,-,Newcastle United,England,£16.47m,In,2004,s,laliga,https://www.transfermarkt.co.uk/jonathan-woodgate/profil/spieler/3224
+Real Madrid,Michael Owen,24,England,Centre-Forward,CF,-,Liverpool FC,England,£10.80m,In,2004,s,laliga,https://www.transfermarkt.co.uk/michael-owen/profil/spieler/1397
+Real Madrid,Albert Celades,28,Spain,Defensive Midfield,DM,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/albert-celades/profil/spieler/7521
+Real Madrid,David Aganzo,23,Spain,Centre-Forward,CF,-,Levante UD,Spain,"End of loanJun 1, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Real Madrid,Flávio Conceição,30,Brazil,Central Midfield,CM,-,Borussia Dortmund,Germany,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/flavio-conceicao/profil/spieler/7279
+Real Madrid,Fernando Morientes,28,Spain,Centre-Forward,CF,-,AS Monaco,France,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-morientes/profil/spieler/7531
+Real Madrid,Rubén González,22,Spain,Centre-Back,CB,-,Borussia Mönchengladbach,Germany,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-gonzalez/profil/spieler/7519
+Athletic Bilbao,Gorka Azkorra,21,Spain,Right Winger,RW,-,CD Basconia,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/gorka-azkorra/profil/spieler/26136
+Athletic Bilbao,Andoitz Galdós,19,Spain,Central Midfield,CM,-,CD Basconia,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/andoitz-galdos/profil/spieler/71779
+Athletic Bilbao,Aritz Solabarrieta,20,Spain,Right Midfield,RM,-,Bilbao Athletic,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/aritz-solabarrieta/profil/spieler/26144
+Athletic Bilbao,Roberto Pampín,20,Spain,Goalkeeper,GK,-,Bilbao Athletic,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/roberto-pampin/profil/spieler/62616
+Athletic Bilbao,Javi Casas,22,Spain,Left-Back,LB,-,Bilbao Athletic,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/javi-casas/profil/spieler/26137
+Athletic Bilbao,Fernando Llorente,19,Spain,Centre-Forward,CF,-,CD Basconia,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-llorente/profil/spieler/35564
+Racing Santander,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Racing Santander,Fernando Marqués,19,Spain,Right Winger,RW,-,Rayo Vallecano,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-marques/profil/spieler/25414
+Racing Santander,David Aganzo,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Racing Santander,Javier Arizmendi,20,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/javier-arizmendi/profil/spieler/25411
+Racing Santander,Walid Regragui,28,Morocco,Right-Back,RB,-,AC Ajaccio,France,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/walid-regragui/profil/spieler/5734
+Racing Santander,Alessandro Pierini,31,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/alessandro-pierini/profil/spieler/6067
+Racing Santander,Icham Mouissi,21,Algeria,Right Winger,RW,-,Racing Ferrol,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/icham-mouissi/profil/spieler/67660
+Racing Santander,Pedro López,20,Spain,Right-Back,RB,-,Valencia CF,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/25412
+Racing Santander,Mauricio Nanni,24,Uruguay,Goalkeeper,GK,-,Montevideo Wanderers,Uruguay,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/mauricio-nanni/profil/spieler/25416
+Racing Santander,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Birmingham City,England,"End of loanMay 16, 2005",In,2004,s,laliga,https://www.transfermarkt.co.uk/mehdi-nafti/profil/spieler/7862
+Racing Santander,Oriol Lozano,23,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/oriol-lozano/profil/spieler/25413
+Racing Santander,Antonio Tomás,19,Spain,Central Midfield,CM,-,Racing de Santander B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/antonio-tomas/profil/spieler/37340
+Real Sociedad,Mikel Arteta,22,Spain,Central Midfield,CM,-,Rangers FC,Scotland,£3.60m,In,2004,s,laliga,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+Real Sociedad,Jérémie Bréchet,24,France,Centre-Back,CB,-,FC Internazionale,Italy,£1.35m,In,2004,s,laliga,https://www.transfermarkt.co.uk/jeremie-brechet/profil/spieler/5339
+Real Sociedad,Fabiano Rossato,26,Brazil,Left-Back,LB,-,FC Porto,Portugal,£900Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/fabiano-rossato/profil/spieler/14249
+Real Sociedad,Gari Uranga,24,Spain,Attacking Midfield,AM,-,Getafe CF,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/gari-uranga/profil/spieler/7482
+Real Sociedad,Mikel Labaka,23,Spain,Centre-Back,CB,-,Ciudad Murcia (liq.),Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/mikel-labaka/profil/spieler/23247
+Real Sociedad,Mikel Arteta,23,Spain,Central Midfield,CM,£7.20m,Everton FC,England,"End of loanMay 16, 2005",In,2004,s,laliga,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+Real Sociedad,Javier Garrido,19,Spain,Left-Back,LB,-,Real Sociedad B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/javier-garrido/profil/spieler/23218
+Real Sociedad,Oskitz Estefanía,17,Spain,Left Winger,LW,-,Real Sociedad U19,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/oskitz-estefania/profil/spieler/23219
+Real Sociedad,Juan Domínguez,20,Spain,Attacking Midfield,AM,-,Real Sociedad U19,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/juan-dominguez/profil/spieler/35558
+Real Sociedad,Mikel Alonso,24,Spain,Central Midfield,CM,-,CD Numancia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/mikel-alonso/profil/spieler/7474
+Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,SD Eibar,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-sebastian-romero/profil/spieler/56042
+Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,SD Eibar,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-sebastian-romero/profil/spieler/56042
+Real Sociedad,José Javier Barkero,25,Spain,Attacking Midfield,AM,-,Club Polideportivo Ejido,Spain,"End of loanJun 1, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-javier-barkero/profil/spieler/7468
+RCD Espanyol Barcelona,Didier Domi,26,France,Left-Back,LB,-,Paris Saint-Germain,France,£1.35m,In,2004,s,laliga,https://www.transfermarkt.co.uk/didier-domi/profil/spieler/3965
+RCD Espanyol Barcelona,José Amavisca,33,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,£900Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+RCD Espanyol Barcelona,Carlos Kameni,20,Cameroon,Goalkeeper,GK,-,AC Le Havre,France,£495Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-kameni/profil/spieler/7914
+RCD Espanyol Barcelona,Óscar Serrano,22,Spain,Left Midfield,LM,-,UE Castelldefels,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-serrano/profil/spieler/26373
+RCD Espanyol Barcelona,Óscar Miñambres,23,Spain,Right-Back,RB,-,Real Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-minambres/profil/spieler/7516
+RCD Espanyol Barcelona,Dani García,29,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/dani-garcia/profil/spieler/7608
+RCD Espanyol Barcelona,Martín Posse,28,Argentina,Right Winger,RW,-,CD Tenerife,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/martin-posse/profil/spieler/26370
+RCD Espanyol Barcelona,Hugo Ibarra,30,Argentina,Right-Back,RB,-,FC Porto,Portugal,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/hugo-ibarra/profil/spieler/6985
+RCD Espanyol Barcelona,Mauricio Pochettino,32,Argentina,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/mauricio-pochettino/profil/spieler/4767
+RCD Espanyol Barcelona,Ito,29,Spain,Central Midfield,CM,-,Real Betis Balompié,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/itotm/profil/spieler/7662
+RCD Espanyol Barcelona,Biel Ribas,18,Spain,Goalkeeper,GK,-,Espanyol Barcelona U19,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/biel-ribas/profil/spieler/26371
+RCD Espanyol Barcelona,Jonathan Soriano,18,Spain,Centre-Forward,CF,-,RCD Espanyol B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/jonathan-soriano/profil/spieler/7893
+RCD Espanyol Barcelona,Gorka Iraizoz,23,Spain,Goalkeeper,GK,-,RCD Espanyol B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/gorka-iraizoz/profil/spieler/7874
+RCD Espanyol Barcelona,Manel,30,Spain,Centre-Forward,CF,-,Derby County,England,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/70974
+Deportivo de La Coruña,Momo,21,Spain,Left Winger,LW,-,UD Las Palmas,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/momo/profil/spieler/25319
+Deportivo de La Coruña,Rubén Castro,23,Spain,Centre-Forward,CF,-,UD Las Palmas,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-castro/profil/spieler/25316
+Deportivo de La Coruña,Xisco,18,Spain,Centre-Forward,CF,-,RC Deportivo B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/xisco/profil/spieler/34564
+Deportivo de La Coruña,Goran Djorovic,32,Serbia,Centre-Back,CB,-,Elche CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/goran-djorovic/profil/spieler/7488
+Deportivo de La Coruña,Sebastián Abreu,27,Uruguay,Centre-Forward,CF,-,Tecos de la UAG,Mexico,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/sebastian-abreu/profil/spieler/53817
+Deportivo de La Coruña,Jaime,31,Spain,Defensive Midfield,DM,-,Hannover 96,Germany,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Deportivo de La Coruña,Dani Mallo,25,Spain,Goalkeeper,GK,-,Elche CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/dani-mallo/profil/spieler/7483
+Deportivo de La Coruña,Changui,27,Spain,Centre-Forward,CF,-,UD Las Palmas,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+Deportivo de La Coruña,Fernando,32,Spain,Left Midfield,LM,-,Córdoba CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/2757
+Valencia CF,Stefano Fiore,29,Italy,Attacking Midfield,AM,-,SS Lazio,Italy,£15.30m,In,2004,s,laliga,https://www.transfermarkt.co.uk/stefano-fiore/profil/spieler/5842
+Valencia CF,Marco Di Vaio,27,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£9.90m,In,2004,s,laliga,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+Valencia CF,Bernardo Corradi,28,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£9.00m,In,2004,s,laliga,https://www.transfermarkt.co.uk/bernardo-corradi/profil/spieler/5851
+Valencia CF,Marco Caneira,25,Portugal,Centre-Back,CB,-,FC Girondins Bordeaux,France,£1.80m,In,2004,s,laliga,https://www.transfermarkt.co.uk/marco-caneira/profil/spieler/6242
+Valencia CF,Emiliano Moretti,23,Italy,Centre-Back,CB,-,Parma FC,Italy,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/emiliano-moretti/profil/spieler/5755
+Valencia CF,Ludovic Butelle,21,France,Goalkeeper,GK,-,FC Metz,France,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/ludovic-butelle/profil/spieler/12029
+Valencia CF,Jaime Gavilán,19,Spain,Left Winger,LW,-,Valencia CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/jaime-gavilan/profil/spieler/15461
+Valencia CF,Pedro López,20,Spain,Right-Back,RB,-,Valencia CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/25412
+Valencia CF,David Silva,18,Spain,Attacking Midfield,AM,-,Valencia CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/david-silva/profil/spieler/35518
+Valencia CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Valencia CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/raul-albiol/profil/spieler/15452
+Valencia CF,Miguel Albiol,22,Spain,Right Midfield,RM,-,Recreativo Huelva,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-albiol/profil/spieler/72184
+Valencia CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Málaga CF,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Valencia CF,John Carew,24,Norway,Centre-Forward,CF,-,AS Roma,Italy,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/john-carew/profil/spieler/3570
+Valencia CF,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Valencia CF,Gonzalo de los Santos,27,Uruguay,Defensive Midfield,DM,-,Atlético Madrid,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/gonzalo-de-los-santos/profil/spieler/7577
+Valencia CF,Joaquín Enguix,26,Spain,Right Midfield,RM,-,Recreativo Huelva,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/joaquin-enguix/profil/spieler/72198
+Villarreal CF,Diego Forlán,25,Uruguay,Centre-Forward,CF,-,Manchester United,England,£2.88m,In,2004,s,laliga,https://www.transfermarkt.co.uk/diego-forlan/profil/spieler/3408
+Villarreal CF,Armando Sá,28,Mozambique,Right-Back,RB,-,SL Benfica,Portugal,£900Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/armando-sa/profil/spieler/13218
+Villarreal CF,Juan Manuel Peña,31,Bolivia,Centre-Back,CB,-,Real Valladolid CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/juan-manuel-pena/profil/spieler/7806
+Villarreal CF,Gonzalo Rodríguez,20,Argentina,Centre-Back,CB,-,Club Atlético San Lorenzo de Almagro,Argentina,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/gonzalo-rodriguez/profil/spieler/19998
+Villarreal CF,Santi Cazorla,19,Spain,Central Midfield,CM,-,Villarreal CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/santi-cazorla/profil/spieler/15799
+Villarreal CF,Xisco Nadal,18,Spain,Right Winger,RW,-,CD Numancia,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/xisco-nadal/profil/spieler/15800
+Villarreal CF,Héctor Font,20,Spain,Central Midfield,CM,-,Ciudad Murcia (liq.),Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/hector-font/profil/spieler/26198
+Málaga CF,Míchel,28,Spain,Attacking Midfield,AM,-,Real Murcia CF,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/michel/profil/spieler/8324
+Málaga CF,Márcio Amoroso,29,Brazil,Centre-Forward,CF,-,,Without Club,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/marcio-amoroso/profil/spieler/1263
+Málaga CF,César Navas,24,Spain,Centre-Back,CB,-,Málaga CF B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/cesar-navas/profil/spieler/29056
+Málaga CF,Koke,21,Spain,Centre-Forward,CF,-,Olympique Marseille,France,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/koke/profil/spieler/16132
+Albacete Balompié,Jordi Ferrón,25,Spain,Right-Back,RB,-,Real Zaragoza,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/jordi-ferron/profil/spieler/7973
+Albacete Balompié,Mark González,19,Chile,Left Winger,LW,-,CD Universidad Católica,Chile,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/mark-gonzalez/profil/spieler/21750
+Albacete Balompié,Martín Camaño,19,Spain,Centre-Back,CB,-,,Unknown,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/martin-camano/profil/spieler/75676
+Albacete Balompié,Momo,22,Spain,Left Winger,LW,-,Deportivo de La Coruña,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/momo/profil/spieler/25319
+Albacete Balompié,Alberto Cano,20,Spain,Central Midfield,CM,-,RCD Mallorca B,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/alberto-cano/profil/spieler/60884
+Albacete Balompié,Rubén Castro,23,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-castro/profil/spieler/25316
+Albacete Balompié,Luismi,20,Spain,Second Striker,SS,-,RCD Espanyol Barcelona,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/luismi/profil/spieler/15792
+Albacete Balompié,Jaime,31,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Albacete Balompié,Francisco Rodríguez,25,Spain,Centre-Forward,CF,-,UD Almería,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-rodriguez/profil/spieler/25324
+Albacete Balompié,Mingo,27,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/mingo/profil/spieler/7649
+Albacete Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Real Betis Balompié,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/ronny-gaspercic/profil/spieler/25321
+Albacete Balompié,Javi Jiménez,28,Spain,Defensive Midfield,DM,-,Real Valladolid CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/javi-jimenez/profil/spieler/7815
+Albacete Balompié,Rubén González,22,Spain,Centre-Back,CB,-,Real Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-gonzalez/profil/spieler/7519
+Albacete Balompié,Raúl Valbuena,29,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/raul-valbuena/profil/spieler/7911
+Albacete Balompié,Cacá,25,Brazil,Centre-Forward,CF,-,Académica Coimbra,Portugal,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/caca/profil/spieler/17334
+CD Numancia,Aldo Osorio,30,Argentina,Centre-Forward,CF,-,US Lecce,Italy,£450Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/aldo-osorio/profil/spieler/6439
+CD Numancia,Konstantinos Kiassos,28,Greece,Central Midfield,CM,-,Iraklis Thessaloniki,Greece,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/konstantinos-kiassos/profil/spieler/3752
+CD Numancia,Ros,23,Spain,Defensive Midfield,DM,-,FC Barcelona,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/rostm/profil/spieler/7918
+CD Numancia,Stéphane Pignol,27,France,Right-Back,RB,-,UD Almería,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/stephane-pignol/profil/spieler/22566
+CD Numancia,Juanlu,24,Spain,Left Midfield,LM,-,Hércules CF,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/juanlu/profil/spieler/22568
+CD Numancia,Toché,21,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/toche/profil/spieler/22586
+CD Numancia,Juanma Barrero,24,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/juanma-barrero/profil/spieler/9971
+CD Numancia,Juan Ochoa,25,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/juan-ochoa/profil/spieler/22577
+CD Numancia,César Palacios,29,Spain,Central Midfield,CM,-,CA Osasuna,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/cesar-palacios/profil/spieler/7738
+CD Numancia,Chun-soo Lee,22,"Korea, South",Second Striker,SS,-,Real Sociedad,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/chun-soo-lee/profil/spieler/12376
+CD Numancia,Miguel Ángel López,26,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-lopez/profil/spieler/22971
+CD Numancia,Juanpa,25,Spain,Right-Back,RB,-,UD Salamanca,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/juanpa/profil/spieler/51368
+CD Numancia,Luis Tevenet,30,Spain,Centre-Forward,CF,-,Algeciras CF,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/luis-tevenet/profil/spieler/22567
+CD Numancia,Pablo Sanz,30,Spain,Defensive Midfield,DM,-,Rayo Vallecano,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-sanz/profil/spieler/22582
+CD Numancia,Francisco Tarantino,20,Spain,Centre-Back,CB,-,Bilbao Athletic,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-tarantino/profil/spieler/35572
+CD Numancia,Patricio Graff,28,Argentina,Left-Back,LB,-,Rayo Vallecano,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/patricio-graff/profil/spieler/22570
+CD Numancia,Julio Pineda,31,Spain,Centre-Forward,CF,-,Xerez CD,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/julio-pineda/profil/spieler/22579
+CD Numancia,Rafa Jordá,20,Spain,Centre-Forward,CF,-,CD Numancia B,Spain,-,In,2004,s,laliga,https://www.transfermarkt.co.uk/rafa-jorda/profil/spieler/51578
+Levante UD,Vladimir Manchev,26,Bulgaria,Centre-Forward,CF,-,LOSC Lille,France,£1.98m,In,2004,s,laliga,https://www.transfermarkt.co.uk/vladimir-manchev/profil/spieler/8558
+Levante UD,Diego Camacho,27,Spain,Defensive Midfield,DM,-,Recreativo Huelva,Spain,£540Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/diego-camacho/profil/spieler/23181
+Levante UD,Juanma,23,Spain,Right Winger,RW,-,Málaga CF B,Spain,£540Th.,In,2004,s,laliga,https://www.transfermarkt.co.uk/juanma/profil/spieler/23220
+Levante UD,Ian Harte,26,Ireland,Left-Back,LB,-,Leeds United,England,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/ian-harte/profil/spieler/3634
+Levante UD,Sergio García,21,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-garcia/profil/spieler/7922
+Levante UD,Nacho,24,Spain,Left-Back,LB,-,Málaga CF B,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/nacho/profil/spieler/23287
+Levante UD,Fabio Celestini,28,Switzerland,Defensive Midfield,DM,-,Olympique Marseille,France,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/fabio-celestini/profil/spieler/6134
+Levante UD,Johan Mjällby,33,Sweden,Centre-Back,CB,-,Celtic FC,Scotland,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/johan-mjallby/profil/spieler/3097
+Levante UD,José Antonio Culebras,25,Spain,Centre-Back,CB,-,CD Numancia,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/jose-antonio-culebras/profil/spieler/23192
+Levante UD,Javi Peña,31,Spain,Centre-Forward,CF,-,SD Ponferradina,Spain,"End of loanJun 30, 2004",In,2004,s,laliga,https://www.transfermarkt.co.uk/javi-pena/profil/spieler/253483
+Getafe CF,Javier Sanchez Broto,32,Spain,Goalkeeper,GK,-,Real Murcia CF,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/javier-sanchez-broto/profil/spieler/8210
+Getafe CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Valencia CF,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/raul-albiol/profil/spieler/15452
+Getafe CF,David Belenguer,31,Spain,Centre-Back,CB,-,Real Betis Balompié,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/david-belenguer/profil/spieler/22967
+Getafe CF,Riki,23,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/riki/profil/spieler/23102
+Getafe CF,Diego Rivas,24,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/diego-rivas/profil/spieler/9991
+Getafe CF,Rubén Pulido,25,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-pulido/profil/spieler/22972
+Getafe CF,Gabi,20,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/gabi/profil/spieler/22969
+Getafe CF,Mariano Pernía,27,Spain,Left-Back,LB,-,Club Atlético Independiente,Argentina,Free transfer,In,2004,s,laliga,https://www.transfermarkt.co.uk/mariano-pernia/profil/spieler/22973
+Getafe CF,Sergio Sánchez,27,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-sanchez/profil/spieler/35798
+Getafe CF,Daniel Komé,24,Cameroon,Right Winger,RW,-,CD Numancia,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-kome/profil/spieler/23062
+Getafe CF,Daniel Kone,29,Cameroon,Midfielder,Midfielder,-,CD Numancia,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-kone/profil/spieler/37709
+Getafe CF,Yordi,29,Spain,Centre-Forward,CF,-,Real Zaragoza,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/yordi/profil/spieler/7979
+Getafe CF,Paco Gallardo,24,Spain,Right Midfield,RM,-,Sevilla FC,Spain,Loan,In,2004,s,laliga,https://www.transfermarkt.co.uk/paco-gallardo/profil/spieler/7708
+Getafe CF,Martín Ariel Vitali,28,Argentina,Right-Back,RB,-,CD Leganés,Spain,?,In,2004,s,laliga,https://www.transfermarkt.co.uk/martin-ariel-vitali/profil/spieler/22977
+Atlético Madrid,Matías Lequi,23,Argentina,Centre-Back,CB,-,SS Lazio,Italy,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/matias-lequi/profil/spieler/7372
+Atlético Madrid,José María Movilla,29,Spain,Defensive Midfield,DM,-,Real Zaragoza,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jose-maria-movilla/profil/spieler/7763
+Atlético Madrid,Toché,21,Spain,Centre-Forward,CF,-,CD Numancia,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/toche/profil/spieler/22586
+Atlético Madrid,Javier Arizmendi,20,Spain,Centre-Forward,CF,-,Racing Santander,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javier-arizmendi/profil/spieler/25411
+Atlético Madrid,Juanma Barrero,24,Spain,Goalkeeper,GK,-,CD Numancia,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juanma-barrero/profil/spieler/9971
+Atlético Madrid,Gaspar Gálvez,24,Spain,Centre-Back,CB,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gaspar-galvez/profil/spieler/7367
+Atlético Madrid,Gabi,20,Spain,Defensive Midfield,DM,-,Getafe CF,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gabi/profil/spieler/22969
+Atlético Madrid,Cosmin Contra,28,Romania,Right-Back,RB,-,West Bromwich Albion,England,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/cosmin-contra/profil/spieler/5808
+Atlético Madrid,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Real Murcia CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/catalin-munteanu/profil/spieler/16615
+Atlético Madrid,Juanma Ortiz,22,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juanma-ortiz/profil/spieler/7353
+Atlético Madrid,Diego Rivas,24,Spain,Central Midfield,CM,-,Getafe CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/diego-rivas/profil/spieler/9991
+Atlético Madrid,Rodrigo Fabri,28,Brazil,Central Midfield,CM,-,Clube Atlético Mineiro,Brazil,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/rodrigo-fabri/profil/spieler/7352
+Atlético Madrid,Sergio Sánchez,27,Spain,Goalkeeper,GK,-,Getafe CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-sanchez/profil/spieler/35798
+Atlético Madrid,Iván Romero,23,Spain,Left-Back,LB,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ivan-romero/profil/spieler/57899
+Atlético Madrid,Demis Nikolaidis,30,Greece,Centre-Forward,CF,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/demis-nikolaidis/profil/spieler/7365
+Atlético Madrid,Gonzalo de los Santos,27,Uruguay,Defensive Midfield,DM,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/gonzalo-de-los-santos/profil/spieler/7577
+Atlético Madrid,Rubén Olivera,21,Uruguay,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-olivera/profil/spieler/5768
+FC Barcelona,Luis García,26,Spain,Right Winger,RW,-,Liverpool FC,England,£7.88m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/7920
+FC Barcelona,Ricardo Quaresma,20,Portugal,Right Winger,RW,-,FC Porto,Portugal,£5.40m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ricardo-quaresma/profil/spieler/4188
+FC Barcelona,Phillip Cocu,33,Netherlands,Defensive Midfield,DM,-,PSV Eindhoven,Netherlands,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/phillip-cocu/profil/spieler/5198
+FC Barcelona,Sergio Santamaría,23,Spain,Right Winger,RW,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-santamaria/profil/spieler/9753
+FC Barcelona,Patrick Kluivert,28,Netherlands,Centre-Forward,CF,-,Newcastle United,England,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/patrick-kluivert/profil/spieler/4385
+FC Barcelona,Sergio García,21,Spain,Centre-Forward,CF,-,Levante UD,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-garcia/profil/spieler/7922
+FC Barcelona,Javier Saviola,22,Argentina,Second Striker,SS,-,AS Monaco,France,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javier-saviola/profil/spieler/7611
+FC Barcelona,Robert Enke,26,Germany,Goalkeeper,GK,-,Hannover 96,Germany,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/robert-enke/profil/spieler/2995
+FC Barcelona,Michael Reiziger,31,Netherlands,Right-Back,RB,-,Middlesbrough FC,England,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/michael-reiziger/profil/spieler/4375
+FC Barcelona,Ros,23,Spain,Defensive Midfield,DM,-,CD Numancia,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/rostm/profil/spieler/7918
+FC Barcelona,Rüstü Recber,31,Turkey,Goalkeeper,GK,-,Fenerbahce SK,Turkey,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/rustu-recber/profil/spieler/4077
+FC Barcelona,Sergio Santamaría,23,Spain,Right Winger,RW,-,Deportivo Alavés,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-santamaria/profil/spieler/71580
+FC Barcelona,Óscar López,24,Spain,Right-Back,RB,-,SS Lazio,Italy,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-lopez/profil/spieler/7921
+FC Barcelona,Marc Overmars,31,Netherlands,Left Winger,LW,-,,Career break,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/marc-overmars/profil/spieler/3513
+FC Barcelona,Luis Enrique,34,Spain,Right Midfield,RM,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/luis-enrique/profil/spieler/7601
+FC Barcelona,Edgar Davids,31,Netherlands,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/edgar-davids/profil/spieler/5758
+FC Barcelona,Mario Álvarez,22,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/mario-alvarez/profil/spieler/7803
+FC Barcelona,Giovanni van Bronckhorst,29,Netherlands,Left-Back,LB,-,Arsenal FC,England,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/giovanni-van-bronckhorst/profil/spieler/3191
+Real Zaragoza,Mate Bilic,23,Croatia,Centre-Forward,CF,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/mate-bilic/profil/spieler/7977
+Real Zaragoza,Jordi Ferrón,25,Spain,Right-Back,RB,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jordi-ferron/profil/spieler/7973
+Real Zaragoza,Miguel Rebosio,27,Peru,Centre-Back,CB,-,UD Almería,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-rebosio/profil/spieler/7910
+Real Zaragoza,Dani García,29,Spain,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/dani-garcia/profil/spieler/7608
+Real Zaragoza,Iñaki Hurtado,32,Spain,Midfielder,Midfielder,-,Real Valladolid CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/inaki-hurtado/profil/spieler/7984
+Real Zaragoza,Martín Vellisca,32,Spain,Left Midfield,LM,-,UD Almería,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/martin-vellisca/profil/spieler/7982
+Real Zaragoza,Miguel García,24,Spain,Central Midfield,CM,-,SD Ponferradina,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-garcia/profil/spieler/51683
+Real Zaragoza,Paco Jémez,34,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/paco-jemez/profil/spieler/7975
+Real Zaragoza,Yordi,29,Spain,Centre-Forward,CF,-,Getafe CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/yordi/profil/spieler/7979
+Real Zaragoza,Corona,23,Spain,Central Midfield,CM,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/corona/profil/spieler/7945
+Real Zaragoza,Pablo Díaz,32,Spain,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-diaz/profil/spieler/7951
+Real Zaragoza,José María Movilla,29,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/jose-maria-movilla/profil/spieler/7763
+Real Zaragoza,Raúl Valbuena,29,Spain,Goalkeeper,GK,-,Albacete Balompié,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/raul-valbuena/profil/spieler/7911
+Real Betis Balompié,Joey Gudjónsson,24,Iceland,Central Midfield,CM,-,Leicester City,England,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/joey-gudjonsson/profil/spieler/4065
+Real Betis Balompié,Ismael López,26,Spain,Midfielder,Midfielder,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ismael-lopez/profil/spieler/15724
+Real Betis Balompié,Martín Palermo,30,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/martin-palermo/profil/spieler/3412
+Real Betis Balompié,David Belenguer,31,Spain,Centre-Back,CB,-,Getafe CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-belenguer/profil/spieler/22967
+Real Betis Balompié,Francisco Maldonado,23,Spain,Attacking Midfield,AM,-,AD Ceuta,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-maldonado/profil/spieler/15725
+Real Betis Balompié,Ito,29,Spain,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/itotm/profil/spieler/7662
+Real Betis Balompié,Gastón Casas,26,Argentina,Centre-Forward,CF,-,Asociación Atlética Argentinos Juniors,Argentina,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gaston-casas/profil/spieler/7666
+Real Betis Balompié,Mingo,27,Spain,Left-Back,LB,-,Albacete Balompié,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/mingo/profil/spieler/7649
+Real Betis Balompié,Ronny Gaspercic,35,Belgium,Goalkeeper,GK,-,Albacete Balompié,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ronny-gaspercic/profil/spieler/25321
+Real Betis Balompié,João Tomás,29,Portugal,Centre-Forward,CF,-,SC Braga,Portugal,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/joao-tomas/profil/spieler/13150
+RCD Mallorca,Samuel Eto'o,23,Cameroon,Centre-Forward,CF,-,FC Barcelona,Spain,£24.30m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/samuel-etoo/profil/spieler/4257
+RCD Mallorca,Raúl Martín,24,Spain,Right Midfield,RM,-,CD Tenerife,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/raul-martin/profil/spieler/15822
+RCD Mallorca,Jovan Stankovic,33,Serbia,Left Midfield,LM,-,UE Lleida (liq.),Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jovan-stankovic/profil/spieler/14213
+RCD Mallorca,Miki,28,Spain,Goalkeeper,GK,-,Ciudad Murcia (liq.),Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miki/profil/spieler/7670
+RCD Mallorca,Arnold Bruggink,26,Netherlands,Attacking Midfield,AM,-,SC Heerenveen,Netherlands,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/arnold-bruggink/profil/spieler/4354
+RCD Mallorca,Martín Ligüera,23,Uruguay,Attacking Midfield,AM,-,Club Nacional,Uruguay,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/martin-liguera/profil/spieler/15820
+RCD Mallorca,Vicente,28,Spain,Defensive Midfield,DM,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/vicente/profil/spieler/7679
+RCD Mallorca,Toni González,22,Spain,Left Midfield,LM,-,Ciudad Murcia (liq.),Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/toni-gonzalez/profil/spieler/15819
+RCD Mallorca,Txomin Nagore,29,Spain,Central Midfield,CM,-,Celta de Vigo,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/txomin-nagore/profil/spieler/7764
+RCD Mallorca,Federico Lussenhoff,30,Argentina,Centre-Back,CB,-,CD Cruz Azul,Mexico,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/federico-lussenhoff/profil/spieler/7674
+RCD Mallorca,Leo Franco,27,Argentina,Goalkeeper,GK,-,Atlético Madrid,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/leo-franco/profil/spieler/7669
+RCD Mallorca,Daniel Hansen,20,Norway,Centre-Forward,CF,-,Enköpings SK,Sweden,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-hansen/profil/spieler/20121
+RCD Mallorca,Gonzalo Colsa,25,Spain,Defensive Midfield,DM,-,Atlético Madrid,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gonzalo-colsa/profil/spieler/7813
+RCD Mallorca,Paco Soler,34,Spain,Central Midfield,CM,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/paco-soler/profil/spieler/7686
+RCD Mallorca,Javier Olaizola,34,Spain,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javier-olaizola/profil/spieler/7677
+RCD Mallorca,Finidi George,33,Nigeria,Right Winger,RW,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/finidi-george/profil/spieler/13241
+RCD Mallorca,Nenê,22,Brazil,Attacking Midfield,AM,-,Santos FC,Brazil,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/nene/profil/spieler/29091
+CA Osasuna,Antonio López,22,Spain,Left-Back,LB,-,Atlético Madrid,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/antonio-lopez/profil/spieler/7723
+CA Osasuna,Sérvulo,25,Spain,Forward,Forward,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/servulo/profil/spieler/23271
+CA Osasuna,César Palacios,29,Spain,Central Midfield,CM,-,CD Numancia,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/cesar-palacios/profil/spieler/7738
+CA Osasuna,Gorka García,29,Spain,Left-Back,LB,-,Córdoba CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gorka-garcia/profil/spieler/16580
+CA Osasuna,José Mateo,29,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jose-mateo/profil/spieler/7728
+CA Osasuna,Alfredo,31,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/alfredo/profil/spieler/7732
+CA Osasuna,Gerardo Rivero,29,Argentina,Right Midfield,RM,-,Ciudad Murcia (liq.),Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gerardo-rivero/profil/spieler/7740
+CA Osasuna,Francisco Jusué,24,Spain,Centre-Back,CB,-,Recreativo Huelva,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/francisco-jusue/profil/spieler/7727
+Sevilla FC,Alejandro Marañón,24,Spain,Left-Back,LB,-,Real Murcia CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/alejandro-maranon/profil/spieler/15954
+Sevilla FC,Javi Muñoz,22,Spain,Goalkeeper,GK,-,Málaga CF B,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javi-munoz/profil/spieler/29057
+Sevilla FC,Inti Podestá,26,Uruguay,Defensive Midfield,DM,-,Danubio FC,Uruguay,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/inti-podesta/profil/spieler/7710
+Sevilla FC,Germán Hornos,21,Uruguay,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/german-hornos/profil/spieler/15953
+Sevilla FC,Paco Gallardo,24,Spain,Right Midfield,RM,-,Getafe CF,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/paco-gallardo/profil/spieler/7708
+Sevilla FC,Víctor Salas,24,Spain,Central Midfield,CM,-,Club Polideportivo Ejido,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/victor-salas/profil/spieler/7714
+Sevilla FC,Fredi,30,Spain,Left Midfield,LM,-,Cádiz CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/fredi/profil/spieler/7707
+Sevilla FC,Marcos Vales,29,Spain,Right Midfield,RM,-,RCD Mallorca,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+Sevilla FC,Óscar Rodríguez,24,Spain,Centre-Back,CB,-,Real Valladolid CF,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-rodriguez/profil/spieler/7699
+Sevilla FC,Luis Gil,28,Spain,Centre-Forward,CF,-,Elche CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/luis-gil/profil/spieler/64396
+Sevilla FC,Zoran Njegus,31,Serbia,Right-Back,RB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/zoran-njegus/profil/spieler/7698
+Sevilla FC,Federico Magallanes,27,Uruguay,Centre-Forward,CF,-,,Career break,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/federico-magallanes/profil/spieler/16266
+Real Madrid,David Aganzo,23,Spain,Centre-Forward,CF,-,Racing Santander,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Real Madrid,Antonio Núñez,25,Spain,Right Winger,RW,-,Liverpool FC,England,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/antonio-nunez/profil/spieler/15466
+Real Madrid,Esteban Cambiasso,23,Argentina,Defensive Midfield,DM,-,FC Internazionale,Italy,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/esteban-cambiasso/profil/spieler/7520
+Real Madrid,Carlos Sánchez,26,Spain,Goalkeeper,GK,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-sanchez/profil/spieler/7509
+Real Madrid,Jordi López,23,Spain,Central Midfield,CM,-,Sevilla FC,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jordi-lopez/profil/spieler/15463
+Real Madrid,Flávio Conceição,30,Brazil,Central Midfield,CM,-,Galatasaray SK,Turkey,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/flavio-conceicao/profil/spieler/7279
+Real Madrid,Javier Portillo,22,Spain,Centre-Forward,CF,-,ACF Fiorentina,Italy,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javier-portillo/profil/spieler/7532
+Real Madrid,Óscar Miñambres,23,Spain,Right-Back,RB,-,RCD Espanyol Barcelona,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-minambres/profil/spieler/7516
+Real Madrid,Chupe,24,Equatorial Guinea,Centre-Forward,CF,-,UD Las Palmas,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/chupe/profil/spieler/64042
+Real Madrid,Rubén González,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-gonzalez/profil/spieler/7519
+Athletic Bilbao,Aitor Larrazabal,33,Spain,Left-Back,LB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/aitor-larrazabal/profil/spieler/7622
+Racing Santander,Rodolfo Bodipo,26,Equatorial Guinea,Centre-Forward,CF,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/rodolfo-bodipo/profil/spieler/7867
+Racing Santander,Omri Afek,25,Israel,Attacking Midfield,AM,-,UD Salamanca,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/omri-afek/profil/spieler/16119
+Racing Santander,Arthuro,21,Brazil,Centre-Forward,CF,-,Sporting Gijón,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/arthuro/profil/spieler/35513
+Racing Santander,David Coromina,29,Spain,Right-Back,RB,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-coromina/profil/spieler/16128
+Racing Santander,Cristian Álvarez,26,Argentina,Right-Back,RB,-,Córdoba CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/cristian-alvarez/profil/spieler/16126
+Racing Santander,Neru,30,Spain,Left-Back,LB,-,Sporting Gijón,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/neru/profil/spieler/7855
+Racing Santander,Borja,26,Spain,Goalkeeper,GK,-,Oviedo Astur CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/borja/profil/spieler/7847
+Racing Santander,Pablo Lago,29,Spain,Central Midfield,CM,-,Sporting Gijón,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-lago/profil/spieler/7865
+Racing Santander,Raúl Martín,21,Spain,Right Midfield,RM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/raul-martin/profil/spieler/16123
+Racing Santander,Ricardo,32,Spain,Goalkeeper,GK,-,Manchester United,England,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/ricardo/profil/spieler/3535
+Real Sociedad,Xabi Alonso,22,Spain,Defensive Midfield,DM,-,Liverpool FC,England,£14.40m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/xabi-alonso/profil/spieler/7476
+Real Sociedad,Agustín Aranzabal,31,Spain,Left-Back,LB,-,Real Zaragoza,Spain,£720Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/agustin-aranzabal/profil/spieler/7460
+Real Sociedad,Javi de Pedro,30,Spain,Left Midfield,LM,-,Blackburn Rovers,England,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javi-de-pedro/profil/spieler/7348
+Real Sociedad,Chun-soo Lee,22,"Korea, South",Second Striker,SS,-,CD Numancia,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/chun-soo-lee/profil/spieler/12376
+Real Sociedad,Bjørn Tore Kvarme,32,Norway,Centre-Back,CB,-,SC Bastia,France,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/bjorn-tore-kvarme/profil/spieler/7463
+Real Sociedad,Zuhaitz Gurrutxaga,23,Spain,Centre-Back,CB,-,Algeciras CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/zuhaitz-gurrutxaga/profil/spieler/7461
+Real Sociedad,Sander Westerveld,29,Netherlands,Goalkeeper,GK,-,RCD Mallorca,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sander-westerveld/profil/spieler/3427
+Real Sociedad,Gabriel Schürrer,32,Argentina,Centre-Back,CB,-,Olympiacos Piraeus,Greece,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gabriel-schurrer/profil/spieler/7466
+Real Sociedad,Miguel Ángel Sebastián Romero,24,Argentina,Right Midfield,RM,-,Club de Gimnasia y Esgrima La Plata,Argentina,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-sebastian-romero/profil/spieler/56042
+Real Sociedad,Sergio Boris,24,Spain,Centre-Back,CB,-,Córdoba CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-boris/profil/spieler/7469
+Real Sociedad,Lionel Potillon,30,France,Left-Back,LB,-,Paris Saint-Germain,France,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/lionel-potillon/profil/spieler/5559
+RCD Espanyol Barcelona,Claudiu Raducanu,27,Romania,Centre-Forward,CF,-,Arminia Bielefeld,Germany,Loan fee:£171Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/claudiu-raducanu/profil/spieler/16032
+RCD Espanyol Barcelona,Raúl Molina,27,Spain,Centre-Forward,CF,-,Xerez CD,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/raul-molina/profil/spieler/15793
+RCD Espanyol Barcelona,Cyril Domoraud,33,Cote d'Ivoire,Centre-Back,CB,-,Konyaspor,Turkey,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/cyril-domoraud/profil/spieler/6149
+RCD Espanyol Barcelona,Luismi,20,Spain,Second Striker,SS,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/luismi/profil/spieler/15792
+RCD Espanyol Barcelona,Óscar García,31,Spain,Attacking Midfield,AM,-,UE Lleida (liq.),Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+RCD Espanyol Barcelona,Tayfun Korkut,30,Turkey,Right Midfield,RM,-,Besiktas JK,Turkey,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/tayfun-korkut/profil/spieler/3376
+RCD Espanyol Barcelona,Pierre Womé,25,Cameroon,Left-Back,LB,-,Brescia Calcio,Italy,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pierre-wome/profil/spieler/3329
+RCD Espanyol Barcelona,Jordi Cruyff,30,Netherlands,Attacking Midfield,AM,-,ASC De Volewijckers,Netherlands,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jordi-cruyff/profil/spieler/7436
+RCD Espanyol Barcelona,Mustapha Hadji,32,Morocco,Attacking Midfield,AM,-,Al-Ain FC,United Arab Emirates,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/mustapha-hadji/profil/spieler/3840
+RCD Espanyol Barcelona,Gorka Iraizoz,23,Spain,Goalkeeper,GK,-,SD Eibar,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gorka-iraizoz/profil/spieler/7874
+RCD Espanyol Barcelona,Moreno Torricelli,34,Italy,Right-Back,RB,-,AC Arezzo,Italy,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/moreno-torricelli/profil/spieler/15769
+RCD Espanyol Barcelona,Carlos García,20,Spain,Centre-Back,CB,-,Club Polideportivo Ejido,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-garcia/profil/spieler/15762
+RCD Espanyol Barcelona,Kevin Bobson,23,Netherlands,Left Winger,LW,-,Willem II Tilburg,Netherlands,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/kevin-bobson/profil/spieler/4458
+RCD Espanyol Barcelona,Moisés Hurtado,23,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/moises-hurtado/profil/spieler/15764
+RCD Espanyol Barcelona,Sergio Postigo,23,Spain,Centre-Forward,CF,-,Girona FC,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-postigo/profil/spieler/57946
+RCD Espanyol Barcelona,Toni Jiménez,33,Spain,Goalkeeper,GK,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/toni-jimenez/profil/spieler/15767
+RCD Espanyol Barcelona,Mauricio Pochettino,32,Argentina,Centre-Back,CB,-,FC Girondins Bordeaux,France,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/mauricio-pochettino/profil/spieler/4767
+Deportivo de La Coruña,Noureddine Naybet,34,Morocco,Centre-Back,CB,-,Tottenham Hotspur,England,£900Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/noureddine-naybet/profil/spieler/7493
+Deportivo de La Coruña,José Amavisca,33,Spain,Left Midfield,LM,-,RCD Espanyol Barcelona,Spain,£900Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+Deportivo de La Coruña,Sebastián Abreu,27,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,£180Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sebastian-abreu/profil/spieler/53817
+Deportivo de La Coruña,Djalminha,33,Brazil,Central Midfield,CM,-,CF América,Mexico,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/djalminha/profil/spieler/2960
+Deportivo de La Coruña,Roberto Acuña,32,Paraguay,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/roberto-acuna/profil/spieler/7495
+Deportivo de La Coruña,Momo,22,Spain,Left Winger,LW,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/momo/profil/spieler/25319
+Deportivo de La Coruña,Jaime,31,Spain,Defensive Midfield,DM,-,Albacete Balompié,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Deportivo de La Coruña,Rubén Castro,23,Spain,Centre-Forward,CF,-,Albacete Balompié,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-castro/profil/spieler/25316
+Deportivo de La Coruña,Iván Pérez,28,Spain,Centre-Forward,CF,-,Girona FC,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ivan-perez/profil/spieler/7505
+Deportivo de La Coruña,Jesús Muñoz,28,Spain,Central Midfield,CM,-,Terrassa FC,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jesus-munoz/profil/spieler/7988
+Deportivo de La Coruña,Goran Djorovic,32,Serbia,Centre-Back,CB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/goran-djorovic/profil/spieler/7488
+Deportivo de La Coruña,Jacques Songo'o,40,Cameroon,Goalkeeper,GK,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jacques-songoo/profil/spieler/102615
+Deportivo de La Coruña,Fernando,32,Spain,Left Midfield,LM,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/2757
+Valencia CF,Ricardo Oliveira,24,Brazil,Centre-Forward,CF,-,Real Betis Balompié,Spain,£3.60m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ricardo-oliveira/profil/spieler/15468
+Valencia CF,John Carew,24,Norway,Centre-Forward,CF,-,Besiktas JK,Turkey,£3.15m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/john-carew/profil/spieler/3570
+Valencia CF,Juan Sánchez,32,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juan-sanchez/profil/spieler/7585
+Valencia CF,Fabián Canobbio,24,Uruguay,Attacking Midfield,AM,-,Celta de Vigo,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/fabian-canobbio/profil/spieler/15455
+Valencia CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Valencia CF,David Silva,18,Spain,Attacking Midfield,AM,-,SD Eibar,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-silva/profil/spieler/35518
+Valencia CF,David Rangel,24,Spain,Goalkeeper,GK,-,UE Lleida (liq.),Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-rangel/profil/spieler/7564
+Valencia CF,Miguel Albiol,22,Spain,Right Midfield,RM,-,Rayo Vallecano,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-albiol/profil/spieler/72184
+Valencia CF,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Racing Santander,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Valencia CF,Jaime Gavilán,19,Spain,Left Winger,LW,-,CD Tenerife,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jaime-gavilan/profil/spieler/15461
+Valencia CF,Raúl Albiol,18,Spain,Centre-Back,CB,-,Getafe CF,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/raul-albiol/profil/spieler/15452
+Valencia CF,Javier Garrido,25,Spain,Right-Back,RB,-,AS Saint-Étienne,France,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javier-garrido/profil/spieler/7571
+Valencia CF,Pedro López,20,Spain,Right-Back,RB,-,Racing Santander,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pedro-lopez/profil/spieler/25412
+Valencia CF,Joaquín Enguix,26,Spain,Right Midfield,RM,-,Club Polideportivo Ejido,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/joaquin-enguix/profil/spieler/72198
+Valencia CF,Jorge López,25,Spain,Right Winger,RW,-,RCD Mallorca,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jorge-lopez/profil/spieler/7844
+Valencia CF,Jean Félix Dorothée,22,France,Right Midfield,RM,-,Valencia CF B,Spain,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jean-felix-dorothee/profil/spieler/15459
+Villarreal CF,Juliano Belletti,28,Brazil,Right-Back,RB,-,FC Barcelona,Spain,£5.40m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juliano-belletti/profil/spieler/7829
+Villarreal CF,Sonny Anderson,34,Brazil,Centre-Forward,CF,£3.60m,Al Rayyan Sports Club,Qatar,£1.80m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sonny-anderson/profil/spieler/3500
+Villarreal CF,Pere Martí,22,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pere-marti/profil/spieler/15797
+Villarreal CF,Víctor,30,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/victor/profil/spieler/7846
+Villarreal CF,Sergio Ballesteros,28,Spain,Centre-Back,CB,-,RCD Mallorca,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/sergio-ballesteros/profil/spieler/7828
+Villarreal CF,Verza,17,Spain,Central Midfield,CM,-,Recreativo Huelva,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/verza/profil/spieler/26199
+Villarreal CF,Fabricio Coloccini,22,Argentina,Centre-Back,CB,-,Milan AC,Italy,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/fabricio-coloccini/profil/spieler/6150
+Málaga CF,Josemi,24,Spain,Centre-Back,CB,-,Liverpool FC,England,£2.70m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/josemi/profil/spieler/7776
+Málaga CF,Koke,21,Spain,Centre-Forward,CF,-,Olympique Marseille,France,£630Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/koke/profil/spieler/16132
+Málaga CF,Roberto Rojas,29,Spain,Right-Back,RB,-,Rayo Vallecano,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/roberto-rojas/profil/spieler/7778
+Málaga CF,Manuel Canabal,29,Spain,Centre-Forward,CF,-,Pontevedra CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Málaga CF,Diego Alonso,29,Uruguay,Centre-Forward,CF,-,UNAM Pumas,Mexico,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/diego-alonso/profil/spieler/7868
+Málaga CF,Federico Insúa,24,Argentina,Attacking Midfield,AM,-,Club Atlético Independiente,Argentina,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/federico-insua/profil/spieler/4193
+Málaga CF,Salva Ballesta,29,Spain,Centre-Forward,CF,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Albacete Balompié,Pablo Ibáñez,22,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,£2.70m,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pablo-ibanez/profil/spieler/8116
+Albacete Balompié,Carlos Aranda,23,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,£653Th.,Out,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+Albacete Balompié,Unai Vergara,27,Spain,Centre-Back,CB,-,Elche CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/unai-vergara/profil/spieler/7834
+Albacete Balompié,Joaquín Moso,25,Spain,Goalkeeper,GK,-,Pontevedra CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/joaquin-moso/profil/spieler/16622
+Albacete Balompié,Ludovic Delporte,24,France,Left Winger,LW,-,CA Osasuna,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ludovic-delporte/profil/spieler/5492
+Albacete Balompié,Cacá,25,Brazil,Centre-Forward,CF,-,UD Las Palmas,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/caca/profil/spieler/17334
+Albacete Balompié,Basti,30,Spain,Centre-Forward,CF,-,Xerez CD,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/basti/profil/spieler/8332
+Albacete Balompié,Pedro,25,Spain,Right-Back,RB,-,Ciudad Murcia (liq.),Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pedro/profil/spieler/51399
+Albacete Balompié,Lawal,23,Nigeria,Right Midfield,RM,-,Xerez CD,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/lawal/profil/spieler/16618
+Albacete Balompié,Carlos Roa,34,Argentina,Goalkeeper,GK,-,,Career break,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/carlos-roa/profil/spieler/8137
+Albacete Balompié,Fernando Navarro,22,Spain,Left-Back,LB,-,FC Barcelona,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/fernando-navarro/profil/spieler/7593
+Albacete Balompié,Líbero Parri,22,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Albacete Balompié,Manuel Almunia,27,Spain,Goalkeeper,GK,-,Celta de Vigo,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/manuel-almunia/profil/spieler/16621
+Albacete Balompié,Catalin Munteanu,25,Romania,Attacking Midfield,AM,£270Th.,Atlético Madrid,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/catalin-munteanu/profil/spieler/16615
+CD Numancia,Nelson San Martín,24,Chile,Central Midfield,CM,-,Unión San Felipe,Chile,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/nelson-san-martin/profil/spieler/150405
+CD Numancia,Luis García,25,Spain,Goalkeeper,GK,-,Real Zaragoza,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/26149
+CD Numancia,Laurentiu Rosu,28,Romania,Forward,Forward,£900Th.,Recreativo Huelva,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/laurentiu-rosu/profil/spieler/43968
+CD Numancia,Daniel Komé,24,Cameroon,Right Winger,RW,-,Getafe CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-kome/profil/spieler/23062
+CD Numancia,Daniel Kone,29,Cameroon,Midfielder,Midfielder,-,Getafe CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-kone/profil/spieler/37709
+CD Numancia,Daniel Fernando Fagiani,30,Argentina,Left-Back,LB,-,CD Tenerife,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/daniel-fernando-fagiani/profil/spieler/27670
+CD Numancia,Juan Pedro,28,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juan-pedro/profil/spieler/22580
+CD Numancia,José Antonio Culebras,25,Spain,Centre-Back,CB,-,Levante UD,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jose-antonio-culebras/profil/spieler/23192
+CD Numancia,Pacheta,36,Spain,Midfielder,Midfielder,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/pacheta/profil/spieler/187845
+CD Numancia,Octavio,33,Spain,Defender,Defender,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/octavio/profil/spieler/22587
+CD Numancia,Xisco Nadal,18,Spain,Right Winger,RW,-,Villarreal CF,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/xisco-nadal/profil/spieler/15800
+CD Numancia,Mikel Alonso,24,Spain,Central Midfield,CM,-,Real Sociedad,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/mikel-alonso/profil/spieler/7474
+Levante UD,Tito,32,Spain,Defensive Midfield,DM,-,Alicante CF,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/tito/profil/spieler/23175
+Levante UD,David Limones,25,Spain,Midfielder,Midfielder,-,CD Tenerife,Spain,Loan,Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-limones/profil/spieler/27676
+Levante UD,Sérvulo,25,Spain,Forward,Forward,-,CA Osasuna,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/servulo/profil/spieler/23271
+Levante UD,Emilio Rentería,19,Venezuela,Centre-Forward,CF,-,Deportivo Italchacao,Venezuela,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/emilio-renteria/profil/spieler/72554
+Levante UD,Santiago Carpintero,27,Spain,Central Midfield,CM,-,Deportivo Alavés,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/santiago-carpintero/profil/spieler/29087
+Levante UD,Javi Peña,31,Spain,Centre-Forward,CF,-,,Unknown,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/javi-pena/profil/spieler/253483
+Levante UD,Juanra,24,Spain,Right-Back,RB,-,Levante UD B,Spain,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/juanra/profil/spieler/51560
+Levante UD,Tomás Olías,35,Spain,Centre-Back,CB,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/tomas-olias/profil/spieler/184345
+Levante UD,Ángel Lekunberri,34,Spain,Midfielder,Midfielder,-,,Retired,-,Out,2004,s,laliga,https://www.transfermarkt.co.uk/angel-lekunberri/profil/spieler/7734
+Levante UD,David Aganzo,23,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 1, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Levante UD,Manolo Hidalgo,24,Spain,Midfielder,Midfielder,-,Atlético Madrid B,Spain,"End of loanJun 30, 2004",Out,2004,s,laliga,https://www.transfermarkt.co.uk/manolo-hidalgo/profil/spieler/64402
+Getafe CF,Gari Uranga,24,Spain,Attacking Midfield,AM,-,Real Sociedad,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/gari-uranga/profil/spieler/7482
+Getafe CF,Nacho Triguero,30,Spain,Goalkeeper,GK,-,CD Móstoles URJC,Spain,Free transfer,Out,2004,s,laliga,https://www.transfermarkt.co.uk/nacho-triguero/profil/spieler/22976
+Getafe CF,Txema,33,Spain,Centre-Back,CB,-,UE Lleida (liq.),Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/txema/profil/spieler/187817
+Getafe CF,Marc Bernaus,27,Andorra,Left-Back,LB,-,Elche CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/marc-bernaus/profil/spieler/29166
+Getafe CF,Jean Blaise Bouli,23,Cameroon,Right Winger,RW,-,Dinamo Bryansk,Russia,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/jean-blaise-bouli/profil/spieler/51625
+Getafe CF,Noé Calleja,24,Spain,Goalkeeper,GK,-,Algeciras CF,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/noe-calleja/profil/spieler/71190
+Getafe CF,Rubén Reyes,25,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/ruben-reyes/profil/spieler/7839
+Getafe CF,Miguel Ángel,34,Spain,Forward,Forward,-,AD Alcorcón,Spain,?,Out,2004,s,laliga,https://www.transfermarkt.co.uk/miguel-angel/profil/spieler/253956
+Atlético Madrid,Jesper Grönkjaer,27,Denmark,Left Winger,LW,£5.85m,Birmingham City,England,£1.80m,In,2004,w,laliga,https://www.transfermarkt.co.uk/jesper-gronkjaer/profil/spieler/3137
+Atlético Madrid,Richard Núñez,28,Uruguay,Attacking Midfield,AM,£2.79m,Grasshopper Club Zurich,Switzerland,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/richard-nunez/profil/spieler/2877
+Atlético Madrid,Sergio Aragoneses,27,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/sergio-aragoneses/profil/spieler/27492
+Atlético Madrid,Cosmin Contra,29,Romania,Right-Back,RB,-,West Bromwich Albion,England,"End of loanDec 27, 2004",In,2004,w,laliga,https://www.transfermarkt.co.uk/cosmin-contra/profil/spieler/5808
+Atlético Madrid,Raúl Medina,21,Spain,Central Midfield,CM,-,Atlético Madrid B,Spain,-,In,2004,w,laliga,https://www.transfermarkt.co.uk/raul-medina/profil/spieler/51564
+FC Barcelona,Maxi López,20,Argentina,Centre-Forward,CF,-,Club Atlético River Plate,Argentina,£5.85m,In,2004,w,laliga,https://www.transfermarkt.co.uk/maxi-lopez/profil/spieler/26263
+FC Barcelona,Demetrio Albertini,33,Italy,Defensive Midfield,DM,£720Th.,Atalanta BC,Italy,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/demetrio-albertini/profil/spieler/3390
+FC Barcelona,Damià,22,Spain,Right-Back,RB,£1.80m,FC Barcelona B,Spain,-,In,2004,w,laliga,https://www.transfermarkt.co.uk/damia/profil/spieler/28002
+RCD Mallorca,Bernardo Romeo,27,Argentina,Centre-Forward,CF,£6.30m,Hamburger SV,Germany,Loan fee:£360Th.,In,2004,w,laliga,https://www.transfermarkt.co.uk/bernardo-romeo/profil/spieler/1431
+RCD Mallorca,Yoshito Okubo,22,Japan,Centre-Forward,CF,£1.35m,Cerezo Osaka,Japan,Loan,In,2004,w,laliga,https://www.transfermarkt.co.uk/yoshito-okubo/profil/spieler/27439
+RCD Mallorca,Felipe Melo,21,Brazil,Defensive Midfield,DM,-,Grêmio Foot-Ball Porto Alegrense,Brazil,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/felipe-melo/profil/spieler/35537
+RCD Mallorca,Mark Iuliano,31,Italy,Centre-Back,CB,£1.80m,Juventus FC,Italy,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/mark-iuliano/profil/spieler/5750
+CA Osasuna,Francisco Jusué,25,Spain,Centre-Back,CB,£270Th.,Recreativo Huelva,Spain,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/francisco-jusue/profil/spieler/7727
+Sevilla FC,Adriano,20,Brazil,Left-Back,LB,-,Coritiba Foot Ball Club,Brazil,£1.89m,In,2004,w,laliga,https://www.transfermarkt.co.uk/adriano/profil/spieler/34495
+Sevilla FC,Óscar Rodríguez,24,Spain,Centre-Back,CB,£45Th.,Real Valladolid CF,Spain,"End of loanJan 1, 2005",In,2004,w,laliga,https://www.transfermarkt.co.uk/oscar-rodriguez/profil/spieler/7699
+Real Madrid,Thomas Gravesen,28,Denmark,Defensive Midfield,DM,£5.40m,Everton FC,England,£3.06m,In,2004,w,laliga,https://www.transfermarkt.co.uk/thomas-gravesen/profil/spieler/301
+Real Madrid,Javier Portillo,22,Spain,Centre-Forward,CF,£4.50m,ACF Fiorentina,Italy,"End of loanDec 31, 2004",In,2004,w,laliga,https://www.transfermarkt.co.uk/javier-portillo/profil/spieler/7532
+Racing Santander,Toño,25,Spain,Goalkeeper,GK,-,Recreativo Huelva,Spain,£1.03m,In,2004,w,laliga,https://www.transfermarkt.co.uk/tono/profil/spieler/35536
+Racing Santander,Gerardo Torrado,25,Mexico,Defensive Midfield,DM,£2.25m,Sevilla FC,Spain,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/gerardo-torrado/profil/spieler/7713
+Racing Santander,Argel Fucks,30,Brazil,Centre-Back,CB,£4.50m,SL Benfica,Portugal,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/argel-fucks/profil/spieler/13221
+Racing Santander,Raúl Martín,22,Spain,Right Midfield,RM,£45Th.,SD Eibar,Spain,"End of loanDec 1, 2004",In,2004,w,laliga,https://www.transfermarkt.co.uk/raul-martin/profil/spieler/16123
+Real Sociedad,Dragan Mladenovic,28,Serbia,Defensive Midfield,DM,-,Rangers FC,Scotland,Loan fee:£225Th.,In,2004,w,laliga,https://www.transfermarkt.co.uk/dragan-mladenovic/profil/spieler/18714
+Real Sociedad,Asier Riesgo,21,Spain,Goalkeeper,GK,£1.80m,SD Eibar,Spain,"End of loanDec 31, 2004",In,2004,w,laliga,https://www.transfermarkt.co.uk/asier-riesgo/profil/spieler/23338
+RCD Espanyol Barcelona,Adrián Bastía,25,Argentina,Defensive Midfield,DM,£45Th.,Saturn Ramenskoe,Russia,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/adrian-bastia/profil/spieler/15789
+Deportivo de La Coruña,Fabricio Coloccini,23,Argentina,Centre-Back,CB,£7.20m,AC Milan,Italy,£4.50m,In,2004,w,laliga,https://www.transfermarkt.co.uk/fabricio-coloccini/profil/spieler/6150
+Deportivo de La Coruña,Changui,28,Spain,Centre-Forward,CF,£1.71m,Pontevedra CF,Spain,"End of loanJun 30, 2005",In,2004,w,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+Villarreal CF,Luciano Figueroa,23,Argentina,Centre-Forward,CF,£2.93m,CD Cruz Azul,Mexico,£5.58m,In,2004,w,laliga,https://www.transfermarkt.co.uk/luciano-figueroa/profil/spieler/7133
+Villarreal CF,Juan Pablo Sorín,28,Argentina,Left-Back,LB,£3.60m,Cruzeiro Esporte Clube,Brazil,£1.35m,In,2004,w,laliga,https://www.transfermarkt.co.uk/juan-pablo-sorin/profil/spieler/7925
+Málaga CF,Paulo Wanchope,28,Costa Rica,Centre-Forward,CF,£4.05m,Manchester City,England,£675Th.,In,2004,w,laliga,https://www.transfermarkt.co.uk/paulo-wanchope/profil/spieler/3230
+Málaga CF,Fernando Baiano,25,Brazil,Centre-Forward,CF,£5.40m,AD São Caetano (SP),Brazil,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/fernando-baiano/profil/spieler/9415
+Málaga CF,Tote,26,Spain,Attacking Midfield,AM,£3.15m,Real Betis Balompié,Spain,Loan,In,2004,w,laliga,https://www.transfermarkt.co.uk/tote/profil/spieler/7535
+Albacete Balompié,Pinda,28,Spain,Goalkeeper,GK,£360Th.,Atlético Madrid,Spain,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/pinda/profil/spieler/16011
+Albacete Balompié,Nicolás Olivera,26,Uruguay,Second Striker,SS,-,Defensor Sporting Club,Uruguay,Loan,In,2004,w,laliga,https://www.transfermarkt.co.uk/nicolas-olivera/profil/spieler/53033
+Albacete Balompié,Horacio Peralta,22,Uruguay,Centre-Forward,CF,£540Th.,Cagliari Calcio,Italy,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/horacio-peralta/profil/spieler/28028
+CD Numancia,Nelson San Martín,23,Chile,Central Midfield,CM,-,Club Universidad de Chile,Chile,£198Th.,In,2004,w,laliga,https://www.transfermarkt.co.uk/nelson-san-martin/profil/spieler/150405
+CD Numancia,Silvio González,24,Argentina,Centre-Forward,CF,-,Córdoba CF,Spain,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/silvio-gonzalez/profil/spieler/55190
+Levante UD,Pablo Cavallero,30,Argentina,Goalkeeper,GK,£4.50m,Celta de Vigo,Spain,Free transfer,In,2004,w,laliga,https://www.transfermarkt.co.uk/pablo-cavallero/profil/spieler/7536
+Getafe CF,Sergio Aragoneses,28,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,Loan,In,2004,w,laliga,https://www.transfermarkt.co.uk/sergio-aragoneses/profil/spieler/27492
+Getafe CF,Jaime Asen,26,Spain,Centre-Forward,CF,-,AD Alcorcón,Spain,?,In,2004,w,laliga,https://www.transfermarkt.co.uk/jaime-asen/profil/spieler/57965
+Atlético Madrid,Pinda,28,Spain,Goalkeeper,GK,£360Th.,Albacete Balompié,Spain,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/pinda/profil/spieler/16011
+Atlético Madrid,Kiki Musampa,27,Netherlands,Left Winger,LW,£3.15m,Manchester City,England,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/kiki-musampa/profil/spieler/7787
+Atlético Madrid,Veljko Paunovic,27,Serbia,Centre-Forward,CF,£1.80m,Hannover 96,Germany,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/veljko-paunovic/profil/spieler/7364
+Atlético Madrid,Sergio Aragoneses,28,Spain,Goalkeeper,GK,-,Getafe CF,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/sergio-aragoneses/profil/spieler/27492
+Atlético Madrid,Diego Simeone,34,Argentina,Central Midfield,CM,£1.35m,Racing Club,Argentina,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/diego-simeone/profil/spieler/5841
+Atlético Madrid,Cosmin Contra,29,Romania,Right-Back,RB,-,Poli AEK,Romania,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/cosmin-contra/profil/spieler/5808
+Real Betis Balompié,Tote,26,Spain,Attacking Midfield,AM,£3.15m,Málaga CF,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/tote/profil/spieler/7535
+RCD Mallorca,Patrick Müller,28,Switzerland,Centre-Back,CB,£3.60m,FC Basel 1893,Switzerland,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/patrick-muller/profil/spieler/5347
+RCD Mallorca,Rogério Cannellini,25,Brazil,Defensive Midfield,DM,-,Skoda Xanthi,Greece,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/rogerio-cannellini/profil/spieler/29548
+RCD Mallorca,Andrija Delibasic,23,Montenegro,Centre-Forward,CF,£1.98m,SL Benfica,Portugal,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/andrija-delibasic/profil/spieler/10289
+RCD Mallorca,Miguel Ángel Nadal,38,Spain,Centre-Back,CB,£450Th.,,Retired,-,Out,2004,w,laliga,https://www.transfermarkt.co.uk/miguel-angel-nadal/profil/spieler/7676
+CA Osasuna,Ibrahima Bakayoko,28,Cote d'Ivoire,Centre-Forward,CF,£6.30m,FC Istres Ouest Provence ,France,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/ibrahima-bakayoko/profil/spieler/3899
+CA Osasuna,Francisco Jusué,25,Spain,Centre-Back,CB,£270Th.,Cultural Leonesa,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/francisco-jusue/profil/spieler/7727
+Sevilla FC,Gerardo Torrado,25,Mexico,Defensive Midfield,DM,£2.25m,Racing Santander,Spain,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/gerardo-torrado/profil/spieler/7713
+Real Madrid,Fernando Morientes,28,Spain,Centre-Forward,CF,£13.50m,Liverpool FC,England,£8.33m,Out,2004,w,laliga,https://www.transfermarkt.co.uk/fernando-morientes/profil/spieler/7531
+Racing Santander,Mehdi Nafti,26,Tunisia,Defensive Midfield,DM,£900Th.,Birmingham City,England,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/mehdi-nafti/profil/spieler/7862
+Racing Santander,Argel Fucks,30,Brazil,Centre-Back,CB,£4.50m,Cruzeiro Esporte Clube,Brazil,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/argel-fucks/profil/spieler/13221
+Racing Santander,Raúl Martín,22,Spain,Right Midfield,RM,£45Th.,Gimnástica Torrelavega,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/raul-martin/profil/spieler/16123
+Racing Santander,Mauricio Nanni,25,Uruguay,Goalkeeper,GK,£180Th.,Montevideo Wanderers,Uruguay,"End of loanDec 1, 2004",Out,2004,w,laliga,https://www.transfermarkt.co.uk/mauricio-nanni/profil/spieler/25416
+Real Sociedad,Mikel Arteta,22,Spain,Central Midfield,CM,£7.20m,Everton FC,England,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+RCD Espanyol Barcelona,Adrián Bastía,26,Argentina,Defensive Midfield,DM,£45Th.,Club Estudiantes de La Plata,Argentina,?,Out,2004,w,laliga,https://www.transfermarkt.co.uk/adrian-bastia/profil/spieler/15789
+RCD Espanyol Barcelona,Manel,31,Spain,Centre-Forward,CF,-,CF Badalona,Spain,?,Out,2004,w,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/70974
+Deportivo de La Coruña,Changui,27,Spain,Centre-Forward,CF,£1.71m,Pontevedra CF,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+Deportivo de La Coruña,Wálter Pandiani,28,Uruguay,Centre-Forward,CF,£9.00m,Birmingham City,England,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/walter-pandiani/profil/spieler/7691
+Valencia CF,Mauricio Pellegrino,33,Argentina,Centre-Back,CB,£2.03m,Liverpool FC,England,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/mauricio-pellegrino/profil/spieler/7573
+Valencia CF,Ludovic Butelle,21,France,Goalkeeper,GK,£1.58m,Hércules CF,Spain,Loan,Out,2004,w,laliga,https://www.transfermarkt.co.uk/ludovic-butelle/profil/spieler/12029
+Villarreal CF,Sonny Anderson,34,Brazil,Centre-Forward,CF,£3.60m,Al Rayyan Sports Club,Qatar,£1.80m,Out,2004,w,laliga,https://www.transfermarkt.co.uk/sonny-anderson/profil/spieler/3500
+Málaga CF,Ivan Leko,26,Croatia,Attacking Midfield,AM,£2.25m,HNK Hajduk Split,Croatia,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/ivan-leko/profil/spieler/7784
+Albacete Balompié,Gustavo Siviero,35,Argentina,Centre-Back,CB,£90Th.,Club Atlético Colón,Argentina,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/gustavo-siviero/profil/spieler/8144
+Albacete Balompié,David Sánchez,22,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,"End of loanMar 31, 2005",Out,2004,w,laliga,https://www.transfermarkt.co.uk/david-sanchez/profil/spieler/58147
+CD Numancia,Konstantinos Kiassos,29,Greece,Central Midfield,CM,£675Th.,Panionios Athens,Greece,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/konstantinos-kiassos/profil/spieler/3752
+CD Numancia,Aldo Osorio,30,Argentina,Centre-Forward,CF,£900Th.,Quilmes Atlético Club,Argentina,Free transfer,Out,2004,w,laliga,https://www.transfermarkt.co.uk/aldo-osorio/profil/spieler/6439
+Levante UD,Johan Mjällby,33,Sweden,Centre-Back,CB,£2.25m,,Without Club,-,Out,2004,w,laliga,https://www.transfermarkt.co.uk/johan-mjallby/profil/spieler/3097
+Getafe CF,Martín Ariel Vitali,29,Argentina,Right-Back,RB,£900Th.,Racing Club,Argentina,?,Out,2004,w,laliga,https://www.transfermarkt.co.uk/martin-ariel-vitali/profil/spieler/22977

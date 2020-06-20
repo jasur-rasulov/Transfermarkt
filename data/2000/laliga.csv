@@ -1,440 +1,441 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-FC Barcelona,Marc Overmars,27,Netherlands,Left Winger,LW,-,Arsenal FC,England,£36.00m,In,2000,s,laliga
-FC Barcelona,Gerard López,21,Spain,Central Midfield,CM,-,Valencia CF,Spain,£19.44m,In,2000,s,laliga
-FC Barcelona,Alfonso,27,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,£14.85m,In,2000,s,laliga
-FC Barcelona,Emmanuel Petit,29,France,Defensive Midfield,DM,-,Arsenal FC,England,£13.50m,In,2000,s,laliga
-FC Barcelona,Richard Dutruel,27,France,Goalkeeper,GK,-,Celta de Vigo,Spain,£3.60m,In,2000,s,laliga
-FC Barcelona,Iván De La Peña,24,Spain,Attacking Midfield,AM,-,SS Lazio,Italy,Loan,In,2000,s,laliga
-FC Barcelona,Sergio Santamaría,19,Spain,Right Winger,RW,-,FC Barcelona B,Spain,-,In,2000,s,laliga
-FC Barcelona,Mikel Arteta,18,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,-,In,2000,s,laliga
-FC Barcelona,Pepe Reina,17,Spain,Goalkeeper,GK,-,FC Barcelona B,Spain,-,In,2000,s,laliga
-FC Barcelona,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,AEK Athens,Greece,"End of loanJun 30, 2000",In,2000,s,laliga
-FC Barcelona,Samuel Okunowo,21,Nigeria,Right-Back,RB,-,SL Benfica,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga
-FC Barcelona,Luis García,22,Spain,Right Winger,RW,-,CD Toledo,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Zaragoza,Miguel Rebosio,23,Peru,Centre-Back,CB,-,Sporting Cristal Lima,Peru,Free transfer,In,2000,s,laliga
-Real Zaragoza,Fernando de Ornelas,23,Venezuela,Right Winger,RW,-,Deportivo Italchacao,Venezuela,?,In,2000,s,laliga
-Real Zaragoza,Daniel Montenegro,21,Argentina,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,In,2000,s,laliga
-Real Zaragoza,Alen Peternac,28,Croatia,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,In,2000,s,laliga
-Real Zaragoza,César Jiménez,22,Spain,Centre-Back,CB,-,Real Zaragoza B,Spain,-,In,2000,s,laliga
-Real Zaragoza,Cani,18,Spain,Attacking Midfield,AM,-,Real Zaragoza B,Spain,-,In,2000,s,laliga
-RCD Mallorca,Marcos Martín,31,Spain,Defensive Midfield,DM,-,Mérida UD,Spain,?,In,2000,s,laliga
-RCD Mallorca,Finidi George,29,Nigeria,Right Winger,RW,-,Real Betis Balompié,Spain,?,In,2000,s,laliga
-RCD Mallorca,Miki,24,Spain,Goalkeeper,GK,-,RCD Mallorca B,Spain,-,In,2000,s,laliga
-RCD Mallorca,Albert Riera,18,Spain,Left Winger,LW,-,RCD Mallorca B,Spain,-,In,2000,s,laliga
-RCD Mallorca,Ariel López,26,Argentina,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,"End of loanJun 30, 2000",In,2000,s,laliga
-RCD Mallorca,Albert Luque,22,Spain,Left Winger,LW,-,Málaga CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-CA Osasuna,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga
-CA Osasuna,Leandro Sena,23,Brazil,Central Midfield,CM,-,Mérida UD,Spain,Free transfer,In,2000,s,laliga
-CA Osasuna,Aitor Ocio,23,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,In,2000,s,laliga
-CA Osasuna,Ángel Lekunberri,30,Spain,Midfielder,Midfielder,-,SD Compostela,Spain,?,In,2000,s,laliga
-CA Osasuna,Javier Delgado,20,Spain,Centre-Back,CB,-,FC Sion,Switzerland,?,In,2000,s,laliga
-CA Osasuna,Mariano Armentano,25,Argentina,Centre-Forward,CF,-,Elche CF,Spain,?,In,2000,s,laliga
-CA Osasuna,Ángel Rodríguez,28,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,In,2000,s,laliga
-CA Osasuna,Leonel Gancedo,29,Argentina,Midfielder,Midfielder,-,Club Atlético River Plate,Argentina,?,In,2000,s,laliga
-CA Osasuna,Carlos Llorens,31,Spain,Left-Back,LB,-,Rayo Vallecano,Spain,Loan,In,2000,s,laliga
-CA Osasuna,Risto Vidakovic,31,Serbia,Centre-Back,CB,-,Real Betis Balompié,Spain,?,In,2000,s,laliga
-CA Osasuna,Mikel Pagola,18,Spain,Goalkeeper,GK,-,CA Osasuna U19,Spain,-,In,2000,s,laliga
-CA Osasuna,Francisco Jusué,20,Spain,Centre-Back,CB,-,CA Osasuna Promesas,Spain,-,In,2000,s,laliga
-CA Osasuna,Sabino Sánchez,22,Spain,Centre-Forward,CF,-,CD Badajoz,Spain,,In,2000,s,laliga
-CA Osasuna,Patxi Puñal,24,Spain,Defensive Midfield,DM,-,CD Leganés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-CA Osasuna,Manuel Almunia,23,Spain,Goalkeeper,GK,-,Cartagonova FC,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Valladolid CF,Antonio López,20,Spain,Left Midfield,LM,-,CD Leganés,Spain,Free transfer,In,2000,s,laliga
-Real Valladolid CF,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,FC Barcelona,Spain,Free transfer,In,2000,s,laliga
-Real Valladolid CF,Fernando Sales,22,Spain,Right Winger,RW,-,Levante UD,Spain,Free transfer,In,2000,s,laliga
-Real Valladolid CF,Sergio Pachón,23,Spain,Centre-Forward,CF,-,CD Leganés,Spain,?,In,2000,s,laliga
-Real Valladolid CF,Jesús Sánchez,25,Spain,Defensive Midfield,DM,-,Levante UD,Spain,?,In,2000,s,laliga
-Real Valladolid CF,Jon Ander,23,Spain,Goalkeeper,GK,-,SD Eibar,Spain,?,In,2000,s,laliga
-Real Valladolid CF,Fernando,21,Spain,Attacking Midfield,AM,-,Real Madrid,Spain,Loan,In,2000,s,laliga
-Real Valladolid CF,Cuauhtémoc Blanco,27,Mexico,Second Striker,SS,-,CF América,Mexico,Loan,In,2000,s,laliga
-Real Valladolid CF,Albano Bizzarri,22,Argentina,Goalkeeper,GK,-,Real Madrid,Spain,?,In,2000,s,laliga
-Real Valladolid CF,Pablo Ricchetti,23,Argentina,Right Midfield,RM,-,Club Atlético Colón,Argentina,?,In,2000,s,laliga
-Real Valladolid CF,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Celta de Vigo,Spain,Loan,In,2000,s,laliga
-Real Valladolid CF,Raúl Ibáñez,27,Spain,Forward,Forward,-,Elche CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Rayo Vallecano,Elvir Bolic,28,Bosnia-Herzegovina,Centre-Forward,CF,-,Fenerbahce SK,Turkey,£1.80m,In,2000,s,laliga
-Rayo Vallecano,Patxi Ferreira,33,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Mami Quevedo,31,Spain,Central Midfield,CM,-,Sevilla FC,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Mingo,23,Spain,Left-Back,LB,-,Sporting Gijón,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Gláucio,24,Brazil,Attacking Midfield,AM,-,América Football Club (RJ),Brazil,?,In,2000,s,laliga
-Rayo Vallecano,Iván Iglesias,28,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Ramón de Quintana,28,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Urbano,25,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Josep Setvalls,25,Spain,Midfielder,Midfielder,-,Unió Esportiva Lleida,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Mauro García,29,Spain,Right-Back,RB,-,SD Compostela,Spain,?,In,2000,s,laliga
-Rayo Vallecano,Javier Camuñas,19,Spain,Right Winger,RW,-,Rayo Vallecano B,Spain,-,In,2000,s,laliga
-Rayo Vallecano,Sergio Mora,20,Spain,Central Midfield,CM,-,Rayo Vallecano B,Spain,-,In,2000,s,laliga
-Rayo Vallecano,Sergio Segura,22,Spain,Goalkeeper,GK,-,UD San Sebastián de los Reyes,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Madrid,Luís Figo,27,Portugal,Right Winger,RW,-,FC Barcelona,Spain,£54.00m,In,2000,s,laliga
-Real Madrid,Flávio Conceição,26,Brazil,Central Midfield,CM,-,Deportivo de La Coruña,Spain,£22.50m,In,2000,s,laliga
-Real Madrid,Claude Makélélé,27,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,£12.60m,In,2000,s,laliga
-Real Madrid,Pedro Munitis,25,Spain,Second Striker,SS,-,Racing Santander,Spain,£9.45m,In,2000,s,laliga
-Real Madrid,César Sánchez,28,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,£5.63m,In,2000,s,laliga
-Real Madrid,Santiago Solari,23,Argentina,Left Midfield,LM,-,Atlético Madrid,Spain,£3.15m,In,2000,s,laliga
-Real Madrid,Albert Celades,24,Spain,Defensive Midfield,DM,-,Celta de Vigo,Spain,Free transfer,In,2000,s,laliga
-Real Madrid,Javier Portillo,18,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,-,In,2000,s,laliga
-Real Madrid,Alberto Rivera,22,Spain,Central Midfield,CM,-,CD Numancia,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Madrid,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Madrid,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Real Valladolid CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Real Madrid,Tote,21,Spain,Attacking Midfield,AM,-,SL Benfica,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga
-UD Las Palmas,Oktay Derelioglu,24,Turkey,Centre-Forward,CF,-,Siirt Jetpa Spor,Turkey,£2.70m,In,2000,s,laliga
-UD Las Palmas,Gabriel Schürrer,28,Argentina,Centre-Back,CB,-,Deportivo de La Coruña,Spain,£2.43m,In,2000,s,laliga
-UD Las Palmas,Thórdur Gudjónsson,26,Iceland,Right Winger,RW,-,KRC Genk,Belgium,Free transfer,In,2000,s,laliga
-UD Las Palmas,Baiano,22,Brazil,Right-Back,RB,-,Santos FC,Brazil,Free transfer,In,2000,s,laliga
-UD Las Palmas,Edu Alonso,26,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,Free transfer,In,2000,s,laliga
-UD Las Palmas,Souleymane Oulare,27,Guinea,Centre-Forward,CF,-,Fenerbahce SK,Turkey,?,In,2000,s,laliga
-UD Las Palmas,Álvaro,22,Brazil,Centre-Back,CB,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga
-UD Las Palmas,Antonio Moreno,25,Spain,Midfielder,Midfielder,-,CD Badajoz,Spain,?,In,2000,s,laliga
-UD Las Palmas,Ángel López,19,Spain,Right-Back,RB,-,UD Las Palmas B,Spain,-,In,2000,s,laliga
-UD Las Palmas,Jorge Larena,18,Spain,Central Midfield,CM,-,UD Las Palmas B,Spain,-,In,2000,s,laliga
-UD Las Palmas,Nacho González,28,Argentina,Goalkeeper,GK,-,CF Pachuca,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga
-Athletic Bilbao,Carlos Merino,20,Spain,Attacking Midfield,AM,-,Nottingham Forest,England,Free transfer,In,2000,s,laliga
-Athletic Bilbao,Pablo Orbaiz,21,Spain,Defensive Midfield,DM,-,CA Osasuna,Spain,?,In,2000,s,laliga
-Athletic Bilbao,Asier del Horno,19,Spain,Left-Back,LB,-,Bilbao Athletic,Spain,-,In,2000,s,laliga
-Athletic Bilbao,Daniel Aranzubia,20,Spain,Goalkeeper,GK,-,Bilbao Athletic,Spain,-,In,2000,s,laliga
-Athletic Bilbao,David Asensio,20,Spain,Second Striker,SS,-,Bilbao Athletic,Spain,-,In,2000,s,laliga
-Racing Santander,Mehdi Nafti,21,Tunisia,Defensive Midfield,DM,-,FC Toulouse,France,£675Th.,In,2000,s,laliga
-Racing Santander,Juanma Delgado,23,Spain,Centre-Back,CB,-,UD Salamanca,Spain,Free transfer,In,2000,s,laliga
-Racing Santander,Mario Regueiro,21,Uruguay,Left Winger,LW,-,Club Nacional,Uruguay,Free transfer,In,2000,s,laliga
-Racing Santander,Maximiliano Estévez,23,Argentina,Left Winger,LW,-,Racing Club,Argentina,Loan,In,2000,s,laliga
-Racing Santander,Jaime,27,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga
-Racing Santander,Julio Álvarez,19,Venezuela,Attacking Midfield,AM,-,Real Madrid B,Spain,Loan,In,2000,s,laliga
-Racing Santander,José Moratón,20,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2000,s,laliga
-Real Sociedad,Mattias Asper,26,Sweden,Goalkeeper,GK,-,AIK,Sweden,£2.43m,In,2000,s,laliga
-Real Sociedad,Tayfun Korkut,26,Turkey,Right Midfield,RM,-,Fenerbahce SK,Turkey,Free transfer,In,2000,s,laliga
-Real Sociedad,Stéphane Collet,28,Madagascar,Right Midfield,RM,-,RC Lens,France,?,In,2000,s,laliga
-Real Sociedad,Frédéric Peiremans,26,Belgium,Defensive Midfield,DM,-,Twente Enschede FC,Netherlands,?,In,2000,s,laliga
-Real Sociedad,Arif Erdem,28,Turkey,Centre-Forward,CF,-,Galatasaray SK,Turkey,?,In,2000,s,laliga
-Real Sociedad,Xabi Alonso,18,Spain,Defensive Midfield,DM,-,Real Sociedad U19,Spain,-,In,2000,s,laliga
-Real Sociedad,Igor Gabilondo,21,Spain,Left Midfield,LM,-,Real Sociedad B,Spain,-,In,2000,s,laliga
-RCD Espanyol Barcelona,Àngel Morales,24,Spain,Defensive Midfield,DM,-,Deportivo Alavés,Spain,£180Th.,In,2000,s,laliga
-RCD Espanyol Barcelona,Innocent Hamga,19,Cameroon,Defender,Defender,-,FC Barcelona B,Spain,?,In,2000,s,laliga
-RCD Espanyol Barcelona,Óscar García,27,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,?,In,2000,s,laliga
-RCD Espanyol Barcelona,Alberto Lopo,20,Spain,Centre-Back,CB,-,RCD Espanyol B,Spain,-,In,2000,s,laliga
-RCD Espanyol Barcelona,Alfredo Argensó,25,Spain,Goalkeeper,GK,-,RCD Espanyol B,Spain,-,In,2000,s,laliga
-RCD Espanyol Barcelona,Manel,27,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,"End of loanJun 30, 2001",In,2000,s,laliga
-RCD Espanyol Barcelona,Nan Ribera,25,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Deportivo de La Coruña,Diego Tristán,24,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,£15.98m,In,2000,s,laliga
-Deportivo de La Coruña,Aldo Duscher,21,Argentina,Defensive Midfield,DM,-,Sporting CP,Portugal,£11.70m,In,2000,s,laliga
-Deportivo de La Coruña,Émerson,28,Brazil,Defensive Midfield,DM,-,CD Tenerife,Spain,£8.64m,In,2000,s,laliga
-Deportivo de La Coruña,Joan Capdevila,23,Spain,Left-Back,LB,-,Atlético Madrid,Spain,£5.76m,In,2000,s,laliga
-Deportivo de La Coruña,José Francisco Molina,29,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,£3.69m,In,2000,s,laliga
-Deportivo de La Coruña,Changui,23,Spain,Centre-Forward,CF,-,SD Compostela,Spain,£2.70m,In,2000,s,laliga
-Deportivo de La Coruña,José Amavisca,29,Spain,Left Midfield,LM,-,Racing Santander,Spain,£1.71m,In,2000,s,laliga
-Deportivo de La Coruña,César Sampaio,32,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,£810Th.,In,2000,s,laliga
-Deportivo de La Coruña,Héctor Berenguel,25,Spain,Right-Back,RB,-,Sevilla FC,Spain,Free transfer,In,2000,s,laliga
-Deportivo de La Coruña,Gerardo Seoane,21,Switzerland,Centre-Back,CB,-,AC Bellinzona,Switzerland,"End of loanJun 30, 2000",In,2000,s,laliga
-Deportivo de La Coruña,Renaldo,30,Brazil,Centre-Forward,CF,-,UD Las Palmas,Spain,"End of loanJun 1, 2000",In,2000,s,laliga
-Deportivo de La Coruña,Sebastián Abreu,23,Uruguay,Centre-Forward,CF,-,Tecos de la UAG,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga
-Deportivo de La Coruña,Hélder Cristóvão,29,Portugal,Centre-Back,CB,-,Newcastle United,England,"End of loanJun 30, 2000",In,2000,s,laliga
-Deportivo de La Coruña,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,CP Mérida,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Celta de Vigo,Catanha,28,Brazil,Centre-Forward,CF,-,Málaga CF,Spain,£12.98m,In,2000,s,laliga
-Celta de Vigo,Yago Yao,21,Equatorial Guinea,Centre-Back,CB,-,Sporting Gijón,Spain,£1.62m,In,2000,s,laliga
-Celta de Vigo,Vágner,27,Brazil,Defensive Midfield,DM,-,São Paulo Futebol Clube,Brazil,£450Th.,In,2000,s,laliga
-Celta de Vigo,Doriva,28,Brazil,Right Midfield,RM,-,UC Sampdoria,Italy,Free transfer,In,2000,s,laliga
-Celta de Vigo,Pablo Cavallero,26,Argentina,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,In,2000,s,laliga
-Celta de Vigo,Edú,21,Brazil,Second Striker,SS,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga
-Celta de Vigo,Francisco Noguerol,23,Spain,Centre-Back,CB,-,Racing Ferrol,Spain,?,In,2000,s,laliga
-Celta de Vigo,Jesuli,22,Spain,Attacking Midfield,AM,-,Sevilla FC,Spain,?,In,2000,s,laliga
-Celta de Vigo,Manolo Sánchez,24,Spain,Left-Back,LB,-,Sporting Gijón,Spain,?,In,2000,s,laliga
-Celta de Vigo,Marko Pantelic,21,Serbia,Centre-Forward,CF,-,SK Sturm Graz,Austria,"End of loanJun 1, 2000",In,2000,s,laliga
-Celta de Vigo,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Puebla FC,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga
-Celta de Vigo,Pablo Couñago,20,Spain,Centre-Forward,CF,-,Recreativo Huelva,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Valencia CF,John Carew,20,Norway,Centre-Forward,CF,-,Rosenborg BK,Norway,£7.65m,In,2000,s,laliga
-Valencia CF,Zlatko Zahovic,29,Slovenia,Attacking Midfield,AM,-,Olympiacos Piraeus,Greece,£7.20m,In,2000,s,laliga
-Valencia CF,Roberto Ayala,27,Argentina,Centre-Back,CB,-,Milan AC,Italy,£4.50m,In,2000,s,laliga
-Valencia CF,Vicente,18,Spain,Left Winger,LW,-,Levante UD,Spain,£4.32m,In,2000,s,laliga
-Valencia CF,Didier Deschamps,31,France,Defensive Midfield,DM,-,Chelsea FC,England,£3.15m,In,2000,s,laliga
-Valencia CF,Fábio Aurélio,20,Brazil,Left-Back,LB,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga
-Valencia CF,Diego Alonso,25,Uruguay,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,?,In,2000,s,laliga
-Valencia CF,Gonzalo de los Santos,23,Uruguay,Defensive Midfield,DM,-,Málaga CF,Spain,?,In,2000,s,laliga
-Valencia CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Villarreal CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Valencia CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Villarreal CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Valencia CF,Curro Torres,23,Spain,Right-Back,RB,-,Recreativo Huelva,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-Villarreal CF,Rodolfo Arruabarrena,24,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,£3.78m,In,2000,s,laliga
-Villarreal CF,Sergio Ballesteros,24,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,£3.78m,In,2000,s,laliga
-Villarreal CF,Quique Álvarez,24,Spain,Centre-Back,CB,-,Unió Esportiva Lleida,Spain,Free transfer,In,2000,s,laliga
-Villarreal CF,Víctor,26,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,In,2000,s,laliga
-Villarreal CF,Guillermo Amor,32,Spain,Central Midfield,CM,-,AC Fiorentina,Italy,?,In,2000,s,laliga
-Villarreal CF,Bruno Marioni,25,Argentina,Left Winger,LW,-,Club Atlético Independiente,Argentina,?,In,2000,s,laliga
-Villarreal CF,Unai Vergara,23,Spain,Centre-Back,CB,-,Mérida UD,Spain,?,In,2000,s,laliga
-Villarreal CF,Gerard Escoda,28,Spain,Forward,Forward,-,Unió Esportiva Lleida,Spain,?,In,2000,s,laliga
-Málaga CF,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Real Madrid,Spain,£2.43m,In,2000,s,laliga
-Málaga CF,Francesc Arnau,25,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,£1.89m,In,2000,s,laliga
-Málaga CF,Ivan Leko,22,Croatia,Attacking Midfield,AM,-,HNK Hajduk Split,Croatia,£180Th.,In,2000,s,laliga
-Málaga CF,Julio Dely Valdés,33,Panama,Centre-Forward,CF,-,Real Oviedo,Spain,Free transfer,In,2000,s,laliga
-Málaga CF,Andrés Pato,19,Spain,Right-Back,RB,-,Levante UD,Spain,?,In,2000,s,laliga
-Málaga CF,Ariel Zárate,26,Argentina,Attacking Midfield,AM,-,Elche CF,Spain,?,In,2000,s,laliga
-Málaga CF,Josemi,20,Spain,Centre-Back,CB,-,Málaga CF B,Spain,-,In,2000,s,laliga
-Málaga CF,Higinio Vilches,18,Spain,Left-Back,LB,-,Málaga CF U19,Spain,-,In,2000,s,laliga
-Málaga CF,Owusu Afriyie,19,Ghana,Forward,Forward,-,GD Chaves,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga
-Deportivo Alavés,Jordi Cruyff,26,Netherlands,Attacking Midfield,AM,-,Manchester United,England,Free transfer,In,2000,s,laliga
-Deportivo Alavés,Rubén Vega,22,Spain,Centre-Forward,CF,-,Real Sociedad B,Spain,Free transfer,In,2000,s,laliga
-Deportivo Alavés,Iván Alonso,21,Uruguay,Centre-Forward,CF,-,Atletico River Plate Montevideo,Uruguay,?,In,2000,s,laliga
-Deportivo Alavés,Ivan Tomic,24,Serbia,Defensive Midfield,DM,-,AS Roma,Italy,?,In,2000,s,laliga
-Deportivo Alavés,Delfí Geli,31,Spain,Right-Back,RB,-,Albacete Balompié,Spain,?,In,2000,s,laliga
-Deportivo Alavés,Vlatko Djolonga,23,Croatia,Left-Back,LB,-,NK Hrvatski Dragovoljac,Croatia,?,In,2000,s,laliga
-CD Numancia,Carlos Aranda,19,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,Free transfer,In,2000,s,laliga
-CD Numancia,Laurentiu Rosu,24,Romania,Forward,Forward,-,Steaua Bukarest,Romania,Free transfer,In,2000,s,laliga
-CD Numancia,Curro Montoya,23,Spain,Defensive Midfield,DM,-,Valencia Mestalla,Spain,Free transfer,In,2000,s,laliga
-CD Numancia,Iñaki Hurtado,28,Spain,Midfielder,Midfielder,-,CD Logroñés,Spain,?,In,2000,s,laliga
-CD Numancia,Manel,29,Spain,Right-Back,RB,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga
-CD Numancia,Iván Pérez,24,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga
-CD Numancia,David Pirri,26,Spain,Left Midfield,LM,-,UD Las Palmas,Spain,?,In,2000,s,laliga
-CD Numancia,Claudio Javier Marini,28,Argentina,Defensive Midfield,DM,-,Club Atlético Colón,Argentina,?,In,2000,s,laliga
-CD Numancia,Rafael Clavero,23,Spain,Left-Back,LB,-,Real Madrid B,Spain,?,In,2000,s,laliga
-CD Numancia,Miguel Ángel Soria,26,Spain,Defender,Defender,-,Valencia CF,Spain,?,In,2000,s,laliga
-CD Numancia,Dani Mayo,27,Argentina,Centre-Back,CB,-,UD Alzira,Spain,?,In,2000,s,laliga
-CD Numancia,José Antonio Culebras,21,Spain,Centre-Back,CB,-,CD Toledo,Spain,?,In,2000,s,laliga
-CD Numancia,Gustavo,24,Spain,Defender,Defender,-,Atlético Madrid,Spain,?,In,2000,s,laliga
-Real Oviedo,Milan Martinovic,20,Serbia,Centre-Back,CB,-,FK Rad,Serbia,Free transfer,In,2000,s,laliga
-Real Oviedo,Veljko Paunovic,22,Serbia,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2000,s,laliga
-Real Oviedo,Ivo,22,Spain,Defender,Defender,-,,Unknown,?,In,2000,s,laliga
-Real Oviedo,Gaspar Gálvez,20,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,2000,s,laliga
-Real Oviedo,Rubén Suárez,24,Spain,Forward,Forward,-,SD Eibar,Spain,?,In,2000,s,laliga
-Real Oviedo,Djordje Tomic,27,Serbia,Central Midfield,CM,-,FK Partizan Belgrade,Serbia,?,In,2000,s,laliga
-Real Oviedo,Oli,28,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,In,2000,s,laliga
-Real Oviedo,Pedro Dorronsoro,23,Spain,Goalkeeper,GK,-,Torredonjimeno CF,Spain,?,In,2000,s,laliga
-Real Oviedo,Ivo,22,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,2000,s,laliga
-Real Oviedo,Joyce Moreno,25,Panama,Defender,Defender,-,CD Leganés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga
-FC Barcelona,Luís Figo,27,Portugal,Right Winger,RW,-,Real Madrid,Spain,£54.00m,Out,2000,s,laliga
-FC Barcelona,Frédéric Déhu,27,France,Centre-Back,CB,-,Paris Saint-Germain,France,£5.40m,Out,2000,s,laliga
-FC Barcelona,Francesc Arnau,25,Spain,Goalkeeper,GK,-,Málaga CF,Spain,£1.89m,Out,2000,s,laliga
-FC Barcelona,Ruud Hesp,34,Netherlands,Goalkeeper,GK,-,Fortuna Sittard,Netherlands,£1.08m,Out,2000,s,laliga
-FC Barcelona,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,Real Valladolid CF,Spain,Free transfer,Out,2000,s,laliga
-FC Barcelona,Luis García,22,Spain,Right Winger,RW,-,CD Tenerife,Spain,Loan,Out,2000,s,laliga
-FC Barcelona,Emmanuel Amunike,29,Nigeria,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,Out,2000,s,laliga
-FC Barcelona,Samuel Okunowo,21,Nigeria,Right-Back,RB,-,CD Badajoz,Spain,?,Out,2000,s,laliga
-Real Zaragoza,Savo Milosevic,26,Serbia,Centre-Forward,CF,-,AC Parma,Italy,£22.50m,Out,2000,s,laliga
-Real Zaragoza,Luis Helguera,24,Spain,Defensive Midfield,DM,-,Udinese Calcio,Italy,?,Out,2000,s,laliga
-Real Zaragoza,Cani,18,Spain,Attacking Midfield,AM,-,Utebo FC,Spain,Loan,Out,2000,s,laliga
-Real Zaragoza,Álvaro Rubio,21,Spain,Defensive Midfield,DM,-,Albacete Balompié,Spain,?,Out,2000,s,laliga
-Real Zaragoza,Chucho Solana,35,Spain,Left-Back,LB,-,,Retired,-,Out,2000,s,laliga
-RCD Mallorca,Diego Tristán,24,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,£15.98m,Out,2000,s,laliga
-RCD Mallorca,Laurén,23,Cameroon,Right-Back,RB,-,Arsenal FC,England,£9.63m,Out,2000,s,laliga
-RCD Mallorca,Ardijan Djokaj,21,Montenegro,Left Winger,LW,-,Unió Esportiva Lleida,Spain,Free transfer,Out,2000,s,laliga
-RCD Mallorca,Josep Lluís Martí,25,Spain,Defensive Midfield,DM,-,CD Tenerife,Spain,Free transfer,Out,2000,s,laliga
-RCD Mallorca,Alejandro Marañón,20,Spain,Left-Back,LB,-,Cartagonova FC,Spain,Free transfer,Out,2000,s,laliga
-RCD Mallorca,David Castedo,26,Spain,Left-Back,LB,-,Sevilla FC,Spain,Free transfer,Out,2000,s,laliga
-RCD Mallorca,Jorge Quinteros,25,Argentina,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan,Out,2000,s,laliga
-RCD Mallorca,Ariel López,26,Argentina,Centre-Forward,CF,-,Club Atlético Lanús,Argentina,Loan,Out,2000,s,laliga
-RCD Mallorca,Juan José Serrizuela,23,Argentina,Right-Back,RB,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan,Out,2000,s,laliga
-RCD Mallorca,Rogério Gaúcho,20,Brazil,Centre-Forward,CF,-,Santos FC,Brazil,?,Out,2000,s,laliga
-RCD Mallorca,César Gálvez,26,Spain,Goalkeeper,GK,-,Elche CF,Spain,?,Out,2000,s,laliga
-RCD Mallorca,Paco Sanz,27,Spain,Right Midfield,RM,-,,Retired,-,Out,2000,s,laliga
-CA Osasuna,Petar Vasiljevic,29,Serbia,Centre-Back,CB,-,LR Ahlen,Germany,Free transfer,Out,2000,s,laliga
-CA Osasuna,Moha,22,Morocco,Attacking Midfield,AM,-,Levante UD,Spain,Loan,Out,2000,s,laliga
-CA Osasuna,Dejan Markovic,27,Serbia,Right Midfield,RM,-,VfB Admira Wacker Mödling,Austria,Free transfer,Out,2000,s,laliga
-CA Osasuna,Manuel Almunia,23,Spain,Goalkeeper,GK,-,CE Sabadell,Spain,Free transfer,Out,2000,s,laliga
-CA Osasuna,Pablo Orbaiz,21,Spain,Defensive Midfield,DM,-,Athletic Bilbao,Spain,?,Out,2000,s,laliga
-CA Osasuna,Emilio López,34,Spain,Goalkeeper,GK,-,Real Jaén CF,Spain,?,Out,2000,s,laliga
-Real Valladolid CF,César Sánchez,28,Spain,Goalkeeper,GK,-,Real Madrid,Spain,£5.63m,Out,2000,s,laliga
-Real Valladolid CF,Rodrigo Fabri,24,Brazil,Central Midfield,CM,-,Sporting CP,Portugal,£810Th.,Out,2000,s,laliga
-Real Valladolid CF,Javi Jiménez,24,Spain,Defensive Midfield,DM,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-Real Valladolid CF,Manuel Tena,22,Spain,Centre-Back,CB,-,Córdoba CF,Spain,Loan,Out,2000,s,laliga
-Real Valladolid CF,Víctor,26,Spain,Centre-Forward,CF,-,Villarreal CF,Spain,?,Out,2000,s,laliga
-Real Valladolid CF,Orlando,24,Spain,Defender,Defender,-,SD Eibar,Spain,?,Out,2000,s,laliga
-Real Valladolid CF,Juan Vizcaíno,33,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2000,s,laliga
-Real Valladolid CF,Alen Peternac,28,Croatia,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,2000,s,laliga
-Real Valladolid CF,Jorge Brítez,19,Paraguay,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,2000,s,laliga
-Real Valladolid CF,Dragan Isailovic,24,Serbia,Centre-Forward,CF,-,Beitar Jerusalem,Israel,?,Out,2000,s,laliga
-Real Valladolid CF,Arilson,27,Brazil,Attacking Midfield,AM,-,Club Universidad de Chile,Chile,?,Out,2000,s,laliga
-Real Valladolid CF,Shoji Jo,25,Japan,Centre-Forward,CF,-,Yokohama F. Marinos,Japan,"End of loanAug 1, 2000",Out,2000,s,laliga
-Real Valladolid CF,Chavo Díaz,25,Spain,Defender,Defender,-,,Retired,-,Out,2000,s,laliga
-Real Valladolid CF,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Real Valladolid CF,Carlos Arias,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Rayo Vallecano,Sergio Ballesteros,24,Spain,Centre-Back,CB,-,Villarreal CF,Spain,£3.78m,Out,2000,s,laliga
-Rayo Vallecano,Dave van den Bergh,24,Netherlands,Left Midfield,LM,-,FC Utrecht,Netherlands,Free transfer,Out,2000,s,laliga
-Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,CA Osasuna,Spain,Loan,Out,2000,s,laliga
-Rayo Vallecano,Eduardo Estibariz,34,Spain,Right-Back,RB,-,CD Aurrera de Vitoria,Spain,?,Out,2000,s,laliga
-Rayo Vallecano,Juan Carlos Villamayor,31,Paraguay,Right-Back,RB,-,Club Cerro Porteño,Paraguay,?,Out,2000,s,laliga
-Rayo Vallecano,Jean-François Hernandez,31,France,Centre-Back,CB,-,Atlético Madrid,Spain,?,Out,2000,s,laliga
-Rayo Vallecano,Sergio Mora,20,Spain,Central Midfield,CM,-,CF Gandía,Spain,Loan,Out,2000,s,laliga
-Rayo Vallecano,Mingo,23,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga
-Rayo Vallecano,Martín Mandra,22,Argentina,Left Winger,LW,-,Paniliakos Pyrgos,Greece,?,Out,2000,s,laliga
-Rayo Vallecano,Quinzinho,26,Angola,Centre-Forward,CF,-,Desportivo Aves,Portugal,?,Out,2000,s,laliga
-Rayo Vallecano,Mark Draper,29,England,Attacking Midfield,AM,-,Aston Villa,England,"End of loanJun 30, 2000",Out,2000,s,laliga
-Rayo Vallecano,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Real Madrid,Nicolas Anelka,21,France,Centre-Forward,CF,-,Paris Saint-Germain,France,£31.05m,Out,2000,s,laliga
-Real Madrid,Fernando Redondo,31,Argentina,Defensive Midfield,DM,-,Milan AC,Italy,£15.75m,Out,2000,s,laliga
-Real Madrid,Christian Karembeu,29,France,Defensive Midfield,DM,-,Middlesbrough FC,England,£7.88m,Out,2000,s,laliga
-Real Madrid,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Málaga CF,Spain,£2.43m,Out,2000,s,laliga
-Real Madrid,Harvey Esajas,26,Netherlands,Defender,Defender,-,Zamora CF,Spain,Free transfer,Out,2000,s,laliga
-Real Madrid,David Aganzo,19,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,Loan,Out,2000,s,laliga
-Real Madrid,Júlio César,21,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan,Out,2000,s,laliga
-Real Madrid,Albano Bizzarri,22,Argentina,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,2000,s,laliga
-Real Madrid,Elvir Baljic,26,Bosnia-Herzegovina,Left Winger,LW,-,Fenerbahce SK,Turkey,Loan,Out,2000,s,laliga
-Real Madrid,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,Loan,Out,2000,s,laliga
-Real Madrid,Fernando,21,Spain,Attacking Midfield,AM,-,Real Valladolid CF,Spain,Loan,Out,2000,s,laliga
-UD Las Palmas,Luis Tevenet,26,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,?,Out,2000,s,laliga
-UD Las Palmas,Marcos Sequeiros,26,Spain,Centre-Forward,CF,-,Universidad de Las Palmas,Spain,Loan,Out,2000,s,laliga
-UD Las Palmas,David Pirri,26,Spain,Left Midfield,LM,-,CD Numancia,Spain,?,Out,2000,s,laliga
-UD Las Palmas,Jaime Quesada,28,Spain,Right-Back,RB,-,Recreativo Huelva,Spain,?,Out,2000,s,laliga
-UD Las Palmas,Goyo,20,Spain,Goalkeeper,GK,-,AD Ceuta,Spain,?,Out,2000,s,laliga
-UD Las Palmas,Pedro Vega,20,Spain,Left Midfield,LM,-,Granada CF,Spain,?,Out,2000,s,laliga
-UD Las Palmas,Juan Carlos Socorro,28,Venezuela,Attacking Midfield,AM,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-UD Las Palmas,Renaldo,30,Brazil,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,"End of loanJun 1, 2000",Out,2000,s,laliga
-Athletic Bilbao,Edu Alonso,26,Spain,Right-Back,RB,-,UD Las Palmas,Spain,Free transfer,Out,2000,s,laliga
-Athletic Bilbao,José Mari,29,Spain,Attacking Midfield,AM,-,CD Leganés,Spain,?,Out,2000,s,laliga
-Athletic Bilbao,Patxi Ferreira,33,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,2000,s,laliga
-Athletic Bilbao,Sívori,23,Spain,Centre-Forward,CF,-,Córdoba CF,Spain,?,Out,2000,s,laliga
-Racing Santander,Pedro Munitis,25,Spain,Second Striker,SS,-,Real Madrid,Spain,£9.45m,Out,2000,s,laliga
-Racing Santander,José Amavisca,29,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,£1.71m,Out,2000,s,laliga
-Racing Santander,Salva Ballesta,25,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£1.35m,Out,2000,s,laliga
-Racing Santander,Federico Magallanes,23,Uruguay,Centre-Forward,CF,-,Defensor Sporting Club,Uruguay,Free transfer,Out,2000,s,laliga
-Racing Santander,Léider Preciado,23,Colombia,Centre-Forward,CF,-,Independiente Santa Fe,Colombia,?,Out,2000,s,laliga
-Real Sociedad,Dietmar Kühbauer,29,Austria,Central Midfield,CM,-,VfL Wolfsburg,Germany,Free transfer,Out,2000,s,laliga
-Real Sociedad,Joseba Llorente,20,Spain,Centre-Forward,CF,-,SD Eibar,Spain,Loan,Out,2000,s,laliga
-Real Sociedad,Juan Gómez,29,Argentina,Defender,Defender,-,Atlético Madrid,Spain,?,Out,2000,s,laliga
-Real Sociedad,Ricardo Sá Pinto,27,Portugal,Second Striker,SS,-,Sporting CP,Portugal,?,Out,2000,s,laliga
-Real Sociedad,Xabi Alonso,18,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,Loan,Out,2000,s,laliga
-Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,FC Toulouse,France,Loan,Out,2000,s,laliga
-Real Sociedad,Iker Sarriegi,26,Spain,Centre-Back,CB,-,,Retired,-,Out,2000,s,laliga
-RCD Espanyol Barcelona,Pablo Cavallero,26,Argentina,Goalkeeper,GK,-,Celta de Vigo,Spain,?,Out,2000,s,laliga
-RCD Espanyol Barcelona,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2000,s,laliga
-RCD Espanyol Barcelona,David Ávila,22,Spain,Forward,Forward,-,CE L’Hospitalet,Spain,?,Out,2000,s,laliga
-RCD Espanyol Barcelona,Branko Brnovic,32,Montenegro,Defensive Midfield,DM,-,,Retired,-,Out,2000,s,laliga
-Deportivo de La Coruña,Flávio Conceição,26,Brazil,Central Midfield,CM,-,Real Madrid,Spain,£22.50m,Out,2000,s,laliga
-Deportivo de La Coruña,Pauleta,27,Portugal,Centre-Forward,CF,-,FC Girondins Bordeaux,France,£8.19m,Out,2000,s,laliga
-Deportivo de La Coruña,Gabriel Schürrer,28,Argentina,Centre-Back,CB,-,UD Las Palmas,Spain,£2.43m,Out,2000,s,laliga
-Deportivo de La Coruña,Slavisa Jokanovic,32,Serbia,Defensive Midfield,DM,-,Chelsea FC,England,£1.71m,Out,2000,s,laliga
-Deportivo de La Coruña,Sebastián Abreu,23,Uruguay,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan fee:£720Th.,Out,2000,s,laliga
-Deportivo de La Coruña,David Fernández,24,Spain,Attacking Midfield,AM,-,Airdrie United FC,Scotland,Free transfer,Out,2000,s,laliga
-Deportivo de La Coruña,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,CA Osasuna,Spain,Loan,Out,2000,s,laliga
-Deportivo de La Coruña,Jaime,27,Spain,Defensive Midfield,DM,-,Racing Santander,Spain,Loan,Out,2000,s,laliga
-Deportivo de La Coruña,Iván Pérez,24,Spain,Centre-Forward,CF,-,CD Numancia,Spain,Loan,Out,2000,s,laliga
-Deportivo de La Coruña,Sena,22,Portugal,Right-Back,RB,-,SC Braga,Portugal,?,Out,2000,s,laliga
-Deportivo de La Coruña,José Manuel,26,Spain,Right Midfield,RM,-,SD Compostela,Spain,Loan,Out,2000,s,laliga
-Deportivo de La Coruña,Changui,23,Spain,Centre-Forward,CF,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-Deportivo de La Coruña,Manel,29,Spain,Right-Back,RB,-,CD Numancia,Spain,Loan,Out,2000,s,laliga
-Celta de Vigo,Claude Makélélé,27,France,Defensive Midfield,DM,-,Real Madrid,Spain,£12.60m,Out,2000,s,laliga
-Celta de Vigo,Haim Revivo,28,Israel,Attacking Midfield,AM,-,Fenerbahce SK,Turkey,£4.50m,Out,2000,s,laliga
-Celta de Vigo,Richard Dutruel,27,France,Goalkeeper,GK,-,FC Barcelona,Spain,£3.60m,Out,2000,s,laliga
-Celta de Vigo,Albert Celades,24,Spain,Defensive Midfield,DM,-,Real Madrid,Spain,Free transfer,Out,2000,s,laliga
-Celta de Vigo,Marko Pantelic,21,Serbia,Centre-Forward,CF,-,Yverdon-Sport FC,Switzerland,Loan,Out,2000,s,laliga
-Celta de Vigo,Lyuboslav Penev,33,Bulgaria,Centre-Forward,CF,-,CSKA Sofia,Bulgaria,Free transfer,Out,2000,s,laliga
-Celta de Vigo,Mazinho,34,Brazil,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2000,s,laliga
-Celta de Vigo,José María Mena,21,Spain,Centre-Forward,CF,-,CD Badajoz,Spain,?,Out,2000,s,laliga
-Celta de Vigo,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Real Valladolid CF,Spain,Loan,Out,2000,s,laliga
-Celta de Vigo,Rick Hoogendorp,25,Netherlands,Centre-Forward,CF,-,RKC Waalwijk,Netherlands,"End of loanJun 30, 2000",Out,2000,s,laliga
-Valencia CF,Claudio López,25,Argentina,Second Striker,SS,-,SS Lazio,Italy,£20.70m,Out,2000,s,laliga
-Valencia CF,Gerard López,21,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£19.44m,Out,2000,s,laliga
-Valencia CF,Francisco Farinós,22,Spain,Defensive Midfield,DM,-,FC Internazionale,Italy,£14.63m,Out,2000,s,laliga
-Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,Loan fee:£360Th.,Out,2000,s,laliga
-Valencia CF,Curro Torres,23,Spain,Right-Back,RB,-,CD Tenerife,Spain,Loan,Out,2000,s,laliga
-Valencia CF,Goran Vlaovic,27,Croatia,Centre-Forward,CF,-,Panathinaikos Athens,Greece,Free transfer,Out,2000,s,laliga
-Valencia CF,Javi Navarro,26,Spain,Centre-Back,CB,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-Valencia CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-Valencia CF,Alain Roche,32,France,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,Out,2000,s,laliga
-Valencia CF,Óscar García,27,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,?,Out,2000,s,laliga
-Valencia CF,Miguel Ángel Soria,26,Spain,Defender,Defender,-,CD Numancia,Spain,?,Out,2000,s,laliga
-Valencia CF,Paco Camarasa,32,Spain,Centre-Back,CB,-,Valencia Mestalla,Spain,-,Out,2000,s,laliga
-Villarreal CF,José Manuel Roca,24,Spain,Goalkeeper,GK,-,CD Onda,Spain,Free transfer,Out,2000,s,laliga
-Villarreal CF,Xavi Jiménez,21,Spain,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2000,s,laliga
-Villarreal CF,Manolo Alfaro,29,Spain,Centre-Forward,CF,-,Real Murcia CF,Spain,Free transfer,Out,2000,s,laliga
-Villarreal CF,Wálter Gaitán,23,Argentina,Attacking Midfield,AM,-,Club Atlético Boca Juniors,Argentina,?,Out,2000,s,laliga
-Villarreal CF,Carlos Isach,21,Spain,Midfielder,Midfielder,-,CD Onda,Spain,?,Out,2000,s,laliga
-Villarreal CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Valencia CF,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Villarreal CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Málaga CF,Catanha,28,Brazil,Centre-Forward,CF,-,Celta de Vigo,Spain,£12.98m,Out,2000,s,laliga
-Málaga CF,Javier Sanchez Broto,28,Spain,Goalkeeper,GK,-,Airdrieonians (liq.),Scotland,Free transfer,Out,2000,s,laliga
-Málaga CF,Emmanuel Dorado,27,France,Centre-Back,CB,-,Córdoba CF,Spain,?,Out,2000,s,laliga
-Málaga CF,Gonzalo de los Santos,23,Uruguay,Defensive Midfield,DM,-,Valencia CF,Spain,?,Out,2000,s,laliga
-Málaga CF,Dragoje Lekovic,32,Serbia,Goalkeeper,GK,-,Dundalk FC,Ireland,?,Out,2000,s,laliga
-Málaga CF,Albert Luque,22,Spain,Left Winger,LW,-,RCD Mallorca,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Deportivo Alavés,Àngel Morales,24,Spain,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,£180Th.,Out,2000,s,laliga
-Deportivo Alavés,Víctor Torres Mestre,29,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga
-Deportivo Alavés,Meho Kodro,33,Bosnia-Herzegovina,Centre-Forward,CF,-,Maccabi Tel Aviv,Israel,?,Out,2000,s,laliga
-Deportivo Alavés,Julio Salinas,38,Spain,Centre-Forward,CF,-,,Retired,-,Out,2000,s,laliga
-Deportivo Alavés,Nan Ribera,25,Spain,Midfielder,Midfielder,-,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-CD Numancia,Alberto Belsué,32,Spain,Right-Back,RB,-,Iraklis Thessaloniki,Greece,Free transfer,Out,2000,s,laliga
-CD Numancia,Fabrice Moreau,32,Cameroon,Midfielder,Midfielder,-,Airdrieonians (liq.),Scotland,Free transfer,Out,2000,s,laliga
-CD Numancia,Roberto Urroz,25,Spain,Goalkeeper,GK,-,CD Calahorra,Spain,?,Out,2000,s,laliga
-CD Numancia,Iván Rocha,31,Brazil,Left-Back,LB,-,Elche CF,Spain,?,Out,2000,s,laliga
-CD Numancia,Jorge Delgado,24,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,Out,2000,s,laliga
-CD Numancia,Raúl Muñoz,25,Chile,Left-Back,LB,-,CSD Colo Colo,Chile,?,Out,2000,s,laliga
-CD Numancia,Jorge Pérez,24,Spain,Central Midfield,CM,-,CF Extremadura,Spain,?,Out,2000,s,laliga
-CD Numancia,Javier Castaño,27,Spain,Central Midfield,CM,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga
-CD Numancia,Alberto Rivera,22,Spain,Central Midfield,CM,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-CD Numancia,Jandro,21,Spain,Attacking Midfield,AM,-,Valencia Mestalla,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga
-Real Oviedo,Julio Dely Valdés,33,Panama,Centre-Forward,CF,-,Málaga CF,Spain,Free transfer,Out,2000,s,laliga
-Real Oviedo,Roberto Pompei,30,Argentina,Left Midfield,LM,-,Club Estudiantes de La Plata,Argentina,?,Out,2000,s,laliga
-Real Oviedo,Nacho Rodríguez,17,Spain,Centre-Forward,CF,-,Racing de Santander B,Spain,?,Out,2000,s,laliga
-Real Oviedo,Óscar Álvarez,23,Spain,Centre-Back,CB,-,Unió Esportiva Lleida,Spain,Loan,Out,2000,s,laliga
-Real Oviedo,Iván Iglesias,28,Spain,Central Midfield,CM,-,Rayo Vallecano,Spain,?,Out,2000,s,laliga
-Real Oviedo,Paulo Bento,31,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,2000,s,laliga
-Real Oviedo,Mateo Corbo,24,Uruguay,Left-Back,LB,-,Barnsley FC,England,?,Out,2000,s,laliga
-Real Oviedo,Xabier Eskurza,30,Spain,Central Midfield,CM,-,,Retired,-,Out,2000,s,laliga
-Real Zaragoza,Juan Esnáider,27,Argentina,Centre-Forward,CF,-,Juventus FC,Italy,£1.35m,In,2000,w,laliga
-Real Zaragoza,Sergey Gurenko,28,Belarus,Right-Back,RB,-,AS Roma,Italy,Loan fee:£324Th.,In,2000,w,laliga
-RCD Mallorca,Josemi,24,Spain,Forward,Forward,-,Unió Esportiva Lleida,Spain,?,In,2000,w,laliga
-CA Osasuna,Gerardo,26,Spain,Right-Back,RB,-,Valencia CF,Spain,Loan,In,2000,w,laliga
-Rayo Vallecano,Gustavo Bartelt,26,Argentina,Centre-Forward,CF,-,Aston Villa,England,?,In,2000,w,laliga
-Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,CA Osasuna,Spain,"End of loanDec 1, 2000",In,2000,w,laliga
-Real Madrid,Júlio César,22,Brazil,Centre-Back,CB,-,Milan AC,Italy,"End of loanDec 31, 2000",In,2000,w,laliga
-Racing Santander,Luis Miguel Ramis,30,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,In,2000,w,laliga
-Racing Santander,Juan Cárdenas,22,Argentina,Left-Back,LB,-,Club Atlético Unión,Argentina,Loan,In,2000,w,laliga
-Racing Santander,Javier Mazzoni,28,Argentina,Centre-Forward,CF,-,FC Lausanne-Sport,Switzerland,?,In,2000,w,laliga
-Racing Santander,Nacho Rodríguez,18,Spain,Centre-Forward,CF,-,Racing de Santander B,Spain,-,In,2000,w,laliga
-Real Sociedad,Giorgi Demetradze,24,Georgia,Centre-Forward,CF,-,Dynamo Kyiv,Ukraine,£4.86m,In,2000,w,laliga
-Real Sociedad,Edgaras Jankauskas,25,Lithuania,Centre-Forward,CF,-,Club Brugge KV,Belgium,£2.07m,In,2000,w,laliga
-Real Sociedad,Júlio César,22,Brazil,Centre-Back,CB,-,Real Madrid,Spain,Loan,In,2000,w,laliga
-Real Sociedad,Xabi Alonso,19,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,"End of loanDec 31, 2000",In,2000,w,laliga
-Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,FC Toulouse,France,"End of loanDec 30, 2000",In,2000,w,laliga
-RCD Espanyol Barcelona,Delio Toledo,24,Paraguay,Left-Back,LB,-,Club Cerro Porteño,Paraguay,?,In,2000,w,laliga
-RCD Espanyol Barcelona,Akinori Nishizawa,24,Japan,Centre-Forward,CF,-,Cerezo Osaka,Japan,?,In,2000,w,laliga
-RCD Espanyol Barcelona,Jordi Lardín,27,Spain,Left Winger,LW,-,Atlético Madrid,Spain,Loan,In,2000,w,laliga
-Deportivo de La Coruña,Wálter Pandiani,24,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,£630Th.,In,2000,w,laliga
-Deportivo de La Coruña,José Manuel,27,Spain,Right Midfield,RM,-,SD Compostela,Spain,"End of loanDec 1, 2000",In,2000,w,laliga
-Celta de Vigo,Eduardo Berizzo,31,Argentina,Centre-Back,CB,-,Club Atlético River Plate,Argentina,?,In,2000,w,laliga
-Celta de Vigo,Juan Jayo,27,Peru,Defensive Midfield,DM,-,Club Atlético Unión,Argentina,?,In,2000,w,laliga
-Valencia CF,Pablo Aimar,21,Argentina,Attacking Midfield,AM,-,Club Atlético River Plate,Argentina,£19.13m,In,2000,w,laliga
-Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,"End of loanDec 31, 2000",In,2000,w,laliga
-Villarreal CF,Martín Palermo,27,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,£6.84m,In,2000,w,laliga
-Villarreal CF,Gustavo Barros Schelotto,27,Argentina,Central Midfield,CM,-,Club Atlético Boca Juniors,Argentina,£720Th.,In,2000,w,laliga
-Málaga CF,Martín Rivas,23,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2000,w,laliga
-Deportivo Alavés,Pablo Brandán,17,Argentina,Central Midfield,CM,-,Club Atlético Huracán,Argentina,?,In,2000,w,laliga
-CD Numancia,Iván Casquero,21,Spain,Midfielder,Midfielder,-,SD Eibar,Spain,?,In,2000,w,laliga
-CD Numancia,Mikel Antía,27,Spain,Centre-Back,CB,-,Real Sociedad,Spain,?,In,2000,w,laliga
-CD Numancia,José Manuel,27,Spain,Right Midfield,RM,-,Deportivo de La Coruña,Spain,Loan,In,2000,w,laliga
-Real Oviedo,Stan Collymore,30,England,Centre-Forward,CF,-,Bradford City,England,Free transfer,In,2000,w,laliga
-FC Barcelona,Ronald de Boer,30,Netherlands,Right Winger,RW,-,Rangers FC,Scotland,£4.95m,Out,2000,w,laliga
-FC Barcelona,Winston Bogarde,30,Netherlands,Centre-Back,CB,-,Chelsea FC,England,Free transfer,Out,2000,w,laliga
-FC Barcelona,Jari Litmanen,29,Finland,Attacking Midfield,AM,-,Liverpool FC,England,Free transfer,Out,2000,w,laliga
-FC Barcelona,Mikel Arteta,18,Spain,Central Midfield,CM,-,Paris Saint-Germain,France,Loan,Out,2000,w,laliga
-Real Zaragoza,Vladislav Radimov,25,Russia,Central Midfield,CM,-,Levski Sofia,Bulgaria,Free transfer,Out,2000,w,laliga
-Real Zaragoza,Fernando de Ornelas,24,Venezuela,Right Winger,RW,-,Celtic FC,Scotland,?,Out,2000,w,laliga
-RCD Mallorca,Jovan Stankovic,29,Serbia,Left Midfield,LM,-,Olympique Marseille,France,£6.17m,Out,2000,w,laliga
-CA Osasuna,Aitor Fresán,24,Spain,Defender,Defender,-,Albacete Balompié,Spain,?,Out,2000,w,laliga
-CA Osasuna,Sergey Shustikov,30,Russia,Centre-Back,CB,-,Torpedo-ZiL Moskau,Russia,?,Out,2000,w,laliga
-CA Osasuna,Carlos Llorens,31,Spain,Left-Back,LB,-,Rayo Vallecano,Spain,"End of loanDec 1, 2000",Out,2000,w,laliga
-Rayo Vallecano,Javier Yubero,28,Spain,Goalkeeper,GK,-,Amurrio Club,Spain,?,Out,2000,w,laliga
-Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,Atlético Madrid,Spain,?,Out,2000,w,laliga
-Real Madrid,Júlio César,22,Brazil,Centre-Back,CB,-,Real Sociedad,Spain,Loan,Out,2000,w,laliga
-Real Madrid,Júlio César,21,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan,Out,2000,w,laliga
-Real Madrid,Luis Liendo,22,Bolivia,Central Midfield,CM,-,The Strongest La Paz,Bolivia,?,Out,2000,w,laliga
-UD Las Palmas,Thórdur Gudjónsson,27,Iceland,Right Winger,RW,-,Derby County,England,Loan,Out,2000,w,laliga
-UD Las Palmas,Álex Castro,26,Spain,Central Midfield,CM,-,CD Tenerife,Spain,?,Out,2000,w,laliga
-UD Las Palmas,Oktay Derelioglu,25,Turkey,Centre-Forward,CF,-,Trabzonspor,Turkey,?,Out,2000,w,laliga
-Athletic Bilbao,David Karanka,22,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,Loan,Out,2000,w,laliga
-Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,SD Eibar,Spain,Loan,Out,2000,w,laliga
-Real Sociedad,Mikel Antía,27,Spain,Centre-Back,CB,-,CD Numancia,Spain,?,Out,2000,w,laliga
-Real Sociedad,Arif Erdem,28,Turkey,Centre-Forward,CF,-,Galatasaray SK,Turkey,?,Out,2000,w,laliga
-Real Sociedad,Sergio Francisco,21,Spain,Centre-Forward,CF,-,SD Eibar,Spain,Loan,Out,2000,w,laliga
-RCD Espanyol Barcelona,Mauricio Pochettino,28,Argentina,Centre-Back,CB,-,Paris Saint-Germain,France,?,Out,2000,w,laliga
-RCD Espanyol Barcelona,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2000,w,laliga
-RCD Espanyol Barcelona,Manel,27,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,Loan,Out,2000,w,laliga
-RCD Espanyol Barcelona,César Santis,21,Chile,Left-Back,LB,-,Real Murcia CF,Spain,?,Out,2000,w,laliga
-Deportivo de La Coruña,Slavisa Jokanovic,32,Serbia,Defensive Midfield,DM,-,Chelsea FC,England,£1.71m,Out,2000,w,laliga
-Deportivo de La Coruña,José Manuel,27,Spain,Right Midfield,RM,-,CD Numancia,Spain,Loan,Out,2000,w,laliga
-Deportivo de La Coruña,Renaldo,30,Brazil,Centre-Forward,CF,-,Unió Esportiva Lleida,Spain,?,Out,2000,w,laliga
-Deportivo de La Coruña,Luis Miguel Ramis,30,Spain,Centre-Back,CB,-,Racing Santander,Spain,?,Out,2000,w,laliga
-Valencia CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Elche CF,Spain,Loan,Out,2000,w,laliga
-Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Atlético Madrid,Spain,Loan,Out,2000,w,laliga
-Valencia CF,Gerardo,26,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,2000,w,laliga
-Valencia CF,Jorge Bartual,29,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,Out,2000,w,laliga
-Villarreal CF,Bruno Marioni,25,Argentina,Left Winger,LW,-,Club Atlético Independiente,Argentina,?,Out,2000,w,laliga
-Deportivo Alavés,Josete,30,Spain,Defender,Defender,-,Unió Esportiva Lleida,Spain,?,Out,2000,w,laliga
-CD Numancia,Tito,29,Spain,Defensive Midfield,DM,-,Real Jaén CF,Spain,Loan,Out,2000,w,laliga
-CD Numancia,Dani Mayo,28,Argentina,Centre-Back,CB,-,Cartagonova FC,Spain,?,Out,2000,w,laliga
-CD Numancia,Constantin Barbu,29,Romania,Attacking Midfield,AM,-,FC Rapid 1923,Romania,?,Out,2000,w,laliga
-Real Oviedo,Gert Claessens,28,Belgium,Left Midfield,LM,-,Vitesse Arnhem,Netherlands,£689Th.,Out,2000,w,laliga
-Real Oviedo,Albert Nadj,26,Serbia,Defensive Midfield,DM,-,Elche CF,Spain,Loan,Out,2000,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+FC Barcelona,Marc Overmars,27,Netherlands,Left Winger,LW,-,Arsenal FC,England,£36.00m,In,2000,s,laliga,https://www.transfermarkt.co.uk/marc-overmars/profil/spieler/3513
+FC Barcelona,Gerard López,21,Spain,Central Midfield,CM,-,Valencia CF,Spain,£19.44m,In,2000,s,laliga,https://www.transfermarkt.co.uk/gerard-lopez/profil/spieler/7599
+FC Barcelona,Alfonso,27,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,£14.85m,In,2000,s,laliga,https://www.transfermarkt.co.uk/alfonso/profil/spieler/7933
+FC Barcelona,Emmanuel Petit,29,France,Defensive Midfield,DM,-,Arsenal FC,England,£13.50m,In,2000,s,laliga,https://www.transfermarkt.co.uk/emmanuel-petit/profil/spieler/3166
+FC Barcelona,Richard Dutruel,27,France,Goalkeeper,GK,-,Celta de Vigo,Spain,£3.60m,In,2000,s,laliga,https://www.transfermarkt.co.uk/richard-dutruel/profil/spieler/6723
+FC Barcelona,Iván De La Peña,24,Spain,Attacking Midfield,AM,-,SS Lazio,Italy,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-de-la-pena/profil/spieler/8037
+FC Barcelona,Sergio Santamaría,19,Spain,Right Winger,RW,-,FC Barcelona B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-santamaria/profil/spieler/9753
+FC Barcelona,Mikel Arteta,18,Spain,Central Midfield,CM,-,FC Barcelona B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+FC Barcelona,Pepe Reina,17,Spain,Goalkeeper,GK,-,FC Barcelona B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/pepe-reina/profil/spieler/7825
+FC Barcelona,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,AEK Athens,Greece,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/dragan-ciric/profil/spieler/7812
+FC Barcelona,Samuel Okunowo,21,Nigeria,Right-Back,RB,-,SL Benfica,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/samuel-okunowo/profil/spieler/3517
+FC Barcelona,Luis García,22,Spain,Right Winger,RW,-,CD Toledo,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/7920
+Real Zaragoza,Miguel Rebosio,23,Peru,Centre-Back,CB,-,Sporting Cristal Lima,Peru,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/miguel-rebosio/profil/spieler/7910
+Real Zaragoza,Fernando de Ornelas,23,Venezuela,Right Winger,RW,-,Deportivo Italchacao,Venezuela,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/fernando-de-ornelas/profil/spieler/5195
+Real Zaragoza,Daniel Montenegro,21,Argentina,Attacking Midfield,AM,-,Olympique Marseille,France,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/daniel-montenegro/profil/spieler/25020
+Real Zaragoza,Alen Peternac,28,Croatia,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/alen-peternac/profil/spieler/7981
+Real Zaragoza,César Jiménez,22,Spain,Centre-Back,CB,-,Real Zaragoza B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/cesar-jimenez/profil/spieler/26151
+Real Zaragoza,Cani,18,Spain,Attacking Midfield,AM,-,Real Zaragoza B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/cani/profil/spieler/7983
+RCD Mallorca,Finidi George,29,Nigeria,Right Winger,RW,-,Real Betis Balompié,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/finidi-george/profil/spieler/13241
+RCD Mallorca,Marcos Martín,31,Spain,Defensive Midfield,DM,-,Mérida UD,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/marcos-martin/profil/spieler/7683
+RCD Mallorca,Albert Riera,18,Spain,Left Winger,LW,-,RCD Mallorca B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/albert-riera/profil/spieler/7373
+RCD Mallorca,Miki,24,Spain,Goalkeeper,GK,-,RCD Mallorca B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/miki/profil/spieler/7670
+RCD Mallorca,Albert Luque,22,Spain,Left Winger,LW,-,Málaga CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/albert-luque/profil/spieler/7506
+RCD Mallorca,Ariel López,26,Argentina,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/ariel-lopez/profil/spieler/51083
+CA Osasuna,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/nuno-espirito-santo/profil/spieler/9827
+CA Osasuna,Leandro Sena,23,Brazil,Central Midfield,CM,-,Mérida UD,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/leandro-sena/profil/spieler/52691
+CA Osasuna,Leonel Gancedo,29,Argentina,Central Midfield,CM,-,Club Atlético River Plate,Argentina,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/leonel-gancedo/profil/spieler/7733
+CA Osasuna,Carlos Llorens,31,Spain,Left-Back,LB,-,Rayo Vallecano,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-llorens/profil/spieler/71929
+CA Osasuna,Risto Vidakovic,31,Serbia,Centre-Back,CB,-,Real Betis Balompié,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/risto-vidakovic/profil/spieler/167530
+CA Osasuna,Aitor Ocio,23,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/aitor-ocio/profil/spieler/7615
+CA Osasuna,Ángel Lekunberri,30,Spain,Midfielder,Midfielder,-,SD Compostela,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/angel-lekunberri/profil/spieler/7734
+CA Osasuna,Javier Delgado,20,Spain,Centre-Back,CB,-,FC Sion,Switzerland,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/javier-delgado/profil/spieler/7996
+CA Osasuna,Mariano Armentano,25,Argentina,Centre-Forward,CF,-,Elche CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/mariano-armentano/profil/spieler/167507
+CA Osasuna,Ángel Rodríguez,28,Spain,Midfielder,Midfielder,-,Sevilla FC,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/angel-rodriguez/profil/spieler/71978
+CA Osasuna,Francisco Jusué,20,Spain,Centre-Back,CB,-,CA Osasuna Promesas,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/francisco-jusue/profil/spieler/7727
+CA Osasuna,Mikel Pagola,18,Spain,Goalkeeper,GK,-,CA Osasuna U19,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/mikel-pagola/profil/spieler/7720
+CA Osasuna,Sabino Sánchez,22,Spain,Centre-Forward,CF,-,CD Badajoz,Spain,,In,2000,s,laliga,https://www.transfermarkt.co.uk/sabino-sanchez/profil/spieler/71037
+CA Osasuna,Patxi Puñal,24,Spain,Defensive Midfield,DM,-,CD Leganés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/patxi-punal/profil/spieler/7739
+CA Osasuna,Manuel Almunia,23,Spain,Goalkeeper,GK,-,Cartagonova FC,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-almunia/profil/spieler/16621
+Real Valladolid CF,Antonio López,20,Spain,Left Midfield,LM,-,CD Leganés,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/antonio-lopez/profil/spieler/51402
+Real Valladolid CF,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,FC Barcelona,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/dragan-ciric/profil/spieler/7812
+Real Valladolid CF,Fernando Sales,22,Spain,Right Winger,RW,-,Levante UD,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/fernando-sales/profil/spieler/7814
+Real Valladolid CF,Sergio Pachón,23,Spain,Centre-Forward,CF,-,CD Leganés,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-pachon/profil/spieler/7823
+Real Valladolid CF,Jesús Sánchez,25,Spain,Defensive Midfield,DM,-,Levante UD,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/jesus-sanchez/profil/spieler/7816
+Real Valladolid CF,Jon Ander,23,Spain,Goalkeeper,GK,-,SD Eibar,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/jon-ander/profil/spieler/7798
+Real Valladolid CF,Fernando,21,Spain,Attacking Midfield,AM,-,Real Madrid,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/15721
+Real Valladolid CF,Cuauhtémoc Blanco,27,Mexico,Second Striker,SS,-,CF América,Mexico,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/cuauhtemoc-blanco/profil/spieler/28066
+Real Valladolid CF,Albano Bizzarri,22,Argentina,Goalkeeper,GK,-,Real Madrid,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/albano-bizzarri/profil/spieler/7797
+Real Valladolid CF,Pablo Ricchetti,23,Argentina,Right Midfield,RM,-,Club Atlético Colón,Argentina,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-ricchetti/profil/spieler/7819
+Real Valladolid CF,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Celta de Vigo,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-kaviedes/profil/spieler/7561
+Real Valladolid CF,Raúl Ibáñez,27,Spain,Forward,Forward,-,Elche CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/raul-ibanez/profil/spieler/187831
+Rayo Vallecano,Elvir Bolic,28,Bosnia-Herzegovina,Centre-Forward,CF,-,Fenerbahce SK,Turkey,£1.80m,In,2000,s,laliga,https://www.transfermarkt.co.uk/elvir-bolic/profil/spieler/6867
+Rayo Vallecano,Ramón de Quintana,28,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ramon-de-quintana/profil/spieler/29130
+Rayo Vallecano,Urbano,25,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/urbano/profil/spieler/35800
+Rayo Vallecano,Josep Setvalls,25,Spain,Midfielder,Midfielder,-,UE Lleida (liq.),Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/josep-setvalls/profil/spieler/167941
+Rayo Vallecano,Mauro García,29,Spain,Right-Back,RB,-,SD Compostela,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/mauro-garcia/profil/spieler/172347
+Rayo Vallecano,Patxi Ferreira,33,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Rayo Vallecano,Mami Quevedo,31,Spain,Central Midfield,CM,-,Sevilla FC,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/mami-quevedo/profil/spieler/172351
+Rayo Vallecano,Mingo,23,Spain,Left-Back,LB,-,Sporting Gijón,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/mingo/profil/spieler/7649
+Rayo Vallecano,Gláucio,24,Brazil,Attacking Midfield,AM,-,América Football Club (RJ),Brazil,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/glaucio/profil/spieler/27356
+Rayo Vallecano,Iván Iglesias,28,Spain,Central Midfield,CM,-,Real Oviedo,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-iglesias/profil/spieler/184337
+Rayo Vallecano,Javier Camuñas,19,Spain,Right Winger,RW,-,Rayo Vallecano B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/javier-camunas/profil/spieler/29170
+Rayo Vallecano,Sergio Mora,20,Spain,Central Midfield,CM,-,Rayo Vallecano B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-mora/profil/spieler/62611
+Rayo Vallecano,Sergio Segura,22,Spain,Goalkeeper,GK,-,UD San Sebastián de los Reyes,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-segura/profil/spieler/75249
+Real Madrid,Luís Figo,27,Portugal,Right Winger,RW,-,FC Barcelona,Spain,£54.00m,In,2000,s,laliga,https://www.transfermarkt.co.uk/luis-figo/profil/spieler/3446
+Real Madrid,Flávio Conceição,26,Brazil,Central Midfield,CM,-,Deportivo de La Coruña,Spain,£22.50m,In,2000,s,laliga,https://www.transfermarkt.co.uk/flavio-conceicao/profil/spieler/7279
+Real Madrid,Claude Makélélé,27,France,Defensive Midfield,DM,-,Celta de Vigo,Spain,£12.60m,In,2000,s,laliga,https://www.transfermarkt.co.uk/claude-makelele/profil/spieler/4182
+Real Madrid,Pedro Munitis,25,Spain,Second Striker,SS,-,Racing Santander,Spain,£9.45m,In,2000,s,laliga,https://www.transfermarkt.co.uk/pedro-munitis/profil/spieler/7864
+Real Madrid,César Sánchez,28,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,£5.63m,In,2000,s,laliga,https://www.transfermarkt.co.uk/cesar-sanchez/profil/spieler/7510
+Real Madrid,Santiago Solari,23,Argentina,Left Midfield,LM,-,Atlético Madrid,Spain,£3.15m,In,2000,s,laliga,https://www.transfermarkt.co.uk/santiago-solari/profil/spieler/7527
+Real Madrid,Albert Celades,24,Spain,Defensive Midfield,DM,-,Celta de Vigo,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/albert-celades/profil/spieler/7521
+Real Madrid,Javier Portillo,18,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/javier-portillo/profil/spieler/7532
+Real Madrid,Alberto Rivera,22,Spain,Central Midfield,CM,-,CD Numancia,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/alberto-rivera/profil/spieler/23306
+Real Madrid,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Rayo Vallecano,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Real Madrid,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Real Valladolid CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/edwin-congo/profil/spieler/23189
+Real Madrid,Tote,21,Spain,Attacking Midfield,AM,-,SL Benfica,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/tote/profil/spieler/7535
+UD Las Palmas,Oktay Derelioglu,24,Turkey,Centre-Forward,CF,-,Siirt Jetpa Spor,Turkey,£2.70m,In,2000,s,laliga,https://www.transfermarkt.co.uk/oktay-derelioglu/profil/spieler/4752
+UD Las Palmas,Gabriel Schürrer,28,Argentina,Centre-Back,CB,-,Deportivo de La Coruña,Spain,£2.43m,In,2000,s,laliga,https://www.transfermarkt.co.uk/gabriel-schurrer/profil/spieler/7466
+UD Las Palmas,Thórdur Gudjónsson,26,Iceland,Right Winger,RW,-,KRC Genk,Belgium,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/thordur-gudjonsson/profil/spieler/1600
+UD Las Palmas,Baiano,22,Brazil,Right-Back,RB,-,Santos FC,Brazil,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/baiano/profil/spieler/25068
+UD Las Palmas,Edu Alonso,26,Spain,Right-Back,RB,-,Athletic Bilbao,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/edu-alonso/profil/spieler/29080
+UD Las Palmas,Souleymane Oulare,27,Guinea,Centre-Forward,CF,-,Fenerbahce SK,Turkey,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/souleymane-oulare/profil/spieler/15496
+UD Las Palmas,Álvaro,22,Brazil,Centre-Back,CB,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/alvaro/profil/spieler/15493
+UD Las Palmas,Antonio Moreno,25,Spain,Midfielder,Midfielder,-,CD Badajoz,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/antonio-moreno/profil/spieler/187804
+UD Las Palmas,Ángel López,19,Spain,Right-Back,RB,-,UD Las Palmas B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/angel-lopez/profil/spieler/15500
+UD Las Palmas,Jorge Larena,18,Spain,Central Midfield,CM,-,UD Las Palmas B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/jorge-larena/profil/spieler/7761
+UD Las Palmas,Nacho González,28,Argentina,Goalkeeper,GK,-,CF Pachuca,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/nacho-gonzalez/profil/spieler/45316
+Athletic Bilbao,Carlos Merino,20,Spain,Attacking Midfield,AM,-,Nottingham Forest,England,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-merino/profil/spieler/7629
+Athletic Bilbao,Pablo Orbaiz,21,Spain,Defensive Midfield,DM,-,CA Osasuna,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-orbaiz/profil/spieler/7633
+Athletic Bilbao,Asier del Horno,19,Spain,Left-Back,LB,-,Bilbao Athletic,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/asier-del-horno/profil/spieler/7617
+Athletic Bilbao,Daniel Aranzubia,20,Spain,Goalkeeper,GK,-,Bilbao Athletic,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/daniel-aranzubia/profil/spieler/7612
+Athletic Bilbao,David Asensio,20,Spain,Second Striker,SS,-,Bilbao Athletic,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/david-asensio/profil/spieler/73225
+Racing Santander,Mehdi Nafti,21,Tunisia,Defensive Midfield,DM,-,FC Toulouse,France,£675Th.,In,2000,s,laliga,https://www.transfermarkt.co.uk/mehdi-nafti/profil/spieler/7862
+Racing Santander,Juanma Delgado,23,Spain,Centre-Back,CB,-,UD Salamanca,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/juanma-delgado/profil/spieler/16148
+Racing Santander,Mario Regueiro,21,Uruguay,Left Winger,LW,-,Club Nacional,Uruguay,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/mario-regueiro/profil/spieler/7871
+Racing Santander,Jaime,27,Spain,Defensive Midfield,DM,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Racing Santander,Julio Álvarez,19,Venezuela,Attacking Midfield,AM,-,Real Madrid B,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/julio-alvarez/profil/spieler/7991
+Racing Santander,Maximiliano Estévez,23,Argentina,Left Winger,LW,-,Racing Club,Argentina,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/maximiliano-estevez/profil/spieler/34378
+Racing Santander,José Moratón,20,Spain,Centre-Back,CB,-,Racing de Santander B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/jose-moraton/profil/spieler/7853
+Real Sociedad,Mattias Asper,26,Sweden,Goalkeeper,GK,-,AIK,Sweden,£2.43m,In,2000,s,laliga,https://www.transfermarkt.co.uk/mattias-asper/profil/spieler/18840
+Real Sociedad,Tayfun Korkut,26,Turkey,Right Midfield,RM,-,Fenerbahce SK,Turkey,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/tayfun-korkut/profil/spieler/3376
+Real Sociedad,Stéphane Collet,28,Madagascar,Right Midfield,RM,-,RC Lens,France,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/stephane-collet/profil/spieler/152741
+Real Sociedad,Frédéric Peiremans,26,Belgium,Defensive Midfield,DM,-,Twente Enschede FC,Netherlands,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/frederic-peiremans/profil/spieler/106918
+Real Sociedad,Arif Erdem,28,Turkey,Centre-Forward,CF,-,Galatasaray SK,Turkey,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/arif-erdem/profil/spieler/3377
+Real Sociedad,Xabi Alonso,18,Spain,Defensive Midfield,DM,-,Real Sociedad U19,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/xabi-alonso/profil/spieler/7476
+Real Sociedad,Igor Gabilondo,21,Spain,Left Midfield,LM,-,Real Sociedad B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/igor-gabilondo/profil/spieler/7471
+RCD Espanyol Barcelona,Àngel Morales,24,Spain,Defensive Midfield,DM,-,Deportivo Alavés,Spain,£180Th.,In,2000,s,laliga,https://www.transfermarkt.co.uk/angel-morales/profil/spieler/7890
+RCD Espanyol Barcelona,Innocent Hamga,19,Cameroon,Defender,Defender,-,FC Barcelona B,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/innocent-hamga/profil/spieler/16596
+RCD Espanyol Barcelona,Óscar García,27,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+RCD Espanyol Barcelona,Alberto Lopo,20,Spain,Centre-Back,CB,-,RCD Espanyol B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/alberto-lopo/profil/spieler/7881
+RCD Espanyol Barcelona,Alfredo Argensó,25,Spain,Goalkeeper,GK,-,RCD Espanyol B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/alfredo-argenso/profil/spieler/172662
+RCD Espanyol Barcelona,Manel,27,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,"End of loanJun 30, 2001",In,2000,s,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/70974
+RCD Espanyol Barcelona,Nan Ribera,25,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/nan-ribera/profil/spieler/185957
+Deportivo de La Coruña,Diego Tristán,24,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,£15.98m,In,2000,s,laliga,https://www.transfermarkt.co.uk/diego-tristan/profil/spieler/7504
+Deportivo de La Coruña,Aldo Duscher,21,Argentina,Defensive Midfield,DM,-,Sporting CP,Portugal,£11.70m,In,2000,s,laliga,https://www.transfermarkt.co.uk/aldo-duscher/profil/spieler/3954
+Deportivo de La Coruña,Émerson,28,Brazil,Defensive Midfield,DM,-,CD Tenerife,Spain,£8.64m,In,2000,s,laliga,https://www.transfermarkt.co.uk/emerson/profil/spieler/8754
+Deportivo de La Coruña,Joan Capdevila,23,Spain,Left-Back,LB,-,Atlético Madrid,Spain,£5.76m,In,2000,s,laliga,https://www.transfermarkt.co.uk/joan-capdevila/profil/spieler/7486
+Deportivo de La Coruña,José Francisco Molina,29,Spain,Goalkeeper,GK,-,Atlético Madrid,Spain,£3.69m,In,2000,s,laliga,https://www.transfermarkt.co.uk/jose-francisco-molina/profil/spieler/7485
+Deportivo de La Coruña,Changui,23,Spain,Centre-Forward,CF,-,SD Compostela,Spain,£2.70m,In,2000,s,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+Deportivo de La Coruña,José Amavisca,29,Spain,Left Midfield,LM,-,Racing Santander,Spain,£1.71m,In,2000,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+Deportivo de La Coruña,César Sampaio,32,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,£810Th.,In,2000,s,laliga,https://www.transfermarkt.co.uk/cesar-sampaio/profil/spieler/103560
+Deportivo de La Coruña,Héctor Berenguel,25,Spain,Right-Back,RB,-,Sevilla FC,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/hector-berenguel/profil/spieler/7490
+Deportivo de La Coruña,Gerardo Seoane,21,Switzerland,Centre-Back,CB,-,AC Bellinzona,Switzerland,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/gerardo-seoane/profil/spieler/4906
+Deportivo de La Coruña,Renaldo,30,Brazil,Centre-Forward,CF,-,UD Las Palmas,Spain,"End of loanJun 1, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/renaldo/profil/spieler/253469
+Deportivo de La Coruña,Sebastián Abreu,23,Uruguay,Centre-Forward,CF,-,Tecos de la UAG,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/sebastian-abreu/profil/spieler/53817
+Deportivo de La Coruña,Hélder Cristóvão,29,Portugal,Centre-Back,CB,-,Newcastle United,England,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/helder-cristovao/profil/spieler/13214
+Deportivo de La Coruña,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,CP Mérida,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/nuno-espirito-santo/profil/spieler/9827
+Celta de Vigo,Catanha,28,Brazil,Centre-Forward,CF,-,Málaga CF,Spain,£12.98m,In,2000,s,laliga,https://www.transfermarkt.co.uk/catanha/profil/spieler/7559
+Celta de Vigo,Yago Yao,21,Equatorial Guinea,Centre-Back,CB,-,Sporting Gijón,Spain,£1.62m,In,2000,s,laliga,https://www.transfermarkt.co.uk/yago-yao/profil/spieler/29098
+Celta de Vigo,Vágner,27,Brazil,Defensive Midfield,DM,-,São Paulo Futebol Clube,Brazil,£450Th.,In,2000,s,laliga,https://www.transfermarkt.co.uk/vagner/profil/spieler/7557
+Celta de Vigo,Doriva,28,Brazil,Right Midfield,RM,-,UC Sampdoria,Italy,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/doriva/profil/spieler/3814
+Celta de Vigo,Pablo Cavallero,26,Argentina,Goalkeeper,GK,-,RCD Espanyol Barcelona,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-cavallero/profil/spieler/7536
+Celta de Vigo,Edú,21,Brazil,Second Striker,SS,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/edutm/profil/spieler/7550
+Celta de Vigo,Francisco Noguerol,23,Spain,Centre-Back,CB,-,Racing Ferrol,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/francisco-noguerol/profil/spieler/29182
+Celta de Vigo,Jesuli,22,Spain,Attacking Midfield,AM,-,Sevilla FC,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/jesuli/profil/spieler/7560
+Celta de Vigo,Manolo Sánchez,24,Spain,Left-Back,LB,-,Sporting Gijón,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/manolo-sanchez/profil/spieler/57907
+Celta de Vigo,Marko Pantelic,21,Serbia,Centre-Forward,CF,-,SK Sturm Graz,Austria,"End of loanJun 1, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/marko-pantelic/profil/spieler/19719
+Celta de Vigo,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Puebla FC,Mexico,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-kaviedes/profil/spieler/7561
+Celta de Vigo,Pablo Couñago,20,Spain,Centre-Forward,CF,-,Recreativo Huelva,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-counago/profil/spieler/13242
+Valencia CF,John Carew,20,Norway,Centre-Forward,CF,-,Rosenborg BK,Norway,£7.65m,In,2000,s,laliga,https://www.transfermarkt.co.uk/john-carew/profil/spieler/3570
+Valencia CF,Zlatko Zahovic,29,Slovenia,Attacking Midfield,AM,-,Olympiacos Piraeus,Greece,£7.20m,In,2000,s,laliga,https://www.transfermarkt.co.uk/zlatko-zahovic/profil/spieler/13234
+Valencia CF,Roberto Ayala,27,Argentina,Centre-Back,CB,-,Milan AC,Italy,£4.50m,In,2000,s,laliga,https://www.transfermarkt.co.uk/roberto-ayala/profil/spieler/7565
+Valencia CF,Vicente,18,Spain,Left Winger,LW,-,Levante UD,Spain,£4.32m,In,2000,s,laliga,https://www.transfermarkt.co.uk/vicente/profil/spieler/7582
+Valencia CF,Didier Deschamps,31,France,Defensive Midfield,DM,-,Chelsea FC,England,£3.15m,In,2000,s,laliga,https://www.transfermarkt.co.uk/didier-deschamps/profil/spieler/75553
+Valencia CF,Fábio Aurélio,20,Brazil,Left-Back,LB,-,São Paulo Futebol Clube,Brazil,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/fabio-aurelio/profil/spieler/7570
+Valencia CF,Diego Alonso,25,Uruguay,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/diego-alonso/profil/spieler/7868
+Valencia CF,Gonzalo de los Santos,23,Uruguay,Defensive Midfield,DM,-,Málaga CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/gonzalo-de-los-santos/profil/spieler/7577
+Valencia CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Villarreal CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Valencia CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Villarreal CF,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/dennis-serban/profil/spieler/7581
+Valencia CF,Curro Torres,23,Spain,Right-Back,RB,-,Recreativo Huelva,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/curro-torres/profil/spieler/7567
+Villarreal CF,Rodolfo Arruabarrena,24,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,£3.78m,In,2000,s,laliga,https://www.transfermarkt.co.uk/rodolfo-arruabarrena/profil/spieler/7827
+Villarreal CF,Sergio Ballesteros,24,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,£3.78m,In,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-ballesteros/profil/spieler/7828
+Villarreal CF,Quique Álvarez,24,Spain,Centre-Back,CB,-,UE Lleida (liq.),Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/quique-alvarez/profil/spieler/7832
+Villarreal CF,Víctor,26,Spain,Centre-Forward,CF,-,Real Valladolid CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/victor/profil/spieler/7846
+Villarreal CF,Guillermo Amor,32,Spain,Central Midfield,CM,-,AC Fiorentina,Italy,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/guillermo-amor/profil/spieler/104046
+Villarreal CF,Bruno Marioni,25,Argentina,Left Winger,LW,-,Club Atlético Independiente,Argentina,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/bruno-marioni/profil/spieler/29465
+Villarreal CF,Unai Vergara,23,Spain,Centre-Back,CB,-,Mérida UD,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/unai-vergara/profil/spieler/7834
+Villarreal CF,Gerard Escoda,28,Spain,Forward,Forward,-,UE Lleida (liq.),Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/gerard-escoda/profil/spieler/184335
+Málaga CF,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Real Madrid,Spain,£2.43m,In,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Málaga CF,Francesc Arnau,25,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,£1.89m,In,2000,s,laliga,https://www.transfermarkt.co.uk/francesc-arnau/profil/spieler/7770
+Málaga CF,Ivan Leko,22,Croatia,Attacking Midfield,AM,-,HNK Hajduk Split,Croatia,£180Th.,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-leko/profil/spieler/7784
+Málaga CF,Julio Dely Valdés,33,Panama,Centre-Forward,CF,-,Real Oviedo,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/julio-dely-valdes/profil/spieler/7793
+Málaga CF,Andrés Pato,19,Spain,Right-Back,RB,-,Levante UD,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/andres-pato/profil/spieler/187805
+Málaga CF,Ariel Zárate,26,Argentina,Attacking Midfield,AM,-,Elche CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ariel-zarate/profil/spieler/29200
+Málaga CF,Josemi,20,Spain,Centre-Back,CB,-,Málaga CF B,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/josemi/profil/spieler/7776
+Málaga CF,Higinio Vilches,18,Spain,Left-Back,LB,-,Málaga CF U19,Spain,-,In,2000,s,laliga,https://www.transfermarkt.co.uk/higinio-vilches/profil/spieler/71152
+Málaga CF,Owusu Afriyie,19,Ghana,Forward,Forward,-,GD Chaves,Portugal,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/owusu-afriyie/profil/spieler/500589
+Deportivo Alavés,Jordi Cruyff,26,Netherlands,Attacking Midfield,AM,-,Manchester United,England,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/jordi-cruyff/profil/spieler/7436
+Deportivo Alavés,Rubén Vega,22,Spain,Centre-Forward,CF,-,Real Sociedad B,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/ruben-vega/profil/spieler/51397
+Deportivo Alavés,Iván Alonso,21,Uruguay,Centre-Forward,CF,-,Atletico River Plate Montevideo,Uruguay,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-alonso/profil/spieler/51583
+Deportivo Alavés,Ivan Tomic,24,Serbia,Defensive Midfield,DM,-,AS Roma,Italy,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-tomic/profil/spieler/5955
+Deportivo Alavés,Delfí Geli,31,Spain,Right-Back,RB,-,Albacete Balompié,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/delfi-geli/profil/spieler/172357
+Deportivo Alavés,Vlatko Djolonga,23,Croatia,Left-Back,LB,-,NK Hrvatski Dragovoljac,Croatia,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/vlatko-djolonga/profil/spieler/15320
+CD Numancia,Carlos Aranda,19,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-aranda/profil/spieler/7841
+CD Numancia,Laurentiu Rosu,24,Romania,Forward,Forward,-,Steaua Bukarest,Romania,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/laurentiu-rosu/profil/spieler/43968
+CD Numancia,Curro Montoya,23,Spain,Defensive Midfield,DM,-,Valencia CF B,Spain,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/curro-montoya/profil/spieler/51508
+CD Numancia,Gustavo,24,Spain,Defender,Defender,-,Atlético Madrid,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/gustavo/profil/spieler/187822
+CD Numancia,Iñaki Hurtado,28,Spain,Midfielder,Midfielder,-,CD Logroñés (liq.),Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/inaki-hurtado/profil/spieler/7984
+CD Numancia,Manel,29,Spain,Right-Back,RB,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/57824
+CD Numancia,Iván Pérez,24,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-perez/profil/spieler/7505
+CD Numancia,David Pirri,26,Spain,Left Midfield,LM,-,UD Las Palmas,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/david-pirri/profil/spieler/7986
+CD Numancia,Claudio Javier Marini,28,Argentina,Defensive Midfield,DM,-,Club Atlético Colón,Argentina,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/claudio-javier-marini/profil/spieler/26733
+CD Numancia,Rafael Clavero,23,Spain,Left-Back,LB,-,Real Madrid B,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/rafael-clavero/profil/spieler/8000
+CD Numancia,Miguel Ángel Soria,26,Spain,Defender,Defender,-,Valencia CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-soria/profil/spieler/160905
+CD Numancia,Dani Mayo,27,Argentina,Centre-Back,CB,-,UD Alzira,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/dani-mayo/profil/spieler/72014
+CD Numancia,José Antonio Culebras,21,Spain,Centre-Back,CB,-,CD Toledo,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/jose-antonio-culebras/profil/spieler/23192
+Real Oviedo,Milan Martinovic,20,Serbia,Centre-Back,CB,-,FK Rad,Serbia,Free transfer,In,2000,s,laliga,https://www.transfermarkt.co.uk/milan-martinovic/profil/spieler/13770
+Real Oviedo,Pedro Dorronsoro,23,Spain,Goalkeeper,GK,-,Torredonjimeno CF,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/pedro-dorronsoro/profil/spieler/72391
+Real Oviedo,Ivo,22,Spain,Midfielder,Midfielder,-,Atlético Madrid,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivotm/profil/spieler/187843
+Real Oviedo,Veljko Paunovic,22,Serbia,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,In,2000,s,laliga,https://www.transfermarkt.co.uk/veljko-paunovic/profil/spieler/7364
+Real Oviedo,Ivo,22,Spain,Defender,Defender,-,,Unknown,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ivotm/profil/spieler/173137
+Real Oviedo,Gaspar Gálvez,20,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/gaspar-galvez/profil/spieler/7367
+Real Oviedo,Rubén Suárez,24,Spain,Forward,Forward,-,SD Eibar,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/ruben-suarez/profil/spieler/71959
+Real Oviedo,Djordje Tomic,27,Serbia,Central Midfield,CM,-,FK Partizan Belgrade,Serbia,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/djordje-tomic/profil/spieler/158077
+Real Oviedo,Oli,28,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,In,2000,s,laliga,https://www.transfermarkt.co.uk/olitm/profil/spieler/29143
+Real Oviedo,Joyce Moreno,25,Panama,Defender,Defender,-,CD Leganés,Spain,"End of loanJun 30, 2000",In,2000,s,laliga,https://www.transfermarkt.co.uk/joyce-moreno/profil/spieler/187840
+FC Barcelona,Luís Figo,27,Portugal,Right Winger,RW,-,Real Madrid,Spain,£54.00m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/luis-figo/profil/spieler/3446
+FC Barcelona,Frédéric Déhu,27,France,Centre-Back,CB,-,Paris Saint-Germain,France,£5.40m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/frederic-dehu/profil/spieler/5552
+FC Barcelona,Francesc Arnau,25,Spain,Goalkeeper,GK,-,Málaga CF,Spain,£1.89m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/francesc-arnau/profil/spieler/7770
+FC Barcelona,Ruud Hesp,34,Netherlands,Goalkeeper,GK,-,Fortuna Sittard,Netherlands,£1.08m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ruud-hesp/profil/spieler/8018
+FC Barcelona,Emmanuel Amunike,29,Nigeria,Left Winger,LW,-,Albacete Balompié,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/emmanuel-amunike/profil/spieler/8062
+FC Barcelona,Dragan Ciric,25,Serbia,Attacking Midfield,AM,-,Real Valladolid CF,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dragan-ciric/profil/spieler/7812
+FC Barcelona,Luis García,22,Spain,Right Winger,RW,-,CD Tenerife,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/7920
+FC Barcelona,Samuel Okunowo,21,Nigeria,Right-Back,RB,-,CD Badajoz,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/samuel-okunowo/profil/spieler/3517
+FC Barcelona,Iván De La Peña,25,Spain,Attacking Midfield,AM,-,SS Lazio,Italy,"End of loanJun 30, 2001",Out,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-de-la-pena/profil/spieler/8037
+Real Zaragoza,Savo Milosevic,26,Serbia,Centre-Forward,CF,-,AC Parma,Italy,£22.50m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/savo-milosevic/profil/spieler/7896
+Real Zaragoza,Álvaro Rubio,21,Spain,Defensive Midfield,DM,-,Albacete Balompié,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/alvaro-rubio/profil/spieler/8323
+Real Zaragoza,Luis Helguera,24,Spain,Defensive Midfield,DM,-,Udinese Calcio,Italy,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/luis-helguera/profil/spieler/16845
+Real Zaragoza,Cani,18,Spain,Attacking Midfield,AM,-,Utebo FC,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/cani/profil/spieler/7983
+Real Zaragoza,Chucho Solana,35,Spain,Left-Back,LB,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/chucho-solana/profil/spieler/180073
+RCD Mallorca,Diego Tristán,24,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,£15.98m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/diego-tristan/profil/spieler/7504
+RCD Mallorca,Laurén,23,Cameroon,Right-Back,RB,-,Arsenal FC,England,£9.63m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/lauren/profil/spieler/3189
+RCD Mallorca,Josep Lluís Martí,25,Spain,Defensive Midfield,DM,-,CD Tenerife,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/josep-lluis-marti/profil/spieler/15955
+RCD Mallorca,Alejandro Marañón,20,Spain,Left-Back,LB,-,Cartagonova FC,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/alejandro-maranon/profil/spieler/15954
+RCD Mallorca,David Castedo,26,Spain,Left-Back,LB,-,Sevilla FC,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/david-castedo/profil/spieler/7695
+RCD Mallorca,Ardijan Djokaj,21,Montenegro,Left Winger,LW,-,UE Lleida (liq.),Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ardijan-djokaj/profil/spieler/34404
+RCD Mallorca,Ariel López,26,Argentina,Centre-Forward,CF,-,Club Atlético Lanús,Argentina,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ariel-lopez/profil/spieler/51083
+RCD Mallorca,Juan José Serrizuela,23,Argentina,Right-Back,RB,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/juan-jose-serrizuela/profil/spieler/17281
+RCD Mallorca,Rogério Gaúcho,20,Brazil,Centre-Forward,CF,-,Santos FC,Brazil,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/rogerio-gaucho/profil/spieler/27347
+RCD Mallorca,César Gálvez,26,Spain,Goalkeeper,GK,-,Elche CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/cesar-galvez/profil/spieler/251308
+RCD Mallorca,Jorge Quinteros,25,Argentina,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jorge-quinteros/profil/spieler/83225
+RCD Mallorca,Paco Sanz,27,Spain,Right Midfield,RM,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/paco-sanz/profil/spieler/305217
+CA Osasuna,Petar Vasiljevic,29,Serbia,Centre-Back,CB,-,LR Ahlen,Germany,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/petar-vasiljevic/profil/spieler/966
+CA Osasuna,Moha,22,Morocco,Attacking Midfield,AM,-,Levante UD,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/moha/profil/spieler/7735
+CA Osasuna,Dejan Markovic,27,Serbia,Right Midfield,RM,-,VfB Admira Wacker Mödling,Austria,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dejan-markovic/profil/spieler/2834
+CA Osasuna,Manuel Almunia,23,Spain,Goalkeeper,GK,-,CE Sabadell,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-almunia/profil/spieler/16621
+CA Osasuna,Pablo Orbaiz,21,Spain,Defensive Midfield,DM,-,Athletic Bilbao,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-orbaiz/profil/spieler/7633
+CA Osasuna,Emilio López,34,Spain,Goalkeeper,GK,-,Real Jaén CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/emilio-lopez/profil/spieler/253551
+Real Valladolid CF,César Sánchez,28,Spain,Goalkeeper,GK,-,Real Madrid,Spain,£5.63m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/cesar-sanchez/profil/spieler/7510
+Real Valladolid CF,Rodrigo Fabri,24,Brazil,Central Midfield,CM,-,Sporting CP,Portugal,£810Th.,Out,2000,s,laliga,https://www.transfermarkt.co.uk/rodrigo-fabri/profil/spieler/7352
+Real Valladolid CF,Javi Jiménez,24,Spain,Defensive Midfield,DM,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/javi-jimenez/profil/spieler/7815
+Real Valladolid CF,Manuel Tena,22,Spain,Centre-Back,CB,-,Córdoba CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-tena/profil/spieler/7808
+Real Valladolid CF,Víctor,26,Spain,Centre-Forward,CF,-,Villarreal CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/victor/profil/spieler/7846
+Real Valladolid CF,Orlando,24,Spain,Defender,Defender,-,SD Eibar,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/orlando/profil/spieler/71428
+Real Valladolid CF,Juan Vizcaíno,33,Spain,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/juan-vizcaino/profil/spieler/173141
+Real Valladolid CF,Alen Peternac,28,Croatia,Centre-Forward,CF,-,Real Zaragoza,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/alen-peternac/profil/spieler/7981
+Real Valladolid CF,Jorge Brítez,19,Paraguay,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jorge-britez/profil/spieler/16834
+Real Valladolid CF,Dragan Isailovic,24,Serbia,Centre-Forward,CF,-,Beitar Jerusalem,Israel,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dragan-isailovic/profil/spieler/12066
+Real Valladolid CF,Arilson,27,Brazil,Attacking Midfield,AM,-,Club Universidad de Chile,Chile,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/arilson/profil/spieler/100108
+Real Valladolid CF,Shoji Jo,25,Japan,Centre-Forward,CF,-,Yokohama F. Marinos,Japan,"End of loanAug 1, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/shoji-jo/profil/spieler/156995
+Real Valladolid CF,Chavo Díaz,25,Spain,Defender,Defender,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/chavo-diaz/profil/spieler/310469
+Real Valladolid CF,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/edwin-congo/profil/spieler/23189
+Real Valladolid CF,Carlos Arias,22,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-arias/profil/spieler/71046
+Rayo Vallecano,Sergio Ballesteros,24,Spain,Centre-Back,CB,-,Villarreal CF,Spain,£3.78m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-ballesteros/profil/spieler/7828
+Rayo Vallecano,Dave van den Bergh,24,Netherlands,Left Midfield,LM,-,FC Utrecht,Netherlands,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dave-van-den-bergh/profil/spieler/4479
+Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,CA Osasuna,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-llorens/profil/spieler/71929
+Rayo Vallecano,Eduardo Estibariz,34,Spain,Right-Back,RB,-,CD Aurrera de Vitoria,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/eduardo-estibariz/profil/spieler/154585
+Rayo Vallecano,Juan Carlos Villamayor,31,Paraguay,Right-Back,RB,-,Club Cerro Porteño,Paraguay,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-villamayor/profil/spieler/584873
+Rayo Vallecano,Jean-François Hernandez,31,France,Centre-Back,CB,-,Atlético Madrid,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jean-francois-hernandez/profil/spieler/184336
+Rayo Vallecano,Sergio Mora,20,Spain,Central Midfield,CM,-,CF Gandía,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/sergio-mora/profil/spieler/62611
+Rayo Vallecano,Mingo,23,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/mingo/profil/spieler/7649
+Rayo Vallecano,Martín Mandra,22,Argentina,Left Winger,LW,-,Paniliakos Pyrgos,Greece,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/martin-mandra/profil/spieler/6238
+Rayo Vallecano,Quinzinho,26,Angola,Centre-Forward,CF,-,Desportivo Aves,Portugal,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/quinzinho/profil/spieler/254508
+Rayo Vallecano,Mark Draper,29,England,Attacking Midfield,AM,-,Aston Villa,England,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/mark-draper/profil/spieler/3681
+Rayo Vallecano,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Real Madrid,Nicolas Anelka,21,France,Centre-Forward,CF,-,Paris Saint-Germain,France,£31.05m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/nicolas-anelka/profil/spieler/3226
+Real Madrid,Fernando Redondo,31,Argentina,Defensive Midfield,DM,-,Milan AC,Italy,£15.75m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/fernando-redondo/profil/spieler/5811
+Real Madrid,Christian Karembeu,29,France,Defensive Midfield,DM,-,Middlesbrough FC,England,£7.88m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/christian-karembeu/profil/spieler/9209
+Real Madrid,Manuel Canabal,25,Spain,Centre-Forward,CF,-,Málaga CF,Spain,£2.43m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/manuel-canabal/profil/spieler/7791
+Real Madrid,Júlio César,21,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/2943
+Real Madrid,Harvey Esajas,26,Netherlands,Defender,Defender,-,Zamora CF,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/harvey-esajas/profil/spieler/18511
+Real Madrid,David Aganzo,19,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/david-aganzo/profil/spieler/7821
+Real Madrid,Albano Bizzarri,22,Argentina,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/albano-bizzarri/profil/spieler/7797
+Real Madrid,Elvir Baljic,26,Bosnia-Herzegovina,Left Winger,LW,-,Fenerbahce SK,Turkey,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/elvir-baljic/profil/spieler/6900
+Real Madrid,Edwin Congo,23,Colombia,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/edwin-congo/profil/spieler/23189
+Real Madrid,Fernando,21,Spain,Attacking Midfield,AM,-,Real Valladolid CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/fernando/profil/spieler/15721
+UD Las Palmas,Luis Tevenet,26,Spain,Centre-Forward,CF,-,Sevilla FC,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/luis-tevenet/profil/spieler/22567
+UD Las Palmas,Marcos Sequeiros,26,Spain,Centre-Forward,CF,-,Universidad de Las Palmas,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/marcos-sequeiros/profil/spieler/184350
+UD Las Palmas,David Pirri,26,Spain,Left Midfield,LM,-,CD Numancia,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/david-pirri/profil/spieler/7986
+UD Las Palmas,Jaime Quesada,28,Spain,Right-Back,RB,-,Recreativo Huelva,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jaime-quesada/profil/spieler/184347
+UD Las Palmas,Goyo,20,Spain,Goalkeeper,GK,-,AD Ceuta,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/goyo/profil/spieler/93151
+UD Las Palmas,Pedro Vega,20,Spain,Left Midfield,LM,-,Granada CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/pedro-vega/profil/spieler/51482
+UD Las Palmas,Juan Carlos Socorro,28,Venezuela,Attacking Midfield,AM,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-socorro/profil/spieler/184351
+UD Las Palmas,Renaldo,30,Brazil,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,"End of loanJun 1, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/renaldo/profil/spieler/253469
+Athletic Bilbao,Edu Alonso,26,Spain,Right-Back,RB,-,UD Las Palmas,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/edu-alonso/profil/spieler/29080
+Athletic Bilbao,José Mari,29,Spain,Attacking Midfield,AM,-,CD Leganés,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/154592
+Athletic Bilbao,Patxi Ferreira,33,Spain,Centre-Back,CB,-,Rayo Vallecano,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Athletic Bilbao,Sívori,23,Spain,Centre-Forward,CF,-,Córdoba CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/sivori/profil/spieler/71438
+Racing Santander,Pedro Munitis,25,Spain,Second Striker,SS,-,Real Madrid,Spain,£9.45m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/pedro-munitis/profil/spieler/7864
+Racing Santander,José Amavisca,29,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,£1.71m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+Racing Santander,Salva Ballesta,25,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£1.35m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Racing Santander,Federico Magallanes,23,Uruguay,Centre-Forward,CF,-,Defensor Sporting Club,Uruguay,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/federico-magallanes/profil/spieler/16266
+Racing Santander,Léider Preciado,23,Colombia,Centre-Forward,CF,-,Independiente Santa Fe,Colombia,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/leider-preciado/profil/spieler/74107
+Real Sociedad,Dietmar Kühbauer,29,Austria,Central Midfield,CM,-,VfL Wolfsburg,Germany,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dietmar-kuhbauer/profil/spieler/661
+Real Sociedad,Joseba Llorente,20,Spain,Centre-Forward,CF,-,SD Eibar,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/joseba-llorente/profil/spieler/7480
+Real Sociedad,Juan Gómez,29,Argentina,Defender,Defender,-,Atlético Madrid,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/juan-gomez/profil/spieler/200745
+Real Sociedad,Ricardo Sá Pinto,27,Portugal,Second Striker,SS,-,Sporting CP,Portugal,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ricardo-sa-pinto/profil/spieler/13817
+Real Sociedad,Xabi Alonso,18,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/xabi-alonso/profil/spieler/7476
+Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,FC Toulouse,France,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-javier-barkero/profil/spieler/7468
+Real Sociedad,Iker Sarriegi,26,Spain,Centre-Back,CB,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/iker-sarriegi/profil/spieler/200763
+RCD Espanyol Barcelona,Pablo Cavallero,26,Argentina,Goalkeeper,GK,-,Celta de Vigo,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/pablo-cavallero/profil/spieler/7536
+RCD Espanyol Barcelona,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/enrique-de-lucas/profil/spieler/3172
+RCD Espanyol Barcelona,David Ávila,22,Spain,Forward,Forward,-,CE L’Hospitalet,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/david-avila/profil/spieler/309590
+RCD Espanyol Barcelona,Branko Brnovic,32,Montenegro,Defensive Midfield,DM,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/branko-brnovic/profil/spieler/102964
+Deportivo de La Coruña,Flávio Conceição,26,Brazil,Central Midfield,CM,-,Real Madrid,Spain,£22.50m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/flavio-conceicao/profil/spieler/7279
+Deportivo de La Coruña,Pauleta,27,Portugal,Centre-Forward,CF,-,FC Girondins Bordeaux,France,£8.19m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/pauleta/profil/spieler/3623
+Deportivo de La Coruña,Gabriel Schürrer,28,Argentina,Centre-Back,CB,-,UD Las Palmas,Spain,£2.43m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/gabriel-schurrer/profil/spieler/7466
+Deportivo de La Coruña,Slavisa Jokanovic,32,Serbia,Defensive Midfield,DM,-,Chelsea FC,England,£1.71m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/slavisa-jokanovic/profil/spieler/79065
+Deportivo de La Coruña,Sebastián Abreu,23,Uruguay,Centre-Forward,CF,-,Club Atlético San Lorenzo de Almagro,Argentina,Loan fee:£720Th.,Out,2000,s,laliga,https://www.transfermarkt.co.uk/sebastian-abreu/profil/spieler/53817
+Deportivo de La Coruña,David Fernández,24,Spain,Attacking Midfield,AM,-,Airdrie United FC,Scotland,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/david-fernandez/profil/spieler/9507
+Deportivo de La Coruña,Nuno Espírito Santo,26,Portugal,Goalkeeper,GK,-,CA Osasuna,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/nuno-espirito-santo/profil/spieler/9827
+Deportivo de La Coruña,Jaime,27,Spain,Defensive Midfield,DM,-,Racing Santander,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Deportivo de La Coruña,Iván Pérez,24,Spain,Centre-Forward,CF,-,CD Numancia,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-perez/profil/spieler/7505
+Deportivo de La Coruña,Sena,22,Portugal,Right-Back,RB,-,SC Braga,Portugal,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/sena/profil/spieler/14374
+Deportivo de La Coruña,José Manuel,26,Spain,Right Midfield,RM,-,SD Compostela,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Deportivo de La Coruña,Changui,23,Spain,Centre-Forward,CF,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/changui/profil/spieler/7503
+Deportivo de La Coruña,Manel,29,Spain,Right-Back,RB,-,CD Numancia,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/57824
+Celta de Vigo,Claude Makélélé,27,France,Defensive Midfield,DM,-,Real Madrid,Spain,£12.60m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/claude-makelele/profil/spieler/4182
+Celta de Vigo,Haim Revivo,28,Israel,Attacking Midfield,AM,-,Fenerbahce SK,Turkey,£4.50m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/haim-revivo/profil/spieler/2917
+Celta de Vigo,Richard Dutruel,27,France,Goalkeeper,GK,-,FC Barcelona,Spain,£3.60m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/richard-dutruel/profil/spieler/6723
+Celta de Vigo,Lyuboslav Penev,33,Bulgaria,Centre-Forward,CF,-,CSKA Sofia,Bulgaria,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/lyuboslav-penev/profil/spieler/104053
+Celta de Vigo,Albert Celades,24,Spain,Defensive Midfield,DM,-,Real Madrid,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/albert-celades/profil/spieler/7521
+Celta de Vigo,Marko Pantelic,21,Serbia,Centre-Forward,CF,-,Yverdon-Sport FC,Switzerland,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/marko-pantelic/profil/spieler/19719
+Celta de Vigo,Iván Kaviedes,22,Ecuador,Centre-Forward,CF,-,Real Valladolid CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-kaviedes/profil/spieler/7561
+Celta de Vigo,Mazinho,34,Brazil,Defensive Midfield,DM,-,Elche CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/mazinho/profil/spieler/102588
+Celta de Vigo,José María Mena,21,Spain,Centre-Forward,CF,-,CD Badajoz,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-maria-mena/profil/spieler/29179
+Celta de Vigo,Rick Hoogendorp,25,Netherlands,Centre-Forward,CF,-,RKC Waalwijk,Netherlands,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/rick-hoogendorp/profil/spieler/4508
+Valencia CF,Claudio López,25,Argentina,Second Striker,SS,-,SS Lazio,Italy,£20.70m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/claudio-lopez/profil/spieler/3418
+Valencia CF,Gerard López,21,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£19.44m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/gerard-lopez/profil/spieler/7599
+Valencia CF,Francisco Farinós,22,Spain,Defensive Midfield,DM,-,FC Internazionale,Italy,£14.63m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/francisco-farinos/profil/spieler/5785
+Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,Loan fee:£360Th.,Out,2000,s,laliga,https://www.transfermarkt.co.uk/daniel-fernando-fagiani/profil/spieler/27670
+Valencia CF,Curro Torres,23,Spain,Right-Back,RB,-,CD Tenerife,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/curro-torres/profil/spieler/7567
+Valencia CF,Goran Vlaovic,27,Croatia,Centre-Forward,CF,-,Panathinaikos Athens,Greece,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/goran-vlaovic/profil/spieler/9766
+Valencia CF,Javi Navarro,26,Spain,Centre-Back,CB,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/javi-navarro/profil/spieler/7696
+Valencia CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dennis-serban/profil/spieler/7581
+Valencia CF,Alain Roche,32,France,Centre-Back,CB,-,FC Girondins Bordeaux,France,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/alain-roche/profil/spieler/5372
+Valencia CF,Óscar García,27,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+Valencia CF,Miguel Ángel Soria,26,Spain,Defender,Defender,-,CD Numancia,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/miguel-angel-soria/profil/spieler/160905
+Valencia CF,Paco Camarasa,32,Spain,Centre-Back,CB,-,Valencia CF B,Spain,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/paco-camarasa/profil/spieler/101571
+Villarreal CF,José Manuel Roca,24,Spain,Goalkeeper,GK,-,CD Onda,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-roca/profil/spieler/88487
+Villarreal CF,Xavi Jiménez,21,Spain,Central Midfield,CM,-,Elche CF,Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/xavi-jimenez/profil/spieler/54764
+Villarreal CF,Manolo Alfaro,29,Spain,Centre-Forward,CF,-,Real Murcia CF,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/manolo-alfaro/profil/spieler/221878
+Villarreal CF,Wálter Gaitán,23,Argentina,Attacking Midfield,AM,-,Club Atlético Boca Juniors,Argentina,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/walter-gaitan/profil/spieler/53751
+Villarreal CF,Carlos Isach,21,Spain,Midfielder,Midfielder,-,CD Onda,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/carlos-isach/profil/spieler/7995
+Villarreal CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Valencia CF,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Villarreal CF,Dennis Serban,24,Romania,Central Midfield,CM,-,Valencia CF,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/dennis-serban/profil/spieler/7581
+Málaga CF,Catanha,28,Brazil,Centre-Forward,CF,-,Celta de Vigo,Spain,£12.98m,Out,2000,s,laliga,https://www.transfermarkt.co.uk/catanha/profil/spieler/7559
+Málaga CF,Javier Sanchez Broto,28,Spain,Goalkeeper,GK,-,Airdrieonians (liq.),Scotland,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/javier-sanchez-broto/profil/spieler/8210
+Málaga CF,Emmanuel Dorado,27,France,Centre-Back,CB,-,Córdoba CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/emmanuel-dorado/profil/spieler/13302
+Málaga CF,Gonzalo de los Santos,23,Uruguay,Defensive Midfield,DM,-,Valencia CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/gonzalo-de-los-santos/profil/spieler/7577
+Málaga CF,Dragoje Lekovic,32,Serbia,Goalkeeper,GK,-,Dundalk FC,Ireland,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/dragoje-lekovic/profil/spieler/102692
+Málaga CF,Albert Luque,22,Spain,Left Winger,LW,-,RCD Mallorca,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/albert-luque/profil/spieler/7506
+Deportivo Alavés,Àngel Morales,24,Spain,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,£180Th.,Out,2000,s,laliga,https://www.transfermarkt.co.uk/angel-morales/profil/spieler/7890
+Deportivo Alavés,Víctor Torres Mestre,29,Spain,Left-Back,LB,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/victor-torres-mestre/profil/spieler/171914
+Deportivo Alavés,Meho Kodro,33,Bosnia-Herzegovina,Centre-Forward,CF,-,Maccabi Tel Aviv,Israel,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/meho-kodro/profil/spieler/8012
+Deportivo Alavés,Julio Salinas,38,Spain,Centre-Forward,CF,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/julio-salinas/profil/spieler/8141
+Deportivo Alavés,Nan Ribera,25,Spain,Midfielder,Midfielder,-,RCD Espanyol Barcelona,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/nan-ribera/profil/spieler/185957
+CD Numancia,Alberto Belsué,32,Spain,Right-Back,RB,-,Iraklis Thessaloniki,Greece,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/alberto-belsue/profil/spieler/104031
+CD Numancia,Fabrice Moreau,32,Cameroon,Midfielder,Midfielder,-,Airdrieonians (liq.),Scotland,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/fabrice-moreau/profil/spieler/183078
+CD Numancia,Roberto Urroz,25,Spain,Goalkeeper,GK,-,CD Calahorra,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/roberto-urroz/profil/spieler/309584
+CD Numancia,Iván Rocha,31,Brazil,Left-Back,LB,-,Elche CF,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+CD Numancia,Jorge Delgado,24,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jorge-delgado/profil/spieler/88836
+CD Numancia,Raúl Muñoz,25,Chile,Left-Back,LB,-,CSD Colo Colo,Chile,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/raul-munoz/profil/spieler/298864
+CD Numancia,Jorge Pérez,24,Spain,Central Midfield,CM,-,CF Extremadura,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/jorge-perez/profil/spieler/51413
+CD Numancia,Javier Castaño,27,Spain,Central Midfield,CM,-,Real Betis Balompié,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/javier-castano/profil/spieler/184364
+CD Numancia,Alberto Rivera,22,Spain,Central Midfield,CM,-,Real Madrid,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/alberto-rivera/profil/spieler/23306
+CD Numancia,Jandro,21,Spain,Attacking Midfield,AM,-,Valencia CF B,Spain,"End of loanJun 30, 2000",Out,2000,s,laliga,https://www.transfermarkt.co.uk/jandro/profil/spieler/7553
+Real Oviedo,Julio Dely Valdés,33,Panama,Centre-Forward,CF,-,Málaga CF,Spain,Free transfer,Out,2000,s,laliga,https://www.transfermarkt.co.uk/julio-dely-valdes/profil/spieler/7793
+Real Oviedo,Roberto Pompei,30,Argentina,Left Midfield,LM,-,Club Estudiantes de La Plata,Argentina,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/roberto-pompei/profil/spieler/55217
+Real Oviedo,Nacho Rodríguez,17,Spain,Centre-Forward,CF,-,Racing de Santander B,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/nacho-rodriguez/profil/spieler/72221
+Real Oviedo,Óscar Álvarez,23,Spain,Centre-Back,CB,-,UE Lleida (liq.),Spain,Loan,Out,2000,s,laliga,https://www.transfermarkt.co.uk/oscar-alvarez/profil/spieler/27682
+Real Oviedo,Iván Iglesias,28,Spain,Central Midfield,CM,-,Rayo Vallecano,Spain,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/ivan-iglesias/profil/spieler/184337
+Real Oviedo,Paulo Bento,31,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/paulo-bento/profil/spieler/13826
+Real Oviedo,Mateo Corbo,24,Uruguay,Left-Back,LB,-,Barnsley FC,England,?,Out,2000,s,laliga,https://www.transfermarkt.co.uk/mateo-corbo/profil/spieler/35795
+Real Oviedo,Xabier Eskurza,30,Spain,Central Midfield,CM,-,,Retired,-,Out,2000,s,laliga,https://www.transfermarkt.co.uk/xabier-eskurza/profil/spieler/154584
+Real Zaragoza,Juan Esnáider,27,Argentina,Centre-Forward,CF,-,Juventus FC,Italy,£1.35m,In,2000,w,laliga,https://www.transfermarkt.co.uk/juan-esnaider/profil/spieler/3856
+Real Zaragoza,Sergey Gurenko,28,Belarus,Right-Back,RB,-,AS Roma,Italy,Loan fee:£324Th.,In,2000,w,laliga,https://www.transfermarkt.co.uk/sergey-gurenko/profil/spieler/9627
+RCD Mallorca,Josemi,24,Spain,Forward,Forward,-,UE Lleida (liq.),Spain,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/josemi/profil/spieler/167940
+CA Osasuna,Gerardo,26,Spain,Right-Back,RB,-,Valencia CF,Spain,Loan,In,2000,w,laliga,https://www.transfermarkt.co.uk/gerardo/profil/spieler/7783
+Rayo Vallecano,Gustavo Bartelt,26,Argentina,Centre-Forward,CF,-,Aston Villa,England,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/gustavo-bartelt/profil/spieler/55907
+Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,CA Osasuna,Spain,"End of loanDec 1, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/carlos-llorens/profil/spieler/71929
+Real Madrid,Júlio César,22,Brazil,Centre-Back,CB,-,Milan AC,Italy,"End of loanDec 31, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/2943
+Racing Santander,Juan Cárdenas,22,Argentina,Left-Back,LB,-,Club Atlético Unión,Argentina,Loan,In,2000,w,laliga,https://www.transfermarkt.co.uk/juan-cardenas/profil/spieler/119640
+Racing Santander,Javier Mazzoni,28,Argentina,Centre-Forward,CF,-,FC Lausanne-Sport,Switzerland,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/javier-mazzoni/profil/spieler/173703
+Racing Santander,Luis Miguel Ramis,30,Spain,Centre-Back,CB,-,Deportivo de La Coruña,Spain,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/luis-miguel-ramis/profil/spieler/154986
+Racing Santander,Nacho Rodríguez,18,Spain,Centre-Forward,CF,-,Racing de Santander B,Spain,-,In,2000,w,laliga,https://www.transfermarkt.co.uk/nacho-rodriguez/profil/spieler/72221
+Real Sociedad,Giorgi Demetradze,24,Georgia,Centre-Forward,CF,-,Dynamo Kyiv,Ukraine,£4.86m,In,2000,w,laliga,https://www.transfermarkt.co.uk/giorgi-demetradze/profil/spieler/24002
+Real Sociedad,Edgaras Jankauskas,25,Lithuania,Centre-Forward,CF,-,Club Brugge KV,Belgium,£2.07m,In,2000,w,laliga,https://www.transfermarkt.co.uk/edgaras-jankauskas/profil/spieler/9816
+Real Sociedad,Júlio César,22,Brazil,Centre-Back,CB,-,Real Madrid,Spain,Loan,In,2000,w,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/2943
+Real Sociedad,Xabi Alonso,19,Spain,Defensive Midfield,DM,-,SD Eibar,Spain,"End of loanDec 31, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/xabi-alonso/profil/spieler/7476
+Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,FC Toulouse,France,"End of loanDec 30, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/jose-javier-barkero/profil/spieler/7468
+RCD Espanyol Barcelona,Akinori Nishizawa,24,Japan,Centre-Forward,CF,-,Cerezo Osaka,Japan,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/akinori-nishizawa/profil/spieler/3337
+RCD Espanyol Barcelona,Jordi Lardín,27,Spain,Left Winger,LW,-,Atlético Madrid,Spain,Loan,In,2000,w,laliga,https://www.transfermarkt.co.uk/jordi-lardin/profil/spieler/185953
+RCD Espanyol Barcelona,Delio Toledo,24,Paraguay,Left-Back,LB,-,Club Cerro Porteño,Paraguay,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/delio-toledo/profil/spieler/7969
+Deportivo de La Coruña,Wálter Pandiani,24,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,£630Th.,In,2000,w,laliga,https://www.transfermarkt.co.uk/walter-pandiani/profil/spieler/7691
+Deportivo de La Coruña,José Manuel,27,Spain,Right Midfield,RM,-,SD Compostela,Spain,"End of loanDec 1, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Celta de Vigo,Eduardo Berizzo,31,Argentina,Centre-Back,CB,-,Club Atlético River Plate,Argentina,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/eduardo-berizzo/profil/spieler/7539
+Celta de Vigo,Juan Jayo,27,Peru,Defensive Midfield,DM,-,Club Atlético Unión,Argentina,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/juan-jayo/profil/spieler/30572
+Valencia CF,Pablo Aimar,21,Argentina,Attacking Midfield,AM,-,Club Atlético River Plate,Argentina,£19.13m,In,2000,w,laliga,https://www.transfermarkt.co.uk/pablo-aimar/profil/spieler/3411
+Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Club Atlético Boca Juniors,Argentina,"End of loanDec 31, 2000",In,2000,w,laliga,https://www.transfermarkt.co.uk/daniel-fernando-fagiani/profil/spieler/27670
+Villarreal CF,Martín Palermo,27,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,£6.84m,In,2000,w,laliga,https://www.transfermarkt.co.uk/martin-palermo/profil/spieler/3412
+Villarreal CF,Gustavo Barros Schelotto,27,Argentina,Central Midfield,CM,-,Club Atlético Boca Juniors,Argentina,£720Th.,In,2000,w,laliga,https://www.transfermarkt.co.uk/gustavo-barros-schelotto/profil/spieler/187794
+Málaga CF,Martín Rivas,23,Uruguay,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/martin-rivas/profil/spieler/76526
+Deportivo Alavés,Pablo Brandán,17,Argentina,Central Midfield,CM,-,Club Atlético Huracán,Argentina,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/pablo-brandan/profil/spieler/51711
+CD Numancia,Iván Casquero,21,Spain,Midfielder,Midfielder,-,SD Eibar,Spain,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/ivan-casquero/profil/spieler/75735
+CD Numancia,Mikel Antía,27,Spain,Centre-Back,CB,-,Real Sociedad,Spain,?,In,2000,w,laliga,https://www.transfermarkt.co.uk/mikel-antia/profil/spieler/187820
+CD Numancia,José Manuel,27,Spain,Right Midfield,RM,-,Deportivo de La Coruña,Spain,Loan,In,2000,w,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Real Oviedo,Stan Collymore,30,England,Centre-Forward,CF,-,Bradford City,England,Free transfer,In,2000,w,laliga,https://www.transfermarkt.co.uk/stan-collymore/profil/spieler/106811
+FC Barcelona,Ronald de Boer,30,Netherlands,Right Winger,RW,-,Rangers FC,Scotland,£4.95m,Out,2000,w,laliga,https://www.transfermarkt.co.uk/ronald-de-boer/profil/spieler/3519
+FC Barcelona,Winston Bogarde,30,Netherlands,Centre-Back,CB,-,Chelsea FC,England,Free transfer,Out,2000,w,laliga,https://www.transfermarkt.co.uk/winston-bogarde/profil/spieler/3155
+FC Barcelona,Jari Litmanen,29,Finland,Attacking Midfield,AM,-,Liverpool FC,England,Free transfer,Out,2000,w,laliga,https://www.transfermarkt.co.uk/jari-litmanen/profil/spieler/4675
+FC Barcelona,Mikel Arteta,18,Spain,Central Midfield,CM,-,Paris Saint-Germain,France,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/mikel-arteta/profil/spieler/7451
+Real Zaragoza,Vladislav Radimov,25,Russia,Central Midfield,CM,-,Levski Sofia,Bulgaria,Free transfer,Out,2000,w,laliga,https://www.transfermarkt.co.uk/vladislav-radimov/profil/spieler/15372
+Real Zaragoza,Fernando de Ornelas,24,Venezuela,Right Winger,RW,-,Celtic FC,Scotland,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/fernando-de-ornelas/profil/spieler/5195
+RCD Mallorca,Jovan Stankovic,29,Serbia,Left Midfield,LM,-,Olympique Marseille,France,£6.17m,Out,2000,w,laliga,https://www.transfermarkt.co.uk/jovan-stankovic/profil/spieler/14213
+CA Osasuna,Sergey Shustikov,30,Russia,Defensive Midfield,DM,-,Torpedo-ZiL Moskau,Russia,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/sergey-shustikov/profil/spieler/25659
+CA Osasuna,Aitor Fresán,24,Spain,Defender,Defender,-,Albacete Balompié,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/aitor-fresan/profil/spieler/187826
+CA Osasuna,Carlos Llorens,31,Spain,Left-Back,LB,-,Rayo Vallecano,Spain,"End of loanDec 1, 2000",Out,2000,w,laliga,https://www.transfermarkt.co.uk/carlos-llorens/profil/spieler/71929
+Rayo Vallecano,Carlos Llorens,31,Spain,Left-Back,LB,-,Atlético Madrid,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/carlos-llorens/profil/spieler/71929
+Rayo Vallecano,Javier Yubero,28,Spain,Goalkeeper,GK,-,Amurrio Club,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/javier-yubero/profil/spieler/200765
+Real Madrid,Júlio César,22,Brazil,Centre-Back,CB,-,Real Sociedad,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/2943
+Real Madrid,Júlio César,21,Brazil,Centre-Back,CB,-,Milan AC,Italy,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/julio-cesar/profil/spieler/2943
+Real Madrid,Luis Liendo,22,Bolivia,Central Midfield,CM,-,The Strongest La Paz,Bolivia,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/luis-liendo/profil/spieler/59716
+UD Las Palmas,Thórdur Gudjónsson,27,Iceland,Right Winger,RW,-,Derby County,England,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/thordur-gudjonsson/profil/spieler/1600
+UD Las Palmas,Álex Castro,26,Spain,Central Midfield,CM,-,CD Tenerife,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/alex-castro/profil/spieler/75958
+UD Las Palmas,Oktay Derelioglu,25,Turkey,Centre-Forward,CF,-,Trabzonspor,Turkey,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/oktay-derelioglu/profil/spieler/4752
+Athletic Bilbao,David Karanka,22,Spain,Centre-Forward,CF,-,CF Extremadura,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/david-karanka/profil/spieler/8008
+Real Sociedad,José Javier Barkero,21,Spain,Attacking Midfield,AM,-,SD Eibar,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/jose-javier-barkero/profil/spieler/7468
+Real Sociedad,Mikel Antía,27,Spain,Centre-Back,CB,-,CD Numancia,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/mikel-antia/profil/spieler/187820
+Real Sociedad,Arif Erdem,28,Turkey,Centre-Forward,CF,-,Galatasaray SK,Turkey,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/arif-erdem/profil/spieler/3377
+Real Sociedad,Sergio Francisco,21,Spain,Centre-Forward,CF,-,SD Eibar,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/sergio-francisco/profil/spieler/64391
+RCD Espanyol Barcelona,Mauricio Pochettino,28,Argentina,Centre-Back,CB,-,Paris Saint-Germain,France,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/mauricio-pochettino/profil/spieler/4767
+RCD Espanyol Barcelona,Enrique de Lucas,22,Spain,Attacking Midfield,AM,-,Paris Saint-Germain,France,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/enrique-de-lucas/profil/spieler/3172
+RCD Espanyol Barcelona,Manel,27,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/70974
+RCD Espanyol Barcelona,César Santis,21,Chile,Left-Back,LB,-,Real Murcia CF,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/cesar-santis/profil/spieler/73435
+Deportivo de La Coruña,Slavisa Jokanovic,32,Serbia,Defensive Midfield,DM,-,Chelsea FC,England,£1.71m,Out,2000,w,laliga,https://www.transfermarkt.co.uk/slavisa-jokanovic/profil/spieler/79065
+Deportivo de La Coruña,José Manuel,27,Spain,Right Midfield,RM,-,CD Numancia,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/jose-manuel/profil/spieler/2759
+Deportivo de La Coruña,Renaldo,30,Brazil,Centre-Forward,CF,-,UE Lleida (liq.),Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/renaldo/profil/spieler/253469
+Deportivo de La Coruña,Luis Miguel Ramis,30,Spain,Centre-Back,CB,-,Racing Santander,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/luis-miguel-ramis/profil/spieler/154986
+Valencia CF,Líbero Parri,18,Spain,Attacking Midfield,AM,-,Elche CF,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/libero-parri/profil/spieler/8326
+Valencia CF,Daniel Fernando Fagiani,26,Argentina,Left-Back,LB,-,Atlético Madrid,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/daniel-fernando-fagiani/profil/spieler/27670
+Valencia CF,Gerardo,26,Spain,Right-Back,RB,-,CA Osasuna,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/gerardo/profil/spieler/7783
+Valencia CF,Jorge Bartual,29,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/jorge-bartual/profil/spieler/187795
+Villarreal CF,Bruno Marioni,25,Argentina,Left Winger,LW,-,Club Atlético Independiente,Argentina,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/bruno-marioni/profil/spieler/29465
+Deportivo Alavés,Josete,30,Spain,Defender,Defender,-,UE Lleida (liq.),Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/josete/profil/spieler/187812
+CD Numancia,Tito,29,Spain,Defensive Midfield,DM,-,Real Jaén CF,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/tito/profil/spieler/23175
+CD Numancia,Dani Mayo,28,Argentina,Centre-Back,CB,-,Cartagonova FC,Spain,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/dani-mayo/profil/spieler/72014
+CD Numancia,Constantin Barbu,29,Romania,Attacking Midfield,AM,-,FC Rapid 1923,Romania,?,Out,2000,w,laliga,https://www.transfermarkt.co.uk/constantin-barbu/profil/spieler/170804
+Real Oviedo,Gert Claessens,28,Belgium,Left Midfield,LM,-,Vitesse Arnhem,Netherlands,£689Th.,Out,2000,w,laliga,https://www.transfermarkt.co.uk/gert-claessens/profil/spieler/4423
+Real Oviedo,Albert Nadj,26,Serbia,Defensive Midfield,DM,-,Elche CF,Spain,Loan,Out,2000,w,laliga,https://www.transfermarkt.co.uk/albert-nadj/profil/spieler/10301

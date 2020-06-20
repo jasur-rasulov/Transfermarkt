@@ -1,653 +1,653 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Olympique Lyon,Fred,-1984,Brazil,Centre-Forward,CF,-,Cruzeiro Esporte Clube,Brazil,£14.04m,In,2005,s,ligue-1
-Olympique Lyon,Tiago,-1982,Portugal,Central Midfield,CM,-,Chelsea FC,England,£9.09m,In,2005,s,ligue-1
-Olympique Lyon,John Carew,25,Norway,Centre-Forward,CF,£6.30m,Besiktas JK,Turkey,£6.84m,In,2005,s,ligue-1
-Olympique Lyon,Benoît Pedretti,24,France,Defensive Midfield,DM,£8.10m,Olympique Marseille,France,£6.75m,In,2005,s,ligue-1
-Olympique Lyon,Sylvain Monsoreau,24,France,Centre-Back,CB,£4.50m,FC Sochaux-Montbéliard,France,£4.50m,In,2005,s,ligue-1
-Olympique Lyon,Rémy Riou,17,France,Goalkeeper,GK,£45Th.,Olympique Lyon B,France,-,In,2005,s,ligue-1
-Olympique Lyon,Romain Beynié,18,France,Defensive Midfield,DM,-,Olympique Lyon B,France,-,In,2005,s,ligue-1
-Olympique Lyon,Karim Benzema,17,France,Centre-Forward,CF,£180Th.,Olympique Lyon U19,France,-,In,2005,s,ligue-1
-Olympique Lyon,Rémy Vercoutre,25,France,Goalkeeper,GK,£900Th.,RC Strasbourg Alsace,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,Romain Sartre,22,France,Centre-Back,CB,£135Th.,Stade Lavallois,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,Julien Viale,23,France,Centre-Forward,CF,£900Th.,Stade Reims,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,Alexandre Hauw,23,France,Left Midfield,LM,-,Clermont Foot 63,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,François Clerc,22,France,Right-Back,RB,£225Th.,FC Toulouse,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,Demba Touré,20,Senegal,Second Striker,SS,£990Th.,Grasshopper Club Zurich,Switzerland,"End of loanJun 30, 2005",In,2005,s,ligue-1
-LOSC Lille,Abdul Kader Keita,-1982,Cote d'Ivoire,Right Winger,RW,-,Al Sadd Sports Club,Qatar,£2.70m,In,2005,s,ligue-1
-LOSC Lille,Daniel Gygax,23,Switzerland,Attacking Midfield,AM,£1.80m,FC Zürich,Switzerland,£675Th.,In,2005,s,ligue-1
-LOSC Lille,Stephan Lichtsteiner,21,Switzerland,Right-Back,RB,£1.26m,Grasshopper Club Zurich,Switzerland,£585Th.,In,2005,s,ligue-1
-LOSC Lille,Flavien Le Postollec,-1985,France,Defensive Midfield,DM,-,FC Martigues,France,Free transfer,In,2005,s,ligue-1
-LOSC Lille,Hicham Aboucherouane,-1982,Morocco,Left Winger,LW,-,Raja Club Athletic Casablanca,Morocco,Loan,In,2005,s,ligue-1
-LOSC Lille,Samuel Robail,-1986,France,Attacking Midfield,AM,-,LOSC Lille B,France,-,In,2005,s,ligue-1
-LOSC Lille,Mathieu Robail,20,France,Left Midfield,LM,-,LOSC Lille B,France,-,In,2005,s,ligue-1
-LOSC Lille,Larsen Touré,21,Guinea,Right Winger,RW,-,LOSC Lille B,France,-,In,2005,s,ligue-1
-LOSC Lille,Serge Djamba-Shango,23,Belgium,Left Winger,LW,£720Th.,KV Oostende,Belgium,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Monaco,Camel Meriem,25,France,Attacking Midfield,AM,£5.40m,FC Girondins Bordeaux,France,£5.40m,In,2005,s,ligue-1
-AS Monaco,Guillaume Warmuz,-1971,France,Goalkeeper,GK,-,Borussia Dortmund,Germany,Free transfer,In,2005,s,ligue-1
-AS Monaco,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,Stade Rennais FC,France,Free transfer,In,2005,s,ligue-1
-AS Monaco,Gerard López,-1980,Spain,Central Midfield,CM,-,FC Barcelona,Spain,Free transfer,In,2005,s,ligue-1
-AS Monaco,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.15m,Stade Rennais FC,France,Free transfer,In,2005,s,ligue-1
-AS Monaco,Olivier Kapo,24,France,Attacking Midfield,AM,£3.60m,Juventus FC,Italy,Loan,In,2005,s,ligue-1
-AS Monaco,Jimmy Juan,21,France,Central Midfield,CM,£675Th.,Ipswich Town,England,"End of loanMay 19, 2005",In,2005,s,ligue-1
-AS Monaco,Olivier Veigneau,19,France,Left-Back,LB,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Stéphane Ruffier,18,France,Goalkeeper,GK,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Nicolas Maurice-Belay,20,France,Left Midfield,LM,£90Th.,AS Monaco B,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Malaury Martin,16,France,Central Midfield,CM,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Arnaud Lescure,19,France,Centre-Back,CB,£180Th.,AS Monaco U19,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Serge Gakpé,18,Togo,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1
-AS Monaco,Djibril Sidibé,23,Mali,Defensive Midfield,DM,£1.08m,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Monaco,Éric Cubilier,25,France,Right-Back,RB,£1.13m,RC Lens,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Monaco,Marco Ramos,22,Portugal,Left-Back,LB,£180Th.,US Créteil-Lusitanos,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Monaco,Nicolas Hislen,22,France,Defensive Midfield,DM,£45Th.,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Stade Rennais FC,John Utaka,23,Nigeria,Left Winger,LW,£6.30m,RC Lens,France,£5.40m,In,2005,s,ligue-1
-Stade Rennais FC,Erik Edman,-1979,Sweden,Left-Back,LB,-,Tottenham Hotspur,England,£2.70m,In,2005,s,ligue-1
-Stade Rennais FC,Youssouf Hadji,25,Morocco,Centre-Forward,CF,£1.80m,SC Bastia,France,£1.44m,In,2005,s,ligue-1
-Stade Rennais FC,Cheick N'Diaye,20,Senegal,Goalkeeper,GK,-,Olympique Noisy-le-Sec,France,Free transfer,In,2005,s,ligue-1
-Stade Rennais FC,Alain Rochat,-1984,Switzerland,Centre-Back,CB,-,BSC Young Boys,Switzerland,Free transfer,In,2005,s,ligue-1
-Stade Rennais FC,Florent Chaigneau,22,France,Goalkeeper,GK,-,Brighton & Hove Albion,England,"End of loanMay 31, 2006",In,2005,s,ligue-1
-Stade Rennais FC,Arthur Sorin,-1986,France,Centre-Back,CB,-,FC Stade Rennes B,France,-,In,2005,s,ligue-1
-Stade Rennais FC,Stéphane Mbia,19,Cameroon,Defensive Midfield,DM,£225Th.,FC Stade Rennes B,France,-,In,2005,s,ligue-1
-Stade Rennais FC,Amadou Coulibaly,-1985,Burkina Faso,Centre-Back,CB,-,FC Stade Rennes B,France,-,In,2005,s,ligue-1
-Stade Rennais FC,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,AS Nancy-Lorraine,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Stade Rennais FC,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,AS Saint-Étienne,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Mamadou Niang,25,Senegal,Centre-Forward,CF,£4.50m,RC Strasbourg Alsace,France,£6.30m,In,2005,s,ligue-1
-Olympique Marseille,Lorik Cana,22,Albania,Centre-Back,CB,£2.52m,Paris Saint-Germain,France,£3.60m,In,2005,s,ligue-1
-Olympique Marseille,Bostjan Cesar,22,Slovenia,Centre-Back,CB,£900Th.,GNK Dinamo Zagreb,Croatia,£2.25m,In,2005,s,ligue-1
-Olympique Marseille,Christian Giménez,30,Argentina,Centre-Forward,CF,£2.25m,FC Basel 1893,Switzerland,£630Th.,In,2005,s,ligue-1
-Olympique Marseille,Wilson Oruma,28,Nigeria,Attacking Midfield,AM,£2.70m,FC Sochaux-Montbéliard,France,Free transfer,In,2005,s,ligue-1
-Olympique Marseille,Franck Ribéry,22,France,Left Winger,LW,£4.73m,Galatasaray SK,Turkey,Free transfer,In,2005,s,ligue-1
-Olympique Marseille,Sabri Lamouchi,33,France,Central Midfield,CM,£90Th.,FC Internazionale,Italy,Free transfer,In,2005,s,ligue-1
-Olympique Marseille,Andrés Mendoza,27,Peru,Centre-Forward,CF,£3.15m,Metallurg Donetsk,Ukraine,Loan,In,2005,s,ligue-1
-Olympique Marseille,Yannick Quesnel,31,France,Goalkeeper,GK,£450Th.,SL Benfica,Portugal,Loan,In,2005,s,ligue-1
-Olympique Marseille,André Luis,25,Brazil,Centre-Back,CB,£2.70m,SL Benfica,Portugal,Loan,In,2005,s,ligue-1
-Olympique Marseille,Fabrice Begeorgi,18,France,Left-Back,LB,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1
-Olympique Marseille,Salomon Olembé,25,Cameroon,Left Midfield,LM,£2.70m,Al Rayyan Sports Club,Qatar,"End of loanMay 1, 2006",In,2005,s,ligue-1
-Olympique Marseille,Mohamed Dennoun,19,France,Attacking Midfield,AM,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1
-Olympique Marseille,Khalifa Ba,19,Senegal,Centre-Back,CB,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1
-Olympique Marseille,Thomas Deruda,18,France,Central Midfield,CM,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1
-Olympique Marseille,Fabien Barthez,34,France,Goalkeeper,GK,£4.50m,,Ban,-,In,2005,s,ligue-1
-Olympique Marseille,Rudi Skacel,26,Czech Republic,Left Midfield,LM,£2.25m,Heart of Midlothian FC,Scotland,"End of loanMay 1, 2006",In,2005,s,ligue-1
-Olympique Marseille,Fabio Celestini,29,Switzerland,Defensive Midfield,DM,£1.35m,Levante UD,Spain,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Cédric Carrasso,23,France,Goalkeeper,GK,£270Th.,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Stepan Vachousek,25,Czech Republic,Left Midfield,LM,£2.48m,Austria Vienna,Austria,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,RC Strasbourg Alsace,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Delfim,28,Portugal,Defensive Midfield,DM,£450Th.,Moreirense FC,Portugal,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Alain Cantareil,21,France,Left-Back,LB,-,Nîmes Olympique,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Thierry Racon,21,Guadeloupe,Defensive Midfield,DM,-,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Marseille,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Saint-Étienne,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,FC Girondins Bordeaux,France,£2.70m,In,2005,s,ligue-1
-AS Saint-Étienne,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,Stade Rennais FC,France,£2.70m,In,2005,s,ligue-1
-AS Saint-Étienne,Sébastien Mazure,26,France,Centre-Forward,CF,£2.70m,SM Caen,France,£1.80m,In,2005,s,ligue-1
-AS Saint-Étienne,Damien Perquis,21,Poland,Centre-Back,CB,£765Th.,ES Troyes AC,France,£540Th.,In,2005,s,ligue-1
-AS Saint-Étienne,Jody Viviani,23,France,Goalkeeper,GK,£45Th.,HSC Montpellier,France,Free transfer,In,2005,s,ligue-1
-AS Saint-Étienne,Alaeddine Yahia,23,Tunisia,Centre-Back,CB,£1.26m,Southampton FC,England,Free transfer,In,2005,s,ligue-1
-AS Saint-Étienne,Siaka Tiéné,23,Cote d'Ivoire,Left-Back,LB,-,Mamelodi Sundowns FC,South Africa,Free transfer,In,2005,s,ligue-1
-AS Saint-Étienne,Idriss Ech-Chergui,20,France,Attacking Midfield,AM,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1
-AS Saint-Étienne,Jessy Moulin,19,France,Goalkeeper,GK,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1
-AS Saint-Étienne,Alan Mermillod,20,France,Goalkeeper,GK,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1
-AS Saint-Étienne,Samy Houri,19,France,Attacking Midfield,AM,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1
-AS Saint-Étienne,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,ES Troyes AC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Saint-Étienne,Bafétimbi Gomis,19,France,Centre-Forward,CF,£135Th.,ES Troyes AC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Saint-Étienne,Pathé Bangoura,21,Guinea,Centre-Forward,CF,£45Th.,Association sportive d'origine arménienne de Valence,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Saint-Étienne,Mickael Pontal,25,France,Centre-Back,CB,£225Th.,Association sportive d'origine arménienne de Valence,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-RC Lens,Aruna Dindane,-1981,Cote d'Ivoire,Second Striker,SS,-,RSC Anderlecht,Belgium,£2.70m,In,2005,s,ligue-1
-RC Lens,Alou Diarra,23,France,Defensive Midfield,DM,£3.60m,Liverpool FC,England,£2.70m,In,2005,s,ligue-1
-RC Lens,Issam Jemâa,21,Tunisia,Centre-Forward,CF,£1.08m,Esperance Tunis,Tunisia,£900Th.,In,2005,s,ligue-1
-RC Lens,Yohan Demont,27,France,Right-Back,RB,£1.80m,AC Ajaccio,France,Free transfer,In,2005,s,ligue-1
-RC Lens,Jonathan Martins Pereira,19,France,Right-Back,RB,£270Th.,RC Lens B,France,-,In,2005,s,ligue-1
-RC Lens,Jonathan Lacourt,18,France,Central Midfield,CM,-,RC Lens B,France,-,In,2005,s,ligue-1
-RC Lens,Kamil Zayatte,-1986,Guinea,Centre-Back,CB,-,RC Lens B,France,-,In,2005,s,ligue-1
-RC Lens,Arnaud Brocard,18,France,Goalkeeper,GK,-,RC Lens B,France,-,In,2005,s,ligue-1
-RC Lens,Abdoulaye Fayé,27,Senegal,Centre-Back,CB,£900Th.,FC Istres Ouest Provence ,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-RC Lens,Bouabid Bouden,23,Morocco,Centre-Forward,CF,£450Th.,Al Ahli Sports Club,Qatar,"End of loanJun 30, 2005",In,2005,s,ligue-1
-RC Lens,Rod Fanni,23,France,Right-Back,RB,£315Th.,LB Châteauroux,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AJ Auxerre,Thomas Kahlenberg,22,Denmark,Central Midfield,CM,£1.35m,Bröndby IF,Denmark,£4.50m,In,2005,s,ligue-1
-AJ Auxerre,Oumar Kalabane,-1982,Guinea,Centre-Back,CB,-,Etoile Sportive du Sahel,Tunisia,Free transfer,In,2005,s,ligue-1
-AJ Auxerre,Péguy Luyindula,26,France,Centre-Forward,CF,£9.00m,Olympique Marseille,France,Loan,In,2005,s,ligue-1
-AJ Auxerre,Krisztián Vadócz,-1986,Hungary,Central Midfield,CM,-,Budapest Honvéd FC,Hungary,?,In,2005,s,ligue-1
-AJ Auxerre,Mathieu Berson,-1981,France,Defensive Midfield,DM,-,Aston Villa,England,Loan,In,2005,s,ligue-1
-AJ Auxerre,Baptiste Martin,20,France,Centre-Back,CB,-,AJ Auxerre B,France,-,In,2005,s,ligue-1
-AJ Auxerre,Kevin Lejeune,20,France,Left Midfield,LM,-,AJ Auxerre B,France,-,In,2005,s,ligue-1
-AJ Auxerre,Ludovic Genest,17,France,Attacking Midfield,AM,-,AJ Auxerre B,France,-,In,2005,s,ligue-1
-AJ Auxerre,Romain Poyet,24,France,Centre-Forward,CF,£450Th.,Clermont Foot 63,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Paris Saint-Germain,Bonaventure Kalou,-1979,Cote d'Ivoire,Right Winger,RW,-,AJ Auxerre,France,£7.65m,In,2005,s,ligue-1
-Paris Saint-Germain,Vikash Dhorasoo,-1974,France,Central Midfield,CM,-,AC Milan,Italy,£2.88m,In,2005,s,ligue-1
-Paris Saint-Germain,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Le Mans Union Club 72,France,£2.70m,In,2005,s,ligue-1
-Paris Saint-Germain,David Rozehnal,24,Czech Republic,Centre-Back,CB,£2.25m,Club Brugge KV,Belgium,£2.70m,In,2005,s,ligue-1
-Paris Saint-Germain,Cristian Rodríguez,19,Uruguay,Central Midfield,CM,-,CA Peñarol,Uruguay,£450Th.,In,2005,s,ligue-1
-Paris Saint-Germain,Carlos Bueno,25,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,Free transfer,In,2005,s,ligue-1
-Paris Saint-Germain,Christophe Landrin,28,France,Central Midfield,CM,£3.42m,LOSC Lille,France,Free transfer,In,2005,s,ligue-1
-Paris Saint-Germain,Ahmed Kantari,20,Morocco,Centre-Back,CB,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1
-Paris Saint-Germain,Nicolas Cousin,-1986,France,Goalkeeper,GK,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1
-Paris Saint-Germain,Boukary Dramé,-1986,Senegal,Left-Back,LB,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1
-Paris Saint-Germain,Franck Dja Djédjé,19,Cote d'Ivoire,Right Winger,RW,£90Th.,Stade Brest 29,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Paris Saint-Germain,Bartholomew Ogbeche,20,Nigeria,Centre-Forward,CF,£1.35m,FC Metz,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Paris Saint-Germain,Alioune Touré,26,France,Right Winger,RW,£1.44m,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Paris Saint-Germain,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Moumouni Dagano,-1982,Burkina Faso,Centre-Forward,CF,-,EA Guingamp,France,£2.70m,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Miranda,-1985,Brazil,Centre-Back,CB,-,Coritiba Foot Ball Club,Brazil,£1.80m,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Rabiu Afolabi,25,Nigeria,Centre-Back,CB,£3.42m,Austria Vienna,Austria,£1.80m,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Philippe Brunel,-1974,France,Left Midfield,LM,-,LOSC Lille,France,Free transfer,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Mourad Meghni,21,Algeria,Attacking Midfield,AM,£3.60m,Bologna FC 1909,Italy,Loan,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Pape Sow,19,Senegal,Centre-Back,CB,£90Th.,Racing Strasbourg B,France,Free transfer,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Arnaud Bühler,20,Switzerland,Centre-Back,CB,£630Th.,FC Aarau,Switzerland,?,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Benjamin Genghini,19,France,Central Midfield,CM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Julien Quercia,18,France,Centre-Forward,CF,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Steve Bernardet,-1986,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Jeremy Deichelbohrer,19,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Badara Sène,-1985,Senegal,Defensive Midfield,DM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Mevlüt Erdinc,18,Turkey,Centre-Forward,CF,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1
-FC Sochaux-Montbéliard,Maxence Flachez,32,France,Centre-Back,CB,£540Th.,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-RC Strasbourg Alsace,Haykel Gmamdia,23,Tunisia,Centre-Forward,CF,£315Th.,Club Sportif Sfaxien,Tunisia,£1.35m,In,2005,s,ligue-1
-RC Strasbourg Alsace,Amara Diané,-1983,Cote d'Ivoire,Right Winger,RW,-,Stade Reims,France,£1.17m,In,2005,s,ligue-1
-RC Strasbourg Alsace,Arthur Boka,22,Cote d'Ivoire,Left-Back,LB,£1.13m,KSK Beveren,Belgium,£900Th.,In,2005,s,ligue-1
-RC Strasbourg Alsace,Hosny,-1985,Egypt,Central Midfield,CM,-,Ismaily SC,Egypt,£720Th.,In,2005,s,ligue-1
-RC Strasbourg Alsace,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,Olympique Marseille,France,£135Th.,In,2005,s,ligue-1
-RC Strasbourg Alsace,Nicolas Puydebois,-1982,France,Goalkeeper,GK,-,Olympique Lyon,France,Free transfer,In,2005,s,ligue-1
-RC Strasbourg Alsace,Pontus Farnerud,-1981,Sweden,Central Midfield,CM,-,AS Monaco,France,Free transfer,In,2005,s,ligue-1
-RC Strasbourg Alsace,Kévin Gameiro,18,France,Centre-Forward,CF,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Gaetan Krebs,-1986,France,Central Midfield,CM,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Mehdi Sennaoui,-1987,Algeria,Goalkeeper,GK,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Ricardo Faty,18,Senegal,Defensive Midfield,DM,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Régis Gurtner,18,France,Goalkeeper,GK,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Jean-Christophe Vergerolle,-1986,France,Left-Back,LB,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1
-RC Strasbourg Alsace,Yannick Kamanan,22,France,Centre-Forward,CF,£45Th.,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-RC Strasbourg Alsace,Vaclav Drobny,24,Czech Republic,Centre-Back,CB,£1.58m,Aston Villa,England,"End of loanJun 30, 2005",In,2005,s,ligue-1
-OGC Nice,Bakari Koné,23,Cote d'Ivoire,Right Winger,RW,£2.03m,FC Lorient,France,£2.25m,In,2005,s,ligue-1
-OGC Nice,Anthar Yahia,23,Algeria,Centre-Back,CB,£2.25m,SC Bastia,France,£900Th.,In,2005,s,ligue-1
-OGC Nice,Souleymane Camara,22,Senegal,Right Winger,RW,£900Th.,AS Monaco,France,£900Th.,In,2005,s,ligue-1
-OGC Nice,Rod Fanni,23,France,Right-Back,RB,£315Th.,RC Lens,France,Free transfer,In,2005,s,ligue-1
-OGC Nice,Cyril Rool,-1976,France,Left-Back,LB,-,FC Girondins Bordeaux,France,Free transfer,In,2005,s,ligue-1
-OGC Nice,Jérémie Moreau,-1981,France,Goalkeeper,GK,-,FC Rouen 1899,France,Free transfer,In,2005,s,ligue-1
-OGC Nice,Bill Tchato,-1976,Cameroon,Left-Back,LB,-,1.FC Kaiserslautern,Germany,Free transfer,In,2005,s,ligue-1
-OGC Nice,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,FC Gueugnon,France,Free transfer,In,2005,s,ligue-1
-OGC Nice,Mamadou Bagayoko,-1980,Mali,Centre-Forward,CF,-,FC Nantes,France,Loan,In,2005,s,ligue-1
-OGC Nice,Hugo Lloris,-1987,France,Goalkeeper,GK,-,OGC Nice B,France,-,In,2005,s,ligue-1
-OGC Nice,Olivier Fauconnier,29,Guadeloupe,Centre-Forward,CF,£405Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-OGC Nice,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,Le Mans Union Club 72,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-OGC Nice,Abdelmalek Cherrad,24,Algeria,Centre-Forward,CF,£720Th.,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Toulouse,Jérémy Mathieu,21,France,Centre-Back,CB,£3.15m,FC Sochaux-Montbéliard,France,£4.50m,In,2005,s,ligue-1
-FC Toulouse,Bryan Bergougnoux,22,France,Attacking Midfield,AM,£2.25m,Olympique Lyon,France,£3.06m,In,2005,s,ligue-1
-FC Toulouse,Santos,26,Tunisia,Centre-Forward,CF,£5.85m,FC Sochaux-Montbéliard,France,£2.70m,In,2005,s,ligue-1
-FC Toulouse,Fodé Mansare,23,Guinea,Left Winger,LW,£1.08m,HSC Montpellier,France,Free transfer,In,2005,s,ligue-1
-FC Toulouse,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.13m,RC Strasbourg Alsace,France,Loan,In,2005,s,ligue-1
-FC Toulouse,Laurent Batlles,29,France,Attacking Midfield,AM,£3.60m,Olympique Marseille,France,Loan,In,2005,s,ligue-1
-FC Toulouse,Alexandre Bonnet,18,France,Left Midfield,LM,-,FC Toulouse B,France,-,In,2005,s,ligue-1
-FC Toulouse,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AC Ajaccio,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,Paris Saint-Germain,France,£450Th.,In,2005,s,ligue-1
-AC Ajaccio,Frédéric Danjou,-1975,France,Centre-Back,CB,-,SM Caen,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Daouda Jabi,-1982,Guinea,Right-Back,RB,-,RC Lens,France,Loan,In,2005,s,ligue-1
-AC Ajaccio,Christophe Bastien,-1977,France,Right Midfield,RM,-,FC Lorient,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Giany Joinville,-1985,France,Centre-Back,CB,-,FC Gueugnon,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Kaba Diawara,-1976,Guinea,Centre-Forward,CF,-,Al Kharitiyat Sports Club,Qatar,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Antônio Carlos,-1984,Brazil,Centre-Back,CB,-,Fluminense Football Club,Brazil,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Matthieu Scarpelli,-1982,France,Centre-Forward,CF,-,SO Cassis Carnoux,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Kamel Chafni,23,Morocco,Attacking Midfield,AM,£45Th.,LB Châteauroux,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Simon Carmignani,-1984,France,Right-Back,RB,-,FC Martigues,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Stéphane Ziani,-1972,France,Attacking Midfield,AM,-,SC Bastia,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Rafik Saïfi,30,Algeria,Centre-Forward,CF,£1.08m,FC Istres Ouest Provence ,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Jean-Jacques Mandrichi,21,France,Centre-Forward,CF,£90Th.,USC Corte,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,Olympique Marseille,France,Free transfer,In,2005,s,ligue-1
-AC Ajaccio,Jean-Baptiste Pierazzi,20,France,Central Midfield,CM,-,AC Ajaccio B,France,-,In,2005,s,ligue-1
-AC Ajaccio,Xavier Bécas,26,France,Forward,Forward,-,Pau FC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Girondins Bordeaux,Edixon Perea,-1985,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,£2.25m,In,2005,s,ligue-1
-FC Girondins Bordeaux,Alejandro Alonso,23,Argentina,Right Midfield,RM,-,Club Atlético Huracán,Argentina,£675Th.,In,2005,s,ligue-1
-FC Girondins Bordeaux,Henrique,22,Brazil,Centre-Back,CB,-,Clube de Regatas do Flamengo,Brazil,£675Th.,In,2005,s,ligue-1
-FC Girondins Bordeaux,Vladimir Smicer,-1974,Czech Republic,Attacking Midfield,AM,-,Liverpool FC,England,Free transfer,In,2005,s,ligue-1
-FC Girondins Bordeaux,Laurent Leroy,-1977,France,Centre-Forward,CF,-,AS Cannes,France,Free transfer,In,2005,s,ligue-1
-FC Girondins Bordeaux,Denílson,-1978,Brazil,Left Winger,LW,-,Real Betis Balompié,Spain,Free transfer,In,2005,s,ligue-1
-FC Girondins Bordeaux,Vasco Fernandes,-1987,Portugal,Centre-Back,CB,-,SC Olhanense,Portugal,Loan,In,2005,s,ligue-1
-FC Girondins Bordeaux,Bruno Cheyrou,27,France,Central Midfield,CM,£3.51m,Liverpool FC,England,Loan,In,2005,s,ligue-1
-FC Girondins Bordeaux,Paulo Costa,-1980,Portugal,Attacking Midfield,AM,-,FC Porto,Portugal,Free transfer,In,2005,s,ligue-1
-FC Girondins Bordeaux,Anicet Adjamossi,-1985,Benin,Right-Back,RB,-,Pau FC,France,?,In,2005,s,ligue-1
-FC Girondins Bordeaux,Fernando,-1982,Brazil,Defensive Midfield,DM,-,AC Siena,Italy,Loan,In,2005,s,ligue-1
-FC Girondins Bordeaux,Pierre Ducasse,18,France,Defensive Midfield,DM,£90Th.,FC Girondins Bordeaux B,France,-,In,2005,s,ligue-1
-FC Girondins Bordeaux,Ted Lavie,-1987,France,Right-Back,RB,-,FC Girondins Bordeaux B,France,-,In,2005,s,ligue-1
-FC Girondins Bordeaux,Abdoulaye Barry,20,Guinea,Centre-Back,CB,£135Th.,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Girondins Bordeaux,Sylvain Franco,22,France,Centre-Forward,CF,£315Th.,Pau FC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Girondins Bordeaux,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,AS Saint-Étienne,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Metz,Marcin Zewlakow,-1977,Poland,Centre-Forward,CF,-,Excelsior Mouscron,Belgium,£540Th.,In,2005,s,ligue-1
-FC Metz,Abdelnasser Ouadah,-1976,Algeria,Left Winger,LW,-,AC Ajaccio,France,Free transfer,In,2005,s,ligue-1
-FC Metz,Cheriffe Maman-Touré,-1979,Togo,Midfielder,Midfielder,-,New York Red Bulls,United States,Free transfer,In,2005,s,ligue-1
-FC Metz,Jeong-hwan Ahn,29,"Korea, South",Second Striker,SS,£3.60m,Yokohama F. Marinos,Japan,Free transfer,In,2005,s,ligue-1
-FC Metz,Carl Medjani,20,Algeria,Defensive Midfield,DM,£225Th.,Liverpool FC,England,Loan,In,2005,s,ligue-1
-FC Metz,Szabolcs Huszti,22,Hungary,Central Midfield,CM,-,Ferencvárosi TC,Hungary,?,In,2005,s,ligue-1
-FC Metz,Grégory Paisley,-1978,France,Left-Back,LB,-,FC Sochaux-Montbéliard,France,?,In,2005,s,ligue-1
-FC Metz,Christophe Marichez,30,France,Goalkeeper,GK,-,FC Chamois Niort,France,?,In,2005,s,ligue-1
-FC Metz,Flavien Belson,18,Guadeloupe,Left-Back,LB,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Ibrahima Gueye,-1988,Senegal,Midfielder,Midfielder,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Gaëtan Bong,17,Cameroon,Left-Back,LB,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Emmanuel Francoise,-1988,France,Centre-Forward,CF,-,FC Metz U19,France,-,In,2005,s,ligue-1
-FC Metz,Sébastien Bassong,18,Cameroon,Centre-Back,CB,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Nicolas Farina,18,France,Right Winger,RW,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Papiss Demba Cissé,20,Senegal,Centre-Forward,CF,-,FC Metz B,France,-,In,2005,s,ligue-1
-FC Metz,Christophe Walter,22,France,Defensive Midfield,DM,£405Th.,Stade Reims,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Metz,Mario Espartero,27,France,Defensive Midfield,DM,£900Th.,AA La Louviere,Belgium,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Metz,Sylvain Marchal,25,France,Centre-Back,CB,£1.35m,LB Châteauroux,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Metz,Stéphane Morisot,27,France,Defensive Midfield,DM,£1.62m,CS Sedan-Ardennes,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Metz,Laurent Karim Agouazi,21,Algeria,Defensive Midfield,DM,-,Besançon Racing Club ,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Nantes,Jean-Jacques Pierre,24,Haiti,Centre-Back,CB,-,CA Peñarol,Uruguay,£900Th.,In,2005,s,ligue-1
-FC Nantes,Franck Signorino,23,France,Left-Back,LB,£2.25m,FC Metz,France,£900Th.,In,2005,s,ligue-1
-FC Nantes,Imed Mhadhebi,29,Tunisia,Left Winger,LW,£675Th.,Etoile Sportive du Sahel,Tunisia,Free transfer,In,2005,s,ligue-1
-FC Nantes,Tony Heurtebis,30,France,Goalkeeper,GK,-,Stade Brest 29,France,Free transfer,In,2005,s,ligue-1
-FC Nantes,Habib Bamogo,23,Burkina Faso,Second Striker,SS,£4.50m,Olympique Marseille,France,Loan,In,2005,s,ligue-1
-FC Nantes,Kévin Das Neves,19,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2005,s,ligue-1
-FC Nantes,Dimitri Payet,18,France,Left Winger,LW,-,FC Nantes B,France,-,In,2005,s,ligue-1
-FC Nantes,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,Le Mans Union Club 72,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Nantes,Hassan Ahamada,24,France,Attacking Midfield,AM,£630Th.,SC Beira-Mar,Portugal,"End of loanJun 30, 2005",In,2005,s,ligue-1
-FC Nantes,Shiva N'Zigou,21,Gabon,Left Winger,LW,£630Th.,FC Gueugnon,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-AS Nancy-Lorraine,Kim,-1981,Brazil,Centre-Forward,CF,-,Al-Ahli Jeddah,Saudi Arabia,£990Th.,In,2005,s,ligue-1
-AS Nancy-Lorraine,Adrián Sarkisian,-1980,Uruguay,Left Midfield,LM,-,Atletico River Plate Montevideo,Uruguay,£900Th.,In,2005,s,ligue-1
-AS Nancy-Lorraine,André Luiz,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,£630Th.,In,2005,s,ligue-1
-AS Nancy-Lorraine,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,Stade Rennais FC,France,£180Th.,In,2005,s,ligue-1
-AS Nancy-Lorraine,Saliou Lassissi,-1979,Cote d'Ivoire,Centre-Back,CB,-,AS Roma,Italy,Free transfer,In,2005,s,ligue-1
-AS Nancy-Lorraine,Dagui Bakari,30,Cote d'Ivoire,Centre-Forward,CF,£1.17m,RC Lens,France,Free transfer,In,2005,s,ligue-1
-AS Nancy-Lorraine,Abdoulaye Keita,-1979,Senegal,Defensive Midfield,DM,-,Iraklis Thessaloniki,Greece,Free transfer,In,2005,s,ligue-1
-AS Nancy-Lorraine,Adailton,-1980,Brazil,Right-Back,RB,-,Criciúma Esporte Clube,Brazil,Free transfer,In,2005,s,ligue-1
-AS Nancy-Lorraine,Landry N'Guémo,19,Cameroon,Defensive Midfield,DM,-,AS Nancy-Lorraine B,France,-,In,2005,s,ligue-1
-AS Nancy-Lorraine,Damien Mozika,-1988,France,Attacking Midfield,AM,-,AS Nancy-Lorraine U19,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Túlio de Melo,20,Brazil,Centre-Forward,CF,-,Clube Atlético Mineiro,Brazil,£1.80m,In,2005,s,ligue-1
-Le Mans Union Club 72,Ismaël Bangoura,20,Guinea,Centre-Forward,CF,-,Gazélec Football Club Olympique Ajaccio,France,£270Th.,In,2005,s,ligue-1
-Le Mans Union Club 72,Romaric,22,Cote d'Ivoire,Defensive Midfield,DM,£1.08m,KSK Beveren,Belgium,£225Th.,In,2005,s,ligue-1
-Le Mans Union Club 72,Luigi Lavecchia,-1982,Italy,Right Midfield,RM,-,Juventus FC,Italy,Loan,In,2005,s,ligue-1
-Le Mans Union Club 72,Marko Basa,22,Montenegro,Centre-Back,CB,£45Th.,OFK Beograd,Serbia,Free transfer,In,2005,s,ligue-1
-Le Mans Union Club 72,Rodolphe Roche,26,France,Goalkeeper,GK,-,LB Châteauroux,France,Free transfer,In,2005,s,ligue-1
-Le Mans Union Club 72,Sébastien Gormond,-1983,France,Defensive Midfield,DM,-,FC Issy,France,Free transfer,In,2005,s,ligue-1
-Le Mans Union Club 72,Edo,-1985,Nigeria,Centre-Forward,CF,-,Esperance Tunis,Tunisia,Free transfer,In,2005,s,ligue-1
-Le Mans Union Club 72,Davide Chiumiento,-1985,Switzerland,Attacking Midfield,AM,-,Juventus FC,Italy,Loan,In,2005,s,ligue-1
-Le Mans Union Club 72,Jérémy Choplin,20,France,Centre-Back,CB,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Arnaud Lisembart,-1985,France,Right-Back,RB,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Guillaume Loriot,19,France,Central Midfield,CM,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Martin Douillard,-1986,France,Left Winger,LW,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Clément Pinault,-1986,France,Centre-Back,CB,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Bertrand Ndzomo,-1986,France,Defensive Midfield,DM,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Mathieu Coutadeur,19,France,Central Midfield,CM,-,FC Le Mans B,France,-,In,2005,s,ligue-1
-Le Mans Union Club 72,Thabang Molefe,25,South Africa,Centre-Back,CB,£450Th.,Orlando Pirates,South Africa,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Le Mans Union Club 72,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Paris Saint-Germain,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-ES Troyes AC,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,OGC Nice,France,Loan fee:£225Th.,In,2005,s,ligue-1
-ES Troyes AC,Blaise Kouassi,-1976,Cote d'Ivoire,Centre-Back,CB,-,EA Guingamp,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Éloge Enza-Yamissi,22,Central African Republic,Defensive Midfield,DM,-,Nîmes Olympique,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Ronan Le Crom,30,France,Goalkeeper,GK,£360Th.,EA Guingamp,France,Loan,In,2005,s,ligue-1
-ES Troyes AC,Auriol Guillaume,-1980,France,Defender,Defender,-,EA Guingamp,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Sylvain Meslien,-1981,France,Centre-Back,CB,-,AS Saint-Étienne,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Gaël Danic,23,France,Left Winger,LW,-,Grenoble Foot 38,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Georges Ba,-1980,Cote d'Ivoire,Centre-Forward,CF,-,OGC Nice,France,Free transfer,In,2005,s,ligue-1
-ES Troyes AC,Stéphen Drouin,21,France,Left-Back,LB,£810Th.,FC Nantes,France,Loan,In,2005,s,ligue-1
-ES Troyes AC,Zied Jaziri,27,Tunisia,Centre-Forward,CF,£4.05m,Gaziantepspor,Turkey,?,In,2005,s,ligue-1
-ES Troyes AC,Branko Boskovic,-1981,Montenegro,Central Midfield,CM,-,Paris Saint-Germain,France,Loan,In,2005,s,ligue-1
-ES Troyes AC,Ibrahima Fayé,-1980,Senegal,Centre-Back,CB,-,SM Caen,France,Loan,In,2005,s,ligue-1
-ES Troyes AC,Quentin Westberg,-1987,United States,Goalkeeper,GK,-,ES Troyes AC B,France,-,In,2005,s,ligue-1
-ES Troyes AC,Karim Ziani,22,Algeria,Attacking Midfield,AM,-,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1
-Olympique Lyon,Michael Essien,22,Ghana,Defensive Midfield,DM,£20.70m,Chelsea FC,England,£34.20m,Out,2005,s,ligue-1
-Olympique Lyon,Bryan Bergougnoux,22,France,Attacking Midfield,AM,£2.25m,FC Toulouse,France,£3.06m,Out,2005,s,ligue-1
-Olympique Lyon,Nilmar,21,Brazil,Centre-Forward,CF,£3.15m,Sport Club Corinthians Paulista,Brazil,Loan fee:£1.80m,Out,2005,s,ligue-1
-Olympique Lyon,Nicolas Puydebois,-1982,France,Goalkeeper,GK,-,RC Strasbourg Alsace,France,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Daniel Jaccard,-1986,France,Goalkeeper,GK,-,UF Maconnais,France,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Yacine Hima,21,Algeria,Central Midfield,CM,£68Th.,LB Châteauroux,France,Loan,Out,2005,s,ligue-1
-Olympique Lyon,Alexandre Hauw,-1983,France,Left Midfield,LM,-,FC Gueugnon,France,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Romain Sartre,22,France,Centre-Back,CB,£135Th.,CS Sedan-Ardennes,France,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Kelly Youga,-1986,Central African Republic,Left-Back,LB,-,Charlton Athletic,England,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Yohann Gomez,-1982,France,Defensive Midfield,DM,-,SC Bastia,France,Free transfer,Out,2005,s,ligue-1
-Olympique Lyon,Demba Touré,-1985,Senegal,Second Striker,SS,-,Grasshopper Club Zurich,Switzerland,?,Out,2005,s,ligue-1
-Olympique Lyon,Sylvain Idangar,-1985,Chad,Left Winger,LW,-,Valenciennes FC ,France,Loan,Out,2005,s,ligue-1
-LOSC Lille,Christophe Landrin,28,France,Central Midfield,CM,£3.42m,Paris Saint-Germain,France,Free transfer,Out,2005,s,ligue-1
-LOSC Lille,Johan Audel,21,Martinique,Left Winger,LW,£810Th.,FC Lorient,France,Loan,Out,2005,s,ligue-1
-LOSC Lille,Nicolas Raynier,21,France,Centre-Forward,CF,-,FC Sète 34,France,Free transfer,Out,2005,s,ligue-1
-LOSC Lille,Serge Djamba-Shango,-1983,Belgium,Left Winger,LW,-,KFC VW Hamme,Belgium,Free transfer,Out,2005,s,ligue-1
-LOSC Lille,Philippe Brunel,-1974,France,Left Midfield,LM,-,FC Sochaux-Montbéliard,France,Free transfer,Out,2005,s,ligue-1
-LOSC Lille,Claude N´Gantchéa,-1987,Cameroon,Goalkeeper,GK,-,AC Cambrai,France,?,Out,2005,s,ligue-1
-LOSC Lille,Benoît Angbwa,23,Cameroon,Right-Back,RB,£1.08m,Club Nacional,Uruguay,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Monaco,Julien Rodriguez,-1979,France,Centre-Back,CB,-,Rangers FC,Scotland,£1.35m,Out,2005,s,ligue-1
-AS Monaco,Souleymane Camara,22,Senegal,Right Winger,RW,£900Th.,OGC Nice,France,£900Th.,Out,2005,s,ligue-1
-AS Monaco,Pontus Farnerud,-1981,Sweden,Central Midfield,CM,-,RC Strasbourg Alsace,France,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Mohamed Kallon,25,Sierra Leone,Centre-Forward,CF,£9.00m,Al-Ittihad Jeddah,Saudi Arabia,Loan,Out,2005,s,ligue-1
-AS Monaco,Antoine Grauss,-1985,France,Left Midfield,LM,-,Clermont Foot 63,France,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Nicolas Hislen,-1984,France,Defensive Midfield,DM,-,FC Martigues,France,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Shabani Nonda,-1978,DR Congo,Centre-Forward,CF,-,AS Roma,Italy,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Grégory Lacombe,23,France,Right Winger,RW,£765Th.,Vitória Setúbal FC,Portugal,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Stéphane Ruffier,18,France,Goalkeeper,GK,-,Aviron Bayonnais,France,Loan,Out,2005,s,ligue-1
-AS Monaco,Djibril Sidibé,-1983,Mali,Defensive Midfield,DM,-,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Sébastien Carole,-1983,Martinique,Right Winger,RW,-,Brighton & Hove Albion,England,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Hassan El Fakiri,28,Norway,Left-Back,LB,£675Th.,Borussia Mönchengladbach,Germany,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Marco Ramos,22,Portugal,Left-Back,LB,£180Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-AS Monaco,Joseph Dayo Oshadogan,29,Italy,Centre-Back,CB,£315Th.,Ternana Calcio,Italy,?,Out,2005,s,ligue-1
-AS Monaco,Fabien Audard,27,France,Goalkeeper,GK,£315Th.,FC Lorient,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Monaco,Javier Saviola,23,Argentina,Second Striker,SS,£10.35m,FC Barcelona,Spain,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Stade Rennais FC,Frédéric Piquionne,-1979,Martinique,Centre-Forward,CF,-,AS Saint-Étienne,France,£2.70m,Out,2005,s,ligue-1
-Stade Rennais FC,Arnaud Le Lan,27,France,Left-Back,LB,£900Th.,EA Guingamp,France,£450Th.,Out,2005,s,ligue-1
-Stade Rennais FC,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,AS Nancy-Lorraine,France,£180Th.,Out,2005,s,ligue-1
-Stade Rennais FC,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,AS Monaco,France,Free transfer,Out,2005,s,ligue-1
-Stade Rennais FC,Amadou Makhtar N'Diaye,-1982,Senegal,Defensive Midfield,DM,-,Yverdon-Sport FC,Switzerland,Free transfer,Out,2005,s,ligue-1
-Stade Rennais FC,Arthur Sorin,-1986,France,Centre-Back,CB,-,Vannes OC,France,Loan,Out,2005,s,ligue-1
-Stade Rennais FC,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.15m,AS Monaco,France,Free transfer,Out,2005,s,ligue-1
-Stade Rennais FC,Florent Chaigneau,21,France,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2005,s,ligue-1
-Stade Rennais FC,Ivica Mornar,31,Croatia,Centre-Forward,CF,£630Th.,Portsmouth FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Stade Rennais FC,Alex Silva,20,Brazil,Centre-Back,CB,-,Esporte Clube Vitória,Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Olympique Marseille,Benoît Pedretti,24,France,Defensive Midfield,DM,£8.10m,Olympique Lyon,France,£6.75m,Out,2005,s,ligue-1
-Olympique Marseille,Eduardo Costa,-1983,Brazil,Defensive Midfield,DM,-,RCD Espanyol Barcelona,Spain,£3.60m,Out,2005,s,ligue-1
-Olympique Marseille,Stepan Vachousek,-1980,Czech Republic,Left Midfield,LM,-,Austria Vienna,Austria,£1.35m,Out,2005,s,ligue-1
-Olympique Marseille,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,RC Strasbourg Alsace,France,£135Th.,Out,2005,s,ligue-1
-Olympique Marseille,Johnny Ecker,32,France,Centre-Back,CB,£360Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Rahmane Barry,19,Senegal,Second Striker,SS,£360Th.,FC Lorient,France,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Philippe Christanval,-1979,France,Centre-Back,CB,-,Fulham FC,England,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Fabrice Fiorèse,30,France,Right Winger,RW,£3.60m,Al Rayyan Sports Club,Qatar,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Sylvain N'Diaye,-1977,Senegal,Defensive Midfield,DM,-,Levante UD,Spain,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Ahmed Yahiaoui,18,France,Central Midfield,CM,£405Th.,FC Istres Ouest Provence ,France,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Thierry Racon,21,Guadeloupe,Defensive Midfield,DM,-,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Brahim Hemdani,-1979,Algeria,Defensive Midfield,DM,-,Rangers FC,Scotland,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Péguy Luyindula,26,France,Centre-Forward,CF,£9.00m,AJ Auxerre,France,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Fabio Celestini,29,Switzerland,Defensive Midfield,DM,£1.35m,Getafe CF,Spain,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Salomon Olembé,-1981,Cameroon,Left Midfield,LM,-,Al Rayyan Sports Club,Qatar,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Jérémy Gavanon,-1984,France,Goalkeeper,GK,-,Clermont Foot 63,France,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,AC Ajaccio,France,Free transfer,Out,2005,s,ligue-1
-Olympique Marseille,Rudi Skacel,-1980,Czech Republic,Left Midfield,LM,-,Heart of Midlothian FC,Scotland,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Laurent Batlles,29,France,Attacking Midfield,AM,£3.60m,FC Toulouse,France,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Habib Bamogo,-1983,Burkina Faso,Second Striker,SS,-,FC Nantes,France,Loan,Out,2005,s,ligue-1
-Olympique Marseille,Pegguy Arphexad,-1974,France,Goalkeeper,GK,-,,Retired,-,Out,2005,s,ligue-1
-Olympique Marseille,Yang Gai,-1988,China,Central Midfield,CM,-,,Without Club,-,Out,2005,s,ligue-1
-Olympique Marseille,Bruno Cheyrou,27,France,Central Midfield,CM,£3.51m,Liverpool FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Olympique Marseille,Steve Marlet,31,France,Centre-Forward,CF,£3.15m,Fulham FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Saint-Étienne,Patrice Carteron,-1971,France,Centre-Back,CB,-,AS Cannes,France,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Mickael Pontal,-1981,France,Centre-Back,CB,-,US Boulogne,France,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Lilian Compan,28,France,Centre-Forward,CF,£1.08m,SM Caen,France,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Sylvain Meslien,-1981,France,Centre-Back,CB,-,ES Troyes AC,France,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Nicolas Marin,-1981,France,Right Midfield,RM,-,CS Sedan-Ardennes,France,Loan,Out,2005,s,ligue-1
-AS Saint-Étienne,Stéphane Hernandez,-1980,France,Centre-Back,CB,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Pathé Bangoura,-1985,Guinea,Centre-Forward,CF,-,Genclerbirliyi Sumgayit,Azerbaijan,Free transfer,Out,2005,s,ligue-1
-AS Saint-Étienne,Florent Guillaud,-1985,France,Goalkeeper,GK,-,,Retired,-,Out,2005,s,ligue-1
-AS Saint-Étienne,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,FC Girondins Bordeaux,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Saint-Étienne,Alaeddine Yahia,23,Tunisia,Centre-Back,CB,£1.26m,Southampton FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Saint-Étienne,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,Stade Rennais FC,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Saint-Étienne,Ronan Le Crom,30,France,Goalkeeper,GK,£360Th.,EA Guingamp,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AS Saint-Étienne,Javier Garrido,25,Spain,Right-Back,RB,£1.80m,Valencia CF,Spain,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-RC Lens,John Utaka,23,Nigeria,Left Winger,LW,£6.30m,Stade Rennais FC,France,£5.40m,Out,2005,s,ligue-1
-RC Lens,Stéphane Besle,21,France,Centre-Back,CB,£180Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2005,s,ligue-1
-RC Lens,Dagui Bakari,30,Cote d'Ivoire,Centre-Forward,CF,£1.17m,AS Nancy-Lorraine,France,Free transfer,Out,2005,s,ligue-1
-RC Lens,Rod Fanni,23,France,Right-Back,RB,£315Th.,OGC Nice,France,Free transfer,Out,2005,s,ligue-1
-RC Lens,Jacek Bak,32,Poland,Centre-Back,CB,£1.58m,Al Rayyan Sports Club,Qatar,Free transfer,Out,2005,s,ligue-1
-RC Lens,Pape Sarr,27,Senegal,Attacking Midfield,AM,£900Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1
-RC Lens,Daouda Jabi,24,Guinea,Right-Back,RB,£450Th.,AC Ajaccio,France,Loan,Out,2005,s,ligue-1
-RC Lens,Abdoulaye Fayé,27,Senegal,Centre-Back,CB,£900Th.,Bolton Wanderers,England,Loan,Out,2005,s,ligue-1
-RC Lens,Bouabid Bouden,23,Morocco,Centre-Forward,CF,£450Th.,Odense Boldklub,Denmark,Free transfer,Out,2005,s,ligue-1
-RC Lens,Lesly Malouda,21,French Guiana,Left-Back,LB,£270Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1
-RC Lens,Matar Coly,20,Senegal,Centre-Forward,CF,£315Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2005,s,ligue-1
-RC Lens,Mounir Diane,23,Morocco,Attacking Midfield,AM,£1.08m,SC Bastia,France,Loan,Out,2005,s,ligue-1
-RC Lens,Furtado,22,Brazil,Defensive Midfield,DM,£68Th.,RC Lens B,France,-,Out,2005,s,ligue-1
-RC Lens,Martin Ekani,21,France,Right-Back,RB,£270Th.,RC Lens B,France,-,Out,2005,s,ligue-1
-RC Lens,Alou Diarra,23,France,Defensive Midfield,DM,£3.60m,Liverpool FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-RC Lens,Éric Cubilier,25,France,Right-Back,RB,£1.13m,AS Monaco,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AJ Auxerre,Bonaventure Kalou,-1979,Cote d'Ivoire,Right Winger,RW,-,Paris Saint-Germain,France,£7.65m,Out,2005,s,ligue-1
-AJ Auxerre,Teemu Tainio,-1980,Finland,Defensive Midfield,DM,-,Tottenham Hotspur,England,Free transfer,Out,2005,s,ligue-1
-AJ Auxerre,Michaël Ciani,21,France,Centre-Back,CB,£450Th.,CS Sedan-Ardennes,France,Loan,Out,2005,s,ligue-1
-AJ Auxerre,Yannick Boumsong,-1985,France,Defensive Midfield,DM,-,CSKA Sofia,Bulgaria,Free transfer,Out,2005,s,ligue-1
-AJ Auxerre,Arnaud Gonzalez,27,France,Centre-Forward,CF,£675Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1
-AJ Auxerre,David Vandenbossche,-1981,France,Midfielder,Midfielder,-,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-AJ Auxerre,David Recorbet,-1977,France,Centre-Back,CB,-,FC Lorient,France,Free transfer,Out,2005,s,ligue-1
-Paris Saint-Germain,Reinaldo,-1980,Brazil,Centre-Forward,CF,-,Kashiwa Reysol,Japan,£3.60m,Out,2005,s,ligue-1
-Paris Saint-Germain,Lorik Cana,-1984,Albania,Centre-Back,CB,-,Olympique Marseille,France,£3.60m,Out,2005,s,ligue-1
-Paris Saint-Germain,Selim Benachour,23,Tunisia,Attacking Midfield,AM,£1.35m,Vitória Guimarães SC,Portugal,£563Th.,Out,2005,s,ligue-1
-Paris Saint-Germain,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,AC Ajaccio,France,£450Th.,Out,2005,s,ligue-1
-Paris Saint-Germain,Danijel Ljuboja,26,Serbia,Centre-Forward,CF,£2.70m,VfB Stuttgart,Germany,Loan fee:£180Th.,Out,2005,s,ligue-1
-Paris Saint-Germain,Alioune Touré,-1979,France,Right Winger,RW,-,União de Leiria,Portugal,£90Th.,Out,2005,s,ligue-1
-Paris Saint-Germain,Filipe Teixeira,-1981,Portugal,Right Winger,RW,-,Académica Coimbra,Portugal,Free transfer,Out,2005,s,ligue-1
-Paris Saint-Germain,Charles-Edouard Coridon,32,Martinique,Attacking Midfield,AM,£1.04m,MKE Ankaragücü,Turkey,Free transfer,Out,2005,s,ligue-1
-Paris Saint-Germain,Bartholomew Ogbeche,-1985,Nigeria,Centre-Forward,CF,-,Al-Jazira (Abu Dhabi),United Arab Emirates,Free transfer,Out,2005,s,ligue-1
-Paris Saint-Germain,Branko Boskovic,-1981,Montenegro,Central Midfield,CM,-,ES Troyes AC,France,Loan,Out,2005,s,ligue-1
-Paris Saint-Germain,José-Karl Pierre-Fanfan,-1976,Martinique,Centre-Back,CB,-,Rangers FC,Scotland,?,Out,2005,s,ligue-1
-Paris Saint-Germain,Hélder Cristóvão,-1972,Portugal,Centre-Back,CB,-,,Without Club,-,Out,2005,s,ligue-1
-Paris Saint-Germain,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Le Mans Union Club 72,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Sylvain Monsoreau,24,France,Centre-Back,CB,£4.50m,Olympique Lyon,France,£4.50m,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Jérémy Mathieu,-1984,France,Centre-Back,CB,-,FC Toulouse,France,£4.50m,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Santos,26,Tunisia,Centre-Forward,CF,£5.85m,FC Toulouse,France,£2.70m,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Gérard Gnanhouan,-1980,Cote d'Ivoire,Goalkeeper,GK,-,HSC Montpellier,France,Free transfer,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Wilson Oruma,-1977,Nigeria,Attacking Midfield,AM,-,Olympique Marseille,France,Free transfer,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Ibrahim Tall,-1982,Senegal,Centre-Back,CB,-,Heart of Midlothian FC,Scotland,Free transfer,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Thomas Régnier,-1985,France,Centre-Forward,CF,-,Clermont Foot 63,France,Loan,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Sigamary Diarra,21,Mali,Left Midfield,LM,£225Th.,Stade Lavallois,France,Free transfer,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Maxence Flachez,32,France,Centre-Back,CB,£540Th.,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Aimé Lavie,-1985,France,Defender,Defender,-,FC Sète 34,France,Loan,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Steve Bernardet,-1986,France,Defensive Midfield,DM,-,Pau FC,France,Loan,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Marcelo Luis Trapasso,-1977,Argentina,Attacking Midfield,AM,-,LB Châteauroux,France,?,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Francois Mével,-1983,France,Defender,Defender,-,Go Ahead Eagles Deventer,Netherlands,?,Out,2005,s,ligue-1
-FC Sochaux-Montbéliard,Grégory Paisley,-1978,France,Left-Back,LB,-,FC Metz,France,?,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Mamadou Niang,25,Senegal,Centre-Forward,CF,£4.50m,Olympique Marseille,France,£6.30m,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Christian Bassila,-1978,France,Centre-Back,CB,-,Sunderland AFC,England,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Abdelilah Fahmi,31,Morocco,Centre-Back,CB,£585Th.,Gaziantepspor,Turkey,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Katlego Mphela,-1985,South Africa,Centre-Forward,CF,-,Stade Reims,France,Loan,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Pascal Camadini,-1973,France,Central Midfield,CM,-,SC Bastia,France,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Jacques Momha,22,Cameroon,Left-Back,LB,£315Th.,Stade Lavallois,France,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Omer Peretz,-1987,Israel,Centre-Forward,CF,-,Hapoel Tel Aviv,Israel,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Nicolas Bonis,-1982,France,Goalkeeper,GK,-,Pontevedra CF,Spain,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Yannick Kamanan,22,France,Centre-Forward,CF,£45Th.,KV Oostende,Belgium,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Vaclav Drobny,-1981,Czech Republic,Centre-Back,CB,-,FK Jablonec 97,Czech Republic,Free transfer,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.13m,FC Toulouse,France,Loan,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Richard Dutruel,-1973,France,Goalkeeper,GK,-,,Retired,-,Out,2005,s,ligue-1
-RC Strasbourg Alsace,Rémy Vercoutre,25,France,Goalkeeper,GK,£900Th.,Olympique Lyon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-RC Strasbourg Alsace,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-RC Strasbourg Alsace,Arthur Boka,22,Cote d'Ivoire,Left-Back,LB,£1.13m,KSK Beveren,Belgium,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-OGC Nice,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,ES Troyes AC,France,Loan fee:£225Th.,Out,2005,s,ligue-1
-OGC Nice,Abdelmalek Cherrad,-1982,Algeria,Centre-Forward,CF,-,SC Bastia,France,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Hilaire Muñoz,22,France,Goalkeeper,GK,£450Th.,SC Balma,France,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Serge Dié,27,Cote d'Ivoire,Defensive Midfield,DM,£900Th.,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Jean-Paul Kalala,-1983,DR Congo,Central Midfield,CM,-,Grimsby Town,England,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,Gillingham FC,England,Loan,Out,2005,s,ligue-1
-OGC Nice,Victor Agali,26,Nigeria,Centre-Forward,CF,£1.58m,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Thibault Scotto,-1979,France,Right-Back,RB,-,SC Amiens,France,Loan,Out,2005,s,ligue-1
-OGC Nice,Georges Ba,-1980,Cote d'Ivoire,Centre-Forward,CF,-,ES Troyes AC,France,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Christophe Meslin,28,France,Centre-Forward,CF,£675Th.,SC Bastia,France,Free transfer,Out,2005,s,ligue-1
-OGC Nice,Kamel Larbi,-1986,Algeria,Centre-Forward,CF,-,FC Lorient,France,Loan,Out,2005,s,ligue-1
-OGC Nice,José Cobos,-1969,France,Left-Back,LB,-,,Retired,-,Out,2005,s,ligue-1
-OGC Nice,Bruno Valencony,-1969,France,Goalkeeper,GK,-,,Retired,-,Out,2005,s,ligue-1
-OGC Nice,Martin Djetou,30,France,Centre-Back,CB,£900Th.,,Without Club,-,Out,2005,s,ligue-1
-OGC Nice,Edgaras Jankauskas,30,Lithuania,Centre-Forward,CF,£1.62m,FC Porto,Portugal,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Toulouse,David Suarez,26,France,Second Striker,SS,£900Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Julien Sola,21,France,Midfielder,Midfielder,£180Th.,AS Moulins Football,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Eduardo,25,Brazil,Centre-Forward,CF,£1.80m,FC Basel 1893,Switzerland,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Anthony Braizat,27,France,Right Midfield,RM,£405Th.,AS Cannes,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Predrag Ocokoljic,27,Serbia,Right-Back,RB,£360Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Ludovic Clément,28,Martinique,Defender,Defender,£450Th.,HSC Montpellier,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,FC Istres Ouest Provence ,France,Free transfer,Out,2005,s,ligue-1
-FC Toulouse,François Clerc,22,France,Right-Back,RB,£225Th.,Olympique Lyon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Toulouse,Stéphane Dalmat,26,France,Central Midfield,CM,£6.30m,FC Internazionale,Italy,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AC Ajaccio,Yacine Bezzaz,23,Algeria,Left Midfield,LM,£180Th.,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Abdelnasser Ouadah,29,Algeria,Left Winger,LW,£1.80m,FC Metz,France,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,David Terrier,31,France,Defender,Defender,£405Th.,US Créteil-Lusitanos,France,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Yohan Demont,27,France,Right-Back,RB,£1.80m,RC Lens,France,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Gaspar,30,Portugal,Centre-Back,CB,£675Th.,Belenenses SAD,Portugal,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Nicolas Bonnal,28,France,Left Midfield,LM,£450Th.,Stade Reims,France,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Mamadou Seck,25,Senegal,Centre-Back,CB,£1.35m,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1
-AC Ajaccio,Abderaouf Zarabi,26,Algeria,Left-Back,LB,£180Th.,FC Gueugnon,France,Loan,Out,2005,s,ligue-1
-AC Ajaccio,Renaud Connen,25,Monaco,Attacking Midfield,AM,£630Th.,Grenoble Foot 38,France,Loan,Out,2005,s,ligue-1
-AC Ajaccio,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AC Ajaccio,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-AC Ajaccio,Olivier Fauconnier,29,Guadeloupe,Centre-Forward,CF,£405Th.,OGC Nice,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Girondins Bordeaux,Camel Meriem,25,France,Attacking Midfield,AM,£5.40m,AS Monaco,France,£5.40m,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,AS Saint-Étienne,France,£2.70m,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Albert Riera,-1983,Spain,Left Winger,LW,-,RCD Espanyol Barcelona,Spain,£2.70m,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Michalis Kapsis,-1974,Greece,Centre-Back,CB,-,Olympiacos Piraeus,Greece,£450Th.,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Anicet Adjamossi,-1985,Benin,Right-Back,RB,-,Entente SSG,France,Free transfer,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Cyril Rool,-1976,France,Left-Back,LB,-,OGC Nice,France,Free transfer,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Abdoulaye Barry,-1985,Guinea,Centre-Back,CB,-,Gazélec Football Club Olympique Ajaccio,France,Free transfer,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Gérald Cid,-1984,France,Centre-Back,CB,-,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Renaud Cohade,20,France,Central Midfield,CM,£900Th.,FC Sète 34,France,Loan,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Sylvain Franco,-1984,France,Centre-Forward,CF,-,,Retired,-,Out,2005,s,ligue-1
-FC Girondins Bordeaux,Adonis,19,Brazil,Attacking Midfield,AM,£315Th.,Rio Branco Esporte Clube (SP),Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Girondins Bordeaux,Thiago Ribeiro,19,Brazil,Left Winger,LW,£450Th.,Rio Branco Esporte Clube (SP),Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Girondins Bordeaux,Kalu Uche,22,Nigeria,Centre-Forward,CF,£1.13m,Wisla Kraków,Poland,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Metz,Franck Signorino,23,France,Left-Back,LB,£2.25m,FC Nantes,France,£900Th.,Out,2005,s,ligue-1
-FC Metz,Christophe Avezac,-1978,France,Left-Back,LB,-,FCO Dijon,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Mario Espartero,-1979,France,Defensive Midfield,DM,-,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1
-FC Metz,Julien Gorius,-1986,France,Central Midfield,CM,-,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1
-FC Metz,Richard Socrier,26,Guadeloupe,Centre-Forward,CF,£360Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Mamadou Diakité,-1986,Mali,Defensive Midfield,DM,-,Vitória Setúbal FC,Portugal,Loan,Out,2005,s,ligue-1
-FC Metz,Alexandre Frutos,-1983,France,Left Winger,LW,-,Brighton & Hove Albion,England,Free transfer,Out,2005,s,ligue-1
-FC Metz,Guillaume Cherreau,-1984,France,Goalkeeper,GK,-,Cambridge United,England,Free transfer,Out,2005,s,ligue-1
-FC Metz,Sylvain Marchal,25,France,Centre-Back,CB,£1.35m,FC Lorient,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Venn Toure,-1985,Cote d'Ivoire,Defensive Midfield,DM,-,AS Cannes,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Johan Eberhart,-1987,France,Defender,Defender,-,1.FC Saarbrücken II,Germany,Free transfer,Out,2005,s,ligue-1
-FC Metz,Mathieu Dinet,19,France,Central Midfield,CM,£135Th.,Stade Brest 29,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Benjamin Nicaise,-1981,France,Defensive Midfield,DM,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1
-FC Metz,Stéphane Thys,-1987,Belgium,Forward,Forward,-,RAEC Mons,Belgium,Loan,Out,2005,s,ligue-1
-FC Metz,Jean-Philippe Caillet,-1978,France,Centre-Back,CB,-,FC Litex Lovetch,Bulgaria,Free transfer,Out,2005,s,ligue-1
-FC Metz,Papiss Demba Cissé,20,Senegal,Centre-Forward,CF,£225Th.,AS Cherbourg,France,Loan,Out,2005,s,ligue-1
-FC Metz,Nicolas N´Dione,-1983,Senegal,Forward,Forward,-,Sporting Toulon Var,France,?,Out,2005,s,ligue-1
-FC Metz,Moktar Mangane,-1983,Senegal,Defender,Defender,-,CS Louhans-Cuiseaux 71,France,Loan,Out,2005,s,ligue-1
-FC Metz,Grégory Leca,25,France,Defensive Midfield,DM,£1.35m,SM Caen,France,?,Out,2005,s,ligue-1
-FC Metz,Daniel Bocande,-1984,Senegal,Midfielder,Midfielder,-,CS Louhans-Cuiseaux 71,France,Loan,Out,2005,s,ligue-1
-FC Metz,Bartholomew Ogbeche,20,Nigeria,Centre-Forward,CF,£1.35m,Paris Saint-Germain,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Metz,Ruslan Pimenov,23,Russia,Centre-Forward,CF,£1.80m,Lokomotiv Moscow,Russia,"End of loanJun 1, 2005",Out,2005,s,ligue-1
-FC Metz,Ivan Gvozdenović,26,Serbia,Centre-Back,CB,£900Th.,Club Brugge KV,Belgium,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-FC Nantes,Florin Bratu,25,Romania,Centre-Forward,CF,£1.35m,Dinamo Bukarest,Romania,Loan fee:£225Th.,Out,2005,s,ligue-1
-FC Nantes,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Goran Rubil,24,Croatia,Right Midfield,RM,£180Th.,Shonan Bellmare,Japan,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Fodil Hadjadj,22,Algeria,Defensive Midfield,DM,£720Th.,MC Algiers,Algeria,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Shiva N'Zigou,21,Gabon,Left Winger,LW,£630Th.,Stade Reims,France,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Loïc Pailleres,25,France,Defensive Midfield,DM,£450Th.,Angoulême Charente FC,France,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Boubacar Baldé,19,Guinea,Forward,Forward,£180Th.,Dakar UC,Senegal,Free transfer,Out,2005,s,ligue-1
-FC Nantes,Alexis Thébaux,20,France,Goalkeeper,GK,£135Th.,AS Cherbourg,France,Loan,Out,2005,s,ligue-1
-FC Nantes,Guillaume Rippert,20,France,Left-Back,LB,£225Th.,Valenciennes FC ,France,Loan,Out,2005,s,ligue-1
-FC Nantes,Denis Stinat,22,France,Left-Back,LB,£135Th.,FCO Dijon,France,Loan,Out,2005,s,ligue-1
-FC Nantes,Stéphen Drouin,21,France,Left-Back,LB,£810Th.,ES Troyes AC,France,Loan,Out,2005,s,ligue-1
-FC Nantes,Grégory Pujol,25,France,Centre-Forward,CF,£1.35m,RSC Anderlecht,Belgium,Loan,Out,2005,s,ligue-1
-FC Nantes,Hassan Ahamada,24,France,Attacking Midfield,AM,£630Th.,Belenenses SAD,Portugal,?,Out,2005,s,ligue-1
-FC Nantes,Mamadou Bagayoko,26,Mali,Centre-Forward,CF,£2.16m,OGC Nice,France,Loan,Out,2005,s,ligue-1
-FC Nantes,Julio Cáceres,25,Paraguay,Centre-Back,CB,£1.58m,Clube Atlético Mineiro,Brazil,?,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Demba Diagouraga,-1979,France,Midfielder,Midfielder,-,Aviron Bayonnais,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Julien Tournut,-1983,France,Centre-Back,CB,-,Yverdon-Sport FC,Switzerland,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Laurent Dufresne,33,France,Centre-Forward,CF,-,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Patrick Moreau,-1974,France,Defender,Defender,-,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Bertrand Fayolle,-1976,France,Centre-Forward,CF,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Ludovic Guerriero,20,France,Defensive Midfield,DM,-,US Raon-l'Étape,France,Loan,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Tchiressoua Guel,-1976,Cote d'Ivoire,Central Midfield,CM,-,FC Lorient,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Geoffrey Doumeng,-1981,France,Central Midfield,CM,-,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Rachid Hamdani,-1986,Morocco,Defensive Midfield,DM,-,US Raon-l'Étape,France,Loan,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Olivier Rambo,31,France,Right Winger,RW,-,Sporting Toulon Var,France,Free transfer,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Dagui Bakari,31,Cote d'Ivoire,Centre-Forward,CF,£1.17m,,Retired,-,Out,2005,s,ligue-1
-AS Nancy-Lorraine,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,Stade Rennais FC,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Le Mans Union Club 72,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Paris Saint-Germain,France,£2.70m,Out,2005,s,ligue-1
-Le Mans Union Club 72,Zvonimir Deranja,25,Croatia,Centre-Forward,CF,-,HNK Hajduk Split,Croatia,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Alioune Kébé,-1985,Senegal,Centre-Forward,CF,-,Tours FC,France,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Cédric Liabeuf,-1980,France,Attacking Midfield,AM,-,Stade Brest 29,France,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Sekou Baradji,21,France,Defensive Midfield,DM,-,West Ham United,England,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Yannick Yenga,-1986,DR Congo,Left Winger,LW,-,S. O. Châtellerault,France,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Vincent Demarconnay,-1984,France,Goalkeeper,GK,-,TVEC Les Sables,France,Free transfer,Out,2005,s,ligue-1
-Le Mans Union Club 72,Ulrick Lupède,-1985,Guadeloupe,Centre-Back,CB,-,Tours FC,France,?,Out,2005,s,ligue-1
-Le Mans Union Club 72,Thabang Molefe,-1980,South Africa,Centre-Back,CB,-,Orlando Pirates,South Africa,?,Out,2005,s,ligue-1
-Le Mans Union Club 72,Olivier Pédémas,-1969,France,Goalkeeper,GK,-,,Retired,-,Out,2005,s,ligue-1
-Le Mans Union Club 72,Laurent Peyrelade,-1971,France,Forward,Forward,-,,Retired,-,Out,2005,s,ligue-1
-Le Mans Union Club 72,Dan Eggen,-1971,Norway,Centre-Back,CB,-,,Retired,-,Out,2005,s,ligue-1
-Le Mans Union Club 72,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,FC Nantes,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Le Mans Union Club 72,Alexandre Comisetti,31,Switzerland,Left Midfield,LM,£675Th.,Servette FC,Switzerland,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Le Mans Union Club 72,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,OGC Nice,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Le Mans Union Club 72,Mansour Boutabout,26,Algeria,Centre-Forward,CF,-,FC Gueugnon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-ES Troyes AC,Damien Perquis,21,Poland,Centre-Back,CB,£765Th.,AS Saint-Étienne,France,£540Th.,Out,2005,s,ligue-1
-ES Troyes AC,Franck Grandel,27,Guadeloupe,Goalkeeper,GK,£270Th.,FC Utrecht,Netherlands,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,Emanuel Perrone,-1984,Argentina,Centre-Forward,CF,-,Ionikos Nikeas,Greece,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,David Vairelles,-1978,France,Centre-Back,CB,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,Nicolas Florentin,-1979,France,Left Winger,LW,-,SM Caen,France,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,Ludovic Liron,-1979,France,Centre-Back,CB,-,Valenciennes FC ,France,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,Frédéric Garny,-1975,France,Forward,Forward,-,SCO Angers,France,Free transfer,Out,2005,s,ligue-1
-ES Troyes AC,Karim Ziani,22,Algeria,Attacking Midfield,AM,-,FC Lorient,France,?,Out,2005,s,ligue-1
-ES Troyes AC,Eric Marester,21,France,Right-Back,RB,-,SC Bastia,France,Loan,Out,2005,s,ligue-1
-ES Troyes AC,Marvin Aïssi,-1986,Benin,Centre-Forward,CF,-,FC Baden,Switzerland,?,Out,2005,s,ligue-1
-ES Troyes AC,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,AS Saint-Étienne,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-ES Troyes AC,Bafétimbi Gomis,19,France,Centre-Forward,CF,£135Th.,AS Saint-Étienne,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1
-Olympique Lyon,Patrick Müller,29,Switzerland,Centre-Back,CB,£2.70m,FC Basel 1893,Switzerland,£3.42m,In,2005,w,ligue-1
-AS Monaco,Marco Di Vaio,-1977,Italy,Centre-Forward,CF,-,Valencia CF,Spain,Loan fee:£90Th.,In,2005,w,ligue-1
-AS Monaco,Alexandre Licata,-1985,France,Centre-Forward,CF,-,CS Louhans-Cuiseaux 71,France,Free transfer,In,2005,w,ligue-1
-AS Monaco,Manuel dos Santos,-1975,Cape Verde,Left-Back,LB,-,SL Benfica,Portugal,Free transfer,In,2005,w,ligue-1
-AS Monaco,Christian Vieri,32,Italy,Centre-Forward,CF,£9.00m,AC Milan,Italy,Free transfer,In,2005,w,ligue-1
-Stade Rennais FC,John Mensah,23,Ghana,Centre-Back,CB,£225Th.,Chievo Verona,Italy,£1.08m,In,2005,w,ligue-1
-Stade Rennais FC,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.60m,AS Monaco,France,£900Th.,In,2005,w,ligue-1
-Olympique Marseille,Mickaël Pagis,32,France,Second Striker,SS,£3.15m,RC Strasbourg Alsace,France,£900Th.,In,2005,w,ligue-1
-Olympique Marseille,Renato Civelli,22,Argentina,Centre-Back,CB,-,Club Atlético Banfield,Argentina,Loan fee:£117Th.,In,2005,w,ligue-1
-Olympique Marseille,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,AS Monaco,France,Loan,In,2005,w,ligue-1
-Olympique Marseille,Jérôme Bonnissel,32,France,Left-Back,LB,£675Th.,,Without Club,-,In,2005,w,ligue-1
-Olympique Marseille,Anthony Flachi,-1987,France,Central Midfield,CM,-,Olympique de Marseille B,France,-,In,2005,w,ligue-1
-Olympique Marseille,Alexis Pradie,-1988,France,Centre-Back,CB,-,Olympique de Marseille B,France,-,In,2005,w,ligue-1
-AS Saint-Étienne,Hélder Postiga,23,Portugal,Centre-Forward,CF,£5.40m,FC Porto,Portugal,Loan fee:£720Th.,In,2005,w,ligue-1
-AS Saint-Étienne,Bruno Basto,-1979,Portugal,Left-Back,LB,-,,Without Club,-,In,2005,w,ligue-1
-RC Lens,Pierre-Alain Frau,25,France,Centre-Forward,CF,£4.05m,Olympique Lyon,France,Loan,In,2005,w,ligue-1
-RC Lens,Guillermo Rodríguez,-1985,Uruguay,Centre-Back,CB,-,Danubio FC,Uruguay,Loan,In,2005,w,ligue-1
-RC Lens,Pape Sarr,-1978,Senegal,Attacking Midfield,AM,-,FC Istres Ouest Provence ,France,End of loan,In,2005,w,ligue-1
-Paris Saint-Germain,Paulo César,27,Brazil,Right Midfield,RM,£900Th.,Santos FC,Brazil,"End of loanJan 10, 2006",In,2005,w,ligue-1
-FC Sochaux-Montbéliard,Dusko Tosic,20,Serbia,Centre-Back,CB,-,OFK Beograd,Serbia,£450Th.,In,2005,w,ligue-1
-FC Sochaux-Montbéliard,Weldon,-1981,Brazil,Centre-Forward,CF,-,Cruzeiro Esporte Clube,Brazil,Loan,In,2005,w,ligue-1
-FC Sochaux-Montbéliard,Valéry Mézague,-1984,Cameroon,Attacking Midfield,AM,-,HSC Montpellier,France,?,In,2005,w,ligue-1
-FC Sochaux-Montbéliard,Thomas Régnier,21,France,Centre-Forward,CF,-,Clermont Foot 63,France,"End of loanDec 31, 2005",In,2005,w,ligue-1
-RC Strasbourg Alsace,Edgar Loué,22,Cote d'Ivoire,Defensive Midfield,DM,-,Raja Club Athletic Casablanca,Morocco,£450Th.,In,2005,w,ligue-1
-RC Strasbourg Alsace,Abou Mosalem,24,Egypt,Left-Back,LB,-,El Ahly Cairo,Egypt,£135Th.,In,2005,w,ligue-1
-RC Strasbourg Alsace,Szilard Nemeth,28,Slovakia,Second Striker,SS,£4.73m,Middlesbrough FC,England,Loan,In,2005,w,ligue-1
-RC Strasbourg Alsace,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.80m,FC Toulouse,France,"End of loanDec 31, 2005",In,2005,w,ligue-1
-OGC Nice,Onyekachi Apam,19,Nigeria,Centre-Back,CB,-,Enugu Rangers IFC,Nigeria,Loan fee:£225Th.,In,2005,w,ligue-1
-OGC Nice,David Bellion,23,France,Centre-Forward,CF,£2.03m,Manchester United,England,Loan,In,2005,w,ligue-1
-OGC Nice,Drissa Diakité,20,Mali,Centre-Back,CB,-,MC Algiers,Algeria,Free transfer,In,2005,w,ligue-1
-OGC Nice,Kamel Larbi,-1986,Algeria,Centre-Forward,CF,-,FC Lorient,France,End of loan,In,2005,w,ligue-1
-OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,Gillingham FC,England,"End of loanDec 31, 2005",In,2005,w,ligue-1
-AC Ajaccio,Moussa N'Diaye,-1980,Senegal,Right Winger,RW,-,FC Istres Ouest Provence ,France,Loan,In,2005,w,ligue-1
-FC Girondins Bordeaux,Beto,-1977,Portugal,Centre-Back,CB,-,Sporting CP,Portugal,£900Th.,In,2005,w,ligue-1
-FC Metz,Souleymane Youla,24,Guinea,Centre-Forward,CF,£2.70m,Besiktas JK,Turkey,Loan fee:£360Th.,In,2005,w,ligue-1
-FC Metz,Ruslan Pimenov,-1982,Russia,Centre-Forward,CF,-,Lokomotiv Moscow,Russia,Loan fee:£180Th.,In,2005,w,ligue-1
-FC Metz,Jamal Alioui,23,Morocco,Right-Back,RB,£270Th.,FC Crotone,Italy,Loan,In,2005,w,ligue-1
-FC Metz,Mamadou Diakité,20,Mali,Defensive Midfield,DM,-,Vitória Setúbal FC,Portugal,"End of loanDec 31, 2005",In,2005,w,ligue-1
-FC Nantes,Dennis Oliech,20,Kenya,Right Winger,RW,-,Al Arabi Sports Club,Qatar,£2.43m,In,2005,w,ligue-1
-FC Nantes,Julio Hernán Rossi,-1978,Argentina,Centre-Forward,CF,-,FC Basel 1893,Switzerland,£630Th.,In,2005,w,ligue-1
-FC Nantes,Karim El Mourabet,-1988,Morocco,Centre-Back,CB,-,FC Nantes B,France,-,In,2005,w,ligue-1
-AS Nancy-Lorraine,Romain Chouleur,-1987,France,Left Winger,LW,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1
-AS Nancy-Lorraine,Basile Camerling,-1988,France,Centre-Forward,CF,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1
-AS Nancy-Lorraine,Manuel da Costa,19,Morocco,Centre-Back,CB,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1
-Le Mans Union Club 72,Grafite,26,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,£3.15m,In,2005,w,ligue-1
-Le Mans Union Club 72,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,FC Istres Ouest Provence ,France,Loan,In,2005,w,ligue-1
-ES Troyes AC,Grégory Paisley,28,France,Left-Back,LB,£540Th.,FC Metz,France,Free transfer,In,2005,w,ligue-1
-ES Troyes AC,Ali Zitouni,24,Tunisia,Right Winger,RW,-,Esperance Tunis,Tunisia,Loan,In,2005,w,ligue-1
-Olympique Lyon,Johann Truchet,22,France,Right-Back,RB,£90Th.,Stade Reims,France,Loan,Out,2005,w,ligue-1
-Olympique Lyon,Julien Viale,23,France,Centre-Forward,CF,£450Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,w,ligue-1
-Olympique Lyon,Pierre-Alain Frau,25,France,Centre-Forward,CF,£4.05m,RC Lens,France,Loan,Out,2005,w,ligue-1
-LOSC Lille,Dante,22,Brazil,Centre-Back,CB,£225Th.,RSC Charleroi,Belgium,Loan,Out,2005,w,ligue-1
-AS Monaco,Emmanuel Adebayor,21,Togo,Centre-Forward,CF,£6.75m,Arsenal FC,England,£9.00m,Out,2005,w,ligue-1
-AS Monaco,Patrice Evra,24,France,Left-Back,LB,£5.85m,Manchester United,England,£7.20m,Out,2005,w,ligue-1
-AS Monaco,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.60m,Stade Rennais FC,France,£900Th.,Out,2005,w,ligue-1
-AS Monaco,Marko Muslin,-1986,France,Defensive Midfield,DM,-,Willem II Tilburg,Netherlands,Loan,Out,2005,w,ligue-1
-AS Monaco,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,Olympique Marseille,France,Loan,Out,2005,w,ligue-1
-Stade Rennais FC,Grégory Tanagro,21,France,Centre-Back,CB,£270Th.,FC Sète 34,France,Loan,Out,2005,w,ligue-1
-Stade Rennais FC,Stéphane N'Guéma,21,Gabon,Right Winger,RW,£540Th.,FC Lorient,France,Loan,Out,2005,w,ligue-1
-Olympique Marseille,Koji Nakata,26,Japan,Defensive Midfield,DM,£1.89m,FC Basel 1893,Switzerland,£630Th.,Out,2005,w,ligue-1
-Olympique Marseille,Leyti N'Diaye,20,Senegal,Centre-Back,CB,£405Th.,US Créteil-Lusitanos,France,Loan,Out,2005,w,ligue-1
-Olympique Marseille,Koke,-1984,Spain,Centre-Forward,CF,-,Sporting CP,Portugal,Loan,Out,2005,w,ligue-1
-Olympique Marseille,Andrés Mendoza,-1979,Peru,Centre-Forward,CF,-,Metallurg Donetsk,Ukraine,End of loan,Out,2005,w,ligue-1
-AS Saint-Étienne,Idriss Ech-Chergui,-1986,France,Attacking Midfield,AM,-,Aviron Bayonnais,France,Free transfer,Out,2005,w,ligue-1
-RC Lens,Jérôme Leroy,31,France,Attacking Midfield,AM,£3.60m,Beitar Jerusalem,Israel,£450Th.,Out,2005,w,ligue-1
-RC Lens,Pape Sarr,-1978,Senegal,Attacking Midfield,AM,-,Stade Brest 29,France,Free transfer,Out,2005,w,ligue-1
-AJ Auxerre,Benjani,-1979,Zimbabwe,Centre-Forward,CF,-,Portsmouth FC,England,£5.40m,Out,2005,w,ligue-1
-AJ Auxerre,Abou Diaby,19,France,Central Midfield,CM,£135Th.,Arsenal FC,England,£2.70m,Out,2005,w,ligue-1
-AJ Auxerre,Hassan Yebda,-1985,Algeria,Central Midfield,CM,-,Stade Lavallois,France,Loan,Out,2005,w,ligue-1
-Paris Saint-Germain,Sergey Semak,29,Russia,Central Midfield,CM,£2.25m,FK Moskau,Russia,£2.70m,Out,2005,w,ligue-1
-FC Sochaux-Montbéliard,Jaouad Zairi,-1983,Morocco,Right Midfield,RM,-,Al-Ittihad Jeddah,Saudi Arabia,Loan fee:£630Th.,Out,2005,w,ligue-1
-FC Sochaux-Montbéliard,Fabien Lavoyer,19,France,Centre-Back,CB,-,SO Romorantin,France,Free transfer,Out,2005,w,ligue-1
-FC Sochaux-Montbéliard,Mohamed Kader,-1980,Togo,Centre-Forward,CF,-,EA Guingamp,France,Free transfer,Out,2005,w,ligue-1
-FC Sochaux-Montbéliard,Ahmed Samir Farag,19,Egypt,Left-Back,LB,£90Th.,El Ahly Cairo,Egypt,Loan,Out,2005,w,ligue-1
-RC Strasbourg Alsace,Mickaël Pagis,32,France,Second Striker,SS,£3.15m,Olympique Marseille,France,£900Th.,Out,2005,w,ligue-1
-RC Strasbourg Alsace,Éric Mouloungui,21,Gabon,Centre-Forward,CF,£810Th.,FC Gueugnon,France,Loan,Out,2005,w,ligue-1
-OGC Nice,Franck Padovani,20,France,Centre-Forward,CF,£315Th.,Sporting Toulon Var,France,Loan,Out,2005,w,ligue-1
-FC Toulouse,Benjamin Psaume,21,France,Right Winger,RW,£1.13m,FC Sète 34,France,Loan,Out,2005,w,ligue-1
-FC Toulouse,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.80m,RC Strasbourg Alsace,France,"End of loanDec 31, 2005",Out,2005,w,ligue-1
-AC Ajaccio,Christophe Bastien,-1977,France,Right Midfield,RM,-,CS Sedan-Ardennes,France,Free transfer,Out,2005,w,ligue-1
-AC Ajaccio,Laurent Merlin,21,France,Attacking Midfield,AM,£180Th.,LB Châteauroux,France,Free transfer,Out,2005,w,ligue-1
-FC Girondins Bordeaux,Paulo Costa,-1980,Portugal,Attacking Midfield,AM,-,Aris Thessaloniki,Greece,Free transfer,Out,2005,w,ligue-1
-FC Girondins Bordeaux,Laurent Leroy,-1977,France,Centre-Forward,CF,-,US Créteil-Lusitanos,France,Free transfer,Out,2005,w,ligue-1
-FC Girondins Bordeaux,Kodjo Julien Afanou,-1978,Togo,Centre-Back,CB,-,,Without Club,-,Out,2005,w,ligue-1
-FC Metz,Samuel Allegro,-1979,France,Right-Back,RB,-,LB Châteauroux,France,Free transfer,Out,2005,w,ligue-1
-FC Metz,Jeong-hwan Ahn,30,"Korea, South",Second Striker,SS,£1.35m,MSV Duisburg,Germany,Free transfer,Out,2005,w,ligue-1
-FC Metz,Marcin Zewlakow,-1977,Poland,Centre-Forward,CF,-,Excelsior Mouscron,Belgium,Loan,Out,2005,w,ligue-1
-FC Metz,Grégory Paisley,-1978,France,Left-Back,LB,-,ES Troyes AC,France,Free transfer,Out,2005,w,ligue-1
-FC Nantes,Alexander Viveros,-1978,Colombia,Left-Back,LB,-,Grasshopper Club Zurich,Switzerland,Loan,Out,2005,w,ligue-1
-FC Nantes,Gilles Yapi,-1983,Cote d'Ivoire,Defensive Midfield,DM,-,BSC Young Boys,Switzerland,Loan,Out,2005,w,ligue-1
-AS Nancy-Lorraine,Saliou Lassissi,-1979,Cote d'Ivoire,Centre-Back,CB,-,AC Bellinzona,Switzerland,Free transfer,Out,2005,w,ligue-1
-AS Nancy-Lorraine,Olivier Rambo,31,France,Right Winger,RW,-,Sporting Toulon Var,France,Free transfer,Out,2005,w,ligue-1
-AS Nancy-Lorraine,Dagui Bakari,31,Cote d'Ivoire,Centre-Forward,CF,£1.17m,,Retired,-,Out,2005,w,ligue-1
-Le Mans Union Club 72,Jérémy Choplin,20,France,Centre-Back,CB,-,Aviron Bayonnais,France,Loan,Out,2005,w,ligue-1
-ES Troyes AC,Gaël Danic,24,France,Left Winger,LW,-,FC Lorient,France,Loan,Out,2005,w,ligue-1
-ES Troyes AC,Nabil Berkak,21,Morocco,Right-Back,RB,-,Entente SSG,France,Loan,Out,2005,w,ligue-1
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Olympique Lyon,Fred,21,Brazil,Centre-Forward,CF,£6.75m,Cruzeiro Esporte Clube,Brazil,£14.04m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fred/profil/spieler/31005
+Olympique Lyon,Tiago,24,Portugal,Central Midfield,CM,£9.00m,Chelsea FC,England,£9.09m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/tiago/profil/spieler/8538
+Olympique Lyon,John Carew,25,Norway,Centre-Forward,CF,£6.30m,Besiktas JK,Turkey,£6.84m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/john-carew/profil/spieler/3570
+Olympique Lyon,Benoît Pedretti,24,France,Defensive Midfield,DM,£8.10m,Olympique Marseille,France,£6.75m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/benoit-pedretti/profil/spieler/5406
+Olympique Lyon,Sylvain Monsoreau,24,France,Centre-Back,CB,£4.50m,FC Sochaux-Montbéliard,France,£4.50m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-monsoreau/profil/spieler/5393
+Olympique Lyon,Rémy Riou,17,France,Goalkeeper,GK,£45Th.,Olympique Lyon B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/remy-riou/profil/spieler/18940
+Olympique Lyon,Romain Beynié,18,France,Defensive Midfield,DM,-,Olympique Lyon B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-beynie/profil/spieler/36354
+Olympique Lyon,Karim Benzema,17,France,Centre-Forward,CF,-,Olympique Lyon U19,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/karim-benzema/profil/spieler/18922
+Olympique Lyon,Alexandre Hauw,23,France,Left Midfield,LM,-,Clermont Foot 63,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-hauw/profil/spieler/45085
+Olympique Lyon,François Clerc,22,France,Right-Back,RB,£225Th.,FC Toulouse,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/francois-clerc/profil/spieler/12134
+Olympique Lyon,Demba Touré,20,Senegal,Second Striker,SS,£990Th.,Grasshopper Club Zurich,Switzerland,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/demba-toure/profil/spieler/20044
+Olympique Lyon,Rémy Vercoutre,25,France,Goalkeeper,GK,£900Th.,RC Strasbourg Alsace,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/remy-vercoutre/profil/spieler/5338
+Olympique Lyon,Romain Sartre,22,France,Centre-Back,CB,£135Th.,Stade Lavallois,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-sartre/profil/spieler/12128
+Olympique Lyon,Julien Viale,23,France,Centre-Forward,CF,£900Th.,Stade Reims,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-viale/profil/spieler/12135
+LOSC Lille,Abdul Kader Keita,23,Cote d'Ivoire,Right Winger,RW,-,Al Sadd Sports Club,Qatar,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdul-kader-keita/profil/spieler/33366
+LOSC Lille,Daniel Gygax,23,Switzerland,Attacking Midfield,AM,£1.80m,FC Zürich,Switzerland,£675Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/daniel-gygax/profil/spieler/4951
+LOSC Lille,Stephan Lichtsteiner,21,Switzerland,Right-Back,RB,£1.26m,Grasshopper Club Zurich,Switzerland,£585Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephan-lichtsteiner/profil/spieler/2865
+LOSC Lille,Flavien Le Postollec,21,France,Defensive Midfield,DM,-,FC Martigues,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/flavien-le-postollec/profil/spieler/38399
+LOSC Lille,Hicham Aboucherouane,24,Morocco,Left Winger,LW,-,Raja Club Athletic Casablanca,Morocco,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/hicham-aboucherouane/profil/spieler/33636
+LOSC Lille,Samuel Robail,20,France,Attacking Midfield,AM,-,LOSC Lille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/samuel-robail/profil/spieler/33641
+LOSC Lille,Mathieu Robail,20,France,Left Midfield,LM,-,LOSC Lille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-robail/profil/spieler/33640
+LOSC Lille,Larsen Touré,21,Guinea,Right Winger,RW,-,LOSC Lille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/larsen-toure/profil/spieler/37516
+LOSC Lille,Serge Djamba-Shango,23,Belgium,Left Winger,LW,£720Th.,KV Oostende,Belgium,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/serge-djamba-shango/profil/spieler/12521
+AS Monaco,Camel Meriem,25,France,Attacking Midfield,AM,£5.40m,FC Girondins Bordeaux,France,£5.40m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/camel-meriem/profil/spieler/5376
+AS Monaco,Guillaume Warmuz,35,France,Goalkeeper,GK,£450Th.,Borussia Dortmund,Germany,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-warmuz/profil/spieler/3552
+AS Monaco,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,Stade Rennais FC,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+AS Monaco,Gerard López,26,Spain,Central Midfield,CM,£3.15m,FC Barcelona,Spain,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/gerard-lopez/profil/spieler/7599
+AS Monaco,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.15m,Stade Rennais FC,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+AS Monaco,Olivier Kapo,24,France,Attacking Midfield,AM,£3.60m,Juventus FC,Italy,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-kapo/profil/spieler/5438
+AS Monaco,Serge Gakpé,18,Togo,Right Winger,RW,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/serge-gakpe/profil/spieler/36293
+AS Monaco,Jimmy Juan,21,France,Central Midfield,CM,£675Th.,Ipswich Town,England,"End of loanMay 19, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jimmy-juan/profil/spieler/14849
+AS Monaco,Olivier Veigneau,19,France,Left-Back,LB,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-veigneau/profil/spieler/31773
+AS Monaco,Stéphane Ruffier,18,France,Goalkeeper,GK,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-ruffier/profil/spieler/39910
+AS Monaco,Nicolas Maurice-Belay,20,France,Left Midfield,LM,£90Th.,AS Monaco B,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-maurice-belay/profil/spieler/16591
+AS Monaco,Malaury Martin,16,France,Defensive Midfield,DM,-,AS Monaco B,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/malaury-martin/profil/spieler/40875
+AS Monaco,Arnaud Lescure,19,France,Centre-Back,CB,£180Th.,AS Monaco U19,Monaco,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-lescure/profil/spieler/16590
+AS Monaco,Djibril Sidibé,23,Mali,Defensive Midfield,DM,£1.08m,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/djibril-sidibe/profil/spieler/5301
+AS Monaco,Éric Cubilier,25,France,Right-Back,RB,£1.13m,RC Lens,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/eric-cubilier/profil/spieler/5284
+AS Monaco,Marco Ramos,22,Portugal,Left-Back,LB,£180Th.,US Créteil-Lusitanos,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/marco-ramos/profil/spieler/16477
+AS Monaco,Nicolas Hislen,22,France,Defensive Midfield,DM,£45Th.,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-hislen/profil/spieler/14848
+Stade Rennais FC,John Utaka,23,Nigeria,Left Winger,LW,£6.30m,RC Lens,France,£5.40m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/john-utaka/profil/spieler/5495
+Stade Rennais FC,Erik Edman,26,Sweden,Left-Back,LB,£2.70m,Tottenham Hotspur,England,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/erik-edman/profil/spieler/4394
+Stade Rennais FC,Youssouf Hadji,25,Morocco,Centre-Forward,CF,£1.80m,SC Bastia,France,£1.44m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/youssouf-hadji/profil/spieler/5345
+Stade Rennais FC,Cheick N'Diaye,20,Senegal,Goalkeeper,GK,-,Olympique Noisy-le-Sec,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cheick-ndiaye/profil/spieler/34053
+Stade Rennais FC,Alain Rochat,22,Switzerland,Centre-Back,CB,£1.80m,BSC Young Boys,Switzerland,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alain-rochat/profil/spieler/4843
+Stade Rennais FC,Stéphane Mbia,19,Cameroon,Defensive Midfield,DM,£225Th.,FC Stade Rennes B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-mbia/profil/spieler/27470
+Stade Rennais FC,Amadou Coulibaly,20,Burkina Faso,Centre-Back,CB,-,FC Stade Rennes B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/amadou-coulibaly/profil/spieler/45079
+Stade Rennais FC,Florent Chaigneau,22,France,Goalkeeper,GK,-,Brighton & Hove Albion,England,"End of loanMay 31, 2006",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/florent-chaigneau/profil/spieler/8498
+Stade Rennais FC,Arthur Sorin,19,France,Centre-Back,CB,£45Th.,FC Stade Rennes B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arthur-sorin/profil/spieler/30699
+Stade Rennais FC,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,AS Nancy-Lorraine,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-puygrenier/profil/spieler/5667
+Stade Rennais FC,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,AS Saint-Étienne,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-piquionne/profil/spieler/5683
+Olympique Marseille,Mamadou Niang,25,Senegal,Centre-Forward,CF,£4.50m,RC Strasbourg Alsace,France,£6.30m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-niang/profil/spieler/6118
+Olympique Marseille,Lorik Cana,22,Albania,Centre-Back,CB,£2.52m,Paris Saint-Germain,France,£3.60m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/lorik-cana/profil/spieler/12149
+Olympique Marseille,Bostjan Cesar,22,Slovenia,Centre-Back,CB,£900Th.,GNK Dinamo Zagreb,Croatia,£2.25m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bostjan-cesar/profil/spieler/24606
+Olympique Marseille,Christian Giménez,30,Argentina,Centre-Forward,CF,£2.25m,FC Basel 1893,Switzerland,£630Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/christian-gimenez/profil/spieler/2898
+Olympique Marseille,Wilson Oruma,28,Nigeria,Attacking Midfield,AM,£2.70m,FC Sochaux-Montbéliard,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/wilson-oruma/profil/spieler/3915
+Olympique Marseille,Franck Ribéry,22,France,Left Winger,LW,£4.73m,Galatasaray SK,Turkey,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/franck-ribery/profil/spieler/22068
+Olympique Marseille,Sabri Lamouchi,33,France,Central Midfield,CM,£90Th.,FC Internazionale,Italy,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sabri-lamouchi/profil/spieler/5872
+Olympique Marseille,Andrés Mendoza,27,Peru,Centre-Forward,CF,£3.15m,Metallurg Donetsk,Ukraine,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/andres-mendoza/profil/spieler/9650
+Olympique Marseille,Yannick Quesnel,31,France,Goalkeeper,GK,£450Th.,SL Benfica,Portugal,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/yannick-quesnel/profil/spieler/14360
+Olympique Marseille,André Luis,25,Brazil,Centre-Back,CB,£2.70m,SL Benfica,Portugal,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/andre-luis/profil/spieler/18730
+Olympique Marseille,Salomon Olembé,25,Cameroon,Left Midfield,LM,£2.70m,Al Rayyan Sports Club,Qatar,"End of loanMay 1, 2006",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/salomon-olembe/profil/spieler/5326
+Olympique Marseille,Mohamed Dennoun,19,France,Attacking Midfield,AM,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mohamed-dennoun/profil/spieler/38474
+Olympique Marseille,Khalifa Ba,19,Senegal,Centre-Back,CB,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/khalifa-ba/profil/spieler/33457
+Olympique Marseille,Thomas Deruda,18,France,Central Midfield,CM,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/thomas-deruda/profil/spieler/38357
+Olympique Marseille,Fabien Barthez,34,France,Goalkeeper,GK,£4.50m,,Ban,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabien-barthez/profil/spieler/3289
+Olympique Marseille,Rudi Skacel,26,Czech Republic,Left Midfield,LM,£2.25m,Heart of Midlothian FC,Scotland,"End of loanMay 1, 2006",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rudi-skacel/profil/spieler/9524
+Olympique Marseille,Fabrice Begeorgi,18,France,Left-Back,LB,-,Olympique de Marseille B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-begeorgi/profil/spieler/36911
+Olympique Marseille,Fabio Celestini,29,Switzerland,Defensive Midfield,DM,£1.35m,Levante UD,Spain,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabio-celestini/profil/spieler/6134
+Olympique Marseille,Cédric Carrasso,23,France,Goalkeeper,GK,£270Th.,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cedric-carrasso/profil/spieler/5308
+Olympique Marseille,Stepan Vachousek,25,Czech Republic,Left Midfield,LM,£2.48m,Austria Vienna,Austria,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stepan-vachousek/profil/spieler/6117
+Olympique Marseille,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,RC Strasbourg Alsace,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-johansen/profil/spieler/5621
+Olympique Marseille,Delfim,28,Portugal,Defensive Midfield,DM,£450Th.,Moreirense FC,Portugal,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/delfim/profil/spieler/5322
+Olympique Marseille,Alain Cantareil,21,France,Left-Back,LB,-,Nîmes Olympique,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alain-cantareil/profil/spieler/33458
+Olympique Marseille,Thierry Racon,21,Guadeloupe,Defensive Midfield,DM,-,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/thierry-racon/profil/spieler/22380
+Olympique Marseille,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cyril-chapuis/profil/spieler/5329
+Olympique Marseille,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+AS Saint-Étienne,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,FC Girondins Bordeaux,France,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+AS Saint-Étienne,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,Stade Rennais FC,France,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-piquionne/profil/spieler/5683
+AS Saint-Étienne,Sébastien Mazure,26,France,Centre-Forward,CF,£2.70m,SM Caen,France,£1.80m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-mazure/profil/spieler/22638
+AS Saint-Étienne,Damien Perquis,21,Poland,Centre-Back,CB,£765Th.,ES Troyes AC,France,£540Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/damien-perquis/profil/spieler/31050
+AS Saint-Étienne,Jody Viviani,23,France,Goalkeeper,GK,£45Th.,HSC Montpellier,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jody-viviani/profil/spieler/5688
+AS Saint-Étienne,Alaeddine Yahia,23,Tunisia,Centre-Back,CB,£1.26m,Southampton FC,England,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alaeddine-yahia/profil/spieler/5451
+AS Saint-Étienne,Siaka Tiéné,23,Cote d'Ivoire,Left-Back,LB,-,Mamelodi Sundowns FC,South Africa,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/siaka-tiene/profil/spieler/34026
+AS Saint-Étienne,Idriss Ech-Chergui,20,France,Attacking Midfield,AM,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/idriss-ech-chergui/profil/spieler/33916
+AS Saint-Étienne,Jessy Moulin,19,France,Goalkeeper,GK,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jessy-moulin/profil/spieler/33925
+AS Saint-Étienne,Alan Mermillod,20,France,Goalkeeper,GK,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alan-mermillod/profil/spieler/33924
+AS Saint-Étienne,Samy Houri,19,France,Attacking Midfield,AM,-,AS Saint-Étienne B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/samy-houri/profil/spieler/33920
+AS Saint-Étienne,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,ES Troyes AC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-meslien/profil/spieler/17435
+AS Saint-Étienne,Bafétimbi Gomis,19,France,Centre-Forward,CF,£135Th.,ES Troyes AC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bafetimbi-gomis/profil/spieler/22388
+AS Saint-Étienne,Pathé Bangoura,21,Guinea,Centre-Forward,CF,£45Th.,Association sportive d'origine arménienne de Valence,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pathe-bangoura/profil/spieler/17416
+AS Saint-Étienne,Mickael Pontal,25,France,Centre-Back,CB,£225Th.,Association sportive d'origine arménienne de Valence,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mickael-pontal/profil/spieler/17437
+RC Lens,Aruna Dindane,24,Cote d'Ivoire,Second Striker,SS,£4.50m,RSC Anderlecht,Belgium,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/aruna-dindane/profil/spieler/9597
+RC Lens,Alou Diarra,23,France,Defensive Midfield,DM,£3.60m,Liverpool FC,England,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alou-diarra/profil/spieler/1327
+RC Lens,Issam Jemâa,21,Tunisia,Centre-Forward,CF,£1.08m,Esperance Tunis,Tunisia,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/issam-jemaa/profil/spieler/31430
+RC Lens,Yohan Demont,27,France,Right-Back,RB,£1.80m,AC Ajaccio,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/yohan-demont/profil/spieler/5721
+RC Lens,Jonathan Martins Pereira,19,France,Right-Back,RB,£270Th.,RC Lens B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jonathan-martins-pereira/profil/spieler/30698
+RC Lens,Jonathan Lacourt,18,France,Central Midfield,CM,-,RC Lens B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jonathan-lacourt/profil/spieler/33819
+RC Lens,Kamil Zayatte,20,Guinea,Centre-Back,CB,-,RC Lens B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kamil-zayatte/profil/spieler/33820
+RC Lens,Arnaud Brocard,18,France,Goalkeeper,GK,-,RC Lens B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-brocard/profil/spieler/33818
+RC Lens,Abdoulaye Fayé,27,Senegal,Centre-Back,CB,£900Th.,FC Istres Ouest Provence ,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-faye/profil/spieler/6107
+RC Lens,Bouabid Bouden,23,Morocco,Centre-Forward,CF,£450Th.,Al Ahli Sports Club,Qatar,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bouabid-bouden/profil/spieler/12357
+RC Lens,Rod Fanni,23,France,Right-Back,RB,£315Th.,LB Châteauroux,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rod-fanni/profil/spieler/5477
+AJ Auxerre,Thomas Kahlenberg,22,Denmark,Central Midfield,CM,£1.35m,Bröndby IF,Denmark,£4.50m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/thomas-kahlenberg/profil/spieler/15052
+AJ Auxerre,Oumar Kalabane,24,Guinea,Centre-Back,CB,£765Th.,Etoile Sportive du Sahel,Tunisia,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/oumar-kalabane/profil/spieler/31758
+AJ Auxerre,Péguy Luyindula,26,France,Centre-Forward,CF,£9.00m,Olympique Marseille,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/peguy-luyindula/profil/spieler/3916
+AJ Auxerre,Krisztián Vadócz,20,Hungary,Central Midfield,CM,-,Budapest Honvéd FC,Hungary,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/krisztian-vadocz/profil/spieler/34116
+AJ Auxerre,Mathieu Berson,25,France,Defensive Midfield,DM,£3.15m,Aston Villa,England,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-berson/profil/spieler/5508
+AJ Auxerre,Baptiste Martin,20,France,Centre-Back,CB,-,AJ Auxerre B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/baptiste-martin/profil/spieler/33848
+AJ Auxerre,Kevin Lejeune,20,France,Left Midfield,LM,-,AJ Auxerre B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kevin-lejeune/profil/spieler/33847
+AJ Auxerre,Ludovic Genest,17,France,Attacking Midfield,AM,-,AJ Auxerre B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-genest/profil/spieler/37511
+AJ Auxerre,Romain Poyet,24,France,Centre-Forward,CF,£450Th.,Clermont Foot 63,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-poyet/profil/spieler/5440
+Paris Saint-Germain,Bonaventure Kalou,27,Cote d'Ivoire,Right Winger,RW,£6.75m,AJ Auxerre,France,£7.65m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bonaventure-kalou/profil/spieler/4164
+Paris Saint-Germain,Vikash Dhorasoo,31,France,Central Midfield,CM,£3.60m,AC Milan,Italy,£2.88m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/vikash-dhorasoo/profil/spieler/5351
+Paris Saint-Germain,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Le Mans Union Club 72,France,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-pancrate/profil/spieler/6267
+Paris Saint-Germain,David Rozehnal,24,Czech Republic,Centre-Back,CB,£2.25m,Club Brugge KV,Belgium,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-rozehnal/profil/spieler/9659
+Paris Saint-Germain,Cristian Rodríguez,19,Uruguay,Central Midfield,CM,-,CA Peñarol,Uruguay,£450Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cristian-rodriguez/profil/spieler/33448
+Paris Saint-Germain,Carlos Bueno,25,Uruguay,Centre-Forward,CF,-,CA Peñarol,Uruguay,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/carlos-bueno/profil/spieler/33439
+Paris Saint-Germain,Christophe Landrin,28,France,Central Midfield,CM,£3.42m,LOSC Lille,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-landrin/profil/spieler/5647
+Paris Saint-Germain,Ahmed Kantari,20,Morocco,Centre-Back,CB,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ahmed-kantari/profil/spieler/33447
+Paris Saint-Germain,Nicolas Cousin,19,France,Goalkeeper,GK,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-cousin/profil/spieler/33171
+Paris Saint-Germain,Boukary Dramé,19,Senegal,Left-Back,LB,-,FC Paris Saint-Germain B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/boukary-drame/profil/spieler/33442
+Paris Saint-Germain,Franck Dja Djédjé,19,Cote d'Ivoire,Right Winger,RW,£90Th.,Stade Brest 29,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/franck-dja-djedje/profil/spieler/18860
+Paris Saint-Germain,Bartholomew Ogbeche,20,Nigeria,Centre-Forward,CF,£1.35m,FC Metz,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bartholomew-ogbeche/profil/spieler/5574
+Paris Saint-Germain,Alioune Touré,26,France,Right Winger,RW,£1.44m,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alioune-toure/profil/spieler/5575
+Paris Saint-Germain,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-rocchi/profil/spieler/5566
+FC Sochaux-Montbéliard,Moumouni Dagano,24,Burkina Faso,Centre-Forward,CF,£2.25m,EA Guingamp,France,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/moumouni-dagano/profil/spieler/6839
+FC Sochaux-Montbéliard,Miranda,20,Brazil,Centre-Back,CB,-,Coritiba Foot Ball Club,Brazil,£1.80m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/miranda/profil/spieler/33357
+FC Sochaux-Montbéliard,Rabiu Afolabi,25,Nigeria,Centre-Back,CB,£3.42m,Austria Vienna,Austria,£1.80m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rabiu-afolabi/profil/spieler/4829
+FC Sochaux-Montbéliard,Philippe Brunel,32,France,Left Midfield,LM,£1.58m,LOSC Lille,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+FC Sochaux-Montbéliard,Mourad Meghni,21,Algeria,Attacking Midfield,AM,£3.60m,Bologna FC 1909,Italy,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mourad-meghni/profil/spieler/6003
+FC Sochaux-Montbéliard,Pape Sow,19,Senegal,Centre-Back,CB,£90Th.,Racing Strasbourg B,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pape-sow/profil/spieler/20623
+FC Sochaux-Montbéliard,Arnaud Bühler,20,Switzerland,Centre-Back,CB,£630Th.,FC Aarau,Switzerland,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-buhler/profil/spieler/10058
+FC Sochaux-Montbéliard,Benjamin Genghini,19,France,Central Midfield,CM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/benjamin-genghini/profil/spieler/33919
+FC Sochaux-Montbéliard,Julien Quercia,18,France,Centre-Forward,CF,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-quercia/profil/spieler/36294
+FC Sochaux-Montbéliard,Steve Bernardet,20,France,Defensive Midfield,DM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/steve-bernardet/profil/spieler/33912
+FC Sochaux-Montbéliard,Jeremy Deichelbohrer,19,France,Goalkeeper,GK,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-deichelbohrer/profil/spieler/40910
+FC Sochaux-Montbéliard,Badara Sène,20,Senegal,Defensive Midfield,DM,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/badara-sene/profil/spieler/33932
+FC Sochaux-Montbéliard,Mevlüt Erdinc,18,Turkey,Centre-Forward,CF,-,FC Sochaux-Montbéliard B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mevlut-erdinc/profil/spieler/38360
+FC Sochaux-Montbéliard,Maxence Flachez,32,France,Centre-Back,CB,£540Th.,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/maxence-flachez/profil/spieler/5391
+RC Strasbourg Alsace,Haykel Gmamdia,23,Tunisia,Centre-Forward,CF,£315Th.,Club Sportif Sfaxien,Tunisia,£1.35m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/haykel-gmamdia/profil/spieler/31428
+RC Strasbourg Alsace,Amara Diané,22,Cote d'Ivoire,Right Winger,RW,£720Th.,Stade Reims,France,£1.17m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/amara-diane/profil/spieler/29287
+RC Strasbourg Alsace,Arthur Boka,22,Cote d'Ivoire,Left-Back,LB,£1.13m,KSK Beveren,Belgium,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arthur-boka/profil/spieler/13038
+RC Strasbourg Alsace,Hosny,20,Egypt,Central Midfield,CM,£900Th.,Ismaily SC,Egypt,£720Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/hosny/profil/spieler/31764
+RC Strasbourg Alsace,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,Olympique Marseille,France,£135Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-johansen/profil/spieler/5621
+RC Strasbourg Alsace,Nicolas Puydebois,24,France,Goalkeeper,GK,£810Th.,Olympique Lyon,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-puydebois/profil/spieler/5337
+RC Strasbourg Alsace,Pontus Farnerud,25,Sweden,Central Midfield,CM,£1.80m,AS Monaco,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pontus-farnerud/profil/spieler/3439
+RC Strasbourg Alsace,Jean-Christophe Vergerolle,19,France,Left-Back,LB,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-christophe-vergerolle/profil/spieler/38400
+RC Strasbourg Alsace,Kévin Gameiro,18,France,Centre-Forward,CF,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kevin-gameiro/profil/spieler/27389
+RC Strasbourg Alsace,Gaetan Krebs,19,France,Central Midfield,CM,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/gaetan-krebs/profil/spieler/33317
+RC Strasbourg Alsace,Mehdi Sennaoui,19,Algeria,Goalkeeper,GK,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mehdi-sennaoui/profil/spieler/33955
+RC Strasbourg Alsace,Ricardo Faty,18,Senegal,Defensive Midfield,DM,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ricardo-faty/profil/spieler/33953
+RC Strasbourg Alsace,Régis Gurtner,18,France,Goalkeeper,GK,-,Racing Strasbourg B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/regis-gurtner/profil/spieler/39918
+RC Strasbourg Alsace,Yannick Kamanan,22,France,Centre-Forward,CF,£45Th.,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/yannick-kamanan/profil/spieler/5628
+RC Strasbourg Alsace,Vaclav Drobny,24,Czech Republic,Centre-Back,CB,£1.58m,Aston Villa,England,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/vaclav-drobny/profil/spieler/5612
+OGC Nice,Bakari Koné,23,Cote d'Ivoire,Right Winger,RW,£2.03m,FC Lorient,France,£2.25m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bakari-kone/profil/spieler/23941
+OGC Nice,Anthar Yahia,23,Algeria,Centre-Back,CB,£2.25m,SC Bastia,France,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/anthar-yahia/profil/spieler/5586
+OGC Nice,Souleymane Camara,22,Senegal,Right Winger,RW,£900Th.,AS Monaco,France,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/souleymane-camara/profil/spieler/5303
+OGC Nice,Rod Fanni,23,France,Right-Back,RB,£315Th.,RC Lens,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rod-fanni/profil/spieler/5477
+OGC Nice,Cyril Rool,30,France,Left-Back,LB,£1.53m,FC Girondins Bordeaux,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+OGC Nice,Jérémie Moreau,24,France,Goalkeeper,GK,£45Th.,FC Rouen 1899,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremie-moreau/profil/spieler/7016
+OGC Nice,Bill Tchato,30,Cameroon,Left-Back,LB,£2.25m,1.FC Kaiserslautern,Germany,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bill-tchato/profil/spieler/3004
+OGC Nice,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,FC Gueugnon,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/florian-boucansaud/profil/spieler/31219
+OGC Nice,Mamadou Bagayoko,26,Mali,Centre-Forward,CF,£2.16m,FC Nantes,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-bagayoko/profil/spieler/3002
+OGC Nice,Hugo Lloris,18,France,Goalkeeper,GK,£225Th.,OGC Nice B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/hugo-lloris/profil/spieler/17965
+OGC Nice,Olivier Fauconnier,29,Guadeloupe,Centre-Forward,CF,£405Th.,AC Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-fauconnier/profil/spieler/18038
+OGC Nice,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,Le Mans Union Club 72,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/georges-ba/profil/spieler/13846
+OGC Nice,Abdelmalek Cherrad,24,Algeria,Centre-Forward,CF,£720Th.,SC Bastia,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdelmalek-cherrad/profil/spieler/5546
+OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/anthony-scaramozzino/profil/spieler/17976
+FC Toulouse,Jérémy Mathieu,21,France,Centre-Back,CB,£3.15m,FC Sochaux-Montbéliard,France,£4.50m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-mathieu/profil/spieler/5404
+FC Toulouse,Bryan Bergougnoux,22,France,Attacking Midfield,AM,£2.25m,Olympique Lyon,France,£3.06m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bryan-bergougnoux/profil/spieler/12132
+FC Toulouse,Santos,26,Tunisia,Centre-Forward,CF,£5.85m,FC Sochaux-Montbéliard,France,£2.70m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/santos/profil/spieler/5412
+FC Toulouse,Fodé Mansare,23,Guinea,Left Winger,LW,£1.08m,HSC Montpellier,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fode-mansare/profil/spieler/5710
+FC Toulouse,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.13m,RC Strasbourg Alsace,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/yacine-abdessadki/profil/spieler/5618
+FC Toulouse,Laurent Batlles,29,France,Attacking Midfield,AM,£3.60m,Olympique Marseille,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-batlles/profil/spieler/5669
+FC Toulouse,Alexandre Bonnet,18,France,Left Midfield,LM,-,FC Toulouse B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-bonnet/profil/spieler/33906
+FC Toulouse,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,EA Guingamp,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cedric-faure/profil/spieler/6970
+AC Ajaccio,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,Paris Saint-Germain,France,£450Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-rocchi/profil/spieler/5566
+AC Ajaccio,Frédéric Danjou,30,France,Centre-Back,CB,£765Th.,SM Caen,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-danjou/profil/spieler/13768
+AC Ajaccio,Daouda Jabi,24,Guinea,Right-Back,RB,£450Th.,RC Lens,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/daouda-jabi/profil/spieler/5478
+AC Ajaccio,Christophe Bastien,29,France,Right Midfield,RM,-,FC Lorient,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-bastien/profil/spieler/23891
+AC Ajaccio,Giany Joinville,21,France,Centre-Back,CB,-,FC Gueugnon,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/giany-joinville/profil/spieler/34227
+AC Ajaccio,Kaba Diawara,29,Guinea,Centre-Forward,CF,£1.35m,Al Kharitiyat Sports Club,Qatar,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kaba-diawara/profil/spieler/5571
+AC Ajaccio,Antônio Carlos,22,Brazil,Centre-Back,CB,£1.80m,Fluminense Football Club,Brazil,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/antonio-carlos/profil/spieler/31753
+AC Ajaccio,Matthieu Scarpelli,23,France,Centre-Forward,CF,£90Th.,SO Cassis Carnoux,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/matthieu-scarpelli/profil/spieler/31769
+AC Ajaccio,Kamel Chafni,23,Morocco,Attacking Midfield,AM,£45Th.,LB Châteauroux,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kamel-chafni/profil/spieler/5399
+AC Ajaccio,Simon Carmignani,22,France,Right-Back,RB,-,FC Martigues,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/simon-carmignani/profil/spieler/17417
+AC Ajaccio,Stéphane Ziani,33,France,Attacking Midfield,AM,£1.13m,SC Bastia,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-ziani/profil/spieler/5514
+AC Ajaccio,Rafik Saïfi,30,Algeria,Centre-Forward,CF,£1.08m,FC Istres Ouest Provence ,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rafik-saifi/profil/spieler/24114
+AC Ajaccio,Jean-Jacques Mandrichi,21,France,Centre-Forward,CF,£90Th.,USC Corte,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-mandrichi/profil/spieler/31761
+AC Ajaccio,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,Olympique Marseille,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+AC Ajaccio,Jean-Baptiste Pierazzi,20,France,Central Midfield,CM,-,AC Ajaccio B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-baptiste-pierazzi/profil/spieler/44679
+AC Ajaccio,Xavier Bécas,26,France,Forward,Forward,-,Pau FC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/xavier-becas/profil/spieler/34230
+FC Girondins Bordeaux,Edixon Perea,21,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,£2.25m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/edixon-perea/profil/spieler/33943
+FC Girondins Bordeaux,Alejandro Alonso,23,Argentina,Right Midfield,RM,-,Club Atlético Huracán,Argentina,£675Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/alejandro-alonso/profil/spieler/33935
+FC Girondins Bordeaux,Henrique,22,Brazil,Centre-Back,CB,-,Clube de Regatas do Flamengo,Brazil,£675Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/henrique/profil/spieler/33572
+FC Girondins Bordeaux,Paulo Costa,25,Portugal,Attacking Midfield,AM,£180Th.,FC Porto,Portugal,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/paulo-costa/profil/spieler/6177
+FC Girondins Bordeaux,Vladimir Smicer,32,Czech Republic,Attacking Midfield,AM,£2.70m,Liverpool FC,England,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/vladimir-smicer/profil/spieler/3217
+FC Girondins Bordeaux,Laurent Leroy,29,France,Centre-Forward,CF,£810Th.,AS Cannes,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-leroy/profil/spieler/5573
+FC Girondins Bordeaux,Denílson,27,Brazil,Left Winger,LW,£8.55m,Real Betis Balompié,Spain,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/denilson/profil/spieler/7660
+FC Girondins Bordeaux,Vasco Fernandes,18,Portugal,Centre-Back,CB,-,SC Olhanense,Portugal,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/vasco-fernandes/profil/spieler/24202
+FC Girondins Bordeaux,Bruno Cheyrou,27,France,Central Midfield,CM,£3.51m,Liverpool FC,England,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bruno-cheyrou/profil/spieler/3602
+FC Girondins Bordeaux,Anicet Adjamossi,21,Benin,Right-Back,RB,£675Th.,Pau FC,France,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/anicet-adjamossi/profil/spieler/14890
+FC Girondins Bordeaux,Fernando,24,Brazil,Defensive Midfield,DM,£900Th.,AC Siena,Italy,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fernando/profil/spieler/15338
+FC Girondins Bordeaux,Pierre Ducasse,18,France,Defensive Midfield,DM,£90Th.,FC Girondins Bordeaux B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pierre-ducasse/profil/spieler/18925
+FC Girondins Bordeaux,Ted Lavie,19,France,Right-Back,RB,£90Th.,FC Girondins Bordeaux B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ted-lavie/profil/spieler/26222
+FC Girondins Bordeaux,Abdoulaye Barry,20,Guinea,Centre-Back,CB,£135Th.,Gazélec Football Club Olympique Ajaccio,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-barry/profil/spieler/14891
+FC Girondins Bordeaux,Sylvain Franco,22,France,Centre-Forward,CF,£315Th.,Pau FC,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-franco/profil/spieler/19079
+FC Girondins Bordeaux,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,AS Saint-Étienne,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+FC Metz,Marcin Zewlakow,29,Poland,Centre-Forward,CF,£2.70m,Excelsior Mouscron,Belgium,£540Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/marcin-zewlakow/profil/spieler/13388
+FC Metz,Abdelnasser Ouadah,29,Algeria,Left Winger,LW,£1.80m,AC Ajaccio,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdelnasser-ouadah/profil/spieler/5733
+FC Metz,Cheriffe Maman-Touré,27,Togo,Midfielder,Midfielder,£135Th.,New York Red Bulls,United States,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/cheriffe-maman-toure/profil/spieler/13369
+FC Metz,Jung-hwan Ahn,29,"Korea, South",Second Striker,SS,£3.60m,Yokohama F. Marinos,Japan,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jung-hwan-ahn/profil/spieler/3489
+FC Metz,Carl Medjani,20,Algeria,Defensive Midfield,DM,£225Th.,Liverpool FC,England,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/carl-medjani/profil/spieler/8060
+FC Metz,Szabolcs Huszti,22,Hungary,Central Midfield,CM,-,Ferencvárosi TC,Hungary,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/szabolcs-huszti/profil/spieler/18331
+FC Metz,Grégory Paisley,28,France,Left-Back,LB,£540Th.,FC Sochaux-Montbéliard,France,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/gregory-paisley/profil/spieler/6246
+FC Metz,Christophe Marichez,30,France,Goalkeeper,GK,-,FC Chamois Niort,France,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-marichez/profil/spieler/28340
+FC Metz,Flavien Belson,18,Guadeloupe,Left-Back,LB,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/flavien-belson/profil/spieler/37710
+FC Metz,Ibrahima Gueye,18,Senegal,Midfielder,Midfielder,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ibrahima-gueye/profil/spieler/100171
+FC Metz,Gaëtan Bong,17,Cameroon,Left-Back,LB,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/gaetan-bong/profil/spieler/36291
+FC Metz,Emmanuel Francoise,18,France,Centre-Forward,CF,-,FC Metz U19,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/emmanuel-francoise/profil/spieler/49419
+FC Metz,Sébastien Bassong,18,Cameroon,Centre-Back,CB,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-bassong/profil/spieler/33951
+FC Metz,Nicolas Farina,18,France,Right Winger,RW,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-farina/profil/spieler/39921
+FC Metz,Papiss Demba Cissé,20,Senegal,Centre-Forward,CF,-,FC Metz B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/papiss-demba-cisse/profil/spieler/33952
+FC Metz,Christophe Walter,22,France,Defensive Midfield,DM,£405Th.,Stade Reims,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-walter/profil/spieler/12065
+FC Metz,Mario Espartero,27,France,Defensive Midfield,DM,£900Th.,AA La Louviere,Belgium,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mario-espartero/profil/spieler/12103
+FC Metz,Sylvain Marchal,25,France,Centre-Back,CB,£1.35m,LB Châteauroux,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-marchal/profil/spieler/12093
+FC Metz,Stéphane Morisot,27,France,Defensive Midfield,DM,£1.62m,CS Sedan-Ardennes,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-morisot/profil/spieler/12100
+FC Metz,Laurent Karim Agouazi,21,Algeria,Defensive Midfield,DM,-,Besançon Racing Club ,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-karim-agouazi/profil/spieler/33950
+FC Nantes,Jean-Jacques Pierre,24,Haiti,Centre-Back,CB,-,CA Peñarol,Uruguay,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-jacques-pierre/profil/spieler/34160
+FC Nantes,Franck Signorino,23,France,Left-Back,LB,£2.25m,FC Metz,France,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/franck-signorino/profil/spieler/12101
+FC Nantes,Imed Mhadhebi,29,Tunisia,Left Winger,LW,£675Th.,Etoile Sportive du Sahel,Tunisia,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/imed-mhadhebi/profil/spieler/29431
+FC Nantes,Tony Heurtebis,30,France,Goalkeeper,GK,-,Stade Brest 29,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/tony-heurtebis/profil/spieler/31757
+FC Nantes,Habib Bamogo,23,Burkina Faso,Second Striker,SS,£4.50m,Olympique Marseille,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/habib-bamogo/profil/spieler/3912
+FC Nantes,Kévin Das Neves,19,France,Defensive Midfield,DM,-,FC Nantes B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kevin-das-neves/profil/spieler/40123
+FC Nantes,Dimitri Payet,18,France,Left Winger,LW,-,FC Nantes B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/dimitri-payet/profil/spieler/37647
+FC Nantes,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,Le Mans Union Club 72,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/willy-grondin/profil/spieler/5496
+FC Nantes,Hassan Ahamada,24,France,Attacking Midfield,AM,£630Th.,SC Beira-Mar,Portugal,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/hassan-ahamada/profil/spieler/3921
+FC Nantes,Shiva N'Zigou,21,Gabon,Left Winger,LW,£630Th.,FC Gueugnon,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/shiva-nzigou/profil/spieler/5520
+AS Nancy-Lorraine,Kim,25,Brazil,Centre-Forward,CF,-,Al-Ahli Jeddah,Saudi Arabia,£990Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/kimtm/profil/spieler/33505
+AS Nancy-Lorraine,Adrián Sarkisian,26,Uruguay,Left Midfield,LM,-,Atletico River Plate Montevideo,Uruguay,£900Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/adrian-sarkisian/profil/spieler/34373
+AS Nancy-Lorraine,André Luiz,25,Brazil,Centre-Back,CB,-,Clube Atlético Mineiro,Brazil,£630Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/andre-luiz/profil/spieler/34361
+AS Nancy-Lorraine,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,Stade Rennais FC,France,£180Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-puygrenier/profil/spieler/5667
+AS Nancy-Lorraine,Saliou Lassissi,26,Cote d'Ivoire,Centre-Back,CB,£1.35m,AS Roma,Italy,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/saliou-lassissi/profil/spieler/4152
+AS Nancy-Lorraine,Dagui Bakari,30,Cote d'Ivoire,Centre-Forward,CF,£1.17m,RC Lens,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/dagui-bakari/profil/spieler/3905
+AS Nancy-Lorraine,Abdoulaye Keita,26,Senegal,Defensive Midfield,DM,£270Th.,Iraklis Thessaloniki,Greece,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-keita/profil/spieler/24229
+AS Nancy-Lorraine,Adailton,25,Brazil,Right-Back,RB,-,Criciúma Esporte Clube,Brazil,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/adailton/profil/spieler/34371
+AS Nancy-Lorraine,Landry N'Guémo,19,Cameroon,Defensive Midfield,DM,-,AS Nancy-Lorraine B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/landry-nguemo/profil/spieler/34372
+AS Nancy-Lorraine,Damien Mozika,18,France,Attacking Midfield,AM,-,AS Nancy-Lorraine U19,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/damien-mozika/profil/spieler/80105
+Le Mans Union Club 72,Túlio de Melo,20,Brazil,Centre-Forward,CF,-,Clube Atlético Mineiro,Brazil,£1.80m,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/tulio-de-melo/profil/spieler/22820
+Le Mans Union Club 72,Ismaël Bangoura,20,Guinea,Centre-Forward,CF,-,Gazélec Football Club Olympique Ajaccio,France,£270Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ismael-bangoura/profil/spieler/34529
+Le Mans Union Club 72,Romaric,22,Cote d'Ivoire,Defensive Midfield,DM,£1.08m,KSK Beveren,Belgium,£225Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/romaric/profil/spieler/15808
+Le Mans Union Club 72,Luigi Lavecchia,23,Italy,Right Midfield,RM,£900Th.,Juventus FC,Italy,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+Le Mans Union Club 72,Marko Basa,22,Montenegro,Centre-Back,CB,£45Th.,OFK Beograd,Serbia,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/marko-basa/profil/spieler/17179
+Le Mans Union Club 72,Rodolphe Roche,26,France,Goalkeeper,GK,-,LB Châteauroux,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/rodolphe-roche/profil/spieler/21178
+Le Mans Union Club 72,Sébastien Gormond,23,France,Defensive Midfield,DM,-,FC Issy,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-gormond/profil/spieler/34888
+Le Mans Union Club 72,Edo,21,Nigeria,Centre-Forward,CF,-,Esperance Tunis,Tunisia,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/edotm/profil/spieler/34533
+Le Mans Union Club 72,Davide Chiumiento,20,Switzerland,Attacking Midfield,AM,£900Th.,Juventus FC,Italy,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/davide-chiumiento/profil/spieler/17332
+Le Mans Union Club 72,Bertrand Ndzomo,20,France,Defensive Midfield,DM,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/bertrand-ndzomo/profil/spieler/35009
+Le Mans Union Club 72,Mathieu Coutadeur,19,France,Central Midfield,CM,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-coutadeur/profil/spieler/39914
+Le Mans Union Club 72,Jérémy Choplin,20,France,Centre-Back,CB,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-choplin/profil/spieler/34532
+Le Mans Union Club 72,Arnaud Lisembart,20,France,Right-Back,RB,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-lisembart/profil/spieler/35007
+Le Mans Union Club 72,Guillaume Loriot,19,France,Central Midfield,CM,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-loriot/profil/spieler/38387
+Le Mans Union Club 72,Martin Douillard,20,France,Left Winger,LW,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/martin-douillard/profil/spieler/35003
+Le Mans Union Club 72,Clément Pinault,20,France,Centre-Back,CB,-,FC Le Mans B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/clement-pinault/profil/spieler/35010
+Le Mans Union Club 72,Thabang Molefe,25,South Africa,Centre-Back,CB,£450Th.,Orlando Pirates,South Africa,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/thabang-molefe/profil/spieler/6742
+Le Mans Union Club 72,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Paris Saint-Germain,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-pancrate/profil/spieler/6267
+ES Troyes AC,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,OGC Nice,France,Loan fee:£225Th.,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/florian-boucansaud/profil/spieler/31219
+ES Troyes AC,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,OGC Nice,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/georges-ba/profil/spieler/13846
+ES Troyes AC,Blaise Kouassi,30,Cote d'Ivoire,Centre-Back,CB,£405Th.,EA Guingamp,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/blaise-kouassi/profil/spieler/5450
+ES Troyes AC,Éloge Enza-Yamissi,22,Central African Republic,Defensive Midfield,DM,-,Nîmes Olympique,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/eloge-enza-yamissi/profil/spieler/31208
+ES Troyes AC,Ronan Le Crom,30,France,Goalkeeper,GK,£360Th.,EA Guingamp,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ronan-le-crom/profil/spieler/5444
+ES Troyes AC,Auriol Guillaume,25,France,Defender,Defender,£630Th.,EA Guingamp,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/auriol-guillaume/profil/spieler/5448
+ES Troyes AC,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,AS Saint-Étienne,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-meslien/profil/spieler/17435
+ES Troyes AC,Gaël Danic,23,France,Left Winger,LW,-,Grenoble Foot 38,France,Free transfer,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/gael-danic/profil/spieler/5457
+ES Troyes AC,Stéphen Drouin,21,France,Left-Back,LB,£810Th.,FC Nantes,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephen-drouin/profil/spieler/12391
+ES Troyes AC,Zied Jaziri,27,Tunisia,Centre-Forward,CF,£4.05m,Gaziantepspor,Turkey,?,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/zied-jaziri/profil/spieler/13936
+ES Troyes AC,Branko Boskovic,25,Montenegro,Central Midfield,CM,£2.70m,Paris Saint-Germain,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/branko-boskovic/profil/spieler/9090
+ES Troyes AC,Ibrahima Fayé,25,Senegal,Centre-Back,CB,£900Th.,SM Caen,France,Loan,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/ibrahima-faye/profil/spieler/13741
+ES Troyes AC,Quentin Westberg,19,United States,Goalkeeper,GK,-,ES Troyes AC B,France,-,In,2005,s,ligue-1,https://www.transfermarkt.co.uk/quentin-westberg/profil/spieler/33934
+ES Troyes AC,Karim Ziani,22,Algeria,Attacking Midfield,AM,-,FC Lorient,France,"End of loanJun 30, 2005",In,2005,s,ligue-1,https://www.transfermarkt.co.uk/karim-ziani/profil/spieler/25976
+Olympique Lyon,Michael Essien,22,Ghana,Defensive Midfield,DM,£20.70m,Chelsea FC,England,£34.20m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/michael-essien/profil/spieler/5588
+Olympique Lyon,Bryan Bergougnoux,22,France,Attacking Midfield,AM,£2.25m,FC Toulouse,France,£3.06m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bryan-bergougnoux/profil/spieler/12132
+Olympique Lyon,Nilmar,21,Brazil,Centre-Forward,CF,£3.15m,Sport Club Corinthians Paulista,Brazil,Loan fee:£1.80m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nilmar/profil/spieler/22750
+Olympique Lyon,Nicolas Puydebois,24,France,Goalkeeper,GK,£810Th.,RC Strasbourg Alsace,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-puydebois/profil/spieler/5337
+Olympique Lyon,Daniel Jaccard,20,France,Goalkeeper,GK,-,UF Maconnais,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/daniel-jaccard/profil/spieler/45236
+Olympique Lyon,Yacine Hima,21,Algeria,Central Midfield,CM,£68Th.,LB Châteauroux,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yacine-hima/profil/spieler/18903
+Olympique Lyon,Alexandre Hauw,23,France,Left Midfield,LM,-,FC Gueugnon,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-hauw/profil/spieler/45085
+Olympique Lyon,Romain Sartre,22,France,Centre-Back,CB,£135Th.,CS Sedan-Ardennes,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-sartre/profil/spieler/12128
+Olympique Lyon,Kelly Youga,19,Central African Republic,Left-Back,LB,-,Charlton Athletic,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/kelly-youga/profil/spieler/32520
+Olympique Lyon,Yohann Gomez,23,France,Defensive Midfield,DM,£360Th.,SC Bastia,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yohann-gomez/profil/spieler/5344
+Olympique Lyon,Demba Touré,20,Senegal,Second Striker,SS,£990Th.,Grasshopper Club Zurich,Switzerland,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/demba-toure/profil/spieler/20044
+Olympique Lyon,Sylvain Idangar,21,Chad,Left Winger,LW,£360Th.,Valenciennes FC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-idangar/profil/spieler/18904
+LOSC Lille,Christophe Landrin,28,France,Central Midfield,CM,£3.42m,Paris Saint-Germain,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-landrin/profil/spieler/5647
+LOSC Lille,Johan Audel,21,Martinique,Left Winger,LW,£810Th.,FC Lorient,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/johan-audel/profil/spieler/5544
+LOSC Lille,Nicolas Raynier,21,France,Centre-Forward,CF,-,FC Sète 34,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-raynier/profil/spieler/9095
+LOSC Lille,Serge Djamba-Shango,23,Belgium,Left Winger,LW,£720Th.,KFC VW Hamme,Belgium,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/serge-djamba-shango/profil/spieler/12521
+LOSC Lille,Philippe Brunel,32,France,Left Midfield,LM,£1.58m,FC Sochaux-Montbéliard,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/philippe-brunel/profil/spieler/5643
+LOSC Lille,Claude N´Gantchéa,18,Cameroon,Goalkeeper,GK,-,AC Cambrai,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/claude-ngantchea/profil/spieler/89636
+LOSC Lille,Benoît Angbwa,23,Cameroon,Right-Back,RB,£1.08m,Club Nacional,Uruguay,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/benoit-angbwa/profil/spieler/20232
+AS Monaco,Julien Rodriguez,27,France,Centre-Back,CB,£2.70m,Rangers FC,Scotland,£1.35m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-rodriguez/profil/spieler/5292
+AS Monaco,Souleymane Camara,22,Senegal,Right Winger,RW,£900Th.,OGC Nice,France,£900Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/souleymane-camara/profil/spieler/5303
+AS Monaco,Antoine Grauss,20,France,Left Midfield,LM,-,Clermont Foot 63,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/antoine-grauss/profil/spieler/45260
+AS Monaco,Nicolas Hislen,22,France,Defensive Midfield,DM,£45Th.,FC Martigues,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-hislen/profil/spieler/14848
+AS Monaco,Shabani Nonda,28,DR Congo,Centre-Forward,CF,£5.40m,AS Roma,Italy,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/shabani-nonda/profil/spieler/3499
+AS Monaco,Grégory Lacombe,23,France,Right Winger,RW,£765Th.,Vitória Setúbal FC,Portugal,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gregory-lacombe/profil/spieler/5730
+AS Monaco,Stéphane Ruffier,18,France,Goalkeeper,GK,-,Aviron Bayonnais,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-ruffier/profil/spieler/39910
+AS Monaco,Djibril Sidibé,23,Mali,Defensive Midfield,DM,£1.08m,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/djibril-sidibe/profil/spieler/5301
+AS Monaco,Sébastien Carole,22,Martinique,Right Winger,RW,£450Th.,Brighton & Hove Albion,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-carole/profil/spieler/5295
+AS Monaco,Hassan El Fakiri,28,Norway,Left-Back,LB,£675Th.,Borussia Mönchengladbach,Germany,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/hassan-el-fakiri/profil/spieler/8884
+AS Monaco,Marco Ramos,22,Portugal,Left-Back,LB,£180Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/marco-ramos/profil/spieler/16477
+AS Monaco,Pontus Farnerud,25,Sweden,Central Midfield,CM,£1.80m,RC Strasbourg Alsace,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pontus-farnerud/profil/spieler/3439
+AS Monaco,Mohamed Kallon,25,Sierra Leone,Centre-Forward,CF,£9.00m,Al-Ittihad Jeddah,Saudi Arabia,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mohamed-kallon/profil/spieler/3509
+AS Monaco,Joseph Dayo Oshadogan,29,Italy,Centre-Back,CB,£315Th.,Ternana Calcio,Italy,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/joseph-dayo-oshadogan/profil/spieler/16476
+AS Monaco,Javier Saviola,23,Argentina,Second Striker,SS,£10.35m,FC Barcelona,Spain,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/javier-saviola/profil/spieler/7611
+AS Monaco,Fabien Audard,27,France,Goalkeeper,GK,£315Th.,FC Lorient,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabien-audard/profil/spieler/5576
+Stade Rennais FC,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,AS Saint-Étienne,France,£2.70m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-piquionne/profil/spieler/5683
+Stade Rennais FC,Arnaud Le Lan,27,France,Left-Back,LB,£900Th.,EA Guingamp,France,£450Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-le-lan/profil/spieler/5664
+Stade Rennais FC,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,AS Nancy-Lorraine,France,£180Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-puygrenier/profil/spieler/5667
+Stade Rennais FC,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,AS Monaco,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+Stade Rennais FC,Amadou Makhtar N'Diaye,23,Senegal,Defensive Midfield,DM,£900Th.,Yverdon-Sport FC,Switzerland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/amadou-makhtar-ndiaye/profil/spieler/3909
+Stade Rennais FC,Arthur Sorin,19,France,Centre-Back,CB,£45Th.,Vannes OC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/arthur-sorin/profil/spieler/30699
+Stade Rennais FC,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.15m,AS Monaco,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+Stade Rennais FC,Florent Chaigneau,21,France,Goalkeeper,GK,-,Brighton & Hove Albion,England,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/florent-chaigneau/profil/spieler/8498
+Stade Rennais FC,Ivica Mornar,31,Croatia,Centre-Forward,CF,£630Th.,Portsmouth FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ivica-mornar/profil/spieler/9615
+Stade Rennais FC,Alex Silva,20,Brazil,Centre-Back,CB,-,Esporte Clube Vitória,Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alex-silva/profil/spieler/26100
+Olympique Marseille,Benoît Pedretti,24,France,Defensive Midfield,DM,£8.10m,Olympique Lyon,France,£6.75m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/benoit-pedretti/profil/spieler/5406
+Olympique Marseille,Eduardo Costa,22,Brazil,Defensive Midfield,DM,£2.70m,RCD Espanyol Barcelona,Spain,£3.60m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/eduardo-costa/profil/spieler/5374
+Olympique Marseille,Stepan Vachousek,25,Czech Republic,Left Midfield,LM,£2.48m,Austria Vienna,Austria,£1.35m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stepan-vachousek/profil/spieler/6117
+Olympique Marseille,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,RC Strasbourg Alsace,France,£135Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-johansen/profil/spieler/5621
+Olympique Marseille,Johnny Ecker,32,France,Centre-Back,CB,£360Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/johnny-ecker/profil/spieler/5312
+Olympique Marseille,Rahmane Barry,19,Senegal,Second Striker,SS,£360Th.,FC Lorient,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/rahmane-barry/profil/spieler/20547
+Olympique Marseille,Philippe Christanval,26,France,Centre-Back,CB,£450Th.,Fulham FC,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/philippe-christanval/profil/spieler/6741
+Olympique Marseille,Fabrice Fiorèse,30,France,Right Winger,RW,£3.60m,Al Rayyan Sports Club,Qatar,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-fiorese/profil/spieler/5572
+Olympique Marseille,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/cyril-chapuis/profil/spieler/5329
+Olympique Marseille,Sylvain N'Diaye,29,Senegal,Defensive Midfield,DM,£1.35m,Levante UD,Spain,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-ndiaye/profil/spieler/5649
+Olympique Marseille,Ahmed Yahiaoui,18,France,Central Midfield,CM,£405Th.,FC Istres Ouest Provence ,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ahmed-yahiaoui/profil/spieler/18943
+Olympique Marseille,Thierry Racon,21,Guadeloupe,Defensive Midfield,DM,-,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/thierry-racon/profil/spieler/22380
+Olympique Marseille,Brahim Hemdani,27,Algeria,Defensive Midfield,DM,£1.13m,Rangers FC,Scotland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/brahim-hemdani/profil/spieler/5324
+Olympique Marseille,Péguy Luyindula,26,France,Centre-Forward,CF,£9.00m,AJ Auxerre,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/peguy-luyindula/profil/spieler/3916
+Olympique Marseille,Fabio Celestini,29,Switzerland,Defensive Midfield,DM,£1.35m,Getafe CF,Spain,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabio-celestini/profil/spieler/6134
+Olympique Marseille,Salomon Olembé,24,Cameroon,Left Midfield,LM,£3.60m,Al Rayyan Sports Club,Qatar,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/salomon-olembe/profil/spieler/5326
+Olympique Marseille,Jérémy Gavanon,21,France,Goalkeeper,GK,£540Th.,Clermont Foot 63,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-gavanon/profil/spieler/7338
+Olympique Marseille,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,AC Ajaccio,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+Olympique Marseille,Rudi Skacel,26,Czech Republic,Left Midfield,LM,£1.35m,Heart of Midlothian FC,Scotland,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/rudi-skacel/profil/spieler/9524
+Olympique Marseille,Laurent Batlles,29,France,Attacking Midfield,AM,£3.60m,FC Toulouse,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-batlles/profil/spieler/5669
+Olympique Marseille,Habib Bamogo,23,Burkina Faso,Second Striker,SS,£4.50m,FC Nantes,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/habib-bamogo/profil/spieler/3912
+Olympique Marseille,Pegguy Arphexad,32,France,Goalkeeper,GK,£315Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pegguy-arphexad/profil/spieler/3282
+Olympique Marseille,Yang Gai,18,China,Central Midfield,CM,£180Th.,,Without Club,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yang-gai/profil/spieler/20379
+Olympique Marseille,Bruno Cheyrou,27,France,Central Midfield,CM,£3.51m,Liverpool FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bruno-cheyrou/profil/spieler/3602
+Olympique Marseille,Steve Marlet,31,France,Centre-Forward,CF,£3.15m,Fulham FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/steve-marlet/profil/spieler/3240
+AS Saint-Étienne,Patrice Carteron,34,France,Centre-Back,CB,£405Th.,AS Cannes,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/patrice-carteron/profil/spieler/17418
+AS Saint-Étienne,Mickael Pontal,25,France,Centre-Back,CB,£225Th.,US Boulogne,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mickael-pontal/profil/spieler/17437
+AS Saint-Étienne,Lilian Compan,28,France,Centre-Forward,CF,£1.08m,SM Caen,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/lilian-compan/profil/spieler/17420
+AS Saint-Étienne,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,ES Troyes AC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-meslien/profil/spieler/17435
+AS Saint-Étienne,Nicolas Marin,24,France,Right Midfield,RM,£1.17m,CS Sedan-Ardennes,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-marin/profil/spieler/5439
+AS Saint-Étienne,Stéphane Hernandez,25,France,Centre-Back,CB,£315Th.,SC Amiens,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-hernandez/profil/spieler/17430
+AS Saint-Étienne,Pathé Bangoura,21,Guinea,Centre-Forward,CF,£45Th.,Genclerbirliyi Sumgayit,Azerbaijan,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pathe-bangoura/profil/spieler/17416
+AS Saint-Étienne,Florent Guillaud,21,France,Goalkeeper,GK,£135Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/florent-guillaud/profil/spieler/17426
+AS Saint-Étienne,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,FC Girondins Bordeaux,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+AS Saint-Étienne,Alaeddine Yahia,23,Tunisia,Centre-Back,CB,£1.26m,Southampton FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alaeddine-yahia/profil/spieler/5451
+AS Saint-Étienne,Frédéric Piquionne,26,Martinique,Centre-Forward,CF,£3.60m,Stade Rennais FC,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-piquionne/profil/spieler/5683
+AS Saint-Étienne,Ronan Le Crom,30,France,Goalkeeper,GK,£360Th.,EA Guingamp,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ronan-le-crom/profil/spieler/5444
+AS Saint-Étienne,Javier Garrido,25,Spain,Right-Back,RB,£1.80m,Valencia CF,Spain,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/javier-garrido/profil/spieler/7571
+RC Lens,John Utaka,23,Nigeria,Left Winger,LW,£6.30m,Stade Rennais FC,France,£5.40m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/john-utaka/profil/spieler/5495
+RC Lens,Stéphane Besle,21,France,Centre-Back,CB,£180Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-besle/profil/spieler/22393
+RC Lens,Dagui Bakari,30,Cote d'Ivoire,Centre-Forward,CF,£1.17m,AS Nancy-Lorraine,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/dagui-bakari/profil/spieler/3905
+RC Lens,Rod Fanni,23,France,Right-Back,RB,£315Th.,OGC Nice,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/rod-fanni/profil/spieler/5477
+RC Lens,Jacek Bak,32,Poland,Centre-Back,CB,£1.58m,Al Rayyan Sports Club,Qatar,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jacek-bak/profil/spieler/5472
+RC Lens,Pape Sarr,27,Senegal,Attacking Midfield,AM,£900Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pape-sarr/profil/spieler/3906
+RC Lens,Daouda Jabi,24,Guinea,Right-Back,RB,£450Th.,AC Ajaccio,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/daouda-jabi/profil/spieler/5478
+RC Lens,Abdoulaye Fayé,27,Senegal,Centre-Back,CB,£900Th.,Bolton Wanderers,England,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-faye/profil/spieler/6107
+RC Lens,Bouabid Bouden,23,Morocco,Centre-Forward,CF,£450Th.,Odense Boldklub,Denmark,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bouabid-bouden/profil/spieler/12357
+RC Lens,Lesly Malouda,21,French Guiana,Left-Back,LB,£270Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/lesly-malouda/profil/spieler/18265
+RC Lens,Matar Coly,20,Senegal,Centre-Forward,CF,£315Th.,Neuchâtel Xamax,Switzerland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/matar-coly/profil/spieler/18823
+RC Lens,Mounir Diane,23,Morocco,Attacking Midfield,AM,£1.08m,SC Bastia,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mounir-diane/profil/spieler/12362
+RC Lens,Furtado,22,Brazil,Defensive Midfield,DM,£68Th.,RC Lens B,France,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/furtado/profil/spieler/12356
+RC Lens,Martin Ekani,21,France,Right-Back,RB,£270Th.,RC Lens B,France,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/martin-ekani/profil/spieler/29291
+RC Lens,Alou Diarra,23,France,Defensive Midfield,DM,£3.60m,Liverpool FC,England,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alou-diarra/profil/spieler/1327
+RC Lens,Éric Cubilier,25,France,Right-Back,RB,£1.13m,AS Monaco,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/eric-cubilier/profil/spieler/5284
+AJ Auxerre,Bonaventure Kalou,27,Cote d'Ivoire,Right Winger,RW,£6.75m,Paris Saint-Germain,France,£7.65m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bonaventure-kalou/profil/spieler/4164
+AJ Auxerre,Teemu Tainio,25,Finland,Defensive Midfield,DM,£3.15m,Tottenham Hotspur,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/teemu-tainio/profil/spieler/4741
+AJ Auxerre,Michaël Ciani,21,France,Centre-Back,CB,£450Th.,CS Sedan-Ardennes,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/michael-ciani/profil/spieler/12906
+AJ Auxerre,Yannick Boumsong,21,France,Defensive Midfield,DM,-,CSKA Sofia,Bulgaria,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yannick-boumsong/profil/spieler/39085
+AJ Auxerre,Arnaud Gonzalez,27,France,Centre-Forward,CF,£675Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/arnaud-gonzalez/profil/spieler/5437
+AJ Auxerre,David Vandenbossche,24,France,Midfielder,Midfielder,£225Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-vandenbossche/profil/spieler/5433
+AJ Auxerre,David Recorbet,28,France,Centre-Back,CB,£225Th.,FC Lorient,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-recorbet/profil/spieler/5425
+Paris Saint-Germain,Lorik Cana,22,Albania,Centre-Back,CB,£2.52m,Olympique Marseille,France,£3.60m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/lorik-cana/profil/spieler/12149
+Paris Saint-Germain,Reinaldo,26,Brazil,Centre-Forward,CF,£3.60m,Kashiwa Reysol,Japan,£3.60m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/reinaldo/profil/spieler/12151
+Paris Saint-Germain,Selim Benachour,23,Tunisia,Attacking Midfield,AM,£1.35m,Vitória Guimarães SC,Portugal,£563Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/selim-benachour/profil/spieler/12148
+Paris Saint-Germain,Romain Rocchi,23,France,Defensive Midfield,DM,£900Th.,AC Ajaccio,France,£450Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/romain-rocchi/profil/spieler/5566
+Paris Saint-Germain,Danijel Ljuboja,26,Serbia,Centre-Forward,CF,£2.70m,VfB Stuttgart,Germany,Loan fee:£180Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/danijel-ljuboja/profil/spieler/5630
+Paris Saint-Germain,Alioune Touré,26,France,Right Winger,RW,£1.44m,União de Leiria,Portugal,£90Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alioune-toure/profil/spieler/5575
+Paris Saint-Germain,Filipe Teixeira,24,Portugal,Right Winger,RW,£675Th.,Académica Coimbra,Portugal,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/filipe-teixeira/profil/spieler/5568
+Paris Saint-Germain,Charles-Edouard Coridon,32,Martinique,Attacking Midfield,AM,£1.04m,MKE Ankaragücü,Turkey,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/charles-edouard-coridon/profil/spieler/5484
+Paris Saint-Germain,Bartholomew Ogbeche,20,Nigeria,Centre-Forward,CF,£1.35m,Al-Jazira (Abu Dhabi),United Arab Emirates,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bartholomew-ogbeche/profil/spieler/5574
+Paris Saint-Germain,Branko Boskovic,25,Montenegro,Central Midfield,CM,£2.70m,ES Troyes AC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/branko-boskovic/profil/spieler/9090
+Paris Saint-Germain,José-Karl Pierre-Fanfan,29,Martinique,Centre-Back,CB,£2.70m,Rangers FC,Scotland,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jose-karl-pierre-fanfan/profil/spieler/3440
+Paris Saint-Germain,Hélder Cristóvão,34,Portugal,Centre-Back,CB,£810Th.,,Without Club,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/helder-cristovao/profil/spieler/13214
+Paris Saint-Germain,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Le Mans Union Club 72,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-pancrate/profil/spieler/6267
+FC Sochaux-Montbéliard,Jérémy Mathieu,21,France,Centre-Back,CB,£3.15m,FC Toulouse,France,£4.50m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jeremy-mathieu/profil/spieler/5404
+FC Sochaux-Montbéliard,Sylvain Monsoreau,24,France,Centre-Back,CB,£4.50m,Olympique Lyon,France,£4.50m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-monsoreau/profil/spieler/5393
+FC Sochaux-Montbéliard,Santos,26,Tunisia,Centre-Forward,CF,£5.85m,FC Toulouse,France,£2.70m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/santos/profil/spieler/5412
+FC Sochaux-Montbéliard,Wilson Oruma,28,Nigeria,Attacking Midfield,AM,£2.70m,Olympique Marseille,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/wilson-oruma/profil/spieler/3915
+FC Sochaux-Montbéliard,Ibrahim Tall,24,Senegal,Centre-Back,CB,£1.13m,Heart of Midlothian FC,Scotland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ibrahim-tall/profil/spieler/5397
+FC Sochaux-Montbéliard,Thomas Régnier,21,France,Centre-Forward,CF,-,Clermont Foot 63,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/thomas-regnier/profil/spieler/121085
+FC Sochaux-Montbéliard,Sigamary Diarra,21,Mali,Left Midfield,LM,£225Th.,Stade Lavallois,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sigamary-diarra/profil/spieler/12502
+FC Sochaux-Montbéliard,Maxence Flachez,32,France,Centre-Back,CB,£540Th.,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/maxence-flachez/profil/spieler/5391
+FC Sochaux-Montbéliard,Gérard Gnanhouan,26,Cote d'Ivoire,Goalkeeper,GK,£900Th.,HSC Montpellier,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gerard-gnanhouan/profil/spieler/5442
+FC Sochaux-Montbéliard,Steve Bernardet,20,France,Defensive Midfield,DM,-,Pau FC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/steve-bernardet/profil/spieler/33912
+FC Sochaux-Montbéliard,Marcelo Luis Trapasso,29,Argentina,Attacking Midfield,AM,£360Th.,LB Châteauroux,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/marcelo-luis-trapasso/profil/spieler/5408
+FC Sochaux-Montbéliard,Francois Mével,23,France,Defender,Defender,-,Go Ahead Eagles Deventer,Netherlands,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/francois-mevel/profil/spieler/33221
+FC Sochaux-Montbéliard,Grégory Paisley,28,France,Left-Back,LB,£540Th.,FC Metz,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gregory-paisley/profil/spieler/6246
+FC Sochaux-Montbéliard,Aimé Lavie,20,France,Defender,Defender,£270Th.,FC Sète 34,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/aime-lavie/profil/spieler/19504
+RC Strasbourg Alsace,Mamadou Niang,25,Senegal,Centre-Forward,CF,£4.50m,Olympique Marseille,France,£6.30m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-niang/profil/spieler/6118
+RC Strasbourg Alsace,Abdelilah Fahmi,31,Morocco,Centre-Back,CB,£585Th.,Gaziantepspor,Turkey,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdelilah-fahmi/profil/spieler/5637
+RC Strasbourg Alsace,Katlego Mphela,20,South Africa,Centre-Forward,CF,£450Th.,Stade Reims,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/katlego-mphela/profil/spieler/18917
+RC Strasbourg Alsace,Pascal Camadini,33,France,Central Midfield,CM,£630Th.,SC Bastia,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-camadini/profil/spieler/5620
+RC Strasbourg Alsace,Jacques Momha,22,Cameroon,Left-Back,LB,£315Th.,Stade Lavallois,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jacques-momha/profil/spieler/5615
+RC Strasbourg Alsace,Omer Peretz,19,Israel,Centre-Forward,CF,-,Hapoel Tel Aviv,Israel,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/omer-peretz/profil/spieler/58336
+RC Strasbourg Alsace,Nicolas Bonis,23,France,Goalkeeper,GK,£90Th.,Pontevedra CF,Spain,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-bonis/profil/spieler/12532
+RC Strasbourg Alsace,Yannick Kamanan,22,France,Centre-Forward,CF,£45Th.,KV Oostende,Belgium,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yannick-kamanan/profil/spieler/5628
+RC Strasbourg Alsace,Vaclav Drobny,24,Czech Republic,Centre-Back,CB,£1.58m,FK Jablonec 97,Czech Republic,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/vaclav-drobny/profil/spieler/5612
+RC Strasbourg Alsace,Christian Bassila,27,France,Centre-Back,CB,£1.80m,Sunderland AFC,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/christian-bassila/profil/spieler/3922
+RC Strasbourg Alsace,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.13m,FC Toulouse,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yacine-abdessadki/profil/spieler/5618
+RC Strasbourg Alsace,Richard Dutruel,32,France,Goalkeeper,GK,£450Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/richard-dutruel/profil/spieler/6723
+RC Strasbourg Alsace,Rémy Vercoutre,25,France,Goalkeeper,GK,£900Th.,Olympique Lyon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/remy-vercoutre/profil/spieler/5338
+RC Strasbourg Alsace,Pascal Johansen,26,France,Central Midfield,CM,£1.44m,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-johansen/profil/spieler/5621
+RC Strasbourg Alsace,Arthur Boka,22,Cote d'Ivoire,Left-Back,LB,£1.13m,KSK Beveren,Belgium,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/arthur-boka/profil/spieler/13038
+OGC Nice,Florian Boucansaud,24,France,Centre-Back,CB,£360Th.,ES Troyes AC,France,Loan fee:£225Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/florian-boucansaud/profil/spieler/31219
+OGC Nice,Abdelmalek Cherrad,24,Algeria,Centre-Forward,CF,£720Th.,SC Bastia,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdelmalek-cherrad/profil/spieler/5546
+OGC Nice,Hilaire Muñoz,22,France,Goalkeeper,GK,£450Th.,SC Balma,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/hilaire-munoz/profil/spieler/5523
+OGC Nice,Serge Dié,27,Cote d'Ivoire,Defensive Midfield,DM,£900Th.,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/serge-die/profil/spieler/13845
+OGC Nice,Jean-Paul Kalala,23,DR Congo,Central Midfield,CM,£90Th.,Grimsby Town,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-paul-kalala/profil/spieler/27702
+OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,Gillingham FC,England,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/anthony-scaramozzino/profil/spieler/17976
+OGC Nice,Victor Agali,26,Nigeria,Centre-Forward,CF,£1.58m,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/victor-agali/profil/spieler/228
+OGC Nice,Thibault Scotto,26,France,Right-Back,RB,£540Th.,SC Amiens,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/thibault-scotto/profil/spieler/5541
+OGC Nice,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,ES Troyes AC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/georges-ba/profil/spieler/13846
+OGC Nice,Christophe Meslin,28,France,Centre-Forward,CF,£675Th.,SC Bastia,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-meslin/profil/spieler/5682
+OGC Nice,Kamel Larbi,20,Algeria,Centre-Forward,CF,£270Th.,FC Lorient,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/kamel-larbi/profil/spieler/17940
+OGC Nice,José Cobos,37,France,Left-Back,LB,£225Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jose-cobos/profil/spieler/5529
+OGC Nice,Bruno Valencony,37,France,Goalkeeper,GK,£135Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bruno-valencony/profil/spieler/5525
+OGC Nice,Martin Djetou,30,France,Centre-Back,CB,£900Th.,,Without Club,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/martin-djetou/profil/spieler/3725
+OGC Nice,Edgaras Jankauskas,30,Lithuania,Centre-Forward,CF,£1.62m,FC Porto,Portugal,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/edgaras-jankauskas/profil/spieler/9816
+FC Toulouse,David Suarez,26,France,Second Striker,SS,£900Th.,EA Guingamp,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-suarez/profil/spieler/18825
+FC Toulouse,Julien Sola,21,France,Midfielder,Midfielder,£180Th.,AS Moulins Football,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-sola/profil/spieler/17899
+FC Toulouse,Eduardo,25,Brazil,Centre-Forward,CF,£1.80m,FC Basel 1893,Switzerland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/eduardo/profil/spieler/6802
+FC Toulouse,Anthony Braizat,27,France,Right Midfield,RM,£405Th.,AS Cannes,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/anthony-braizat/profil/spieler/6981
+FC Toulouse,Predrag Ocokoljic,27,Serbia,Right-Back,RB,£360Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/predrag-ocokoljic/profil/spieler/6801
+FC Toulouse,Ludovic Clément,28,Martinique,Defender,Defender,£450Th.,HSC Montpellier,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-clement/profil/spieler/6804
+FC Toulouse,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,FC Istres Ouest Provence ,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/cedric-faure/profil/spieler/6970
+FC Toulouse,François Clerc,22,France,Right-Back,RB,£225Th.,Olympique Lyon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/francois-clerc/profil/spieler/12134
+FC Toulouse,Stéphane Dalmat,26,France,Central Midfield,CM,£6.30m,FC Internazionale,Italy,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-dalmat/profil/spieler/7259
+AC Ajaccio,Yacine Bezzaz,23,Algeria,Left Midfield,LM,£180Th.,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yacine-bezzaz/profil/spieler/13763
+AC Ajaccio,Abdelnasser Ouadah,29,Algeria,Left Winger,LW,£1.80m,FC Metz,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdelnasser-ouadah/profil/spieler/5733
+AC Ajaccio,David Terrier,31,France,Defender,Defender,£405Th.,US Créteil-Lusitanos,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-terrier/profil/spieler/5735
+AC Ajaccio,Yohan Demont,27,France,Right-Back,RB,£1.80m,RC Lens,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yohan-demont/profil/spieler/5721
+AC Ajaccio,Gaspar,30,Portugal,Centre-Back,CB,£675Th.,Belenenses SAD,Portugal,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gaspar/profil/spieler/14299
+AC Ajaccio,Nicolas Bonnal,28,France,Left Midfield,LM,£450Th.,Stade Reims,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-bonnal/profil/spieler/5642
+AC Ajaccio,Mamadou Seck,25,Senegal,Centre-Back,CB,£1.35m,Kayseri Erciyesspor,Turkey,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-seck/profil/spieler/5724
+AC Ajaccio,Abderaouf Zarabi,26,Algeria,Left-Back,LB,£180Th.,FC Gueugnon,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abderaouf-zarabi/profil/spieler/13776
+AC Ajaccio,Renaud Connen,25,Monaco,Attacking Midfield,AM,£630Th.,Grenoble Foot 38,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/renaud-connen/profil/spieler/5726
+AC Ajaccio,Olivier Fauconnier,29,Guadeloupe,Centre-Forward,CF,£405Th.,OGC Nice,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-fauconnier/profil/spieler/18038
+AC Ajaccio,Cyril Chapuis,26,France,Centre-Forward,CF,£765Th.,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/cyril-chapuis/profil/spieler/5329
+AC Ajaccio,Laurent Merlin,20,France,Attacking Midfield,AM,£180Th.,Olympique Marseille,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+FC Girondins Bordeaux,Camel Meriem,25,France,Attacking Midfield,AM,£5.40m,AS Monaco,France,£5.40m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/camel-meriem/profil/spieler/5376
+FC Girondins Bordeaux,Pascal Feindouno,24,Guinea,Right Winger,RW,£3.60m,AS Saint-Étienne,France,£2.70m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/pascal-feindouno/profil/spieler/3914
+FC Girondins Bordeaux,Albert Riera,23,Spain,Left Winger,LW,£4.28m,RCD Espanyol Barcelona,Spain,£2.70m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/albert-riera/profil/spieler/7373
+FC Girondins Bordeaux,Michalis Kapsis,31,Greece,Centre-Back,CB,£1.80m,Olympiacos Piraeus,Greece,£450Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/michalis-kapsis/profil/spieler/9860
+FC Girondins Bordeaux,Anicet Adjamossi,21,Benin,Right-Back,RB,£675Th.,Entente SSG,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/anicet-adjamossi/profil/spieler/14890
+FC Girondins Bordeaux,Cyril Rool,30,France,Left-Back,LB,£1.53m,OGC Nice,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/cyril-rool/profil/spieler/5480
+FC Girondins Bordeaux,Abdoulaye Barry,20,Guinea,Centre-Back,CB,£135Th.,Gazélec Football Club Olympique Ajaccio,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/abdoulaye-barry/profil/spieler/14891
+FC Girondins Bordeaux,Gérald Cid,22,France,Centre-Back,CB,£630Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gerald-cid/profil/spieler/19078
+FC Girondins Bordeaux,Renaud Cohade,20,France,Central Midfield,CM,£900Th.,FC Sète 34,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/renaud-cohade/profil/spieler/18955
+FC Girondins Bordeaux,Sylvain Franco,22,France,Centre-Forward,CF,£315Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-franco/profil/spieler/19079
+FC Girondins Bordeaux,Adonis,19,Brazil,Attacking Midfield,AM,£315Th.,Rio Branco Esporte Clube (SP),Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/adonis/profil/spieler/22941
+FC Girondins Bordeaux,Thiago Ribeiro,19,Brazil,Left Winger,LW,£450Th.,Rio Branco Esporte Clube (SP),Brazil,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/thiago-ribeiro/profil/spieler/22948
+FC Girondins Bordeaux,Kalu Uche,22,Nigeria,Centre-Forward,CF,£1.13m,Wisla Kraków,Poland,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/kalu-uche/profil/spieler/6585
+FC Metz,Franck Signorino,23,France,Left-Back,LB,£2.25m,FC Nantes,France,£900Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/franck-signorino/profil/spieler/12101
+FC Metz,Christophe Avezac,28,France,Left-Back,LB,£1.08m,FCO Dijon,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/christophe-avezac/profil/spieler/6972
+FC Metz,Mario Espartero,27,France,Defensive Midfield,DM,£900Th.,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mario-espartero/profil/spieler/12103
+FC Metz,Julien Gorius,20,France,Central Midfield,CM,£135Th.,FC Molenbeek Brüssel,Belgium,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-gorius/profil/spieler/26797
+FC Metz,Richard Socrier,26,Guadeloupe,Centre-Forward,CF,£360Th.,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/richard-socrier/profil/spieler/26799
+FC Metz,Mamadou Diakité,20,Mali,Defensive Midfield,DM,-,Vitória Setúbal FC,Portugal,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-diakite/profil/spieler/33327
+FC Metz,Alexandre Frutos,23,France,Left Winger,LW,£1.17m,Brighton & Hove Albion,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-frutos/profil/spieler/12104
+FC Metz,Guillaume Cherreau,22,France,Goalkeeper,GK,£225Th.,Cambridge United,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-cherreau/profil/spieler/12358
+FC Metz,Sylvain Marchal,25,France,Centre-Back,CB,£1.35m,FC Lorient,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-marchal/profil/spieler/12093
+FC Metz,Venn Toure,21,Cote d'Ivoire,Defensive Midfield,DM,£135Th.,AS Cannes,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/venn-toure/profil/spieler/20651
+FC Metz,Johan Eberhart,19,France,Defender,Defender,-,1.FC Saarbrücken II,Germany,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/johan-eberhart/profil/spieler/32642
+FC Metz,Mathieu Dinet,19,France,Central Midfield,CM,£135Th.,Stade Brest 29,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mathieu-dinet/profil/spieler/26796
+FC Metz,Benjamin Nicaise,24,France,Defensive Midfield,DM,£720Th.,SC Amiens,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/benjamin-nicaise/profil/spieler/18893
+FC Metz,Stéphane Thys,19,Belgium,Forward,Forward,£180Th.,RAEC Mons,Belgium,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephane-thys/profil/spieler/20650
+FC Metz,Jean-Philippe Caillet,28,France,Centre-Back,CB,£1.35m,FC Litex Lovetch,Bulgaria,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/jean-philippe-caillet/profil/spieler/20675
+FC Metz,Papiss Demba Cissé,20,Senegal,Centre-Forward,CF,£225Th.,AS Cherbourg,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/papiss-demba-cisse/profil/spieler/33952
+FC Metz,Nicolas N´Dione,23,Senegal,Forward,Forward,£135Th.,Sporting Toulon Var,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-ndione/profil/spieler/20580
+FC Metz,Moktar Mangane,22,Senegal,Defender,Defender,£135Th.,CS Louhans-Cuiseaux 71,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/moktar-mangane/profil/spieler/20578
+FC Metz,Grégory Leca,25,France,Defensive Midfield,DM,£1.35m,SM Caen,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gregory-leca/profil/spieler/12105
+FC Metz,Daniel Bocande,21,Senegal,Midfielder,Midfielder,£180Th.,CS Louhans-Cuiseaux 71,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/daniel-bocande/profil/spieler/20642
+FC Metz,Bartholomew Ogbeche,20,Nigeria,Centre-Forward,CF,£1.35m,Paris Saint-Germain,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bartholomew-ogbeche/profil/spieler/5574
+FC Metz,Ruslan Pimenov,23,Russia,Centre-Forward,CF,£1.80m,Lokomotiv Moscow,Russia,"End of loanJun 1, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ruslan-pimenov/profil/spieler/9657
+FC Metz,Ivan Gvozdenović,26,Serbia,Centre-Back,CB,£900Th.,Club Brugge KV,Belgium,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ivan-gvozdenovi%C4%87/profil/spieler/9635
+FC Nantes,Florin Bratu,25,Romania,Centre-Forward,CF,£1.35m,FC Dinamo Bucharest,Romania,Loan fee:£225Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/florin-bratu/profil/spieler/9710
+FC Nantes,Denis Stinat,22,France,Left-Back,LB,£135Th.,FCO Dijon,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/denis-stinat/profil/spieler/17247
+FC Nantes,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/willy-grondin/profil/spieler/5496
+FC Nantes,Goran Rubil,24,Croatia,Right Midfield,RM,£180Th.,Shonan Bellmare,Japan,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/goran-rubil/profil/spieler/5512
+FC Nantes,Fodil Hadjadj,22,Algeria,Defensive Midfield,DM,£720Th.,MC Algiers,Algeria,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fodil-hadjadj/profil/spieler/12395
+FC Nantes,Shiva N'Zigou,21,Gabon,Left Winger,LW,£630Th.,Stade Reims,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/shiva-nzigou/profil/spieler/5520
+FC Nantes,Loïc Pailleres,25,France,Defensive Midfield,DM,£450Th.,Angoulême Charente FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/loic-pailleres/profil/spieler/5510
+FC Nantes,Boubacar Baldé,19,Guinea,Forward,Forward,£180Th.,Dakar UC,Senegal,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/boubacar-balde/profil/spieler/20831
+FC Nantes,Alexis Thébaux,20,France,Goalkeeper,GK,£135Th.,AS Cherbourg,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexis-thebaux/profil/spieler/22396
+FC Nantes,Guillaume Rippert,20,France,Left-Back,LB,£225Th.,Valenciennes FC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/guillaume-rippert/profil/spieler/26328
+FC Nantes,Julio Cáceres,25,Paraguay,Centre-Back,CB,£1.58m,Clube Atlético Mineiro,Brazil,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/julio-caceres/profil/spieler/18733
+FC Nantes,Stéphen Drouin,21,France,Left-Back,LB,£810Th.,ES Troyes AC,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/stephen-drouin/profil/spieler/12391
+FC Nantes,Grégory Pujol,25,France,Centre-Forward,CF,£1.35m,RSC Anderlecht,Belgium,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/gregory-pujol/profil/spieler/5521
+FC Nantes,Hassan Ahamada,24,France,Attacking Midfield,AM,£630Th.,Belenenses SAD,Portugal,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/hassan-ahamada/profil/spieler/3921
+FC Nantes,Mamadou Bagayoko,26,Mali,Centre-Forward,CF,£2.16m,OGC Nice,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mamadou-bagayoko/profil/spieler/3002
+AS Nancy-Lorraine,Demba Diagouraga,27,France,Midfielder,Midfielder,-,Aviron Bayonnais,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/demba-diagouraga/profil/spieler/28317
+AS Nancy-Lorraine,Julien Tournut,22,France,Centre-Back,CB,-,Yverdon-Sport FC,Switzerland,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/julien-tournut/profil/spieler/28351
+AS Nancy-Lorraine,Laurent Dufresne,33,France,Centre-Forward,CF,-,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-dufresne/profil/spieler/28323
+AS Nancy-Lorraine,Patrick Moreau,31,France,Defender,Defender,-,LB Châteauroux,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/patrick-moreau/profil/spieler/28343
+AS Nancy-Lorraine,Bertrand Fayolle,29,France,Centre-Forward,CF,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bertrand-fayolle/profil/spieler/28327
+AS Nancy-Lorraine,Ludovic Guerriero,20,France,Defensive Midfield,DM,-,US Raon-l'Étape,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-guerriero/profil/spieler/28332
+AS Nancy-Lorraine,Tchiressoua Guel,29,Cote d'Ivoire,Central Midfield,CM,£765Th.,FC Lorient,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/tchiressoua-guel/profil/spieler/26013
+AS Nancy-Lorraine,Geoffrey Doumeng,24,France,Central Midfield,CM,£180Th.,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/geoffrey-doumeng/profil/spieler/5699
+AS Nancy-Lorraine,Rachid Hamdani,20,Morocco,Defensive Midfield,DM,-,US Raon-l'Étape,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/rachid-hamdani/profil/spieler/40795
+AS Nancy-Lorraine,Olivier Rambo,31,France,Right Winger,RW,-,Sporting Toulon Var,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-rambo/profil/spieler/148599
+AS Nancy-Lorraine,Dagui Bakari,31,Cote d'Ivoire,Centre-Forward,CF,£1.17m,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/dagui-bakari/profil/spieler/3905
+AS Nancy-Lorraine,Sébastien Puygrenier,23,France,Centre-Back,CB,£45Th.,Stade Rennais FC,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sebastien-puygrenier/profil/spieler/5667
+Le Mans Union Club 72,Fabrice Pancrate,25,France,Right Winger,RW,£3.60m,Paris Saint-Germain,France,£2.70m,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/fabrice-pancrate/profil/spieler/6267
+Le Mans Union Club 72,Vincent Demarconnay,22,France,Goalkeeper,GK,-,TVEC Les Sables,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/vincent-demarconnay/profil/spieler/111216
+Le Mans Union Club 72,Zvonimir Deranja,25,Croatia,Centre-Forward,CF,-,HNK Hajduk Split,Croatia,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/zvonimir-deranja/profil/spieler/23913
+Le Mans Union Club 72,Alioune Kébé,20,Senegal,Centre-Forward,CF,-,Tours FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alioune-kebe/profil/spieler/23940
+Le Mans Union Club 72,Cédric Liabeuf,25,France,Attacking Midfield,AM,£315Th.,Stade Brest 29,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/cedric-liabeuf/profil/spieler/6263
+Le Mans Union Club 72,Sekou Baradji,21,France,Defensive Midfield,DM,-,West Ham United,England,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sekou-baradji/profil/spieler/23890
+Le Mans Union Club 72,Yannick Yenga,20,DR Congo,Left Winger,LW,-,S. O. Châtellerault,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/yannick-yenga/profil/spieler/23983
+Le Mans Union Club 72,Ulrick Lupède,21,Guadeloupe,Centre-Back,CB,-,Tours FC,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ulrick-lupede/profil/spieler/123661
+Le Mans Union Club 72,Thabang Molefe,25,South Africa,Centre-Back,CB,£450Th.,Orlando Pirates,South Africa,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/thabang-molefe/profil/spieler/6742
+Le Mans Union Club 72,Olivier Pédémas,36,France,Goalkeeper,GK,£180Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/olivier-pedemas/profil/spieler/6269
+Le Mans Union Club 72,Laurent Peyrelade,35,France,Forward,Forward,-,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/laurent-peyrelade/profil/spieler/23968
+Le Mans Union Club 72,Dan Eggen,35,Norway,Centre-Back,CB,£675Th.,,Retired,-,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/dan-eggen/profil/spieler/6819
+Le Mans Union Club 72,Willy Grondin,30,France,Goalkeeper,GK,£225Th.,FC Nantes,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/willy-grondin/profil/spieler/5496
+Le Mans Union Club 72,Alexandre Comisetti,31,Switzerland,Left Midfield,LM,£675Th.,Servette FC,Switzerland,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/alexandre-comisetti/profil/spieler/4817
+Le Mans Union Club 72,Georges Ba,26,Cote d'Ivoire,Centre-Forward,CF,£45Th.,OGC Nice,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/georges-ba/profil/spieler/13846
+Le Mans Union Club 72,Mansour Boutabout,26,Algeria,Centre-Forward,CF,-,FC Gueugnon,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/mansour-boutabout/profil/spieler/23901
+ES Troyes AC,Damien Perquis,21,Poland,Centre-Back,CB,£765Th.,AS Saint-Étienne,France,£540Th.,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/damien-perquis/profil/spieler/31050
+ES Troyes AC,Franck Grandel,27,Guadeloupe,Goalkeeper,GK,£270Th.,FC Utrecht,Netherlands,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/franck-grandel/profil/spieler/12934
+ES Troyes AC,Emanuel Perrone,22,Argentina,Centre-Forward,CF,-,Ionikos Nikeas,Greece,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/emanuel-perrone/profil/spieler/34324
+ES Troyes AC,David Vairelles,27,France,Centre-Back,CB,-,SC Amiens,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/david-vairelles/profil/spieler/45169
+ES Troyes AC,Nicolas Florentin,27,France,Left Winger,LW,-,SM Caen,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/nicolas-florentin/profil/spieler/33918
+ES Troyes AC,Ludovic Liron,27,France,Centre-Back,CB,-,Valenciennes FC,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/ludovic-liron/profil/spieler/43957
+ES Troyes AC,Frédéric Garny,30,France,Forward,Forward,-,SCO Angers,France,Free transfer,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/frederic-garny/profil/spieler/148239
+ES Troyes AC,Karim Ziani,22,Algeria,Attacking Midfield,AM,-,FC Lorient,France,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/karim-ziani/profil/spieler/25976
+ES Troyes AC,Eric Marester,21,France,Right-Back,RB,-,SC Bastia,France,Loan,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/eric-marester/profil/spieler/44694
+ES Troyes AC,Marvin Aïssi,20,Benin,Centre-Forward,CF,-,FC Baden,Switzerland,?,Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/marvin-aissi/profil/spieler/33040
+ES Troyes AC,Sylvain Meslien,24,France,Centre-Back,CB,£180Th.,AS Saint-Étienne,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/sylvain-meslien/profil/spieler/17435
+ES Troyes AC,Bafétimbi Gomis,19,France,Centre-Forward,CF,£135Th.,AS Saint-Étienne,France,"End of loanJun 30, 2005",Out,2005,s,ligue-1,https://www.transfermarkt.co.uk/bafetimbi-gomis/profil/spieler/22388
+Olympique Lyon,Patrick Müller,29,Switzerland,Centre-Back,CB,£2.70m,FC Basel 1893,Switzerland,£3.42m,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/patrick-muller/profil/spieler/5347
+AS Monaco,Marco Di Vaio,29,Italy,Centre-Forward,CF,£7.20m,Valencia CF,Spain,Loan fee:£90Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+AS Monaco,Alexandre Licata,21,France,Centre-Forward,CF,-,CS Louhans-Cuiseaux 71,France,Free transfer,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/alexandre-licata/profil/spieler/37810
+AS Monaco,Manuel dos Santos,31,Cape Verde,Left-Back,LB,£1.13m,SL Benfica,Portugal,Free transfer,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/manuel-dos-santos/profil/spieler/5311
+AS Monaco,Christian Vieri,32,Italy,Centre-Forward,CF,£9.00m,AC Milan,Italy,Free transfer,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/christian-vieri/profil/spieler/5797
+Stade Rennais FC,John Mensah,23,Ghana,Centre-Back,CB,£225Th.,Chievo Verona,Italy,£1.08m,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/john-mensah/profil/spieler/5917
+Stade Rennais FC,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.60m,AS Monaco,France,£900Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+Olympique Marseille,Mickaël Pagis,32,France,Second Striker,SS,£3.15m,RC Strasbourg Alsace,France,£900Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/mickael-pagis/profil/spieler/5411
+Olympique Marseille,Renato Civelli,22,Argentina,Centre-Back,CB,-,Club Atlético Banfield,Argentina,Loan fee:£117Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/renato-civelli/profil/spieler/30757
+Olympique Marseille,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,AS Monaco,France,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+Olympique Marseille,Anthony Flachi,19,France,Central Midfield,CM,-,Olympique de Marseille B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/anthony-flachi/profil/spieler/38476
+Olympique Marseille,Alexis Pradie,18,France,Centre-Back,CB,-,Olympique de Marseille B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/alexis-pradie/profil/spieler/38480
+Olympique Marseille,Jérôme Bonnissel,32,France,Left-Back,LB,£675Th.,,Without Club,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/jerome-bonnissel/profil/spieler/3911
+AS Saint-Étienne,Hélder Postiga,23,Portugal,Centre-Forward,CF,£5.40m,FC Porto,Portugal,Loan fee:£720Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/helder-postiga/profil/spieler/5169
+AS Saint-Étienne,Bruno Basto,27,Portugal,Left-Back,LB,£900Th.,,Without Club,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/bruno-basto/profil/spieler/5368
+RC Lens,Pierre-Alain Frau,25,France,Centre-Forward,CF,£4.05m,Olympique Lyon,France,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/pierre-alain-frau/profil/spieler/3901
+RC Lens,Guillermo Rodríguez,21,Uruguay,Centre-Back,CB,-,Danubio FC,Uruguay,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/guillermo-rodriguez/profil/spieler/37633
+RC Lens,Pape Sarr,27,Senegal,Attacking Midfield,AM,£900Th.,FC Istres Ouest Provence ,France,"End of loanDec 1, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/pape-sarr/profil/spieler/3906
+Paris Saint-Germain,Paulo César,27,Brazil,Right Midfield,RM,£900Th.,Santos FC,Brazil,"End of loanJan 10, 2006",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/paulo-cesar/profil/spieler/5557
+FC Sochaux-Montbéliard,Dusko Tosic,20,Serbia,Centre-Back,CB,-,OFK Beograd,Serbia,£450Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/dusko-tosic/profil/spieler/17184
+FC Sochaux-Montbéliard,Weldon,25,Brazil,Centre-Forward,CF,-,Cruzeiro Esporte Clube,Brazil,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/weldon/profil/spieler/37775
+FC Sochaux-Montbéliard,Valéry Mézague,22,Cameroon,Attacking Midfield,AM,£1.58m,HSC Montpellier,France,?,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/valery-mezague/profil/spieler/5703
+FC Sochaux-Montbéliard,Thomas Régnier,21,France,Centre-Forward,CF,-,Clermont Foot 63,France,"End of loanDec 31, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/thomas-regnier/profil/spieler/121085
+RC Strasbourg Alsace,Edgar Loué,22,Cote d'Ivoire,Defensive Midfield,DM,-,Raja Club Athletic Casablanca,Morocco,£450Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/edgar-loue/profil/spieler/37357
+RC Strasbourg Alsace,Abou Mosalem,24,Egypt,Left-Back,LB,-,El Ahly Cairo,Egypt,£135Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/abou-mosalem/profil/spieler/37481
+RC Strasbourg Alsace,Szilard Nemeth,28,Slovakia,Second Striker,SS,£4.73m,Middlesbrough FC,England,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/szilard-nemeth/profil/spieler/3863
+RC Strasbourg Alsace,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.80m,FC Toulouse,France,"End of loanDec 31, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/yacine-abdessadki/profil/spieler/5618
+OGC Nice,Onyekachi Apam,19,Nigeria,Centre-Back,CB,-,Enugu Rangers IFC,Nigeria,Loan fee:£225Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/onyekachi-apam/profil/spieler/37460
+OGC Nice,David Bellion,23,France,Centre-Forward,CF,£2.03m,Manchester United,England,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/david-bellion/profil/spieler/3115
+OGC Nice,Drissa Diakité,20,Mali,Centre-Back,CB,-,MC Algiers,Algeria,Free transfer,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/drissa-diakite/profil/spieler/37835
+OGC Nice,Kamel Larbi,20,Algeria,Centre-Forward,CF,£270Th.,FC Lorient,France,"End of loanDec 1, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/kamel-larbi/profil/spieler/17940
+OGC Nice,Anthony Scaramozzino,20,France,Left-Back,LB,£315Th.,Gillingham FC,England,"End of loanDec 31, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/anthony-scaramozzino/profil/spieler/17976
+AC Ajaccio,Moussa N'Diaye,26,Senegal,Right Winger,RW,£1.35m,FC Istres Ouest Provence ,France,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/moussa-ndiaye/profil/spieler/17690
+FC Girondins Bordeaux,Beto,29,Portugal,Centre-Back,CB,£5.40m,Sporting CP,Portugal,£900Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/beto/profil/spieler/13819
+FC Metz,Souleymane Youla,24,Guinea,Centre-Forward,CF,£2.70m,Besiktas JK,Turkey,Loan fee:£360Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/souleymane-youla/profil/spieler/1081
+FC Metz,Ruslan Pimenov,24,Russia,Centre-Forward,CF,£900Th.,Lokomotiv Moscow,Russia,Loan fee:£180Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/ruslan-pimenov/profil/spieler/9657
+FC Metz,Jamal Alioui,23,Morocco,Right-Back,RB,£270Th.,FC Crotone,Italy,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/jamal-alioui/profil/spieler/8190
+FC Metz,Mamadou Diakité,20,Mali,Defensive Midfield,DM,-,Vitória Setúbal FC,Portugal,"End of loanDec 31, 2005",In,2005,w,ligue-1,https://www.transfermarkt.co.uk/mamadou-diakite/profil/spieler/33327
+FC Nantes,Dennis Oliech,20,Kenya,Right Winger,RW,-,Al Arabi Sports Club,Qatar,£2.43m,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/dennis-oliech/profil/spieler/35748
+FC Nantes,Julio Hernán Rossi,28,Argentina,Centre-Forward,CF,£1.53m,FC Basel 1893,Switzerland,£630Th.,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/julio-hernan-rossi/profil/spieler/2900
+FC Nantes,Karim El Mourabet,18,Morocco,Centre-Back,CB,£135Th.,FC Nantes B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/karim-el-mourabet/profil/spieler/30701
+AS Nancy-Lorraine,Romain Chouleur,19,France,Left Winger,LW,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/romain-chouleur/profil/spieler/36292
+AS Nancy-Lorraine,Basile Camerling,18,France,Centre-Forward,CF,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/basile-camerling/profil/spieler/38398
+AS Nancy-Lorraine,Manuel da Costa,19,Morocco,Centre-Back,CB,-,AS Nancy-Lorraine B,France,-,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/manuel-da-costa/profil/spieler/37398
+Le Mans Union Club 72,Grafite,26,Brazil,Centre-Forward,CF,-,São Paulo Futebol Clube,Brazil,£3.15m,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/grafite/profil/spieler/37772
+Le Mans Union Club 72,Cédric Fauré,26,France,Centre-Forward,CF,£2.25m,FC Istres Ouest Provence ,France,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/cedric-faure/profil/spieler/6970
+ES Troyes AC,Grégory Paisley,28,France,Left-Back,LB,£540Th.,FC Metz,France,Free transfer,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/gregory-paisley/profil/spieler/6246
+ES Troyes AC,Ali Zitouni,24,Tunisia,Right Winger,RW,-,Esperance Tunis,Tunisia,Loan,In,2005,w,ligue-1,https://www.transfermarkt.co.uk/ali-zitouni/profil/spieler/37858
+Olympique Lyon,Johann Truchet,22,France,Right-Back,RB,£90Th.,Stade Reims,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/johann-truchet/profil/spieler/18907
+Olympique Lyon,Julien Viale,23,France,Centre-Forward,CF,£450Th.,FC Istres Ouest Provence ,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/julien-viale/profil/spieler/12135
+Olympique Lyon,Pierre-Alain Frau,25,France,Centre-Forward,CF,£4.05m,RC Lens,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/pierre-alain-frau/profil/spieler/3901
+LOSC Lille,Dante,22,Brazil,Centre-Back,CB,£225Th.,RSC Charleroi,Belgium,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/dante/profil/spieler/16136
+AS Monaco,Emmanuel Adebayor,21,Togo,Centre-Forward,CF,£6.75m,Arsenal FC,England,£9.00m,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/emmanuel-adebayor/profil/spieler/8883
+AS Monaco,Patrice Evra,24,France,Left-Back,LB,£6.75m,Manchester United,England,£7.20m,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/patrice-evra/profil/spieler/5285
+AS Monaco,Olivier Sorlin,26,France,Defensive Midfield,DM,£3.60m,Stade Rennais FC,France,£900Th.,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/olivier-sorlin/profil/spieler/5676
+AS Monaco,Marko Muslin,20,France,Defensive Midfield,DM,£135Th.,Willem II Tilburg,Netherlands,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/marko-muslin/profil/spieler/19717
+AS Monaco,Toifilou Maoulida,26,France,Centre-Forward,CF,£2.70m,Olympique Marseille,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/toifilou-maoulida/profil/spieler/5680
+Stade Rennais FC,Stéphane N'Guéma,21,Gabon,Right Winger,RW,£540Th.,FC Lorient,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/stephane-nguema/profil/spieler/26327
+Stade Rennais FC,Grégory Tanagro,21,France,Centre-Back,CB,£270Th.,FC Sète 34,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/gregory-tanagro/profil/spieler/22383
+Olympique Marseille,Koji Nakata,26,Japan,Defensive Midfield,DM,£1.89m,FC Basel 1893,Switzerland,£630Th.,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/koji-nakata/profil/spieler/27519
+Olympique Marseille,Leyti N'Diaye,20,Senegal,Centre-Back,CB,£405Th.,US Créteil-Lusitanos,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/leyti-ndiaye/profil/spieler/18894
+Olympique Marseille,Koke,22,Spain,Centre-Forward,CF,£2.48m,Sporting CP,Portugal,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/koke/profil/spieler/16132
+Olympique Marseille,Andrés Mendoza,27,Peru,Centre-Forward,CF,£2.25m,Metallurg Donetsk,Ukraine,"End of loanDec 1, 2005",Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/andres-mendoza/profil/spieler/9650
+AS Saint-Étienne,Idriss Ech-Chergui,20,France,Attacking Midfield,AM,£180Th.,Aviron Bayonnais,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/idriss-ech-chergui/profil/spieler/33916
+RC Lens,Jérôme Leroy,31,France,Attacking Midfield,AM,£3.60m,Beitar Jerusalem,Israel,£450Th.,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/jerome-leroy/profil/spieler/5563
+RC Lens,Pape Sarr,28,Senegal,Attacking Midfield,AM,£900Th.,Stade Brest 29,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/pape-sarr/profil/spieler/3906
+AJ Auxerre,Benjani,27,Zimbabwe,Centre-Forward,CF,£3.60m,Portsmouth FC,England,£5.40m,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/benjani/profil/spieler/12063
+AJ Auxerre,Abou Diaby,19,France,Central Midfield,CM,£135Th.,Arsenal FC,England,£2.70m,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/abou-diaby/profil/spieler/26763
+AJ Auxerre,Hassan Yebda,21,Algeria,Central Midfield,CM,£450Th.,Stade Lavallois,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/hassan-yebda/profil/spieler/12351
+Paris Saint-Germain,Sergey Semak,29,Russia,Central Midfield,CM,£2.25m,FK Moskau,Russia,£2.70m,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/sergey-semak/profil/spieler/15373
+FC Sochaux-Montbéliard,Jaouad Zairi,23,Morocco,Right Midfield,RM,£1.62m,Al-Ittihad Jeddah,Saudi Arabia,Loan fee:£630Th.,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/jaouad-zairi/profil/spieler/5413
+FC Sochaux-Montbéliard,Fabien Lavoyer,19,France,Centre-Back,CB,-,SO Romorantin,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/fabien-lavoyer/profil/spieler/33922
+FC Sochaux-Montbéliard,Mohamed Kader,26,Togo,Centre-Forward,CF,£1.13m,EA Guingamp,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/mohamed-kader/profil/spieler/4823
+FC Sochaux-Montbéliard,Ahmed Samir Farag,19,Egypt,Left-Back,LB,£90Th.,El Ahly Cairo,Egypt,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/ahmed-samir-farag/profil/spieler/15409
+RC Strasbourg Alsace,Mickaël Pagis,32,France,Second Striker,SS,£3.15m,Olympique Marseille,France,£900Th.,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/mickael-pagis/profil/spieler/5411
+RC Strasbourg Alsace,Éric Mouloungui,21,Gabon,Centre-Forward,CF,£810Th.,FC Gueugnon,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/eric-mouloungui/profil/spieler/12551
+OGC Nice,Franck Padovani,20,France,Centre-Forward,CF,£315Th.,Sporting Toulon Var,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/franck-padovani/profil/spieler/23833
+FC Toulouse,Benjamin Psaume,21,France,Right Winger,RW,£1.13m,FC Sète 34,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/benjamin-psaume/profil/spieler/27116
+FC Toulouse,Yacine Abdessadki,24,Morocco,Right Winger,RW,£1.80m,RC Strasbourg Alsace,France,"End of loanDec 31, 2005",Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/yacine-abdessadki/profil/spieler/5618
+AC Ajaccio,Christophe Bastien,29,France,Right Midfield,RM,£225Th.,CS Sedan-Ardennes,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/christophe-bastien/profil/spieler/23891
+AC Ajaccio,Laurent Merlin,21,France,Attacking Midfield,AM,£180Th.,LB Châteauroux,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/laurent-merlin/profil/spieler/7046
+FC Girondins Bordeaux,Laurent Leroy,29,France,Centre-Forward,CF,£810Th.,US Créteil-Lusitanos,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/laurent-leroy/profil/spieler/5573
+FC Girondins Bordeaux,Paulo Costa,26,Portugal,Attacking Midfield,AM,£180Th.,Aris Thessaloniki,Greece,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/paulo-costa/profil/spieler/6177
+FC Girondins Bordeaux,Kodjo Julien Afanou,28,Togo,Centre-Back,CB,£765Th.,,Without Club,-,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/kodjo-julien-afanou/profil/spieler/3917
+FC Metz,Samuel Allegro,27,France,Right-Back,RB,£630Th.,LB Châteauroux,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/samuel-allegro/profil/spieler/12094
+FC Metz,Jung-hwan Ahn,30,"Korea, South",Second Striker,SS,£1.35m,MSV Duisburg,Germany,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/jung-hwan-ahn/profil/spieler/3489
+FC Metz,Marcin Zewlakow,29,Poland,Centre-Forward,CF,£2.70m,Excelsior Mouscron,Belgium,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/marcin-zewlakow/profil/spieler/13388
+FC Metz,Grégory Paisley,28,France,Left-Back,LB,£540Th.,ES Troyes AC,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/gregory-paisley/profil/spieler/6246
+FC Nantes,Alexander Viveros,28,Colombia,Left-Back,LB,£900Th.,Grasshopper Club Zurich,Switzerland,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/alexander-viveros/profil/spieler/13170
+FC Nantes,Gilles Yapi,24,Cote d'Ivoire,Defensive Midfield,DM,£2.25m,BSC Young Boys,Switzerland,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/gilles-yapi/profil/spieler/13105
+AS Nancy-Lorraine,Saliou Lassissi,27,Cote d'Ivoire,Centre-Back,CB,£1.35m,AC Bellinzona,Switzerland,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/saliou-lassissi/profil/spieler/4152
+AS Nancy-Lorraine,Olivier Rambo,31,France,Right Winger,RW,-,Sporting Toulon Var,France,Free transfer,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/olivier-rambo/profil/spieler/148599
+AS Nancy-Lorraine,Dagui Bakari,31,Cote d'Ivoire,Centre-Forward,CF,£1.17m,,Retired,-,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/dagui-bakari/profil/spieler/3905
+Le Mans Union Club 72,Jérémy Choplin,20,France,Centre-Back,CB,-,Aviron Bayonnais,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/jeremy-choplin/profil/spieler/34532
+ES Troyes AC,Gaël Danic,24,France,Left Winger,LW,-,FC Lorient,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/gael-danic/profil/spieler/5457
+ES Troyes AC,Nabil Berkak,21,Morocco,Right-Back,RB,-,Entente SSG,France,Loan,Out,2005,w,ligue-1,https://www.transfermarkt.co.uk/nabil-berkak/profil/spieler/33911

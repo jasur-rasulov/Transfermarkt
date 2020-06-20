@@ -1,8 +1,8 @@
 import os
 import requests
-from bs4 import BeautifulSoup
 from time import sleep
 
+from bs4 import BeautifulSoup
 import pandas as pd
 
 
@@ -18,7 +18,8 @@ def get_clubs_and_transfers(league_name, league_id, season_id, window):
         A list of the clubs in the league, and two lists of tables (list of lists) for each club's transfer activity. 
     """
     headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
-    url = "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window}".format(league_name=league_name, league_id=league_id, season_id=season_id, window=window)
+    base = "https://www.transfermarkt.co.uk"
+    url = base + "/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window}".format(league_name=league_name, league_id=league_id, season_id=season_id, window=window)
     try:
         print("Connecting...")
         response = requests.get(url, headers=headers)
@@ -38,16 +39,17 @@ def get_clubs_and_transfers(league_name, league_id, season_id, window):
     transfer_out_list = []
     column_headers = {'season': season_id, 'window': window, 'league': league_name}
     for table_in, table_out in zip(table_in_list, table_out_list):
-        transfer_in_list.append(get_transfer_info(table_in, movement='In', **column_headers))
-        transfer_out_list.append(get_transfer_info(table_out, movement='Out', **column_headers))
-    
+        transfer_in_list.append(get_transfer_info(base, table_in, movement='In', **column_headers))
+        transfer_out_list.append(get_transfer_info(base, table_out, movement='Out', **column_headers))
+
     return clubs, transfer_in_list, transfer_out_list
 
 
-def get_transfer_info(table, movement, season, window, league):
+def get_transfer_info(url_base, table, movement, season, window, league):
     """Helper function to parse an HTML table and extract all desired player information.
 
     Args:
+        url_base (str): Transfermark URL for profile link prepending.
         table (bs4.element.Tag): BeautifulSoup HTML table.
         movement (str): 'In' for arrival or 'Out' departure. 
         season (str): Season.
@@ -62,9 +64,11 @@ def get_transfer_info(table, movement, season, window, league):
     if header_row:
         header_row[0] = 'Name'
         header_row.insert(0, 'Club')
-        header_row[-2] = 'Club involved'
-        header_row.insert(-1, 'Country involved')
-        header_row += ['Movement', 'Season', 'Window', 'League']
+        header_row[3] = 'Nationality'
+        header_row[-3] = 'MarketValue'
+        header_row[-2] = 'ClubInvolved'
+        header_row.insert(-1, 'CountryInvolved')
+        header_row += ['Movement', 'Season', 'Window', 'League', 'Profile']
         transfer_info.append(header_row)
     for tr in trs[1:]:
         row = []
@@ -72,9 +76,10 @@ def get_transfer_info(table, movement, season, window, league):
         for td in tds:
             child = td.findChild()
             if child and child.get('class'):
-                # Player name
+                # Player name and profile link
                 if child.get('class')[0] == 'di':
-                    row.append(child.get_text(strip=True))
+                    player = child.find('a', href=True)
+                    row.append([player.get_text(strip=True), url_base + player.get('href')])
                 # Player nationality
                 elif child.get('class')[0] == 'flaggenrahmen':
                     row.append(child.get('alt'))
@@ -88,6 +93,8 @@ def get_transfer_info(table, movement, season, window, league):
             transfer_info.append([None] * (len(header_row) - 1))
         else:
             row += [movement, season, window, league]
+            row.append(row[0][1])
+            row[0] = row[0][0]
             transfer_info.append(row)
     
     return transfer_info

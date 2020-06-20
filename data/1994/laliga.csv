@@ -1,273 +1,283 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Atlético Madrid,Diego Simeone,24,Argentina,Central Midfield,CM,-,Sevilla FC,Spain,£2.25m,In,1994,s,laliga
-Atlético Madrid,Adolfo Valencia,26,Colombia,Centre-Forward,CF,-,Bayern Munich,Germany,£2.03m,In,1994,s,laliga
-Atlético Madrid,Santi Denia,20,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,Free transfer,In,1994,s,laliga
-Atlético Madrid,Delfí Geli,25,Spain,Right-Back,RB,-,Albacete Balompié,Spain,?,In,1994,s,laliga
-Atlético Madrid,Igor Dobrovolski,26,Russia,Attacking Midfield,AM,-,Dinamo Moscow,Russia,?,In,1994,s,laliga
-Atlético Madrid,Iván Rocha,25,Brazil,Left-Back,LB,-,Real Valladolid CF,Spain,?,In,1994,s,laliga
-Atlético Madrid,Patxi Ferreira,27,Spain,Centre-Back,CB,-,Sevilla FC,Spain,"End of loanJun 30, 1994",In,1994,s,laliga
-FC Barcelona,Gheorghe Hagi,29,Romania,Attacking Midfield,AM,-,Brescia Calcio,Italy,£3.60m,In,1994,s,laliga
-FC Barcelona,Xabier Eskurza,24,Spain,Central Midfield,CM,-,Athletic Bilbao,Spain,£3.60m,In,1994,s,laliga
-FC Barcelona,Abelardo,24,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,£2.70m,In,1994,s,laliga
-FC Barcelona,Xavier Escaich,25,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,£1.08m,In,1994,s,laliga
-FC Barcelona,Julen Lopetegui,27,Spain,Goalkeeper,GK,-,CD Logroñés,Spain,Free transfer,In,1994,s,laliga
-FC Barcelona,Igor Korneev,26,Russia,Right Winger,RW,-,RCD Espanyol Barcelona,Spain,Free transfer,In,1994,s,laliga
-FC Barcelona,Sánchez Jara,24,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,?,In,1994,s,laliga
-FC Barcelona,Srdjan Pecelj,19,Bosnia-Herzegovina,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga
-FC Barcelona,Jordi Cruyff,20,Netherlands,Attacking Midfield,AM,-,FC Barcelona B,Spain,-,In,1994,s,laliga
-FC Barcelona,Lluís Carreras,21,Spain,Left-Back,LB,-,Real Oviedo,Spain,"End of loanJun 30, 1994",In,1994,s,laliga
-Real Zaragoza,Pepe Belman,23,Spain,Goalkeeper,GK,-,Real Zaragoza B,Spain,-,In,1994,s,laliga
-Real Betis Balompié,Wojciech Kowalczyk,22,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,£1.13m,In,1994,s,laliga
-Real Betis Balompié,Vlada Stosic,29,Serbia,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,In,1994,s,laliga
-Real Betis Balompié,Risto Vidakovic,25,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga
-Real Betis Balompié,Josete,24,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,In,1994,s,laliga
-Real Betis Balompié,Juan Sabas,27,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1994,s,laliga
-Real Betis Balompié,Jaime Quesada,22,Spain,Right-Back,RB,-,Unió Esportiva Lleida,Spain,?,In,1994,s,laliga
-Real Betis Balompié,José Menéndez,30,Spain,Midfielder,Midfielder,-,Albacete Balompié,Spain,?,In,1994,s,laliga
-CD Logroñés,Javi Navarro,20,Spain,Centre-Back,CB,-,Valencia CF,Spain,Loan,In,1994,s,laliga
-CD Logroñés,Antonio Acosta,22,Spain,Midfielder,Midfielder,-,Unió Esportiva Lleida,Spain,?,In,1994,s,laliga
-CD Logroñés,Arturo,25,Spain,Defender,Defender,-,Sporting Gijón,Spain,?,In,1994,s,laliga
-CD Logroñés,Víctor Segura,21,Spain,Centre-Back,CB,-,Palamós CF,Spain,?,In,1994,s,laliga
-CD Logroñés,Felipe Herrero,24,Spain,Centre-Back,CB,-,Córdoba CF,Spain,?,In,1994,s,laliga
-CD Logroñés,Nebojsa Gudelj,24,Serbia,Left-Back,LB,-,FK Partizan Belgrade,Serbia,?,In,1994,s,laliga
-CD Logroñés,José Manuel Ochotorena,33,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,In,1994,s,laliga
-CD Logroñés,Atila Kasaš,25,Serbia,Forward,Forward,-,FK Becej,Serbia,?,In,1994,s,laliga
-CD Logroñés,Óscar Herreros,23,Spain,Right-Back,RB,-,CD Logroñés B,Spain,-,In,1994,s,laliga
-CD Logroñés,Roberto Matute,21,Spain,Centre-Forward,CF,-,CD Logroñés B,Spain,-,In,1994,s,laliga
-CD Logroñés,José Jubera,19,Spain,Centre-Back,CB,-,CD Logroñés B,Spain,-,In,1994,s,laliga
-Real Valladolid CF,José María Cidoncha,24,Spain,Defender,Defender,-,CD Badajoz,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Mami Quevedo,25,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Manuel Chumilla,25,Spain,Midfielder,Midfielder,-,Real Jaén CF,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Pablo Gómez,24,Spain,Central Midfield,CM,-,Rayo Vallecano,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Gustavo Matosas,27,Uruguay,Forward,Forward,-,Unió Esportiva Lleida,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Manuel Carou,25,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Miodrag Belodedici,30,Romania,Sweeper,SW,-,Valencia CF,Spain,?,In,1994,s,laliga
-Real Valladolid CF,José González,29,Spain,Goalkeeper,GK,-,Valencia CF,Spain,?,In,1994,s,laliga
-Real Valladolid CF,Juan Carlos Quero Porras,21,Spain,Forward,Forward,-,CP Mérida,Spain,?,In,1994,s,laliga
-Sevilla FC,Pedro,26,Spain,Left-Back,LB,-,Atlético Madrid,Spain,?,In,1994,s,laliga
-Sevilla FC,Juanito,29,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1994,s,laliga
-Sevilla FC,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1994,s,laliga
-Sevilla FC,Salva Ballesta,19,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,-,In,1994,s,laliga
-Sevilla FC,Luis Tevenet,20,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,-,In,1994,s,laliga
-Real Madrid,Michael Laudrup,30,Denmark,Attacking Midfield,AM,-,FC Barcelona,Spain,£8.64m,In,1994,s,laliga
-Real Madrid,Fernando Redondo,25,Argentina,Defensive Midfield,DM,-,CD Tenerife,Spain,£3.15m,In,1994,s,laliga
-Real Madrid,José Amavisca,23,Spain,Left Midfield,LM,-,Real Valladolid CF,Spain,£810Th.,In,1994,s,laliga
-Real Madrid,Quique Sánchez Flores,29,Spain,Right-Back,RB,-,Valencia CF,Spain,?,In,1994,s,laliga
-Real Madrid,Raúl,17,Spain,Second Striker,SS,-,Real Madrid C,Spain,-,In,1994,s,laliga
-Real Madrid,Dani García,19,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,-,In,1994,s,laliga
-Real Madrid,Jaime,21,Spain,Defensive Midfield,DM,-,Real Madrid C,Spain,-,In,1994,s,laliga
-Real Madrid,Santiago Cañizares,24,Spain,Goalkeeper,GK,-,Celta de Vigo,Spain,"End of loanJun 30, 1994",In,1994,s,laliga
-Athletic Bilbao,Bittor Alkiza,23,Spain,Left Midfield,LM,-,Real Sociedad,Spain,£1.17m,In,1994,s,laliga
-Athletic Bilbao,Jon Andoni Goikoetxea,28,Spain,Right Midfield,RM,-,FC Barcelona,Spain,?,In,1994,s,laliga
-Athletic Bilbao,Gontzal Suances,21,Spain,Forward,Forward,-,Bilbao Athletic,Spain,-,In,1994,s,laliga
-Athletic Bilbao,Felipe Guréndez,18,Spain,Right-Back,RB,-,Bilbao Athletic,Spain,-,In,1994,s,laliga
-Athletic Bilbao,Oskar Vales,19,Spain,Right-Back,RB,-,Bilbao Athletic,Spain,-,In,1994,s,laliga
-Athletic Bilbao,Francisco Javier Luke,26,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,"End of loanJun 30, 1994",In,1994,s,laliga
-Racing Santander,Thomas Christiansen,21,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,Loan,In,1994,s,laliga
-Racing Santander,Iñaki Bollain,19,Spain,Right-Back,RB,-,Gimnástica Torrelavega,Spain,?,In,1994,s,laliga
-Racing Santander,Alfredo Grelak,23,Argentina,Defender,Defender,-,Quilmes Atlético Club,Argentina,?,In,1994,s,laliga
-Racing Santander,Lluís Carreras,21,Spain,Left-Back,LB,-,FC Barcelona,Spain,Loan,In,1994,s,laliga
-CD Tenerife,José María Buljubasich,23,Argentina,Goalkeeper,GK,-,Club Atlético Rosario Central,Argentina,?,In,1994,s,laliga
-CD Tenerife,Marcelo Ojeda,25,Argentina,Goalkeeper,GK,-,Club Atlético Lanús,Argentina,?,In,1994,s,laliga
-CD Tenerife,Luis Miguel Ramis,23,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1994,s,laliga
-CD Tenerife,Juan Antonio Pizzi,26,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1994,s,laliga
-CD Tenerife,Víctor,20,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,?,In,1994,s,laliga
-Real Sociedad,Gheorghe Craioveanu,26,Romania,Centre-Forward,CF,-,Universitatea Craiova,Romania,£900Th.,In,1994,s,laliga
-Real Sociedad,Valeri Karpin,25,Russia,Right Midfield,RM,-,Spartak Moscow,Russia,?,In,1994,s,laliga
-Real Sociedad,Luis García,25,Mexico,Forward,Forward,-,Atlético Madrid,Spain,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Mauricio Pochettino,22,Argentina,Centre-Back,CB,-,Club Atlético Newell's Old Boys,Argentina,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Sebastián Herrera,25,Spain,Centre-Back,CB,-,Unió Esportiva Lleida,Spain,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Jaime Molina,25,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Pacheta,26,Spain,Midfielder,Midfielder,-,CP Mérida,Spain,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Florin Raducioiu,24,Romania,Centre-Forward,CF,-,Milan AC,Italy,?,In,1994,s,laliga
-RCD Espanyol Barcelona,Branko Brnovic,26,Montenegro,Defensive Midfield,DM,-,FK Partizan Belgrade,Serbia,?,In,1994,s,laliga
-RCD Espanyol Barcelona,José Mari,19,Spain,Midfielder,Midfielder,-,Espanyol Barcelona U19,Spain,-,In,1994,s,laliga
-Deportivo de La Coruña,Julio Salinas,32,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£2.16m,In,1994,s,laliga
-Deportivo de La Coruña,Villarroya,27,Spain,Left Midfield,LM,-,Real Madrid,Spain,?,In,1994,s,laliga
-Deportivo de La Coruña,Emil Kostadinov,26,Bulgaria,Centre-Forward,CF,-,FC Porto,Portugal,?,In,1994,s,laliga
-Celta de Vigo,Mariano Hoyas,23,Spain,Right-Back,RB,-,Deportivo de La Coruña,Spain,£162Th.,In,1994,s,laliga
-Celta de Vigo,Juan Sánchez,22,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1994,s,laliga
-Celta de Vigo,Hermes Desio,24,Argentina,Midfielder,Midfielder,-,Club Atlético Independiente,Argentina,?,In,1994,s,laliga
-Celta de Vigo,José Ángel Uribarrena,25,Spain,Forward,Forward,-,Athletic Bilbao,Spain,?,In,1994,s,laliga
-Celta de Vigo,José Manuel Tárraga,23,Spain,Defender,Defender,-,Valencia CF,Spain,?,In,1994,s,laliga
-Celta de Vigo,Mikel Antía,21,Spain,Centre-Back,CB,-,Real Madrid B,Spain,?,In,1994,s,laliga
-Celta de Vigo,Srdjan Bajcetic,22,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga
-Celta de Vigo,Míchel Salgado,18,Spain,Right-Back,RB,-,Club Celta Turista,Spain,-,In,1994,s,laliga
-Valencia CF,Andoni Zubizarreta,32,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,£1.89m,In,1994,s,laliga
-Valencia CF,Juan Carlos,-,Spain,Defender,Defender,-,FC Barcelona,Spain,£810Th.,In,1994,s,laliga
-Valencia CF,Romero,23,Spain,Left-Back,LB,-,CD Logroñés,Spain,Free transfer,In,1994,s,laliga
-Valencia CF,Oleg Salenko,24,Russia,Centre-Forward,CF,-,CD Logroñés,Spain,?,In,1994,s,laliga
-Valencia CF,Juan José Maqueda,25,Spain,Midfielder,Midfielder,-,Real Madrid B,Spain,?,In,1994,s,laliga
-Valencia CF,Mazinho,28,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,?,In,1994,s,laliga
-Valencia CF,Vicente Engonga,28,Spain,Central Midfield,CM,-,Celta de Vigo,Spain,?,In,1994,s,laliga
-Valencia CF,David Clotet,21,Spain,Centre-Back,CB,-,UDA Gramenet,Spain,?,In,1994,s,laliga
-Valencia CF,Antonio Poyatos,28,Spain,Midfielder,Midfielder,-,CD Logroñés,Spain,?,In,1994,s,laliga
-Valencia CF,Juan Carlos,29,Spain,Left-Back,LB,-,FC Barcelona,Spain,?,In,1994,s,laliga
-Valencia CF,Juan Sánchez,22,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,"End of loanJun 30, 1994",In,1994,s,laliga
-Albacete Balompié,José Francisco Molina,23,Spain,Goalkeeper,GK,-,Villarreal CF,Spain,Free transfer,In,1994,s,laliga
-Albacete Balompié,Óscar García,21,Spain,Attacking Midfield,AM,-,FC Barcelona,Spain,Loan,In,1994,s,laliga
-Albacete Balompié,Albert Tomàs,23,Spain,Centre-Back,CB,-,Unió Esportiva Lleida,Spain,?,In,1994,s,laliga
-Albacete Balompié,Óscar Dertycia,29,Argentina,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1994,s,laliga
-Albacete Balompié,Ivaylo Andonov,26,Bulgaria,Forward,Forward,-,CSKA Sofia,Bulgaria,?,In,1994,s,laliga
-Albacete Balompié,Alberto Monteagudo,19,Spain,Defensive Midfield,DM,-,Albacete Balompié U19,Spain,-,In,1994,s,laliga
-Albacete Balompié,Francisco Oliete,23,Spain,Defender,Defender,-,Celta de Vigo,Spain,"End of loanJun 1, 1994",In,1994,s,laliga
-Sporting Gijón,Igor Ledyakhov,26,Russia,Central Midfield,CM,-,Spartak Moscow,Russia,Free transfer,In,1994,s,laliga
-Sporting Gijón,Marcos Vales,19,Spain,Right Midfield,RM,-,Deportivo de La Coruña,Spain,?,In,1994,s,laliga
-Sporting Gijón,Pier,22,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1994,s,laliga
-Sporting Gijón,Fredi,20,Spain,Left Midfield,LM,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga
-Sporting Gijón,David Cano,19,Spain,Defensive Midfield,DM,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga
-Sporting Gijón,Ramón Fernández,21,Spain,Goalkeeper,GK,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga
-Sporting Gijón,Rogelio Lamar,21,Spain,Left-Back,LB,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga
-Real Oviedo,Robert Prosinecki,25,Croatia,Central Midfield,CM,-,Real Madrid,Spain,?,In,1994,s,laliga
-Real Oviedo,Iván Ania,16,Spain,Left Midfield,LM,-,Real Oviedo B,Spain,-,In,1994,s,laliga
-Real Oviedo,Manel,23,Spain,Right-Back,RB,-,Real Oviedo B,Spain,-,In,1994,s,laliga
-SD Compostela,Ángel Lekunberri,24,Spain,Midfielder,Midfielder,-,Athletic Bilbao,Spain,?,In,1994,s,laliga
-SD Compostela,Franck Passi,28,France,Defensive Midfield,DM,-,AS Monaco,France,?,In,1994,s,laliga
-SD Compostela,José Manuel Galdames,23,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,Loan,In,1994,s,laliga
-SD Compostela,Juan Carlos Paniagua Prieto,28,Spain,Forward,Forward,-,CD Toledo,Spain,?,In,1994,s,laliga
-SD Compostela,Paco Llorente,29,Spain,Right Winger,RW,-,Real Madrid,Spain,?,In,1994,s,laliga
-SD Compostela,Bent Christensen,27,Denmark,Centre-Forward,CF,-,FC Schalke 04,Germany,Loan,In,1994,s,laliga
-Atlético Madrid,Luis García,25,Mexico,Forward,Forward,-,Real Sociedad,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Pizo Gómez,30,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,Out,1994,s,laliga
-Atlético Madrid,Juanito,29,Spain,Centre-Back,CB,-,Sevilla FC,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Juan Sabas,27,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Mami Quevedo,25,Spain,Central Midfield,CM,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Juanma Alamillos,21,Spain,Defender,Defender,-,CD Toledo,Spain,?,Out,1994,s,laliga
-Atlético Madrid,Pedro,26,Spain,Left-Back,LB,-,Sevilla FC,Spain,?,Out,1994,s,laliga
-FC Barcelona,Michael Laudrup,30,Denmark,Attacking Midfield,AM,-,Real Madrid,Spain,£8.64m,Out,1994,s,laliga
-FC Barcelona,Julio Salinas,32,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,£2.16m,Out,1994,s,laliga
-FC Barcelona,Andoni Zubizarreta,32,Spain,Goalkeeper,GK,-,Valencia CF,Spain,£1.89m,Out,1994,s,laliga
-FC Barcelona,Juan Carlos,-,Spain,Defender,Defender,-,Valencia CF,Spain,£810Th.,Out,1994,s,laliga
-FC Barcelona,Goran Vucevic,23,Croatia,Central Midfield,CM,-,HNK Hajduk Split,Croatia,Loan,Out,1994,s,laliga
-FC Barcelona,Jon Andoni Goikoetxea,28,Spain,Right Midfield,RM,-,Athletic Bilbao,Spain,?,Out,1994,s,laliga
-FC Barcelona,Óscar García,21,Spain,Attacking Midfield,AM,-,Albacete Balompié,Spain,Loan,Out,1994,s,laliga
-FC Barcelona,Lluís Carreras,21,Spain,Left-Back,LB,-,Racing Santander,Spain,Loan,Out,1994,s,laliga
-FC Barcelona,Juan Carlos,29,Spain,Left-Back,LB,-,Valencia CF,Spain,?,Out,1994,s,laliga
-FC Barcelona,Srdjan Pecelj,19,Bosnia-Herzegovina,Centre-Back,CB,-,FC Barcelona B,Spain,-,Out,1994,s,laliga
-Real Zaragoza,Seba,20,Spain,Second Striker,SS,-,Villarreal CF,Spain,?,Out,1994,s,laliga
-Real Zaragoza,Mario García,26,Spain,Goalkeeper,GK,-,CD Tudelano,Spain,?,Out,1994,s,laliga
-Real Zaragoza,Esteban,33,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga
-Real Zaragoza,Julia,31,Spain,Midfielder,Midfielder,-,,Retired,-,Out,1994,s,laliga
-Real Betis Balompié,Trifon Ivanov,28,Bulgaria,Sweeper,SW,-,Neuchâtel Xamax,Switzerland,?,Out,1994,s,laliga
-Real Betis Balompié,Luis Merino,25,Spain,Midfielder,Midfielder,-,CA Marbella,Spain,?,Out,1994,s,laliga
-Real Betis Balompié,Juanlu,21,Spain,Defender,Defender,-,CF Extremadura,Spain,?,Out,1994,s,laliga
-Real Betis Balompié,Javier Diaz Pons,26,Spain,Midfielder,Midfielder,-,Palamós CF,Spain,?,Out,1994,s,laliga
-Real Betis Balompié,Juan Ramón Comas,31,Argentina,Forward,Forward,-,,Retired,-,Out,1994,s,laliga
-Real Betis Balompié,Johnny Ekström,29,Sweden,Centre-Forward,CF,-,AC Reggiana,Italy,"End of loanJun 30, 1994",Out,1994,s,laliga
-CD Logroñés,Romero,23,Spain,Left-Back,LB,-,Valencia CF,Spain,Free transfer,Out,1994,s,laliga
-CD Logroñés,Julen Lopetegui,27,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,Free transfer,Out,1994,s,laliga
-CD Logroñés,Grzegorz Lewandowski,24,Poland,Defensive Midfield,DM,-,Legia Warszawa,Poland,?,Out,1994,s,laliga
-CD Logroñés,Paco Fernández,26,Spain,Central Midfield,CM,-,CD Badajoz,Spain,?,Out,1994,s,laliga
-CD Logroñés,Oleg Salenko,24,Russia,Centre-Forward,CF,-,Valencia CF,Spain,?,Out,1994,s,laliga
-CD Logroñés,Antonio Poyatos,28,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,?,Out,1994,s,laliga
-Real Valladolid CF,José Amavisca,23,Spain,Left Midfield,LM,-,Real Madrid,Spain,£810Th.,Out,1994,s,laliga
-Real Valladolid CF,Manolo Alfaro,23,Spain,Centre-Forward,CF,-,Hércules CF,Spain,Free transfer,Out,1994,s,laliga
-Real Valladolid CF,Gabi Correa,26,Uruguay,Central Midfield,CM,-,CP Mérida,Spain,?,Out,1994,s,laliga
-Real Valladolid CF,Iván Rocha,25,Brazil,Left-Back,LB,-,Atlético Madrid,Spain,?,Out,1994,s,laliga
-Real Valladolid CF,Ilija Najdoski,30,North Macedonia,Centre-Back,CB,-,Denizlispor,Turkey,?,Out,1994,s,laliga
-Real Valladolid CF,Ángel Lozano,34,Spain,Goalkeeper,GK,-,CD Badajoz,Spain,?,Out,1994,s,laliga
-Real Valladolid CF,Txelis,31,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga
-Real Valladolid CF,Marlon Brandão,30,Brazil,Forward,Forward,-,,Retired,-,Out,1994,s,laliga
-Real Valladolid CF,Walter Lozano,28,Argentina,Defender,Defender,-,,Retired,-,Out,1994,s,laliga
-Sevilla FC,Diego Simeone,24,Argentina,Central Midfield,CM,-,Atlético Madrid,Spain,£2.25m,Out,1994,s,laliga
-Sevilla FC,José Padilla,24,Spain,Left-Back,LB,-,CF Extremadura,Spain,?,Out,1994,s,laliga
-Sevilla FC,Patxi Ferreira,27,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga
-Real Madrid,Robert Prosinecki,25,Croatia,Central Midfield,CM,-,Real Oviedo,Spain,?,Out,1994,s,laliga
-Real Madrid,Villarroya,27,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,?,Out,1994,s,laliga
-Real Madrid,Luis Miguel Ramis,23,Spain,Centre-Back,CB,-,CD Tenerife,Spain,?,Out,1994,s,laliga
-Real Madrid,Paco Llorente,29,Spain,Right Winger,RW,-,SD Compostela,Spain,?,Out,1994,s,laliga
-Athletic Bilbao,Xabier Eskurza,24,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£3.60m,Out,1994,s,laliga
-Athletic Bilbao,Ángel Lekunberri,24,Spain,Midfielder,Midfielder,-,SD Compostela,Spain,?,Out,1994,s,laliga
-Athletic Bilbao,José Manuel Galdames,23,Spain,Centre-Back,CB,-,SD Compostela,Spain,Loan,Out,1994,s,laliga
-Athletic Bilbao,José Ángel Uribarrena,25,Spain,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1994,s,laliga
-Athletic Bilbao,Carlos García,23,Spain,Defensive Midfield,DM,-,CA Osasuna,Spain,Loan,Out,1994,s,laliga
-Athletic Bilbao,Asier,27,Spain,Defender,Defender,-,CA Osasuna,Spain,?,Out,1994,s,laliga
-Racing Santander,Michel Pineda,30,France,Centre-Forward,CF,-,Unió Esportiva Lleida,Spain,?,Out,1994,s,laliga
-Racing Santander,Óscar Engonga,25,Equatorial Guinea,Midfielder,Midfielder,-,UE Figueres,Spain,?,Out,1994,s,laliga
-Racing Santander,Gelucho,32,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga
-CD Tenerife,Fernando Redondo,25,Argentina,Defensive Midfield,DM,-,Real Madrid,Spain,£3.15m,Out,1994,s,laliga
-CD Tenerife,Pier,22,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,?,Out,1994,s,laliga
-CD Tenerife,Manolo,33,Spain,Goalkeeper,GK,-,UD Las Palmas,Spain,?,Out,1994,s,laliga
-CD Tenerife,Óscar Dertycia,29,Argentina,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1994,s,laliga
-CD Tenerife,Percy Olivares,26,Peru,Left-Back,LB,-,Club Atlético Rosario Central,Argentina,?,Out,1994,s,laliga
-CD Tenerife,José Manuel Ochotorena,33,Spain,Goalkeeper,GK,-,CD Logroñés,Spain,?,Out,1994,s,laliga
-CD Tenerife,Agustín,34,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga
-Real Sociedad,Bittor Alkiza,23,Spain,Left Midfield,LM,-,Athletic Bilbao,Spain,£1.17m,Out,1994,s,laliga
-Real Sociedad,Carlos Xavier,32,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,1994,s,laliga
-Real Sociedad,Oceano Cruz,31,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,1994,s,laliga
-Real Sociedad,Jon Andoni Larrañaga,35,Spain,Sweeper,SW,-,,Retired,-,Out,1994,s,laliga
-RCD Espanyol Barcelona,Igor Korneev,26,Russia,Right Winger,RW,-,FC Barcelona,Spain,Free transfer,Out,1994,s,laliga
-RCD Espanyol Barcelona,Mino,31,Spain,Defender,Defender,-,RCD Mallorca,Spain,?,Out,1994,s,laliga
-RCD Espanyol Barcelona,Juan José Elgezabal,30,Spain,Central Midfield,CM,-,Gernika Club,Spain,?,Out,1994,s,laliga
-RCD Espanyol Barcelona,Dmitri Galyamin,31,Russia,Right-Back,RB,-,CP Mérida,Spain,?,Out,1994,s,laliga
-RCD Espanyol Barcelona,Ángel Luis,24,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,Out,1994,s,laliga
-Deportivo de La Coruña,Mariano Hoyas,23,Spain,Right-Back,RB,-,Celta de Vigo,Spain,£162Th.,Out,1994,s,laliga
-Deportivo de La Coruña,Marcos Vales,19,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,?,Out,1994,s,laliga
-Celta de Vigo,Vicente Engonga,28,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1994,s,laliga
-Celta de Vigo,Joseba Aguirre,30,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1994,s,laliga
-Celta de Vigo,Paco Salillas,28,Spain,Centre-Forward,CF,-,Unió Esportiva Lleida,Spain,?,Out,1994,s,laliga
-Celta de Vigo,Stjepan Andrijasevic,27,Croatia,Right Midfield,RM,-,HNK Hajduk Split,Croatia,?,Out,1994,s,laliga
-Celta de Vigo,Atilano,35,Spain,Right-Back,RB,-,,Retired,-,Out,1994,s,laliga
-Celta de Vigo,Jorge Del Río Pombal,20,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga
-Celta de Vigo,Diego Duffort Falco,23,Spain,Forward,Forward,-,,Retired,-,Out,1994,s,laliga
-Celta de Vigo,Santiago Cañizares,24,Spain,Goalkeeper,GK,-,Real Madrid,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga
-Celta de Vigo,Francisco Oliete,23,Spain,Defender,Defender,-,Albacete Balompié,Spain,"End of loanJun 1, 1994",Out,1994,s,laliga
-Valencia CF,Javi Navarro,20,Spain,Centre-Back,CB,-,CD Logroñés,Spain,Loan,Out,1994,s,laliga
-Valencia CF,Víctor Aristizábal,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,Free transfer,Out,1994,s,laliga
-Valencia CF,Juan Sánchez,22,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,?,Out,1994,s,laliga
-Valencia CF,Juan Antonio Pizzi,26,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,Out,1994,s,laliga
-Valencia CF,Quique Sánchez Flores,29,Spain,Right-Back,RB,-,Real Madrid,Spain,?,Out,1994,s,laliga
-Valencia CF,Miodrag Belodedici,30,Romania,Sweeper,SW,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga
-Valencia CF,José González,29,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga
-Valencia CF,Antonio Notario,21,Spain,Goalkeeper,GK,-,Real Murcia CF,Spain,?,Out,1994,s,laliga
-Valencia CF,José Manuel Tárraga,23,Spain,Defender,Defender,-,Celta de Vigo,Spain,?,Out,1994,s,laliga
-Albacete Balompié,Santi Denia,20,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,Free transfer,Out,1994,s,laliga
-Albacete Balompié,José González,27,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,Out,1994,s,laliga
-Albacete Balompié,Vladan Dimitrijevic,21,Serbia,Defender,Defender,-,CP Mérida,Spain,?,Out,1994,s,laliga
-Albacete Balompié,Gabelo Conejo,34,Costa Rica,Goalkeeper,GK,-,,Unknown,?,Out,1994,s,laliga
-Albacete Balompié,Delfí Geli,25,Spain,Right-Back,RB,-,Atlético Madrid,Spain,?,Out,1994,s,laliga
-Albacete Balompié,José Menéndez,30,Spain,Midfielder,Midfielder,-,Real Betis Balompié,Spain,?,Out,1994,s,laliga
-Albacete Balompié,Raul Ricardo dos Santos,27,Uruguay,Forward,Forward,-,Villarreal CF,Spain,?,Out,1994,s,laliga
-Albacete Balompié,Ramón,30,Spain,Centre-Forward,CF,-,,Retired,-,Out,1994,s,laliga
-Sporting Gijón,Abelardo,24,Spain,Centre-Back,CB,-,FC Barcelona,Spain,£2.70m,Out,1994,s,laliga
-Sporting Gijón,Xavier Escaich,25,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£1.08m,Out,1994,s,laliga
-Sporting Gijón,Jose Maria Cela,24,Spain,Forward,Forward,-,FC Barcelona B,Spain,?,Out,1994,s,laliga
-Sporting Gijón,Mario Stanic,22,Croatia,Right Winger,RW,-,SL Benfica,Portugal,?,Out,1994,s,laliga
-Sporting Gijón,Arturo,25,Spain,Defender,Defender,-,CD Logroñés,Spain,?,Out,1994,s,laliga
-Real Oviedo,Lluís Elcacho,30,Spain,Left-Back,LB,-,Unió Esportiva Lleida,Spain,Free transfer,Out,1994,s,laliga
-Real Oviedo,Félix Sarriugarte,29,Spain,Forward,Forward,-,UD Las Palmas,Spain,?,Out,1994,s,laliga
-Real Oviedo,Viti,34,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga
-Real Oviedo,Lluís Carreras,21,Spain,Left-Back,LB,-,FC Barcelona,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga
-FC Barcelona,José Mari,23,Spain,Attacking Midfield,AM,-,CA Osasuna,Spain,?,In,1994,w,laliga
-FC Barcelona,Roger García,18,Spain,Left Midfield,LM,-,FC Barcelona B,Spain,-,In,1994,w,laliga
-Real Zaragoza,Cafú,24,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,£1.35m,In,1994,w,laliga
-CD Logroñés,Javier Delgado,22,Spain,Midfielder,Midfielder,-,FC Barcelona B,Spain,?,In,1994,w,laliga
-Real Valladolid CF,Pedro Riesco,25,Spain,Forward,Forward,-,Deportivo de La Coruña,Spain,Loan,In,1994,w,laliga
-Real Valladolid CF,Jan Urban,32,Poland,Attacking Midfield,AM,-,CA Osasuna,Spain,?,In,1994,w,laliga
-Real Valladolid CF,Amado Guevara,18,Honduras,Attacking Midfield,AM,-,CD Motagua Tegucigalpa,Honduras,?,In,1994,w,laliga
-Sevilla FC,Ilie Dumitrescu,25,Romania,Left Winger,LW,-,Tottenham Hotspur,England,Loan,In,1994,w,laliga
-Sevilla FC,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1994,w,laliga
-Real Madrid,Raúl,17,Spain,Second Striker,SS,-,Real Madrid C,Spain,-,In,1994,w,laliga
-Real Sociedad,Joseba Etxeberria,17,Spain,Right Winger,RW,-,Real Sociedad B,Spain,-,In,1994,w,laliga
-RCD Espanyol Barcelona,Luis Cembranos,22,Spain,Attacking Midfield,AM,-,FC Barcelona B,Spain,?,In,1994,w,laliga
-Celta de Vigo,Srdjan Bajcetic,22,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1994,w,laliga
-Albacete Balompié,Gregorio Fonseca,29,Spain,Forward,Forward,-,RCD Espanyol Barcelona,Spain,?,In,1994,w,laliga
-Albacete Balompié,Manolo Salvador,31,Spain,Central Midfield,CM,-,Marbella FC,Spain,?,In,1994,w,laliga
-Sporting Gijón,Hugo Pérez,26,Argentina,Right Midfield,RM,-,Club Atlético Independiente,Argentina,?,In,1994,w,laliga
-Atlético Madrid,Serge-Alain Maguy,24,Cote d'Ivoire,Midfielder,Midfielder,-,ASEC Mimosas,Cote d'Ivoire,?,Out,1994,w,laliga
-Atlético Madrid,José Soler,27,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,Loan,Out,1994,w,laliga
-Atlético Madrid,Miguel Ángel Benítez,24,Paraguay,Centre-Forward,CF,-,CP Mérida,Spain,?,Out,1994,w,laliga
-FC Barcelona,Romário,28,Brazil,Centre-Forward,CF,-,Clube de Regatas do Flamengo,Brazil,?,Out,1994,w,laliga
-Real Betis Balompié,Tab Ramos,28,United States,Central Midfield,CM,-,MLS Pool,United States,?,Out,1994,w,laliga
-Real Betis Balompié,Antonio Monreal,25,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,Out,1994,w,laliga
-Real Valladolid CF,Gustavo Matosas,27,Uruguay,Forward,Forward,-,Atlético Paranaense,Brazil,?,Out,1994,w,laliga
-Real Valladolid CF,Juan Carlos Quero Porras,22,Spain,Forward,Forward,-,Córdoba CF,Spain,?,Out,1994,w,laliga
-Racing Santander,Alfredo Grelak,24,Argentina,Defender,Defender,-,Gimnàstic de Tarragona,Spain,Loan,Out,1994,w,laliga
-RCD Espanyol Barcelona,Dmitri Kuznetsov,29,Russia,Right Midfield,RM,-,Unió Esportiva Lleida,Spain,Loan,Out,1994,w,laliga
-RCD Espanyol Barcelona,Gregorio Fonseca,29,Spain,Forward,Forward,-,Albacete Balompié,Spain,?,Out,1994,w,laliga
-Deportivo de La Coruña,Emil Kostadinov,27,Bulgaria,Centre-Forward,CF,-,Bayern Munich,Germany,Loan fee:£225Th.,Out,1994,w,laliga
-Deportivo de La Coruña,Pedro Riesco,25,Spain,Forward,Forward,-,Real Valladolid CF,Spain,Loan,Out,1994,w,laliga
-Albacete Balompié,Alberto Monteagudo,20,Spain,Defensive Midfield,DM,-,UD Fuerteventura,Spain,Loan,Out,1994,w,laliga
-Albacete Balompié,Raul Ricardo dos Santos,27,Uruguay,Forward,Forward,-,Villarreal CF,Spain,?,Out,1994,w,laliga
-SD Compostela,Óscar,28,Germany,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1994,w,laliga
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Atlético Madrid,Diego Simeone,24,Argentina,Central Midfield,CM,-,Sevilla FC,Spain,£2.25m,In,1994,s,laliga,https://www.transfermarkt.co.uk/diego-simeone/profil/spieler/5841
+Atlético Madrid,Adolfo Valencia,26,Colombia,Centre-Forward,CF,-,Bayern Munich,Germany,£2.03m,In,1994,s,laliga,https://www.transfermarkt.co.uk/adolfo-valencia/profil/spieler/84610
+Atlético Madrid,Santi Denia,20,Spain,Centre-Back,CB,-,Albacete Balompié,Spain,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/santi-denia/profil/spieler/10010
+Atlético Madrid,Delfí Geli,25,Spain,Right-Back,RB,-,Albacete Balompié,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/delfi-geli/profil/spieler/172357
+Atlético Madrid,Igor Dobrovolski,26,Russia,Attacking Midfield,AM,-,Dynamo Moscow,Russia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/igor-dobrovolski/profil/spieler/69814
+Atlético Madrid,Iván Rocha,25,Brazil,Left-Back,LB,-,Real Valladolid CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+Atlético Madrid,Patxi Ferreira,27,Spain,Centre-Back,CB,-,Sevilla FC,Spain,"End of loanJun 30, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+FC Barcelona,Gheorghe Hagi,29,Romania,Attacking Midfield,AM,-,Brescia Calcio,Italy,£3.60m,In,1994,s,laliga,https://www.transfermarkt.co.uk/gheorghe-hagi/profil/spieler/7939
+FC Barcelona,Xabier Eskurza,24,Spain,Central Midfield,CM,-,Athletic Bilbao,Spain,£3.60m,In,1994,s,laliga,https://www.transfermarkt.co.uk/xabier-eskurza/profil/spieler/154584
+FC Barcelona,Abelardo,24,Spain,Centre-Back,CB,-,Sporting Gijón,Spain,£2.70m,In,1994,s,laliga,https://www.transfermarkt.co.uk/abelardo/profil/spieler/8036
+FC Barcelona,Xavier Escaich,25,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,£1.08m,In,1994,s,laliga,https://www.transfermarkt.co.uk/xavier-escaich/profil/spieler/8123
+FC Barcelona,Julen Lopetegui,27,Spain,Goalkeeper,GK,-,CD Logroñés (liq.),Spain,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/julen-lopetegui/profil/spieler/101570
+FC Barcelona,Igor Korneev,26,Russia,Right Winger,RW,-,RCD Espanyol Barcelona,Spain,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/igor-korneev/profil/spieler/8011
+FC Barcelona,Srdjan Pecelj,19,Bosnia-Herzegovina,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/srdjan-pecelj/profil/spieler/27993
+FC Barcelona,Sánchez Jara,24,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/sanchez-jara/profil/spieler/175960
+FC Barcelona,Jordi Cruyff,20,Netherlands,Attacking Midfield,AM,-,FC Barcelona B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/jordi-cruyff/profil/spieler/7436
+FC Barcelona,Lluís Carreras,21,Spain,Left-Back,LB,-,Real Oviedo,Spain,"End of loanJun 30, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/lluis-carreras/profil/spieler/16593
+Real Zaragoza,Pepe Belman,23,Spain,Goalkeeper,GK,-,Real Zaragoza B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/pepe-belman/profil/spieler/14229
+Real Betis Balompié,Wojciech Kowalczyk,22,Poland,Centre-Forward,CF,-,Legia Warszawa,Poland,£1.13m,In,1994,s,laliga,https://www.transfermarkt.co.uk/wojciech-kowalczyk/profil/spieler/20812
+Real Betis Balompié,Vlada Stosic,29,Serbia,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/vlada-stosic/profil/spieler/179915
+Real Betis Balompié,Risto Vidakovic,25,Serbia,Centre-Back,CB,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/risto-vidakovic/profil/spieler/167530
+Real Betis Balompié,Josete,24,Spain,Defender,Defender,-,Rayo Vallecano,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/josete/profil/spieler/187812
+Real Betis Balompié,Juan Sabas,27,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-sabas/profil/spieler/253212
+Real Betis Balompié,Jaime Quesada,22,Spain,Right-Back,RB,-,UE Lleida (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jaime-quesada/profil/spieler/184347
+Real Betis Balompié,José Menéndez,30,Spain,Midfielder,Midfielder,-,Albacete Balompié,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-menendez/profil/spieler/304045
+CD Logroñés (liq.),Javi Navarro,20,Spain,Centre-Back,CB,-,Valencia CF,Spain,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/javi-navarro/profil/spieler/7696
+CD Logroñés (liq.),Antonio Acosta,22,Spain,Midfielder,Midfielder,-,UE Lleida (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/antonio-acosta/profil/spieler/145580
+CD Logroñés (liq.),Arturo,25,Spain,Defender,Defender,-,Sporting Gijón,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/arturo/profil/spieler/314704
+CD Logroñés (liq.),Víctor Segura,21,Spain,Centre-Back,CB,-,Palamós CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/victor-segura/profil/spieler/303475
+CD Logroñés (liq.),Felipe Herrero,24,Spain,Centre-Back,CB,-,Córdoba CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/felipe-herrero/profil/spieler/303462
+CD Logroñés (liq.),Nebojsa Gudelj,24,Serbia,Left-Back,LB,-,FK Partizan Belgrade,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/nebojsa-gudelj/profil/spieler/4443
+CD Logroñés (liq.),José Manuel Ochotorena,33,Spain,Goalkeeper,GK,-,CD Tenerife,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-ochotorena/profil/spieler/255175
+CD Logroñés (liq.),Atila Kasaš,25,Serbia,Forward,Forward,-,FK Becej,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/atila-kasa-scaron-/profil/spieler/506028
+CD Logroñés (liq.),Óscar Herreros,23,Spain,Right-Back,RB,-,CD Logroñés B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-herreros/profil/spieler/354370
+CD Logroñés (liq.),Roberto Matute,21,Spain,Centre-Forward,CF,-,CD Logroñés B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/roberto-matute/profil/spieler/303464
+CD Logroñés (liq.),José Jubera,19,Spain,Centre-Back,CB,-,CD Logroñés B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-jubera/profil/spieler/253557
+Real Valladolid CF,José María Cidoncha,24,Spain,Defender,Defender,-,CD Badajoz,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-maria-cidoncha/profil/spieler/70949
+Real Valladolid CF,Mami Quevedo,25,Spain,Central Midfield,CM,-,Atlético Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/mami-quevedo/profil/spieler/172351
+Real Valladolid CF,Manuel Chumilla,25,Spain,Midfielder,Midfielder,-,Real Jaén CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/manuel-chumilla/profil/spieler/253651
+Real Valladolid CF,Pablo Gómez,24,Spain,Central Midfield,CM,-,Rayo Vallecano,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/pablo-gomez/profil/spieler/172358
+Real Valladolid CF,Gustavo Matosas,27,Uruguay,Forward,Forward,-,UE Lleida (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/gustavo-matosas/profil/spieler/273265
+Real Valladolid CF,Manuel Carou,25,Spain,Goalkeeper,GK,-,Rayo Vallecano,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/manuel-carou/profil/spieler/356441
+Real Valladolid CF,Nilson,28,Brazil,Attacking Midfield,AM,-,Albacete Balompié,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/nilson/profil/spieler/283199
+Real Valladolid CF,Miodrag Belodedici,30,Romania,Sweeper,SW,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/miodrag-belodedici/profil/spieler/102018
+Real Valladolid CF,José González,29,Spain,Goalkeeper,GK,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-gonzalez/profil/spieler/200746
+Real Valladolid CF,Juan Carlos Quero Porras,21,Spain,Forward,Forward,-,CP Mérida,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-quero-porras/profil/spieler/506027
+Real Valladolid CF,Santi Cuesta,22,Spain,Left-Back,LB,-,RCD Espanyol Barcelona,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/santi-cuesta/profil/spieler/277442
+Real Valladolid CF,Pedro Fernando Arquero,20,Spain,Forward,Forward,-,Real Valladolid B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/pedro-fernando-arquero/profil/spieler/648325
+Sevilla FC,Pedro,26,Spain,Left-Back,LB,-,Atlético Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/pedro/profil/spieler/254096
+Sevilla FC,Juanito,29,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juanito/profil/spieler/253986
+Sevilla FC,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/moacir/profil/spieler/303470
+Sevilla FC,Salva Ballesta,19,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/salva-ballesta/profil/spieler/3693
+Sevilla FC,Luis Tevenet,20,Spain,Centre-Forward,CF,-,Sevilla FC B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/luis-tevenet/profil/spieler/22567
+Real Madrid,Michael Laudrup,30,Denmark,Attacking Midfield,AM,-,FC Barcelona,Spain,£8.64m,In,1994,s,laliga,https://www.transfermarkt.co.uk/michael-laudrup/profil/spieler/8023
+Real Madrid,Fernando Redondo,25,Argentina,Defensive Midfield,DM,-,CD Tenerife,Spain,£3.15m,In,1994,s,laliga,https://www.transfermarkt.co.uk/fernando-redondo/profil/spieler/5811
+Real Madrid,José Amavisca,23,Spain,Left Midfield,LM,-,Real Valladolid CF,Spain,£810Th.,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+Real Madrid,Santiago Cañizares,24,Spain,Goalkeeper,GK,-,Celta de Vigo,Spain,"End of loanJun 30, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/santiago-canizares/profil/spieler/7562
+Real Madrid,Quique Sánchez Flores,29,Spain,Right-Back,RB,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/quique-sanchez-flores/profil/spieler/173942
+Real Madrid,Dani García,19,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/dani-garcia/profil/spieler/7608
+Real Madrid,Raúl,17,Spain,Second Striker,SS,-,Real Madrid C,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/raul/profil/spieler/7349
+Real Madrid,Jaime,21,Spain,Defensive Midfield,DM,-,Real Madrid C,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/jaime/profil/spieler/2758
+Real Madrid,Pedro Contreras,22,Spain,Goalkeeper,GK,-,Real Madrid B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/pedro-contreras/profil/spieler/7771
+Athletic Bilbao,Bittor Alkiza,23,Spain,Left Midfield,LM,-,Real Sociedad,Spain,£1.17m,In,1994,s,laliga,https://www.transfermarkt.co.uk/bittor-alkiza/profil/spieler/7627
+Athletic Bilbao,Jon Andoni Goikoetxea,28,Spain,Right Midfield,RM,-,FC Barcelona,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jon-andoni-goikoetxea/profil/spieler/150650
+Athletic Bilbao,Gontzal Suances,21,Spain,Forward,Forward,-,Bilbao Athletic,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/gontzal-suances/profil/spieler/154649
+Athletic Bilbao,Felipe Guréndez,18,Spain,Right-Back,RB,-,Bilbao Athletic,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/felipe-gurendez/profil/spieler/7618
+Athletic Bilbao,Oskar Vales,19,Spain,Right-Back,RB,-,Bilbao Athletic,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/oskar-vales/profil/spieler/7625
+Athletic Bilbao,Francisco Javier Luke,26,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,"End of loanJun 30, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/francisco-javier-luke/profil/spieler/154618
+Racing Santander,Thomas Christiansen,21,Spain,Centre-Forward,CF,-,FC Barcelona B,Spain,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/thomas-christiansen/profil/spieler/722
+Racing Santander,Iñaki Bollain,19,Spain,Right-Back,RB,-,Gimnástica Torrelavega,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/inaki-bollain/profil/spieler/96051
+Racing Santander,Alfredo Grelak,23,Argentina,Defender,Defender,-,Quilmes Atlético Club,Argentina,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/alfredo-grelak/profil/spieler/174106
+Racing Santander,Lluís Carreras,21,Spain,Left-Back,LB,-,FC Barcelona,Spain,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/lluis-carreras/profil/spieler/16593
+CD Tenerife,José María Buljubasich,23,Argentina,Goalkeeper,GK,-,Club Atlético Rosario Central,Argentina,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-maria-buljubasich/profil/spieler/67204
+CD Tenerife,Marcelo Ojeda,25,Argentina,Goalkeeper,GK,-,Club Atlético Lanús,Argentina,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/marcelo-ojeda/profil/spieler/305390
+CD Tenerife,Luis Miguel Ramis,23,Spain,Centre-Back,CB,-,Real Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/luis-miguel-ramis/profil/spieler/154986
+CD Tenerife,Juan Antonio Pizzi,26,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-antonio-pizzi/profil/spieler/8015
+CD Tenerife,Víctor,20,Spain,Centre-Forward,CF,-,Real Madrid B,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/victor/profil/spieler/7846
+Real Sociedad,Gheorghe Craioveanu,26,Romania,Centre-Forward,CF,-,Universitatea Craiova,Romania,£900Th.,In,1994,s,laliga,https://www.transfermarkt.co.uk/gheorghe-craioveanu/profil/spieler/23019
+Real Sociedad,Valeri Karpin,25,Russia,Right Midfield,RM,-,Spartak Moscow,Russia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/valeri-karpin/profil/spieler/7472
+Real Sociedad,Luis García,25,Mexico,Forward,Forward,-,Atlético Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/80024
+RCD Espanyol Barcelona,Mauricio Pochettino,22,Argentina,Centre-Back,CB,-,Club Atlético Newell's Old Boys,Argentina,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/mauricio-pochettino/profil/spieler/4767
+RCD Espanyol Barcelona,Sebastián Herrera,25,Spain,Centre-Back,CB,-,UE Lleida (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/sebastian-herrera/profil/spieler/259497
+RCD Espanyol Barcelona,Jaime Molina,25,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jaime-molina/profil/spieler/22572
+RCD Espanyol Barcelona,Pacheta,26,Spain,Midfielder,Midfielder,-,CP Mérida,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/pacheta/profil/spieler/187845
+RCD Espanyol Barcelona,Florin Raducioiu,24,Romania,Centre-Forward,CF,-,Milan AC,Italy,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/florin-raducioiu/profil/spieler/16167
+RCD Espanyol Barcelona,Branko Brnovic,26,Montenegro,Defensive Midfield,DM,-,FK Partizan Belgrade,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/branko-brnovic/profil/spieler/102964
+RCD Espanyol Barcelona,José Mari,19,Spain,Midfielder,Midfielder,-,Espanyol Barcelona U19,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/73056
+Deportivo de La Coruña,Julio Salinas,32,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£2.16m,In,1994,s,laliga,https://www.transfermarkt.co.uk/julio-salinas/profil/spieler/8141
+Deportivo de La Coruña,Villarroya,27,Spain,Left Midfield,LM,-,Real Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/villarroya/profil/spieler/180078
+Deportivo de La Coruña,Emil Kostadinov,26,Bulgaria,Centre-Forward,CF,-,FC Porto,Portugal,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/emil-kostadinov/profil/spieler/17167
+Celta de Vigo,Mariano Hoyas,23,Spain,Right-Back,RB,-,Deportivo de La Coruña,Spain,£162Th.,In,1994,s,laliga,https://www.transfermarkt.co.uk/mariano-hoyas/profil/spieler/253468
+Celta de Vigo,Juan Sánchez,22,Spain,Centre-Forward,CF,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-sanchez/profil/spieler/7585
+Celta de Vigo,Hermes Desio,24,Argentina,Midfielder,Midfielder,-,Club Atlético Independiente,Argentina,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/hermes-desio/profil/spieler/172356
+Celta de Vigo,José Manuel Tárraga,23,Spain,Defender,Defender,-,Valencia CF,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-tarraga/profil/spieler/258870
+Celta de Vigo,José Ángel Uribarrena,25,Spain,Forward,Forward,-,Athletic Bilbao,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-angel-uribarrena/profil/spieler/154655
+Celta de Vigo,Angel Merino,27,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/angel-merino/profil/spieler/253953
+Celta de Vigo,Srdjan Bajcetic,22,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/srdjan-bajcetic/profil/spieler/213087
+Celta de Vigo,Mikel Antía,21,Spain,Centre-Back,CB,-,Real Madrid B,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/mikel-antia/profil/spieler/187820
+Celta de Vigo,Míchel Salgado,18,Spain,Right-Back,RB,-,Club Celta Turista,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/michel-salgado/profil/spieler/7515
+Valencia CF,Andoni Zubizarreta,32,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,£1.89m,In,1994,s,laliga,https://www.transfermarkt.co.uk/andoni-zubizarreta/profil/spieler/8117
+Valencia CF,Juan Carlos,-,Spain,Defender,Defender,-,FC Barcelona,Spain,£810Th.,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/8118
+Valencia CF,Romero,23,Spain,Left-Back,LB,-,CD Logroñés (liq.),Spain,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/romero/profil/spieler/7494
+Valencia CF,Antonio Poyatos,28,Spain,Midfielder,Midfielder,-,CD Logroñés (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/antonio-poyatos/profil/spieler/173466
+Valencia CF,Juan Carlos,29,Spain,Left-Back,LB,-,FC Barcelona,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/178738
+Valencia CF,Oleg Salenko,24,Russia,Centre-Forward,CF,-,CD Logroñés (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/oleg-salenko/profil/spieler/88147
+Valencia CF,Juan José Maqueda,25,Spain,Midfielder,Midfielder,-,Real Madrid B,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-jose-maqueda/profil/spieler/180072
+Valencia CF,Mazinho,28,Brazil,Defensive Midfield,DM,-,Sociedade Esportiva Palmeiras,Brazil,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/mazinho/profil/spieler/102588
+Valencia CF,Vicente Engonga,28,Spain,Central Midfield,CM,-,Celta de Vigo,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/vicente-engonga/profil/spieler/150748
+Valencia CF,David Clotet,21,Spain,Centre-Back,CB,-,UDA Gramenet,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/david-clotet/profil/spieler/187821
+Valencia CF,Juan Sánchez,22,Spain,Centre-Forward,CF,-,RCD Mallorca,Spain,"End of loanJun 30, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-sanchez/profil/spieler/7585
+Albacete Balompié,José Francisco Molina,23,Spain,Goalkeeper,GK,-,Villarreal CF,Spain,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-francisco-molina/profil/spieler/7485
+Albacete Balompié,Óscar García,21,Spain,Attacking Midfield,AM,-,FC Barcelona,Spain,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+Albacete Balompié,Albert Tomàs,23,Spain,Centre-Back,CB,-,UE Lleida (liq.),Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/albert-tomas/profil/spieler/253507
+Albacete Balompié,Óscar Dertycia,29,Argentina,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-dertycia/profil/spieler/120394
+Albacete Balompié,Ivaylo Andonov,26,Bulgaria,Forward,Forward,-,CSKA Sofia,Bulgaria,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/ivaylo-andonov/profil/spieler/17163
+Albacete Balompié,Alberto Monteagudo,19,Spain,Defensive Midfield,DM,-,Albacete Balompié U19,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/alberto-monteagudo/profil/spieler/29180
+Albacete Balompié,Francisco Oliete,23,Spain,Defender,Defender,-,Celta de Vigo,Spain,"End of loanJun 1, 1994",In,1994,s,laliga,https://www.transfermarkt.co.uk/francisco-oliete/profil/spieler/259661
+Sporting Gijón,Igor Ledyakhov,26,Russia,Central Midfield,CM,-,Spartak Moscow,Russia,Free transfer,In,1994,s,laliga,https://www.transfermarkt.co.uk/igor-ledyakhov/profil/spieler/102594
+Sporting Gijón,Marcos Vales,19,Spain,Right Midfield,RM,-,Deportivo de La Coruña,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+Sporting Gijón,Pier,22,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/pier/profil/spieler/184330
+Sporting Gijón,José Luis Morales,20,Spain,Forward,Forward,-,Real Madrid B,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-luis-morales/profil/spieler/253679
+Sporting Gijón,Fredi,20,Spain,Left Midfield,LM,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/fredi/profil/spieler/7707
+Sporting Gijón,David Cano,19,Spain,Defensive Midfield,DM,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/david-cano/profil/spieler/27698
+Sporting Gijón,Ramón Fernández,21,Spain,Goalkeeper,GK,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/ramon-fernandez/profil/spieler/305880
+Sporting Gijón,Rogelio Lamar,21,Spain,Left-Back,LB,-,Sporting de Gijón B ,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/rogelio-lamar/profil/spieler/303639
+Real Oviedo,Robert Prosinecki,25,Croatia,Central Midfield,CM,-,Real Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/robert-prosinecki/profil/spieler/8013
+Real Oviedo,Manel,23,Spain,Right-Back,RB,-,Real Oviedo B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/manel/profil/spieler/57824
+Real Oviedo,Iván Ania,16,Spain,Left Midfield,LM,-,Real Oviedo B,Spain,-,In,1994,s,laliga,https://www.transfermarkt.co.uk/ivan-ania/profil/spieler/29081
+SD Compostela,Ángel Lekunberri,24,Spain,Midfielder,Midfielder,-,Athletic Bilbao,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/angel-lekunberri/profil/spieler/7734
+SD Compostela,Franck Passi,28,France,Defensive Midfield,DM,-,AS Monaco,France,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/franck-passi/profil/spieler/177714
+SD Compostela,José Manuel Galdames,23,Spain,Centre-Back,CB,-,Athletic Bilbao,Spain,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-galdames/profil/spieler/154589
+SD Compostela,Juan Carlos Paniagua Prieto,28,Spain,Forward,Forward,-,CD Toledo,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos-paniagua-prieto/profil/spieler/353723
+SD Compostela,Paco Llorente,29,Spain,Right Winger,RW,-,Real Madrid,Spain,?,In,1994,s,laliga,https://www.transfermarkt.co.uk/paco-llorente/profil/spieler/121096
+SD Compostela,Bent Christensen,27,Denmark,Centre-Forward,CF,-,FC Schalke 04,Germany,Loan,In,1994,s,laliga,https://www.transfermarkt.co.uk/bent-christensen/profil/spieler/17301
+Atlético Madrid,Luis García,25,Mexico,Forward,Forward,-,Real Sociedad,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/luis-garcia/profil/spieler/80024
+Atlético Madrid,Pizo Gómez,30,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/pizo-gomez/profil/spieler/154877
+Atlético Madrid,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/moacir/profil/spieler/303470
+Atlético Madrid,Juanito,29,Spain,Centre-Back,CB,-,Sevilla FC,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juanito/profil/spieler/253986
+Atlético Madrid,Juan Sabas,27,Spain,Centre-Forward,CF,-,Real Betis Balompié,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-sabas/profil/spieler/253212
+Atlético Madrid,Mami Quevedo,25,Spain,Central Midfield,CM,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/mami-quevedo/profil/spieler/172351
+Atlético Madrid,Juanma Alamillos,21,Spain,Defender,Defender,-,CD Toledo,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juanma-alamillos/profil/spieler/559986
+Atlético Madrid,Pedro,26,Spain,Left-Back,LB,-,Sevilla FC,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/pedro/profil/spieler/254096
+FC Barcelona,Michael Laudrup,30,Denmark,Attacking Midfield,AM,-,Real Madrid,Spain,£8.64m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/michael-laudrup/profil/spieler/8023
+FC Barcelona,Julio Salinas,32,Spain,Centre-Forward,CF,-,Deportivo de La Coruña,Spain,£2.16m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/julio-salinas/profil/spieler/8141
+FC Barcelona,Andoni Zubizarreta,32,Spain,Goalkeeper,GK,-,Valencia CF,Spain,£1.89m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/andoni-zubizarreta/profil/spieler/8117
+FC Barcelona,Juan Carlos,-,Spain,Defender,Defender,-,Valencia CF,Spain,£810Th.,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/8118
+FC Barcelona,Goran Vucevic,23,Croatia,Central Midfield,CM,-,HNK Hajduk Split,Croatia,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/goran-vucevic/profil/spieler/130411
+FC Barcelona,Jon Andoni Goikoetxea,28,Spain,Right Midfield,RM,-,Athletic Bilbao,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jon-andoni-goikoetxea/profil/spieler/150650
+FC Barcelona,Óscar García,21,Spain,Attacking Midfield,AM,-,Albacete Balompié,Spain,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-garcia/profil/spieler/7897
+FC Barcelona,Lluís Carreras,21,Spain,Left-Back,LB,-,Racing Santander,Spain,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/lluis-carreras/profil/spieler/16593
+FC Barcelona,Juan Carlos,29,Spain,Left-Back,LB,-,Valencia CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-carlos/profil/spieler/178738
+FC Barcelona,Srdjan Pecelj,19,Bosnia-Herzegovina,Centre-Back,CB,-,FC Barcelona B,Spain,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/srdjan-pecelj/profil/spieler/27993
+Real Zaragoza,Seba,20,Spain,Second Striker,SS,-,Villarreal CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/seba/profil/spieler/184502
+Real Zaragoza,Mario García,26,Spain,Goalkeeper,GK,-,CD Tudelano,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/mario-garcia/profil/spieler/357678
+Real Zaragoza,Esteban,33,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/esteban/profil/spieler/214696
+Real Zaragoza,Julia,31,Spain,Midfielder,Midfielder,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/julia/profil/spieler/257761
+Real Betis Balompié,Luis Merino,25,Spain,Midfielder,Midfielder,-,CA Marbella,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/luis-merino/profil/spieler/291360
+Real Betis Balompié,Juanlu,21,Spain,Defender,Defender,-,CF Extremadura,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juanlu/profil/spieler/71320
+Real Betis Balompié,Javier Diaz Pons,26,Spain,Midfielder,Midfielder,-,Palamós CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/javier-diaz-pons/profil/spieler/273549
+Real Betis Balompié,Trifon Ivanov,28,Bulgaria,Sweeper,SW,-,Neuchâtel Xamax,Switzerland,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/trifon-ivanov/profil/spieler/91918
+Real Betis Balompié,Juan Ramón Comas,31,Argentina,Forward,Forward,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-ramon-comas/profil/spieler/582157
+Real Betis Balompié,Johnny Ekström,29,Sweden,Centre-Forward,CF,-,AC Reggiana,Italy,"End of loanJun 30, 1994",Out,1994,s,laliga,https://www.transfermarkt.co.uk/johnny-ekstrom/profil/spieler/84557
+CD Logroñés (liq.),Romero,23,Spain,Left-Back,LB,-,Valencia CF,Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/romero/profil/spieler/7494
+CD Logroñés (liq.),Julen Lopetegui,27,Spain,Goalkeeper,GK,-,FC Barcelona,Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/julen-lopetegui/profil/spieler/101570
+CD Logroñés (liq.),Grzegorz Lewandowski,24,Poland,Defensive Midfield,DM,-,Legia Warszawa,Poland,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/grzegorz-lewandowski/profil/spieler/69240
+CD Logroñés (liq.),Paco Fernández,26,Spain,Central Midfield,CM,-,CD Badajoz,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/paco-fernandez/profil/spieler/314747
+CD Logroñés (liq.),Oleg Salenko,24,Russia,Centre-Forward,CF,-,Valencia CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/oleg-salenko/profil/spieler/88147
+CD Logroñés (liq.),Antonio Poyatos,28,Spain,Midfielder,Midfielder,-,Valencia CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/antonio-poyatos/profil/spieler/173466
+Real Valladolid CF,José Amavisca,23,Spain,Left Midfield,LM,-,Real Madrid,Spain,£810Th.,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-amavisca/profil/spieler/7496
+Real Valladolid CF,Manolo Alfaro,23,Spain,Centre-Forward,CF,-,Hércules CF,Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/manolo-alfaro/profil/spieler/221878
+Real Valladolid CF,Gabi Correa,26,Uruguay,Central Midfield,CM,-,CP Mérida,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/gabi-correa/profil/spieler/258056
+Real Valladolid CF,Iván Rocha,25,Brazil,Left-Back,LB,-,Atlético Madrid,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/ivan-rocha/profil/spieler/253985
+Real Valladolid CF,Ilija Najdoski,30,North Macedonia,Centre-Back,CB,-,Denizlispor,Turkey,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/ilija-najdoski/profil/spieler/152380
+Real Valladolid CF,Ángel Lozano,34,Spain,Goalkeeper,GK,-,CD Badajoz,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/angel-lozano/profil/spieler/310940
+Real Valladolid CF,Txelis,31,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/txelis/profil/spieler/355985
+Real Valladolid CF,Marlon Brandão,30,Brazil,Forward,Forward,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/marlon-brandao/profil/spieler/355986
+Real Valladolid CF,Walter Lozano,28,Argentina,Defender,Defender,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/walter-lozano/profil/spieler/277437
+Sevilla FC,Diego Simeone,24,Argentina,Central Midfield,CM,-,Atlético Madrid,Spain,£2.25m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/diego-simeone/profil/spieler/5841
+Sevilla FC,José Padilla,24,Spain,Left-Back,LB,-,CF Extremadura,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-padilla/profil/spieler/253209
+Sevilla FC,Patxi Ferreira,27,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga,https://www.transfermarkt.co.uk/patxi-ferreira/profil/spieler/150645
+Real Madrid,Robert Prosinecki,25,Croatia,Central Midfield,CM,-,Real Oviedo,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/robert-prosinecki/profil/spieler/8013
+Real Madrid,Villarroya,27,Spain,Left Midfield,LM,-,Deportivo de La Coruña,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/villarroya/profil/spieler/180078
+Real Madrid,Luis Miguel Ramis,23,Spain,Centre-Back,CB,-,CD Tenerife,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/luis-miguel-ramis/profil/spieler/154986
+Real Madrid,Paco Llorente,29,Spain,Right Winger,RW,-,SD Compostela,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/paco-llorente/profil/spieler/121096
+Athletic Bilbao,Xabier Eskurza,24,Spain,Central Midfield,CM,-,FC Barcelona,Spain,£3.60m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/xabier-eskurza/profil/spieler/154584
+Athletic Bilbao,Ángel Lekunberri,24,Spain,Midfielder,Midfielder,-,SD Compostela,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/angel-lekunberri/profil/spieler/7734
+Athletic Bilbao,José Manuel Galdames,23,Spain,Centre-Back,CB,-,SD Compostela,Spain,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-galdames/profil/spieler/154589
+Athletic Bilbao,José Ángel Uribarrena,25,Spain,Forward,Forward,-,Celta de Vigo,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-angel-uribarrena/profil/spieler/154655
+Athletic Bilbao,Carlos García,23,Spain,Defensive Midfield,DM,-,CA Osasuna,Spain,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/carlos-garcia/profil/spieler/7628
+Athletic Bilbao,Asier,27,Spain,Defender,Defender,-,CA Osasuna,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/asier/profil/spieler/154591
+Racing Santander,Michel Pineda,30,France,Centre-Forward,CF,-,UE Lleida (liq.),Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/michel-pineda/profil/spieler/255176
+Racing Santander,Óscar Engonga,25,Equatorial Guinea,Midfielder,Midfielder,-,UE Figueres,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-engonga/profil/spieler/462525
+Racing Santander,Gelucho,32,Spain,Left-Back,LB,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/gelucho/profil/spieler/277029
+CD Tenerife,Fernando Redondo,25,Argentina,Defensive Midfield,DM,-,Real Madrid,Spain,£3.15m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/fernando-redondo/profil/spieler/5811
+CD Tenerife,Pier,22,Spain,Centre-Forward,CF,-,Sporting Gijón,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/pier/profil/spieler/184330
+CD Tenerife,Manolo,33,Spain,Goalkeeper,GK,-,UD Las Palmas,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/manolo/profil/spieler/310938
+CD Tenerife,Óscar Dertycia,29,Argentina,Centre-Forward,CF,-,Albacete Balompié,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/oscar-dertycia/profil/spieler/120394
+CD Tenerife,Percy Olivares,26,Peru,Left-Back,LB,-,Club Atlético Rosario Central,Argentina,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/percy-olivares/profil/spieler/17969
+CD Tenerife,José Manuel Ochotorena,33,Spain,Goalkeeper,GK,-,CD Logroñés (liq.),Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-ochotorena/profil/spieler/255175
+CD Tenerife,Agustín,34,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/agustin/profil/spieler/214177
+Real Sociedad,Bittor Alkiza,23,Spain,Left Midfield,LM,-,Athletic Bilbao,Spain,£1.17m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/bittor-alkiza/profil/spieler/7627
+Real Sociedad,Carlos Xavier,32,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/carlos-xavier/profil/spieler/200755
+Real Sociedad,Oceano Cruz,31,Portugal,Defensive Midfield,DM,-,Sporting CP,Portugal,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/oceano-cruz/profil/spieler/103755
+Real Sociedad,Jon Andoni Larrañaga,35,Spain,Sweeper,SW,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jon-andoni-larranaga/profil/spieler/145535
+RCD Espanyol Barcelona,Igor Korneev,26,Russia,Right Winger,RW,-,FC Barcelona,Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/igor-korneev/profil/spieler/8011
+RCD Espanyol Barcelona,Mino,31,Spain,Defender,Defender,-,RCD Mallorca,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/mino/profil/spieler/216658
+RCD Espanyol Barcelona,Juan José Elgezabal,30,Spain,Central Midfield,CM,-,Gernika Club,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-jose-elgezabal/profil/spieler/154873
+RCD Espanyol Barcelona,Santi Cuesta,22,Spain,Left-Back,LB,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/santi-cuesta/profil/spieler/277442
+RCD Espanyol Barcelona,Dmitri Galyamin,31,Russia,Right-Back,RB,-,CP Mérida,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/dmitri-galyamin/profil/spieler/102593
+RCD Espanyol Barcelona,Ángel Luis,24,Spain,Midfielder,Midfielder,-,RCD Mallorca,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/angel-luis/profil/spieler/292376
+Deportivo de La Coruña,Mariano Hoyas,23,Spain,Right-Back,RB,-,Celta de Vigo,Spain,£162Th.,Out,1994,s,laliga,https://www.transfermarkt.co.uk/mariano-hoyas/profil/spieler/253468
+Deportivo de La Coruña,Marcos Vales,19,Spain,Right Midfield,RM,-,Sporting Gijón,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/marcos-vales/profil/spieler/7709
+Celta de Vigo,Santiago Cañizares,24,Spain,Goalkeeper,GK,-,Real Madrid,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga,https://www.transfermarkt.co.uk/santiago-canizares/profil/spieler/7562
+Celta de Vigo,Vicente Engonga,28,Spain,Central Midfield,CM,-,Valencia CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/vicente-engonga/profil/spieler/150748
+Celta de Vigo,Paco Salillas,28,Spain,Centre-Forward,CF,-,UE Lleida (liq.),Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/paco-salillas/profil/spieler/253503
+Celta de Vigo,Stjepan Andrijasevic,27,Croatia,Right Midfield,RM,-,HNK Hajduk Split,Croatia,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/stjepan-andrijasevic/profil/spieler/175963
+Celta de Vigo,Joseba Aguirre,30,Spain,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/joseba-aguirre/profil/spieler/179566
+Celta de Vigo,Atilano,35,Spain,Right-Back,RB,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/atilano/profil/spieler/277084
+Celta de Vigo,Jorge Del Río Pombal,20,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jorge-del-rio-pombal/profil/spieler/459968
+Celta de Vigo,Diego Duffort Falco,23,Spain,Forward,Forward,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/diego-duffort-falco/profil/spieler/459963
+Celta de Vigo,Francisco Oliete,23,Spain,Defender,Defender,-,Albacete Balompié,Spain,"End of loanJun 1, 1994",Out,1994,s,laliga,https://www.transfermarkt.co.uk/francisco-oliete/profil/spieler/259661
+Valencia CF,Javi Navarro,20,Spain,Centre-Back,CB,-,CD Logroñés (liq.),Spain,Loan,Out,1994,s,laliga,https://www.transfermarkt.co.uk/javi-navarro/profil/spieler/7696
+Valencia CF,Víctor Aristizábal,22,Colombia,Centre-Forward,CF,-,Atlético Nacional,Colombia,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/victor-aristizabal/profil/spieler/102165
+Valencia CF,Juan Sánchez,22,Spain,Centre-Forward,CF,-,Celta de Vigo,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-sanchez/profil/spieler/7585
+Valencia CF,Juan Antonio Pizzi,26,Spain,Centre-Forward,CF,-,CD Tenerife,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/juan-antonio-pizzi/profil/spieler/8015
+Valencia CF,Quique Sánchez Flores,29,Spain,Right-Back,RB,-,Real Madrid,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/quique-sanchez-flores/profil/spieler/173942
+Valencia CF,Miodrag Belodedici,30,Romania,Sweeper,SW,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/miodrag-belodedici/profil/spieler/102018
+Valencia CF,José González,29,Spain,Goalkeeper,GK,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-gonzalez/profil/spieler/200746
+Valencia CF,Antonio Notario,21,Spain,Goalkeeper,GK,-,Real Murcia CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/antonio-notario/profil/spieler/7694
+Valencia CF,José Manuel Tárraga,23,Spain,Defender,Defender,-,Celta de Vigo,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-manuel-tarraga/profil/spieler/258870
+Albacete Balompié,Santi Denia,20,Spain,Centre-Back,CB,-,Atlético Madrid,Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/santi-denia/profil/spieler/10010
+Albacete Balompié,José González,27,Spain,Forward,Forward,-,Rayo Vallecano,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-gonzalez/profil/spieler/276624
+Albacete Balompié,Vladan Dimitrijevic,21,Serbia,Defender,Defender,-,CP Mérida,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/vladan-dimitrijevic/profil/spieler/356414
+Albacete Balompié,Gabelo Conejo,34,Costa Rica,Goalkeeper,GK,-,,Unknown,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/gabelo-conejo/profil/spieler/92916
+Albacete Balompié,Raul Ricardo dos Santos,27,Uruguay,Forward,Forward,-,Villarreal CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/raul-ricardo-dos-santos/profil/spieler/222942
+Albacete Balompié,Delfí Geli,25,Spain,Right-Back,RB,-,Atlético Madrid,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/delfi-geli/profil/spieler/172357
+Albacete Balompié,José Menéndez,30,Spain,Midfielder,Midfielder,-,Real Betis Balompié,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-menendez/profil/spieler/304045
+Albacete Balompié,Nilson,28,Brazil,Attacking Midfield,AM,-,Real Valladolid CF,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/nilson/profil/spieler/283199
+Albacete Balompié,Ramón,30,Spain,Centre-Forward,CF,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/ramon/profil/spieler/208608
+Sporting Gijón,Abelardo,24,Spain,Centre-Back,CB,-,FC Barcelona,Spain,£2.70m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/abelardo/profil/spieler/8036
+Sporting Gijón,Xavier Escaich,25,Spain,Centre-Forward,CF,-,FC Barcelona,Spain,£1.08m,Out,1994,s,laliga,https://www.transfermarkt.co.uk/xavier-escaich/profil/spieler/8123
+Sporting Gijón,Jose Maria Cela,24,Spain,Forward,Forward,-,FC Barcelona B,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/jose-maria-cela/profil/spieler/207258
+Sporting Gijón,Mario Stanic,22,Croatia,Right Winger,RW,-,SL Benfica,Portugal,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/mario-stanic/profil/spieler/3164
+Sporting Gijón,Arturo,25,Spain,Defender,Defender,-,CD Logroñés (liq.),Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/arturo/profil/spieler/314704
+Real Oviedo,Lluís Elcacho,30,Spain,Left-Back,LB,-,UE Lleida (liq.),Spain,Free transfer,Out,1994,s,laliga,https://www.transfermarkt.co.uk/lluis-elcacho/profil/spieler/273208
+Real Oviedo,Félix Sarriugarte,29,Spain,Forward,Forward,-,UD Las Palmas,Spain,?,Out,1994,s,laliga,https://www.transfermarkt.co.uk/felix-sarriugarte/profil/spieler/154892
+Real Oviedo,Viti,34,Spain,Goalkeeper,GK,-,,Retired,-,Out,1994,s,laliga,https://www.transfermarkt.co.uk/viti/profil/spieler/273209
+Real Oviedo,Lluís Carreras,21,Spain,Left-Back,LB,-,FC Barcelona,Spain,"End of loanJun 30, 1994",Out,1994,s,laliga,https://www.transfermarkt.co.uk/lluis-carreras/profil/spieler/16593
+FC Barcelona,José Mari,23,Spain,Attacking Midfield,AM,-,CA Osasuna,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/154592
+FC Barcelona,Roger García,18,Spain,Left Midfield,LM,-,FC Barcelona B,Spain,-,In,1994,w,laliga,https://www.transfermarkt.co.uk/roger-garcia/profil/spieler/7891
+Real Zaragoza,Cafú,24,Brazil,Right-Back,RB,-,São Paulo Futebol Clube,Brazil,£1.35m,In,1994,w,laliga,https://www.transfermarkt.co.uk/cafu/profil/spieler/5937
+CD Logroñés (liq.),Javier Delgado,22,Spain,Midfielder,Midfielder,-,FC Barcelona B,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/javier-delgado/profil/spieler/303457
+Real Valladolid CF,Jan Urban,32,Poland,Attacking Midfield,AM,-,CA Osasuna,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/jan-urban/profil/spieler/117226
+Real Valladolid CF,Amado Guevara,18,Honduras,Attacking Midfield,AM,-,CD Motagua Tegucigalpa,Honduras,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/amado-guevara/profil/spieler/30598
+Real Valladolid CF,Pedro Riesco,25,Spain,Forward,Forward,-,Deportivo de La Coruña,Spain,Loan,In,1994,w,laliga,https://www.transfermarkt.co.uk/pedro-riesco/profil/spieler/305883
+Sevilla FC,Ilie Dumitrescu,25,Romania,Left Winger,LW,-,Tottenham Hotspur,England,Loan,In,1994,w,laliga,https://www.transfermarkt.co.uk/ilie-dumitrescu/profil/spieler/102020
+Sevilla FC,Moacir,24,Brazil,Midfielder,Midfielder,-,Sport Club Corinthians Paulista,Brazil,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/moacir/profil/spieler/303470
+Real Madrid,Raúl,17,Spain,Second Striker,SS,-,Real Madrid C,Spain,-,In,1994,w,laliga,https://www.transfermarkt.co.uk/raul/profil/spieler/7349
+Real Sociedad,Joseba Etxeberria,17,Spain,Right Winger,RW,-,Real Sociedad B,Spain,-,In,1994,w,laliga,https://www.transfermarkt.co.uk/joseba-etxeberria/profil/spieler/7640
+RCD Espanyol Barcelona,Luis Cembranos,22,Spain,Attacking Midfield,AM,-,FC Barcelona B,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/luis-cembranos/profil/spieler/172345
+Celta de Vigo,Srdjan Bajcetic,22,Serbia,Midfielder,Midfielder,-,Red Star Belgrade,Serbia,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/srdjan-bajcetic/profil/spieler/213087
+Albacete Balompié,Gregorio Fonseca,29,Spain,Forward,Forward,-,RCD Espanyol Barcelona,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/gregorio-fonseca/profil/spieler/273632
+Albacete Balompié,Manolo Salvador,31,Spain,Central Midfield,CM,-,Marbella FC,Spain,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/manolo-salvador/profil/spieler/277216
+Sporting Gijón,Hugo Pérez,26,Argentina,Right Midfield,RM,-,Club Atlético Independiente,Argentina,?,In,1994,w,laliga,https://www.transfermarkt.co.uk/hugo-perez/profil/spieler/102210
+Atlético Madrid,Miguel Ángel Benítez,24,Paraguay,Centre-Forward,CF,-,CP Mérida,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/miguel-angel-benitez/profil/spieler/27449
+Atlético Madrid,Serge-Alain Maguy,24,Cote d'Ivoire,Midfielder,Midfielder,-,ASEC Mimosas,Cote d'Ivoire,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/serge-alain-maguy/profil/spieler/353161
+Atlético Madrid,José Soler,27,Spain,Midfielder,Midfielder,-,CA Osasuna,Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/jose-soler/profil/spieler/262964
+FC Barcelona,Romário,28,Brazil,Centre-Forward,CF,-,Clube de Regatas do Flamengo,Brazil,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/romario/profil/spieler/7942
+Real Betis Balompié,Tab Ramos,28,United States,Central Midfield,CM,-,MLS Pool,United States,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/tab-ramos/profil/spieler/102007
+Real Betis Balompié,Andrés Gonzales,26,Peru,Centre-Forward,CF,-,Sport Boys Callao,Peru,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/andres-gonzales/profil/spieler/738941
+Real Betis Balompié,Antonio Monreal,25,Spain,Centre-Back,CB,-,CP Mérida,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/antonio-monreal/profil/spieler/305209
+Real Valladolid CF,Gustavo Matosas,27,Uruguay,Forward,Forward,-,Atlético Paranaense,Brazil,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/gustavo-matosas/profil/spieler/273265
+Real Valladolid CF,Pedro Fernando Arquero,21,Spain,Forward,Forward,-,Levante UD,Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/pedro-fernando-arquero/profil/spieler/648325
+Real Valladolid CF,Juan Carlos Quero Porras,22,Spain,Forward,Forward,-,Córdoba CF,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/juan-carlos-quero-porras/profil/spieler/506027
+Racing Santander,Alfredo Grelak,24,Argentina,Defender,Defender,-,Gimnàstic de Tarragona,Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/alfredo-grelak/profil/spieler/174106
+RCD Espanyol Barcelona,Dmitri Kuznetsov,29,Russia,Right Midfield,RM,-,UE Lleida (liq.),Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/dmitri-kuznetsov/profil/spieler/93357
+RCD Espanyol Barcelona,Gregorio Fonseca,29,Spain,Forward,Forward,-,Albacete Balompié,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/gregorio-fonseca/profil/spieler/273632
+Deportivo de La Coruña,Emil Kostadinov,27,Bulgaria,Centre-Forward,CF,-,Bayern Munich,Germany,Loan fee:£225Th.,Out,1994,w,laliga,https://www.transfermarkt.co.uk/emil-kostadinov/profil/spieler/17167
+Deportivo de La Coruña,Pedro Riesco,25,Spain,Forward,Forward,-,Real Valladolid CF,Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/pedro-riesco/profil/spieler/305883
+Albacete Balompié,Alberto Monteagudo,20,Spain,Defensive Midfield,DM,-,UD Fuerteventura,Spain,Loan,Out,1994,w,laliga,https://www.transfermarkt.co.uk/alberto-monteagudo/profil/spieler/29180
+Albacete Balompié,Raul Ricardo dos Santos,27,Uruguay,Forward,Forward,-,Villarreal CF,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/raul-ricardo-dos-santos/profil/spieler/222942
+SD Compostela,Óscar,28,Germany,Midfielder,Midfielder,-,Deportivo Alavés,Spain,?,Out,1994,w,laliga,https://www.transfermarkt.co.uk/oscar/profil/spieler/253191

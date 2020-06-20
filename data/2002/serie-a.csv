@@ -1,663 +1,681 @@
-Club,Name,Age,Nat.,Position,Pos,Market value,Club involved,Country involved,Fee,Movement,Season,Window,League
-Torino Calcio,Federico Magallanes,25,Uruguay,Centre-Forward,CF,-,AC Venezia 1907,Italy,£360Th.,In,2002,s,serie-a
-Torino Calcio,Francesco Statuto,30,Italy,Central Midfield,CM,-,Piacenza FC,Italy,?,In,2002,s,serie-a
-Torino Calcio,Giammarco Frezza,26,Italy,Left Midfield,LM,-,US Palermo,Italy,?,In,2002,s,serie-a
-Torino Calcio,Alessandro Conticchio,28,Italy,Central Midfield,CM,-,US Lecce,Italy,?,In,2002,s,serie-a
-Torino Calcio,Alessandro Campo,18,Italy,Right Winger,RW,-,AC Prato,Italy,?,In,2002,s,serie-a
-Torino Calcio,Luca Mezzano,24,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2002,s,serie-a
-Torino Calcio,Andrea Soncin,18,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,2002,s,serie-a
-Torino Calcio,Vincenzo Sommese,26,Italy,Right Winger,RW,-,Piacenza FC,Italy,?,In,2002,s,serie-a
-Torino Calcio,Alberto Maria Fontana,27,Italy,Goalkeeper,GK,-,US Palermo,Italy,?,In,2002,s,serie-a
-Torino Calcio,Fabio Giordano,18,Italy,Defensive Midfield,DM,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Torino Calcio,Segun Omolade,19,Nigeria,Forward,Forward,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Torino Calcio,Federico Marchetti,19,Italy,Goalkeeper,GK,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Torino Calcio,Ronaldo Vanin,19,Brazil,Right-Back,RB,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Torino Calcio,Stefano Bianciardi,17,Italy,Left-Back,LB,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Torino Calcio,Andrea Mantovani,18,Italy,Centre-Back,CB,-,Torino Primavera,Italy,-,In,2002,s,serie-a
-Juventus FC,Marco Di Vaio,26,Italy,Centre-Forward,CF,-,AC Parma,Italy,£18.90m,In,2002,s,serie-a
-Juventus FC,Manuele Blasi,21,Italy,Central Midfield,CM,-,AC Perugia,Italy,£15.93m,In,2002,s,serie-a
-Juventus FC,Mauro Camoranesi,25,Italy,Right Midfield,RM,-,Hellas Verona,Italy,£7.65m,In,2002,s,serie-a
-Juventus FC,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,£6.75m,In,2002,s,serie-a
-Juventus FC,Rubén Olivera,19,Uruguay,Central Midfield,CM,-,Danubio FC,Uruguay,£5.61m,In,2002,s,serie-a
-Juventus FC,Abdoulay Konko,18,France,Right-Back,RB,-,Genoa CFC Youth,Italy,Free transfer,In,2002,s,serie-a
-Juventus FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-Juventus FC,Mattia Cassani,18,Italy,Right-Back,RB,-,Canavese Youth,Italy,?,In,2002,s,serie-a
-Juventus FC,Antonio Chimenti,32,Italy,Goalkeeper,GK,-,US Lecce,Italy,?,In,2002,s,serie-a
-Juventus FC,Daniele Gastaldello,19,Italy,Centre-Back,CB,-,Calcio Padova,Italy,?,In,2002,s,serie-a
-Juventus FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,?,In,2002,s,serie-a
-Juventus FC,Salvatore Fresi,29,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,In,2002,s,serie-a
-Juventus FC,Aboubacar Fofana,19,France,Left Midfield,LM,-,Juventus Primavera,Italy,-,In,2002,s,serie-a
-Atalanta BC,Apostolos Liolidis,24,Greece,Right Winger,RW,-,Aris Thessaloniki,Greece,£810Th.,In,2002,s,serie-a
-Atalanta BC,Santos,20,Brazil,Centre-Back,CB,-,Comercial Futebol Clube (SP),Brazil,Loan,In,2002,s,serie-a
-Atalanta BC,Ivan Javorcic,23,Croatia,Defensive Midfield,DM,-,ACD Treviso,Italy,?,In,2002,s,serie-a
-Atalanta BC,Carmine Gautieri,31,Italy,Right Winger,RW,-,Piacenza FC,Italy,?,In,2002,s,serie-a
-Atalanta BC,Danilo Zini,24,Italy,Centre-Back,CB,-,US Pistoiese 1921,Italy,?,In,2002,s,serie-a
-Como Calcio,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,NK Varteks Varazdin,Croatia,£2.25m,In,2002,s,serie-a
-Como Calcio,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Fenerbahce SK,Turkey,Free transfer,In,2002,s,serie-a
-Como Calcio,Benny Carbone,30,Italy,Second Striker,SS,-,Middlesbrough FC,England,?,In,2002,s,serie-a
-Como Calcio,Massimo Tarantino,31,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,In,2002,s,serie-a
-Como Calcio,Vincenzo Chianese,26,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a
-Como Calcio,Jean-Paul van Gastel,30,Netherlands,Centre-Back,CB,-,Ternana Calcio,Italy,?,In,2002,s,serie-a
-Como Calcio,Jonatan Binotto,27,Italy,Right Winger,RW,-,Brescia Calcio,Italy,?,In,2002,s,serie-a
-Como Calcio,Stjepan Tomas,26,Croatia,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a
-Como Calcio,Benoît Cauet,33,France,Central Midfield,CM,-,Torino Calcio,Italy,?,In,2002,s,serie-a
-Como Calcio,Marco Rossi,24,Italy,Right Midfield,RM,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-Como Calcio,Mirko Benin,24,Italy,Attacking Midfield,AM,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-Como Calcio,Pasquale Padalino,29,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2002,s,serie-a
-Como Calcio,Niccolò Guzzo,19,Italy,Right-Back,RB,-,Fiorentina Primavera,Italy,?,In,2002,s,serie-a
-Como Calcio,Fabrizio Ferron,36,Italy,Goalkeeper,GK,-,Hellas Verona,Italy,?,In,2002,s,serie-a
-Como Calcio,Milan Zahalka,25,Czech Republic,Goalkeeper,GK,-,Carrarese Calcio 1908,Italy,?,In,2002,s,serie-a
-Como Calcio,Fabio Pecchia,28,Italy,Right Midfield,RM,-,Bologna FC 1909,Italy,Loan,In,2002,s,serie-a
-Como Calcio,Juarez,28,Brazil,Right-Back,RB,-,US Lecce,Italy,?,In,2002,s,serie-a
-Como Calcio,Giuseppe Greco,18,Italy,Centre-Forward,CF,-,FC Pavia 1911,Italy,?,In,2002,s,serie-a
-Como Calcio,Ciro De Cesare,30,Italy,Second Striker,SS,-,Chievo Verona,Italy,?,In,2002,s,serie-a
-Piacenza FC,Sergey Gurenko,29,Belarus,Right-Back,RB,-,AC Parma,Italy,Loan,In,2002,s,serie-a
-Piacenza FC,Marco Stella,21,Italy,Midfielder,Midfielder,-,Delfino Pescara 1936,Italy,?,In,2002,s,serie-a
-Piacenza FC,Luigi Riccio,24,Italy,Central Midfield,CM,-,Ternana Calcio,Italy,?,In,2002,s,serie-a
-Piacenza FC,Alessandro Rinaldi,27,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,In,2002,s,serie-a
-Piacenza FC,Enzo Maresca,22,Italy,Central Midfield,CM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a
-Piacenza FC,Hugo Campagnaro,22,Argentina,Centre-Back,CB,-,CD Morón,Argentina,?,In,2002,s,serie-a
-Piacenza FC,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,AC Parma,Italy,?,In,2002,s,serie-a
-Piacenza FC,Mauro Óbolo,20,Argentina,Centre-Forward,CF,-,Club Atlético Vélez Sarsfield,Argentina,Loan,In,2002,s,serie-a
-Piacenza FC,Ibrahim Babatunde,17,Nigeria,Centre-Forward,CF,-,AC Arezzo,Italy,?,In,2002,s,serie-a
-Piacenza FC,Amedeo Mangone,33,Italy,Left-Back,LB,-,Brescia Calcio,Italy,?,In,2002,s,serie-a
-Piacenza FC,Dario Marcolin,30,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,In,2002,s,serie-a
-Piacenza FC,Maurizio Franzone,33,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,?,In,2002,s,serie-a
-Piacenza FC,Simone Paoletti,18,Italy,Goalkeeper,GK,-,Cagliese Calcio,Italy,?,In,2002,s,serie-a
-Piacenza FC,Matteo Abbate,18,Italy,Centre-Back,CB,-,Piacenza Juniores,Italy,-,In,2002,s,serie-a
-FC Internazionale,Hernán Crespo,27,Argentina,Centre-Forward,CF,-,SS Lazio,Italy,£32.40m,In,2002,s,serie-a
-FC Internazionale,Fabio Cannavaro,28,Italy,Centre-Back,CB,-,AC Parma,Italy,£20.70m,In,2002,s,serie-a
-FC Internazionale,Francesco Coco,25,Italy,Left-Back,LB,-,Milan AC,Italy,£20.25m,In,2002,s,serie-a
-FC Internazionale,Matías Almeyda,28,Argentina,Defensive Midfield,DM,-,AC Parma,Italy,£19.89m,In,2002,s,serie-a
-FC Internazionale,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,£3.60m,In,2002,s,serie-a
-FC Internazionale,Ümit Davala,28,Turkey,Right Midfield,RM,-,Milan AC,Italy,£1.80m,In,2002,s,serie-a
-FC Internazionale,Daniele Adani,27,Italy,Centre-Back,CB,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a
-FC Internazionale,Domenico Morfeo,26,Italy,Attacking Midfield,AM,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a
-FC Internazionale,Carlos Gamarra,31,Paraguay,Centre-Back,CB,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,s,serie-a
-FC Internazionale,Alessio Scarpi,29,Italy,Goalkeeper,GK,-,Cagliari Calcio,Italy,Free transfer,In,2002,s,serie-a
-FC Internazionale,Giuseppe Ticli,23,Italy,Left Midfield,LM,-,AC Reggiana 1919,Italy,?,In,2002,s,serie-a
-FC Internazionale,Mattia Altobelli,19,Italy,Attacking Midfield,AM,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a
-FC Internazionale,Giovanni Pasquale,20,Italy,Left-Back,LB,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a
-FC Internazionale,Obafemi Martins,17,Nigeria,Centre-Forward,CF,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a
-FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a
-FC Internazionale,Goran Pandev,18,North Macedonia,Second Striker,SS,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a
-Milan AC,Alessandro Nesta,26,Italy,Centre-Back,CB,-,SS Lazio,Italy,£27.89m,In,2002,s,serie-a
-Milan AC,Clarence Seedorf,26,Netherlands,Central Midfield,CM,-,FC Internazionale,Italy,£20.25m,In,2002,s,serie-a
-Milan AC,Martin Laursen,24,Denmark,Centre-Back,CB,-,AC Parma,Italy,£9.90m,In,2002,s,serie-a
-Milan AC,Dario Simic,26,Croatia,Centre-Back,CB,-,FC Internazionale,Italy,£4.50m,In,2002,s,serie-a
-Milan AC,Samuele Dalla Bona,21,Italy,Central Midfield,CM,-,Chelsea FC,England,£1.44m,In,2002,s,serie-a
-Milan AC,Rivaldo,30,Brazil,Attacking Midfield,AM,-,FC Barcelona,Spain,Free transfer,In,2002,s,serie-a
-Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,s,serie-a
-Milan AC,Jon Dahl Tomasson,25,Denmark,Centre-Forward,CF,-,Feyenoord Rotterdam,Netherlands,Free transfer,In,2002,s,serie-a
-Milan AC,Catilina Aubameyang,18,Gabon,Left Midfield,LM,-,Milan Primavera,Italy,-,In,2002,s,serie-a
-SS Lazio,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£10.80m,In,2002,s,serie-a
-SS Lazio,Massimo Oddo,26,Italy,Right-Back,RB,-,Hellas Verona,Italy,£1.35m,In,2002,s,serie-a
-SS Lazio,Enrico Chiesa,31,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a
-SS Lazio,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,Chievo Verona,Italy,?,In,2002,s,serie-a
-SS Lazio,Juan Pablo Sorín,26,Argentina,Left-Back,LB,-,Cruzeiro Esporte Clube,Brazil,Loan,In,2002,s,serie-a
-SS Lazio,Patrizio Pascucci,18,Italy,Forward,Forward,-,Lazio Primavera,Italy,-,In,2002,s,serie-a
-AC Parma,Adriano,20,Brazil,Centre-Forward,CF,-,FC Internazionale,Italy,£13.05m,In,2002,s,serie-a
-AC Parma,Alberto Gilardino,19,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,£10.80m,In,2002,s,serie-a
-AC Parma,Adrian Mutu,23,Romania,Centre-Forward,CF,-,Hellas Verona,Italy,£9.00m,In,2002,s,serie-a
-AC Parma,Mark Bresciano,22,Australia,Central Midfield,CM,-,FC Empoli,Italy,£6.30m,In,2002,s,serie-a
-AC Parma,Matteo Brighi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,£4.50m,In,2002,s,serie-a
-AC Parma,Vratislav Gresko,24,Slovakia,Left-Back,LB,-,FC Internazionale,Italy,Free transfer,In,2002,s,serie-a
-AC Parma,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Milan AC,Italy,Loan,In,2002,s,serie-a
-AC Parma,Alex Gibbs,18,Italy,Centre-Forward,CF,-,Calcio Monza,Italy,?,In,2002,s,serie-a
-AC Parma,Roberto Massaro,18,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,?,In,2002,s,serie-a
-AC Parma,Daniele Bonera,21,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,2002,s,serie-a
-AC Parma,Matuzalém,22,Brazil,Defensive Midfield,DM,-,Piacenza FC,Italy,?,In,2002,s,serie-a
-AC Parma,Gabriel Oyola,19,Argentina,Centre-Back,CB,-,Club Atlético Talleres,Argentina,?,In,2002,s,serie-a
-AC Parma,Emanuele Filippini,28,Italy,Central Midfield,CM,-,Brescia Calcio,Italy,?,In,2002,s,serie-a
-AC Parma,Sebastiano Siviglia,29,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,2002,s,serie-a
-AC Parma,Francesco Ruopolo,19,Italy,Centre-Forward,CF,-,Parma Primavera,Italy,-,In,2002,s,serie-a
-Udinese Calcio,Marek Jankulovski,25,Czech Republic,Left-Back,LB,-,SSC Napoli,Italy,£3.15m,In,2002,s,serie-a
-Udinese Calcio,Carsten Jancker,27,Germany,Centre-Forward,CF,-,Bayern Munich,Germany,£2.25m,In,2002,s,serie-a
-Udinese Calcio,Thomas Thorninger,29,Denmark,Centre-Forward,CF,-,FC Copenhagen,Denmark,£900Th.,In,2002,s,serie-a
-Udinese Calcio,Néstor Sensini,35,Argentina,Centre-Back,CB,-,AC Parma,Italy,Free transfer,In,2002,s,serie-a
-Udinese Calcio,Giuseppe Gemiti,21,Germany,Left-Back,LB,-,Eintracht Frankfurt,Germany,Free transfer,In,2002,s,serie-a
-Udinese Calcio,Fabio Rossitto,30,Italy,Right Midfield,RM,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-Udinese Calcio,Pavel Grznar,23,Czech Republic,Left-Back,LB,-,FC Viktoria Plzen,Czech Republic,?,In,2002,s,serie-a
-Udinese Calcio,Patrick Beneforti,21,France,Attacking Midfield,AM,-,SC Bastia,France,Loan,In,2002,s,serie-a
-Udinese Calcio,Felipe,17,Brazil,Centre-Back,CB,-,Udinese Primavera,Italy,-,In,2002,s,serie-a
-Udinese Calcio,Sulley Muntari,17,Ghana,Central Midfield,CM,-,Udinese Primavera,Italy,-,In,2002,s,serie-a
-Chievo Verona,Björn Runström,18,Sweden,Centre-Forward,CF,-,Bologna FC 1909,Italy,£450Th.,In,2002,s,serie-a
-Chievo Verona,Francesco Magnanelli,17,Italy,Defensive Midfield,DM,-,AS Gubbio 1910,Italy,£45Th.,In,2002,s,serie-a
-Chievo Verona,Oliver Bierhoff,34,Germany,Centre-Forward,CF,-,AS Monaco,France,Free transfer,In,2002,s,serie-a
-Chievo Verona,John Mensah,19,Ghana,Centre-Back,CB,-,Genoa CFC,Italy,Free transfer,In,2002,s,serie-a
-Chievo Verona,Daniel Andersson,24,Sweden,Centre-Back,CB,-,AC Venezia 1907,Italy,Loan,In,2002,s,serie-a
-Chievo Verona,Lilian Nalis,30,France,Central Midfield,CM,-,SC Bastia,France,Free transfer,In,2002,s,serie-a
-Chievo Verona,Ivano Della Morte,27,Italy,Central Midfield,CM,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a
-Chievo Verona,Mattia Passarini,21,Italy,Goalkeeper,GK,-,US Sassuolo,Italy,?,In,2002,s,serie-a
-Chievo Verona,Michael Zago,21,Italy,Central Midfield,CM,-,AC Trento ,Italy,?,In,2002,s,serie-a
-Chievo Verona,Emanuele Pesaresi,25,Italy,Left-Back,LB,-,SS Lazio,Italy,?,In,2002,s,serie-a
-Chievo Verona,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Como Calcio,Italy,Loan,In,2002,s,serie-a
-Chievo Verona,Ivone De Franceschi,28,Italy,Left Winger,LW,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a
-Chievo Verona,Marcos De Paula,18,Brazil,Centre-Forward,CF,-,Chievo Primavera,Italy,-,In,2002,s,serie-a
-Chievo Verona,Jin-ho Lee,17,"Korea, South",Centre-Forward,CF,-,,Without Club,-,In,2002,s,serie-a
-Chievo Verona,Giuseppe Aquaro,19,Switzerland,Centre-Back,CB,-,Chievo Primavera,Italy,-,In,2002,s,serie-a
-AS Roma,Christian Panucci,29,Italy,Right-Back,RB,-,AS Monaco,France,£8.83m,In,2002,s,serie-a
-AS Roma,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,Brescia Calcio,Italy,Free transfer,In,2002,s,serie-a
-AS Roma,Traianos Dellas,26,Greece,Centre-Back,CB,-,AC Perugia,Italy,Free transfer,In,2002,s,serie-a
-AS Roma,Davide Bombardini,28,Italy,Left Midfield,LM,-,US Palermo,Italy,?,In,2002,s,serie-a
-AS Roma,Luigi Sartor,27,Italy,Right-Back,RB,-,AC Parma,Italy,?,In,2002,s,serie-a
-AS Roma,Damiano Ferronetti,17,Italy,Centre-Back,CB,-,Roma Primavera,Italy,-,In,2002,s,serie-a
-AS Roma,Alberto Aquilani,17,Italy,Central Midfield,CM,-,Roma Primavera,Italy,-,In,2002,s,serie-a
-AS Roma,Christian Scarlato,18,Italy,Midfielder,Midfielder,-,Roma Primavera,Italy,-,In,2002,s,serie-a
-AS Roma,Daniele De Rossi,18,Italy,Defensive Midfield,DM,-,Roma Primavera,Italy,-,In,2002,s,serie-a
-AS Roma,Cesare Bovo,19,Italy,Centre-Back,CB,-,Roma Primavera,Italy,-,In,2002,s,serie-a
-Brescia Calcio,Stephen Appiah,21,Ghana,Defensive Midfield,DM,-,AC Parma,Italy,£4.10m,In,2002,s,serie-a
-Brescia Calcio,Anthony Seric,23,Croatia,Left-Back,LB,-,Hellas Verona,Italy,Loan,In,2002,s,serie-a
-Brescia Calcio,Davide Micillo,31,Italy,Goalkeeper,GK,-,Cosenza Calcio 1914,Italy,?,In,2002,s,serie-a
-Brescia Calcio,Gilberto Martínez,22,Costa Rica,Centre-Back,CB,-,Deportivo Saprissa,Costa Rica,?,In,2002,s,serie-a
-Brescia Calcio,Jonathan Bachini,27,Italy,Right Midfield,RM,-,AC Parma,Italy,?,In,2002,s,serie-a
-Brescia Calcio,Marco Pisano,20,Italy,Left-Back,LB,-,Taranto FC 1927,Italy,?,In,2002,s,serie-a
-Brescia Calcio,Matteo Sereni,27,Italy,Goalkeeper,GK,-,Ipswich Town,England,Loan,In,2002,s,serie-a
-Brescia Calcio,Marius Stankevicius,20,Lithuania,Centre-Back,CB,-,Ekranas Panevezys,Lithuania,?,In,2002,s,serie-a
-Brescia Calcio,Matuzalém,22,Brazil,Defensive Midfield,DM,-,AC Parma,Italy,?,In,2002,s,serie-a
-Brescia Calcio,Giordano Paganotto,17,Italy,Defender,Defender,-,Brescia Primavera,Italy,-,In,2002,s,serie-a
-Brescia Calcio,Víctor Mareco,18,Paraguay,Centre-Back,CB,-,Brescia Primavera,Italy,-,In,2002,s,serie-a
-AC Perugia,Konstantinos Louboutis,23,Greece,Left-Back,LB,-,Aris Thessaloniki,Greece,Free transfer,In,2002,s,serie-a
-AC Perugia,Zeljko Kalac,29,Australia,Goalkeeper,GK,-,Roda JC Kerkrade,Netherlands,?,In,2002,s,serie-a
-AC Perugia,William Viali,27,Italy,Centre-Back,CB,-,US Palermo,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Giuseppe Aprea,25,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,In,2002,s,serie-a
-AC Perugia,Antonio Criniti,31,Italy,Forward,Forward,-,US Sambenedettese,Italy,?,In,2002,s,serie-a
-AC Perugia,Giovanni Sulcis,27,Italy,Midfielder,Midfielder,-,Cagliari Calcio,Italy,?,In,2002,s,serie-a
-AC Perugia,Roberto Baronio,24,Italy,Defensive Midfield,DM,-,SS Lazio,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Cyril Gona,17,Nigeria,Defensive Midfield,DM,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Sebastiano Rossi,37,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,In,2002,s,serie-a
-AC Perugia,Paolo Zaccagnini,25,Italy,Right Midfield,RM,-,Chieti Calcio,Italy,?,In,2002,s,serie-a
-AC Perugia,Manuele Blasi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Andrea Caracciolo,20,Italy,Centre-Forward,CF,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Emanuele Berrettoni,21,Italy,Second Striker,SS,-,Lazio Primavera,Italy,?,In,2002,s,serie-a
-AC Perugia,Luigi Pagliuca,22,Italy,Right Winger,RW,-,AC Prato,Italy,?,In,2002,s,serie-a
-AC Perugia,Tiago Calvano,21,Brazil,Centre-Back,CB,-,Botafogo Rio de Janeiro,Brazil,?,In,2002,s,serie-a
-AC Perugia,Lorenzo Crocetti,18,Italy,Centre-Forward,CF,-,Fiorentina Primavera,Italy,?,In,2002,s,serie-a
-AC Perugia,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,Juventus FC,Italy,Loan,In,2002,s,serie-a
-AC Perugia,Daniele Cacciaglia,20,Italy,Central Midfield,CM,-,Perugia Primavera,Italy,-,In,2002,s,serie-a
-Bologna FC 1909,Paolo Vanoli,30,Italy,Left-Back,LB,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a
-Bologna FC 1909,Alessandro Frara,19,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a
-Bologna FC 1909,Leonardo Colucci,29,Italy,Central Midfield,CM,-,Hellas Verona,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,Como Calcio,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Andrea Pansera,22,Italy,Goalkeeper,GK,-,UC AlbinoLeffe,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Michele Paramatti,34,Italy,Left-Back,LB,-,Juventus FC,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Marco Zanchi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Christian Amoroso,25,Italy,Central Midfield,CM,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-Bologna FC 1909,Claudio Terzi,18,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,2002,s,serie-a
-Bologna FC 1909,Mourad Meghni,18,Algeria,Attacking Midfield,AM,-,Bologna Primavera,Italy,-,In,2002,s,serie-a
-FC Empoli,Amauri,22,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,£135Th.,In,2002,s,serie-a
-FC Empoli,David Bret,18,France,Goalkeeper,GK,-,HSC Montpellier,France,?,In,2002,s,serie-a
-FC Empoli,Luca Saudati,23,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,Loan,In,2002,s,serie-a
-FC Empoli,Gaetano Grieco,19,Italy,Centre-Forward,CF,-,AC Parma,Italy,Loan,In,2002,s,serie-a
-FC Empoli,Alessandro Agostini,22,Italy,Left-Back,LB,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-FC Empoli,Mario Cassano,18,Italy,Goalkeeper,GK,-,Florentia Viola,Italy,?,In,2002,s,serie-a
-FC Empoli,Antonio Buscè,26,Italy,Right Midfield,RM,-,AC Lumezzane,Italy,?,In,2002,s,serie-a
-FC Empoli,Frank Lagana,17,Australia,Central Midfield,CM,-,FFA Centre of Excellence,Australia,?,In,2002,s,serie-a
-FC Empoli,Stefano Lucchini,21,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,In,2002,s,serie-a
-FC Empoli,Ighli Vannucchi,24,Italy,Attacking Midfield,AM,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a
-FC Empoli,Francesco Lodi,18,Italy,Defensive Midfield,DM,-,Empoli Primavera,Italy,-,In,2002,s,serie-a
-FC Empoli,Christian Paoletti,17,Italy,Goalkeeper,GK,-,Empoli Primavera,Italy,-,In,2002,s,serie-a
-Modena FC,Giuseppe Sculli,21,Italy,Left Winger,LW,-,Juventus FC,Italy,Loan fee:£360Th.,In,2002,s,serie-a
-Modena FC,Alessandro Zamperini,19,Italy,Centre-Back,CB,-,Portsmouth FC,England,Free transfer,In,2002,s,serie-a
-Modena FC,Nicola Campedelli,23,Italy,Right Midfield,RM,-,US Salernitana,Italy,?,In,2002,s,serie-a
-Modena FC,Nicola Corrent,22,Italy,Central Midfield,CM,-,Milan AC,Italy,?,In,2002,s,serie-a
-Modena FC,Marco Zamboni,24,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,2002,s,serie-a
-Modena FC,Matteo Pivotto,27,Italy,Right-Back,RB,-,US Palermo,Italy,?,In,2002,s,serie-a
-Modena FC,Simone Pavan,28,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a
-Modena FC,Sofiane Zaaboub,19,Algeria,Left Midfield,LM,-,AS Saint-Étienne,France,?,In,2002,s,serie-a
-Modena FC,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Chievo Verona,Italy,?,In,2002,s,serie-a
-Modena FC,Marcello Albino,30,Italy,Left Winger,LW,-,Ancona Calcio,Italy,?,In,2002,s,serie-a
-Modena FC,Alessio Sestu,18,Italy,Right Winger,RW,-,Lazio Primavera,Italy,?,In,2002,s,serie-a
-Modena FC,Carlo Taldo,31,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,-,In,2002,s,serie-a
-Modena FC,Andrea Sentimenti,17,Italy,Goalkeeper,GK,-,Modena Primavera,Italy,-,In,2002,s,serie-a
-Modena FC,Enrico Po,17,Italy,Midfielder,Midfielder,-,Modena Primavera,Italy,-,In,2002,s,serie-a
-Reggina Calcio,Carlos Paredes,25,Paraguay,Defensive Midfield,DM,-,FC Porto,Portugal,£4.32m,In,2002,s,serie-a
-Reggina Calcio,Shunsuke Nakamura,24,Japan,Attacking Midfield,AM,-,Yokohama F. Marinos,Japan,£1.80m,In,2002,s,serie-a
-Reggina Calcio,Paolo Greco,17,Italy,Defender,Defender,-,,Unknown,?,In,2002,s,serie-a
-Reggina Calcio,David Di Michele,26,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,Loan,In,2002,s,serie-a
-Reggina Calcio,Riccardo Alderuccio,18,Italy,Defender,Defender,-,,Unknown,?,In,2002,s,serie-a
-Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Cosenza Calcio 1914,Italy,?,In,2002,s,serie-a
-Reggina Calcio,Massimo Rastelli,33,Italy,Right Winger,RW,-,SSC Napoli,Italy,?,In,2002,s,serie-a
-Reggina Calcio,Roberto Cardinale,21,Italy,Centre-Back,CB,-,US Salernitana,Italy,Loan,In,2002,s,serie-a
-Reggina Calcio,Julio de León,22,Honduras,Attacking Midfield,AM,-,Celano FC Marsica,Italy,?,In,2002,s,serie-a
-Reggina Calcio,Gianluca Falsini,26,Italy,Left-Back,LB,-,AC Parma,Italy,?,In,2002,s,serie-a
-Reggina Calcio,Luca Castellazzi,26,Italy,Goalkeeper,GK,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a
-Reggina Calcio,Roberto Mafucci,17,Italy,Forward,Forward,-,,Unknown,?,In,2002,s,serie-a
-Torino Calcio,Franco Semioli,22,Italy,Right Winger,RW,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Massimo Brambilla,29,Italy,Central Midfield,CM,-,AC Siena,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Gabriele Paoletti,24,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Simone Tiribocchi,24,Italy,Centre-Forward,CF,-,AC Siena,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Abdullah Fusseini,20,Ghana,Midfielder,Midfielder,-,AS Gualdo Casacastalda,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Federico Marchetti,19,Italy,Goalkeeper,GK,-,US Pro Vercelli,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Alessandro Cibocchi,19,Italy,Left-Back,LB,-,US Viterbese,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Antonino Asta,31,Italy,Right Midfield,RM,-,US Palermo,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Stefano Bianciardi,17,Italy,Left-Back,LB,-,US Pistoiese 1921,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Daniele Martinelli,20,Italy,Centre-Back,CB,-,AC Siena,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Fabio Quagliarella,19,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Loan,Out,2002,s,serie-a
-Torino Calcio,Giorgio Venturin,33,Italy,Central Midfield,CM,-,Taranto Juniores,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Benoît Cauet,33,France,Central Midfield,CM,-,Como Calcio,Italy,?,Out,2002,s,serie-a
-Torino Calcio,Luca Mezzano,24,Italy,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Juventus FC,Matteo Brighi,21,Italy,Central Midfield,CM,-,AC Parma,Italy,£4.50m,Out,2002,s,serie-a
-Juventus FC,Vincent Péricard,19,France,Centre-Forward,CF,-,Portsmouth FC,England,£540Th.,Out,2002,s,serie-a
-Juventus FC,Giuseppe Sculli,21,Italy,Left Winger,LW,-,Modena FC,Italy,Loan fee:£360Th.,Out,2002,s,serie-a
-Juventus FC,Cristian Zenoni,25,Italy,Right-Back,RB,-,UC Sampdoria,Italy,£279Th.,Out,2002,s,serie-a
-Juventus FC,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Aboubacar Fofana,19,France,Left Midfield,LM,-,PAOK Thessaloniki,Greece,Loan,Out,2002,s,serie-a
-Juventus FC,Alessandro Frara,19,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Luigi Lavecchia,20,Italy,Right Midfield,RM,-,Ascoli Calcio 1898,Italy,?,Out,2002,s,serie-a
-Juventus FC,Enzo Maresca,22,Italy,Central Midfield,CM,-,Piacenza FC,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Michele Paramatti,34,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a
-Juventus FC,Fabián Carini,22,Uruguay,Goalkeeper,GK,-,Standard Liège,Belgium,Loan,Out,2002,s,serie-a
-Juventus FC,Francesco Scardina,20,Italy,Centre-Back,CB,-,PAOK Thessaloniki,Greece,Loan,Out,2002,s,serie-a
-Juventus FC,Marco Zanchi,25,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a
-Juventus FC,Andrea Gentile,22,Italy,Central Midfield,CM,-,US Triestina,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Manuele Blasi,21,Italy,Central Midfield,CM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Tomás Guzmán,20,Paraguay,Attacking Midfield,AM,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Massimiliano Vieri,23,Australia,Centre-Forward,CF,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Felice Piccolo,18,Italy,Centre-Back,CB,-,AS Lucchese Libertas,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Andrea Gasbarroni,20,Italy,Second Striker,SS,-,UC Sampdoria,Italy,Loan,Out,2002,s,serie-a
-Juventus FC,Michelangelo Rampulla,39,Italy,Goalkeeper,GK,-,,Retired,-,Out,2002,s,serie-a
-Atalanta BC,Luca Saudati,23,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,s,serie-a
-Atalanta BC,Ljubisa Dundjerski,30,Serbia,Midfielder,Midfielder,-,ACD Treviso,Italy,?,Out,2002,s,serie-a
-Atalanta BC,Nicholas Caglioni,19,Italy,Goalkeeper,GK,-,Uso Calcio,Italy,Loan,Out,2002,s,serie-a
-Atalanta BC,Massimo Paganin,31,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Atalanta BC,Joelson,18,Brazil,Right Winger,RW,-,FC Pavia 1911,Italy,?,Out,2002,s,serie-a
-Atalanta BC,Corrado Colombo,22,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Atalanta BC,Biagio Pagano,19,Italy,Right Winger,RW,-,AC Lumezzane,Italy,Loan,Out,2002,s,serie-a
-Atalanta BC,Pierluigi Orlandini,29,Italy,Right Midfield,RM,-,SSD Città di Brindisi,Italy,?,Out,2002,s,serie-a
-Atalanta BC,Luca Cavalli,24,Italy,Central Midfield,CM,-,,Retired,-,Out,2002,s,serie-a
-Atalanta BC,Gianluca Falsini,26,Italy,Left-Back,LB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Como Calcio,Luis Oliveira,33,Belgium,Centre-Forward,CF,-,Calcio Catania,Italy,£450Th.,Out,2002,s,serie-a
-Como Calcio,Francesco Pedone,34,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Como Calcio,Luca Del Chiaro,21,Italy,Defender,Defender,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a
-Como Calcio,Nicola Zanini,28,Italy,Attacking Midfield,AM,-,US Triestina,Italy,?,Out,2002,s,serie-a
-Como Calcio,Vincenzo Chianese,26,Italy,Centre-Forward,CF,-,ACD Treviso,Italy,Loan,Out,2002,s,serie-a
-Como Calcio,Fabio Gallo,31,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,Out,2002,s,serie-a
-Como Calcio,Stephen Makinwa,18,Nigeria,Centre-Forward,CF,-,AC Reggiana 1919,Italy,?,Out,2002,s,serie-a
-Como Calcio,Davide Olivares,30,Italy,Midfielder,Midfielder,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a
-Como Calcio,Simone Bridarolli,20,Italy,Forward,Forward,-,,Unknown,?,Out,2002,s,serie-a
-Como Calcio,Roberto Colacone,28,Italy,Second Striker,SS,-,Vicenza Calcio,Italy,?,Out,2002,s,serie-a
-Como Calcio,Christian Terni,30,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a
-Como Calcio,Marco Nappi,36,Italy,Second Striker,SS,-,Savona FBC,Italy,?,Out,2002,s,serie-a
-Como Calcio,Massimo Lombardini,30,Italy,Midfielder,Midfielder,-,US Alessandria Calcio,Italy,?,Out,2002,s,serie-a
-Como Calcio,Andrea Corti,19,Italy,Defender,Defender,-,US Canzese,Italy,?,Out,2002,s,serie-a
-Como Calcio,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a
-Como Calcio,Francesco Bega,27,Italy,Centre-Back,CB,-,US Triestina,Italy,?,Out,2002,s,serie-a
-Como Calcio,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Chievo Verona,Italy,Loan,Out,2002,s,serie-a
-Como Calcio,Alfredo Femiano,23,Italy,Defensive Midfield,DM,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a
-Como Calcio,Cristiano Pavone,30,Italy,Left-Back,LB,-,FC Messina Peloro,Italy,?,Out,2002,s,serie-a
-Como Calcio,Vincenzo Pandullo,31,Italy,Defender,Defender,-,Legnano AC,Italy,?,Out,2002,s,serie-a
-Como Calcio,Gianluca Spinelli,35,Italy,Goalkeeper,GK,-,,Retired,-,Out,2002,s,serie-a
-Como Calcio,Ljubisa Dundjerski,30,Serbia,Midfielder,Midfielder,-,Atalanta BC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Como Calcio,Nicola Corrent,22,Italy,Central Midfield,CM,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Piacenza FC,Amauri,22,Italy,Centre-Forward,CF,-,FC Empoli,Italy,£135Th.,Out,2002,s,serie-a
-Piacenza FC,Sergio Volpi,28,Italy,Central Midfield,CM,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Davide Bagnacani,22,Italy,Goalkeeper,GK,-,ASD Castel di Sangro,Italy,Loan,Out,2002,s,serie-a
-Piacenza FC,Alessandro Lucarelli,24,Italy,Centre-Back,CB,-,US Palermo,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Francesco Statuto,30,Italy,Central Midfield,CM,-,Torino Calcio,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Roberto Maltagliati,33,Italy,Centre-Back,CB,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Carmine Gautieri,31,Italy,Right Winger,RW,-,Atalanta BC,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Matuzalém,22,Brazil,Defensive Midfield,DM,-,AC Parma,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Lorenzo Liverani,18,Italy,Defender,Defender,-,,Unknown,?,Out,2002,s,serie-a
-Piacenza FC,Vincenzo Sommese,26,Italy,Right Winger,RW,-,Torino Calcio,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Daniele Cacia,18,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a
-Piacenza FC,Nicola Mora,22,Italy,Left-Back,LB,-,AS Bari,Italy,?,Out,2002,s,serie-a
-Piacenza FC,Marco Comotto,18,Italy,Centre-Back,CB,-,Imolese Calcio 1919,Italy,Loan,Out,2002,s,serie-a
-Piacenza FC,Francesco Zerbini,22,Italy,Centre-Forward,CF,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a
-Piacenza FC,Paolo Poggi,31,Italy,Centre-Forward,CF,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-FC Internazionale,Ronaldo,25,Brazil,Centre-Forward,CF,-,Real Madrid,Spain,£40.50m,Out,2002,s,serie-a
-FC Internazionale,Clarence Seedorf,26,Netherlands,Central Midfield,CM,-,Milan AC,Italy,£20.25m,Out,2002,s,serie-a
-FC Internazionale,Adriano,20,Brazil,Centre-Forward,CF,-,AC Parma,Italy,£13.05m,Out,2002,s,serie-a
-FC Internazionale,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£10.80m,Out,2002,s,serie-a
-FC Internazionale,Dario Simic,26,Croatia,Centre-Back,CB,-,Milan AC,Italy,£4.50m,Out,2002,s,serie-a
-FC Internazionale,Grigoris Georgatos,29,Greece,Left-Back,LB,-,AEK Athens,Greece,£2.70m,Out,2002,s,serie-a
-FC Internazionale,Sixto Peralta,23,Argentina,Central Midfield,CM,-,Racing Club,Argentina,£1.80m,Out,2002,s,serie-a
-FC Internazionale,Ümit Davala,29,Turkey,Right Midfield,RM,-,Galatasaray SK,Turkey,Loan fee:£450Th.,Out,2002,s,serie-a
-FC Internazionale,Goran Pandev,19,North Macedonia,Second Striker,SS,-,Spezia Calcio 1906,Italy,Loan,Out,2002,s,serie-a
-FC Internazionale,Vratislav Gresko,24,Slovakia,Left-Back,LB,-,AC Parma,Italy,Free transfer,Out,2002,s,serie-a
-FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Spezia Calcio 1906,Italy,?,Out,2002,s,serie-a
-FC Internazionale,Paolo Ginestra,23,Italy,Goalkeeper,GK,-,US Sassuolo,Italy,Loan,Out,2002,s,serie-a
-FC Internazionale,Giuseppe Ticli,23,Italy,Left Midfield,LM,-,Calcio Monza,Italy,Loan,Out,2002,s,serie-a
-FC Internazionale,Alessio Scarpi,29,Italy,Goalkeeper,GK,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-FC Internazionale,Anselmo Robbiati,32,Italy,Left Winger,LW,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-FC Internazionale,Pasquale Padalino,29,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,Out,2002,s,serie-a
-FC Internazionale,Luca Mezzano,24,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,2002,s,serie-a
-Milan AC,Francesco Coco,25,Italy,Left-Back,LB,-,FC Internazionale,Italy,£20.25m,Out,2002,s,serie-a
-Milan AC,Javi Moreno,27,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£11.70m,Out,2002,s,serie-a
-Milan AC,Cosmin Contra,26,Romania,Right-Back,RB,-,Atlético Madrid,Spain,£2.70m,Out,2002,s,serie-a
-Milan AC,Ümit Davala,28,Turkey,Right Midfield,RM,-,FC Internazionale,Italy,£1.80m,Out,2002,s,serie-a
-Milan AC,Cyril Domoraud,30,Cote d'Ivoire,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,£1.35m,Out,2002,s,serie-a
-Milan AC,Fabricio Coloccini,20,Argentina,Centre-Back,CB,-,Atlético Madrid,Spain,Loan fee:£90Th.,Out,2002,s,serie-a
-Milan AC,Paolo Sammarco,19,Italy,Central Midfield,CM,-,US Viterbese,Italy,Loan,Out,2002,s,serie-a
-Milan AC,Mohamed Sarr,18,Senegal,Centre-Back,CB,-,Galatasaray SK,Turkey,Loan,Out,2002,s,serie-a
-Milan AC,José Mari,23,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,Out,2002,s,serie-a
-Milan AC,Pablo García,25,Uruguay,Defensive Midfield,DM,-,CA Osasuna,Spain,Free transfer,Out,2002,s,serie-a
-Milan AC,Sebastiano Rossi,37,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,2002,s,serie-a
-Milan AC,Demetrio Albertini,30,Italy,Defensive Midfield,DM,-,Atlético Madrid,Spain,Loan,Out,2002,s,serie-a
-Milan AC,Aliyu Datti,20,Nigeria,Centre-Forward,CF,-,AC Siena,Italy,?,Out,2002,s,serie-a
-Milan AC,Marco Donadel,19,Italy,Defensive Midfield,DM,-,US Lecce,Italy,Loan,Out,2002,s,serie-a
-Milan AC,Nicola Corrent,22,Italy,Central Midfield,CM,-,Modena FC,Italy,?,Out,2002,s,serie-a
-Milan AC,Luca Antonini,19,Italy,Left-Back,LB,-,Ancona Calcio,Italy,Loan,Out,2002,s,serie-a
-Milan AC,Mattia Graffiedi,22,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-Milan AC,Daniele Daino,22,Italy,Right-Back,RB,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-Milan AC,Massimo Donati,21,Italy,Defensive Midfield,DM,-,AC Parma,Italy,Loan,Out,2002,s,serie-a
-Milan AC,Gabriele Aldegani,26,Italy,Goalkeeper,GK,-,AS Livorno,Italy,?,Out,2002,s,serie-a
-Milan AC,Vitali Kutuzov,22,Belarus,Centre-Forward,CF,-,Sporting CP,Portugal,Loan,Out,2002,s,serie-a
-Milan AC,Martin Laursen,24,Denmark,Centre-Back,CB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Milan AC,Marco Simone,33,Italy,Centre-Forward,CF,-,AS Monaco,France,"End of loanJun 30, 2002",Out,2002,s,serie-a
-SS Lazio,Hernán Crespo,27,Argentina,Centre-Forward,CF,-,FC Internazionale,Italy,£32.40m,Out,2002,s,serie-a
-SS Lazio,Alessandro Nesta,26,Italy,Centre-Back,CB,-,Milan AC,Italy,£27.89m,Out,2002,s,serie-a
-SS Lazio,Gaizka Mendieta,28,Spain,Right Midfield,RM,-,FC Barcelona,Spain,Loan fee:£1.35m,Out,2002,s,serie-a
-SS Lazio,Karel Poborsky,30,Czech Republic,Right Midfield,RM,-,AC Sparta Praha,Czech Republic,Free transfer,Out,2002,s,serie-a
-SS Lazio,Patrizio Pascucci,18,Italy,Forward,Forward,-,L'Aquila Calcio,Italy,Loan,Out,2002,s,serie-a
-SS Lazio,Emanuele Pesaresi,25,Italy,Left-Back,LB,-,Chievo Verona,Italy,?,Out,2002,s,serie-a
-SS Lazio,Alberto Comazzi,23,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,2002,s,serie-a
-SS Lazio,Gasperino Cinelli,20,Italy,Centre-Forward,CF,-,FC Aprilia Racing Club,Italy,?,Out,2002,s,serie-a
-SS Lazio,Diego Favazza,19,Italy,Goalkeeper,GK,-,,Unknown,?,Out,2002,s,serie-a
-SS Lazio,Felice Evacuo,19,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Loan,Out,2002,s,serie-a
-SS Lazio,Daniele Ruggiu,21,Italy,Forward,Forward,-,,Unknown,?,Out,2002,s,serie-a
-SS Lazio,Roberto Baronio,24,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Fabio Cannavaro,28,Italy,Centre-Back,CB,-,FC Internazionale,Italy,£20.70m,Out,2002,s,serie-a
-AC Parma,Matías Almeyda,28,Argentina,Defensive Midfield,DM,-,FC Internazionale,Italy,£19.89m,Out,2002,s,serie-a
-AC Parma,Marco Di Vaio,26,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£18.90m,Out,2002,s,serie-a
-AC Parma,Martin Laursen,24,Denmark,Centre-Back,CB,-,Milan AC,Italy,£9.90m,Out,2002,s,serie-a
-AC Parma,Stephen Appiah,21,Ghana,Defensive Midfield,DM,-,Brescia Calcio,Italy,£4.10m,Out,2002,s,serie-a
-AC Parma,Savo Milosevic,28,Serbia,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,Loan fee:£2.70m,Out,2002,s,serie-a
-AC Parma,Martin Djetou,27,France,Centre-Back,CB,-,Fulham FC,England,Loan,Out,2002,s,serie-a
-AC Parma,Néstor Sensini,35,Argentina,Centre-Back,CB,-,Udinese Calcio,Italy,Free transfer,Out,2002,s,serie-a
-AC Parma,Johan Micoud,29,France,Attacking Midfield,AM,-,SV Werder Bremen,Germany,Free transfer,Out,2002,s,serie-a
-AC Parma,Paolo Poggi,31,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a
-AC Parma,Andrea Staffolani,19,Italy,Centre-Forward,CF,-,Vis Pesaro dal 1898,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Gianluca Falsini,26,Italy,Left-Back,LB,-,Reggina Calcio,Italy,?,Out,2002,s,serie-a
-AC Parma,Jorge Bolaño,25,Colombia,Central Midfield,CM,-,UC Sampdoria,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Gaetano Grieco,19,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Alain Roger Bangoura,19,Guinea,Defender,Defender,-,,Unknown,?,Out,2002,s,serie-a
-AC Parma,Jonathan Bachini,27,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,?,Out,2002,s,serie-a
-AC Parma,Matuzalém,22,Brazil,Defensive Midfield,DM,-,Brescia Calcio,Italy,?,Out,2002,s,serie-a
-AC Parma,Giampiero Maini,30,Italy,Defensive Midfield,DM,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-AC Parma,Francesco Ruopolo,19,Italy,Centre-Forward,CF,-,Pro Patria Gallaratese GB,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Gianluca De Angelis,21,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,?,Out,2002,s,serie-a
-AC Parma,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,Piacenza FC,Italy,?,Out,2002,s,serie-a
-AC Parma,Alain Boghossian,31,France,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,?,Out,2002,s,serie-a
-AC Parma,Zlatko Zebic,23,Jugoslawien (SFR),Attacking Midfield,AM,-,MFK Košice,Slovakia,?,Out,2002,s,serie-a
-AC Parma,Sergey Gurenko,29,Belarus,Right-Back,RB,-,Piacenza FC,Italy,Loan,Out,2002,s,serie-a
-AC Parma,Luigi Sartor,27,Italy,Right-Back,RB,-,AS Roma,Italy,?,Out,2002,s,serie-a
-AC Parma,Hakan Sükür,31,Turkey,Centre-Forward,CF,-,,Without Club,-,Out,2002,s,serie-a
-AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Udinese Calcio,Carlos Pavón,28,Honduras,Centre-Forward,CF,-,SSC Napoli,Italy,Free transfer,Out,2002,s,serie-a
-Udinese Calcio,Dimitrios Nalitzis,26,Greece,Centre-Forward,CF,-,AEK Athens,Greece,Loan,Out,2002,s,serie-a
-Udinese Calcio,Luigi Turci,32,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Mauro Esposito,23,Italy,Right Winger,RW,-,Cagliari Calcio,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Roberto Sosa,27,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,Loan,Out,2002,s,serie-a
-Udinese Calcio,Mauricio Pineda,26,Argentina,Left-Back,LB,-,Cagliari Calcio,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Elijah Louhenapessy,25,Netherlands,Defensive Midfield,DM,-,Polisportiva Tamai,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Ousmane Sanda Sanda,20,Cameroon,Midfielder,Midfielder,-,FC Sporting Benevento,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Gennaro Scarlato,25,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Winston Parks,20,Costa Rica,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Marco Zamboni,24,Italy,Centre-Back,CB,-,Modena FC,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,David Di Michele,26,Italy,Centre-Forward,CF,-,Reggina Calcio,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Fábio César Montezine,23,Qatar,Left Midfield,LM,-,SSC Napoli,Italy,?,Out,2002,s,serie-a
-Udinese Calcio,Anthony Basso,22,France,Goalkeeper,GK,-,FC Sporting Benevento,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Luis Helguera,26,Spain,Defensive Midfield,DM,-,Deportivo Alavés,Spain,?,Out,2002,s,serie-a
-Udinese Calcio,Zlatan Muslimovic,21,Bosnia-Herzegovina,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Terrence Genaux,18,Belgium,Centre-Back,CB,-,FC Sporting Benevento,Italy,Loan,Out,2002,s,serie-a
-Udinese Calcio,Régis Genaux,28,Belgium,Right-Back,RB,-,,Retired,-,Out,2002,s,serie-a
-Udinese Calcio,Jorge Cordero,25,Spain,Midfielder,Midfielder,-,Ciudad Murcia,Spain,,Out,2002,s,serie-a
-Udinese Calcio,Isaac,22,Spain,Left Winger,LW,-,Ciudad Murcia,Spain,"End of loanJun 1, 2002",Out,2002,s,serie-a
-Udinese Calcio,Marcos Paulo,25,Brazil,Central Midfield,CM,-,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Chievo Verona,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£3.60m,Out,2002,s,serie-a
-Chievo Verona,Francesco Carbone,22,Italy,Right-Back,RB,-,AC Siena,Italy,Loan,Out,2002,s,serie-a
-Chievo Verona,Alessandro Rinaldi,27,Italy,Right-Back,RB,-,Piacenza FC,Italy,?,Out,2002,s,serie-a
-Chievo Verona,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Modena FC,Italy,?,Out,2002,s,serie-a
-Chievo Verona,Stefano Garzon,20,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,2002,s,serie-a
-Chievo Verona,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,SS Lazio,Italy,?,Out,2002,s,serie-a
-Chievo Verona,Patrice Grillon,22,France,Defender,Defender,-,FCO Dijon,France,?,Out,2002,s,serie-a
-Chievo Verona,Giuseppe Aquaro,19,Switzerland,Centre-Back,CB,-,Foggia Calcio,Italy,Loan,Out,2002,s,serie-a
-Chievo Verona,Davide Succi,20,Italy,Centre-Forward,CF,-,Calcio Padova,Italy,Loan,Out,2002,s,serie-a
-Chievo Verona,Francesco Quintavalla,20,Italy,Right-Back,RB,-,Poggese Calcio,Italy,?,Out,2002,s,serie-a
-Chievo Verona,Ciro De Cesare,30,Italy,Second Striker,SS,-,Como Calcio,Italy,?,Out,2002,s,serie-a
-Chievo Verona,Cleiton Da Silva Lima,19,Brazil,Midfielder,Midfielder,-,,Unknown,?,Out,2002,s,serie-a
-Chievo Verona,Simone Barone,24,Italy,Central Midfield,CM,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AS Roma,Franco Brienza,23,Italy,Attacking Midfield,AM,-,US Palermo,Italy,£4.95m,Out,2002,s,serie-a
-AS Roma,Antônio Carlos Zago,33,Brazil,Centre-Back,CB,-,Besiktas JK,Turkey,Free transfer,Out,2002,s,serie-a
-AS Roma,Marcos Assunção,25,Brazil,Central Midfield,CM,-,Real Betis Balompié,Spain,?,Out,2002,s,serie-a
-AS Roma,Giordano Meloni,19,Italy,Right Winger,RW,-,AC Cesena,Italy,?,Out,2002,s,serie-a
-AS Roma,Abel Balbo,36,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,?,Out,2002,s,serie-a
-AS Roma,Gustavo Vassallo,23,Peru,Centre-Forward,CF,-,CD Alcalá,Spain,?,Out,2002,s,serie-a
-AS Roma,Massimo Bonanni,20,Italy,Left Midfield,LM,-,Panachaiki GE,Greece,Loan,Out,2002,s,serie-a
-AS Roma,Sebastiano Siviglia,29,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,s,serie-a
-AS Roma,Daniele De Vezze,22,Italy,Central Midfield,CM,-,AC Reggiana 1919,Italy,Loan,Out,2002,s,serie-a
-AS Roma,Cesare Bovo,19,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,2002,s,serie-a
-AS Roma,Christian Scarlato,18,Italy,Midfielder,Midfielder,-,AC Prato,Italy,Loan,Out,2002,s,serie-a
-AS Roma,Christian Panucci,29,Italy,Right-Back,RB,-,AS Monaco,France,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Brescia Calcio,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,AS Roma,Italy,Free transfer,Out,2002,s,serie-a
-Brescia Calcio,Sandro Grande,24,Canada,Defensive Midfield,DM,-,Potenza Sport Club,Italy,Free transfer,Out,2002,s,serie-a
-Brescia Calcio,Aimo Diana,24,Italy,Right Midfield,RM,-,AC Parma,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Andrea Caracciolo,20,Italy,Centre-Forward,CF,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Amedeo Mangone,33,Italy,Left-Back,LB,-,Piacenza FC,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Alessandro Calori,35,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Jonatan Binotto,27,Italy,Right Winger,RW,-,Como Calcio,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Angelo Danotti,22,Italy,Left-Back,LB,-,ASD Acireale Calcio,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Luca Castellazzi,26,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Mauro Bacchin,32,Italy,Goalkeeper,GK,-,Nocerina 1910,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Emanuele Filippini,28,Italy,Central Midfield,CM,-,AC Parma,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Raúl González,26,Argentina,Forward,Forward,-,FC Crotone,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Stefano Tignonsini,20,Italy,Centre-Back,CB,-,AC Palazzolo,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Stefano Brognoli,19,Italy,Central Midfield,CM,-,Varese FC,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Daniele Bonera,21,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Andrés Yllana,28,Argentina,Central Midfield,CM,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Cyril Gona,17,Nigeria,Defensive Midfield,DM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Federico Agliardi,19,Italy,Goalkeeper,GK,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,s,serie-a
-Brescia Calcio,Andrea Sussi,28,Italy,Left-Back,LB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a
-Brescia Calcio,Jonathan Bachini,27,Italy,Right Midfield,RM,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AC Perugia,Manuele Blasi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,£15.93m,Out,2002,s,serie-a
-AC Perugia,Jeong-hwan Ahn,26,"Korea, South",Second Striker,SS,-,Shimizu S-Pulse,Japan,Free transfer,Out,2002,s,serie-a
-AC Perugia,Giovanni Proietti,25,Italy,Goalkeeper,GK,-,AC Arezzo,Italy,Free transfer,Out,2002,s,serie-a
-AC Perugia,Traianos Dellas,26,Greece,Centre-Back,CB,-,AS Roma,Italy,Free transfer,Out,2002,s,serie-a
-AC Perugia,Fabio Gatti,20,Italy,Defensive Midfield,DM,-,Calcio Catania,Italy,Loan,Out,2002,s,serie-a
-AC Perugia,Fabián O'Neill,28,Uruguay,Attacking Midfield,AM,-,Cagliari Calcio,Italy,?,Out,2002,s,serie-a
-AC Perugia,Denis André Dasoul,18,Belgium,Right-Back,RB,-,KRC Genk,Belgium,?,Out,2002,s,serie-a
-AC Perugia,Andrea Soncin,18,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,2002,s,serie-a
-AC Perugia,Juan Turchi,26,Argentina,Centre-Forward,CF,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a
-AC Perugia,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,?,Out,2002,s,serie-a
-AC Perugia,Nicolás Cinalli,22,Argentina,Goalkeeper,GK,-,Varese FC,Italy,?,Out,2002,s,serie-a
-AC Perugia,Andrea Mazzantini,33,Italy,Goalkeeper,GK,-,AC Siena,Italy,?,Out,2002,s,serie-a
-AC Perugia,Daniele Cacciaglia,20,Italy,Central Midfield,CM,-,AS Sora Calcio,Italy,Loan,Out,2002,s,serie-a
-AC Perugia,Nicolás Córdova,23,Chile,Central Midfield,CM,-,FC Crotone,Italy,?,Out,2002,s,serie-a
-AC Perugia,Salvatore Monaco,29,Italy,Centre-Back,CB,-,Calcio Catania,Italy,?,Out,2002,s,serie-a
-AC Perugia,Gennaro Delvecchio,24,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a
-AC Perugia,Gianluca Petrachi,33,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,2002,s,serie-a
-AC Perugia,Hilário Leal,28,Portugal,Right-Back,RB,-,FC Maia,Portugal,?,Out,2002,s,serie-a
-AC Perugia,Fabio Bazzani,25,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AC Perugia,Daniele Daino,22,Italy,Right-Back,RB,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AC Perugia,Óscar Córdoba,32,Colombia,Goalkeeper,GK,-,Club Atlético Boca Juniors,Argentina,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AC Perugia,Roberto Goretti,26,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-AC Perugia,Ali Samereh,24,Iran,Centre-Forward,CF,-,Esteghlal FC,Iran,"End of loanJun 1, 2002",Out,2002,s,serie-a
-Bologna FC 1909,Björn Runström,18,Sweden,Centre-Forward,CF,-,Chievo Verona,Italy,£450Th.,Out,2002,s,serie-a
-Bologna FC 1909,Pierre Womé,23,Cameroon,Left-Back,LB,-,Fulham FC,England,Loan,Out,2002,s,serie-a
-Bologna FC 1909,Alessandro Gamberini,20,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a
-Bologna FC 1909,Gennaro Fragiello,18,Italy,Centre-Forward,CF,-,AC Fanfulla 1874,Italy,Loan,Out,2002,s,serie-a
-Bologna FC 1909,Fabio Pecchia,28,Italy,Right Midfield,RM,-,Como Calcio,Italy,Loan,Out,2002,s,serie-a
-Bologna FC 1909,Fabio Firmani,24,Italy,Central Midfield,CM,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a
-Bologna FC 1909,Lamberto Zauli,30,Italy,Attacking Midfield,AM,-,US Palermo,Italy,?,Out,2002,s,serie-a
-Bologna FC 1909,Salvatore Fresi,29,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,Out,2002,s,serie-a
-Bologna FC 1909,Massimo Tarantino,31,Italy,Left-Back,LB,-,Como Calcio,Italy,?,Out,2002,s,serie-a
-Bologna FC 1909,Matteo Brighi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-FC Empoli,Massimo Maccarone,22,Italy,Centre-Forward,CF,-,Middlesbrough FC,England,£11.14m,Out,2002,s,serie-a
-FC Empoli,Mark Bresciano,22,Australia,Central Midfield,CM,-,AC Parma,Italy,£6.30m,Out,2002,s,serie-a
-FC Empoli,Davide Matteini,20,Italy,Left Winger,LW,-,Pro Patria Gallaratese GB,Italy,Loan,Out,2002,s,serie-a
-FC Empoli,Amauri,22,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,Loan fee:£14Th.,Out,2002,s,serie-a
-FC Empoli,Filippo Zacchei,21,Italy,Right Winger,RW,-,US Sambenedettese,Italy,?,Out,2002,s,serie-a
-FC Empoli,Pietro Fusco,30,Italy,Defender,Defender,-,Calcio Catania,Italy,?,Out,2002,s,serie-a
-FC Empoli,Ibrahim Abdul Razak,19,Ghana,Attacking Midfield,AM,-,AS Saint-Étienne,France,Loan,Out,2002,s,serie-a
-FC Empoli,Claudio Coralli,19,Italy,Centre-Forward,CF,-,SS Tivoli 1919,Italy,Loan,Out,2002,s,serie-a
-FC Empoli,Salvatore Mastronunzio,22,Italy,Centre-Forward,CF,-,Fermana Calcio 1920,Italy,?,Out,2002,s,serie-a
-FC Empoli,Antonio Schetter,20,Italy,Right Winger,RW,£45Th.,FC Viribus Somma 100,Italy,?,Out,2002,s,serie-a
-FC Empoli,Riccardo Bonetto,23,Italy,Left-Back,LB,-,Ascoli Calcio 1898,Italy,?,Out,2002,s,serie-a
-FC Empoli,Davide Moro,20,Italy,Central Midfield,CM,-,Sangiovannese 1927,Italy,?,Out,2002,s,serie-a
-FC Empoli,Giacomo Mazzi,23,Italy,Goalkeeper,GK,-,,Without Club,-,Out,2002,s,serie-a
-Modena FC,Amadou Sanokho,22,France,Defensive Midfield,DM,-,AC Firenze Rondinella,Italy,Free transfer,Out,2002,s,serie-a
-Modena FC,Maurizio Domizzi,22,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Modena FC,Enrico Fantini,26,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a
-Modena FC,Andrea Rabito,22,Italy,Right Winger,RW,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a
-Modena FC,Mauro Zironelli,32,Italy,Midfielder,Midfielder,-,Associazione Calcio Thiene,Italy,?,Out,2002,s,serie-a
-Modena FC,Rubens Pasino,30,Italy,Attacking Midfield,AM,-,SSC Napoli,Italy,?,Out,2002,s,serie-a
-Modena FC,Vito Grieco,31,Italy,Centre-Back,CB,-,Calcio Catania,Italy,?,Out,2002,s,serie-a
-Modena FC,Giovanni Orfei,26,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a
-Modena FC,Emiliano Tarana,23,Italy,Right Winger,RW,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a
-Modena FC,Marco Veronese,26,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,2002,s,serie-a
-Modena FC,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Chievo Verona,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Reggina Calcio,Mario La Canna,24,Italy,Right Winger,RW,-,SP Ars et Labor,Italy,Free transfer,Out,2002,s,serie-a
-Reggina Calcio,Antonio Giosa,18,Italy,Centre-Back,CB,-,AS Cittadella Padova,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Nicola Carlo Pagani,24,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,s,serie-a
-Reggina Calcio,Stefano Casale,31,Italy,Right Midfield,RM,-,Cosenza Calcio 1914,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Alessandro Zoppetti,23,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Salvatore Ricca,18,Italy,Centre-Back,CB,-,Fermana Calcio 1920,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Maurizio Franzone,33,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Arnauld Mercier,30,France,Centre-Back,CB,-,Valenciennes FC ,France,?,Out,2002,s,serie-a
-Reggina Calcio,Damián Álvarez,24,Mexico,Left Winger,LW,-,Club Atlético River Plate,Argentina,?,Out,2002,s,serie-a
-Reggina Calcio,Stefano Dall'Acqua,20,Italy,Centre-Forward,CF,-,AS Cittadella Padova,Italy,Loan,Out,2002,s,serie-a
-Reggina Calcio,Davide Dionigi,28,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Salvatore Vicari,21,Italy,Right Midfield,RM,-,FC Messina Peloro,Italy,?,Out,2002,s,serie-a
-Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Calcio Catania,Italy,Loan,Out,2002,s,serie-a
-Reggina Calcio,Francesco Cester,21,Italy,Forward,Forward,-,,Retired,-,Out,2002,s,serie-a
-Reggina Calcio,Francesco Baldini,28,Italy,Centre-Back,CB,-,SSC Napoli,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a
-Torino Calcio,Carlos Marinelli,20,Argentina,Attacking Midfield,AM,-,Middlesbrough FC,England,Loan,In,2002,w,serie-a
-Torino Calcio,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Milan AC,Italy,Loan,In,2002,w,serie-a
-Torino Calcio,Alexander Manninger,25,Austria,Goalkeeper,GK,-,,Without Club,-,In,2002,w,serie-a
-Atalanta BC,Davor Vugrinec,27,Croatia,Centre-Forward,CF,-,US Lecce,Italy,?,In,2002,w,serie-a
-Atalanta BC,Natale Gonnella,26,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,In,2002,w,serie-a
-Atalanta BC,Paolo Tramezzani,32,Italy,Left-Back,LB,-,Piacenza FC,Italy,?,In,2002,w,serie-a
-Como Calcio,Nicola Caccia,32,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,Free transfer,In,2002,w,serie-a
-Como Calcio,Nicola Amoruso,28,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,In,2002,w,serie-a
-Como Calcio,Luca Belingheri,19,Italy,Attacking Midfield,AM,-,AC Siena,Italy,?,In,2002,w,serie-a
-Como Calcio,Luigi Anaclerio,21,Italy,Forward,Forward,-,AS Bari,Italy,?,In,2002,w,serie-a
-Como Calcio,Denis Godeas,27,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,?,In,2002,w,serie-a
-Como Calcio,Anderson,19,Brazil,Left-Back,LB,-,AS Pordenone Calcio,Italy,?,In,2002,w,serie-a
-Como Calcio,Jorge Serna,23,Colombia,Centre-Forward,CF,-,Independiente Medellín,Colombia,?,In,2002,w,serie-a
-Como Calcio,Daniel Fonseca,33,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,In,2002,w,serie-a
-Piacenza FC,Marco Marchionni,22,Italy,Right Midfield,RM,-,AC Parma,Italy,Loan,In,2002,w,serie-a
-Piacenza FC,Ciro De Cesare,31,Italy,Second Striker,SS,-,Como Calcio,Italy,?,In,2002,w,serie-a
-Piacenza FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,Loan,In,2002,w,serie-a
-Piacenza FC,Claudio Ferrarese,24,Italy,Right Winger,RW,-,SSC Napoli,Italy,?,In,2002,w,serie-a
-Piacenza FC,Sandro Cois,30,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,Loan,In,2002,w,serie-a
-FC Internazionale,Gabriel Batistuta,33,Argentina,Centre-Forward,CF,-,AS Roma,Italy,Loan,In,2002,w,serie-a
-FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Spezia Calcio 1906,Italy,?,In,2002,w,serie-a
-Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,w,serie-a
-AC Parma,Alessandro Pierini,29,Italy,Centre-Back,CB,-,Reggina Calcio,Italy,?,In,2002,w,serie-a
-AC Parma,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,Piacenza FC,Italy,?,In,2002,w,serie-a
-AC Parma,Giuseppe Cardone,28,Italy,Right-Back,RB,-,Piacenza FC,Italy,?,In,2002,w,serie-a
-AC Parma,Alessandro Rosina,18,Italy,Second Striker,SS,-,Parma Primavera,Italy,-,In,2002,w,serie-a
-Chievo Verona,Gianluca Grassadonia,30,Italy,Centre-Back,CB,-,Cagliari Calcio,Italy,Free transfer,In,2002,w,serie-a
-Chievo Verona,Fredrik Risp,22,Sweden,Centre-Back,CB,-,IFK Göteborg,Sweden,Loan,In,2002,w,serie-a
-Chievo Verona,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,Como Calcio,Italy,?,In,2002,w,serie-a
-AS Roma,Olivier Dacourt,28,France,Defensive Midfield,DM,-,Leeds United,England,Loan,In,2002,w,serie-a
-AS Roma,Massimo Marazzina,28,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,Loan,In,2002,w,serie-a
-Brescia Calcio,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,AS Roma,Italy,£585Th.,In,2002,w,serie-a
-Brescia Calcio,Fábio Bilica,23,Brazil,Centre-Back,CB,-,US Palermo,Italy,?,In,2002,w,serie-a
-Bologna FC 1909,Paolo Vanoli,30,Italy,Left-Back,LB,-,Florentia Viola,Italy,Free transfer,In,2002,w,serie-a
-Bologna FC 1909,Steve Gohouri,21,Cote d'Ivoire,Centre-Back,CB,-,Yverdon-Sport FC,Switzerland,Free transfer,In,2002,w,serie-a
-Bologna FC 1909,Emiliano Salvetti,29,Italy,Attacking Midfield,AM,-,Hellas Verona,Italy,Loan,In,2002,w,serie-a
-FC Empoli,Marco Borriello,20,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,In,2002,w,serie-a
-FC Empoli,Marco Carparelli,26,Italy,Second Striker,SS,-,Genoa CFC,Italy,?,In,2002,w,serie-a
-FC Empoli,Nicola Padoin,23,Italy,Defensive Midfield,DM,-,AC Prato,Italy,Loan,In,2002,w,serie-a
-Modena FC,Rune Pedersen,23,Denmark,Goalkeeper,GK,-,FC Copenhagen,Denmark,Free transfer,In,2002,w,serie-a
-Modena FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Juventus FC,Italy,Loan,In,2002,w,serie-a
-Modena FC,Giuseppe Colucci,22,Italy,Central Midfield,CM,-,Hellas Verona,Italy,Loan,In,2002,w,serie-a
-Modena FC,Fabio Vignaroli,26,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,In,2002,w,serie-a
-Modena FC,Antonio Marasco,32,Italy,Defensive Midfield,DM,-,US Palermo,Italy,?,In,2002,w,serie-a
-Reggina Calcio,Emiliano Bonazzoli,23,Italy,Centre-Forward,CF,-,AC Parma,Italy,£4.05m,In,2002,w,serie-a
-Reggina Calcio,Bruno Cirillo,25,Italy,Centre-Back,CB,-,US Lecce,Italy,Loan,In,2002,w,serie-a
-Reggina Calcio,Aimo Diana,24,Italy,Right Midfield,RM,-,AC Parma,Italy,?,In,2002,w,serie-a
-Reggina Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,-,Udinese Calcio,Italy,?,In,2002,w,serie-a
-Torino Calcio,Franco Semioli,22,Italy,Right Winger,RW,-,Vicenza Calcio,Italy,Loan,Out,2002,w,serie-a
-Torino Calcio,Fabio Quagliarella,19,Italy,Centre-Forward,CF,-,Chieti Calcio,Italy,Loan,Out,2002,w,serie-a
-Torino Calcio,Fabio Giordano,19,Italy,Defensive Midfield,DM,-,AC Pisa 1909,Italy,Loan,Out,2002,w,serie-a
-Torino Calcio,Andrea Soncin,19,Italy,Centre-Back,CB,-,Vis Pesaro dal 1898,Italy,?,Out,2002,w,serie-a
-Juventus FC,Mattia Cassani,19,Italy,Right-Back,RB,-,UC Sampdoria,Italy,Loan,Out,2002,w,serie-a
-Juventus FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Modena FC,Italy,Loan,Out,2002,w,serie-a
-Juventus FC,Francesco Scardina,21,Italy,Centre-Back,CB,-,L'Aquila Calcio,Italy,Loan,Out,2002,w,serie-a
-Juventus FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Piacenza FC,Italy,Loan,Out,2002,w,serie-a
-Juventus FC,Marco Rigoni,23,Italy,Central Midfield,CM,-,US Triestina,Italy,?,Out,2002,w,serie-a
-Juventus FC,Aboubacar Fofana,20,France,Left Midfield,LM,-,AS Sora Calcio,Italy,Loan,Out,2002,w,serie-a
-Atalanta BC,Apostolos Liolidis,25,Greece,Right Winger,RW,-,Alzano Virescit,Italy,Loan,Out,2002,w,serie-a
-Atalanta BC,Mauro Minelli,21,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a
-Atalanta BC,Fabiano Medina,20,Brazil,Centre-Back,CB,-,Alzano Virescit,Italy,?,Out,2002,w,serie-a
-Atalanta BC,Federico Pettinà,20,Italy,Midfielder,Midfielder,-,Fermana Calcio 1920,Italy,Loan,Out,2002,w,serie-a
-Atalanta BC,Yuri Breviario,19,Italy,Central Midfield,CM,-,AC Prato,Italy,?,Out,2002,w,serie-a
-Atalanta BC,Vinicio Espinal,20,Dominican Republic,Right Midfield,RM,-,Taranto FC 1927,Italy,?,Out,2002,w,serie-a
-Atalanta BC,Danilo Zini,24,Italy,Centre-Back,CB,-,Ascoli Calcio 1898,Italy,?,Out,2002,w,serie-a
-Como Calcio,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,Chievo Verona,Italy,?,Out,2002,w,serie-a
-Como Calcio,Jean-Paul van Gastel,30,Netherlands,Centre-Back,CB,-,De Graafschap Doetinchem,Netherlands,?,Out,2002,w,serie-a
-Como Calcio,Denis Godeas,27,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,2002,w,serie-a
-Como Calcio,Oscar Brevi,35,Italy,Centre-Back,CB,-,US Palermo,Italy,?,Out,2002,w,serie-a
-Como Calcio,Ciro De Cesare,31,Italy,Second Striker,SS,-,Piacenza FC,Italy,?,Out,2002,w,serie-a
-Piacenza FC,Nicola Caccia,32,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Free transfer,Out,2002,w,serie-a
-Piacenza FC,Paolo Tramezzani,32,Italy,Left-Back,LB,-,Atalanta BC,Italy,?,Out,2002,w,serie-a
-Piacenza FC,Daniele Cacia,19,Italy,Centre-Forward,CF,-,SP Ars et Labor,Italy,Loan,Out,2002,w,serie-a
-Piacenza FC,Salvatore Miceli,28,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,Loan,Out,2002,w,serie-a
-Piacenza FC,Dario Marcolin,31,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,2002,w,serie-a
-Piacenza FC,Giuseppe Cardone,28,Italy,Right-Back,RB,-,AC Parma,Italy,?,Out,2002,w,serie-a
-Piacenza FC,Marco Stella,21,Italy,Midfielder,Midfielder,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,w,serie-a
-Piacenza FC,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,AC Parma,Italy,?,Out,2002,w,serie-a
-FC Internazionale,Francisco Farinós,24,Spain,Defensive Midfield,DM,-,Villarreal CF,Spain,Loan fee:£675Th.,Out,2002,w,serie-a
-FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,AC Mantova 1911,Italy,Loan,Out,2002,w,serie-a
-FC Internazionale,Antonio Pacheco,26,Uruguay,Second Striker,SS,-,CA Peñarol,Uruguay,Loan,Out,2002,w,serie-a
-Milan AC,Marco Borriello,20,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,w,serie-a
-Milan AC,Mohamed Sarr,19,Senegal,Centre-Back,CB,-,Ancona Calcio,Italy,Loan,Out,2002,w,serie-a
-Milan AC,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Torino Calcio,Italy,Loan,Out,2002,w,serie-a
-Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,,Retired,-,Out,2002,w,serie-a
-SS Lazio,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,CA Osasuna,Spain,Loan,Out,2002,w,serie-a
-SS Lazio,Iván De La Peña,26,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,?,Out,2002,w,serie-a
-AC Parma,Emiliano Bonazzoli,23,Italy,Centre-Forward,CF,-,Reggina Calcio,Italy,£4.05m,Out,2002,w,serie-a
-AC Parma,Vratislav Gresko,25,Slovakia,Left-Back,LB,-,Blackburn Rovers,England,Loan,Out,2002,w,serie-a
-AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Reggina Calcio,Italy,?,Out,2002,w,serie-a
-AC Parma,Marco Marchionni,22,Italy,Right Midfield,RM,-,Piacenza FC,Italy,Loan,Out,2002,w,serie-a
-Udinese Calcio,Winston Parks,21,Costa Rica,Centre-Forward,CF,-,Lokomotiv Moscow,Russia,£1.62m,Out,2002,w,serie-a
-Udinese Calcio,Vito Raimondi,19,Italy,Attacking Midfield,AM,-,SV Darmstadt 98,Germany,Free transfer,Out,2002,w,serie-a
-Udinese Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,-,Reggina Calcio,Italy,?,Out,2002,w,serie-a
-Udinese Calcio,Mohammed Gargo,27,Ghana,Centre-Back,CB,-,AC Venezia 1907,Italy,Loan,Out,2002,w,serie-a
-Udinese Calcio,Maurizio Bedin,23,Italy,Central Midfield,CM,-,Cosenza Calcio 1914,Italy,?,Out,2002,w,serie-a
-Udinese Calcio,Roberto Sosa,27,Argentina,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,Loan,Out,2002,w,serie-a
-Chievo Verona,Massimo Marazzina,28,Italy,Centre-Forward,CF,-,AS Roma,Italy,Loan,Out,2002,w,serie-a
-Chievo Verona,Massimiliano Esposito,30,Italy,Right Midfield,RM,-,Ternana Calcio,Italy,?,Out,2002,w,serie-a
-Chievo Verona,Moreno Longo,26,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,Loan,Out,2002,w,serie-a
-Chievo Verona,Dario Passoni,28,Italy,Central Midfield,CM,-,Uralan Elista,Russia,?,Out,2002,w,serie-a
-Chievo Verona,Tommaso Chiecchi,23,Italy,Centre-Back,CB,-,Varese FC,Italy,Loan,Out,2002,w,serie-a
-Chievo Verona,Maurizio D'Angelo,33,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,2002,w,serie-a
-Chievo Verona,Stefano Garzon,21,Italy,Defensive Midfield,DM,-,Varese FC,Italy,Loan,Out,2002,w,serie-a
-Chievo Verona,Jin-ho Lee,18,"Korea, South",Centre-Forward,CF,-,Ulsan Hyundai,"Korea, South",?,Out,2002,w,serie-a
-AS Roma,Fábio Júnior,25,Brazil,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,£720Th.,Out,2002,w,serie-a
-AS Roma,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,Brescia Calcio,Italy,£585Th.,Out,2002,w,serie-a
-AS Roma,Gabriel Batistuta,33,Argentina,Centre-Forward,CF,-,FC Internazionale,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Federico Giunti,31,Italy,Defensive Midfield,DM,-,Besiktas JK,Turkey,£2.25m,Out,2002,w,serie-a
-Brescia Calcio,Marius Stankevicius,21,Lithuania,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Simone Dallamano,19,Italy,Left-Back,LB,-,AC Prato,Italy,?,Out,2002,w,serie-a
-Brescia Calcio,Alejandro Correa,23,Uruguay,Defensive Midfield,DM,-,AC Martina 1947,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Simone Del Nero,21,Italy,Left Winger,LW,-,US Palermo,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Raúl González,26,Argentina,Forward,Forward,-,US Salernitana,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Massimiliano Caputo,22,Italy,Left Winger,LW,-,AS Sora Calcio,Italy,?,Out,2002,w,serie-a
-Brescia Calcio,Luca Castellazzi,27,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Mario Salgado,21,Chile,Centre-Forward,CF,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a
-Brescia Calcio,Roberto Guana,21,Italy,Central Midfield,CM,-,Cagliari Calcio,Italy,Loan,Out,2002,w,serie-a
-AC Perugia,Donovan Maury,21,Belgium,Right-Back,RB,-,Roda JC Kerkrade,Netherlands,Free transfer,Out,2002,w,serie-a
-AC Perugia,Silvio Spann,21,Trinidad and Tobago,Defensive Midfield,DM,-,US Sambenedettese,Italy,Free transfer,Out,2002,w,serie-a
-AC Perugia,Nicola Amoruso,28,Italy,Centre-Forward,CF,-,Como Calcio,Italy,?,Out,2002,w,serie-a
-AC Perugia,Giuseppe Aprea,25,Italy,Goalkeeper,GK,-,AS Sora Calcio,Italy,?,Out,2002,w,serie-a
-AC Perugia,Samuel,28,Brazil,Centre-Back,CB,-,Criciúma Esporte Clube,Brazil,?,Out,2002,w,serie-a
-AC Perugia,Antonio Criniti,32,Italy,Forward,Forward,-,US Sambenedettese,Italy,?,Out,2002,w,serie-a
-AC Perugia,Paolo Zaccagnini,25,Italy,Right Midfield,RM,-,AS Sora Calcio,Italy,?,Out,2002,w,serie-a
-Bologna FC 1909,Roberto Goretti,26,Italy,Defensive Midfield,DM,-,AC Reggiana 1919,Italy,?,Out,2002,w,serie-a
-Bologna FC 1909,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,AC Siena,Italy,?,Out,2002,w,serie-a
-Bologna FC 1909,Fabio Macellari,28,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,?,Out,2002,w,serie-a
-Bologna FC 1909,Emanuele Brioschi,27,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,2002,w,serie-a
-FC Empoli,Davide Matteini,20,Italy,Left Winger,LW,-,US Palermo,Italy,?,Out,2002,w,serie-a
-FC Empoli,Michele Fusi,22,Italy,Centre-Back,CB,-,UC AlbinoLeffe,Italy,?,Out,2002,w,serie-a
-FC Empoli,Alessandro Agostini,23,Italy,Left-Back,LB,-,AC Siena,Italy,Loan,Out,2002,w,serie-a
-Modena FC,Marco Zamboni,25,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a
-Modena FC,Carlo Taldo,30,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,Loan,Out,2002,w,serie-a
-Modena FC,Alessio Sestu,19,Italy,Right Winger,RW,-,ACD Treviso,Italy,?,Out,2002,w,serie-a
-Reggina Calcio,Alessandro Pierini,29,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,w,serie-a
-Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,w,serie-a
-Reggina Calcio,Nicola Carlo Pagani,25,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,Loan,Out,2002,w,serie-a
+Club,Name,Age,Nationality,Position,Pos,MarketValue,ClubInvolved,CountryInvolved,Fee,Movement,Season,Window,League,Profile
+Torino Calcio,Federico Magallanes,25,Uruguay,Centre-Forward,CF,-,AC Venezia 1907,Italy,£360Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/federico-magallanes/profil/spieler/16266
+Torino Calcio,Vincenzo Sommese,26,Italy,Right Winger,RW,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-sommese/profil/spieler/16854
+Torino Calcio,Alberto Maria Fontana,27,Italy,Goalkeeper,GK,-,US Palermo,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-maria-fontana/profil/spieler/21884
+Torino Calcio,Francesco Statuto,30,Italy,Central Midfield,CM,-,Piacenza FC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-statuto/profil/spieler/151891
+Torino Calcio,Giammarco Frezza,26,Italy,Left Midfield,LM,-,US Palermo,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giammarco-frezza/profil/spieler/22255
+Torino Calcio,Alessandro Conticchio,28,Italy,Central Midfield,CM,-,US Lecce,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-conticchio/profil/spieler/21879
+Torino Calcio,Alessandro Campo,18,Italy,Right Winger,RW,-,AC Prato,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-campo/profil/spieler/82681
+Torino Calcio,Luca Mezzano,24,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+Torino Calcio,Andrea Soncin,18,Italy,Centre-Back,CB,-,AC Perugia,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-soncin/profil/spieler/406304
+Torino Calcio,Andrea Mantovani,18,Italy,Centre-Back,CB,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-mantovani/profil/spieler/21935
+Torino Calcio,Fabio Giordano,18,Italy,Defensive Midfield,DM,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-giordano/profil/spieler/22326
+Torino Calcio,Segun Omolade,19,Nigeria,Forward,Forward,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/segun-omolade/profil/spieler/169824
+Torino Calcio,Federico Marchetti,19,Italy,Goalkeeper,GK,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/federico-marchetti/profil/spieler/22318
+Torino Calcio,Ronaldo Vanin,19,Brazil,Right-Back,RB,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ronaldo-vanin/profil/spieler/32111
+Torino Calcio,Stefano Bianciardi,17,Italy,Left-Back,LB,-,Torino Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-bianciardi/profil/spieler/161069
+Juventus FC,Marco Di Vaio,26,Italy,Centre-Forward,CF,-,AC Parma,Italy,£18.90m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+Juventus FC,Manuele Blasi,21,Italy,Central Midfield,CM,-,AC Perugia,Italy,£15.93m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+Juventus FC,Mauro Camoranesi,25,Italy,Right Midfield,RM,-,Hellas Verona,Italy,£7.65m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mauro-camoranesi/profil/spieler/5762
+Juventus FC,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,£6.75m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-miccoli/profil/spieler/6097
+Juventus FC,Rubén Olivera,19,Uruguay,Central Midfield,CM,-,Danubio FC,Uruguay,£5.61m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ruben-olivera/profil/spieler/5768
+Juventus FC,Abdoulay Konko,18,France,Right-Back,RB,-,Genoa CFC Youth,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/abdoulay-konko/profil/spieler/22139
+Juventus FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/emiliano-moretti/profil/spieler/5755
+Juventus FC,Mattia Cassani,18,Italy,Right-Back,RB,-,Canavese Youth,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mattia-cassani/profil/spieler/21859
+Juventus FC,Antonio Chimenti,32,Italy,Goalkeeper,GK,-,US Lecce,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-chimenti/profil/spieler/5745
+Juventus FC,Daniele Gastaldello,19,Italy,Centre-Back,CB,-,Calcio Padova,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-gastaldello/profil/spieler/7096
+Juventus FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-baiocco/profil/spieler/5761
+Juventus FC,Salvatore Fresi,29,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-fresi/profil/spieler/5754
+Juventus FC,Aboubacar Fofana,19,France,Left Midfield,LM,-,Juventus Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/aboubacar-fofana/profil/spieler/10256
+Atalanta BC,Apostolos Liolidis,24,Greece,Right Winger,RW,-,Aris Thessaloniki,Greece,£810Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/apostolos-liolidis/profil/spieler/12870
+Atalanta BC,Carmine Gautieri,31,Italy,Right Winger,RW,-,Piacenza FC,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/carmine-gautieri/profil/spieler/19440
+Atalanta BC,Santos,20,Brazil,Centre-Back,CB,-,Comercial Futebol Clube (SP),Brazil,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/santos/profil/spieler/19439
+Atalanta BC,Ivan Javorcic,23,Croatia,Defensive Midfield,DM,-,ACD Treviso,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ivan-javorcic/profil/spieler/23227
+Atalanta BC,Danilo Zini,24,Italy,Centre-Back,CB,-,US Pistoiese 1921,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/danilo-zini/profil/spieler/84575
+Como Calcio,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,NK Varteks Varazdin,Croatia,£2.25m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sasa-bjelanovic/profil/spieler/22187
+Como Calcio,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Fenerbahce SK,Turkey,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nikola-lazetic/profil/spieler/5919
+Como Calcio,Vincenzo Chianese,26,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-chianese/profil/spieler/57793
+Como Calcio,Fabrizio Ferron,36,Italy,Goalkeeper,GK,-,Hellas Verona,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-ferron/profil/spieler/3523
+Como Calcio,Giuseppe Greco,18,Italy,Centre-Forward,CF,-,FC Pavia 1911,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-greco/profil/spieler/44137
+Como Calcio,Ciro De Cesare,30,Italy,Second Striker,SS,-,Chievo Verona,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ciro-de-cesare/profil/spieler/147617
+Como Calcio,Benny Carbone,30,Italy,Second Striker,SS,-,Middlesbrough FC,England,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/benny-carbone/profil/spieler/3389
+Como Calcio,Massimo Tarantino,31,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-tarantino/profil/spieler/28873
+Como Calcio,Jean-Paul van Gastel,30,Netherlands,Centre-Back,CB,-,Ternana Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jean-paul-van-gastel/profil/spieler/151086
+Como Calcio,Jonatan Binotto,27,Italy,Right Winger,RW,-,FC Internazionale,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jonatan-binotto/profil/spieler/28009
+Como Calcio,Stjepan Tomas,26,Croatia,Centre-Back,CB,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/stjepan-tomas/profil/spieler/13937
+Como Calcio,Benoît Cauet,33,France,Central Midfield,CM,-,Torino Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/benoit-cauet/profil/spieler/15882
+Como Calcio,Marco Rossi,24,Italy,Right Midfield,RM,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-rossi/profil/spieler/21955
+Como Calcio,Mirko Benin,24,Italy,Attacking Midfield,AM,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mirko-benin/profil/spieler/30619
+Como Calcio,Pasquale Padalino,29,Italy,Centre-Back,CB,-,FC Internazionale,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/pasquale-padalino/profil/spieler/151799
+Como Calcio,Niccolò Guzzo,19,Italy,Right-Back,RB,-,Fiorentina Primavera,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/niccolo-guzzo/profil/spieler/173609
+Como Calcio,Milan Zahalka,25,Czech Republic,Goalkeeper,GK,-,Carrarese Calcio 1908,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/milan-zahalka/profil/spieler/186551
+Como Calcio,Fabio Pecchia,28,Italy,Right Midfield,RM,-,Bologna FC 1909,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-pecchia/profil/spieler/16871
+Como Calcio,Juarez,28,Brazil,Right-Back,RB,-,US Lecce,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/juarez/profil/spieler/28012
+Piacenza FC,Marco Stella,21,Italy,Midfielder,Midfielder,-,Delfino Pescara 1936,Italy,£630Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-stella/profil/spieler/21898
+Piacenza FC,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,AC Parma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/johnnier-montano/profil/spieler/84326
+Piacenza FC,Mauro Óbolo,20,Argentina,Centre-Forward,CF,-,Club Atlético Vélez Sarsfield,Argentina,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mauro-obolo/profil/spieler/52074
+Piacenza FC,Ibrahim Babatunde,17,Nigeria,Centre-Forward,CF,-,AC Arezzo,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ibrahim-babatunde/profil/spieler/20220
+Piacenza FC,Amedeo Mangone,33,Italy,Left-Back,LB,-,Brescia Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/amedeo-mangone/profil/spieler/21793
+Piacenza FC,Dario Marcolin,30,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/dario-marcolin/profil/spieler/3510
+Piacenza FC,Maurizio Franzone,33,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/maurizio-franzone/profil/spieler/173733
+Piacenza FC,Simone Paoletti,18,Italy,Goalkeeper,GK,-,Cagliese Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/simone-paoletti/profil/spieler/342750
+Piacenza FC,Sergey Gurenko,29,Belarus,Right-Back,RB,-,AC Parma,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sergey-gurenko/profil/spieler/9627
+Piacenza FC,Luigi Riccio,24,Italy,Central Midfield,CM,-,Ternana Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-riccio/profil/spieler/21802
+Piacenza FC,Alessandro Rinaldi,27,Italy,Right-Back,RB,-,Chievo Verona,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-rinaldi/profil/spieler/147455
+Piacenza FC,Enzo Maresca,22,Italy,Central Midfield,CM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/enzo-maresca/profil/spieler/16651
+Piacenza FC,Hugo Campagnaro,22,Argentina,Centre-Back,CB,-,CD Morón,Argentina,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/hugo-campagnaro/profil/spieler/21782
+Piacenza FC,Matteo Abbate,18,Italy,Centre-Back,CB,-,Piacenza Juniores,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-abbate/profil/spieler/21774
+FC Internazionale,Hernán Crespo,27,Argentina,Centre-Forward,CF,-,SS Lazio,Italy,£32.40m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/hernan-crespo/profil/spieler/3410
+FC Internazionale,Fabio Cannavaro,28,Italy,Centre-Back,CB,-,AC Parma,Italy,£20.70m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-cannavaro/profil/spieler/5775
+FC Internazionale,Francesco Coco,25,Italy,Left-Back,LB,-,Milan AC,Italy,£20.25m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-coco/profil/spieler/3508
+FC Internazionale,Matías Almeyda,28,Argentina,Defensive Midfield,DM,-,AC Parma,Italy,£19.89m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matias-almeyda/profil/spieler/5792
+FC Internazionale,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,£3.60m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/bernardo-corradi/profil/spieler/5851
+FC Internazionale,Ümit Davala,28,Turkey,Right Midfield,RM,-,Milan AC,Italy,£1.80m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/umit-davala/profil/spieler/3381
+FC Internazionale,Daniele Adani,27,Italy,Centre-Back,CB,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-adani/profil/spieler/5774
+FC Internazionale,Domenico Morfeo,26,Italy,Attacking Midfield,AM,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/domenico-morfeo/profil/spieler/5786
+FC Internazionale,Carlos Gamarra,31,Paraguay,Centre-Back,CB,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/carlos-gamarra/profil/spieler/5779
+FC Internazionale,Alessio Scarpi,29,Italy,Goalkeeper,GK,-,Cagliari Calcio,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessio-scarpi/profil/spieler/6809
+FC Internazionale,Giuseppe Ticli,23,Italy,Left Midfield,LM,-,AC Reggiana 1919,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-ticli/profil/spieler/268583
+FC Internazionale,Giovanni Pasquale,20,Italy,Left-Back,LB,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giovanni-pasquale/profil/spieler/5793
+FC Internazionale,Obafemi Martins,17,Nigeria,Centre-Forward,CF,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/obafemi-martins/profil/spieler/5794
+FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-quadri/profil/spieler/40482
+FC Internazionale,Goran Pandev,18,North Macedonia,Second Striker,SS,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/goran-pandev/profil/spieler/12563
+FC Internazionale,Mattia Altobelli,19,Italy,Attacking Midfield,AM,-,Inter Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mattia-altobelli/profil/spieler/7332
+Milan AC,Alessandro Nesta,26,Italy,Centre-Back,CB,-,SS Lazio,Italy,£27.90m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-nesta/profil/spieler/4171
+Milan AC,Clarence Seedorf,26,Netherlands,Central Midfield,CM,-,FC Internazionale,Italy,£20.25m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/clarence-seedorf/profil/spieler/4168
+Milan AC,Martin Laursen,24,Denmark,Centre-Back,CB,-,AC Parma,Italy,£9.90m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/martin-laursen/profil/spieler/3503
+Milan AC,Dario Simic,26,Croatia,Centre-Back,CB,-,FC Internazionale,Italy,£4.50m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/dario-simic/profil/spieler/2540
+Milan AC,Samuele Dalla Bona,21,Italy,Central Midfield,CM,-,Chelsea FC,England,£1.44m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/samuele-dalla-bona/profil/spieler/4291
+Milan AC,Rivaldo,30,Brazil,Attacking Midfield,AM,-,FC Barcelona,Spain,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/rivaldo/profil/spieler/3372
+Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/leonardo/profil/spieler/102586
+Milan AC,Jon Dahl Tomasson,25,Denmark,Centre-Forward,CF,-,Feyenoord Rotterdam,Netherlands,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jon-dahl-tomasson/profil/spieler/4169
+Milan AC,Catilina Aubameyang,18,Gabon,Left Midfield,LM,-,Milan Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/catilina-aubameyang/profil/spieler/33324
+SS Lazio,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£10.80m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/bernardo-corradi/profil/spieler/5851
+SS Lazio,Massimo Oddo,26,Italy,Right-Back,RB,-,Hellas Verona,Italy,£1.35m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-oddo/profil/spieler/5837
+SS Lazio,Enrico Chiesa,31,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/enrico-chiesa/profil/spieler/7329
+SS Lazio,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,Chievo Verona,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-manfredini/profil/spieler/5850
+SS Lazio,Juan Pablo Sorín,26,Argentina,Left-Back,LB,-,Cruzeiro Esporte Clube,Brazil,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/juan-pablo-sorin/profil/spieler/7925
+SS Lazio,Patrizio Pascucci,18,Italy,Forward,Forward,-,Lazio Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/patrizio-pascucci/profil/spieler/10420
+AC Parma,Adriano,20,Brazil,Centre-Forward,CF,-,FC Internazionale,Italy,£13.05m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/adriano/profil/spieler/5876
+AC Parma,Alberto Gilardino,19,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,£10.80m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-gilardino/profil/spieler/5878
+AC Parma,Adrian Mutu,23,Romania,Centre-Forward,CF,-,Hellas Verona,Italy,£9.00m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/adrian-mutu/profil/spieler/5879
+AC Parma,Mark Bresciano,22,Australia,Central Midfield,CM,-,FC Empoli,Italy,£6.30m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mark-bresciano/profil/spieler/5867
+AC Parma,Matteo Brighi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,£4.50m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-brighi/profil/spieler/5868
+AC Parma,Christian Terlizzi,22,Italy,Centre-Back,CB,-,Teramo Calcio 1913,Italy,£495Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-terlizzi/profil/spieler/20941
+AC Parma,Vratislav Gresko,24,Slovakia,Left-Back,LB,-,FC Internazionale,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/vratislav-gresko/profil/spieler/71
+AC Parma,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Milan AC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-donati/profil/spieler/5870
+AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+AC Parma,Alex Gibbs,18,Italy,Centre-Forward,CF,-,Calcio Monza,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alex-gibbs/profil/spieler/16894
+AC Parma,Matuzalém,22,Brazil,Defensive Midfield,DM,-,Piacenza FC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matuzalem/profil/spieler/5974
+AC Parma,Gabriel Oyola,19,Argentina,Centre-Back,CB,-,Club Atlético Talleres,Argentina,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/gabriel-oyola/profil/spieler/5863
+AC Parma,Daniele Bonera,21,Italy,Centre-Back,CB,-,Brescia Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-bonera/profil/spieler/5856
+AC Parma,Sebastiano Siviglia,29,Italy,Centre-Back,CB,-,AS Roma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sebastiano-siviglia/profil/spieler/5864
+AC Parma,Emanuele Filippini,28,Italy,Central Midfield,CM,-,Brescia Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-filippini/profil/spieler/5871
+AC Parma,Roberto Massaro,18,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-massaro/profil/spieler/5874
+AC Parma,Francesco Ruopolo,19,Italy,Centre-Forward,CF,-,Parma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-ruopolo/profil/spieler/25325
+Udinese Calcio,Marek Jankulovski,25,Czech Republic,Left-Back,LB,-,SSC Napoli,Italy,£3.15m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marek-jankulovski/profil/spieler/3532
+Udinese Calcio,Carsten Jancker,27,Germany,Centre-Forward,CF,-,Bayern Munich,Germany,£2.25m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/carsten-jancker/profil/spieler/202
+Udinese Calcio,Thomas Thorninger,29,Denmark,Centre-Forward,CF,-,FC Copenhagen,Denmark,£900Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/thomas-thorninger/profil/spieler/22933
+Udinese Calcio,Giuseppe Gemiti,21,Germany,Left-Back,LB,-,Eintracht Frankfurt,Germany,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-gemiti/profil/spieler/735
+Udinese Calcio,Néstor Sensini,35,Argentina,Centre-Back,CB,-,AC Parma,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nestor-sensini/profil/spieler/5882
+Udinese Calcio,Patrick Beneforti,21,France,Attacking Midfield,AM,-,SC Bastia,France,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/patrick-beneforti/profil/spieler/5903
+Udinese Calcio,Fabio Rossitto,30,Italy,Right Midfield,RM,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-rossitto/profil/spieler/6296
+Udinese Calcio,Pavel Grznar,23,Czech Republic,Left-Back,LB,-,FC Viktoria Plzen,Czech Republic,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/pavel-grznar/profil/spieler/21027
+Udinese Calcio,Felipe,17,Brazil,Centre-Back,CB,-,Udinese Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/felipe/profil/spieler/17127
+Udinese Calcio,Sulley Muntari,17,Ghana,Central Midfield,CM,-,Udinese Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sulley-muntari/profil/spieler/17129
+Chievo Verona,Björn Runström,18,Sweden,Centre-Forward,CF,-,Bologna FC 1909,Italy,£450Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/bjorn-runstrom/profil/spieler/3454
+Chievo Verona,Francesco Magnanelli,17,Italy,Defensive Midfield,DM,-,AS Gubbio 1910,Italy,£45Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-magnanelli/profil/spieler/7093
+Chievo Verona,Oliver Bierhoff,34,Germany,Centre-Forward,CF,-,AS Monaco,France,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/oliver-bierhoff/profil/spieler/56
+Chievo Verona,John Mensah,19,Ghana,Centre-Back,CB,-,Genoa CFC,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/john-mensah/profil/spieler/5917
+Chievo Verona,Daniel Andersson,24,Sweden,Centre-Back,CB,-,AC Venezia 1907,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniel-andersson/profil/spieler/3456
+Chievo Verona,Lilian Nalis,30,France,Central Midfield,CM,-,SC Bastia,France,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/lilian-nalis/profil/spieler/5923
+Chievo Verona,Ivano Della Morte,27,Italy,Central Midfield,CM,-,Vicenza Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ivano-della-morte/profil/spieler/5926
+Chievo Verona,Mattia Passarini,21,Italy,Goalkeeper,GK,-,US Sassuolo,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mattia-passarini/profil/spieler/41936
+Chievo Verona,Michael Zago,21,Italy,Central Midfield,CM,-,AC Trento ,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/michael-zago/profil/spieler/621860
+Chievo Verona,Emanuele Pesaresi,25,Italy,Left-Back,LB,-,SS Lazio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-pesaresi/profil/spieler/5840
+Chievo Verona,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Como Calcio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nikola-lazetic/profil/spieler/5919
+Chievo Verona,Ivone De Franceschi,28,Italy,Left Winger,LW,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ivone-de-franceschi/profil/spieler/5924
+Chievo Verona,Marcos De Paula,18,Brazil,Centre-Forward,CF,-,Chievo Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marcos-de-paula/profil/spieler/7103
+Chievo Verona,Jin-ho Lee,17,"Korea, South",Centre-Forward,CF,-,,Without Club,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jin-ho-lee/profil/spieler/92098
+Chievo Verona,Giuseppe Aquaro,19,Switzerland,Centre-Back,CB,-,Chievo Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-aquaro/profil/spieler/33755
+AS Roma,Christian Panucci,29,Italy,Right-Back,RB,-,AS Monaco,France,£8.83m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+AS Roma,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,Brescia Calcio,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/pep-guardiola/profil/spieler/5950
+AS Roma,Davide Bombardini,28,Italy,Left Midfield,LM,-,US Palermo,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-bombardini/profil/spieler/5956
+AS Roma,Traianos Dellas,26,Greece,Centre-Back,CB,-,AC Perugia,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/traianos-dellas/profil/spieler/5944
+AS Roma,Luigi Sartor,27,Italy,Right-Back,RB,-,AC Parma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-sartor/profil/spieler/5941
+AS Roma,Damiano Ferronetti,17,Italy,Centre-Back,CB,-,Roma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/damiano-ferronetti/profil/spieler/5948
+AS Roma,Alberto Aquilani,17,Italy,Central Midfield,CM,-,Roma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-aquilani/profil/spieler/5957
+AS Roma,Christian Scarlato,18,Italy,Midfielder,Midfielder,-,Roma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-scarlato/profil/spieler/28856
+AS Roma,Daniele De Rossi,18,Italy,Defensive Midfield,DM,-,Roma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-de-rossi/profil/spieler/5947
+AS Roma,Cesare Bovo,19,Italy,Centre-Back,CB,-,Roma Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/cesare-bovo/profil/spieler/5946
+Brescia Calcio,Stephen Appiah,21,Ghana,Defensive Midfield,DM,-,AC Parma,Italy,£4.10m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/stephen-appiah/profil/spieler/5975
+Brescia Calcio,Anthony Seric,23,Croatia,Left-Back,LB,-,Hellas Verona,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/anthony-seric/profil/spieler/5967
+Brescia Calcio,Davide Micillo,31,Italy,Goalkeeper,GK,-,Cosenza Calcio 1914,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-micillo/profil/spieler/5965
+Brescia Calcio,Gilberto Martínez,22,Costa Rica,Centre-Back,CB,-,Deportivo Saprissa,Costa Rica,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/gilberto-martinez/profil/spieler/5969
+Brescia Calcio,Jonathan Bachini,27,Italy,Right Midfield,RM,-,AC Parma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+Brescia Calcio,Marco Pisano,20,Italy,Left-Back,LB,-,Taranto FC 1927,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-pisano/profil/spieler/16901
+Brescia Calcio,Matteo Sereni,27,Italy,Goalkeeper,GK,-,Ipswich Town,England,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-sereni/profil/spieler/5964
+Brescia Calcio,Marius Stankevicius,20,Lithuania,Centre-Back,CB,-,Ekranas Panevezys,Lithuania,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marius-stankevicius/profil/spieler/5966
+Brescia Calcio,Matuzalém,22,Brazil,Defensive Midfield,DM,-,AC Parma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matuzalem/profil/spieler/5974
+Brescia Calcio,Giordano Paganotto,17,Italy,Defender,Defender,-,Brescia Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giordano-paganotto/profil/spieler/277803
+Brescia Calcio,Víctor Mareco,18,Paraguay,Centre-Back,CB,-,Brescia Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/victor-mareco/profil/spieler/16898
+AC Perugia,Konstantinos Louboutis,23,Greece,Left-Back,LB,-,Aris Thessaloniki,Greece,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/konstantinos-louboutis/profil/spieler/22808
+AC Perugia,Sebastiano Rossi,37,Italy,Goalkeeper,GK,-,Milan AC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sebastiano-rossi/profil/spieler/106923
+AC Perugia,Paolo Zaccagnini,25,Italy,Right Midfield,RM,-,Chieti Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-zaccagnini/profil/spieler/497467
+AC Perugia,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,Juventus FC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-miccoli/profil/spieler/6097
+AC Perugia,Andrea Caracciolo,20,Italy,Centre-Forward,CF,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-caracciolo/profil/spieler/6098
+AC Perugia,William Viali,27,Italy,Centre-Back,CB,-,US Palermo,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/william-viali/profil/spieler/6082
+AC Perugia,Luigi Pagliuca,22,Italy,Right Winger,RW,-,AC Prato,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-pagliuca/profil/spieler/21998
+AC Perugia,Tiago Calvano,21,Brazil,Centre-Back,CB,-,Botafogo Rio de Janeiro,Brazil,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/tiago-calvano/profil/spieler/32479
+AC Perugia,Lorenzo Crocetti,18,Italy,Centre-Forward,CF,-,Fiorentina Primavera,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/lorenzo-crocetti/profil/spieler/143995
+AC Perugia,Jung-hwan Ahn,26,"Korea, South",Second Striker,SS,-,Busan I'Cons,"Korea, South",?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/jung-hwan-ahn/profil/spieler/3489
+AC Perugia,Zeljko Kalac,29,Australia,Goalkeeper,GK,-,Roda JC Kerkrade,Netherlands,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/zeljko-kalac/profil/spieler/6079
+AC Perugia,Roberto Baronio,24,Italy,Defensive Midfield,DM,-,SS Lazio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-baronio/profil/spieler/6089
+AC Perugia,Giuseppe Aprea,25,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-aprea/profil/spieler/8192
+AC Perugia,Antonio Criniti,31,Italy,Forward,Forward,-,US Sambenedettese,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-criniti/profil/spieler/6099
+AC Perugia,Giovanni Sulcis,27,Italy,Midfielder,Midfielder,-,Cagliari Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giovanni-sulcis/profil/spieler/151892
+AC Perugia,Manuele Blasi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+AC Perugia,Cyril Gona,17,Nigeria,Defensive Midfield,DM,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/cyril-gona/profil/spieler/16895
+AC Perugia,Emanuele Berrettoni,21,Italy,Second Striker,SS,-,Lazio Primavera,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-berrettoni/profil/spieler/6094
+AC Perugia,Daniele Cacciaglia,20,Italy,Central Midfield,CM,-,Perugia Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-cacciaglia/profil/spieler/22592
+Bologna FC 1909,Paolo Vanoli,30,Italy,Left-Back,LB,-,Florentia Viola,Italy,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-vanoli/profil/spieler/4290
+Bologna FC 1909,Alessandro Frara,19,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-frara/profil/spieler/6004
+Bologna FC 1909,Leonardo Colucci,29,Italy,Central Midfield,CM,-,Hellas Verona,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/leonardo-colucci/profil/spieler/6000
+Bologna FC 1909,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,Como Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-ardito/profil/spieler/15332
+Bologna FC 1909,Andrea Pansera,22,Italy,Goalkeeper,GK,-,UC AlbinoLeffe,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-pansera/profil/spieler/5987
+Bologna FC 1909,Michele Paramatti,34,Italy,Left-Back,LB,-,Juventus FC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/michele-paramatti/profil/spieler/5990
+Bologna FC 1909,Marco Zanchi,25,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-zanchi/profil/spieler/5991
+Bologna FC 1909,Christian Amoroso,25,Italy,Central Midfield,CM,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-amoroso/profil/spieler/5995
+Bologna FC 1909,Claudio Terzi,18,Italy,Centre-Back,CB,-,Bologna Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/claudio-terzi/profil/spieler/16873
+Bologna FC 1909,Mourad Meghni,18,Algeria,Attacking Midfield,AM,-,Bologna Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mourad-meghni/profil/spieler/6003
+FC Empoli,Amauri,22,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,£135Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/amauri/profil/spieler/6234
+FC Empoli,Antonio Buscè,26,Italy,Right Midfield,RM,-,AC Lumezzane,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-busce/profil/spieler/17174
+FC Empoli,Frank Lagana,17,Australia,Central Midfield,CM,-,FFA Centre of Excellence,Australia,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/frank-lagana/profil/spieler/119902
+FC Empoli,Stefano Lucchini,21,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-lucchini/profil/spieler/6012
+FC Empoli,Ighli Vannucchi,24,Italy,Attacking Midfield,AM,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/ighli-vannucchi/profil/spieler/6022
+FC Empoli,David Bret,18,France,Goalkeeper,GK,-,HSC Montpellier,France,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/david-bret/profil/spieler/6011
+FC Empoli,Luca Saudati,23,Italy,Centre-Forward,CF,-,Atalanta BC,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-saudati/profil/spieler/6029
+FC Empoli,Gaetano Grieco,19,Italy,Centre-Forward,CF,-,AC Parma,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/gaetano-grieco/profil/spieler/6032
+FC Empoli,Alessandro Agostini,22,Italy,Left-Back,LB,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-agostini/profil/spieler/17171
+FC Empoli,Mario Cassano,18,Italy,Goalkeeper,GK,-,Florentia Viola,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/mario-cassano/profil/spieler/16748
+FC Empoli,Francesco Lodi,18,Italy,Defensive Midfield,DM,-,Empoli Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-lodi/profil/spieler/6033
+FC Empoli,Christian Paoletti,17,Italy,Goalkeeper,GK,-,Empoli Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-paoletti/profil/spieler/164227
+Modena FC,Giuseppe Sculli,21,Italy,Left Winger,LW,-,Juventus FC,Italy,Loan fee:£360Th.,In,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-sculli/profil/spieler/6046
+Modena FC,Alessandro Zamperini,19,Italy,Centre-Back,CB,-,Portsmouth FC,England,Free transfer,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-zamperini/profil/spieler/6039
+Modena FC,Simone Pavan,28,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/simone-pavan/profil/spieler/17149
+Modena FC,Nicola Corrent,22,Italy,Central Midfield,CM,-,Milan AC,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-corrent/profil/spieler/21813
+Modena FC,Marco Zamboni,24,Italy,Centre-Back,CB,-,Udinese Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Modena FC,Matteo Pivotto,27,Italy,Right-Back,RB,-,US Palermo,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-pivotto/profil/spieler/17150
+Modena FC,Marcello Albino,30,Italy,Left Winger,LW,-,Ancona Calcio,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/marcello-albino/profil/spieler/6045
+Modena FC,Sofiane Zaaboub,19,Algeria,Left Midfield,LM,-,AS Saint-Étienne,France,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/sofiane-zaaboub/profil/spieler/32062
+Modena FC,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Chievo Verona,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/diomansy-kamara/profil/spieler/6053
+Modena FC,Nicola Campedelli,23,Italy,Right Midfield,RM,-,US Salernitana,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-campedelli/profil/spieler/6044
+Modena FC,Alessio Sestu,18,Italy,Right Winger,RW,-,Lazio Primavera,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/alessio-sestu/profil/spieler/23367
+Modena FC,Andrea Sentimenti,17,Italy,Goalkeeper,GK,-,Modena Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-sentimenti/profil/spieler/17151
+Modena FC,Enrico Po,17,Italy,Midfielder,Midfielder,-,Modena Primavera,Italy,-,In,2002,s,serie-a,https://www.transfermarkt.co.uk/enrico-po/profil/spieler/403605
+Reggina Calcio,Carlos Paredes,25,Paraguay,Defensive Midfield,DM,-,FC Porto,Portugal,£4.32m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/carlos-paredes/profil/spieler/6068
+Reggina Calcio,Shunsuke Nakamura,24,Japan,Attacking Midfield,AM,-,Yokohama F. Marinos,Japan,£1.80m,In,2002,s,serie-a,https://www.transfermarkt.co.uk/shunsuke-nakamura/profil/spieler/6069
+Reggina Calcio,David Di Michele,26,Italy,Centre-Forward,CF,-,Udinese Calcio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/david-di-michele/profil/spieler/6076
+Reggina Calcio,Riccardo Alderuccio,18,Italy,Defender,Defender,-,,Unknown,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/riccardo-alderuccio/profil/spieler/151854
+Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Cosenza Calcio 1914,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/nassim-mendil/profil/spieler/28854
+Reggina Calcio,Massimo Rastelli,33,Italy,Right Winger,RW,-,SSC Napoli,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-rastelli/profil/spieler/6077
+Reggina Calcio,Roberto Cardinale,21,Italy,Centre-Back,CB,-,US Salernitana,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-cardinale/profil/spieler/22796
+Reggina Calcio,Julio de León,22,Honduras,Attacking Midfield,AM,-,Celano FC Marsica,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/julio-de-leon/profil/spieler/6074
+Reggina Calcio,Luca Castellazzi,26,Italy,Goalkeeper,GK,-,Brescia Calcio,Italy,Loan,In,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-castellazzi/profil/spieler/6058
+Reggina Calcio,Roberto Mafucci,17,Italy,Forward,Forward,-,,Unknown,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-mafucci/profil/spieler/151882
+Reggina Calcio,Gianluca Falsini,26,Italy,Left-Back,LB,-,AC Parma,Italy,?,In,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-falsini/profil/spieler/6063
+Torino Calcio,Franco Semioli,22,Italy,Right Winger,RW,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/franco-semioli/profil/spieler/6154
+Torino Calcio,Antonino Asta,31,Italy,Right Midfield,RM,-,US Palermo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/antonino-asta/profil/spieler/192381
+Torino Calcio,Benoît Cauet,33,France,Central Midfield,CM,-,Como Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/benoit-cauet/profil/spieler/15882
+Torino Calcio,Massimo Brambilla,29,Italy,Central Midfield,CM,-,AC Siena,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-brambilla/profil/spieler/20727
+Torino Calcio,Emanuele Calaiò,20,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-calaio/profil/spieler/22268
+Torino Calcio,Giorgio Venturin,33,Italy,Central Midfield,CM,-,Taranto FC 1927,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giorgio-venturin/profil/spieler/180554
+Torino Calcio,Tiziano Turchetti,22,Italy,Forward,Forward,-,US Viterbese,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/tiziano-turchetti/profil/spieler/515095
+Torino Calcio,Federico Marchetti,19,Italy,Goalkeeper,GK,-,US Pro Vercelli,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/federico-marchetti/profil/spieler/22318
+Torino Calcio,Alessandro Cibocchi,19,Italy,Left-Back,LB,-,US Viterbese,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-cibocchi/profil/spieler/21812
+Torino Calcio,Fabio Quagliarella,19,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-quagliarella/profil/spieler/22328
+Torino Calcio,Djibril Diawara,27,Senegal,Centre-Back,CB,-,,Unknown,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/djibril-diawara/profil/spieler/171813
+Torino Calcio,Abdullah Fusseini,20,Ghana,Midfielder,Midfielder,-,AS Gualdo Casacastalda,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/abdullah-fusseini/profil/spieler/227420
+Torino Calcio,Stefano Bianciardi,17,Italy,Left-Back,LB,-,US Pistoiese 1921,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-bianciardi/profil/spieler/161069
+Torino Calcio,Daniele Martinelli,20,Italy,Centre-Back,CB,-,AC Siena,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-martinelli/profil/spieler/21761
+Torino Calcio,Gabriele Paoletti,24,Italy,Goalkeeper,GK,-,SS Virtus Lanciano,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gabriele-paoletti/profil/spieler/34339
+Torino Calcio,Simone Tiribocchi,24,Italy,Centre-Forward,CF,-,AC Siena,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/simone-tiribocchi/profil/spieler/21700
+Torino Calcio,Luca Mezzano,24,Italy,Centre-Back,CB,-,FC Internazionale,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+Juventus FC,Matteo Brighi,21,Italy,Central Midfield,CM,-,AC Parma,Italy,£4.50m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-brighi/profil/spieler/5868
+Juventus FC,Vincent Péricard,19,France,Centre-Forward,CF,-,Portsmouth FC,England,£540Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vincent-pericard/profil/spieler/3970
+Juventus FC,Giuseppe Sculli,21,Italy,Left Winger,LW,-,Modena FC,Italy,Loan fee:£360Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-sculli/profil/spieler/6046
+Juventus FC,Cristian Zenoni,25,Italy,Right-Back,RB,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cristian-zenoni/profil/spieler/6794
+Juventus FC,Fabrizio Miccoli,23,Italy,Centre-Forward,CF,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabrizio-miccoli/profil/spieler/6097
+Juventus FC,Aboubacar Fofana,19,France,Left Midfield,LM,-,PAOK Thessaloniki,Greece,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/aboubacar-fofana/profil/spieler/10256
+Juventus FC,Alessandro Frara,19,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-frara/profil/spieler/6004
+Juventus FC,Luigi Lavecchia,20,Italy,Right Midfield,RM,-,Ascoli Calcio 1898,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-lavecchia/profil/spieler/19244
+Juventus FC,Enzo Maresca,22,Italy,Central Midfield,CM,-,Piacenza FC,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/enzo-maresca/profil/spieler/16651
+Juventus FC,Michele Paramatti,34,Italy,Left-Back,LB,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/michele-paramatti/profil/spieler/5990
+Juventus FC,Fabián Carini,22,Uruguay,Goalkeeper,GK,-,Standard Liège,Belgium,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabian-carini/profil/spieler/13444
+Juventus FC,Francesco Scardina,20,Italy,Centre-Back,CB,-,PAOK Thessaloniki,Greece,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-scardina/profil/spieler/22144
+Juventus FC,Marco Zanchi,25,Italy,Centre-Back,CB,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-zanchi/profil/spieler/5991
+Juventus FC,Andrea Gentile,22,Italy,Central Midfield,CM,-,US Triestina,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-gentile/profil/spieler/19220
+Juventus FC,Manuele Blasi,21,Italy,Central Midfield,CM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+Juventus FC,Tomás Guzmán,20,Paraguay,Attacking Midfield,AM,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/tomas-guzman/profil/spieler/19228
+Juventus FC,Massimiliano Vieri,23,Australia,Centre-Forward,CF,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-vieri/profil/spieler/6148
+Juventus FC,Felice Piccolo,18,Italy,Centre-Back,CB,-,AS Lucchese Libertas,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/felice-piccolo/profil/spieler/28029
+Juventus FC,Andrea Gasbarroni,20,Italy,Second Striker,SS,-,UC Sampdoria,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-gasbarroni/profil/spieler/20967
+Juventus FC,Michelangelo Rampulla,39,Italy,Goalkeeper,GK,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/michelangelo-rampulla/profil/spieler/11808
+Atalanta BC,Luca Saudati,23,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-saudati/profil/spieler/6029
+Atalanta BC,Ljubisa Dundjerski,30,Serbia,Central Midfield,CM,-,ACD Treviso,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ljubisa-dundjerski/profil/spieler/28677
+Atalanta BC,Nicholas Caglioni,19,Italy,Goalkeeper,GK,-,Uso Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicholas-caglioni/profil/spieler/28010
+Atalanta BC,Massimo Paganin,31,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-paganin/profil/spieler/22207
+Atalanta BC,Joelson,18,Brazil,Right Winger,RW,-,FC Pavia 1911,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/joelson/profil/spieler/23233
+Atalanta BC,Corrado Colombo,22,Italy,Centre-Forward,CF,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/corrado-colombo/profil/spieler/21231
+Atalanta BC,Biagio Pagano,19,Italy,Right Winger,RW,-,AC Lumezzane,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/biagio-pagano/profil/spieler/16899
+Atalanta BC,Pierluigi Orlandini,29,Italy,Right Midfield,RM,-,SSD Città di Brindisi,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pierluigi-orlandini/profil/spieler/160215
+Atalanta BC,Luca Cavalli,24,Italy,Central Midfield,CM,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-cavalli/profil/spieler/192781
+Atalanta BC,Gianluca Falsini,26,Italy,Left-Back,LB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-falsini/profil/spieler/6063
+Como Calcio,Luis Oliveira,33,Belgium,Centre-Forward,CF,-,Calcio Catania,Italy,£450Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luis-oliveira/profil/spieler/22087
+Como Calcio,Francesco Pedone,34,Italy,Right Midfield,RM,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-pedone/profil/spieler/16900
+Como Calcio,Luca Del Chiaro,21,Italy,Defender,Defender,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-del-chiaro/profil/spieler/297186
+Como Calcio,Nicola Zanini,28,Italy,Attacking Midfield,AM,-,US Triestina,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-zanini/profil/spieler/22218
+Como Calcio,Vincenzo Chianese,26,Italy,Centre-Forward,CF,-,ACD Treviso,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-chianese/profil/spieler/57793
+Como Calcio,Fabio Gallo,31,Italy,Defensive Midfield,DM,-,ACD Treviso,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-gallo/profil/spieler/23358
+Como Calcio,Stephen Makinwa,18,Nigeria,Centre-Forward,CF,-,AC Reggiana 1919,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stephen-makinwa/profil/spieler/17146
+Como Calcio,Davide Olivares,30,Italy,Midfielder,Midfielder,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-olivares/profil/spieler/216816
+Como Calcio,Simone Bridarolli,20,Italy,Forward,Forward,-,,Unknown,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/simone-bridarolli/profil/spieler/496282
+Como Calcio,Roberto Colacone,28,Italy,Second Striker,SS,-,Vicenza Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-colacone/profil/spieler/22312
+Como Calcio,Christian Terni,30,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-terni/profil/spieler/28859
+Como Calcio,Marco Nappi,36,Italy,Second Striker,SS,-,Savona FBC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-nappi/profil/spieler/120420
+Como Calcio,Massimo Lombardini,30,Italy,Midfielder,Midfielder,-,US Alessandria Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-lombardini/profil/spieler/227667
+Como Calcio,Andrea Corti,19,Italy,Defender,Defender,-,US Canzese,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-corti/profil/spieler/496281
+Como Calcio,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-ardito/profil/spieler/15332
+Como Calcio,Francesco Bega,27,Italy,Centre-Back,CB,-,US Triestina,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-bega/profil/spieler/21904
+Como Calcio,Nikola Lazetic,24,Serbia,Right Winger,RW,-,Chievo Verona,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nikola-lazetic/profil/spieler/5919
+Como Calcio,Alfredo Femiano,23,Italy,Defensive Midfield,DM,-,AS Lucchese Libertas,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alfredo-femiano/profil/spieler/102263
+Como Calcio,Cristiano Pavone,30,Italy,Left-Back,LB,-,FC Messina Peloro,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cristiano-pavone/profil/spieler/199923
+Como Calcio,Vincenzo Pandullo,31,Italy,Defender,Defender,-,Legnano AC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-pandullo/profil/spieler/370921
+Como Calcio,Gianluca Spinelli,35,Italy,Goalkeeper,GK,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-spinelli/profil/spieler/299514
+Como Calcio,Nicola Corrent,22,Italy,Central Midfield,CM,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-corrent/profil/spieler/21813
+Como Calcio,Ljubisa Dundjerski,30,Serbia,Central Midfield,CM,-,Atalanta BC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ljubisa-dundjerski/profil/spieler/28677
+Piacenza FC,Sergio Volpi,28,Italy,Central Midfield,CM,-,UC Sampdoria,Italy,£3.15m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sergio-volpi/profil/spieler/16908
+Piacenza FC,Amauri,22,Italy,Centre-Forward,CF,-,FC Empoli,Italy,£135Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/amauri/profil/spieler/6234
+Piacenza FC,Carmine Gautieri,31,Italy,Right Winger,RW,-,Atalanta BC,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/carmine-gautieri/profil/spieler/19440
+Piacenza FC,Lorenzo Liverani,18,Italy,Defender,Defender,-,FC Pavia 1911,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/lorenzo-liverani/profil/spieler/249725
+Piacenza FC,Daniele Cacia,18,Italy,Centre-Forward,CF,-,Ternana Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-cacia/profil/spieler/21780
+Piacenza FC,Nicola Mora,22,Italy,Left-Back,LB,-,AS Bari,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-mora/profil/spieler/30649
+Piacenza FC,Marco Comotto,18,Italy,Centre-Back,CB,-,Imolese Calcio 1919,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-comotto/profil/spieler/309064
+Piacenza FC,Francesco Zerbini,22,Italy,Centre-Forward,CF,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-zerbini/profil/spieler/21899
+Piacenza FC,Davide Bagnacani,22,Italy,Goalkeeper,GK,-,ASD Castel di Sangro,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-bagnacani/profil/spieler/21777
+Piacenza FC,Alessandro Lucarelli,24,Italy,Centre-Back,CB,-,US Palermo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-lucarelli/profil/spieler/28022
+Piacenza FC,Francesco Statuto,30,Italy,Central Midfield,CM,-,Torino Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-statuto/profil/spieler/151891
+Piacenza FC,Roberto Maltagliati,33,Italy,Centre-Back,CB,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-maltagliati/profil/spieler/20742
+Piacenza FC,Matuzalém,22,Brazil,Defensive Midfield,DM,-,AC Parma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matuzalem/profil/spieler/5974
+Piacenza FC,Paolo Poggi,31,Italy,Centre-Forward,CF,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-poggi/profil/spieler/7432
+Piacenza FC,Vincenzo Sommese,26,Italy,Right Winger,RW,-,Vicenza Calcio,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vincenzo-sommese/profil/spieler/16854
+FC Internazionale,Ronaldo,25,Brazil,Centre-Forward,CF,-,Real Madrid,Spain,£40.50m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ronaldo/profil/spieler/3140
+FC Internazionale,Clarence Seedorf,26,Netherlands,Central Midfield,CM,-,Milan AC,Italy,£20.25m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/clarence-seedorf/profil/spieler/4168
+FC Internazionale,Adriano,20,Brazil,Centre-Forward,CF,-,AC Parma,Italy,£13.05m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/adriano/profil/spieler/5876
+FC Internazionale,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,SS Lazio,Italy,£10.80m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/bernardo-corradi/profil/spieler/5851
+FC Internazionale,Dario Simic,26,Croatia,Centre-Back,CB,-,Milan AC,Italy,£4.50m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/dario-simic/profil/spieler/2540
+FC Internazionale,Grigoris Georgatos,29,Greece,Left-Back,LB,-,AEK Athens,Greece,£2.70m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/grigoris-georgatos/profil/spieler/9873
+FC Internazionale,Sixto Peralta,23,Argentina,Central Midfield,CM,-,Racing Club,Argentina,£1.80m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sixto-peralta/profil/spieler/55962
+FC Internazionale,Ümit Davala,29,Turkey,Right Midfield,RM,-,Galatasaray SK,Turkey,Loan fee:£450Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/umit-davala/profil/spieler/3381
+FC Internazionale,Goran Pandev,19,North Macedonia,Second Striker,SS,-,Spezia Calcio 1906,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/goran-pandev/profil/spieler/12563
+FC Internazionale,Vratislav Gresko,24,Slovakia,Left-Back,LB,-,AC Parma,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vratislav-gresko/profil/spieler/71
+FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Spezia Calcio 1906,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-quadri/profil/spieler/40482
+FC Internazionale,Drazen Brncic,30,Croatia,Attacking Midfield,AM,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/drazen-brncic/profil/spieler/6105
+FC Internazionale,Anselmo Robbiati,32,Italy,Left Winger,LW,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/anselmo-robbiati/profil/spieler/6816
+FC Internazionale,Luca Mezzano,24,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-mezzano/profil/spieler/21888
+FC Internazionale,Alessio Scarpi,29,Italy,Goalkeeper,GK,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessio-scarpi/profil/spieler/6809
+FC Internazionale,Pasquale Padalino,29,Italy,Centre-Back,CB,-,Como Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pasquale-padalino/profil/spieler/151799
+FC Internazionale,Giuseppe Ticli,23,Italy,Left Midfield,LM,-,Calcio Monza,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-ticli/profil/spieler/268583
+FC Internazionale,Paolo Ginestra,23,Italy,Goalkeeper,GK,-,US Sassuolo,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-ginestra/profil/spieler/29565
+FC Internazionale,Jonatan Binotto,27,Italy,Right Winger,RW,-,Como Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jonatan-binotto/profil/spieler/28009
+FC Internazionale,Filippo Catenacci,17,Italy,Midfielder,Midfielder,-,US Alessandria Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/filippo-catenacci/profil/spieler/444510
+Milan AC,Francesco Coco,25,Italy,Left-Back,LB,-,FC Internazionale,Italy,£20.25m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-coco/profil/spieler/3508
+Milan AC,Javi Moreno,27,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,£11.70m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/javi-moreno/profil/spieler/7768
+Milan AC,Cosmin Contra,26,Romania,Right-Back,RB,-,Atlético Madrid,Spain,£2.70m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cosmin-contra/profil/spieler/5808
+Milan AC,Ümit Davala,28,Turkey,Right Midfield,RM,-,FC Internazionale,Italy,£1.80m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/umit-davala/profil/spieler/3381
+Milan AC,Cyril Domoraud,30,Cote d'Ivoire,Centre-Back,CB,-,RCD Espanyol Barcelona,Spain,£1.35m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cyril-domoraud/profil/spieler/6149
+Milan AC,Fabricio Coloccini,20,Argentina,Centre-Back,CB,-,Atlético Madrid,Spain,Loan fee:£90Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabricio-coloccini/profil/spieler/6150
+Milan AC,Mohamed Sarr,18,Senegal,Centre-Back,CB,-,Galatasaray SK,Turkey,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mohamed-sarr/profil/spieler/19450
+Milan AC,Pablo García,25,Uruguay,Defensive Midfield,DM,-,CA Osasuna,Spain,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pablo-garcia/profil/spieler/7737
+Milan AC,Paolo Sammarco,19,Italy,Central Midfield,CM,-,US Viterbese,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-sammarco/profil/spieler/7101
+Milan AC,José Mari,23,Spain,Centre-Forward,CF,-,Atlético Madrid,Spain,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jose-mari/profil/spieler/6194
+Milan AC,Nicola Corrent,22,Italy,Central Midfield,CM,-,Modena FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-corrent/profil/spieler/21813
+Milan AC,Luca Antonini,19,Italy,Left-Back,LB,-,Ancona Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-antonini/profil/spieler/6792
+Milan AC,Demetrio Albertini,30,Italy,Defensive Midfield,DM,-,Atlético Madrid,Spain,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/demetrio-albertini/profil/spieler/3390
+Milan AC,Vitali Kutuzov,22,Belarus,Centre-Forward,CF,-,Sporting CP,Portugal,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vitali-kutuzov/profil/spieler/6506
+Milan AC,Daniele Daino,22,Italy,Right-Back,RB,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-daino/profil/spieler/15458
+Milan AC,Gabriele Aldegani,26,Italy,Goalkeeper,GK,-,AS Livorno,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gabriele-aldegani/profil/spieler/28828
+Milan AC,Mattia Graffiedi,22,Italy,Centre-Forward,CF,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mattia-graffiedi/profil/spieler/6395
+Milan AC,Sebastiano Rossi,37,Italy,Goalkeeper,GK,-,AC Perugia,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sebastiano-rossi/profil/spieler/106923
+Milan AC,Massimo Donati,21,Italy,Defensive Midfield,DM,-,AC Parma,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-donati/profil/spieler/5870
+Milan AC,Andrea Rabito,22,Italy,Right Winger,RW,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-rabito/profil/spieler/21765
+Milan AC,Maurizio Domizzi,22,Italy,Centre-Back,CB,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/maurizio-domizzi/profil/spieler/6750
+Milan AC,Aliyu Datti,20,Nigeria,Centre-Forward,CF,-,AC Siena,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/aliyu-datti/profil/spieler/13436
+Milan AC,Marco Donadel,19,Italy,Defensive Midfield,DM,-,US Lecce,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-donadel/profil/spieler/6427
+Milan AC,Martin Laursen,24,Denmark,Centre-Back,CB,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/martin-laursen/profil/spieler/3503
+Milan AC,Marco Simone,33,Italy,Centre-Forward,CF,-,AS Monaco,France,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-simone/profil/spieler/3524
+SS Lazio,Hernán Crespo,27,Argentina,Centre-Forward,CF,-,FC Internazionale,Italy,£32.40m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/hernan-crespo/profil/spieler/3410
+SS Lazio,Alessandro Nesta,26,Italy,Centre-Back,CB,-,Milan AC,Italy,£27.90m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-nesta/profil/spieler/4171
+SS Lazio,Gaizka Mendieta,28,Spain,Right Midfield,RM,-,FC Barcelona,Spain,Loan fee:£1.35m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gaizka-mendieta/profil/spieler/7603
+SS Lazio,Patrizio Pascucci,18,Italy,Forward,Forward,-,L'Aquila Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/patrizio-pascucci/profil/spieler/10420
+SS Lazio,Karel Poborsky,30,Czech Republic,Right Midfield,RM,-,AC Sparta Praha,Czech Republic,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/karel-poborsky/profil/spieler/3420
+SS Lazio,Emanuele Pesaresi,25,Italy,Left-Back,LB,-,Chievo Verona,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-pesaresi/profil/spieler/5840
+SS Lazio,Alberto Comazzi,23,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alberto-comazzi/profil/spieler/21857
+SS Lazio,Gasperino Cinelli,20,Italy,Centre-Forward,CF,-,FC Aprilia Racing Club,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gasperino-cinelli/profil/spieler/482984
+SS Lazio,Roberto Baronio,24,Italy,Defensive Midfield,DM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-baronio/profil/spieler/6089
+SS Lazio,Diego Favazza,19,Italy,Goalkeeper,GK,-,Teramo Calcio 1913,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/diego-favazza/profil/spieler/249060
+SS Lazio,Felice Evacuo,19,Italy,Centre-Forward,CF,-,Florentia Viola,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/felice-evacuo/profil/spieler/5852
+AC Parma,Fabio Cannavaro,28,Italy,Centre-Back,CB,-,FC Internazionale,Italy,£20.70m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-cannavaro/profil/spieler/5775
+AC Parma,Matías Almeyda,28,Argentina,Defensive Midfield,DM,-,FC Internazionale,Italy,£19.89m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matias-almeyda/profil/spieler/5792
+AC Parma,Marco Di Vaio,26,Italy,Centre-Forward,CF,-,Juventus FC,Italy,£18.90m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-di-vaio/profil/spieler/4170
+AC Parma,Martin Laursen,24,Denmark,Centre-Back,CB,-,Milan AC,Italy,£9.90m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/martin-laursen/profil/spieler/3503
+AC Parma,Stephen Appiah,21,Ghana,Defensive Midfield,DM,-,Brescia Calcio,Italy,£4.10m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stephen-appiah/profil/spieler/5975
+AC Parma,Savo Milosevic,28,Serbia,Centre-Forward,CF,-,RCD Espanyol Barcelona,Spain,Loan fee:£2.70m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/savo-milosevic/profil/spieler/7896
+AC Parma,Martin Djetou,27,France,Centre-Back,CB,-,Fulham FC,England,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/martin-djetou/profil/spieler/3725
+AC Parma,Néstor Sensini,35,Argentina,Centre-Back,CB,-,Udinese Calcio,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nestor-sensini/profil/spieler/5882
+AC Parma,Johan Micoud,29,France,Attacking Midfield,AM,-,SV Werder Bremen,Germany,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/johan-micoud/profil/spieler/2713
+AC Parma,Zlatko Zebic,23,Jugoslawien (SFR),Attacking Midfield,AM,-,MFK Košice,Slovakia,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/zlatko-zebic/profil/spieler/579859
+AC Parma,Gianluca Falsini,26,Italy,Left-Back,LB,-,Reggina Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-falsini/profil/spieler/6063
+AC Parma,Jorge Bolaño,25,Colombia,Central Midfield,CM,-,UC Sampdoria,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jorge-bolano/profil/spieler/16974
+AC Parma,Christian Terlizzi,22,Italy,Centre-Back,CB,-,AC Cesena,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-terlizzi/profil/spieler/20941
+AC Parma,Gaetano Grieco,19,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gaetano-grieco/profil/spieler/6032
+AC Parma,Andrea Staffolani,19,Italy,Centre-Forward,CF,-,Vis Pesaro dal 1898,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-staffolani/profil/spieler/82742
+AC Parma,Gabriele Giaroli,21,Italy,Goalkeeper,GK,-,US Sassuolo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gabriele-giaroli/profil/spieler/566044
+AC Parma,Matuzalém,22,Brazil,Defensive Midfield,DM,-,Brescia Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matuzalem/profil/spieler/5974
+AC Parma,Giampiero Maini,30,Italy,Defensive Midfield,DM,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giampiero-maini/profil/spieler/16851
+AC Parma,Francesco Ruopolo,19,Italy,Centre-Forward,CF,-,Pro Patria Gallaratese GB,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-ruopolo/profil/spieler/25325
+AC Parma,Gianluca De Angelis,21,Italy,Centre-Forward,CF,-,Hellas Verona,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-de-angelis/profil/spieler/21993
+AC Parma,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,Piacenza FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/johnnier-montano/profil/spieler/84326
+AC Parma,Alain Boghossian,31,France,Central Midfield,CM,-,RCD Espanyol Barcelona,Spain,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alain-boghossian/profil/spieler/4148
+AC Parma,Jonathan Bachini,27,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+AC Parma,Sergey Gurenko,29,Belarus,Right-Back,RB,-,Piacenza FC,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sergey-gurenko/profil/spieler/9627
+AC Parma,Luigi Sartor,27,Italy,Right-Back,RB,-,AS Roma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-sartor/profil/spieler/5941
+AC Parma,Paolo Poggi,31,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/paolo-poggi/profil/spieler/7432
+AC Parma,Hakan Sükür,31,Turkey,Centre-Forward,CF,-,,Without Club,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/hakan-sukur/profil/spieler/3363
+AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+Udinese Calcio,Dimitrios Nalitzis,26,Greece,Centre-Forward,CF,-,AEK Athens,Greece,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/dimitrios-nalitzis/profil/spieler/9855
+Udinese Calcio,Carlos Pavón,28,Honduras,Centre-Forward,CF,-,SSC Napoli,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/carlos-pavon/profil/spieler/35362
+Udinese Calcio,Mauricio Pineda,26,Argentina,Left-Back,LB,-,Cagliari Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mauricio-pineda/profil/spieler/106109
+Udinese Calcio,Elijah Louhenapessy,25,Netherlands,Defensive Midfield,DM,-,Polisportiva Tamai,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/elijah-louhenapessy/profil/spieler/108137
+Udinese Calcio,Luigi Turci,32,Italy,Goalkeeper,GK,-,UC Sampdoria,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luigi-turci/profil/spieler/6745
+Udinese Calcio,Ousmane Sanda Sanda,20,Cameroon,Midfielder,Midfielder,-,FC Sporting Benevento,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ousmane-sanda-sanda/profil/spieler/137394
+Udinese Calcio,Gennaro Scarlato,25,Italy,Centre-Back,CB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gennaro-scarlato/profil/spieler/21758
+Udinese Calcio,Winston Parks,20,Costa Rica,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/winston-parks/profil/spieler/9655
+Udinese Calcio,Marco Zamboni,24,Italy,Centre-Back,CB,-,Modena FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Udinese Calcio,Fábio César Montezine,23,Qatar,Left Midfield,LM,-,SSC Napoli,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-cesar-montezine/profil/spieler/32099
+Udinese Calcio,Anthony Basso,22,France,Goalkeeper,GK,-,FC Sporting Benevento,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/anthony-basso/profil/spieler/26749
+Udinese Calcio,Luis Helguera,26,Spain,Defensive Midfield,DM,-,Deportivo Alavés,Spain,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luis-helguera/profil/spieler/16845
+Udinese Calcio,Zlatan Muslimovic,21,Bosnia-Herzegovina,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/zlatan-muslimovic/profil/spieler/30650
+Udinese Calcio,Terrence Genaux,18,Belgium,Centre-Back,CB,-,FC Sporting Benevento,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/terrence-genaux/profil/spieler/52378
+Udinese Calcio,David Di Michele,26,Italy,Centre-Forward,CF,-,Reggina Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/david-di-michele/profil/spieler/6076
+Udinese Calcio,Mauro Esposito,23,Italy,Right Winger,RW,-,Cagliari Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mauro-esposito/profil/spieler/20735
+Udinese Calcio,Roberto Sosa,27,Argentina,Centre-Forward,CF,-,Club Atlético Boca Juniors,Argentina,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-sosa/profil/spieler/19285
+Udinese Calcio,Esteban Lopez,25,Spain,Right-Back,RB,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/esteban-lopez/profil/spieler/228554
+Udinese Calcio,Régis Genaux,28,Belgium,Right-Back,RB,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/regis-genaux/profil/spieler/5891
+Udinese Calcio,Jorge Cordero,25,Spain,Midfielder,Midfielder,-,Ciudad Murcia (liq.),Spain,,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jorge-cordero/profil/spieler/29150
+Udinese Calcio,Isaac,22,Spain,Left Winger,LW,-,Ciudad Murcia (liq.),Spain,"End of loanJun 1, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/isaac/profil/spieler/57936
+Udinese Calcio,Marcos Paulo,25,Brazil,Central Midfield,CM,-,Cruzeiro Esporte Clube,Brazil,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marcos-paulo/profil/spieler/13808
+Chievo Verona,Bernardo Corradi,26,Italy,Centre-Forward,CF,-,FC Internazionale,Italy,£3.60m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/bernardo-corradi/profil/spieler/5851
+Chievo Verona,Fabio Firmani,24,Italy,Central Midfield,CM,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-firmani/profil/spieler/22083
+Chievo Verona,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,SS Lazio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-manfredini/profil/spieler/5850
+Chievo Verona,Patrice Grillon,22,France,Defender,Defender,-,FCO Dijon,France,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/patrice-grillon/profil/spieler/161437
+Chievo Verona,Giuseppe Aquaro,19,Switzerland,Centre-Back,CB,-,Foggia Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giuseppe-aquaro/profil/spieler/33755
+Chievo Verona,Stefano Garzon,20,Italy,Defensive Midfield,DM,-,US Alessandria Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-garzon/profil/spieler/28836
+Chievo Verona,Francesco Quintavalla,20,Italy,Right-Back,RB,-,Poggese Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-quintavalla/profil/spieler/102050
+Chievo Verona,Ciro De Cesare,30,Italy,Second Striker,SS,-,Como Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ciro-de-cesare/profil/spieler/147617
+Chievo Verona,Cleiton Da Silva Lima,19,Brazil,Midfielder,Midfielder,-,AC Mantova 1911,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cleiton-da-silva-lima/profil/spieler/767502
+Chievo Verona,Davide Succi,20,Italy,Centre-Forward,CF,-,Calcio Padova,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-succi/profil/spieler/29208
+Chievo Verona,Francesco Carbone,22,Italy,Right-Back,RB,-,AC Siena,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-carbone/profil/spieler/7106
+Chievo Verona,Alessandro Rinaldi,27,Italy,Right-Back,RB,-,Piacenza FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-rinaldi/profil/spieler/147455
+Chievo Verona,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Modena FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/diomansy-kamara/profil/spieler/6053
+Chievo Verona,Simone Barone,24,Italy,Central Midfield,CM,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/simone-barone/profil/spieler/5866
+Chievo Verona,Massimiliano Esposito,30,Italy,Right Midfield,RM,-,Brescia Calcio,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimiliano-esposito/profil/spieler/21817
+AS Roma,Franco Brienza,23,Italy,Attacking Midfield,AM,-,US Palermo,Italy,£4.95m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/franco-brienza/profil/spieler/16137
+AS Roma,Sebastián Cejas,27,Argentina,Goalkeeper,GK,-,AC Siena,Italy,£180Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sebastian-cejas/profil/spieler/21146
+AS Roma,Antônio Carlos Zago,33,Brazil,Centre-Back,CB,-,Besiktas JK,Turkey,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-carlos-zago/profil/spieler/6913
+AS Roma,Christian Scarlato,18,Italy,Midfielder,Midfielder,-,AC Prato,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-scarlato/profil/spieler/28856
+AS Roma,Marcos Assunção,25,Brazil,Central Midfield,CM,-,Real Betis Balompié,Spain,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marcos-assuncao/profil/spieler/7654
+AS Roma,Giordano Meloni,19,Italy,Right Winger,RW,-,AC Cesena,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giordano-meloni/profil/spieler/24311
+AS Roma,Gustavo Vassallo,23,Peru,Centre-Forward,CF,-,CD Alcalá,Spain,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gustavo-vassallo/profil/spieler/20326
+AS Roma,Massimo Bonanni,20,Italy,Left Midfield,LM,-,Panachaiki GE,Greece,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-bonanni/profil/spieler/22188
+AS Roma,Sebastiano Siviglia,29,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sebastiano-siviglia/profil/spieler/5864
+AS Roma,Daniele De Vezze,22,Italy,Central Midfield,CM,-,AC Reggiana 1919,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-de-vezze/profil/spieler/21147
+AS Roma,Cesare Bovo,19,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cesare-bovo/profil/spieler/5946
+AS Roma,Christian Panucci,29,Italy,Right-Back,RB,-,AS Monaco,France,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/christian-panucci/profil/spieler/5940
+Brescia Calcio,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,AS Roma,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pep-guardiola/profil/spieler/5950
+Brescia Calcio,Sandro Grande,24,Canada,Defensive Midfield,DM,-,Potenza Sport Club,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/sandro-grande/profil/spieler/34472
+Brescia Calcio,Federico Agliardi,19,Italy,Goalkeeper,GK,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/federico-agliardi/profil/spieler/16888
+Brescia Calcio,Matteo Tacchini,21,Italy,Midfielder,Midfielder,-,US Sassuolo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-tacchini/profil/spieler/321840
+Brescia Calcio,Aimo Diana,24,Italy,Right Midfield,RM,-,AC Parma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+Brescia Calcio,Andrea Caracciolo,20,Italy,Centre-Forward,CF,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-caracciolo/profil/spieler/6098
+Brescia Calcio,Mauro Bacchin,32,Italy,Goalkeeper,GK,-,Nocerina 1910,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mauro-bacchin/profil/spieler/226400
+Brescia Calcio,Amedeo Mangone,33,Italy,Left-Back,LB,-,Piacenza FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/amedeo-mangone/profil/spieler/21793
+Brescia Calcio,Alessandro Calori,35,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-calori/profil/spieler/21831
+Brescia Calcio,Andrea Sussi,28,Italy,Left-Back,LB,-,Ternana Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-sussi/profil/spieler/12565
+Brescia Calcio,Angelo Danotti,22,Italy,Left-Back,LB,-,ASD Acireale Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/angelo-danotti/profil/spieler/83375
+Brescia Calcio,Luca Castellazzi,26,Italy,Goalkeeper,GK,-,Reggina Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/luca-castellazzi/profil/spieler/6058
+Brescia Calcio,Andrés Yllana,28,Argentina,Central Midfield,CM,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andres-yllana/profil/spieler/30792
+Brescia Calcio,Emanuele Filippini,28,Italy,Central Midfield,CM,-,AC Parma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/emanuele-filippini/profil/spieler/5871
+Brescia Calcio,Raúl González,26,Argentina,Forward,Forward,-,FC Crotone,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/raul-gonzalez/profil/spieler/30922
+Brescia Calcio,Stefano Tignonsini,20,Italy,Centre-Back,CB,-,AC Palazzolo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-tignonsini/profil/spieler/148885
+Brescia Calcio,Stefano Brognoli,19,Italy,Central Midfield,CM,-,Varese FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-brognoli/profil/spieler/139610
+Brescia Calcio,Daniele Bonera,21,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-bonera/profil/spieler/5856
+Brescia Calcio,Ermanno Leoni,21,Italy,Midfielder,Midfielder,-,US Sassuolo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ermanno-leoni/profil/spieler/338954
+Brescia Calcio,Cyril Gona,17,Nigeria,Defensive Midfield,DM,-,AC Perugia,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/cyril-gona/profil/spieler/16895
+Brescia Calcio,Jonathan Bachini,27,Italy,Right Midfield,RM,-,AC Parma,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jonathan-bachini/profil/spieler/5972
+Brescia Calcio,Jonatan Binotto,27,Italy,Right Winger,RW,-,FC Internazionale,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jonatan-binotto/profil/spieler/28009
+AC Perugia,Manuele Blasi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,£15.93m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/manuele-blasi/profil/spieler/6090
+AC Perugia,Giovanni Proietti,25,Italy,Goalkeeper,GK,-,AC Arezzo,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giovanni-proietti/profil/spieler/23294
+AC Perugia,Traianos Dellas,26,Greece,Centre-Back,CB,-,AS Roma,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/traianos-dellas/profil/spieler/5944
+AC Perugia,Denis André Dasoul,18,Belgium,Right-Back,RB,-,KRC Genk,Belgium,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/denis-andre-dasoul/profil/spieler/13922
+AC Perugia,Andrea Soncin,18,Italy,Centre-Back,CB,-,Torino Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-soncin/profil/spieler/406304
+AC Perugia,Daniele Cacciaglia,20,Italy,Central Midfield,CM,-,ASD Sora Calcio 1907,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-cacciaglia/profil/spieler/22592
+AC Perugia,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-baiocco/profil/spieler/5761
+AC Perugia,Nicolás Cinalli,22,Argentina,Goalkeeper,GK,-,Varese FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicolas-cinalli/profil/spieler/22135
+AC Perugia,Andrea Mazzantini,33,Italy,Goalkeeper,GK,-,AC Siena,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-mazzantini/profil/spieler/192722
+AC Perugia,Fabian Michel jean Jacquemin,21,Belgium,Midfielder,Midfielder,-,Fermana Calcio 1920,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabian-michel-jean-jacquemin/profil/spieler/780011
+AC Perugia,Nicolás Córdova,23,Chile,Central Midfield,CM,-,AS Bari,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicolas-cordova/profil/spieler/21230
+AC Perugia,Jung-hwan Ahn,26,"Korea, South",Second Striker,SS,-,Shimizu S-Pulse,Japan,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jung-hwan-ahn/profil/spieler/3489
+AC Perugia,Salvatore Monaco,29,Italy,Centre-Back,CB,-,Calcio Catania,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-monaco/profil/spieler/22086
+AC Perugia,Gennaro Delvecchio,24,Italy,Central Midfield,CM,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gennaro-delvecchio/profil/spieler/22080
+AC Perugia,Gianluca Petrachi,33,Italy,Midfielder,Midfielder,-,Taranto FC 1927,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gianluca-petrachi/profil/spieler/227503
+AC Perugia,Hilário Leal,28,Portugal,Right-Back,RB,-,FC Maia,Portugal,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/hilario-leal/profil/spieler/195579
+AC Perugia,Juan Turchi,26,Argentina,Centre-Forward,CF,-,US Sambenedettese,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/juan-turchi/profil/spieler/102399
+AC Perugia,Fabio Gatti,20,Italy,Defensive Midfield,DM,-,Calcio Catania,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-gatti/profil/spieler/22804
+AC Perugia,Fabián O'Neill,28,Uruguay,Attacking Midfield,AM,-,Cagliari Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabian-oneill/profil/spieler/130290
+AC Perugia,Óscar Córdoba,32,Colombia,Goalkeeper,GK,-,Club Atlético Boca Juniors,Argentina,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/oscar-cordoba/profil/spieler/6862
+AC Perugia,Roberto Goretti,26,Italy,Defensive Midfield,DM,-,Bologna FC 1909,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/roberto-goretti/profil/spieler/6002
+AC Perugia,Ali Samereh,24,Iran,Centre-Forward,CF,-,Esteghlal FC,Iran,"End of loanJun 1, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ali-samereh/profil/spieler/24681
+AC Perugia,Jung-hwan Ahn,26,"Korea, South",Second Striker,SS,-,Busan i.cons,"Korea, South","End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/jung-hwan-ahn/profil/spieler/3489
+AC Perugia,Fabio Bazzani,25,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-bazzani/profil/spieler/9089
+AC Perugia,Daniele Daino,22,Italy,Right-Back,RB,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/daniele-daino/profil/spieler/15458
+Bologna FC 1909,Björn Runström,18,Sweden,Centre-Forward,CF,-,Chievo Verona,Italy,£450Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/bjorn-runstrom/profil/spieler/3454
+Bologna FC 1909,Pierre Womé,23,Cameroon,Left-Back,LB,-,Fulham FC,England,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pierre-wome/profil/spieler/3329
+Bologna FC 1909,Alessandro Gamberini,20,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-gamberini/profil/spieler/16868
+Bologna FC 1909,Massimo Tarantino,31,Italy,Left-Back,LB,-,Como Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-tarantino/profil/spieler/28873
+Bologna FC 1909,Fabio Pecchia,28,Italy,Right Midfield,RM,-,Como Calcio,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-pecchia/profil/spieler/16871
+Bologna FC 1909,Gennaro Fragiello,18,Italy,Centre-Forward,CF,-,AC Fanfulla 1874,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/gennaro-fragiello/profil/spieler/28017
+Bologna FC 1909,Lamberto Zauli,30,Italy,Attacking Midfield,AM,-,US Palermo,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/lamberto-zauli/profil/spieler/6396
+Bologna FC 1909,Salvatore Fresi,29,Italy,Centre-Back,CB,-,Juventus FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-fresi/profil/spieler/5754
+Bologna FC 1909,Matteo Brighi,21,Italy,Central Midfield,CM,-,Juventus FC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/matteo-brighi/profil/spieler/5868
+Bologna FC 1909,Fabio Firmani,24,Italy,Central Midfield,CM,-,Chievo Verona,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/fabio-firmani/profil/spieler/22083
+FC Empoli,Massimo Maccarone,22,Italy,Centre-Forward,CF,-,Middlesbrough FC,England,£11.14m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/massimo-maccarone/profil/spieler/3713
+FC Empoli,Mark Bresciano,22,Australia,Central Midfield,CM,-,AC Parma,Italy,£6.30m,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mark-bresciano/profil/spieler/5867
+FC Empoli,Davide Matteini,20,Italy,Left Winger,LW,-,Pro Patria Gallaratese GB,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-matteini/profil/spieler/29593
+FC Empoli,Amauri,22,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,Loan fee:£14Th.,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/amauri/profil/spieler/6234
+FC Empoli,Pietro Fusco,30,Italy,Defender,Defender,-,Calcio Catania,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/pietro-fusco/profil/spieler/6014
+FC Empoli,Filippo Zacchei,21,Italy,Right Winger,RW,-,US Sambenedettese,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/filippo-zacchei/profil/spieler/6027
+FC Empoli,Ibrahim Abdul Razak,19,Ghana,Attacking Midfield,AM,-,AS Saint-Étienne,France,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/ibrahim-abdul-razak/profil/spieler/12519
+FC Empoli,Claudio Coralli,19,Italy,Centre-Forward,CF,-,SS Tivoli 1919,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/claudio-coralli/profil/spieler/47652
+FC Empoli,Salvatore Mastronunzio,22,Italy,Centre-Forward,CF,-,Fermana Calcio 1920,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-mastronunzio/profil/spieler/43224
+FC Empoli,Antonio Schetter,20,Italy,Right Winger,RW,£45Th.,FC Viribus Somma 100,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-schetter/profil/spieler/57139
+FC Empoli,Riccardo Bonetto,23,Italy,Left-Back,LB,-,Ascoli Calcio 1898,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/riccardo-bonetto/profil/spieler/17173
+FC Empoli,Davide Moro,20,Italy,Central Midfield,CM,-,Sangiovannese 1927,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-moro/profil/spieler/28841
+FC Empoli,Federico Mazzei,18,Italy,Goalkeeper,GK,-,US Grosseto FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/federico-mazzei/profil/spieler/780444
+Modena FC,Amadou Sanokho,22,France,Defensive Midfield,DM,-,AC Firenze Rondinella,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/amadou-sanokho/profil/spieler/24796
+Modena FC,Giovanni Orfei,26,Italy,Centre-Back,CB,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/giovanni-orfei/profil/spieler/6048
+Modena FC,Emiliano Tarana,23,Italy,Right Winger,RW,-,Ancona Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/emiliano-tarana/profil/spieler/21803
+Modena FC,Enrico Fantini,26,Italy,Centre-Forward,CF,-,AC Venezia 1907,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/enrico-fantini/profil/spieler/21149
+Modena FC,Marco Veronese,26,Italy,Centre-Forward,CF,-,Vicenza Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/marco-veronese/profil/spieler/7105
+Modena FC,Rubens Pasino,30,Italy,Attacking Midfield,AM,-,SSC Napoli,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/rubens-pasino/profil/spieler/6054
+Modena FC,Vito Grieco,31,Italy,Centre-Back,CB,-,Calcio Catania,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/vito-grieco/profil/spieler/22084
+Modena FC,Mauro Zironelli,32,Italy,Midfielder,Midfielder,-,Associazione Calcio Thiene,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mauro-zironelli/profil/spieler/314705
+Modena FC,Diomansy Kamara,21,Senegal,Right Winger,RW,-,Chievo Verona,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/diomansy-kamara/profil/spieler/6053
+Modena FC,Andrea Rabito,22,Italy,Right Winger,RW,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/andrea-rabito/profil/spieler/21765
+Modena FC,Maurizio Domizzi,22,Italy,Centre-Back,CB,-,Milan AC,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/maurizio-domizzi/profil/spieler/6750
+Reggina Calcio,Mario La Canna,24,Italy,Right Winger,RW,-,SP Ars et Labor,Italy,Free transfer,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/mario-la-canna/profil/spieler/124936
+Reggina Calcio,Arnauld Mercier,30,France,Centre-Back,CB,-,Valenciennes FC,France,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/arnauld-mercier/profil/spieler/288473
+Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Calcio Catania,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nassim-mendil/profil/spieler/28854
+Reggina Calcio,Antonio Giosa,18,Italy,Centre-Back,CB,-,AS Cittadella Padova,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/antonio-giosa/profil/spieler/22112
+Reggina Calcio,Stefano Dall'Acqua,20,Italy,Centre-Forward,CF,-,AS Cittadella Padova,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-dallacqua/profil/spieler/23352
+Reggina Calcio,Davide Dionigi,28,Italy,Centre-Forward,CF,-,SSC Napoli,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/davide-dionigi/profil/spieler/28015
+Reggina Calcio,Salvatore Vicari,21,Italy,Right Midfield,RM,-,FC Messina Peloro,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-vicari/profil/spieler/24333
+Reggina Calcio,Graziano Ursino,19,Italy,Defender,Defender,-,Ragusa Calcio,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/graziano-ursino/profil/spieler/556481
+Reggina Calcio,Nicola Carlo Pagani,24,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/nicola-carlo-pagani/profil/spieler/43225
+Reggina Calcio,Stefano Casale,31,Italy,Right Midfield,RM,-,Cosenza Calcio 1914,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/stefano-casale/profil/spieler/226061
+Reggina Calcio,Alessandro Zoppetti,23,Italy,Centre-Back,CB,-,US Lecce,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/alessandro-zoppetti/profil/spieler/28876
+Reggina Calcio,Salvatore Ricca,18,Italy,Centre-Back,CB,-,Fermana Calcio 1920,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/salvatore-ricca/profil/spieler/44295
+Reggina Calcio,Maurizio Franzone,33,Italy,Goalkeeper,GK,-,Piacenza FC,Italy,?,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/maurizio-franzone/profil/spieler/173733
+Reggina Calcio,Francesco Cester,21,Italy,Forward,Forward,-,,Retired,-,Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-cester/profil/spieler/485560
+Reggina Calcio,Francesco Baldini,28,Italy,Centre-Back,CB,-,SSC Napoli,Italy,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/francesco-baldini/profil/spieler/21901
+Reggina Calcio,Damián Álvarez,24,Mexico,Left Winger,LW,-,Club Atlético River Plate,Argentina,"End of loanJun 30, 2002",Out,2002,s,serie-a,https://www.transfermarkt.co.uk/damian-alvarez/profil/spieler/52588
+Torino Calcio,Carlos Marinelli,20,Argentina,Attacking Midfield,AM,-,Middlesbrough FC,England,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/carlos-marinelli/profil/spieler/29613
+Torino Calcio,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Milan AC,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/massimo-donati/profil/spieler/5870
+Torino Calcio,Alexander Manninger,25,Austria,Goalkeeper,GK,-,,Without Club,-,In,2002,w,serie-a,https://www.transfermarkt.co.uk/alexander-manninger/profil/spieler/5278
+Atalanta BC,Davor Vugrinec,27,Croatia,Centre-Forward,CF,-,US Lecce,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/davor-vugrinec/profil/spieler/15328
+Atalanta BC,Natale Gonnella,26,Italy,Centre-Back,CB,-,Hellas Verona,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/natale-gonnella/profil/spieler/19441
+Atalanta BC,Paolo Tramezzani,32,Italy,Left-Back,LB,-,Piacenza FC,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/paolo-tramezzani/profil/spieler/6406
+Como Calcio,Nicola Caccia,32,Italy,Centre-Forward,CF,-,Piacenza FC,Italy,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-caccia/profil/spieler/21912
+Como Calcio,Nicola Amoruso,28,Italy,Centre-Forward,CF,-,AC Perugia,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-amoruso/profil/spieler/4150
+Como Calcio,Luca Belingheri,19,Italy,Attacking Midfield,AM,-,AC Siena,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/luca-belingheri/profil/spieler/28818
+Como Calcio,Luigi Anaclerio,21,Italy,Forward,Forward,-,AS Bari,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/luigi-anaclerio/profil/spieler/22322
+Como Calcio,Denis Godeas,27,Italy,Centre-Forward,CF,-,FC Messina Peloro,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/denis-godeas/profil/spieler/21926
+Como Calcio,Anderson,19,Brazil,Left-Back,LB,-,AS Pordenone Calcio,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/anderson/profil/spieler/34335
+Como Calcio,Jorge Serna,23,Colombia,Centre-Forward,CF,-,Independiente Medellín,Colombia,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/jorge-serna/profil/spieler/90695
+Como Calcio,Daniel Fonseca,33,Uruguay,Centre-Forward,CF,-,Club Nacional,Uruguay,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/daniel-fonseca/profil/spieler/151825
+Piacenza FC,Marco Marchionni,22,Italy,Right Midfield,RM,-,AC Parma,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-marchionni/profil/spieler/5873
+Piacenza FC,Ciro De Cesare,31,Italy,Second Striker,SS,-,Como Calcio,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/ciro-de-cesare/profil/spieler/147617
+Piacenza FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Juventus FC,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/davide-baiocco/profil/spieler/5761
+Piacenza FC,Claudio Ferrarese,24,Italy,Right Winger,RW,-,SSC Napoli,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/claudio-ferrarese/profil/spieler/28852
+Piacenza FC,Sandro Cois,30,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/sandro-cois/profil/spieler/133980
+FC Internazionale,Gabriel Batistuta,33,Argentina,Centre-Forward,CF,-,AS Roma,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/gabriel-batistuta/profil/spieler/5959
+FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,Spezia Calcio 1906,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/alberto-quadri/profil/spieler/40482
+Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,Clube de Regatas do Flamengo,Brazil,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/leonardo/profil/spieler/102586
+AC Parma,Alessandro Pierini,29,Italy,Centre-Back,CB,-,Reggina Calcio,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/alessandro-pierini/profil/spieler/6067
+AC Parma,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,Piacenza FC,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/johnnier-montano/profil/spieler/84326
+AC Parma,Giuseppe Cardone,28,Italy,Right-Back,RB,-,Piacenza FC,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/giuseppe-cardone/profil/spieler/16811
+AC Parma,Alessandro Rosina,18,Italy,Second Striker,SS,-,Parma Primavera,Italy,-,In,2002,w,serie-a,https://www.transfermarkt.co.uk/alessandro-rosina/profil/spieler/16902
+Chievo Verona,Gianluca Grassadonia,30,Italy,Centre-Back,CB,-,Cagliari Calcio,Italy,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/gianluca-grassadonia/profil/spieler/21833
+Chievo Verona,Fredrik Risp,22,Sweden,Centre-Back,CB,-,IFK Göteborg,Sweden,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/fredrik-risp/profil/spieler/6266
+Chievo Verona,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,Como Calcio,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/sasa-bjelanovic/profil/spieler/22187
+AS Roma,Olivier Dacourt,28,France,Defensive Midfield,DM,-,Leeds United,England,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/olivier-dacourt/profil/spieler/3572
+AS Roma,Massimo Marazzina,28,Italy,Centre-Forward,CF,-,Chievo Verona,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/massimo-marazzina/profil/spieler/5930
+Brescia Calcio,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,AS Roma,Italy,£585Th.,In,2002,w,serie-a,https://www.transfermarkt.co.uk/pep-guardiola/profil/spieler/5950
+Brescia Calcio,Fábio Bilica,23,Brazil,Centre-Back,CB,-,US Palermo,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-bilica/profil/spieler/15454
+Bologna FC 1909,Paolo Vanoli,30,Italy,Left-Back,LB,-,Florentia Viola,Italy,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/paolo-vanoli/profil/spieler/4290
+Bologna FC 1909,Steve Gohouri,21,Cote d'Ivoire,Centre-Back,CB,-,Yverdon-Sport FC,Switzerland,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/steve-gohouri/profil/spieler/19857
+Bologna FC 1909,Emiliano Salvetti,29,Italy,Attacking Midfield,AM,-,Hellas Verona,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/emiliano-salvetti/profil/spieler/6001
+FC Empoli,Marco Borriello,20,Italy,Centre-Forward,CF,-,Milan AC,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-borriello/profil/spieler/5825
+FC Empoli,Marco Carparelli,26,Italy,Second Striker,SS,-,Genoa CFC,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-carparelli/profil/spieler/29603
+FC Empoli,Nicola Padoin,23,Italy,Defensive Midfield,DM,-,AC Prato,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-padoin/profil/spieler/44758
+Modena FC,Rune Pedersen,23,Denmark,Goalkeeper,GK,-,FC Copenhagen,Denmark,Free transfer,In,2002,w,serie-a,https://www.transfermarkt.co.uk/rune-pedersen/profil/spieler/22915
+Modena FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Juventus FC,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/emiliano-moretti/profil/spieler/5755
+Modena FC,Giuseppe Colucci,22,Italy,Central Midfield,CM,-,Hellas Verona,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/giuseppe-colucci/profil/spieler/6717
+Modena FC,Fabio Vignaroli,26,Italy,Centre-Forward,CF,-,US Salernitana,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-vignaroli/profil/spieler/17153
+Modena FC,Antonio Marasco,32,Italy,Defensive Midfield,DM,-,US Palermo,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/antonio-marasco/profil/spieler/17147
+Reggina Calcio,Emiliano Bonazzoli,23,Italy,Centre-Forward,CF,-,AC Parma,Italy,£4.05m,In,2002,w,serie-a,https://www.transfermarkt.co.uk/emiliano-bonazzoli/profil/spieler/5877
+Reggina Calcio,Bruno Cirillo,25,Italy,Centre-Back,CB,-,US Lecce,Italy,Loan,In,2002,w,serie-a,https://www.transfermarkt.co.uk/bruno-cirillo/profil/spieler/6062
+Reggina Calcio,Aimo Diana,24,Italy,Right Midfield,RM,-,AC Parma,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+Reggina Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,-,Udinese Calcio,Italy,?,In,2002,w,serie-a,https://www.transfermarkt.co.uk/gonzalo-martinez/profil/spieler/5885
+Torino Calcio,Franco Semioli,22,Italy,Right Winger,RW,-,Vicenza Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/franco-semioli/profil/spieler/6154
+Torino Calcio,Fabio Quagliarella,19,Italy,Centre-Forward,CF,-,Chieti Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-quagliarella/profil/spieler/22328
+Torino Calcio,Fabio Giordano,19,Italy,Defensive Midfield,DM,-,AC Pisa 1909,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-giordano/profil/spieler/22326
+Torino Calcio,Andrea Soncin,19,Italy,Centre-Back,CB,-,Vis Pesaro dal 1898,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/andrea-soncin/profil/spieler/406304
+Juventus FC,Mattia Cassani,19,Italy,Right-Back,RB,-,UC Sampdoria,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/mattia-cassani/profil/spieler/21859
+Juventus FC,Emiliano Moretti,21,Italy,Centre-Back,CB,-,Modena FC,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/emiliano-moretti/profil/spieler/5755
+Juventus FC,Francesco Scardina,21,Italy,Centre-Back,CB,-,L'Aquila Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/francesco-scardina/profil/spieler/22144
+Juventus FC,Davide Baiocco,27,Italy,Defensive Midfield,DM,-,Piacenza FC,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/davide-baiocco/profil/spieler/5761
+Juventus FC,Marco Rigoni,23,Italy,Central Midfield,CM,-,US Triestina,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-rigoni/profil/spieler/21954
+Juventus FC,Aboubacar Fofana,20,France,Left Midfield,LM,-,ASD Sora Calcio 1907,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/aboubacar-fofana/profil/spieler/10256
+Atalanta BC,Apostolos Liolidis,25,Greece,Right Winger,RW,-,Alzano Virescit,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/apostolos-liolidis/profil/spieler/12870
+Atalanta BC,Mauro Minelli,21,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/mauro-minelli/profil/spieler/21693
+Atalanta BC,Fabiano Medina,20,Brazil,Centre-Back,CB,-,Alzano Virescit,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/fabiano-medina/profil/spieler/58452
+Atalanta BC,Federico Pettinà,20,Italy,Midfielder,Midfielder,-,Fermana Calcio 1920,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/federico-pettina/profil/spieler/315487
+Atalanta BC,Yuri Breviario,19,Italy,Central Midfield,CM,-,AC Prato,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/yuri-breviario/profil/spieler/37396
+Atalanta BC,Vinicio Espinal,20,Dominican Republic,Right Midfield,RM,-,Taranto FC 1927,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/vinicio-espinal/profil/spieler/22239
+Atalanta BC,Danilo Zini,24,Italy,Centre-Back,CB,-,Ascoli Calcio 1898,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/danilo-zini/profil/spieler/84575
+Como Calcio,Sasa Bjelanovic,23,Croatia,Centre-Forward,CF,-,Chievo Verona,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/sasa-bjelanovic/profil/spieler/22187
+Como Calcio,Jean-Paul van Gastel,30,Netherlands,Centre-Back,CB,-,De Graafschap Doetinchem,Netherlands,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/jean-paul-van-gastel/profil/spieler/151086
+Como Calcio,Denis Godeas,27,Italy,Centre-Forward,CF,-,AS Bari,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/denis-godeas/profil/spieler/21926
+Como Calcio,Oscar Brevi,35,Italy,Centre-Back,CB,-,US Palermo,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/oscar-brevi/profil/spieler/22302
+Como Calcio,Ciro De Cesare,31,Italy,Second Striker,SS,-,Piacenza FC,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/ciro-de-cesare/profil/spieler/147617
+Piacenza FC,Nicola Caccia,32,Italy,Centre-Forward,CF,-,Como Calcio,Italy,Free transfer,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-caccia/profil/spieler/21912
+Piacenza FC,Paolo Tramezzani,32,Italy,Left-Back,LB,-,Atalanta BC,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/paolo-tramezzani/profil/spieler/6406
+Piacenza FC,Daniele Cacia,19,Italy,Centre-Forward,CF,-,SP Ars et Labor,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/daniele-cacia/profil/spieler/21780
+Piacenza FC,Salvatore Miceli,28,Italy,Defensive Midfield,DM,-,UC Sampdoria,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/salvatore-miceli/profil/spieler/21795
+Piacenza FC,Dario Marcolin,31,Italy,Defensive Midfield,DM,-,SSC Napoli,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/dario-marcolin/profil/spieler/3510
+Piacenza FC,Giuseppe Cardone,28,Italy,Right-Back,RB,-,AC Parma,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/giuseppe-cardone/profil/spieler/16811
+Piacenza FC,Marco Stella,21,Italy,Midfielder,Midfielder,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-stella/profil/spieler/21898
+Piacenza FC,Johnnier Montaño,19,Colombia,Attacking Midfield,AM,-,AC Parma,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/johnnier-montano/profil/spieler/84326
+FC Internazionale,Francisco Farinós,24,Spain,Defensive Midfield,DM,-,Villarreal CF,Spain,Loan fee:£675Th.,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/francisco-farinos/profil/spieler/5785
+FC Internazionale,Alberto Quadri,19,Italy,Defensive Midfield,DM,-,AC Mantova 1911,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/alberto-quadri/profil/spieler/40482
+FC Internazionale,Antonio Pacheco,26,Uruguay,Second Striker,SS,-,CA Peñarol,Uruguay,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/antonio-pacheco/profil/spieler/15306
+Milan AC,Marco Borriello,20,Italy,Centre-Forward,CF,-,FC Empoli,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-borriello/profil/spieler/5825
+Milan AC,Mohamed Sarr,19,Senegal,Centre-Back,CB,-,Ancona Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/mohamed-sarr/profil/spieler/19450
+Milan AC,Massimo Donati,21,Italy,Defensive Midfield,DM,-,Torino Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/massimo-donati/profil/spieler/5870
+Milan AC,Leonardo,33,Brazil,Attacking Midfield,AM,-,,Retired,-,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/leonardo/profil/spieler/102586
+SS Lazio,Iván De La Peña,26,Spain,Attacking Midfield,AM,-,RCD Espanyol Barcelona,Spain,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/ivan-de-la-pena/profil/spieler/8037
+SS Lazio,Christian Manfredini,27,Cote d'Ivoire,Left Winger,LW,-,CA Osasuna,Spain,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/christian-manfredini/profil/spieler/5850
+AC Parma,Emiliano Bonazzoli,23,Italy,Centre-Forward,CF,-,Reggina Calcio,Italy,£4.05m,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/emiliano-bonazzoli/profil/spieler/5877
+AC Parma,Vratislav Gresko,25,Slovakia,Left-Back,LB,-,Blackburn Rovers,England,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/vratislav-gresko/profil/spieler/71
+AC Parma,Aimo Diana,24,Italy,Right Midfield,RM,-,Reggina Calcio,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/aimo-diana/profil/spieler/6749
+AC Parma,Marco Marchionni,22,Italy,Right Midfield,RM,-,Piacenza FC,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-marchionni/profil/spieler/5873
+Udinese Calcio,Winston Parks,21,Costa Rica,Centre-Forward,CF,-,Lokomotiv Moscow,Russia,£1.62m,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/winston-parks/profil/spieler/9655
+Udinese Calcio,Vito Raimondi,19,Italy,Attacking Midfield,AM,-,SV Darmstadt 98,Germany,Free transfer,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/vito-raimondi/profil/spieler/2818
+Udinese Calcio,Gonzalo Martínez,27,Colombia,Right-Back,RB,-,Reggina Calcio,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/gonzalo-martinez/profil/spieler/5885
+Udinese Calcio,Mohammed Gargo,27,Ghana,Centre-Back,CB,-,AC Venezia 1907,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/mohammed-gargo/profil/spieler/5887
+Udinese Calcio,Maurizio Bedin,23,Italy,Central Midfield,CM,-,Cosenza Calcio 1914,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/maurizio-bedin/profil/spieler/5898
+Udinese Calcio,Roberto Sosa,27,Argentina,Centre-Forward,CF,-,Club de Gimnasia y Esgrima La Plata,Argentina,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/roberto-sosa/profil/spieler/19285
+Chievo Verona,Massimo Marazzina,28,Italy,Centre-Forward,CF,-,AS Roma,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/massimo-marazzina/profil/spieler/5930
+Chievo Verona,Stefano Garzon,21,Italy,Defensive Midfield,DM,-,Varese FC,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/stefano-garzon/profil/spieler/28836
+Chievo Verona,Jin-ho Lee,18,"Korea, South",Centre-Forward,CF,-,Ulsan Hyundai,"Korea, South",?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/jin-ho-lee/profil/spieler/92098
+Chievo Verona,Dario Passoni,28,Italy,Central Midfield,CM,-,Uralan Elista,Russia,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/dario-passoni/profil/spieler/21234
+Chievo Verona,Moreno Longo,26,Italy,Right-Back,RB,-,Cagliari Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/moreno-longo/profil/spieler/5915
+Chievo Verona,Maurizio D'Angelo,33,Italy,Centre-Back,CB,-,SSC Napoli,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/maurizio-dangelo/profil/spieler/5911
+Chievo Verona,Tommaso Chiecchi,23,Italy,Centre-Back,CB,-,Varese FC,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/tommaso-chiecchi/profil/spieler/5918
+AS Roma,Fábio Júnior,25,Brazil,Centre-Forward,CF,-,Vitória Guimarães SC,Portugal,£720Th.,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-junior/profil/spieler/37499
+AS Roma,Pep Guardiola,31,Spain,Defensive Midfield,DM,-,Brescia Calcio,Italy,£585Th.,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/pep-guardiola/profil/spieler/5950
+AS Roma,Gabriel Batistuta,33,Argentina,Centre-Forward,CF,-,FC Internazionale,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/gabriel-batistuta/profil/spieler/5959
+Brescia Calcio,Federico Giunti,31,Italy,Defensive Midfield,DM,-,Besiktas JK,Turkey,£2.25m,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/federico-giunti/profil/spieler/6874
+Brescia Calcio,Marius Stankevicius,21,Lithuania,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marius-stankevicius/profil/spieler/5966
+Brescia Calcio,Raúl González,26,Argentina,Forward,Forward,-,US Salernitana,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/raul-gonzalez/profil/spieler/30922
+Brescia Calcio,Massimiliano Caputo,22,Italy,Left Winger,LW,-,ASD Sora Calcio 1907,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/massimiliano-caputo/profil/spieler/5983
+Brescia Calcio,Simone Del Nero,21,Italy,Left Winger,LW,-,US Palermo,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/simone-del-nero/profil/spieler/5982
+Brescia Calcio,Massimiliano Esposito,30,Italy,Right Midfield,RM,-,Ternana Calcio,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/massimiliano-esposito/profil/spieler/21817
+Brescia Calcio,Roberto Guana,21,Italy,Central Midfield,CM,-,Cagliari Calcio,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/roberto-guana/profil/spieler/5976
+Brescia Calcio,Luca Castellazzi,27,Italy,Goalkeeper,GK,-,Calcio Catania,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/luca-castellazzi/profil/spieler/6058
+Brescia Calcio,Mario Salgado,21,Chile,Centre-Forward,CF,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/mario-salgado/profil/spieler/5984
+Brescia Calcio,Simone Dallamano,19,Italy,Left-Back,LB,-,AC Prato,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/simone-dallamano/profil/spieler/21684
+Brescia Calcio,Alejandro Correa,23,Uruguay,Defensive Midfield,DM,-,AC Martina 1947,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/alejandro-correa/profil/spieler/5977
+AC Perugia,Donovan Maury,21,Belgium,Right-Back,RB,-,Roda JC Kerkrade,Netherlands,Free transfer,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/donovan-maury/profil/spieler/102538
+AC Perugia,Silvio Spann,21,Trinidad and Tobago,Defensive Midfield,DM,-,US Sambenedettese,Italy,Free transfer,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/silvio-spann/profil/spieler/35845
+AC Perugia,Nicola Amoruso,28,Italy,Centre-Forward,CF,-,Como Calcio,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-amoruso/profil/spieler/4150
+AC Perugia,Giuseppe Aprea,25,Italy,Goalkeeper,GK,-,ASD Sora Calcio 1907,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/giuseppe-aprea/profil/spieler/8192
+AC Perugia,Samuel,28,Brazil,Centre-Back,CB,-,Criciúma Esporte Clube,Brazil,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/samuel/profil/spieler/192990
+AC Perugia,Antonio Criniti,32,Italy,Forward,Forward,-,US Sambenedettese,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/antonio-criniti/profil/spieler/6099
+AC Perugia,Paolo Zaccagnini,25,Italy,Right Midfield,RM,-,ASD Sora Calcio 1907,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/paolo-zaccagnini/profil/spieler/497467
+Bologna FC 1909,Roberto Goretti,26,Italy,Defensive Midfield,DM,-,AC Reggiana 1919,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/roberto-goretti/profil/spieler/6002
+Bologna FC 1909,Andrea Ardito,25,Italy,Defensive Midfield,DM,-,AC Siena,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/andrea-ardito/profil/spieler/15332
+Bologna FC 1909,Fabio Macellari,28,Italy,Left-Back,LB,-,Cagliari Calcio,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/fabio-macellari/profil/spieler/5999
+Bologna FC 1909,Emanuele Brioschi,27,Italy,Centre-Back,CB,-,Cosenza Calcio 1914,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/emanuele-brioschi/profil/spieler/5992
+FC Empoli,Davide Matteini,20,Italy,Left Winger,LW,-,US Palermo,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/davide-matteini/profil/spieler/29593
+FC Empoli,Michele Fusi,22,Italy,Centre-Back,CB,-,UC AlbinoLeffe,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/michele-fusi/profil/spieler/309616
+FC Empoli,Alessandro Agostini,23,Italy,Left-Back,LB,-,AC Siena,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/alessandro-agostini/profil/spieler/17171
+FC Empoli,Giacomo Mazzi,23,Italy,Goalkeeper,GK,-,US Viterbese,Italy,-,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/giacomo-mazzi/profil/spieler/136119
+Modena FC,Marco Zamboni,25,Italy,Centre-Back,CB,-,Hellas Verona,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/marco-zamboni/profil/spieler/6036
+Modena FC,Lorenzo Del Sole,18,Italy,Midfielder,Midfielder,-,Carpi FC 1909,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/lorenzo-del-sole/profil/spieler/339242
+Modena FC,Carlo Taldo,30,Italy,Centre-Forward,CF,-,Calcio Catania,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/carlo-taldo/profil/spieler/6051
+Modena FC,Alessio Sestu,19,Italy,Right Winger,RW,-,ACD Treviso,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/alessio-sestu/profil/spieler/23367
+Reggina Calcio,Alessandro Pierini,29,Italy,Centre-Back,CB,-,AC Parma,Italy,?,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/alessandro-pierini/profil/spieler/6067
+Reggina Calcio,Nassim Mendil,23,France,Centre-Forward,CF,-,Ascoli Calcio 1898,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/nassim-mendil/profil/spieler/28854
+Reggina Calcio,Nicola Carlo Pagani,25,Italy,Centre-Back,CB,-,SP Ars et Labor,Italy,Loan,Out,2002,w,serie-a,https://www.transfermarkt.co.uk/nicola-carlo-pagani/profil/spieler/43225
